@@ -1,0 +1,913 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.5 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="OSN Movies HD">
+    <display-name lang="en">OSN Movies HD</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="OSN Movies First HD">
+    <display-name lang="en">OSN Movies First HD</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="OSN Movies First HD +2h">
+    <display-name lang="en">OSN Movies First HD +2h</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="OSN Movies Action HD">
+    <display-name lang="en">OSN Movies Action HD</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="OSN Movies Action +2">
+    <display-name lang="en">OSN Movies Action +2</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="OSN Movies HD Premier">
+    <display-name lang="en">OSN Movies HD Premier</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="OSN Movies +2h">
+    <display-name lang="en">OSN Movies +2h</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="OSN Movies Thriller HD">
+    <display-name lang="en">OSN Movies Thriller HD</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="OSN Movies Thriller +2h">
+    <display-name lang="en">OSN Movies Thriller +2h</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="OSN Movies Festival HD">
+    <display-name lang="en">OSN Movies Festival HD</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/OMF.png" />
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="OSN Movies Kids HD">
+    <display-name lang="en">OSN Movies Kids HD</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="OSN Movies Family HD">
+    <display-name lang="en">OSN Movies Family HD</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="OSN Movies Comedy HD">
+    <display-name lang="en">OSN Movies Comedy HD</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="OSN Movies Box Office 1 HD">
+    <display-name lang="en">OSN Movies Box Office 1 HD</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="OSN Movies Box Office 2">
+    <display-name lang="en">OSN Movies Box Office 2</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="OSN Movies Box Office 3">
+    <display-name lang="en">OSN Movies Box Office 3</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Sundance TV">
+    <display-name lang="en">Sundance TV</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Star Movies HD">
+    <display-name lang="en">Star Movies HD</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Sony Max Middle East">
+    <display-name lang="en">Sony Max Middle East</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Star Gold">
+    <display-name lang="en">Star Gold</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Zee Cinema">
+    <display-name lang="en">Zee Cinema</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="UTV Movies">
+    <display-name lang="en">UTV Movies</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="OSN Ya Hala Al Oula">
+    <display-name lang="en">OSN Ya Hala Al Oula</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="OSN Ya Hala Al Oula +2h">
+    <display-name lang="en">OSN Ya Hala Al Oula +2h</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="OSN Ya Hala HD">
+    <display-name lang="en">OSN Ya Hala HD</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="OSN Yahala Cinema HD">
+    <display-name lang="en">OSN Yahala Cinema HD</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Series Channel">
+    <display-name lang="en">Series Channel</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Series +2">
+    <display-name lang="en">Series +2</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Al Yawm">
+    <display-name lang="en">Al Yawm</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Al Safwa">
+    <display-name lang="en">Al Safwa</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Fann">
+    <display-name lang="en">Fann</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Cinema 1">
+    <display-name lang="en">Cinema 1</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Cinema 2">
+    <display-name lang="en">Cinema 2</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Music Now">
+    <display-name lang="en">Music Now</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Hekayat">
+    <display-name lang="en">Hekayat</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Hekayat 2">
+    <display-name lang="en">Hekayat 2</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="ART Aflam 1">
+    <display-name lang="en">ART Aflam 1</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="ART Aflam 2">
+    <display-name lang="en">ART Aflam 2</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="ART Cinema">
+    <display-name lang="en">ART Cinema</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="AD Drama + HD">
+    <display-name lang="en">AD Drama + HD</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="OSN Series First HD">
+    <display-name lang="en">OSN Series First HD</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="OSN First HBO HD">
+    <display-name lang="en">OSN First HBO HD</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="OSN Series HD">
+    <display-name lang="en">OSN Series HD</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="OSN Series Comedy HD">
+    <display-name lang="en">OSN Series Comedy HD</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="OSN Series Comedy HD +2h">
+    <display-name lang="en">OSN Series Comedy HD +2h</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Comedy Central">
+    <display-name lang="en">Comedy Central</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Syfy HD">
+    <display-name lang="en">Syfy HD</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Star World HD">
+    <display-name lang="en">Star World HD</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="TLC HD">
+    <display-name lang="en">TLC HD</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="E! Entertainment HD">
+    <display-name lang="en">E! Entertainment HD</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="BBC First HD">
+    <display-name lang="en">BBC First HD</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="ITV Choice HD">
+    <display-name lang="en">ITV Choice HD</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Food Network HD">
+    <display-name lang="en">Food Network HD</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/FNH.png" />
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Fine Living">
+    <display-name lang="en">Fine Living</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/FIN.png" />
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Fashion TV HD">
+    <display-name lang="en">Fashion TV HD</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Travel Channel">
+    <display-name lang="en">Travel Channel</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/TRA.png" />
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="\\u0026 TV">
+    <display-name lang="en">\\u0026 TV</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Star Plus Middle East">
+    <display-name lang="en">Star Plus Middle East</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Zee TV">
+    <display-name lang="en">Zee TV</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="SET Middle East">
+    <display-name lang="en">SET Middle East</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Colors">
+    <display-name lang="en">Colors</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Hum TV Middle East">
+    <display-name lang="en">Hum TV Middle East</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Rishtey TV">
+    <display-name lang="en">Rishtey TV</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Life OK Middle East">
+    <display-name lang="en">Life OK Middle East</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Sab TV">
+    <display-name lang="en">Sab TV</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Ary Digital TV">
+    <display-name lang="en">Ary Digital TV</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="GEO TV">
+    <display-name lang="en">GEO TV</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Masala TV">
+    <display-name lang="en">Masala TV</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Kiran TV">
+    <display-name lang="en">Kiran TV</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Urdu 1">
+    <display-name lang="en">Urdu 1</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Sun TV">
+    <display-name lang="en">Sun TV</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Star Vijay International">
+    <display-name lang="en">Star Vijay International</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Asianet">
+    <display-name lang="en">Asianet</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Surya TV">
+    <display-name lang="en">Surya TV</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Udaya TV">
+    <display-name lang="en">Udaya TV</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/UDA.png" />
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Gemini TV">
+    <display-name lang="en">Gemini TV</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Star Jalsha">
+    <display-name lang="en">Star Jalsha</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Star Pravah">
+    <display-name lang="en">Star Pravah</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="MTV Live HD">
+    <display-name lang="en">MTV Live HD</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="VH1">
+    <display-name lang="en">VH1</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Trace Urban">
+    <display-name lang="en">Trace Urban</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Sony MIX">
+    <display-name lang="en">Sony MIX</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="MTV India">
+    <display-name lang="en">MTV India</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Bindaas">
+    <display-name lang="en">Bindaas</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/UTV.png" />
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Disney HD">
+    <display-name lang="en">Disney HD</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Disney XD">
+    <display-name lang="en">Disney XD</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Disney Junior">
+    <display-name lang="en">Disney Junior</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Nickelodeon HD">
+    <display-name lang="en">Nickelodeon HD</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Nick Jr">
+    <display-name lang="en">Nick Jr</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="NickToons">
+    <display-name lang="en">NickToons</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="OSN Kid Zone TV">
+    <display-name lang="en">OSN Kid Zone TV</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Baby TV Europe">
+    <display-name lang="en">Baby TV Europe</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="OSN News">
+    <display-name lang="en">OSN News</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Sky News HD">
+    <display-name lang="en">Sky News HD</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="BBC World">
+    <display-name lang="en">BBC World</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Fox News">
+    <display-name lang="en">Fox News</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="CNBC">
+    <display-name lang="en">CNBC</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Bloomberg">
+    <display-name lang="en">Bloomberg</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="CCTV News">
+    <display-name lang="en">CCTV News</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="France 24 English">
+    <display-name lang="en">France 24 English</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="NHK World TV">
+    <display-name lang="en">NHK World TV</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Dunya News">
+    <display-name lang="en">Dunya News</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="ARY News">
+    <display-name lang="en">ARY News</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Geo News">
+    <display-name lang="en">Geo News</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="ABP News India">
+    <display-name lang="en">ABP News India</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Aaj Tak">
+    <display-name lang="en">Aaj Tak</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Times Now">
+    <display-name lang="en">Times Now</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="NDTV 24x7">
+    <display-name lang="en">NDTV 24x7</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Asianet News">
+    <display-name lang="en">Asianet News</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Sky News Arabia HD">
+    <display-name lang="en">Sky News Arabia HD</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Sky News Arabia">
+    <display-name lang="en">Sky News Arabia</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Alarabiya">
+    <display-name lang="en">Alarabiya</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/ARH.png" />
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="France 24">
+    <display-name lang="en">France 24</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="CCTV Arabic">
+    <display-name lang="en">CCTV Arabic</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Discovery HD">
+    <display-name lang="en">Discovery HD</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Discovery Family HD">
+    <display-name lang="en">Discovery Family HD</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Discovery Science HD">
+    <display-name lang="en">Discovery Science HD</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="IDX HD">
+    <display-name lang="en">IDX HD</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Crime \\u0026 Investigation Network">
+    <display-name lang="en">Crime and Investigation Network</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="History HD">
+    <display-name lang="en">History HD</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="H2 HD">
+    <display-name lang="en">H2 HD</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Animal Planet HD">
+    <display-name lang="en">Animal Planet HD</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Nat Geo HD">
+    <display-name lang="en">Nat Geo HD</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Nat Geo Wild HD">
+    <display-name lang="en">Nat Geo Wild HD</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Nat Geo People HD">
+    <display-name lang="en">Nat Geo People HD</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="OSN Sports Action 1 HD">
+    <display-name lang="en">OSN Sports Action 1 HD</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="OSN Sports Action 2 HD">
+    <display-name lang="en">OSN Sports Action 2 HD</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="OSN Sports 3 HD">
+    <display-name lang="en">OSN Sports 3 HD</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="OSN Sports 4 HD">
+    <display-name lang="en">OSN Sports 4 HD</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="OSN Sports 5 HD">
+    <display-name lang="en">OSN Sports 5 HD</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="OSN WWE Network HD">
+    <display-name lang="en">OSN WWE Network HD</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="OSN Sports Cricket HD">
+    <display-name lang="en">OSN Sports Cricket HD</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Ten Cricket International">
+    <display-name lang="en">Ten Cricket International</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="OSN Fight Network HD">
+    <display-name lang="en">OSN Fight Network HD</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/FNW.png" />
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Fuel TV">
+    <display-name lang="en">Fuel TV</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Ginx Esports TV HD">
+    <display-name lang="en">Ginx Esports TV HD</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="AD Sports 3 HD">
+    <display-name lang="en">AD Sports 3 HD</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="AD Sports 4 HD">
+    <display-name lang="en">AD Sports 4 HD</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="AD Sports 5 HD">
+    <display-name lang="en">AD Sports 5 HD</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="AD Sports 6 HD">
+    <display-name lang="en">AD Sports 6 HD</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Edge Sport HD">
+    <display-name lang="en">Edge Sport HD</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Dubai Sports 4 HD">
+    <display-name lang="en">Dubai Sports 4 HD</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/DS5.png" />
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Dubai Sports 2 HD">
+    <display-name lang="en">Dubai Sports 2 HD</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/DH2.png" />
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="TFC">
+    <display-name lang="en">TFC</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="ABS-CBN Sports+Action">
+    <display-name lang="en">ABS CBN Sports+ Action</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Cinema One Global">
+    <display-name lang="en">Cinema One Global</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="ANC">
+    <display-name lang="en">ANC</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="DZMM Teleradyo">
+    <display-name lang="en">DZMM Teleradyo</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="DWRR 101.9">
+    <display-name lang="en">DWRR 101.9</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Viva TV">
+    <display-name lang="en">Viva TV</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Kapatid TV5">
+    <display-name lang="en">Kapatid TV5</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Aksyon TV">
+    <display-name lang="en">Aksyon TV</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Cine Mo">
+    <display-name lang="en">Cine Mo</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Lifestyle Network">
+    <display-name lang="en">Lifestyle Network</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="GMA Pinoy TV">
+    <display-name lang="en">GMA Pinoy TV</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="GMA Life TV">
+    <display-name lang="en">GMA Life TV</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="GMA News TV">
+    <display-name lang="en">GMA News TV</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="MBC 1">
+    <display-name lang="en">MBC 1</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="MBC 4">
+    <display-name lang="en">MBC 4</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="MBC Drama">
+    <display-name lang="en">MBC Drama</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="MBC 2">
+    <display-name lang="en">MBC 2</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="MBC MAX">
+    <display-name lang="en">MBC MAX</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/MHM.png" />
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="MBC Action">
+    <display-name lang="en">MBC Action</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Setanta">
+    <display-name lang="en">Setanta</display-name>
+    <icon src="https://eirsport.ie/Themes/eir/imgs/channel_logos/Setanta.png" />
+    <url>http://www.eirsport.ie</url>
+  </channel>
+  <programme start="20180925003000 +0000" stop="20180925013000 +0000" channel="Setanta">
+    <title lang="en">Jon Rahm &amp; Larry Fitzgerald</title>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20180925013000 +0000" stop="20180925020000 +0000" channel="Setanta">
+    <title lang="en">UK Challenge</title>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20180925020000 +0000" stop="20180925040000 +0000" channel="Setanta">
+    <title lang="en">Connacht v Scarlets</title>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20180925040000 +0000" stop="20180925060000 +0000" channel="Setanta">
+    <title lang="en">Leinster v Edinburgh</title>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20180925060000 +0000" stop="20180925073000 +0000" channel="Setanta">
+    <title lang="en">Kerry v Tyrone 1986</title>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20180925073000 +0000" stop="20180925090000 +0000" channel="Setanta">
+    <title lang="en">Meath v Cork 1988</title>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20180925090000 +0000" stop="20180925093000 +0000" channel="Setanta">
+    <title lang="en">Horse Racing</title>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20180925093000 +0000" stop="20180925103000 +0000" channel="Setanta">
+    <title lang="en">Atlantic's Edge- Year in Lahinch</title>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20180925103000 +0000" stop="20180925113000 +0000" channel="Setanta">
+    <title lang="en">Jon Rahm &amp; Larry Fitzgerald</title>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20180925113000 +0000" stop="20180925120000 +0000" channel="Setanta">
+    <title lang="en">On The Limit Sports</title>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20180925120000 +0000" stop="20180925140000 +0000" channel="Setanta">
+    <title lang="en">Southern Kings v Glasgow</title>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20180925140000 +0000" stop="20180925160000 +0000" channel="Setanta">
+    <title lang="en">Connacht v Scarlets</title>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20180925160000 +0000" stop="20180925163000 +0000" channel="Setanta">
+    <title lang="en">Arsenal v Man United 99/00</title>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20180925163000 +0000" stop="20180925173000 +0000" channel="Setanta">
+    <title lang="en">AJ Bell London Triathlon</title>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20180925173000 +0000" stop="20180925180000 +0000" channel="Setanta">
+    <title lang="en">On The Limit Sports</title>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20180925180000 +0000" stop="20180925190000 +0000" channel="Setanta">
+    <title lang="en">Golf Central</title>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20180925190000 +0000" stop="20180925193000 +0000" channel="Setanta">
+    <title lang="en">Akyaka, Turkey</title>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20180925193000 +0000" stop="20180925221500 +0000" channel="Setanta">
+    <title lang="en">!Live - Dundalk v Derry City</title>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20180925221500 +0000" stop="20180925223000 +0000" channel="Setanta">
+    <title lang="en">eir Sport Extra</title>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20180925223000 +0000" stop="20180925230000 +0000" channel="Setanta">
+    <title lang="en">Street Racers</title>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20180925230000 +0000" stop="20180926010000 +0000" channel="Setanta">
+    <title lang="en">Dragons v Zebre</title>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20180926010000 +0000" stop="20180926003000 +0000" channel="Setanta">
+    <title lang="en">Dundalk v Derry City</title>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20180926003000 +0000" stop="20180926013000 +0000" channel="Setanta">
+    <title lang="en">Fight of the Year - The Contenders</title>
+    <desc lang="en">Cartwright v Tetley. We've selected eight of the most stunning all-out battles seen so far on BoxNation this year. This week the bloody welterweight battle at Elland Road.(n)</desc>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20180926013000 +0000" stop="20180926020000 +0000" channel="Setanta">
+    <title lang="en">Boxing Matters Top 10 British..</title>
+    <desc lang="en">...Lightweights. Colin Hart and Alan Hubbard are in the Boxing Matters studio to put forward their Top 10 British Lightweights of the modern era.(n)</desc>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20180926020000 +0000" stop="20180926030000 +0000" channel="Setanta">
+    <title lang="en">Main Events - Ramirez v Hart</title>
+    <desc lang="en">September 2017. WBO World Super-Middleweight Champion Gilberto Ramirez defends his title against mandatory challenger Jesse Hart.(n)</desc>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20180926030000 +0000" stop="20180926040000 +0000" channel="Setanta">
+    <title lang="en">Fight To Remember Woods v Johnson</title>
+    <desc lang="en">It's back to September 2006 as Clinton Woods and Glen Johnson completed their epic trilogy in a final battle for the IBF World Light Heavyweight title.(n)</desc>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20180926040000 +0000" stop="20180926050000 +0000" channel="Setanta">
+    <title lang="en">Main Events - Lemieux v Reyes</title>
+    <desc lang="en">May 2017. David Lemieux takes on the up and coming Marcos Reyes.(n)</desc>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20180926050000 +0000" stop="20180926060000 +0000" channel="Setanta">
+    <title lang="en">BoxNation Presents</title>
+    <desc lang="en">BoxNation Presents- The Alexandra Pavilion in London hosts Maurizio Stecca, two time world featherweight champion, as he defends his title against stylish east-end native Colin McMillan.(n)</desc>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20180926060000 +0000" stop="20180926103000 +0000" channel="Setanta">
+    <title lang="en">Uncut: Price v Skelton</title>
+    <desc lang="en">While David Price defended his heavyweight belts against Matt Skelton at Aintree, Ashes hero Freddie Flintoff was warming up for his pro boxing debut in Manchester. Both fights, both nights, uncut.(n)</desc>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20180926103000 +0000" stop="20180926110000 +0000" channel="Setanta">
+    <title lang="en">Boxing Matters Top 10 British..</title>
+    <desc lang="en">...Lightweights. Colin Hart and Alan Hubbard are in the Boxing Matters studio to put forward their Top 10 British Lightweights of the modern era.(n)</desc>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20180926110000 +0000" stop="20180926120000 +0000" channel="Setanta">
+    <title lang="en">Fight To Remember Cotto v Margarito</title>
+    <desc lang="en">We go back to July 2008 and a sold out Madison Square Garden where World Champion Miguel Cotto put his WBA light-middleweight title on the line against the hard man from Tijuana, Antonio Margarito.(n)</desc>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20180926120000 +0000" stop="20180926130000 +0000" channel="Setanta">
+    <title lang="en">Main Events - Garcia v Peterson</title>
+    <desc lang="en">Another chance to see the non-title fight between top Light Welterweights Danny Garcia and Lamont Peterson, which took place in New York in April 2015.(n)</desc>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20180926130000 +0000" stop="20180926140000 +0000" channel="Setanta">
+    <title lang="en">Main Events - Mathews v Luis</title>
+    <desc lang="en">Another chance to see Liverpool's Derry Mathews fight Canadian Tony Luis for the interim WBA Lightweight title, which took place at the Echo Arena in Liverpool in April 2015.(n)</desc>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20180926140000 +0000" stop="20180926150000 +0000" channel="Setanta">
+    <title lang="en">BoxNation Presents</title>
+    <desc lang="en">April, 2007, and the Margate Rock Mehrdud Takaloo had just taken the WBU World welterweight crown. His first defence came against Michael Jennings at the Millennium Stadium.(n)</desc>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20180926150000 +0000" stop="20180926153000 +0000" channel="Setanta">
+    <title lang="en">Boxing Matters Top 10 British..</title>
+    <desc lang="en">...Lightweights. Colin Hart and Alan Hubbard are in the Boxing Matters studio to put forward their Top 10 British Lightweights of the modern era.(n)</desc>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20180926153000 +0000" stop="20180926190000 +0000" channel="Setanta">
+    <title lang="en">Uncut: Garcia v Porter</title>
+    <desc lang="en">Welterweight stars and former 147 pound title holders Danny 'Swift' Garcia and 'Showtime' Shawn Porter square off for the vacant WBC Welterweight World Championship.The whole night, uncut.(n)</desc>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20180926190000 +0000" stop="20180926223000 +0000" channel="Setanta">
+    <title lang="en">Uncut: Ramirez v Orozco</title>
+    <desc lang="en">Jose Ramirez returns to BoxNation as he makes the first defence of his WBC Super-Lightweight crown against unbeaten Antonio Orozco, the number three challenger for his belt.The whole night, uncut.(n)</desc>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20180926223000 +0000" stop="20180926230000 +0000" channel="Setanta">
+    <title lang="en">Boxing Matters - Trainer Special</title>
+    <desc lang="en">Colin Hart and Alan Hubbard are in the Boxing Matters studio to discuss the history, and the role, of the fighter's trainer.(n)</desc>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20180926230000 +0000" stop="20180927020000 +0000" channel="Setanta">
+    <title lang="en">Mchunu v Oosthuizen</title>
+    <desc lang="en">Thabiso 'The Rock' Mchunu takes on the former IBO Super Middleweight and Light Heavyweight titlist Thomas 'Tommy Gun' Oosthuizen.(n)</desc>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20180927020000 +0000" stop="20180927000000 +0000" channel="Setanta">
+    <title lang="en">Main Events - Valdez v Servania</title>
+    <desc lang="en">October 2017. Oscar Valdez defends his WBO World Featherweight Title against Genesis Servania.(n)</desc>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20180927000000 +0000" stop="20180927030000 +0000" channel="Setanta">
+    <title lang="en">Live: Major League Baseball</title>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20180927030000 +0000" stop="20180927060000 +0000" channel="Setanta">
+    <title lang="en">MLB</title>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20180927060000 +0000" stop="20180927063000 +0000" channel="Setanta">
+    <title lang="en">Pardon the Interruption</title>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20180927063000 +0000" stop="20180927073000 +0000" channel="Setanta">
+    <title lang="en">MLB Intentional Talk</title>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20180927073000 +0000" stop="20180927080000 +0000" channel="Setanta">
+    <title lang="en">Around the Horn</title>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20180927080000 +0000" stop="20180927110000 +0000" channel="Setanta">
+    <title lang="en">College Football</title>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20180927110000 +0000" stop="20180927113000 +0000" channel="Setanta">
+    <title lang="en">Pardon the Interruption</title>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20180927113000 +0000" stop="20180927120000 +0000" channel="Setanta">
+    <title lang="en">ESPN FC 2018</title>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20180927120000 +0000" stop="20180927150000 +0000" channel="Setanta">
+    <title lang="en">MLB</title>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20180927150000 +0000" stop="20180927180000 +0000" channel="Setanta">
+    <title lang="en">MLB</title>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20180927180000 +0000" stop="20180927200000 +0000" channel="Setanta">
+    <title lang="en">French Ligue 1</title>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20180927200000 +0000" stop="20180927220000 +0000" channel="Setanta">
+    <title lang="en">French Ligue 1</title>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20180927220000 +0000" stop="20180927223000 +0000" channel="Setanta">
+    <title lang="en">BT Sport Reload</title>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20180927223000 +0000" stop="20180927230000 +0000" channel="Setanta">
+    <title lang="en">College Football Live</title>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20180927230000 +0000" stop="20180928000000 +0000" channel="Setanta">
+    <title lang="en">NHRA Drag Racing Highlights</title>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20180928000000 +0000" stop="20180928030000 +0000" channel="Setanta">
+    <title lang="en">MLB</title>
+    <category lang="en">Other Sports</category>
+  </programme>
+</tv>
