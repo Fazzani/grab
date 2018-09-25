@@ -9,7 +9,7 @@ The path (required) + filename where the epgguide xml file is /will be located. 
 If the file already exist (from last run or from another xmltv source) it will read it and use what fits the requested output. In that case the file will be updated. If no such file exist it will be created.
 Change the following to your own needs  :
 -->
- <filename>fr_epg.xmltv</filename>
+ <filename>fr_telerama.xmltv</filename>
   
   <!-- modes:   
 d or debug    saves the output xmltv file in a file with -debug addition in the file name . The original xmltv file will be kept.  
@@ -210,4 +210,9 @@ If no value is entered here the individual 'update' values from the channellist 
     <channel update="i" site="telerama.fr" site_id="stingray-brava,835" xmltv_id="Stingray Brava">Stingray Brava</channel>
     <channel update="i" site="telerama.fr" site_id="boing,924" xmltv_id="Boing">Boing</channel>
     <channel update="i" site="telerama.fr" site_id="nickelodeon-junior,888" xmltv_id="Nickelodeon Junior">Nickelodeon Junior</channel>
+    
+	  <channel update="i" site="tv.orange.fr" site_id="d8_CNT0000008o0Gb.html" xmltv_id="D8">D8</channel>
+    <channel update="i" site="tv.orange.fr" site_id="d17_CNT0000008o0A5.html" xmltv_id="D17">D17</channel>
+    <channel update="i" site="tv.orange.fr" site_id="science-vie-tv_CNT0000008o0x2.html" xmltv_id="SCIENCE et VIE TV">SCIENCE et VIE TV</channel>
+    <channel update="i" site="tv.orange.fr" site_id="chasse-peche_CNT0000008o0qN.html" xmltv_id="CHASSE PECHE">CHASSE PECHE</channel>
     </settings>
