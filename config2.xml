@@ -1,6 +1,6 @@
 <settings>
     <!-- for detailed info about the settings see http://webgrabplus.com/documentation/configuration/webgrabconfigxml -->
-    <filename>/data/guide2.xml</filename>
+    <filename>/data/guide2.xmltv</filename>
     <mode>m</mode>
     <postprocess grab="y" run="n">mdb</postprocess>
     <user-agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0</user-agent>
