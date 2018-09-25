@@ -15,8 +15,8 @@ jobs:
         matrix:
           - WEBGRAB_FILENAME=config.xml
           - WEBGRAB_FILENAME=config2.xml
-      script: >
-      docker run -it --rm -v "${PWD}/${WEBGRAB_FILENAME}:/config2/WebGrab++.config.xml" -v "${PWD}:/data" synker/webgraboneshot:latest
+      script:
+      - docker run -it --rm -v "${PWD}/${WEBGRAB_FILENAME}:/config2/WebGrab++.config.xml" -v "${PWD}:/data" synker/webgraboneshot:latest
     - stage: Pushing to git
       script: 
       - git remote add origin2 https://${GITHUB_API_TOKEN}@github.com/fazzani/testWebgrab.git > /dev/null 2>&1
