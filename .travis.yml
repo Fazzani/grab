@@ -10,16 +10,14 @@ if: (commit_message =~ ^daily) AND (branch = master)
 
 jobs:
   include:
-    - stage: Pulling docker image
-      script:
-      - docker pull synker/webgraboneshot:latest
-    - stage: Webgrabbing
+    - stage: WebGrabbing
       env:
-        - WEBGRAB_FILENAME=config.xml
-        - WEBGRAB_FILENAME=config2.xml
-      script:
-      - docker run -it --rm -v "${PWD}/${WEBGRAB_FILENAME}:/config2/WebGrab++.config.xml" -v "${PWD}:/data" synker/webgraboneshot:latest
-    - stage: Push to git
+        matrix:
+          - WEBGRAB_FILENAME=config.xml
+          - WEBGRAB_FILENAME=config2.xml
+      script: >
+      docker run -it --rm -v "${PWD}/${WEBGRAB_FILENAME}:/config2/WebGrab++.config.xml" -v "${PWD}:/data" synker/webgraboneshot:latest
+    - stage: Pushing to git
       script: 
       - git remote add origin2 https://${GITHUB_API_TOKEN}@github.com/fazzani/testWebgrab.git > /dev/null 2>&1
       - git add --all && (git commit -m "Webgrab config.xml" || echo "No changes to commit")
