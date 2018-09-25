@@ -1,0 +1,598 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.5 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="HD3">
+    <display-name lang="en">HD3</display-name>
+    <icon src="http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="HD4">
+    <display-name lang="en">HD4</display-name>
+    <icon src="http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <programme start="20180925000000 +0300" stop="20180925003000 +0300" channel="HD3">
+    <title lang="en">UEFA Champions League Magazine 2018/2019</title>
+    <category lang="en">UEFA Champions League</category>
+    <episode-num system="onscreen">E.3</episode-num>
+  </programme>
+  <programme start="20180925003000 +0300" stop="20180925010000 +0300" channel="HD3">
+    <title lang="en">Sevilla vs Standard Liege</title>
+    <sub-title lang="en">Mini Match - UEFA Europa League 2018/2019</sub-title>
+    <category lang="en">UEFA Europa League</category>
+  </programme>
+  <programme start="20180925010000 +0300" stop="20180925013000 +0300" channel="HD3">
+    <title lang="en">Villarreal vs Rangers</title>
+    <sub-title lang="en">Mini Match - UEFA Europa League 2018/2019</sub-title>
+    <category lang="en">UEFA Europa League</category>
+  </programme>
+  <programme start="20180925013000 +0300" stop="20180925020000 +0300" channel="HD3">
+    <title lang="en">500 Great Goals</title>
+    <sub-title lang="en">Episode 7</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180925020000 +0300" stop="20180925034500 +0300" channel="HD3">
+    <title lang="en">SD Huesca vs Real Sociedad</title>
+    <sub-title lang="en">Spanish La Liga 2018/2019 Week 5</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  </programme>
+  <programme start="20180925034500 +0300" stop="20180925053100 +0300" channel="HD3">
+    <title lang="en">Rayo Vallecano vs Deportivo Alavés</title>
+    <sub-title lang="en">Spanish La Liga 2018/2019 Week 5</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  </programme>
+  <programme start="20180925053100 +0300" stop="20180925063000 +0300" channel="HD3">
+    <title lang="en">La Liga Highlights 2018/2019 Week 5</title>
+    <category lang="en">Spanish League - Primera División</category>
+  </programme>
+  <programme start="20180925063000 +0300" stop="20180925081500 +0300" channel="HD3">
+    <title lang="en">Celta Vigo vs Real Valladolid</title>
+    <sub-title lang="en">Spanish La Liga 2018/2019 Week 5</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  </programme>
+  <programme start="20180925081500 +0300" stop="20180925100000 +0300" channel="HD3">
+    <title lang="en">SD Eibar vs Leganés</title>
+    <sub-title lang="en">Spanish La Liga 2018/2019 Week 5</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  </programme>
+  <programme start="20180925100000 +0300" stop="20180925103000 +0300" channel="HD3">
+    <title lang="en">UEFA Champions League Magazine 2018/2019</title>
+    <category lang="en">UEFA Champions League</category>
+    <episode-num system="onscreen">E.3</episode-num>
+  </programme>
+  <programme start="20180925103000 +0300" stop="20180925121500 +0300" channel="HD3">
+    <title lang="en">Levante vs Sevilla</title>
+    <sub-title lang="en">Spanish La Liga 2018/2019 Week 5</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  </programme>
+  <programme start="20180925121500 +0300" stop="20180925140000 +0300" channel="HD3">
+    <title lang="en">Villarreal vs Valencia</title>
+    <sub-title lang="en">Spanish La Liga 2018/2019 Week 5</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  </programme>
+  <programme start="20180925140000 +0300" stop="20180925150000 +0300" channel="HD3">
+    <title lang="en">La Liga Highlights 2018/2019 Week 5</title>
+    <category lang="en">Spanish League - Primera División</category>
+  </programme>
+  <programme start="20180925150000 +0300" stop="20180925153000 +0300" channel="HD3">
+    <title lang="en">500 Great Goals</title>
+    <sub-title lang="en">Episode 7</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180925153000 +0300" stop="20180925171500 +0300" channel="HD3">
+    <title lang="en">Barcelona vs Girona</title>
+    <sub-title lang="en">Spanish La Liga 2018/2019 Week 5</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  </programme>
+  <programme start="20180925171500 +0300" stop="20180925190000 +0300" channel="HD3">
+    <title lang="en">Real Madrid vs Espanyol</title>
+    <sub-title lang="en">Spanish La Liga 2018/2019 Week 5</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  </programme>
+  <programme start="20180925190000 +0300" stop="20180925200000 +0300" channel="HD3">
+    <title lang="en">La Liga Highlights 2018/2019 Week 5</title>
+    <category lang="en">Spanish League - Primera División</category>
+  </programme>
+  <programme start="20180925200000 +0300" stop="20180925220000 +0300" channel="HD3">
+    <title lang="en">Nantes vs Nice</title>
+    <sub-title lang="en">French Ligue 1 2018/2019 Week 7</sub-title>
+    <category lang="en">French League - Ligue 1</category>
+  </programme>
+  <programme start="20180925220000 +0300" stop="20180925223000 +0300" channel="HD3">
+    <title lang="en">500 Great Goals</title>
+    <sub-title lang="en">Episode 7</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180925223000 +0300" stop="20180926013000 +0300" channel="HD3">
+    <title lang="en">Atlético Madrid vs SD Huesca</title>
+    <sub-title lang="en">Spanish La Liga 2018/2019 Week 6</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  </programme>
+  <programme start="20180926223000 +0300" stop="20180927013000 +0300" channel="HD3">
+    <title lang="en">Atlético Madrid vs SD Huesca</title>
+    <sub-title lang="en">Spanish La Liga 2018/2019 Week 6</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  </programme>
+  <programme start="20180927013000 +0300" stop="20180927020000 +0300" channel="HD3">
+    <title lang="en">UEFA Europa League Highlights Show 2018/2019</title>
+    <category lang="en">UEFA Europa League</category>
+  </programme>
+  <programme start="20180927020000 +0300" stop="20180927023000 +0300" channel="HD3">
+    <title lang="en">UEFA Nations League 2018 Goals MD1&amp;2</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180927023000 +0300" stop="20180927033000 +0300" channel="HD3">
+    <title lang="en">La Liga Files 2018/2019</title>
+    <category lang="en">Spanish League - Primera División</category>
+    <episode-num system="onscreen">E.1</episode-num>
+  </programme>
+  <programme start="20180927033000 +0300" stop="20180927040000 +0300" channel="HD3">
+    <title lang="en">500 Great Goals</title>
+    <sub-title lang="en">Episode 7</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180927040000 +0300" stop="20180927064500 +0300" channel="HD3">
+    <title lang="en">Atlético Madrid vs SD Huesca</title>
+    <sub-title lang="en">Spanish La Liga 2018/2019 Week 6</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  </programme>
+  <programme start="20180927064500 +0300" stop="20180927074500 +0300" channel="HD3">
+    <title lang="en">Best of UEFA CL MD1</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180927074500 +0300" stop="20180927093000 +0300" channel="HD3">
+    <title lang="en">Nantes vs Nice</title>
+    <sub-title lang="en">French Ligue 1 2018/2019 Week 7</sub-title>
+    <category lang="en">French League - Ligue 1</category>
+  </programme>
+  <programme start="20180927093000 +0300" stop="20180927111500 +0300" channel="HD3">
+    <title lang="en">Atlético Madrid vs SD Huesca</title>
+    <sub-title lang="en">Spanish La Liga 2018/2019 Week 6</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  </programme>
+  <programme start="20180927111500 +0300" stop="20180927114500 +0300" channel="HD3">
+    <title lang="en">Platini Interview</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180927114500 +0300" stop="20180927133000 +0300" channel="HD3">
+    <title lang="en">Espanyol vs SD Eibar</title>
+    <sub-title lang="en">Spanish La Liga 2018/2019 Week 6</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  </programme>
+  <programme start="20180927133000 +0300" stop="20180927151500 +0300" channel="HD3">
+    <title lang="en">Real Sociedad vs Rayo Vallecano</title>
+    <sub-title lang="en">Spanish La Liga 2018/2019 Week 6</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  </programme>
+  <programme start="20180927151500 +0300" stop="20180927154500 +0300" channel="HD3">
+    <title lang="en">UEFA Europa League Highlights Show 2018/2019</title>
+    <category lang="en">UEFA Europa League</category>
+  </programme>
+  <programme start="20180927154500 +0300" stop="20180927161500 +0300" channel="HD3">
+    <title lang="en">UEFA Nations League 2018 Goals MD1&amp;2</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180927161500 +0300" stop="20180927180000 +0300" channel="HD3">
+    <title lang="en">Atlético Madrid vs SD Huesca</title>
+    <sub-title lang="en">Spanish La Liga 2018/2019 Week 6</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  </programme>
+  <programme start="20180927180000 +0300" stop="20180927194500 +0300" channel="HD3">
+    <title lang="en">Real Sociedad vs Rayo Vallecano</title>
+    <sub-title lang="en">Spanish La Liga 2018/2019 Week 6</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  </programme>
+  <programme start="20180927194500 +0300" stop="20180927201500 +0300" channel="HD3">
+    <title lang="en">La Liga World 2018/2019</title>
+    <category lang="en">Spanish League - Primera División</category>
+    <episode-num system="onscreen">E.7</episode-num>
+  </programme>
+  <programme start="20180927201500 +0300" stop="20180927225900 +0300" channel="HD3">
+    <title lang="en">Leganés vs Barcelona</title>
+    <sub-title lang="en">Spanish La Liga 2018/2019 Week 6</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  </programme>
+  <programme start="20180927225900 +0300" stop="20180928014500 +0300" channel="HD3">
+    <title lang="en">Sevilla vs Real Madrid</title>
+    <sub-title lang="en">Spanish La Liga 2018/2019 Week 6</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  </programme>
+  <programme start="20180928225900 +0300" stop="20180929014500 +0300" channel="HD3">
+    <title lang="en">Sevilla vs Real Madrid</title>
+    <sub-title lang="en">Spanish La Liga 2018/2019 Week 6</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  </programme>
+  <programme start="20180929014500 +0300" stop="20180929033000 +0300" channel="HD3">
+    <title lang="en">Espanyol vs SD Eibar</title>
+    <sub-title lang="en">Spanish La Liga 2018/2019 Week 6</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  </programme>
+  <programme start="20180929033000 +0300" stop="20180929040000 +0300" channel="HD3">
+    <title lang="en">Atletico Madrid Vs Huesca Mini Match</title>
+    <sub-title lang="en">Spanish La Liga 2018/2019</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  </programme>
+  <programme start="20180929040000 +0300" stop="20180929064500 +0300" channel="HD3">
+    <title lang="en">Leganés vs Barcelona</title>
+    <sub-title lang="en">Spanish La Liga 2018/2019 Week 6</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  </programme>
+  <programme start="20180929064500 +0300" stop="20180929093000 +0300" channel="HD3">
+    <title lang="en">Sevilla vs Real Madrid</title>
+    <sub-title lang="en">Spanish La Liga 2018/2019 Week 6</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  </programme>
+  <programme start="20180929093000 +0300" stop="20180929100000 +0300" channel="HD3">
+    <title lang="en">UEFA Europa League Highlights Show 2018/2019</title>
+    <category lang="en">UEFA Europa League</category>
+  </programme>
+  <programme start="20180929100000 +0300" stop="20180929103000 +0300" channel="HD3">
+    <title lang="en">UEFA Nations League 2018 Goals MD1&amp;2</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180929103000 +0300" stop="20180929121500 +0300" channel="HD3">
+    <title lang="en">Leganés vs Barcelona</title>
+    <sub-title lang="en">Spanish La Liga 2018/2019 Week 6</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  </programme>
+  <programme start="20180929121500 +0300" stop="20180929140000 +0300" channel="HD3">
+    <title lang="en">Sevilla vs Real Madrid</title>
+    <sub-title lang="en">Spanish La Liga 2018/2019 Week 6</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  </programme>
+  <programme start="20180929140000 +0300" stop="20180929150000 +0300" channel="HD3">
+    <title lang="en">Best of UEFA CL MD1</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180929150000 +0300" stop="20180929153000 +0300" channel="HD3">
+    <title lang="en">Atletico Madrid Vs Huesca Mini Match</title>
+    <sub-title lang="en">Spanish La Liga 2018/2019</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  </programme>
+  <programme start="20180929153000 +0300" stop="20180929160000 +0300" channel="HD3">
+    <title lang="en">La Liga World 2018/2019</title>
+    <category lang="en">Spanish League - Primera División</category>
+    <episode-num system="onscreen">E.7</episode-num>
+  </programme>
+  <programme start="20180929160000 +0300" stop="20180929170000 +0300" channel="HD3">
+    <title lang="en">La Liga Files 2018/2019</title>
+    <category lang="en">Spanish League - Primera División</category>
+    <episode-num system="onscreen">E.1</episode-num>
+  </programme>
+  <programme start="20180929170000 +0300" stop="20180929184500 +0300" channel="HD3">
+    <title lang="en">Athletic Bilbao vs Villarreal</title>
+    <sub-title lang="en">Spanish La Liga 2018/2019 Week 6</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  </programme>
+  <programme start="20180929184500 +0300" stop="20180929203000 +0300" channel="HD3">
+    <title lang="en">Valencia vs Celta Vigo</title>
+    <sub-title lang="en">Spanish La Liga 2018/2019 Week 6</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  </programme>
+  <programme start="20180929203000 +0300" stop="20180929210000 +0300" channel="HD3">
+    <title lang="en">La Liga World 2018/2019</title>
+    <category lang="en">Spanish League - Primera División</category>
+    <episode-num system="onscreen">E.7</episode-num>
+  </programme>
+  <programme start="20180929210000 +0300" stop="20180929230000 +0300" channel="HD3">
+    <title lang="en">Deportivo Alavés vs Getafe</title>
+    <sub-title lang="en">Spanish La Liga 2018/2019 Week 6</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  </programme>
+  <programme start="20180929230000 +0300" stop="20180929235900 +0300" channel="HD3">
+    <title lang="en">Girona vs Real Betis</title>
+    <sub-title lang="en">Spanish La Liga 2018/2019 Week 6</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  </programme>
+  <programme start="20180925000000 +0300" stop="20180925003000 +0300" channel="HD4">
+    <title lang="en">Best of AFCON 2019 Qualifiers MD2</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180925003000 +0300" stop="20180925021500 +0300" channel="HD4">
+    <title lang="en">Milan vs Atalanta</title>
+    <sub-title lang="en">Italian Serie A 2018/2019 Week 5</sub-title>
+    <category lang="en">Italian League - Serie A</category>
+  </programme>
+  <programme start="20180925021500 +0300" stop="20180925040000 +0300" channel="HD4">
+    <title lang="en">Frosinone vs Juventus</title>
+    <sub-title lang="en">Italian Serie A 2018/2019 Week 5</sub-title>
+    <category lang="en">Italian League - Serie A</category>
+  </programme>
+  <programme start="20180925040000 +0300" stop="20180925050000 +0300" channel="HD4">
+    <title lang="en">Serie A Highlights 2018/2019 Week 5</title>
+    <category lang="en">Italian League - Serie A</category>
+  </programme>
+  <programme start="20180925050000 +0300" stop="20180925065000 +0300" channel="HD4">
+    <title lang="en">Parma vs Cagliari</title>
+    <sub-title lang="en">Italian Serie A 2018/2019 Week 5</sub-title>
+    <category lang="en">Italian League - Serie A</category>
+  </programme>
+  <programme start="20180925065000 +0300" stop="20180925083000 +0300" channel="HD4">
+    <title lang="en">Sassuolo vs Empoli</title>
+    <sub-title lang="en">Italian Serie A 2018/2019 Week 5</sub-title>
+    <category lang="en">Italian League - Serie A</category>
+  </programme>
+  <programme start="20180925083000 +0300" stop="20180925090000 +0300" channel="HD4">
+    <title lang="en">Sampdoria Vs Inter Mini Match</title>
+    <sub-title lang="en">Italian Serie A 2018/2019</sub-title>
+    <category lang="en">Leagues Summary</category>
+  </programme>
+  <programme start="20180925090000 +0300" stop="20180925104300 +0300" channel="HD4">
+    <title lang="en">Torino vs Napoli</title>
+    <sub-title lang="en">Italian Serie A 2018/2019 Week 5</sub-title>
+    <category lang="en">Italian League - Serie A</category>
+  </programme>
+  <programme start="20180925104300 +0300" stop="20180925123000 +0300" channel="HD4">
+    <title lang="en">Bologna vs Roma</title>
+    <sub-title lang="en">Italian Serie A 2018/2019 Week 5</sub-title>
+    <category lang="en">Italian League - Serie A</category>
+  </programme>
+  <programme start="20180925123000 +0300" stop="20180925133000 +0300" channel="HD4">
+    <title lang="en">Serie A Highlights 2018/2019 Week 5</title>
+    <category lang="en">Italian League - Serie A</category>
+  </programme>
+  <programme start="20180925133000 +0300" stop="20180925151500 +0300" channel="HD4">
+    <title lang="en">Fiorentina vs SPAL</title>
+    <sub-title lang="en">Italian Serie A 2018/2019 Week 5</sub-title>
+    <category lang="en">Italian League - Serie A</category>
+  </programme>
+  <programme start="20180925151500 +0300" stop="20180925170000 +0300" channel="HD4">
+    <title lang="en">Sampdoria vs Internazionale</title>
+    <sub-title lang="en">Italian Serie A 2018/2019 Week 5</sub-title>
+    <category lang="en">Italian League - Serie A</category>
+  </programme>
+  <programme start="20180925170000 +0300" stop="20180925173000 +0300" channel="HD4">
+    <title lang="en">UEFA Europa League Highlights Show 2018/2019</title>
+    <category lang="en">UEFA Europa League</category>
+  </programme>
+  <programme start="20180925173000 +0300" stop="20180925180000 +0300" channel="HD4">
+    <title lang="en">UEFA Nations League 2018 Goals MD1&amp;2</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180925180000 +0300" stop="20180925183000 +0300" channel="HD4">
+    <title lang="en">Bologna Vs Roma Mini Match</title>
+    <sub-title lang="en">Italian Serie A 2018/2019</sub-title>
+    <category lang="en">Leagues Summary</category>
+  </programme>
+  <programme start="20180925183000 +0300" stop="20180925190000 +0300" channel="HD4">
+    <title lang="en">Frosinone Vs Juventus Mini Match</title>
+    <sub-title lang="en">Italian Serie A 2018/2019</sub-title>
+    <category lang="en">Leagues Summary</category>
+  </programme>
+  <programme start="20180925190000 +0300" stop="20180925193000 +0300" channel="HD4">
+    <title lang="en">Torino Vs Napoli Mini Match</title>
+    <sub-title lang="en">Italian Serie A 2018/2019</sub-title>
+    <category lang="en">Leagues Summary</category>
+  </programme>
+  <programme start="20180925193000 +0300" stop="20180925203000 +0300" channel="HD4">
+    <title lang="en">Best of UEFA CL MD1</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180925203000 +0300" stop="20180925213000 +0300" channel="HD4">
+    <title lang="en">Serie A Highlights 2018/2019 Week 5</title>
+    <category lang="en">Italian League - Serie A</category>
+  </programme>
+  <programme start="20180925213000 +0300" stop="20180926003000 +0300" channel="HD4">
+    <title lang="en">Internazionale vs Fiorentina</title>
+    <sub-title lang="en">Italian Serie A 2018/2019 Week 6</sub-title>
+    <category lang="en">Italian League - Serie A</category>
+  </programme>
+  <programme start="20180926213000 +0300" stop="20180927003000 +0300" channel="HD4">
+    <title lang="en">Internazionale vs Fiorentina</title>
+    <sub-title lang="en">Italian Serie A 2018/2019 Week 6</sub-title>
+    <category lang="en">Italian League - Serie A</category>
+  </programme>
+  <programme start="20180927003000 +0300" stop="20180927010000 +0300" channel="HD4">
+    <title lang="en">The Scorers</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180927010000 +0300" stop="20180927013000 +0300" channel="HD4">
+    <title lang="en">Best of CAF Champions League QF</title>
+    <sub-title lang="en">2nd Leg</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180927013000 +0300" stop="20180927020000 +0300" channel="HD4">
+    <title lang="en">Footballs Greatest</title>
+    <sub-title lang="en">Karl-Heinz Rummenigge</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180927020000 +0300" stop="20180927050000 +0300" channel="HD4">
+    <title lang="en">Internazionale vs Fiorentina</title>
+    <sub-title lang="en">Italian Serie A 2018/2019 Week 6</sub-title>
+    <category lang="en">Italian League - Serie A</category>
+  </programme>
+  <programme start="20180927050000 +0300" stop="20180927053000 +0300" channel="HD4">
+    <title lang="en">Best of AFCON 2019 Qualifiers MD2</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180927053000 +0300" stop="20180927060000 +0300" channel="HD4">
+    <title lang="en">Bologna Vs Roma Mini Match</title>
+    <sub-title lang="en">Italian Serie A 2018/2019</sub-title>
+    <category lang="en">Leagues Summary</category>
+  </programme>
+  <programme start="20180927060000 +0300" stop="20180927063000 +0300" channel="HD4">
+    <title lang="en">Frosinone Vs Juventus Mini Match</title>
+    <sub-title lang="en">Italian Serie A 2018/2019</sub-title>
+    <category lang="en">Leagues Summary</category>
+  </programme>
+  <programme start="20180927063000 +0300" stop="20180927070000 +0300" channel="HD4">
+    <title lang="en">Torino Vs Napoli Mini Match</title>
+    <sub-title lang="en">Italian Serie A 2018/2019</sub-title>
+    <category lang="en">Leagues Summary</category>
+  </programme>
+  <programme start="20180927070000 +0300" stop="20180927073000 +0300" channel="HD4">
+    <title lang="en">UEFA Champions League Magazine 2018/2019</title>
+    <category lang="en">UEFA Champions League</category>
+    <episode-num system="onscreen">E.3</episode-num>
+  </programme>
+  <programme start="20180927073000 +0300" stop="20180927091300 +0300" channel="HD4">
+    <title lang="en">Internazionale vs Fiorentina</title>
+    <sub-title lang="en">Italian Serie A 2018/2019 Week 6</sub-title>
+    <category lang="en">Italian League - Serie A</category>
+  </programme>
+  <programme start="20180927091300 +0300" stop="20180927110000 +0300" channel="HD4">
+    <title lang="en">Dudelange vs Milan</title>
+    <sub-title lang="en">UEFA Europa League 2018/2019 - Group Stages - Matchday 1</sub-title>
+    <category lang="en">UEFA Europa League</category>
+  </programme>
+  <programme start="20180927110000 +0300" stop="20180927113000 +0300" channel="HD4">
+    <title lang="en">Red Star vs Napoli</title>
+    <sub-title lang="en">Mini Match - UEFA Champions League 2018/2019</sub-title>
+    <category lang="en">UEFA Champions League</category>
+  </programme>
+  <programme start="20180927113000 +0300" stop="20180927120000 +0300" channel="HD4">
+    <title lang="en">inter vs Tottenham</title>
+    <sub-title lang="en">Mini Match - UEFA Champions League 2018/2019</sub-title>
+    <category lang="en">UEFA Champions League</category>
+  </programme>
+  <programme start="20180927120000 +0300" stop="20180927123000 +0300" channel="HD4">
+    <title lang="en">Real Madrid vs Roma</title>
+    <sub-title lang="en">Mini Match - UEFA Champions League 2018/2019</sub-title>
+    <category lang="en">UEFA Champions League</category>
+  </programme>
+  <programme start="20180927123000 +0300" stop="20180927130000 +0300" channel="HD4">
+    <title lang="en">Valencia vs Juventus</title>
+    <sub-title lang="en">Mini Match - UEFA Champions League 2018/2019</sub-title>
+    <category lang="en">UEFA Champions League</category>
+  </programme>
+  <programme start="20180927130000 +0300" stop="20180927144500 +0300" channel="HD4">
+    <title lang="en">Internazionale vs Fiorentina</title>
+    <sub-title lang="en">Italian Serie A 2018/2019 Week 6</sub-title>
+    <category lang="en">Italian League - Serie A</category>
+  </programme>
+  <programme start="20180927144500 +0300" stop="20180927163000 +0300" channel="HD4">
+    <title lang="en">Lazio vs Apollon</title>
+    <sub-title lang="en">UEFA Europa League 2018/2019 - Group Stages - Matchday 1</sub-title>
+    <category lang="en">UEFA Europa League</category>
+  </programme>
+  <programme start="20180927163000 +0300" stop="20180927173400 +0300" channel="HD4">
+    <title lang="en">Ronaldo</title>
+    <sub-title lang="en">All Goals in UEFA Champions League</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180927173400 +0300" stop="20180927180000 +0300" channel="HD4">
+    <title lang="en">UEFA Champions League Magazine 2018/2019</title>
+    <category lang="en">UEFA Champions League</category>
+    <episode-num system="onscreen">E.3</episode-num>
+  </programme>
+  <programme start="20180927180000 +0300" stop="20180927183000 +0300" channel="HD4">
+    <title lang="en">The Scorers</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180927183000 +0300" stop="20180927190000 +0300" channel="HD4">
+    <title lang="en">UEFA Europa League Highlights Show 2018/2019</title>
+    <category lang="en">UEFA Europa League</category>
+  </programme>
+  <programme start="20180927190000 +0300" stop="20180927193000 +0300" channel="HD4">
+    <title lang="en">UEFA Nations League 2018 Goals MD1&amp;2</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180927193000 +0300" stop="20180927213000 +0300" channel="HD4">
+    <title lang="en">Fortuna Düsseldorf vs Bayer 04 Leverkusen</title>
+    <sub-title lang="en">German Bundesliga 2018/2019 Week 5</sub-title>
+    <category lang="en">German League - Bundesliga</category>
+  </programme>
+  <programme start="20180927213000 +0300" stop="20180928003000 +0300" channel="HD4">
+    <title lang="en">Juventus vs Bologna</title>
+    <sub-title lang="en">Italian Serie A 2018/2019 Week 6</sub-title>
+    <category lang="en">Italian League - Serie A</category>
+  </programme>
+  <programme start="20180928213000 +0300" stop="20180929003000 +0300" channel="HD4">
+    <title lang="en">Juventus vs Bologna</title>
+    <sub-title lang="en">Italian Serie A 2018/2019 Week 6</sub-title>
+    <category lang="en">Italian League - Serie A</category>
+  </programme>
+  <programme start="20180929003000 +0300" stop="20180929010000 +0300" channel="HD4">
+    <title lang="en">The Goals</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180929010000 +0300" stop="20180929013000 +0300" channel="HD4">
+    <title lang="en">The Brazilian Legend</title>
+    <sub-title lang="en">Careca</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180929013000 +0300" stop="20180929020000 +0300" channel="HD4">
+    <title lang="en">The Scorers</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180929020000 +0300" stop="20180929050000 +0300" channel="HD4">
+    <title lang="en">Juventus vs Bologna</title>
+    <sub-title lang="en">Italian Serie A 2018/2019 Week 6</sub-title>
+    <category lang="en">Italian League - Serie A</category>
+  </programme>
+  <programme start="20180929050000 +0300" stop="20180929070000 +0300" channel="HD4">
+    <title lang="en">Fortuna Düsseldorf vs Bayer 04 Leverkusen</title>
+    <sub-title lang="en">German Bundesliga 2018/2019 Week 5</sub-title>
+    <category lang="en">German League - Bundesliga</category>
+  </programme>
+  <programme start="20180929070000 +0300" stop="20180929073000 +0300" channel="HD4">
+    <title lang="en">The Scorers</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180929073000 +0300" stop="20180929091500 +0300" channel="HD4">
+    <title lang="en">Genoa vs Chievo</title>
+    <sub-title lang="en">Italian Serie A 2018/2019 Week 6</sub-title>
+    <category lang="en">Italian League - Serie A</category>
+  </programme>
+  <programme start="20180929091500 +0300" stop="20180929110000 +0300" channel="HD4">
+    <title lang="en">Juventus vs Bologna</title>
+    <sub-title lang="en">Italian Serie A 2018/2019 Week 6</sub-title>
+    <category lang="en">Italian League - Serie A</category>
+  </programme>
+  <programme start="20180929110000 +0300" stop="20180929113000 +0300" channel="HD4">
+    <title lang="en">Inter Vs Fiorentina Mini Match</title>
+    <sub-title lang="en">Italian Serie A 2018/2019</sub-title>
+    <category lang="en">Leagues Summary</category>
+  </programme>
+  <programme start="20180929113000 +0300" stop="20180929120000 +0300" channel="HD4">
+    <title lang="en">Footballs Greatest</title>
+    <sub-title lang="en">Karl-Heinz Rummenigge</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180929120000 +0300" stop="20180929134500 +0300" channel="HD4">
+    <title lang="en">Udinese vs Lazio</title>
+    <sub-title lang="en">Italian Serie A 2018/2019 Week 6</sub-title>
+    <category lang="en">Italian League - Serie A</category>
+  </programme>
+  <programme start="20180929134500 +0300" stop="20180929153000 +0300" channel="HD4">
+    <title lang="en">Napoli vs Parma</title>
+    <sub-title lang="en">Italian Serie A 2018/2019 Week 6</sub-title>
+    <category lang="en">Italian League - Serie A</category>
+  </programme>
+  <programme start="20180929153000 +0300" stop="20180929160000 +0300" channel="HD4">
+    <title lang="en">500 Great Goals</title>
+    <sub-title lang="en">Episode 7</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180929160000 +0300" stop="20180929163000 +0300" channel="HD4">
+    <title lang="en">The Goals</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180929163000 +0300" stop="20180929181500 +0300" channel="HD4">
+    <title lang="en">Cagliari vs Sampdoria</title>
+    <sub-title lang="en">Italian Serie A 2018/2019 Week 6</sub-title>
+    <category lang="en">Italian League - Serie A</category>
+  </programme>
+  <programme start="20180929181500 +0300" stop="20180929200000 +0300" channel="HD4">
+    <title lang="en">Roma vs Frosinone</title>
+    <sub-title lang="en">Italian Serie A 2018/2019 Week 6</sub-title>
+    <category lang="en">Italian League - Serie A</category>
+  </programme>
+  <programme start="20180929200000 +0300" stop="20180929203000 +0300" channel="HD4">
+    <title lang="en">UEFA Europa League Highlights Show 2018/2019</title>
+    <category lang="en">UEFA Europa League</category>
+  </programme>
+  <programme start="20180929203000 +0300" stop="20180929210000 +0300" channel="HD4">
+    <title lang="en">UEFA Nations League 2018 Goals MD1&amp;2</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180929210000 +0300" stop="20180929213000 +0300" channel="HD4">
+    <title lang="en">UEFA Champions League Magazine 2018/2019</title>
+    <category lang="en">UEFA Champions League</category>
+    <episode-num system="onscreen">E.3</episode-num>
+  </programme>
+  <programme start="20180929213000 +0300" stop="20180929235900 +0300" channel="HD4">
+    <title lang="en">Empoli vs Milan</title>
+    <sub-title lang="en">Italian Serie A 2018/2019 Week 6</sub-title>
+    <category lang="en">Italian League - Serie A</category>
+  </programme>
+</tv>
