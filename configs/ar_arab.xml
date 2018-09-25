@@ -1,99 +1,14 @@
 <?xml version="1.0"?>
-<!-- Configuration file for WebGrab+Plus, the incremental Electronic-Program-Guide web grabber
-by Jan van Straaten, December 2011
-Version V1.1.1 -->
-
 <settings>
-  <!-- filename      
-The path (required) + filename where the epgguide xml file is /will be located. It must include drive and folder. Like C:\ProgramData\ServerCare\WebGrab\guide.xml
-If the file already exist (from last run or from another xmltv source) it will read it and use what fits the requested output. In that case the file will be updated. If no such file exist it will be created.
-Change the following to your own needs  :
--->
   <filename>ar_arab.xmltv</filename>
-
-  <!-- modes:   
-d or debug    saves the output xmltv file in a file with -debug addition in the file name . The original xmltv file will be kept.  
-m or measure  measures the time for each updated show or new show added 
-n = nomark    disables the update-type marking (n) (c) (g) (r) at the end of the description
-v or verify   verifies the result following a channel update
-w or wget     use wget as grab engine (might improve site recognition in rare cases)
-Note that modes can be added in one line, separated by comma's or spaces, or both. 
--->
   <mode>m</mode>
-
-  <!-- postprocess:
-  Optional , specifies which of the available postprocesses should run.
-  syntax: <postprocess run="" grab="">processname</postprocess>
-  
-(optional) grab="yes" or "y" or "true" or "on" : grabs epg first (default)     ; "no" or "n" or "false" or "off" : skip epg grabbing 
-(optional) run="yes" or "y" or "true" or "on" : runs the postprocess (default) ; "no" or "n" or "false" or "off" : do not run post process
-processname: the process to run : 
-processname = mdb runs a build in movie database grabber (read / adapt  ...\mdb\mdb.confif.xml
-processname = rex runs a postprocess that re-allocates xmltv elements (read / adapt  ...\rex\rex.config.xml)
-examples:
-  <postprocess run="on" grab="on">mdb</postprocess>  grabs first , then run mdb
-  <postprocess>mdb</postprocess>  same as above (uses defaults for grab and run)
-  <postprocess grab="no">rex</postprocess>  runs rex without grab (existing xmltv file)
--->
   <postprocess run="n" grab="y">mdb</postprocess>
-
-  <!-- proxy:
-This setting is only required if your computer is connected to internet behind a proxy
-specify proxy address as ip:port like <proxy>192.168.2.4:8080</proxy>
-or as <proxy>automatic</proxy> which attempts to read the proxy address from your connection settings. If your proxy requires a username and password, add them like 
-<proxy user="username" password="password">192.168.2.4:8080</proxy>  
-  <proxy>192.168.2.2:8080</proxy>
--->
   <proxy>automatic</proxy>
-
-  <!-- user agent:
-The user agent string that is sent to the tvguide website. Some sites require this. Valid values are either 
-, in which case the program generates a random string, or any other string like <user-agent>Mozilla/5.0 (Windows; U; MSIE 9.0; WIndows NT 9.0; en-US)</user-agent>  <user-agent>random</user-agent><user-agent>Mozilla/5.0 (Windows; U; MSIE 9.0; WIndows NT 9.0; en-US)</user-agent><user-agent>Mozilla/5.0 (Linux; U; Android 0.5; en-us) AppleWebKit/522+ (KHTML, like Gecko) Safari/419.3</user-agent>
--->
   <user-agent>Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; yie9)</user-agent>
-
-
-  <!-- logging: 
-simply put 'on' in there to start logging, anything else will turn it off 
--->
   <logging>on</logging>
-
-  <!--retry
-The most simple form of retry defines the amount of times the grabber engine should attempt to capture a web page before giving up and continuing with the next page, like <retry>4</retry>
-It is also the place to specify delays between retries and the grabbing of html pages with the following attributes: timeout; the delay between retries (default is 10 sec), channel-delay; the delay between subsequent channels (default is 0), index-delay; the delay between the grabbing of index pages (default is 0), show-delay; the delay between the grabbing of detail show pages (default is 0). In the most complete version it will look like this:
-<retry time-out="5" channel-delay="5" index-delay="1" show-delay="1">4</retry> show-delay="2"
--->
   <retry time-out="15">1</retry>
-
-  <!--skip
-It takes two values H,m  separated by a comma: 
-The first H : if a show takes more than H hours, it's either tellsell or other commercial fluff, or simply a mistake or error, we want to skip such shows.
-The second m : if a show is less or equal than m minutes it is probably an announcement , in any case not a real show. 
-When entered as <skip></skip> the defaults are 12 hours, 1 minute, same as <skip>12,1</skip>. To disable this function enter  or just leave out this entry completely<skip>14, 1</skip><skip>16,1</skip>
--->
-
   <skip>12,1</skip>
-
-  <!--timespan
-The timespan for which shows will be grabbed.
-It takes one or two values separated by a comma or a space. The first is the number of days 
-(including today) to download, note that 0 is today. The second (optional) is a time 
-specified between 0:00 and 24:00 which will reduce the download to only the one show (per day) 
-which is scheduled around the specified time. Any value between start time (including) and 
-stop time will do
-This -one-show-only mode is helpfull if a SiteIni file needs to be debugged
--->
   <timespan>1</timespan>
-
-  <!-- update mode
-i or incremental     only updates of changes , gabs, repairs and new shows
-l or light           forces update of today and new shows, rest as incremental
-s or smart           forces update of today and tomorrow and new shows, rest as light
-f or full or force   forces full update 
-If one of these values is entered here it will apply to all channels selected for update 
-(see channel).  This value overrules the value of 'update' for in the individual channels 
-If no value is entered here the individual 'update' values from the channellist are taken 
--->
   <update>i</update>
   <channel update="i" site="watania.tn" site_id="www.watania1.tn/البرنامج-الأسبوعي/" xmltv_id="Watania 1">Watania 1</channel>
   <channel update="i" site="watania.tn" site_id="www.watania2.tn/دليل-الأسبوع/" xmltv_id="Watania 2">Watania 2</channel>
