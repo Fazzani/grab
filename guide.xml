@@ -1,0 +1,629 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.5 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="HD1">
+    <display-name lang="en">HD1</display-name>
+    <icon src="http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="HD2">
+    <display-name lang="en">HD2</display-name>
+    <icon src="http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <programme start="20180925000000 +0300" stop="20180925003000 +0300" channel="HD1">
+    <title lang="en">Etoile Sahel Vs Esperance Tunis Mini Match CAF Champions league 2018/2019</title>
+    <category lang="en">CAF Champions league</category>
+  </programme>
+  <programme start="20180925003000 +0300" stop="20180925010000 +0300" channel="HD1">
+    <title lang="en">Wydad Vs Setif Mini Match CAF Champions league 2018/2019</title>
+    <category lang="en">CAF Champions league</category>
+  </programme>
+  <programme start="20180925010000 +0300" stop="20180925013000 +0300" channel="HD1">
+    <title lang="en">Al Ahly Vs Horoya Mini Match CAF Champions league 2018/2019</title>
+    <category lang="en">CAF Champions league</category>
+  </programme>
+  <programme start="20180925013000 +0300" stop="20180925023000 +0300" channel="HD1">
+    <title lang="en">Match Point 2018/19</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180925023000 +0300" stop="20180925040000 +0300" channel="HD1">
+    <title lang="en">European Round 18/19</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180925040000 +0300" stop="20180925050000 +0300" channel="HD1">
+    <title lang="en">Arabic Round 18/19</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180925050000 +0300" stop="20180925053000 +0300" channel="HD1">
+    <title lang="en">Footballs Greatest</title>
+    <sub-title lang="en">Karl-Heinz Rummenigge</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180925053000 +0300" stop="20180925073500 +0300" channel="HD1">
+    <title lang="en">GP Race</title>
+    <sub-title lang="en">F1 - Singapore GP - 2018</sub-title>
+    <category lang="en">Formula One World Championship</category>
+  </programme>
+  <programme start="20180925073500 +0300" stop="20180925080000 +0300" channel="HD1">
+    <title lang="en">UEFA Champions League Magazine 2018/2019</title>
+    <category lang="en">UEFA Champions League</category>
+    <episode-num system="onscreen">E.3</episode-num>
+  </programme>
+  <programme start="20180925080000 +0300" stop="20180925090000 +0300" channel="HD1">
+    <title lang="en">Morning show</title>
+    <sub-title lang="en">Live Studio @08:00 2018</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180925090000 +0300" stop="20180925093000 +0300" channel="HD1">
+    <title lang="en">500 Great Goals</title>
+    <sub-title lang="en">Episode 7</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180925093000 +0300" stop="20180925103000 +0300" channel="HD1">
+    <title lang="en">Match Point 2018/19</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180925103000 +0300" stop="20180925120000 +0300" channel="HD1">
+    <title lang="en">European Round 18/19</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180925120000 +0300" stop="20180925130000 +0300" channel="HD1">
+    <title lang="en">Arabic Round 18/19</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180925130000 +0300" stop="20180925133000 +0300" channel="HD1">
+    <title lang="en">Footballs Greatest</title>
+    <sub-title lang="en">Karl-Heinz Rummenigge</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180925133000 +0300" stop="20180925140000 +0300" channel="HD1">
+    <title lang="en">The Brazilian Legend</title>
+    <sub-title lang="en">Careca</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180925140000 +0300" stop="20180925150000 +0300" channel="HD1">
+    <title lang="en">Best of UEFA CL MD1</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180925150000 +0300" stop="20180925160000 +0300" channel="HD1">
+    <title lang="en">Match Point 2018/19</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180925160000 +0300" stop="20180925173000 +0300" channel="HD1">
+    <title lang="en">European Round 18/19</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180925173000 +0300" stop="20180925183000 +0300" channel="HD1">
+    <title lang="en">Arabic Round 18/19</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180925183000 +0300" stop="20180925190000 +0300" channel="HD1">
+    <title lang="en">Bundesliga Special</title>
+    <sub-title lang="en">French World cup Champions</sub-title>
+    <category lang="en">German League - Bundesliga</category>
+  </programme>
+  <programme start="20180925190000 +0300" stop="20180925193000 +0300" channel="HD1">
+    <title lang="en">Rewind The handball show</title>
+    <sub-title lang="en">2018/19</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180925193000 +0300" stop="20180925200000 +0300" channel="HD1">
+    <title lang="en">The Scorers</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180925200000 +0300" stop="20180925203000 +0300" channel="HD1">
+    <title lang="en">Best of CAF Champions League QF</title>
+    <sub-title lang="en">2nd Leg</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180925203000 +0300" stop="20180925210000 +0300" channel="HD1">
+    <title lang="en">Brazilian League Highlights 2018/2019</title>
+    <category lang="en">Leagues Summary</category>
+    <episode-num system="onscreen">E.10</episode-num>
+  </programme>
+  <programme start="20180925210000 +0300" stop="20180925214500 +0300" channel="HD1">
+    <title lang="en">Pep Guardiola</title>
+    <sub-title lang="en">The Philosopher</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180925214500 +0300" stop="20180926000000 +0300" channel="HD1">
+    <title lang="en">Oxford United vs Manchester City</title>
+    <sub-title lang="en">Carabao Cup 2018/2019 (English League Cup)</sub-title>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20180926000000 +0300" stop="20180926020000 +0300" channel="HD1">
+    <title lang="en">Raja vs Cara Brazzaville</title>
+    <sub-title lang="en">CAF CUP 2018 - QF 2nd LEG</sub-title>
+    <category lang="en">CAF Confederation Cup</category>
+  </programme>
+  <programme start="20180926020000 +0300" stop="20180926035500 +0300" channel="HD1">
+    <title lang="en">USM Algeria vs Al Masry</title>
+    <sub-title lang="en">CAF CUP 2018 - QF 2nd LEG</sub-title>
+    <category lang="en">CAF Confederation Cup</category>
+  </programme>
+  <programme start="20180926035500 +0300" stop="20180926054000 +0300" channel="HD1">
+    <title lang="en">Enyimba vs Rayon Sports</title>
+    <sub-title lang="en">CAF CUP 2018 - QF 2nd LEG</sub-title>
+    <category lang="en">CAF Confederation Cup</category>
+  </programme>
+  <programme start="20180926054000 +0300" stop="20180926073000 +0300" channel="HD1">
+    <title lang="en">Oxford United vs Manchester City</title>
+    <sub-title lang="en">Carabao Cup 2018/2019 (English League Cup)</sub-title>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20180926073000 +0300" stop="20180926080000 +0300" channel="HD1">
+    <title lang="en">Best of CAF Champions League QF</title>
+    <sub-title lang="en">2nd Leg</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180926080000 +0300" stop="20180926085900 +0300" channel="HD1">
+    <title lang="en">Morning show</title>
+    <sub-title lang="en">Live Studio @08:00 2018</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180926085900 +0300" stop="20180926092600 +0300" channel="HD1">
+    <title lang="en">The Scorers</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180926092600 +0300" stop="20180926111800 +0300" channel="HD1">
+    <title lang="en">Raja vs Cara Brazzaville</title>
+    <sub-title lang="en">CAF CUP 2018 - QF 2nd LEG</sub-title>
+    <category lang="en">CAF Confederation Cup</category>
+  </programme>
+  <programme start="20180926111800 +0300" stop="20180926130500 +0300" channel="HD1">
+    <title lang="en">Oxford United vs Manchester City</title>
+    <sub-title lang="en">Carabao Cup 2018/2019 (English League Cup)</sub-title>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20180926130500 +0300" stop="20180926140200 +0300" channel="HD1">
+    <title lang="en">Arabic Round 18/19</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180926140200 +0300" stop="20180926143200 +0300" channel="HD1">
+    <title lang="en">Brazilian League Highlights 2018/2019</title>
+    <category lang="en">Leagues Summary</category>
+    <episode-num system="onscreen">E.10</episode-num>
+  </programme>
+  <programme start="20180926143200 +0300" stop="20180926150000 +0300" channel="HD1">
+    <title lang="en">Rewind The handball show</title>
+    <sub-title lang="en">2018/19</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180926150000 +0300" stop="20180926152700 +0300" channel="HD1">
+    <title lang="en">The Scorers</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180926152700 +0300" stop="20180926171900 +0300" channel="HD1">
+    <title lang="en">USM Algeria vs Al Masry</title>
+    <sub-title lang="en">CAF CUP 2018 - QF 2nd LEG</sub-title>
+    <category lang="en">CAF Confederation Cup</category>
+  </programme>
+  <programme start="20180926171900 +0300" stop="20180926190500 +0300" channel="HD1">
+    <title lang="en">Oxford United vs Manchester City</title>
+    <sub-title lang="en">Carabao Cup 2018/2019 (English League Cup)</sub-title>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20180926190500 +0300" stop="20180926193100 +0300" channel="HD1">
+    <title lang="en">The Brazilian Legend</title>
+    <sub-title lang="en">Careca</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180926193100 +0300" stop="20180926200000 +0300" channel="HD1">
+    <title lang="en">The Goals</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180926200000 +0300" stop="20180926202800 +0300" channel="HD1">
+    <title lang="en">The Scorers</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180926202800 +0300" stop="20180926205700 +0300" channel="HD1">
+    <title lang="en">La Liga World 2018/2019</title>
+    <category lang="en">Spanish League - Primera División</category>
+    <episode-num system="onscreen">E.7</episode-num>
+  </programme>
+  <programme start="20180926205700 +0300" stop="20180926225700 +0300" channel="HD1">
+    <title lang="en">Athletic Bilbao vs Villarreal</title>
+    <sub-title lang="en">Spanish La Liga 2018/2019 Week 6</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  </programme>
+  <programme start="20180926225700 +0300" stop="20180927010000 +0300" channel="HD1">
+    <title lang="en">Valencia vs Celta Vigo</title>
+    <sub-title lang="en">Spanish La Liga 2018/2019 Week 6</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  </programme>
+  <programme start="20180927225700 +0300" stop="20180928010000 +0300" channel="HD1">
+    <title lang="en">Valencia vs Celta Vigo</title>
+    <sub-title lang="en">Spanish La Liga 2018/2019 Week 6</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  </programme>
+  <programme start="20180928010000 +0300" stop="20180928013000 +0300" channel="HD1">
+    <title lang="en">Brazilian League Highlights 2018/2019</title>
+    <category lang="en">Leagues Summary</category>
+    <episode-num system="onscreen">E.10</episode-num>
+  </programme>
+  <programme start="20180928013000 +0300" stop="20180928020000 +0300" channel="HD1">
+    <title lang="en">Rewind The handball show</title>
+    <sub-title lang="en">2018/19</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180928020000 +0300" stop="20180928023000 +0300" channel="HD1">
+    <title lang="en">Best of CAF Champions League QF</title>
+    <sub-title lang="en">2nd Leg</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180928023000 +0300" stop="20180928030000 +0300" channel="HD1">
+    <title lang="en">The Scorers</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180928030000 +0300" stop="20180928033000 +0300" channel="HD1">
+    <title lang="en">The Goals</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180928033000 +0300" stop="20180928040000 +0300" channel="HD1">
+    <title lang="en">Footballs Greatest</title>
+    <sub-title lang="en">Karl-Heinz Rummenigge</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180928040000 +0300" stop="20180928054500 +0300" channel="HD1">
+    <title lang="en">Athletic Bilbao vs Villarreal</title>
+    <sub-title lang="en">Spanish La Liga 2018/2019 Week 6</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  </programme>
+  <programme start="20180928054500 +0300" stop="20180928073000 +0300" channel="HD1">
+    <title lang="en">Valencia vs Celta Vigo</title>
+    <sub-title lang="en">Spanish La Liga 2018/2019 Week 6</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  </programme>
+  <programme start="20180928073000 +0300" stop="20180928080000 +0300" channel="HD1">
+    <title lang="en">500 Great Goals</title>
+    <sub-title lang="en">Episode 7</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180928080000 +0300" stop="20180928090000 +0300" channel="HD1">
+    <title lang="en">Morning show</title>
+    <sub-title lang="en">Live Studio @08:00 2018</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180928090000 +0300" stop="20180928093000 +0300" channel="HD1">
+    <title lang="en">The Goals</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180928093000 +0300" stop="20180928111500 +0300" channel="HD1">
+    <title lang="en">Athletic Bilbao vs Villarreal</title>
+    <sub-title lang="en">Spanish La Liga 2018/2019 Week 6</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  </programme>
+  <programme start="20180928111500 +0300" stop="20180928130000 +0300" channel="HD1">
+    <title lang="en">Valencia vs Celta Vigo</title>
+    <sub-title lang="en">Spanish La Liga 2018/2019 Week 6</sub-title>
+    <category lang="en">Spanish League - Primera División</category>
+  </programme>
+  <programme start="20180928130000 +0300" stop="20180928140000 +0300" channel="HD1">
+    <title lang="en">F1 Best of Singapore Grand Prix, Singapore 2018</title>
+    <category lang="en">Leagues Summary</category>
+  </programme>
+  <programme start="20180928140000 +0300" stop="20180928150000 +0300" channel="HD1">
+    <title lang="en">UEFA Europa League  Highlights Show 2018/2019</title>
+    <sub-title lang="en">Group Stages - MD1</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180928150000 +0300" stop="20180928153000 +0300" channel="HD1">
+    <title lang="en">The Goals</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180928153000 +0300" stop="20180928171500 +0300" channel="HD1">
+    <title lang="en">Oxford United vs Manchester City</title>
+    <sub-title lang="en">Carabao Cup 2018/2019 (English League Cup)</sub-title>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20180928171500 +0300" stop="20180928190000 +0300" channel="HD1">
+    <title lang="en">Arsenal vs Brentford</title>
+    <sub-title lang="en">Carabao Cup 2018/2019 (English League Cup)</sub-title>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20180928190000 +0300" stop="20180928193000 +0300" channel="HD1">
+    <title lang="en">Bundesliga Special</title>
+    <sub-title lang="en">French World cup Champions</sub-title>
+    <category lang="en">German League - Bundesliga</category>
+  </programme>
+  <programme start="20180928193000 +0300" stop="20180928200000 +0300" channel="HD1">
+    <title lang="en">Best of CAF Champions League QF</title>
+    <sub-title lang="en">2nd Leg</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180928200000 +0300" stop="20180928203000 +0300" channel="HD1">
+    <title lang="en">The Goals</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180928203000 +0300" stop="20180928213000 +0300" channel="HD1">
+    <title lang="en">F1 Best of Singapore Grand Prix, Singapore 2018</title>
+    <category lang="en">Leagues Summary</category>
+  </programme>
+  <programme start="20180928213000 +0300" stop="20180928220000 +0300" channel="HD1">
+    <title lang="en">ATP WORLD TOUR UNCOVERED</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180928220000 +0300" stop="20180928223000 +0300" channel="HD1">
+    <title lang="en">This Is Paris 2018/2019</title>
+    <category lang="en">French League - Ligue 1</category>
+    <episode-num system="onscreen">E.7</episode-num>
+  </programme>
+  <programme start="20180928223000 +0300" stop="20180928230000 +0300" channel="HD1">
+    <title lang="en">FootBrazil 2018/2019</title>
+    <category lang="en">Sports General</category>
+    <episode-num system="onscreen">E.11</episode-num>
+  </programme>
+  <programme start="20180928230000 +0300" stop="20180928233000 +0300" channel="HD1">
+    <title lang="en">FIA EUROPEAN TRUCK RACING ETRC ZOLDER</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180928233000 +0300" stop="20180928235900 +0300" channel="HD1">
+    <title lang="en">Sporting Greats</title>
+    <sub-title lang="en">Mia Hamm</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180925013000 +0300" stop="20180925020000 +0300" channel="HD2">
+    <title lang="en">West Ham Vs Chelsea Mini Match</title>
+    <sub-title lang="en">EPL 2018/2019</sub-title>
+    <category lang="en">Leagues Summary</category>
+  </programme>
+  <programme start="20180925020000 +0300" stop="20180925034500 +0300" channel="HD2">
+    <title lang="en">Manchester United vs Wolverhampton Wanderers</title>
+    <sub-title lang="en">English Premier League 2018/2019 Week 6</sub-title>
+    <category lang="en">English Premier League</category>
+  </programme>
+  <programme start="20180925034500 +0300" stop="20180925053000 +0300" channel="HD2">
+    <title lang="en">Brighton and Hove Albion vs Tottenham Hotspur</title>
+    <sub-title lang="en">English Premier League 2018/2019 Week 6</sub-title>
+    <category lang="en">English Premier League</category>
+  </programme>
+  <programme start="20180925053000 +0300" stop="20180925063000 +0300" channel="HD2">
+    <title lang="en">UEFA Europa League  Highlights Show 2018/2019</title>
+    <sub-title lang="en">Group Stages - MD1</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180925063000 +0300" stop="20180925081500 +0300" channel="HD2">
+    <title lang="en">Fulham vs Watford</title>
+    <sub-title lang="en">English Premier League 2018/2019 Week 6</sub-title>
+    <category lang="en">English Premier League</category>
+  </programme>
+  <programme start="20180925081500 +0300" stop="20180925100000 +0300" channel="HD2">
+    <title lang="en">Leicester City vs Huddersfield Town</title>
+    <sub-title lang="en">English Premier League 2018/2019 Week 6</sub-title>
+    <category lang="en">English Premier League</category>
+  </programme>
+  <programme start="20180925100000 +0300" stop="20180925114700 +0300" channel="HD2">
+    <title lang="en">Berkane vs Vita Club</title>
+    <sub-title lang="en">CAF CUP 2018 - QF 2nd LEG</sub-title>
+    <category lang="en">CAF Confederation Cup</category>
+  </programme>
+  <programme start="20180925114700 +0300" stop="20180925133000 +0300" channel="HD2">
+    <title lang="en">Burnley vs A.F.C. Bournemouth</title>
+    <sub-title lang="en">English Premier League 2018/2019 Week 6</sub-title>
+    <category lang="en">English Premier League</category>
+  </programme>
+  <programme start="20180925133000 +0300" stop="20180925140000 +0300" channel="HD2">
+    <title lang="en">500 Great Goals</title>
+    <sub-title lang="en">Episode 7</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180925140000 +0300" stop="20180925143000 +0300" channel="HD2">
+    <title lang="en">Cardiff Vs Manchester City Mini Match</title>
+    <sub-title lang="en">EPL 2018/2019</sub-title>
+    <category lang="en">Leagues Summary</category>
+  </programme>
+  <programme start="20180925143000 +0300" stop="20180925150000 +0300" channel="HD2">
+    <title lang="en">Liverpool Vs Southampton Mini Match</title>
+    <sub-title lang="en">EPL 2018/2019</sub-title>
+    <category lang="en">Leagues Summary</category>
+  </programme>
+  <programme start="20180925150000 +0300" stop="20180925153000 +0300" channel="HD2">
+    <title lang="en">Manchester United Vs Wolves Mini Match</title>
+    <sub-title lang="en">EPL 2018/2019</sub-title>
+    <category lang="en">Leagues Summary</category>
+  </programme>
+  <programme start="20180925153000 +0300" stop="20180925160000 +0300" channel="HD2">
+    <title lang="en">Brighton Vs Tottenham Mini Match</title>
+    <sub-title lang="en">EPL 2018/2019</sub-title>
+    <category lang="en">Leagues Summary</category>
+  </programme>
+  <programme start="20180925160000 +0300" stop="20180925174500 +0300" channel="HD2">
+    <title lang="en">West Ham United vs Chelsea</title>
+    <sub-title lang="en">English Premier League 2018/2019 Week 6</sub-title>
+    <category lang="en">English Premier League</category>
+  </programme>
+  <programme start="20180925174500 +0300" stop="20180925193000 +0300" channel="HD2">
+    <title lang="en">Arsenal vs Everton</title>
+    <sub-title lang="en">English Premier League 2018/2019 Week 6</sub-title>
+    <category lang="en">English Premier League</category>
+  </programme>
+  <programme start="20180925193000 +0300" stop="20180925200000 +0300" channel="HD2">
+    <title lang="en">Footballs Greatest</title>
+    <sub-title lang="en">Graeme Souness</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180925200000 +0300" stop="20180925203000 +0300" channel="HD2">
+    <title lang="en">Gary Neville's Soccerbox</title>
+    <sub-title lang="en">Thierry Henry</sub-title>
+    <category lang="en">English Premier League</category>
+  </programme>
+  <programme start="20180925203000 +0300" stop="20180925213000 +0300" channel="HD2">
+    <title lang="en">EPL Review 2018/19 ep.6</title>
+    <category lang="en">English Premier League</category>
+  </programme>
+  <programme start="20180925213000 +0300" stop="20180926003000 +0300" channel="HD2">
+    <title lang="en">Manchester United vs Derby County</title>
+    <sub-title lang="en">Carabao Cup 2018/2019 (English League Cup)</sub-title>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20180926213000 +0300" stop="20180927003000 +0300" channel="HD2">
+    <title lang="en">Manchester United vs Derby County</title>
+    <sub-title lang="en">Carabao Cup 2018/2019 (English League Cup)</sub-title>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20180927003000 +0300" stop="20180927013000 +0300" channel="HD2">
+    <title lang="en">EPL Review 2018/19 ep.6</title>
+    <category lang="en">English Premier League</category>
+  </programme>
+  <programme start="20180927013000 +0300" stop="20180927031500 +0300" channel="HD2">
+    <title lang="en">Hibernian vs Aberdeen</title>
+    <sub-title lang="en">SPFL Scottish Premiership - 2018/2019</sub-title>
+    <category lang="en">Scottish Premier League</category>
+  </programme>
+  <programme start="20180927031500 +0300" stop="20180927061500 +0300" channel="HD2">
+    <title lang="en">Manchester United vs Derby County</title>
+    <sub-title lang="en">Carabao Cup 2018/2019 (English League Cup)</sub-title>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20180927061500 +0300" stop="20180927080000 +0300" channel="HD2">
+    <title lang="en">West Bromwich Albion vs Crystal Palace</title>
+    <sub-title lang="en">Carabao Cup 2018/2019 (English League Cup)</sub-title>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20180927080000 +0300" stop="20180927090000 +0300" channel="HD2">
+    <title lang="en">Best of UEFA CL MD1</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180927090000 +0300" stop="20180927104500 +0300" channel="HD2">
+    <title lang="en">Wolverhampton Wanderers vs Carabao Cup 2018/2019 English League Cup</title>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20180927104500 +0300" stop="20180927123000 +0300" channel="HD2">
+    <title lang="en">Hibernian vs Aberdeen</title>
+    <sub-title lang="en">SPFL Scottish Premiership - 2018/2019</sub-title>
+    <category lang="en">Scottish Premier League</category>
+  </programme>
+  <programme start="20180927123000 +0300" stop="20180927130000 +0300" channel="HD2">
+    <title lang="en">Footballs Greatest</title>
+    <sub-title lang="en">Graeme Souness</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180927130000 +0300" stop="20180927133000 +0300" channel="HD2">
+    <title lang="en">The Scorers</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180927133000 +0300" stop="20180927151500 +0300" channel="HD2">
+    <title lang="en">Manchester United vs Derby County</title>
+    <sub-title lang="en">Carabao Cup 2018/2019 (English League Cup)</sub-title>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20180927151500 +0300" stop="20180927171500 +0300" channel="HD2">
+    <title lang="en">West Bromwich Albion vs Crystal Palace</title>
+    <sub-title lang="en">Carabao Cup 2018/2019 (English League Cup)</sub-title>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20180927171500 +0300" stop="20180927183000 +0300" channel="HD2">
+    <title lang="en">EPL Review 2018/19 ep.6</title>
+    <category lang="en">English Premier League</category>
+  </programme>
+  <programme start="20180927183000 +0300" stop="20180927203000 +0300" channel="HD2">
+    <title lang="en">Manchester United vs Derby County</title>
+    <sub-title lang="en">Carabao Cup 2018/2019 (English League Cup)</sub-title>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20180927203000 +0300" stop="20180927210000 +0300" channel="HD2">
+    <title lang="en">EPL Netbusters 2018/19 ep.5</title>
+    <category lang="en">English Premier League</category>
+  </programme>
+  <programme start="20180927210000 +0300" stop="20180928003000 +0300" channel="HD2">
+    <title lang="en">Liverpool vs Chelsea</title>
+    <sub-title lang="en">Carabao Cup 2018/2019 (English League Cup)</sub-title>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20180928210000 +0300" stop="20180929003000 +0300" channel="HD2">
+    <title lang="en">Liverpool vs Chelsea</title>
+    <sub-title lang="en">Carabao Cup 2018/2019 (English League Cup)</sub-title>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20180929003000 +0300" stop="20180929013000 +0300" channel="HD2">
+    <title lang="en">UEFA Europa League  Highlights Show 2018/2019</title>
+    <sub-title lang="en">Group Stages - MD1</sub-title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180929013000 +0300" stop="20180929031500 +0300" channel="HD2">
+    <title lang="en">St Johnstone vs Celtic</title>
+    <sub-title lang="en">SPFL Scottish Premiership - 2018/2019</sub-title>
+    <category lang="en">Scottish Premier League</category>
+  </programme>
+  <programme start="20180929031500 +0300" stop="20180929064500 +0300" channel="HD2">
+    <title lang="en">Liverpool vs Chelsea</title>
+    <sub-title lang="en">Carabao Cup 2018/2019 (English League Cup)</sub-title>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20180929064500 +0300" stop="20180929083000 +0300" channel="HD2">
+    <title lang="en">Tottenham Hotspur vs Watford</title>
+    <sub-title lang="en">Carabao Cup 2018/2019 (English League Cup)</sub-title>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20180929083000 +0300" stop="20180929090000 +0300" channel="HD2">
+    <title lang="en">EPL Review 2018/19 ep.6</title>
+    <category lang="en">English Premier League</category>
+  </programme>
+  <programme start="20180929090000 +0300" stop="20180929104500 +0300" channel="HD2">
+    <title lang="en">Arsenal vs Brentford</title>
+    <sub-title lang="en">Carabao Cup 2018/2019 (English League Cup)</sub-title>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20180929104500 +0300" stop="20180929123000 +0300" channel="HD2">
+    <title lang="en">St Johnstone vs Celtic</title>
+    <sub-title lang="en">SPFL Scottish Premiership - 2018/2019</sub-title>
+    <category lang="en">Scottish Premier League</category>
+  </programme>
+  <programme start="20180929123000 +0300" stop="20180929130000 +0300" channel="HD2">
+    <title lang="en">EPL Netbusters 2018/19 ep.5</title>
+    <category lang="en">English Premier League</category>
+  </programme>
+  <programme start="20180929130000 +0300" stop="20180929133000 +0300" channel="HD2">
+    <title lang="en">The Goals</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180929133000 +0300" stop="20180929151500 +0300" channel="HD2">
+    <title lang="en">Liverpool vs Chelsea</title>
+    <sub-title lang="en">Carabao Cup 2018/2019 (English League Cup)</sub-title>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20180929151500 +0300" stop="20180929170000 +0300" channel="HD2">
+    <title lang="en">Tottenham Hotspur vs Watford</title>
+    <sub-title lang="en">Carabao Cup 2018/2019 (English League Cup)</sub-title>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20180929170000 +0300" stop="20180929173000 +0300" channel="HD2">
+    <title lang="en">EPL Netbusters 2018/19 ep.6</title>
+    <category lang="en">English Premier League</category>
+  </programme>
+  <programme start="20180929173000 +0300" stop="20180929191500 +0300" channel="HD2">
+    <title lang="en">West Bromwich Albion vs Crystal Palace</title>
+    <sub-title lang="en">Carabao Cup 2018/2019 (English League Cup)</sub-title>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20180929191500 +0300" stop="20180929210000 +0300" channel="HD2">
+    <title lang="en">Liverpool vs Chelsea</title>
+    <sub-title lang="en">Carabao Cup 2018/2019 (English League Cup)</sub-title>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20180929210000 +0300" stop="20180929213000 +0300" channel="HD2">
+    <title lang="en">EPL World 2018/19 ep. 15</title>
+    <category lang="en">English Premier League</category>
+  </programme>
+  <programme start="20180929213000 +0300" stop="20180929220000 +0300" channel="HD2">
+    <title lang="en">The Scorers</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180929220000 +0300" stop="20180929223000 +0300" channel="HD2">
+    <title lang="en">EPL Netbusters 2018/19 ep.5</title>
+    <category lang="en">English Premier League</category>
+  </programme>
+  <programme start="20180929223000 +0300" stop="20180929230000 +0300" channel="HD2">
+    <title lang="en">The Goals</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20180929230000 +0300" stop="20180929233000 +0300" channel="HD2">
+    <title lang="en">EPL Review 2018/19 ep.6</title>
+    <category lang="en">English Premier League</category>
+  </programme>
+  <programme start="20180929233000 +0300" stop="20180929235900 +0300" channel="HD2">
+    <title lang="en">Crystal Palace vs Newcastle United</title>
+    <sub-title lang="en">English Premier League 2018/2019 Week 6</sub-title>
+    <category lang="en">English Premier League</category>
+  </programme>
+</tv>
