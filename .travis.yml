@@ -16,14 +16,17 @@ env:
   - WEBGRAB_FILENAME=configs/ar_osn.xml
   - WEBGRAB_FILENAME=configs/ar_arab.xml
   - WEBGRAB_FILENAME=configs/fr_telerama.xml
+  - WEBGRAB_FILENAME=configs/fr_telerama.be.xml
   - WEBGRAB_FILENAME=configs/fr_canal.xml
+  - WEBGRAB_FILENAME=configs/fr_canal2.xml
   - WEBGRAB_FILENAME=configs/others.xml
 script:
 - docker run -it --rm -v "${PWD}/${WEBGRAB_FILENAME}:/config2/WebGrab++.config.xml" -v "${PWD}:/data" synker/webgraboneshot:latest
 - git remote add origin2 https://${GITHUB_API_TOKEN}@github.com/fazzani/testWebgrab.git > /dev/null 2>&1
+- ls -la && git status
 - git add --all && (git commit -m "Webgrab config.xml" || echo "No changes to commit")
 - git pull origin2 HEAD:master
-- git push origin2 HEAD:master --force
+- git push origin2 HEAD:master
 
 jobs:
   include:
