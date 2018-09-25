@@ -1,0 +1,20 @@
+sudo: true
+services:
+  - docker
+git:
+  depth: false
+branches:
+  only:
+  - master
+  
+script:
+- docker run -it --rm -v "${PWD}/config.xml:/config2/WebGrab++.config.xml" -v "${PWD}:/data" synker/webgraboneshot:latest
+- git remote add origin2 https://${GITHUB_API_TOKEN}@github.com/fazzani/testWebgrab.git > /dev/null 2>&1
+- git add merge.tar.gz && git commit -m "Webgrab config.xml" && git push origin2 HEAD:master
+
+notifications:
+  email:
+    recipients:
+      - tunisienheni@gmail.com
+    on_success: change
+    on_failure: change
