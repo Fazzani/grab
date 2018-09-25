@@ -6,13 +6,13 @@ git:
 branches:
   only:
   - master
+if: (commit_message =~ ^daily) AND (branch = master)
   
 script:
 - docker run -it --rm -v "${PWD}/config.xml:/config2/WebGrab++.config.xml" -v "${PWD}:/data" synker/webgraboneshot:latest
 - git remote add origin2 https://${GITHUB_API_TOKEN}@github.com/fazzani/testWebgrab.git > /dev/null 2>&1
-- git add --all && git commit -m "Webgrab config.xml" && git push origin2 HEAD:master
-
-if: (commit_message =~ ^daily) AND (branch = master)
+- git add --all && git commit -m "Webgrab config.xml" && git push origin2 HEAD:master  2> /dev/null
+- if [ $? -eq 0 ] ||  [ $? -eq 0 ]; then exit 0; fi;
 
 notifications:
   email:
