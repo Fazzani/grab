@@ -12,12 +12,12 @@ branches:
   - master
 if: (commit_message =~ ^daily) AND (branch = master)
 env:
-  - WEBGRAB_FILENAME=config/ar_bein.xml
-  - WEBGRAB_FILENAME=config/ar_osn.xml
-  - WEBGRAB_FILENAME=config/ar_arab.xml
-  - WEBGRAB_FILENAME=config/fr_telerama.xml
-  - WEBGRAB_FILENAME=config/fr_canal.xml
-  - WEBGRAB_FILENAME=config/others.xml
+  - WEBGRAB_FILENAME=configs/ar_bein.xml
+  - WEBGRAB_FILENAME=configs/ar_osn.xml
+  - WEBGRAB_FILENAME=configs/ar_arab.xml
+  - WEBGRAB_FILENAME=configs/fr_telerama.xml
+  - WEBGRAB_FILENAME=configs/fr_canal.xml
+  - WEBGRAB_FILENAME=configs/others.xml
 script:
 - docker run -it --rm -v "${PWD}/${WEBGRAB_FILENAME}:/config2/WebGrab++.config.xml" -v "${PWD}:/data" synker/webgraboneshot:latest
 - git remote add origin2 https://${GITHUB_API_TOKEN}@github.com/fazzani/testWebgrab.git > /dev/null 2>&1
