@@ -21,8 +21,9 @@ script:
 - git pull origin2 HEAD:master
 - git push origin2 HEAD:master --force
 
-include:
-  jobs:
+jobs:
+  include:
+    stage: merging
     name: Merging xmltv files
     script:
     - chmod +x docker/merge.sh
