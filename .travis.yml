@@ -1,4 +1,4 @@
-sudo: true
+language: minimal
 services:
   - docker
 git:
@@ -11,6 +11,8 @@ script:
 - docker run -it --rm -v "${PWD}/config.xml:/config2/WebGrab++.config.xml" -v "${PWD}:/data" synker/webgraboneshot:latest
 - git remote add origin2 https://${GITHUB_API_TOKEN}@github.com/fazzani/testWebgrab.git > /dev/null 2>&1
 - git add --all && git commit -m "Webgrab config.xml" && git push origin2 HEAD:master
+
+if: (commit_message =~ ^daily) AND (branch = master)
 
 notifications:
   email:
