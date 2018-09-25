@@ -1,0 +1,213 @@
+<?xml version="1.0"?>
+<!-- Configuration file for WebGrab+Plus, the incremental Electronic-Program-Guide web grabber
+by Jan van Straaten, December 2011
+Version V1.1.1 -->
+
+<settings>
+  <!-- filename      
+The path (required) + filename where the epgguide xml file is /will be located. It must include drive and folder. Like C:\ProgramData\ServerCare\WebGrab\guide.xml
+If the file already exist (from last run or from another xmltv source) it will read it and use what fits the requested output. In that case the file will be updated. If no such file exist it will be created.
+Change the following to your own needs  :
+-->
+ <filename>fr_epg.xmltv</filename>
+  
+  <!-- modes:   
+d or debug    saves the output xmltv file in a file with -debug addition in the file name . The original xmltv file will be kept.  
+m or measure  measures the time for each updated show or new show added 
+n = nomark    disables the update-type marking (n) (c) (g) (r) at the end of the description
+v or verify   verifies the result following a channel update
+w or wget     use wget as grab engine (might improve site recognition in rare cases)
+Note that modes can be added in one line, separated by comma's or spaces, or both. 
+-->
+  <mode>m</mode>
+  
+  <!-- postprocess:
+  Optional , specifies which of the available postprocesses should run.
+  syntax: <postprocess run="" grab="">processname</postprocess>
+  
+(optional) grab="yes" or "y" or "true" or "on" : grabs epg first (default)     ; "no" or "n" or "false" or "off" : skip epg grabbing 
+(optional) run="yes" or "y" or "true" or "on" : runs the postprocess (default) ; "no" or "n" or "false" or "off" : do not run post process
+processname: the process to run : 
+processname = mdb runs a build in movie database grabber (read / adapt  ...\mdb\mdb.confif.xml
+processname = rex runs a postprocess that re-allocates xmltv elements (read / adapt  ...\rex\rex.config.xml)
+examples:
+  <postprocess run="on" grab="on">mdb</postprocess>  grabs first , then run mdb
+  <postprocess>mdb</postprocess>  same as above (uses defaults for grab and run)
+  <postprocess grab="no">rex</postprocess>  runs rex without grab (existing xmltv file)
+-->
+  <postprocess run="n" grab="y">mdb</postprocess>
+  
+  <!-- proxy:
+This setting is only required if your computer is connected to internet behind a proxy
+specify proxy address as ip:port like <proxy>192.168.2.4:8080</proxy>
+or as <proxy>automatic</proxy> which attempts to read the proxy address from your connection settings. If your proxy requires a username and password, add them like 
+<proxy user="username" password="password">192.168.2.4:8080</proxy>  
+  <proxy>192.168.2.2:8080</proxy>
+-->
+<proxy>automatic</proxy>
+
+  <!-- user agent:
+The user agent string that is sent to the tvguide website. Some sites require this. Valid values are either 
+, in which case the program generates a random string, or any other string like <user-agent>Mozilla/5.0 (Windows; U; MSIE 9.0; WIndows NT 9.0; en-US)</user-agent>  <user-agent>random</user-agent><user-agent>Mozilla/5.0 (Windows; U; MSIE 9.0; WIndows NT 9.0; en-US)</user-agent><user-agent>Mozilla/5.0 (Linux; U; Android 0.5; en-us) AppleWebKit/522+ (KHTML, like Gecko) Safari/419.3</user-agent>
+-->
+<user-agent>Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; yie9)</user-agent>
+  
+  
+  <!-- logging: 
+simply put 'on' in there to start logging, anything else will turn it off 
+-->
+  <logging>on</logging>
+
+  <!--retry
+The most simple form of retry defines the amount of times the grabber engine should attempt to capture a web page before giving up and continuing with the next page, like <retry>4</retry>
+It is also the place to specify delays between retries and the grabbing of html pages with the following attributes: timeout; the delay between retries (default is 10 sec), channel-delay; the delay between subsequent channels (default is 0), index-delay; the delay between the grabbing of index pages (default is 0), show-delay; the delay between the grabbing of detail show pages (default is 0). In the most complete version it will look like this:
+<retry time-out="5" channel-delay="5" index-delay="1" show-delay="1">4</retry> show-delay="2"
+-->
+  <retry time-out="15">1</retry>
+
+  <!--skip
+It takes two values H,m  separated by a comma: 
+The first H : if a show takes more than H hours, it's either tellsell or other commercial fluff, or simply a mistake or error, we want to skip such shows.
+The second m : if a show is less or equal than m minutes it is probably an announcement , in any case not a real show. 
+When entered as <skip></skip> the defaults are 12 hours, 1 minute, same as <skip>12,1</skip>. To disable this function enter  or just leave out this entry completely<skip>14, 1</skip><skip>16,1</skip>
+-->
+  
+<skip>12</skip>
+  
+  <!--timespan
+The timespan for which shows will be grabbed.
+It takes one or two values separated by a comma or a space. The first is the number of days 
+(including today) to download, note that 0 is today. The second (optional) is a time 
+specified between 0:00 and 24:00 which will reduce the download to only the one show (per day) 
+which is scheduled around the specified time. Any value between start time (including) and 
+stop time will do
+This -one-show-only mode is helpfull if a SiteIni file needs to be debugged
+-->
+  <timespan>4</timespan>
+
+  <!-- update mode
+i or incremental     only updates of changes , gabs, repairs and new shows
+l or light           forces update of today and new shows, rest as incremental
+s or smart           forces update of today and tomorrow and new shows, rest as light
+f or full or force   forces full update 
+If one of these values is entered here it will apply to all channels selected for update 
+(see channel).  This value overrules the value of 'update' for in the individual channels 
+If no value is entered here the individual 'update' values from the channellist are taken 
+-->
+  <update>i</update>
+    <channel update="i" site="telerama.fr" site_id="6ter,1403" xmltv_id="6ter">6ter</channel>
+    <channel update="i" site="telerama.fr" site_id="warner-tv,2334" xmltv_id="Warner TV">Warner TV</channel>
+    <channel update="i" site="telerama.fr" site_id="cherie-25,1399" xmltv_id="Chérie 25">Chérie 25</channel>
+    <channel update="i" site="telerama.fr" site_id="c8,445" xmltv_id="C8">C8</channel>
+    <channel update="i" site="telerama.fr" site_id="cstar,458" xmltv_id="CSTAR">CSTAR</channel>
+    <channel update="i" site="telerama.fr" site_id="france-o,160" xmltv_id="France Ô">France Ô</channel>
+    <channel update="i" site="telerama.fr" site_id="franceinfo,2111" xmltv_id="Franceinfo">Franceinfo</channel>
+    <channel update="i" site="telerama.fr" site_id="hd1,1404" xmltv_id="HD1">HD1</channel>
+    <channel update="i" site="telerama.fr" site_id="la-chaine-parlementaire,234" xmltv_id="La Chaîne parlementaire">La Chaîne parlementaire</channel>
+    <!-- <channel update="i" site="telerama.fr" site_id="lequipe,1401" xmltv_id="L'Equipe">L'Equipe</channel> -->
+    <channel update="i" site="telerama.fr" site_id="nrj-12,444" xmltv_id="NRJ 12">NRJ 12</channel>
+    <channel update="i" site="telerama.fr" site_id="nt-1,446" xmltv_id="NT 1">NT 1</channel>
+    <channel update="i" site="telerama.fr" site_id="numero-23,1402" xmltv_id="Numéro 23">Numéro 23</channel>
+    <channel update="i" site="telerama.fr" site_id="rmc-decouverte,1400" xmltv_id="RMC Découverte">RMC Découverte</channel>
+	<channel update="i" site="telerama.fr" site_id="canal-series,1563" xmltv_id="Canal+ Séries">Canal+ Séries</channel>
+    <channel update="i" site="telerama.fr" site_id="tmc,195" xmltv_id="TMC">TMC</channel>
+    <channel update="i" site="telerama.fr" site_id="w9,119" xmltv_id="W9">W9</channel>
+    <channel update="i" site="telerama.fr" site_id="idf1,701" xmltv_id="IDF1">IDF1</channel>
+    <channel update="i" site="telerama.fr" site_id="action,10" xmltv_id="Action">Action</channel>
+    <channel update="i" site="telerama.fr" site_id="cine-fx,288" xmltv_id="Ciné FX">Ciné FX</channel>
+    <channel update="i" site="telerama.fr" site_id="polar,289" xmltv_id="Polar">Ciné+ Polar</channel>
+    <channel update="i" site="telerama.fr" site_id="cine-club,285" xmltv_id="Ciné+ Club">Ciné+ Club</channel>
+    <channel update="i" site="telerama.fr" site_id="paramount-channel,1562" xmltv_id="Paramount Channel">Paramount Channel</channel>
+    <channel update="i" site="telerama.fr" site_id="tcm-cinema,185" xmltv_id="TCM Cinéma">TCM Cinéma</channel>
+    <channel update="i" site="telerama.fr" site_id="13e-rue,2" xmltv_id="13e Rue">13e Rue</channel>
+    <channel update="i" site="telerama.fr" site_id="ab-1,5" xmltv_id="AB 1">AB 1</channel>
+    <channel update="i" site="telerama.fr" site_id="ab-3,254" xmltv_id="AB 3">AB 3</channel>
+    <channel update="i" site="telerama.fr" site_id="ab-4,303" xmltv_id="AB 4">AB 4</channel>
+    <channel update="i" site="telerama.fr" site_id="e,405" xmltv_id="E !">E! (fr)</channel>
+    <channel update="i" site="telerama.fr" site_id="paris-premiere,145" xmltv_id="Paris Première">Paris Première</channel>
+    <channel update="i" site="telerama.fr" site_id="rtl-9,115" xmltv_id="RTL 9">RTL 9</channel>
+    <channel update="i" site="telerama.fr" site_id="serieclub,49" xmltv_id="serieclub">série club</channel>
+    <channel update="i" site="telerama.fr" site_id="teva,191" xmltv_id="Téva">Téva</channel>
+    <channel update="i" site="telerama.fr" site_id="tvbreizh,225" xmltv_id="TvBreizh">TvBreizh</channel>
+    <channel update="i" site="telerama.fr" site_id="chasse-et-peche,38" xmltv_id="Chasse et pêche">Chasse et pêche</channel>
+    <channel update="i" site="telerama.fr" site_id="discovery-channel,400" xmltv_id="Discovery Channel">Discovery Channel fr</channel>
+    <channel update="i" site="telerama.fr" site_id="discovery-science,1374" xmltv_id="Discovery Science">Discovery Science fr</channel>
+    <channel update="i" site="telerama.fr" site_id="equidia-life,1146" xmltv_id="Equidia Life">Equidia Life</channel>
+    <channel update="i" site="telerama.fr" site_id="equidia-live,64" xmltv_id="Equidia Live">Equidia Live</channel>
+    <!-- <channel update="i" site="telerama.fr" site_id="national-geographic,243" xmltv_id="National Geographic">National Geographic fr</channel> -->
+    <channel update="i" site="telerama.fr" site_id="science-vie-tv,63" xmltv_id="Science &amp; Vie TV">Science &amp; Vie TV</channel>
+    <channel update="i" site="telerama.fr" site_id="eurosport-1,76" xmltv_id="Eurosport 1">Eurosport 1</channel>
+    <channel update="i" site="telerama.fr" site_id="eurosport-2,439" xmltv_id="Eurosport 2">Eurosport 2</channel>
+    <channel update="i" site="telerama.fr" site_id="extreme-sports-channel,253" xmltv_id="Extreme Sports Channel">Extreme Sports Channel</channel>
+    <channel update="i" site="telerama.fr" site_id="infosport,94" xmltv_id="Infosport+">Infosport+</channel>
+    <channel update="i" site="telerama.fr" site_id="motorsport-tv,237" xmltv_id="Motorsport TV">Motorsport TV</channel>
+    <channel update="i" site="telerama.fr" site_id="oltv,463" xmltv_id="OLTV">OLTV</channel>
+    <channel update="i" site="telerama.fr" site_id="omtv,334" xmltv_id="OMTV">OMTV</channel>
+    <channel update="i" site="telerama.fr" site_id="onzeo,517" xmltv_id="Onzéo">Onzéo</channel>
+    <channel update="i" site="telerama.fr" site_id="sfr-sport-1,2095" xmltv_id="SFR Sport 1">SFR Sport 1</channel>
+    <channel update="i" site="telerama.fr" site_id="sfr-sport-2,675" xmltv_id="SFR Sport 2">SFR Sport 2</channel>
+    <channel update="i" site="telerama.fr" site_id="sfr-sport-3,1153" xmltv_id="SFR Sport 3">SFR Sport 3</channel>
+    <channel update="i" site="telerama.fr" site_id="sfr-sport-4k,2029" xmltv_id="SFR Sport 4K">SFR Sport 4K</channel>
+    <channel update="i" site="telerama.fr" site_id="sfr-sport-5,1382" xmltv_id="SFR Sport 5">SFR Sport 5</channel>
+    <channel update="i" site="telerama.fr" site_id="canal-j,32" xmltv_id="Canal J">Canal J</channel>
+    <channel update="i" site="telerama.fr" site_id="disney-channel-1,299" xmltv_id="Disney Channel +1">Disney Channel +1</channel>
+    <channel update="i" site="telerama.fr" site_id="disney-cinema,652" xmltv_id="Disney Cinema">Disney Cinema</channel>
+    <channel update="i" site="telerama.fr" site_id="disney-junior,300" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel update="i" site="telerama.fr" site_id="game-one,87" xmltv_id="Game One">Game One</channel>
+    <channel update="i" site="telerama.fr" site_id="ellegirl,403" xmltv_id="ElleGirl">ElleGirl</channel>
+    <channel update="i" site="telerama.fr" site_id="mangas,6" xmltv_id="Mangas">Mangas</channel>
+    <channel update="i" site="telerama.fr" site_id="teletoon1,293" xmltv_id="TéléToon+1">TéléToon+1</channel>
+    <channel update="i" site="telerama.fr" site_id="m6-music,453" xmltv_id="M6 Music">M6 Music</channel>
+    <channel update="i" site="telerama.fr" site_id="mcm,121" xmltv_id="MCM">MCM</channel>
+    <channel update="i" site="telerama.fr" site_id="rfm-tv,241" xmltv_id="RFM TV">RFM TV</channel>
+    <channel update="i" site="telerama.fr" site_id="mcm-top,343" xmltv_id="MCM Top">MCM Top</channel>
+    <channel update="i" site="telerama.fr" site_id="melody,265" xmltv_id="Melody">Melody</channel>
+    <channel update="i" site="telerama.fr" site_id="mezzo,125" xmltv_id="Mezzo">Mezzo</channel>
+    <channel update="i" site="telerama.fr" site_id="mezzo-live-hd,907" xmltv_id="Mezzo Live HD">Mezzo Live HD</channel>
+    <channel update="i" site="telerama.fr" site_id="mtv,128" xmltv_id="MTV">MTV</channel>
+    <channel update="i" site="telerama.fr" site_id="mtv-rocks,264" xmltv_id="MTV Rocks">MTV Rocks</channel>
+    <channel update="i" site="telerama.fr" site_id="mtv-base,263" xmltv_id="MTV Base">MTV Base</channel>
+    <channel update="i" site="telerama.fr" site_id="mtv-hits,262" xmltv_id="MTV Hits">MTV Hits</channel>
+    <channel update="i" site="telerama.fr" site_id="nrj-hits,605" xmltv_id="NRJ Hits">NRJ Hits</channel>
+    <channel update="i" site="telerama.fr" site_id="trace-urban,325" xmltv_id="Trace Urban">Trace Urban</channel>
+    <channel update="i" site="telerama.fr" site_id="classica-english,1353" xmltv_id="Classica English">Classica English</channel>
+    <channel update="i" site="telerama.fr" site_id="vh1-classic,690" xmltv_id="VH1 Classic">VH1 Classic</channel>
+    <channel update="i" site="telerama.fr" site_id="vh1,210" xmltv_id="VH1">VH1</channel>
+    <channel update="i" site="telerama.fr" site_id="bfm-business,1073" xmltv_id="BFM Business">BFM Business</channel>
+    <channel update="i" site="telerama.fr" site_id="euronews,140" xmltv_id="Euronews">Euronews</channel>
+    <channel update="i" site="telerama.fr" site_id="france-24,529" xmltv_id="France 24">France 24</channel>
+    <channel update="i" site="telerama.fr" site_id="tv5monde,205" xmltv_id="TV5MONDE">TV5MONDE</channel>
+    <channel update="i" site="telerama.fr" site_id="al-jazeera-english,525" xmltv_id="Al Jazeera English">Al Jazeera English</channel>
+    <channel update="i" site="telerama.fr" site_id="bbc-world-news,19" xmltv_id="BBC World News">BBC World News</channel>
+    <channel update="i" site="telerama.fr" site_id="bloomberg-uk-europe,410" xmltv_id="Bloomberg UK-Europe">Bloomberg UK-Europe</channel>
+    <channel update="i" site="telerama.fr" site_id="cnn,53" xmltv_id="CNN">CNN</channel>
+    <channel update="i" site="telerama.fr" site_id="dw-%28english%29,61" xmltv_id="DW (English)">DW (English)</channel>
+    <channel update="i" site="telerama.fr" site_id="2m-monde,340" xmltv_id="2M Monde">2M Monde</channel>
+    <channel update="i" site="telerama.fr" site_id="q2,108" xmltv_id="Q2">Q2</channel>
+    <channel update="i" site="telerama.fr" site_id="be-1,29" xmltv_id="BE 1">BE 1</channel>
+    <channel update="i" site="telerama.fr" site_id="be-cine,417" xmltv_id="Be Ciné">Be Ciné</channel>
+    <channel update="i" site="telerama.fr" site_id="be-series,418" xmltv_id="Be Séries">Be Séries</channel>
+    <channel update="i" site="telerama.fr" site_id="voosport-world-1,413" xmltv_id="VOOsport World 1">VOOsport World 1</channel>
+    <channel update="i" site="telerama.fr" site_id="voosport-world-2,414" xmltv_id="VOOsport World 2">VOOsport World 2</channel>
+    <channel update="i" site="telerama.fr" site_id="la-deux,187" xmltv_id="La Deux">La Deux</channel>
+    <channel update="i" site="telerama.fr" site_id="la-trois,892" xmltv_id="La Trois">La Trois</channel>
+    <channel update="i" site="telerama.fr" site_id="la-une,164" xmltv_id="La Une">La Une</channel>
+    <channel update="i" site="telerama.fr" site_id="plug-rtl,377" xmltv_id="Plug RTL">Plug RTL</channel>
+    <channel update="i" site="telerama.fr" site_id="vijf,691" xmltv_id="Vijf">Vijf</channel>
+    <channel update="i" site="telerama.fr" site_id="vier,214" xmltv_id="Vier">Vier</channel>
+    <channel update="i" site="telerama.fr" site_id="vtm,215" xmltv_id="VTM">VTM</channel>
+    <channel update="i" site="telerama.fr" site_id="real-madrid-tv,478" xmltv_id="Real Madrid TV">Real Madrid TV</channel>
+    <channel update="i" site="telerama.fr" site_id="tve,208" xmltv_id="TVE">TVE</channel>
+    <channel update="i" site="telerama.fr" site_id="tve-1,206" xmltv_id="TVE 1">TVE 1</channel>
+    <channel update="i" site="telerama.fr" site_id="rai-due,154" xmltv_id="Rai Due">Rai Due</channel>
+    <channel update="i" site="telerama.fr" site_id="rai-tre,155" xmltv_id="Rai Tre">Rai Tre</channel>
+    <channel update="i" site="telerama.fr" site_id="rai-uno,156" xmltv_id="Rai Uno">Rai Uno</channel>
+    <channel update="i" site="telerama.fr" site_id="rtpi,169" xmltv_id="RTPI">RTPI</channel>
+    <channel update="i" site="telerama.fr" site_id="rts-un,202" xmltv_id="RTS Un">RTS Un</channel>
+    <channel update="i" site="telerama.fr" site_id="rts-deux,183" xmltv_id="RTS Deux">RTS Deux</channel>
+    <channel update="i" site="telerama.fr" site_id="srf-1,59" xmltv_id="SRF 1">SRF 1</channel>
+    <channel update="i" site="telerama.fr" site_id="srf-2,174" xmltv_id="SRF 2">SRF 2</channel>
+    <channel update="i" site="telerama.fr" site_id="stingray-brava,835" xmltv_id="Stingray Brava">Stingray Brava</channel>
+    <channel update="i" site="telerama.fr" site_id="boing,924" xmltv_id="Boing">Boing</channel>
+    <channel update="i" site="telerama.fr" site_id="nickelodeon-junior,888" xmltv_id="Nickelodeon Junior">Nickelodeon Junior</channel>
+    </settings>
