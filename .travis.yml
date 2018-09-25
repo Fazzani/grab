@@ -18,7 +18,8 @@ script:
 - docker run -it --rm -v "${PWD}/${WEBGRAB_FILENAME}:/config2/WebGrab++.config.xml" -v "${PWD}:/data" synker/webgraboneshot:latest
 - git remote add origin2 https://${GITHUB_API_TOKEN}@github.com/fazzani/testWebgrab.git > /dev/null 2>&1
 - git add --all && (git commit -m "Webgrab config.xml" || echo "No changes to commit")
-- git pull origin2 && git push origin2 HEAD:master --force
+- git pull origin2 HEAD:master
+- git push origin2 HEAD:master --force
 
 notifications:
   email:
