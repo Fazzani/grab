@@ -1,6 +1,6 @@
 # DAILY EPG
 
-[![Build Status](https://travis-ci.org/Fazzani/testWebgrab.svg?branch=master)](https://travis-ci.org/Fazzani/testWebgrab)
+[![Build Status](https://travis-ci.org/Fazzani/grab.svg?branch=master)](https://travis-ci.org/Fazzani/grab)
 
 ## TODO
 
