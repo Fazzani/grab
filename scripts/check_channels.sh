@@ -66,7 +66,7 @@ echo '</tv>' >> $outputfile
 
 xml2json $outputfile $outputfile_json
 
-cat $outputfile_json | jq -r '.tv.channel[] | [ .id, .url, .icon.src ] | @csv' | \
+cat $outputfile_json | jq -r '.tv.channel[] | [ .id, .url, .icon.src ] | @csv' | tr -d \" | \
 awk -v FS="," 'BEGIN{printf "|ID\t|Url\t|Icon|\n";printf "|:----|:---:|:---:|\n"}{printf "|%s|%s|%s|\n",$1,$2,$3}' >  channels.md
 
 #curl \
