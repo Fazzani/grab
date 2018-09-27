@@ -67,7 +67,7 @@ echo '</tv>' >> $outputfile
 xml2json $outputfile $outputfile_json
 
 cat $outputfile_json | jq -r '.tv.channel[] | [ .id, .url, .icon.src ] | @tsv' | \
-awk -v FS="," 'BEGIN{print "|ID\t|Url\t|Icon|";print "|:----|:---:|:---:|"}{printf "|%s\t|%s\t|%s|",$1,$2,$3}' >  channels.md
+awk -v FS=" " 'BEGIN{printf "|ID\t|Url\t|Icon|";printf "|:----|:---:|:---:|"}{printf "|%s|%s|%s|",$1,$2,$3}' >  channels.md
 
 #curl \
 #-H "Accept: application/json" \
