@@ -66,9 +66,9 @@ echo '</tv>' >> $outputfile
 
 xml2json $outputfile $outputfile_json
 
-echo "# Daily EPG" > readme.md
-echo "## channels list" >> readme.md
-
+echo -e "# Daily EPG" > readme.md
+echo -e "## channels list" >> readme.md
+echo -e "[All channels link](https://github.com/Fazzani/grab/blob/master/merge.tar.gz?raw=true)"
 cat $outputfile_json | jq -r '.tv.channel[] | [ .id, .url, .icon.src ] | @csv' | tr -d \" | \
 awk -v FS="," 'BEGIN{printf "|Icon|Channel|Site|\n";printf "|:----|:---:|:---:|\n"}{printf "|![icon](%s)|%s|%s|\n",$3,$1,$2}' >>  readme.md
 
@@ -80,7 +80,7 @@ awk -v FS="," 'BEGIN{printf "|Icon|Channel|Site|\n";printf "|:----|:---:|:---:|\
 # Push to Git
 
 git remote add origin2 https://${GITHUB_API_TOKEN}@github.com/fazzani/grab.git > /dev/null 2>&1
-git add $outputfile $outputfile_json channels.md && git commit -m "check channels" && git push origin2 HEAD:master
+git add $outputfile $outputfile_json readme.md && git commit -m "check channels" && git push origin2 HEAD:master
 
 echo -e  "The End.${NC}"
 exit 0
