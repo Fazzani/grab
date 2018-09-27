@@ -42,14 +42,14 @@ jobs:
     - git push origin2 HEAD:master
   include:
     stage: Update readme
-	name: Update readme
-	before_script:
+    name: Update readme
+    before_script:
       - sudo apt-get update -qq
       - sudo apt-get install libxml2-utils xmlstarlet -y
       - npm install -g xml2json-cli
-	script:
-	- chmod +x ./scripts/check_channels.sh
-	- ./scripts/check_channels.sh *.xmltv
+    script:
+      - chmod +x ./scripts/check_channels.sh
+      - ./scripts/check_channels.sh *.xmltv
 
 notifications:
   email:
