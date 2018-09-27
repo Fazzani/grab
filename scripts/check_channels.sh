@@ -66,8 +66,11 @@ echo '</tv>' >> $outputfile
 
 xml2json $outputfile $outputfile_json
 
+echo "# Daily EPG" > readme.md
+echo "## channels list" >> readme.md
+
 cat $outputfile_json | jq -r '.tv.channel[] | [ .id, .url, .icon.src ] | @csv' | tr -d \" | \
-awk -v FS="," 'BEGIN{printf "|ID\t|Url\t|Icon|\n";printf "|:----|:---:|:---:|\n"}{printf "|![icon](%s)|%s|%s|\n",$3,$1,$2}' >  channels.md
+awk -v FS="," 'BEGIN{printf "|Icon|Channel|Site|\n";printf "|:----|:---:|:---:|\n"}{printf "|![icon](%s)|%s|%s|\n",$3,$1,$2}' >>  readme.md
 
 #curl \
 #-H "Accept: application/json" \
