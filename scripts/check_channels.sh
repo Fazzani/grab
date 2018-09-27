@@ -69,7 +69,7 @@ xml2json $outputfile $outputfile_json
 echo -e "# Daily EPG" > readme.md
 echo -e "[![Build Status](https://travis-ci.org/Fazzani/grab.svg?branch=master)](https://travis-ci.org/Fazzani/grab)" >> readme.md
 echo -e "## channels list" >> readme.md
-echo -e "[All channels link](https://github.com/Fazzani/grab/blob/master/merge.tar.gz?raw=true)" >> readme.md
+echo -e "[All channels link](https://github.com/Fazzani/grab/blob/master/merge.tar.gz?raw=true)\n\r" >> readme.md
 cat $outputfile_json | jq -r '.tv.channel[] | [ .id, .url, .icon.src ] | @csv' | tr -d \" | \
 awk -v FS="," 'BEGIN{printf "|Icon|Channel|Site|\n";printf "|:----|:---:|:---:|\n"}{printf "|![icon](%s)|%s|%s|\n",$3,$1,$2}' >>  readme.md
 
