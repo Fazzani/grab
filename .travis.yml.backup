@@ -1,0 +1,53 @@
+language: generic
+sudo: required
+install: skip
+cache: false
+matrix:
+  fast_finish: true
+services:
+  - docker
+git:
+  depth: false
+branches:
+  only:
+  - master
+if: (commit_message =~ ^daily OR type = "cron") AND (branch = master)
+env:
+  - WEBGRAB_FILENAME=configs/ar_bein.xml
+  - WEBGRAB_FILENAME=configs/ar_osn.xml
+  - WEBGRAB_FILENAME=configs/ar_arab.xml
+  - WEBGRAB_FILENAME=configs/fr_telerama.xml
+  - WEBGRAB_FILENAME=configs/fr_telerama.be.xml
+  - WEBGRAB_FILENAME=configs/fr_canal.xml
+  - WEBGRAB_FILENAME=configs/fr_canal2.xml
+  - WEBGRAB_FILENAME=configs/others.xml
+before_script:
+  - sudo apt-get update -qq
+  - sudo apt-get install libxml2-utils xmlstarlet -y
+  - npm install -g xml2json-cli
+script:
+- docker run -it --rm -v "${PWD}/${WEBGRAB_FILENAME}:/config2/WebGrab++.config.xml" -v "${PWD}:/data" synker/webgraboneshot:latest
+- git remote add origin2 https://${GITHUB_API_TOKEN}@github.com/fazzani/grab.git > /dev/null 2>&1
+- git add --all && (git commit -m "Webgrab config.xml" || echo "No changes to commit")
+- git pull origin2 HEAD:master
+- git push origin2 HEAD:master
+
+jobs:
+  include:
+    stage: merging
+    name: Merging xmltv files
+    script:
+    - chmod +x docker/merge.sh
+    - docker pull synker/xmltv_merge:latest
+    - docker run -it -v "${PWD}:/work" -e GITHUB_API_TOKEN=${GITHUB_API_TOKEN} synker/xmltv_merge:0.0.3 /bin/bash -c "dos2unix docker/merge.sh && chmod +x docker/merge.sh && docker/merge.sh '*.xmltv'"
+    - git remote add origin2 https://${GITHUB_API_TOKEN}@github.com/fazzani/grab.git > /dev/null 2>&1
+    - git add merge.tar.gz && git commit -m "compression and mergin xmltv files and pushing them to GITHUB. Triggred by $TRAVIS_EVENT_TYPE" 
+    - git pull origin2 HEAD:master
+    - git push origin2 HEAD:master
+
+notifications:
+  email:
+    recipients:
+      - tunisienheni@gmail.com
+    on_success: change
+    on_failure: change
