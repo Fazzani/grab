@@ -30,7 +30,7 @@ script:
 
 jobs:
   include:
-    stage: merging
+  - stage: merging
     name: Merging xmltv files
     script:
     - chmod +x docker/merge.sh
@@ -40,8 +40,7 @@ jobs:
     - git add merge.tar.gz && git commit -m "compression and mergin xmltv files and pushing them to GITHUB. Triggred by $TRAVIS_EVENT_TYPE"
     - git pull origin2 HEAD:master
     - git push origin2 HEAD:master
-  include:
-    stage: Update readme
+  - stage: Update readme
     name: Update readme
     before_script:
       - sudo apt-get update -qq
