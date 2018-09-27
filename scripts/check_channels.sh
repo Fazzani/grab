@@ -77,8 +77,7 @@ awk -v FS="," 'BEGIN{print "|ID\t|Url\t|Icon|";print "|:----|:---:|:---:|"}{prin
 # Push to Git
 
 git remote add origin2 https://${GITHUB_API_TOKEN}@github.com/fazzani/grab.git > /dev/null 2>&1
-git add $outputfile $outputfile_json channels.md && git commit -m "check channels"
-
+git add $outputfile $outputfile_json channels.md && git commit -m "check channels" && git push
 
 echo -e  "The End.${NC}"
 exit 0
