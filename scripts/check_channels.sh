@@ -15,7 +15,7 @@ command -v xmlstarlet >/dev/null 2>&1 || { echoError "The package xmlstarlet req
 
 # arg0: input file
 # arg1: output fie
-function checkForNewChannels {
+function getChannels {
 	echo -e  "${NC}"
 	echoInfo "__________ Cheacking epg file for new channels =>  $1 to $2"
 	echo
@@ -59,7 +59,7 @@ echo '<?xml version="1.0" encoding="UTF-8"?><tv generator-info-name="WebGrab+Plu
  
 for i in "$@";
 do
-    checkForNewChannels $i $outputfile &
+    getChannels $i $outputfile &
 	wait
 done
 echo '</tv>' >> $outputfile
