@@ -54,13 +54,11 @@ function checkChannels {
       echo
       res=$(echo -e "${listChannels}" | sed -e 's/\"/<br\/>/g')
       echo $res | column
+	  echo "${res}" >> $4
+      mes="<h4>Cheacking file $fileInput </h4><br/> $countErrors channels without programmes was detected : <br/>"
+      echoInfo "Pushing notification"
+      push_message "Error webgrab" "$mes$res"
     fi
-    
-	echo "${res}" >> $4
-    mes="<h4>Cheacking file $fileInput </h4><br/> $countErrors channels without programmes was detected : <br/>"
-    echoInfo "Pushing notification"
-    push_message "Error webgrab" "$mes$res"
-   
     rm tempfile
     rm tempfile2
 
