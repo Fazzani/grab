@@ -42,22 +42,28 @@ function checkChannels {
 
     # check missing programs
 
-	grep -Ei "<channel\sid=\"(.*)\"" $fileInput | grep -oEi "\"(.*)\"" | uniq | sort > tempfile && # liste des chaines
+    grep -Ei "<channel\sid=\"(.*)\"" $fileInput | grep -oEi "\"(.*)\"" | uniq | sort > tempfile && # liste des chaines
     grep -Ei "channel=\"(.*)\"" $fileInput | grep -oEi  "channel=\"(.*)\"" | grep -oEi "\"(.*)\"" | uniq | sort > tempfile2 #liste des programmes
     listChannels=$(comm -3 tempfile tempfile2) # diff des 2 files
-    echoInfo "Channels total count : "`echo $(cat tempfile | wc -l)`
-    echoInfo "Channels with programmes count : "`echo $(cat tempfile2 | wc -l)`
+    echo $listChannels
+    total=`echo $(cat tempfile | wc -l)`
+    not_missed=`echo $(cat tempfile2 | wc -l)`
     countErrors=`echo "$listChannels" | wc -l`
 
+    echoInfo "Channels total count : $total"
+    echoInfo "Channels with programmes count : $not_missed"
+
     if [ $countErrors -ne 0 ];then
-      echoInfo "${RED}Channels wihout programmes count : " $(echo "$listChannels" | wc -l)
+      echoError "Channels wihout programmes count : $countErrors"
       echo
-      res=$(echo -e "${listChannels}" | sed -e 's/\"//g')
+
+      echo "{\"filename\":\"$1\",\"total\":$total,\"missed\":$countErrors,\"missedlist\":" >> $4
+      res=$(echo "[${listChannels}]}," | sed -e 's/\"$/",/g')
       echo $res | column
-	  echo "${res}" >> $4
-      mes="<h4>Cheacking file $fileInput </h4><br/> $countErrors channels without programmes was detected : <br/>"
-      echoInfo "Pushing notification"
-      push_message "Error webgrab" "$mes$res"
+      echo "${res}" >> $4
+     # mes="<h4>Cheacking file $fileInput </h4><br/> $countErrors channels without programmes was detected : <br/>"
+     # echoInfo "Pushing notification"
+     # push_message "Error webgrab" "$mes$res"
     fi
 
     rm tempfile
@@ -80,13 +86,16 @@ if [ -z "$1" ];then
 	echoInfo "You must pass a list of epg files!!"
 	exit -1
 fi
+now=$(date +"%d/%m/%Y")
+echo $now
 
 outputfile="out/check_channels.xml"
 outputfile_json="out/check_channels.json"
-outputfile_missing_prog="out/check_missing_programs.xml"
+outputfile_missing_prog="out/check_missing_programs.json"
 
 #vider les fichiers output
-echo "" > $outputfile > $outputfile_json > $outputfile_missing_prog
+echo "" > $outputfile > $outputfile_json
+echo "{\"report\":{\"date\":\"$now\",\"sources\":[" > $outputfile_missing_prog
 #convert encoding to utf-8
 echo -ne '\xEF\xBB\xBF' > $outputfile
 #file -i $outputfile
@@ -97,8 +106,12 @@ do
     checkChannels $i $outputfile $outputfile_json $outputfile_missing_prog &
 	wait
 done
+
 echo '</tv>' >> $outputfile
 
+# formating channels without programs file
+content_missing=$(cat $outputfile_missing_prog)
+echo ${content_missing%,}"]}}" > $outputfile_missing_prog
 # Generate json version
 
 xml2json $outputfile $outputfile_json
@@ -119,7 +132,8 @@ awk -v FS="," 'BEGIN{printf "|Icon|Channel|Site|\n";printf "|:----|:---:|:---:|\
 #-X POST --data @<( cat $outputfile_json ) https://api.myjson.com/bins 
 
 # Push to Git
-#push_to_git $outputfile $outputfile_json $outputfile_missing_prog readme.md
+push_to_git $outputfile $outputfile_json $outputfile_missing_prog readme.md
 
 echo -e  "The End.${NC}"
 exit 0
+
