@@ -42,17 +42,17 @@ function checkChannels {
 
     # check missing programs
 
-	grep -Ei "<channel\sid=\"(.*)\"" $fileInput | grep -oEi "\"(.*)\"" | uniq | sort> tempfile && # liste des chaines
-    grep -Ei "channel=\"(.*)\"" $fileInput | grep -oEi  "channel=\"(.*)\"" | grep -oEi "\"(.*)\"" | uniq | sort> tempfile2 #liste des programmes
+	grep -Ei "<channel\sid=\"(.*)\"" $fileInput | grep -oEi "\"(.*)\"" | uniq | sort > tempfile && # liste des chaines
+    grep -Ei "channel=\"(.*)\"" $fileInput | grep -oEi  "channel=\"(.*)\"" | grep -oEi "\"(.*)\"" | uniq | sort > tempfile2 #liste des programmes
     listChannels=$(comm -3 tempfile tempfile2) # diff des 2 files
     echoInfo "Channels total count : "`echo $(cat tempfile | wc -l)`
     echoInfo "Channels with programmes count : "`echo $(cat tempfile2 | wc -l)`
     countErrors=`echo "$listChannels" | wc -l`
 
     if [ $countErrors -ne 0 ];then
-      echoInfo "${RED}Channels wihout programmes count : " $(echo "$listChannels"|wc -l)
+      echoInfo "${RED}Channels wihout programmes count : " $(echo "$listChannels" | wc -l)
       echo
-      res=$(echo -e "${listChannels}" | sed -e 's/\"/<br\/>/g')
+      res=$(echo -e "${listChannels}" | sed -e 's/\"//g')
       echo $res | column
 	  echo "${res}" >> $4
       mes="<h4>Cheacking file $fileInput </h4><br/> $countErrors channels without programmes was detected : <br/>"
@@ -68,7 +68,7 @@ function checkChannels {
 
 function push_to_git {
   git remote add origin2 https://${GITHUB_API_TOKEN}@github.com/fazzani/grab.git > /dev/null 2>&1
-  git add $outputfile $outputfile_json $outputfile_missing_prog readme.md && \
+  git add $@ && \
   git commit -m "check channels" && \
   git pull origin2 HEAD:master && \
   git push origin2 HEAD:master
@@ -119,7 +119,7 @@ awk -v FS="," 'BEGIN{printf "|Icon|Channel|Site|\n";printf "|:----|:---:|:---:|\
 #-X POST --data @<( cat $outputfile_json ) https://api.myjson.com/bins 
 
 # Push to Git
-#push_to_git
+#push_to_git $outputfile $outputfile_json $outputfile_missing_prog readme.md
 
 echo -e  "The End.${NC}"
 exit 0
