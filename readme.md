@@ -3,6 +3,8 @@
 ## channels list
 [All channels link](https://github.com/Fazzani/grab/blob/master/merge.tar.gz?raw=true)
 
+
+
 |Icon|Channel|Site|
 |:----|:---:|:---:|
 |![icon](http://www.watania1.tn/sites/default/files/main_logo_watania1_0.png)|Watania 1|http://www.watania.tn|
@@ -150,6 +152,79 @@
 |![icon]()|Al Majd General|http://www.invision.com.sa|
 |![icon]()|Al Aan|http://www.invision.com.sa|
 |![icon]()|Qatar TV|http://www.invision.com.sa|
+|![icon](http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg)|HD1|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg)|HD2|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg)|HD3|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg)|HD4|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg)|HD5|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg)|HD6|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg)|HD7|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg)|HD8|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg)|HD9|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg)|HD10|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg)|SportsHD11|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg)|SportsHD12|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg)|SportsHD13|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg)|SportsHD14|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg)|SportsHD15|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg)|SportsHD16|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg)|SportsHD17|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg)|News_ar|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg)|SportsGlobalHD|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg)|BS NBA|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg)|4K|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg)|OlympicChannel|http://www.bein.net|
+|![icon](http://epg.beinsports.com/us_sports/Global.svg)|Global|http://www.bein.net|
+|![icon](http://epg.beinsports.com/us_sports/Global.svg)|Spanish|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|MoviesHD1|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|MoviesHD2|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|MoviesHD3|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|MoviesHD4|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg)|max1|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg)|max2|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg)|max3|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg)|max4|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|SeriesHD1|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|SeriesHD2|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|beJUNIOR|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|fox_movies_hd|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|starmovieshd|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|starw_orld_hd|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|NatGeo_HD|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|NatGeoPeople_HD|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|NatGeoWild_HD|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|Baby_TV|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|Jeem|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|Baraem|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|gourmet|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|BoxOffice_HD1|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|DTX|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|CBeebies|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|V_HD|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|CNNHD|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|TCM|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|CartoonNetworkAR|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|CartoonNetworkHD|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|CartoonNetworkHindi|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|HLN|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|Boomerang|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|DramaHD1|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|Star_Movies_HD|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|amc|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|CBSreality|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|FoxActMovHD|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|FoxFamHD|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|FXHD|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|FoxNews|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|AnimalPlanetHD|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|DLife|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|DreamWorks|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|DKids|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|DMAX|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|OutdoorChannel|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|Extreme|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|TravelChannel|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|HGTV|http://www.bein.net|
 |![icon]()|OSN Movies HD|http://www.osn.com|
 |![icon]()|OSN Movies First HD|http://www.osn.com|
 |![icon]()|OSN Movies First HD +2h|http://www.osn.com|
