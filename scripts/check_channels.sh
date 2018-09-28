@@ -19,22 +19,20 @@ command -v xmlstarlet >/dev/null 2>&1 || { echoError "The package xmlstarlet req
 # arg3: output file missing programs
 function checkChannels {
     echoInfo  "${NC}"
-    echoInfo "__________ Cheacking epg file for new channels =>  $1 to $2"
-    echo
 
     if [ ! -z "$1" ]; then
-	fileInput="$1"
+	  fileInput="$1"
     else
-	echoError "no fileinput detected"
-	fileInput="guide.xmltv"
+	  echoError "no fileinput detected"
+	  fileInput="guide.xmltv"
     fi
 
-    echo 'Extract all channels from Xmltv file'
+    echo 'Extract all channels from Xmltv file: $fileInput'
     tmp="tmp"
     echo "<tv>" > $tmp
-    xmllint --encode utf8 --xpath '//channel' $1 >> $tmp
+    xmllint --encode utf8 --xpath '//channel' $fileInput >> $tmp
     echo "</tv>" >> $tmp
-    country=${1#*_}
+    country=${fileInput#*_}
     country=${country%.xmltv}
     xmlstarlet ed -i "//channel" -t attr -n "country" -v "$country" "$tmp" > "$tmp.xml"
     xmllint --encode utf8 --xpath '//channel' "$tmp.xml" >> "$2"
@@ -42,13 +40,18 @@ function checkChannels {
 
     # check missing programs
 
-    grep -Ei "<channel\sid=\"(.*)\"" $fileInput | grep -oEi "\"(.*)\"" | uniq | sort > tempfile && # liste des chaines
+    grep -Ei "<channel\sid=\"(.*)\"" $fileInput | grep -oEi "\"(.*)\"" | uniq | sort > tempfile # liste des chaines
     grep -Ei "channel=\"(.*)\"" $fileInput | grep -oEi  "channel=\"(.*)\"" | grep -oEi "\"(.*)\"" | uniq | sort > tempfile2 #liste des programmes
+
+    echo "tempfile => $tempfile"
+    echo 
+    echo "tempfile2 => $tempfile2"
+
     listChannels=$(comm -3 tempfile tempfile2) # diff des 2 files
     echo $listChannels
     total=`echo $(cat tempfile | wc -l)`
     not_missed=`echo $(cat tempfile2 | wc -l)`
-    countErrors=`echo "$listChannels" | wc -l`
+    countErrors=`echo $((comm -3 tempfile tempfile2) | wc -l )`
 
     echoInfo "Channels total count : $total"
     echoInfo "Channels with programmes count : $not_missed"
@@ -57,7 +60,7 @@ function checkChannels {
       echoError "Channels wihout programmes count : $countErrors"
       echo
 
-      echo "{\"filename\":\"$1\",\"total\":$total,\"missed\":$countErrors,\"missedlist\":" >> $4
+      echo "{\"filename\":\"$fileInput\",\"total\":$total,\"missed\":$countErrors,\"missedlist\":" >> $4
       res=$(echo "[${listChannels}]}," | sed -e 's/\"$/",/g')
       echo $res | column
       echo "${res}" >> $4
