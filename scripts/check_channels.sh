@@ -66,6 +66,8 @@ echo '</tv>' >> $outputfile
 
 xml2json $outputfile $outputfile_json
 
+# Generate readme.md
+
 echo -e "# Daily EPG" > readme.md
 echo -e "[![Build Status](https://travis-ci.org/Fazzani/grab.svg?branch=master)](https://travis-ci.org/Fazzani/grab)" >> readme.md
 echo -e "## channels list" >> readme.md
@@ -82,7 +84,10 @@ awk -v FS="," 'BEGIN{printf "|Icon|Channel|Site|\n";printf "|:----|:---:|:---:|\
 # Push to Git
 
 git remote add origin2 https://${GITHUB_API_TOKEN}@github.com/fazzani/grab.git > /dev/null 2>&1
-git add $outputfile $outputfile_json readme.md && git commit -m "check channels" && git push origin2 HEAD:master
+git add $outputfile $outputfile_json readme.md && \
+git commit -m "check channels" && \
+git pull origin2 HEAD:master && \
+git push origin2 HEAD:master
 
 echo -e  "The End.${NC}"
 exit 0
