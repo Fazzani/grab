@@ -43,10 +43,6 @@ function checkChannels {
     grep -Ei "<channel\sid=\"(.*)\"" $fileInput | grep -oEi "\"(.*)\"" | uniq | sort > tempfile # liste des chaines
     grep -Ei "channel=\"(.*)\"" $fileInput | grep -oEi  "channel=\"(.*)\"" | grep -oEi "\"(.*)\"" | uniq | sort > tempfile2 #liste des programmes
 
-    echo "tempfile => $tempfile"
-    echo 
-    echo "tempfile2 => $tempfile2"
-
     listChannels=$(comm -3 tempfile tempfile2) # diff des 2 files
     echo $listChannels
     total=`echo $(cat tempfile | wc -l)`
