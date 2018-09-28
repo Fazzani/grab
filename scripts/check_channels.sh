@@ -11,6 +11,7 @@ source $(dirname $0)/utils.sh
 # Check if command installed
 command -v xmllint >/dev/null 2>&1 || { echoError "libxml2-utils required but it's not installed.  Aborting." >&2; exit 1; }
 command -v xml2json >/dev/null 2>&1 || { echoError "The package npm xml2json-cli required but it's not installed.  Aborting." >&2; exit 1; }
+command -v xmlstarlet >/dev/null 2>&1 || { echoError "The package xmlstarlet required but it's not installed.  Aborting." >&2; exit 1; }
 
 # arg0: input file
 # arg1: output fie
@@ -47,8 +48,9 @@ if [ -z "$1" ];then
 	exit -1
 fi
 
-outputfile="check_channels.xml"
-outputfile_json="check_channels.json"
+outputfile="out/check_channels.xml"
+outputfile_json="out/check_channels.json"
+
 echo "" > $outputfile #vider le fichier output
 #convert encoding to utf-8
 echo -ne '\xEF\xBB\xBF' > $outputfile
