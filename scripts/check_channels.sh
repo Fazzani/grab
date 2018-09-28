@@ -15,7 +15,8 @@ command -v xmlstarlet >/dev/null 2>&1 || { echoError "The package xmlstarlet req
 
 # arg0: input file
 # arg1: output file
-# arg2: output file missing programs
+# arg2: output file json
+# arg3: output file missing programs
 function checkChannels {
 	echo -e  "${NC}"
 	echoInfo "__________ Cheacking epg file for new channels =>  $1 to $2"
@@ -52,10 +53,10 @@ function checkChannels {
       echo -e "${RED}Channels wihout programmes count : " $(echo "$listChannels"|wc -l)
       echo
       res=$(echo -e "${listChannels}" | sed -e 's/\"/<br\/>/g')
-      echo $res| column
+      echo $res | column
     fi
     
-	echo "${res}" >> $3
+	echo "${res}" >> $4
     mes="<h4>Cheacking file $fileInput </h4><br/> $countErrors channels without programmes was detected : <br/>"
     echoInfo "Pushing notification"
     push_message "Error webgrab" "$mes$res"
@@ -64,6 +65,14 @@ function checkChannels {
     rm tempfile2
 
 	echo -e  "${NC}"
+}
+
+function push_to_git {
+  git remote add origin2 https://${GITHUB_API_TOKEN}@github.com/fazzani/grab.git > /dev/null 2>&1
+  git add $outputfile $outputfile_json $outputfile_missing_prog readme.md && \
+  git commit -m "check channels" && \
+  git pull origin2 HEAD:master && \
+  git push origin2 HEAD:master
 }
 
 #__________________________  main __________________________
@@ -75,11 +84,10 @@ fi
 
 outputfile="out/check_channels.xml"
 outputfile_json="out/check_channels.json"
-outputfile_missing_prog="check_missing_programs.xml"
+outputfile_missing_prog="out/check_missing_programs.xml"
 
-echo "" > $outputfile #vider le fichier output
-echo "" > $outputfile_missing_prog
-
+#vider les fichiers output
+echo "" > $outputfile > $outputfile_json > $outputfile_missing_prog  
 #convert encoding to utf-8
 echo -ne '\xEF\xBB\xBF' > $outputfile
 #file -i $outputfile
@@ -87,7 +95,7 @@ echo '<?xml version="1.0" encoding="UTF-8"?><tv generator-info-name="WebGrab+Plu
  
 for i in "$@";
 do
-    checkChannels $i $outputfile $outputfile_json &
+    checkChannels $i $outputfile $outputfile_json $outputfile_missing_prog &
 	wait
 done
 echo '</tv>' >> $outputfile
@@ -112,12 +120,7 @@ awk -v FS="," 'BEGIN{printf "|Icon|Channel|Site|\n";printf "|:----|:---:|:---:|\
 #-X POST --data @<( cat $outputfile_json ) https://api.myjson.com/bins 
 
 # Push to Git
-
-git remote add origin2 https://${GITHUB_API_TOKEN}@github.com/fazzani/grab.git > /dev/null 2>&1
-git add $outputfile $outputfile_json $outputfile_missing_prog readme.md && \
-git commit -m "check channels" && \
-git pull origin2 HEAD:master && \
-git push origin2 HEAD:master
+#push_to_git
 
 echo -e  "The End.${NC}"
 exit 0
