@@ -2,6 +2,8 @@
 
 source $(dirname $0)/utils.sh
 
+command -v unzip >/dev/null 2>&1 || { echoError "unzip required but it's not installed.  Aborting." >&2; exit 1; }
+
 tmpDir="$(dirname $0)/tmp"
 echoInfo "$(dirname $tmpDir)"
 
@@ -19,7 +21,10 @@ do
   echoInfo "___fileDestTmp : ${fileDestTmp} _________"
   echoInfo "___________tmp : ${tmpDir} _________"
 
-  sudo wget -q -O $tmpDir/$localzipName $url --header="User-Agent: Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.97 Safari/537.11" --no-check-certificate
+  wget -q -O $tmpDir/$localzipName $url \
+  --header="User-Agent: Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.97 Safari/537.11" \
+  --no-check-certificate
+  
   if [ $extension = "zip" ]; then
     echoInfo "Unzip file..."
     unzip -q -o $tmpDir/$localzipName -d $tmpDir/
