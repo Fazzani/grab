@@ -29,8 +29,7 @@ do
     fileDest="$fileDestTmp"
   fi
 
-  sudo mv $tmpDir/$fileDest.xml /home/pi/toshiba/xmltv/$fileDest.xmltv &&
-  cat /home/pi/toshiba/xmltv/$fileDest.xmltv | socat - UNIX-CONNECT:/home/hts/.hts/tvheadend/epggrab/xmltv.sock &&
+  sudo mv $tmpDir/$fileDest.xml $fileDest.xmltv &&
   push_msg "${url} grab finished successfully"
   if [ -z $localzipName ]; then
     sudo rm $tmpDir/$localzipName
@@ -38,5 +37,3 @@ do
 done
 
 exit 0
-# sudo wget -O /tmp/complet.zip http://kevinpato.free.fr/xmltv/download/complet.zip  --header="User-Agent: Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.97 Safari/537.11" --header="Referer: http://xmodulo.com/" --header="Accept-Encoding: compress, gzip" --no-check-certificate
- #sudo wget --header="Cache-Control: no-cache" --no-check-certificate /tmp/tvguide.zip http://kevinpato.free.fr/xmltv/download/complet.zip --no-cache
