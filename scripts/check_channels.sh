@@ -2,7 +2,7 @@
 #______________________________________________________________________________
 #
 # Check si un une chaine dans le xmltv généré n'aurait pas des programmes
-# si oui on envoie un mail 
+# si oui on envoie un mail
 # on met à jour le fichier utilisé par l'application web qui contient la liste de références des chaines ayant des EPG
 #______________________________________________________________________________
 
@@ -18,18 +18,18 @@ command -v xmlstarlet >/dev/null 2>&1 || { echoError "The package xmlstarlet req
 # arg2: output file json
 # arg3: output file missing programs
 function checkChannels {
-	echo -e  "${NC}"
-	echoInfo "__________ Cheacking epg file for new channels =>  $1 to $2"
-	echo
+    echoInfo  "${NC}"
+    echoInfo "__________ Cheacking epg file for new channels =>  $1 to $2"
+    echo
 
-	if [ ! -z "$1" ]; then
-		fileInput="$1"
-	else
-		echoError "no fileinput detected"
-		fileInput="guide.xmltv"
-	fi
+    if [ ! -z "$1" ]; then
+	fileInput="$1"
+    else
+	echoError "no fileinput detected"
+	fileInput="guide.xmltv"
+    fi
 
-	echo 'Extract all channels from Xmltv file'
+    echo 'Extract all channels from Xmltv file'
     tmp="tmp"
     echo "<tv>" > $tmp
     xmllint --encode utf8 --xpath '//channel' $1 >> $tmp
@@ -48,9 +48,9 @@ function checkChannels {
     echoInfo "Channels total count : "`echo $(cat tempfile | wc -l)`
     echoInfo "Channels with programmes count : "`echo $(cat tempfile2 | wc -l)`
     countErrors=`echo "$listChannels" | wc -l`
-    
+
     if [ $countErrors -ne 0 ];then
-      echo -e "${RED}Channels wihout programmes count : " $(echo "$listChannels"|wc -l)
+      echoInfo "${RED}Channels wihout programmes count : " $(echo "$listChannels"|wc -l)
       echo
       res=$(echo -e "${listChannels}" | sed -e 's/\"/<br\/>/g')
       echo $res | column
@@ -59,10 +59,11 @@ function checkChannels {
       echoInfo "Pushing notification"
       push_message "Error webgrab" "$mes$res"
     fi
+
     rm tempfile
     rm tempfile2
 
-	echo -e  "${NC}"
+    echoInfo  "${NC}"
 }
 
 function push_to_git {
@@ -85,12 +86,12 @@ outputfile_json="out/check_channels.json"
 outputfile_missing_prog="out/check_missing_programs.xml"
 
 #vider les fichiers output
-echo "" > $outputfile > $outputfile_json > $outputfile_missing_prog  
+echo "" > $outputfile > $outputfile_json > $outputfile_missing_prog
 #convert encoding to utf-8
 echo -ne '\xEF\xBB\xBF' > $outputfile
 #file -i $outputfile
 echo '<?xml version="1.0" encoding="UTF-8"?><tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">' >> $outputfile
- 
+
 for i in "$@";
 do
     checkChannels $i $outputfile $outputfile_json $outputfile_missing_prog &
