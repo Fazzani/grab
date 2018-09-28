@@ -14,8 +14,9 @@ command -v xml2json >/dev/null 2>&1 || { echoError "The package npm xml2json-cli
 command -v xmlstarlet >/dev/null 2>&1 || { echoError "The package xmlstarlet required but it's not installed.  Aborting." >&2; exit 1; }
 
 # arg0: input file
-# arg1: output fie
-function getChannels {
+# arg1: output file
+# arg2: output file missing programs
+function checkChannels {
 	echo -e  "${NC}"
 	echoInfo "__________ Cheacking epg file for new channels =>  $1 to $2"
 	echo
@@ -28,16 +29,40 @@ function getChannels {
 	fi
 
 	echo 'Extract all channels from Xmltv file'
-        tmp="tmp"
-        echo "<tv>" > $tmp
-        xmllint --encode utf8 --xpath '//channel' $1 >> $tmp
-        echo "</tv>" >> $tmp
-        country=${1#*_}
-        country=${country%.xmltv}
-        xmlstarlet ed -i "//channel" -t attr -n "country" -v "$country" "$tmp" > "$tmp.xml"
+    tmp="tmp"
+    echo "<tv>" > $tmp
+    xmllint --encode utf8 --xpath '//channel' $1 >> $tmp
+    echo "</tv>" >> $tmp
+    country=${1#*_}
+    country=${country%.xmltv}
+    xmlstarlet ed -i "//channel" -t attr -n "country" -v "$country" "$tmp" > "$tmp.xml"
+    xmllint --encode utf8 --xpath '//channel' "$tmp.xml" >> "$2"
+    rm tmp*
 
-        xmllint --encode utf8 --xpath '//channel' "$tmp.xml" >> "$2"
-        rm tmp*
+    # check missing programs
+
+	grep -Ei "<channel\sid=\"(.*)\"" $fileInput | grep -oEi "\"(.*)\"" | uniq | sort> tempfile && # liste des chaines
+    grep -Ei "channel=\"(.*)\"" $fileInput | grep -oEi  "channel=\"(.*)\"" | grep -oEi "\"(.*)\"" | uniq | sort> tempfile2 #liste des programmes
+    listChannels=$(comm -3 tempfile tempfile2) # diff des 2 files
+    echoInfo "Channels total count : "`echo $(cat tempfile | wc -l)`
+    echoInfo "Channels with programmes count : "`echo $(cat tempfile2 | wc -l)`
+    countErrors=`echo "$listChannels" | wc -l`
+    
+    if [ $countErrors -ne 0 ];then
+      echo -e "${RED}Channels wihout programmes count : " $(echo "$listChannels"|wc -l)
+      echo
+      res=$(echo -e "${listChannels}" | sed -e 's/\"/<br\/>/g')
+      echo $res| column
+    fi
+    
+	echo "${res}" >> $3
+    mes="<h4>Cheacking file $fileInput </h4><br/> $countErrors channels without programmes was detected : <br/>"
+    echoInfo "Pushing notification"
+    push_message "Error webgrab" "$mes$res"
+   
+    rm tempfile
+    rm tempfile2
+
 	echo -e  "${NC}"
 }
 
@@ -50,8 +75,11 @@ fi
 
 outputfile="out/check_channels.xml"
 outputfile_json="out/check_channels.json"
+outputfile_missing_prog="check_missing_programs.xml"
 
 echo "" > $outputfile #vider le fichier output
+echo "" > $outputfile_missing_prog
+
 #convert encoding to utf-8
 echo -ne '\xEF\xBB\xBF' > $outputfile
 #file -i $outputfile
@@ -59,7 +87,7 @@ echo '<?xml version="1.0" encoding="UTF-8"?><tv generator-info-name="WebGrab+Plu
  
 for i in "$@";
 do
-    getChannels $i $outputfile &
+    checkChannels $i $outputfile $outputfile_json &
 	wait
 done
 echo '</tv>' >> $outputfile
@@ -86,7 +114,7 @@ awk -v FS="," 'BEGIN{printf "|Icon|Channel|Site|\n";printf "|:----|:---:|:---:|\
 # Push to Git
 
 git remote add origin2 https://${GITHUB_API_TOKEN}@github.com/fazzani/grab.git > /dev/null 2>&1
-git add $outputfile $outputfile_json readme.md && \
+git add $outputfile $outputfile_json $outputfile_missing_prog readme.md && \
 git commit -m "check channels" && \
 git pull origin2 HEAD:master && \
 git push origin2 HEAD:master

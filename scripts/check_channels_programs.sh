@@ -31,7 +31,7 @@ function check_missing_epg {
     echo -e "${RED}Channels wihout programmes count : " $(echo "$listChannels"|wc -l)
     echo
     res=$(echo -e "${listChannels}" | sed -e 's/\"/<br\/>/g')
-    echo $res| column
+    echo $res | column
   fi
 
   mes="<h4>Cheacking file $fileInput </h4><br/> $countErrors channels without programmes was detected : <br/>"
