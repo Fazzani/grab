@@ -27,7 +27,7 @@ function checkChannels {
 	  fileInput="guide.xmltv"
     fi
 
-    echo 'Extract all channels from Xmltv file: $fileInput'
+    echo "Extract all channels from Xmltv file: $fileInput"
     tmp="tmp"
     echo "<tv>" > $tmp
     xmllint --encode utf8 --xpath '//channel' $fileInput >> $tmp
