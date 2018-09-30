@@ -2101,6 +2101,19 @@
     <category lang="fr">Magazine d'actualité</category>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/43_EMI_779409.jpg" />
   </programme>
+  <programme start="20181002051400 +0200" stop="20181002051800 +0200" channel="La Deux">
+    <title lang="fr">Météo</title>
+    <category lang="fr">Météo</category>
+  </programme>
+  <programme start="20181002051800 +0200" stop="20181002053800 +0200" channel="La Deux">
+    <title lang="fr">20:02</title>
+    <credits>
+      <presenter>Adrien Devyver</presenter>
+      <presenter>Bénédicte Deprez</presenter>
+    </credits>
+    <category lang="fr">Divertissement</category>
+    <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/media/169_EMI_774787.jpg" />
+  </programme>
   <programme start="20180930002000 +0200" stop="20180930005500 +0200" channel="La Trois">
     <title lang="fr">JT traduction gestuelle</title>
     <category lang="fr">Journal</category>
