@@ -180,10 +180,6 @@
 |![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|MoviesHD2|http://www.bein.net|
 |![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|MoviesHD3|http://www.bein.net|
 |![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|MoviesHD4|http://www.bein.net|
-|![icon](http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg)|max1|http://www.bein.net|
-|![icon](http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg)|max2|http://www.bein.net|
-|![icon](http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg)|max3|http://www.bein.net|
-|![icon](http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg)|max4|http://www.bein.net|
 |![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|SeriesHD1|http://www.bein.net|
 |![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|SeriesHD2|http://www.bein.net|
 |![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|beJUNIOR|http://www.bein.net|
