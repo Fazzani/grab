@@ -1822,10 +1822,15 @@
     <desc lang="ar">القصة الرائعة لثلاثة أشقاء هم شيفاي، أومكارا ورودرا والذين تجمعهم علاقة متماسكة وقوية على الرغم من عدم ترابط أسرتهم.</desc>
     <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/photos-2017/august/16-8-2017/5/original/585462c30f20e0b5ddba7e74fbaa3ae020f4e8f3/5.jpg" />
   </programme>
-  <programme start="20180930080000 +0000" stop="20180930100000 +0000" channel="MBC Bollywood">
+  <programme start="20180930080000 +0000" stop="20180930090000 +0000" channel="MBC Bollywood">
     <title lang="ar">القلب وما يهوى</title>
-    <desc lang="ar">صديقا الطفولة الطموحان سيدهانث وأنوشكا تربطهما علاقة هائمة ما بين الحب والكراهية. تطفو على السطح الإختلافات بينهما، فبينما تحصد أنوشكا ثمار نجاحاتها، يسير سيدهانث تائهاً في الحياة يحاول لملمة شتات نفسه.</desc>
+    <desc lang="ar">صديقا الطفولة الطموحان سيدهانث وأنوشكا تربطهما علاقة هائمة ما بين الحب والكراهية. تطفو على السطح الإختلافات بينهما، فبينما تحصد أنوشكا ثمار نجاحاتها، يسير سيدهانث تائهاً في الحياة يحاول لملمة شتات نفسه.(c)</desc>
     <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/photos-2018/Aug/28/Al-Qalb-Wa-Ma-Yahwa/original/c81364b04939e41584dc13f594876c01999a0dbf/Al Qalb Wa Ma Yahwa.jpg" />
+  </programme>
+  <programme start="20180930090000 +0000" stop="20180930100000 +0000" channel="MBC Bollywood">
+    <title lang="ar">Bollyworld</title>
+    <desc lang="ar">وثائقي يسلط الضوء على تطور بوليوود التي تعتبر أضخم سوق لصناعة الأفلام الهندية وكيف نجحت في إحداث تغييرات جذرية تتماشى مع ذوق جمهورها العالمي والطبقة الهندية المتوسطة الصاعدة وذلك من خلال تتبع قصة اثنين من الأخوة في سعيهما لإنتاج عمل سينمائي ضخم.(c)</desc>
+    <icon src="http://www.mbc.net/.imaging/stk/mbc/listing2/media/Photos/2015/June/Week-1/7-6-2015/001/Bollywood_Logo/original/ae05f32bd258d2cf4ab7f7ace9e58a5710b31cb1/Bollywood_Logo.jpg" />
   </programme>
   <programme start="20180930100000 +0000" stop="20180930133000 +0000" channel="MBC Bollywood">
     <title lang="ar">Kabhi Alvida Naa Kehna</title>
@@ -2047,20 +2052,15 @@
     <desc lang="ar">الحلقة التاسعة والأربعون (بوكويو)، طفل فضولى صغير يرتدى ملابس باللون الأزرق، و معه (باتو) البطة الصفراء، (اللي) الفيل الوردي، (لولا) الكلب، والطير النعسان وغيرهم الكثير في تعلم أشياء جديدة و الاستمتاع.</desc>
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/168202191.Logo_Pocoyo1.jpg" />
   </programme>
-  <programme start="20180930043000 +0000" stop="20180930044500 +0000" channel="Space Toon">
-    <title lang="ar">حكايات ماشا</title>
-    <desc lang="ar">الحلقة العشرون تحكي لنا (ماشا) في كل حلقة حكاية مختلفة نتعلم منها الكثير.</desc>
-    <icon src="http://stream.minisat.net/epg.data/upload/pictures/197336121.mashataless.png" />
-  </programme>
-  <programme start="20180930044500 +0000" stop="20180930050000 +0000" channel="Space Toon">
-    <title lang="ar">تيليتابيز</title>
-    <desc lang="ar">الحلقة السابعة عشر البرنامج يدور حول مغامرات تليتبيز الأربعة (تينكي وينكي، ديبسي لالا، بو)حيث يلعبون في عالم تليتبيز المبهج والمرح.</desc>
-    <icon src="http://stream.minisat.net/epg.data/upload/pictures/195019545.tele.jpg" />
+  <programme start="20180930043000 +0000" stop="20180930050000 +0000" channel="Space Toon">
+    <title lang="ar">cailiou</title>
+    <desc lang="ar">كايو فتى يبلغ من العمر أربعة أعوام يعيش مع عائلته ويستكشف الطبيعة ويتعلم ممارسة الرياضة.(c)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/198737897.caillo.jpg" />
   </programme>
   <programme start="20180930050000 +0000" stop="20180930051500 +0000" channel="Space Toon">
-    <title lang="ar">آندي باندي</title>
-    <desc lang="ar">الحلقة السابعة عشر مجموعة من الدمى يقضون وقتهم مع بعضهم ويكتشفون ماحولهم.</desc>
-    <icon src="http://stream.minisat.net/epg.data/upload/pictures/201132880.andypandy.jpg" />
+    <title lang="ar">حكايات ماشا</title>
+    <desc lang="ar">(الأوراق والجذور) تحكي لنا (ماشا) في كل حلقة حكاية مختلفة نتعلم منها الكثير.(c)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/174089037.masha.jpg" />
   </programme>
   <programme start="20180930051500 +0000" stop="20180930053000 +0000" channel="Space Toon">
     <title lang="ar">أمجد وميمو</title>
@@ -2068,29 +2068,34 @@
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/176403675.video05app185-1-3-s-307x512.jpg" />
   </programme>
   <programme start="20180930053000 +0000" stop="20180930054500 +0000" channel="Space Toon">
-    <title lang="ar">الفأرة ميا</title>
-    <desc lang="ar">(لعبة الاوزة) الفأرة (ميا) وأصدقائها لديهم في كل يوم مغامرة جديدة.</desc>
-    <icon src="http://stream.minisat.net/epg.data/upload/pictures/177224580.mia.jpg" />
+    <title lang="ar">آندي باندي</title>
+    <desc lang="ar">الحلقة الرابعة عشر مجموعة من الدمى يقضون وقتهم مع بعضهم ويكتشفون ماحولهم.(c)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/201132880.andypandy.jpg" />
   </programme>
-  <programme start="20180930054500 +0000" stop="20180930061500 +0000" channel="Space Toon">
-    <title lang="ar">النمر الوردي</title>
-    <desc lang="ar">النمر الوردي شخصية كوميدية يثير المشاكل ولا يقع فيها.</desc>
-    <icon src="http://stream.minisat.net/epg.data/upload/pictures/168202230.PINK2.jpg" />
-  </programme>
-  <programme start="20180930061500 +0000" stop="20180930063000 +0000" channel="Space Toon">
-    <title lang="ar">ماشا والدب</title>
-    <desc lang="ar">الحلقة العشرون يركز العرض على مغامرات فتاة صغيرة تدعى (ماشا) وصديقها الدب في صورة أبوية الذى يحافظ عليها دائما من الكوارث.</desc>
+  <programme start="20180930054500 +0000" stop="20180930060000 +0000" channel="Space Toon">
+    <title lang="ar">Mash &amp; The Bear</title>
+    <desc lang="ar">يركز العرض على مغامرات فتاة صغيرة تدعى (ماشا وصديقها الدب في صورة أبوية الذى يحافظ عليها دائما من الكوارث.(c)</desc>
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/168202193.mim_eng_12.jpg" />
   </programme>
-  <programme start="20180930063000 +0000" stop="20180930064500 +0000" channel="Space Toon">
+  <programme start="20180930060000 +0000" stop="20180930061500 +0000" channel="Space Toon">
+    <title lang="ar">Teletubbies</title>
+    <desc lang="ar">البرنامج يدور حول مغامرات تليتبيز الأربعة (تينكي وينكي، ديبسي لالا، بو)حيث يلعبون في عالم تليتبيز المبهج والمرح.(c)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/195019545.tele.jpg" />
+  </programme>
+  <programme start="20180930061500 +0000" stop="20180930063000 +0000" channel="Space Toon">
     <title lang="ar">بوكويو</title>
-    <desc lang="ar">(بوكويو)، طفل فضولى صغير يرتدى ملابس باللون الأزرق، و معه (باتو) البطة الصفراء، (اللي) الفيل الوردي، (لولا) الكلب، والطير النعسان وغيرهم الكثير في تعلم أشياء جديدة و الاستمتاع.</desc>
+    <desc lang="ar">(بوكويو)، طفل فضولى صغير يرتدى ملابس باللون الأزرق، و معه (باتو) البطة الصفراء، (اللي) الفيل الوردي، (لولا) الكلب، والطير النعسان وغيرهم الكثير في تعلم أشياء جديدة و الاستمتاع.(c)</desc>
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/168202191.Logo_Pocoyo1.jpg" />
   </programme>
-  <programme start="20180930064500 +0000" stop="20180930071500 +0000" channel="Space Toon">
+  <programme start="20180930063000 +0000" stop="20180930070000 +0000" channel="Space Toon">
     <title lang="ar">cailiou</title>
-    <desc lang="ar">كايو فتى يبلغ من العمر أربعة أعوام يعيش مع عائلته ويستكشف الطبيعة ويتعلم ممارسة الرياضة.</desc>
+    <desc lang="ar">كايو فتى يبلغ من العمر أربعة أعوام يعيش مع عائلته ويستكشف الطبيعة ويتعلم ممارسة الرياضة.(c)</desc>
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/198737897.caillo.jpg" />
+  </programme>
+  <programme start="20180930070000 +0000" stop="20180930071500 +0000" channel="Space Toon">
+    <title lang="ar">حكايات ماشا</title>
+    <desc lang="ar">مسلسل كارتون (حكايات ماشا).(c)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/174089037.masha.jpg" />
   </programme>
   <programme start="20180930071500 +0000" stop="20180930073000 +0000" channel="Space Toon">
     <title lang="ar">Charley and Mimmo</title>
@@ -2098,53 +2103,57 @@
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/176403675.video05app185-1-3-s-307x512.jpg" />
   </programme>
   <programme start="20180930073000 +0000" stop="20180930074500 +0000" channel="Space Toon">
-    <title lang="ar">Teletubbies</title>
-    <desc lang="ar">البرنامج يدور حول مغامرات تليتبيز الأربعة (تينكي وينكي، ديبسي لالا، بو)حيث يلعبون في عالم تليتبيز المبهج والمرح.</desc>
-    <icon src="http://stream.minisat.net/epg.data/upload/pictures/195019545.tele.jpg" />
-  </programme>
-  <programme start="20180930074500 +0000" stop="20180930080000 +0000" channel="Space Toon">
-    <title lang="ar">آندي باندي</title>
-    <desc lang="ar">الحلقة الرابعة عشر مجموعة من الدمى يقضون وقتهم مع بعضهم ويكتشفون ماحولهم.</desc>
+    <title lang="ar">ANDY PANDY</title>
+    <desc lang="ar">مجموعة من الدمى يقضون وقتهم مع بعضهم ويكتشفون ماحولهم.(c)</desc>
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/201132880.andypandy.jpg" />
   </programme>
-  <programme start="20180930080000 +0000" stop="20180930083000 +0000" channel="Space Toon">
-    <title lang="ar">نادين</title>
-    <desc lang="ar">A young girl embarks on a series of misadventures, causing her friends and teachers to be worrisome. Based on the children\\'s books.</desc>
-    <icon src="http://stream.minisat.net/epg.data/upload/pictures/205201982.th.jpg" />
-  </programme>
-  <programme start="20180930083000 +0000" stop="20180930084500 +0000" channel="Space Toon">
+  <programme start="20180930074500 +0000" stop="20180930080000 +0000" channel="Space Toon">
     <title lang="ar">Mash &amp; The Bear</title>
-    <desc lang="ar">يركز العرض على مغامرات فتاة صغيرة تدعى (ماشا وصديقها الدب في صورة أبوية الذى يحافظ عليها دائما من الكوارث.</desc>
+    <desc lang="ar">يركز العرض على مغامرات فتاة صغيرة تدعى (ماشا وصديقها الدب في صورة أبوية الذى يحافظ عليها دائما من الكوارث.(c)</desc>
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/168202193.mim_eng_12.jpg" />
   </programme>
-  <programme start="20180930084500 +0000" stop="20180930090000 +0000" channel="Space Toon">
+  <programme start="20180930080000 +0000" stop="20180930081500 +0000" channel="Space Toon">
+    <title lang="ar">أفتح يا سمسم</title>
+    <desc lang="ar">برنامج تعليمي تربوي للاطفال.(c)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/144787104.21.png" />
+  </programme>
+  <programme start="20180930081500 +0000" stop="20180930084500 +0000" channel="Space Toon">
     <title lang="ar">الفأرة ميا</title>
-    <desc lang="ar">(لعبة الاوزة) الفأرة (ميا) وأصدقائها لديهم في كل يوم مغامرة جديدة.</desc>
+    <desc lang="ar">(لعبة الاوزة) الفأرة (ميا) وأصدقائها لديهم في كل يوم مغامرة جديدة.(c)</desc>
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/177224580.mia.jpg" />
   </programme>
-  <programme start="20180930090000 +0000" stop="20180930093000 +0000" channel="Space Toon">
+  <programme start="20180930084500 +0000" stop="20180930091500 +0000" channel="Space Toon">
     <title lang="ar">كوكوتاما</title>
-    <desc lang="ar">كوكوتاما هي عبارة عن مخلوقات صغيرة تعيش في بيوت الانسان، هذه المخلوقات تتدرب لتستطيع مساعدة البشر وهذه المخلوقات تحاول مساعدة البشر في السر وتساعدهم على العثور على الاشياء التي فقدوها.</desc>
+    <desc lang="ar">كوكوتاما هي عبارة عن مخلوقات صغيرة تعيش في بيوت الانسان، هذه المخلوقات تتدرب لتستطيع مساعدة البشر وهذه المخلوقات تحاول مساعدة البشر في السر وتساعدهم على العثور على الاشياء التي فقدوها.(c)</desc>
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/194019806.cocotamaa.jpg" />
   </programme>
-  <programme start="20180930093000 +0000" stop="20180930094500 +0000" channel="Space Toon">
-    <title lang="ar">نجمة الطبخ</title>
-    <desc lang="ar">(فطيرة الملفوف) (فرح) تدرس في الصف الخامس وتحلم أن تصبح نجمة الغناء ولكنها فشلت بعد الأداء التجريبي وقررت المديرة طردها ولكنها لم تكن تريد ذلك فأعطتها فرصة بأن تصبح نجمة الطبخ.</desc>
-    <icon src="http://stream.minisat.net/epg.data/upload/pictures/182198279.najma.jpg" />
+  <programme start="20180930091500 +0000" stop="20180930094500 +0000" channel="Space Toon">
+    <title lang="ar">My Little Pony</title>
+    <desc lang="ar">Three mysterious girls show up at canterlot high and cause trouble. With the magic of friendship, they want to defeat the mysterious girls.(c)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/164368099.6.png" />
   </programme>
   <programme start="20180930094500 +0000" stop="20180930100000 +0000" channel="Space Toon">
-    <title lang="ar">روفترس</title>
-    <icon src="http://stream.minisat.net/epg.data/upload/pictures/188966920.172139160photo.jpg" />
+    <title lang="ar">سامي رجل الإطفاء</title>
+    <desc lang="ar">تدور الحلقات حول سامي رجل الإطفاء وزملائه من رجال الإطفاء وسكان البلدة.(c)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/157019067.sami.jpg" />
   </programme>
-  <programme start="20180930100000 +0000" stop="20180930103000 +0000" channel="Space Toon">
-    <title lang="ar">driland</title>
-    <desc lang="ar">في العصور الوسطى حيث نجد الكنوز و الممالك بطلتنا ميكوتو حاكمة ايلوا ارادت خوض مغامرات و هكذا بدأت حكايتها مع أصدقائها ومغامراتهم و قتالهم لقوى الشر و التعرف أكثر على مملكة دريلاند.</desc>
-    <icon src="http://stream.minisat.net/epg.data/upload/pictures/205273685.6fe3316de675fc321ac367d3be85a189d2337b1b_00.jpg" />
+  <programme start="20180930100000 +0000" stop="20180930101500 +0000" channel="Space Toon">
+    <title lang="ar">Bob The Builder</title>
+    <desc lang="ar">Bob the Builder is the animated adventures of Bob and his machines. Working together to overcome various challenges they get the job done.(c)</desc>
+    <credits>
+      <actor>Rob Rackstraw, Kate Harbour</actor>
+    </credits>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/151864120.pp.jpg" />
+  </programme>
+  <programme start="20180930101500 +0000" stop="20180930103000 +0000" channel="Space Toon">
+    <title lang="ar">THOMAS &amp; FRIENDS</title>
+    <desc lang="ar">مغامرات كثيرة ومثيرة يدخلها.(c)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/101180407.THOMAS+and+FRIENDS.jpg" />
   </programme>
   <programme start="20180930103000 +0000" stop="20180930110000 +0000" channel="Space Toon">
-    <title lang="ar">النمر الوردي وصغاره</title>
-    <desc lang="ar">الحلقة الخامسة والعشرون تدور الأحداث حول اثنين من أبناء النمر الوردي واصدقائهما يقومون بتكوين فريق ويتعلمون كل شي عن نشأتهم ورعايتهم لبعضهم.</desc>
-    <icon src="http://stream.minisat.net/epg.data/upload/pictures/168202230.PINK2.jpg" />
+    <title lang="ar">driland</title>
+    <desc lang="ar">في العصور الوسطى حيث نجد الكنوز و الممالك بطلتنا ميكوتو حاكمة ايلوا ارادت خوض مغامرات و هكذا بدأت حكايتها مع أصدقائها ومغامراتهم و قتالهم لقوى الشر و التعرف أكثر على مملكة دريلاند.(c)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/205273685.6fe3316de675fc321ac367d3be85a189d2337b1b_00.jpg" />
   </programme>
   <programme start="20180930110000 +0000" stop="20180930111500 +0000" channel="Space Toon">
     <title lang="ar">Mash &amp; The Bear</title>
@@ -2162,9 +2171,9 @@
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/194019806.cocotamaa.jpg" />
   </programme>
   <programme start="20180930120000 +0000" stop="20180930123000 +0000" channel="Space Toon">
-    <title lang="ar">POWER RANGERS</title>
-    <desc lang="ar">the conflict between a exciting superheroes in the face of the powers.</desc>
-    <icon src="http://stream.minisat.net/epg.data/upload/pictures/175844126.power+rangers.png" />
+    <title lang="ar">الحماة الأبطال</title>
+    <desc lang="ar">يوكو (ريم) وايري (ديما) فتاتان طبيعيتان سقطوا في عالمٍ بديلٍ مليءٍ بشعبٍ صغيرٍ في الحجم، الناس في هذا العالم الغامض يعتبرون الفتاتان (حماةً أبطال) الذي يمكن أن يحموا أرضهم في زمن الحروب، الفتاتان تعينوا مع مجموعة من المحاربين في مهمة لمعرفة كيف تم نقلهم إلى هنا وكيفية عودتهم إلى ديارهم.(c)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/191611933.2017-10-02.png" />
   </programme>
   <programme start="20180930123000 +0000" stop="20180930130000 +0000" channel="Space Toon">
     <title lang="ar">دورايمون 2</title>
@@ -2187,9 +2196,9 @@
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/159439313.sonic.png" />
   </programme>
   <programme start="20180930141500 +0000" stop="20180930143000 +0000" channel="Space Toon">
-    <title lang="ar">Rainbow Ruby</title>
-    <desc lang="ar">فتاة صغيرة تسافر إلى قرية قوس القزح التي يوجد فيها جميع العابها وتقوم بالحفاظ عليهم.</desc>
-    <icon src="http://stream.minisat.net/epg.data/upload/pictures/198803428.rainbowruby.jpg" />
+    <title lang="ar">Mash &amp; The Bear</title>
+    <desc lang="ar">يركز العرض على مغامرات فتاة صغيرة تدعى (ماشا وصديقها الدب في صورة أبوية الذى يحافظ عليها دائما من الكوارث.(c)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/168202193.mim_eng_12.jpg" />
   </programme>
   <programme start="20180930143000 +0000" stop="20180930150000 +0000" channel="Space Toon">
     <title lang="ar">الرمية الملتهبة</title>
@@ -2197,9 +2206,9 @@
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/190858591.ram.png" />
   </programme>
   <programme start="20180930150000 +0000" stop="20180930153000 +0000" channel="Space Toon">
-    <title lang="ar">POWER RANGERS</title>
-    <desc lang="ar">the conflict between a exciting superheroes in the face of the powers.</desc>
-    <icon src="http://stream.minisat.net/epg.data/upload/pictures/175844126.power+rangers.png" />
+    <title lang="ar">الحماة الأبطال</title>
+    <desc lang="ar">يوكو (ريم) وايري (ديما) فتاتان طبيعيتان سقطوا في عالمٍ بديلٍ مليءٍ بشعبٍ صغيرٍ في الحجم، الناس في هذا العالم الغامض يعتبرون الفتاتان (حماةً أبطال) الذي يمكن أن يحموا أرضهم في زمن الحروب، الفتاتان تعينوا مع مجموعة من المحاربين في مهمة لمعرفة كيف تم نقلهم إلى هنا وكيفية عودتهم إلى ديارهم.(c)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/191611933.2017-10-02.png" />
   </programme>
   <programme start="20180930153000 +0000" stop="20180930160000 +0000" channel="Space Toon">
     <title lang="ar">أسياد الشرق</title>
@@ -2216,20 +2225,15 @@
     <desc lang="ar">الحلقة الحادية عشر حدث يجتمع فيه المغامرون للتحدي من خلال استعراض الشاحنات العملاقة.</desc>
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/200210577.motorise.jpg" />
   </programme>
-  <programme start="20180930170000 +0000" stop="20180930173000 +0000" channel="Space Toon">
-    <title lang="ar">دايس</title>
-    <desc lang="ar">دايس هي منظمة من اجل معالجة المشاكل فس مجرة سابيليون , دايس اف 99 هي الوحدة الوحيدة التي تتكون كليا من المراهقين وفي حالة وجود مشاكل دايس ينطلق للأنقاذ لكنهم ليسوا وحدهم وعندما تحتاج الى بعض المساعده الاضافيه التي تعتمد علي دينوبرياكرز يمكن تحويل السيارة الى نمط دينو لطريقة تساعد لأنجاز المهمة.</desc>
-    <icon src="http://stream.minisat.net/epg.data/upload/pictures/203174092.cat_1405903188.jpg" />
-  </programme>
-  <programme start="20180930173000 +0000" stop="20180930174500 +0000" channel="Space Toon">
-    <title lang="ar">سونيك بوم 2</title>
-    <desc lang="ar">الحلقة الحادية والثلاثون (سونيك) يملك قدرة عجيبة في القفز والسرعة يستخدمهما في حل المشاكل.</desc>
-    <icon src="http://stream.minisat.net/epg.data/upload/pictures/159439313.sonic.png" />
+  <programme start="20180930170000 +0000" stop="20180930174500 +0000" channel="Space Toon">
+    <title lang="ar">opti-morphs</title>
+    <desc lang="ar">فيلم كرتون.(c)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/184504800.00000000000.png" />
   </programme>
   <programme start="20180930174500 +0000" stop="20180930180000 +0000" channel="Space Toon">
-    <title lang="ar">Mash &amp; The Bear</title>
-    <desc lang="ar">يركز العرض على مغامرات فتاة صغيرة تدعى (ماشا وصديقها الدب في صورة أبوية الذى يحافظ عليها دائما من الكوارث.</desc>
-    <icon src="http://stream.minisat.net/epg.data/upload/pictures/168202193.mim_eng_12.jpg" />
+    <title lang="ar">Sonic Boom</title>
+    <desc lang="ar">(سونيك) يملك قدرة عجيبة في القفز والسرعة يستخدمهما في حل المشاكل.(c)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/195214790.sonicboom.jpg" />
   </programme>
   <programme start="20180930180000 +0000" stop="20180930183000 +0000" channel="Space Toon">
     <title lang="ar">المحقق كونان</title>
@@ -2260,6 +2264,351 @@
     <title lang="ar">الصياد</title>
     <desc lang="ar">فتاة غريبة ذات قوة خارقة قدمت للمدينة التي اصابتها احدى الحوادث ( حادثة الانفجار الكبير ) لكنها ادت لفقد الكثير من الأشخاص من بينهم زوجة وابنة شخص يدعى روي هو صياد يعمل في القبض على المجرمين والخارجين عن القانون.</desc>
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/192692773.sayad.jpg" />
+  </programme>
+  <programme start="20180930210000 +0000" stop="20180930213000 +0000" channel="Space Toon">
+    <title lang="ar">النمر الوردي</title>
+    <desc lang="ar">النمر الوردي شخصية كوميدية يثير المشاكل ولا يقع فيها.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/168202230.PINK2.jpg" />
+  </programme>
+  <programme start="20180930213000 +0000" stop="20180930220000 +0000" channel="Space Toon">
+    <title lang="ar">مغامرات الفضاء غراندايزر</title>
+    <desc lang="ar">الحلقة الرابعة والأربعون الصراع بين الخير والشر، يمثل الشر (فيغا الكبير) وهو قائد فضائي شرير يسكن في سفينته الفضائية في الفضاء الخارجي هدفه السيطرة على جميع كواكب الكون، يستخدم (فيغا) في هجومه على الكواكب الأخرى رجالا آليين وروبوتات ضخمة.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/176404019.mo8amrat.jpg" />
+  </programme>
+  <programme start="20180930220000 +0000" stop="20180930221500 +0000" channel="Space Toon">
+    <title lang="ar">سونيك بوم 2</title>
+    <desc lang="ar">الحلقة الحادية والثلاثون (سونيك) يملك قدرة عجيبة في القفز والسرعة يستخدمهما في حل المشاكل.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/159439313.sonic.png" />
+  </programme>
+  <programme start="20180930221500 +0000" stop="20180930223000 +0000" channel="Space Toon">
+    <title lang="ar">ألفين 2</title>
+    <desc lang="ar">الحلقة الحادية والأربعون ثلاثة سناجب يحاولون تكوين فرقة موسيقية وأثناء ذلك تقع عدة مشاكل تخلق العديد من المواقف الكوميدية.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/168202184.0c3d860d1b022b6e22259eaaccab8890.jpg" />
+  </programme>
+  <programme start="20180930223000 +0000" stop="20180930230000 +0000" channel="Space Toon">
+    <title lang="ar">موتورايس</title>
+    <desc lang="ar">الحلقة العاشرة حدث يجتمع فيه المغامرون للتحدي من خلال استعراض الشاحنات العملاقة.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/200210577.motorise.jpg" />
+  </programme>
+  <programme start="20180930230000 +0000" stop="20180930233000 +0000" channel="Space Toon">
+    <title lang="ar">ساموراي 7</title>
+    <desc lang="ar">الحلقة الثالثة والعشرون (جاك) يحاول البحث عن طريقة للسفر إلى وقته الخاص، حيث يأمل في وقف (اكو) قبل أن تكون الأحداث في الماضي، ويسعي (جاك) لإيجاد بوابة الزمن، في حين يواجة بإستمرار العقبات التي وضعها (أكو) في معركة كلاسيكية من الخير ضد الشر.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/168202672.samurai7.jpg" />
+  </programme>
+  <programme start="20180930233000 +0000" stop="20181001000000 +0000" channel="Space Toon">
+    <title lang="ar">ساكورا</title>
+    <desc lang="ar">الحلقة الخامسة دور احداث هذا المسلسل عن فتاة صغيرهـ تبلغ العاشرهـ من عمرها تدرس في الصف الخامس الابتدائي ..تعيش حياتها عاديه مع ابيها واخيها الاكبر…..اما عن امها فقدت.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/202273098.Screenshot_10.png" />
+  </programme>
+  <programme start="20181001000000 +0000" stop="20181001003000 +0000" channel="Space Toon">
+    <title lang="ar">إينيوشا</title>
+    <desc lang="ar">الحلقة التاسعة والثلاثون فيلم كرتون.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/182514833.inuyasha.jpg" />
+  </programme>
+  <programme start="20181001003000 +0000" stop="20181001004500 +0000" channel="Space Toon">
+    <title lang="ar">سونيك بووم</title>
+    <desc lang="ar">(تعطيل إيغمان) (سونيك) يملك قدرة عجيبة في القفز والسرعة يستخدمهما في حل المشاكل.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/159439313.sonic.png" />
+  </programme>
+  <programme start="20181001004500 +0000" stop="20181001010000 +0000" channel="Space Toon">
+    <title lang="ar">ألفين 2</title>
+    <desc lang="ar">(رجل الذرات) ثلاثة سناجب يحاولون تكوين فرقة موسيقية وأثناء ذلك تقع عدة مشاكل تخلق العديد من المواقف الكوميدية.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/168202184.0c3d860d1b022b6e22259eaaccab8890.jpg" />
+  </programme>
+  <programme start="20181001010000 +0000" stop="20181001013000 +0000" channel="Space Toon">
+    <title lang="ar">البؤساء</title>
+    <desc lang="ar">الحلقة الحادية والخمسون الفتاة كوزيت تركتها والدتها لدى عائلة لرعايتها ولكن العائلة تقوم بابتزازها وجعلها تقوم بأعمال المنزل.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/139704177.548894.jpg" />
+  </programme>
+  <programme start="20181001013000 +0000" stop="20181001020000 +0000" channel="Space Toon">
+    <title lang="ar">المقاتل النبيل</title>
+    <desc lang="ar">الحلقة الخامسة والعشرون كيرا يوكي مقاتلٌ منذ صغره، تدرّب على أسلوب الهاكايوكن من قبل جده كما علمه جده أن القتال فنّ نبيل يُستخدم لحماية الآخرين لا لإيذائهم، عندما كبر أصبح يفوز بالبطولات.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/201169534.mogatel.jpg" />
+  </programme>
+  <programme start="20181001020000 +0000" stop="20181001023000 +0000" channel="Space Toon">
+    <title lang="ar">power rangers ninja steel</title>
+    <desc lang="ar">الحلقة الخامسة لعب العاب كرتون باور رينجرز ميغا فورس بدون استلام.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/142905109.b10.png" />
+  </programme>
+  <programme start="20181001023000 +0000" stop="20181001030000 +0000" channel="Space Toon">
+    <title lang="ar">رينبوفيش</title>
+    <desc lang="ar">الحلقة الثالثة عشر في اعماق البحار تدور احداث شيقة برفقة سمكة تعيش مغامرات شيقة ورهيبة مع المسلسل النادر رينبو فيش.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/202061522.maxresdefault.jpg" />
+  </programme>
+  <programme start="20181001030000 +0000" stop="20181001031500 +0000" channel="Space Toon">
+    <title lang="ar">توماس والأصدقاء</title>
+    <desc lang="ar">الحلقة الخامسة عشر يدور المسلسل الكرتوني حول القاطرة (توماس) وأصدقائه الذين يعيشون في جزيرة سودور. تعمل القاطرات مع بعضها بعضا على خط السكة الحديدية تحت إشراف المشرف السمين السيد (توفام هات).(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/162441159.490217836.png" />
+  </programme>
+  <programme start="20181001031500 +0000" stop="20181001033000 +0000" channel="Space Toon">
+    <title lang="ar">المعمار بوب</title>
+    <desc lang="ar">الحلقة الخامسة عشر مغامرات رسوم متحركة (بوب) و معه آلاته للعمل معا للتغلب على التحديات المختلفة من اجل انجاز هذه المهمة.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/172448782.bob.jpg" />
+  </programme>
+  <programme start="20181001033000 +0000" stop="20181001040000 +0000" channel="Space Toon">
+    <title lang="ar">cailiou</title>
+    <desc lang="ar">الحلقة الرابعة والعشرون كايو فتى يبلغ من العمر أربعة أعوام يعيش مع عائلته ويستكشف الطبيعة ويتعلم ممارسة الرياضة.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/198737897.caillo.jpg" />
+  </programme>
+  <programme start="20181001040000 +0000" stop="20181001043000 +0000" channel="Space Toon">
+    <title lang="ar">بوكويو</title>
+    <desc lang="ar">الحلقة الرابعة والأربعون (بوكويو)، طفل فضولى صغير يرتدى ملابس باللون الأزرق، و معه (باتو) البطة الصفراء، (اللي) الفيل الوردي، (لولا) الكلب، والطير النعسان وغيرهم الكثير في تعلم أشياء جديدة و الاستمتاع.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/168202191.Logo_Pocoyo1.jpg" />
+  </programme>
+  <programme start="20181001043000 +0000" stop="20181001044500 +0000" channel="Space Toon">
+    <title lang="ar">حكايات ماشا</title>
+    <desc lang="ar">الحلقة الخامسة عشر تحكي لنا (ماشا) في كل حلقة حكاية مختلفة نتعلم منها الكثير.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/197336121.mashataless.png" />
+  </programme>
+  <programme start="20181001044500 +0000" stop="20181001051500 +0000" channel="Space Toon">
+    <title lang="ar">موكا موكا</title>
+    <desc lang="ar">(موكا) صديق الكل ويساعد الجميع يقدم يد المساعده ويحاول الوصول إلى حل.(n)</desc>
+    <credits>
+      <actor>مياده درويش</actor>
+      <actor>آمنه عمر</actor>
+    </credits>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/182450683.cat_1420103732.jpg" />
+  </programme>
+  <programme start="20181001051500 +0000" stop="20181001053000 +0000" channel="Space Toon">
+    <title lang="ar">Charley and Mimmo</title>
+    <desc lang="ar">عائلة بطاريق يعيشون في الأجواء الدافئة وابنهم تشارلي يقوم بالمغامرات واللعب مع أصدقائه وسرعان مايغضب.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/199019297.charleyandmimmo.png" />
+  </programme>
+  <programme start="20181001053000 +0000" stop="20181001054500 +0000" channel="Space Toon">
+    <title lang="ar">الفأرة ميا</title>
+    <desc lang="ar">(لعبة الاوزة) الفأرة (ميا) وأصدقائها لديهم في كل يوم مغامرة جديدة.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/177224580.mia.jpg" />
+  </programme>
+  <programme start="20181001054500 +0000" stop="20181001060000 +0000" channel="Space Toon">
+    <title lang="ar">Teletubbies</title>
+    <desc lang="ar">البرنامج يدور حول مغامرات تليتبيز الأربعة (تينكي وينكي، ديبسي لالا، بو)حيث يلعبون في عالم تليتبيز المبهج والمرح.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/195019545.tele.jpg" />
+  </programme>
+  <programme start="20181001060000 +0000" stop="20181001061500 +0000" channel="Space Toon">
+    <title lang="ar">ANDY PANDY</title>
+    <desc lang="ar">مجموعة من الدمى يقضون وقتهم مع بعضهم ويكتشفون ماحولهم.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/201132880.andypandy.jpg" />
+  </programme>
+  <programme start="20181001061500 +0000" stop="20181001063000 +0000" channel="Space Toon">
+    <title lang="ar">بوكويو</title>
+    <desc lang="ar">(بوكويو)، طفل فضولى صغير يرتدى ملابس باللون الأزرق، و معه (باتو) البطة الصفراء، (اللي) الفيل الوردي، (لولا) الكلب، والطير النعسان وغيرهم الكثير في تعلم أشياء جديدة و الاستمتاع.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/168202191.Logo_Pocoyo1.jpg" />
+  </programme>
+  <programme start="20181001063000 +0000" stop="20181001064500 +0000" channel="Space Toon">
+    <title lang="ar">حكايات ماشا</title>
+    <desc lang="ar">الحلقة الرابعة والعشرون(طباخ وغنم) تحكي لنا (ماشا) في كل حلقة حكاية مختلفة نتعلم منها الكثير.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/197336121.mashataless.png" />
+  </programme>
+  <programme start="20181001064500 +0000" stop="20181001071500 +0000" channel="Space Toon">
+    <title lang="ar">cailiou</title>
+    <desc lang="ar">كايو فتى يبلغ من العمر أربعة أعوام يعيش مع عائلته ويستكشف الطبيعة ويتعلم ممارسة الرياضة.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/198737897.caillo.jpg" />
+  </programme>
+  <programme start="20181001071500 +0000" stop="20181001073000 +0000" channel="Space Toon">
+    <title lang="ar">Charley and Mimmo</title>
+    <desc lang="ar">عائلة بطاريق يعيشون في الأجواء الدافئة وابنهم تشارلي يقوم بالمغامرات واللعب مع أصدقائه وسرعان مايغضب.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/199019297.charleyandmimmo.png" />
+  </programme>
+  <programme start="20181001073000 +0000" stop="20181001080000 +0000" channel="Space Toon">
+    <title lang="ar">موكا موكا</title>
+    <desc lang="ar">(موكا) صديق الكل ويساعد الجميع يقدم يد المساعده ويحاول الوصول إلى حل.(n)</desc>
+    <credits>
+      <actor>مياده درويش</actor>
+      <actor>آمنه عمر</actor>
+    </credits>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/182450683.cat_1420103732.jpg" />
+  </programme>
+  <programme start="20181001080000 +0000" stop="20181001083000 +0000" channel="Space Toon">
+    <title lang="ar">نادين</title>
+    <desc lang="ar">A young girl embarks on a series of misadventures, causing her friends and teachers to be worrisome. Based on the children\\'s books.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/205201982.th.jpg" />
+  </programme>
+  <programme start="20181001083000 +0000" stop="20181001084500 +0000" channel="Space Toon">
+    <title lang="ar">حكايات ماشا</title>
+    <desc lang="ar">(الأوراق والجذور) تحكي لنا (ماشا) في كل حلقة حكاية مختلفة نتعلم منها الكثير.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/174089037.masha.jpg" />
+  </programme>
+  <programme start="20181001084500 +0000" stop="20181001090000 +0000" channel="Space Toon">
+    <title lang="ar">الفأرة ميا</title>
+    <desc lang="ar">الفأرة (ميا) وأصدقائها لديهم في كل يوم مغامرة جديدة.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/168249807.fa2.jpg" />
+  </programme>
+  <programme start="20181001090000 +0000" stop="20181001091500 +0000" channel="Space Toon">
+    <title lang="ar">popples</title>
+    <desc lang="ar">The adorable Best Popple Pals love helping their friends and neighbors.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/205273743.popples.jpg" />
+  </programme>
+  <programme start="20181001091500 +0000" stop="20181001093000 +0000" channel="Space Toon">
+    <title lang="ar">Mash &amp; The Bear</title>
+    <desc lang="ar">يركز العرض على مغامرات فتاة صغيرة تدعى (ماشا وصديقها الدب في صورة أبوية الذى يحافظ عليها دائما من الكوارث.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/168202193.mim_eng_12.jpg" />
+  </programme>
+  <programme start="20181001093000 +0000" stop="20181001094500 +0000" channel="Space Toon">
+    <title lang="ar">نجمة الطبخ</title>
+    <desc lang="ar">(فطيرة الملفوف) (فرح) تدرس في الصف الخامس وتحلم أن تصبح نجمة الغناء ولكنها فشلت بعد الأداء التجريبي وقررت المديرة طردها ولكنها لم تكن تريد ذلك فأعطتها فرصة بأن تصبح نجمة الطبخ.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/182198279.najma.jpg" />
+  </programme>
+  <programme start="20181001094500 +0000" stop="20181001100000 +0000" channel="Space Toon">
+    <title lang="ar">روفترس</title>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/188966920.172139160photo.jpg" />
+  </programme>
+  <programme start="20181001100000 +0000" stop="20181001103000 +0000" channel="Space Toon">
+    <title lang="ar">driland</title>
+    <desc lang="ar">في العصور الوسطى حيث نجد الكنوز و الممالك بطلتنا ميكوتو حاكمة ايلوا ارادت خوض مغامرات و هكذا بدأت حكايتها مع أصدقائها ومغامراتهم و قتالهم لقوى الشر و التعرف أكثر على مملكة دريلاند.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/205273685.6fe3316de675fc321ac367d3be85a189d2337b1b_00.jpg" />
+  </programme>
+  <programme start="20181001103000 +0000" stop="20181001110000 +0000" channel="Space Toon">
+    <title lang="ar">النمر الوردي</title>
+    <desc lang="ar">النمر الوردي شخصية كوميدية يثير المشاكل ولا يقع فيها.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/168202230.PINK2.jpg" />
+  </programme>
+  <programme start="20181001110000 +0000" stop="20181001111500 +0000" channel="Space Toon">
+    <title lang="ar">Sonic Boom</title>
+    <desc lang="ar">(سونيك) يملك قدرة عجيبة في القفز والسرعة يستخدمهما في حل المشاكل.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/195214790.sonicboom.jpg" />
+  </programme>
+  <programme start="20181001111500 +0000" stop="20181001113000 +0000" channel="Space Toon">
+    <title lang="ar">Mash &amp; The Bear</title>
+    <desc lang="ar">يركز العرض على مغامرات فتاة صغيرة تدعى (ماشا وصديقها الدب في صورة أبوية الذى يحافظ عليها دائما من الكوارث.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/168202193.mim_eng_12.jpg" />
+  </programme>
+  <programme start="20181001113000 +0000" stop="20181001120000 +0000" channel="Space Toon">
+    <title lang="ar">Motorise</title>
+    <desc lang="ar">حدث يجتمع فيه المغامرون للتحدي من خلال استعراض الشاحنات العملاقة.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/200210577.motorise.jpg" />
+  </programme>
+  <programme start="20181001120000 +0000" stop="20181001123000 +0000" channel="Space Toon">
+    <title lang="ar">ZAK STORM</title>
+    <desc lang="ar">زاك ستورم تدور حول (زاك)، وهو شاب في سن المراهقة ، عندما يتدفق في (سيفن سيز أوف ذا برمودا).(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/205589000.Screenshot_16.png" />
+  </programme>
+  <programme start="20181001123000 +0000" stop="20181001124500 +0000" channel="Space Toon">
+    <title lang="ar">popples</title>
+    <desc lang="ar">The adorable Best Popple Pals love helping their friends and neighbors.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/205273743.popples.jpg" />
+  </programme>
+  <programme start="20181001124500 +0000" stop="20181001130000 +0000" channel="Space Toon">
+    <title lang="ar">Mash &amp; The Bear</title>
+    <desc lang="ar">يركز العرض على مغامرات فتاة صغيرة تدعى (ماشا وصديقها الدب في صورة أبوية الذى يحافظ عليها دائما من الكوارث.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/168202193.mim_eng_12.jpg" />
+  </programme>
+  <programme start="20181001130000 +0000" stop="20181001133000 +0000" channel="Space Toon">
+    <title lang="ar">المحقق كونان 8</title>
+    <desc lang="ar">يعود كونان في هذا الجزء مع قضايا جديدة مليئة بالألغاز والغموض والتي يحاول حلها للوصول الى مرتكبيها والقبض عليهم، ولا تخلوا الحلقات من تسليط الضوء على قضية كونان الأساسية مع المنظمة السوداء.(n)</desc>
+    <credits>
+      <actor>آمال سعد الدين</actor>
+      <actor>مروان فرحات</actor>
+    </credits>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/139677918.749958874755.jpg" />
+  </programme>
+  <programme start="20181001133000 +0000" stop="20181001140000 +0000" channel="Space Toon">
+    <title lang="ar">أحلام تيمي</title>
+    <desc lang="ar">يتحدث المسلسل عن طفل صغير يتعرض للتنمر من قبل جليسة الأطفال ومتنمر في المدرسة، يأتي مساعدان خياليان ليساعداه ولكن أحدهم يتسم بالغباء لذلك يوقع تيمي في المشاكل.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/200063819.teme.jpg" />
+  </programme>
+  <programme start="20181001140000 +0000" stop="20181001143000 +0000" channel="Space Toon">
+    <title lang="ar">Motorise</title>
+    <desc lang="ar">حدث يجتمع فيه المغامرون للتحدي من خلال استعراض الشاحنات العملاقة.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/200210577.motorise.jpg" />
+  </programme>
+  <programme start="20181001143000 +0000" stop="20181001150000 +0000" channel="Space Toon">
+    <title lang="ar">الرمية الملتهبة</title>
+    <desc lang="ar">تتحدث القصة عن رحلة سامي على درب أبيه البطل الراحل رعد الذي وصاياه معه في ممارسة رياضة كرة اليد الخارقة. كان الجميع يسخر منه في البداية لقصر قامته لكن في الملعب يصبر لاعبا صنديدا عالي الأخلاق الرياضية. يكتشف سامي تدريجيا في نفسه مهارة كانت لأبيه تسمى بالرمية الملتهبة و أثناء محاولته لتنفيذها يلتقي بخصوم و أصدقاء جدد.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/190858591.ram.png" />
+  </programme>
+  <programme start="20181001150000 +0000" stop="20181001153000 +0000" channel="Space Toon">
+    <title lang="ar">ZAK STORM</title>
+    <desc lang="ar">زاك ستورم تدور حول (زاك)، وهو شاب في سن المراهقة ، عندما يتدفق في (سيفن سيز أوف ذا برمودا).(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/205589000.Screenshot_16.png" />
+  </programme>
+  <programme start="20181001153000 +0000" stop="20181001160000 +0000" channel="Space Toon">
+    <title lang="ar">أسياد الشرق</title>
+    <desc lang="ar">تجري الأحداث قبل حوالي 1800 عام في الصين، حين بدأ يضعف حكم سلالة الهان واندلعت حربٌ أهلية طاحنة في ربوع البلاد ما أدى إلى انقسامها إلى ثلاث ممالك.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/196471368.asyadsharq.png" />
+  </programme>
+  <programme start="20181001160000 +0000" stop="20181001163000 +0000" channel="Space Toon">
+    <title lang="ar">أحلام تيمي</title>
+    <desc lang="ar">يتحدث المسلسل عن طفل صغير يتعرض للتنمر من قبل جليسة الأطفال ومتنمر في المدرسة، يأتي مساعدان خياليان ليساعداه ولكن أحدهم يتسم بالغباء لذلك يوقع تيمي في المشاكل.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/200063819.teme.jpg" />
+  </programme>
+  <programme start="20181001163000 +0000" stop="20181001170000 +0000" channel="Space Toon">
+    <title lang="ar">النمر الوردي</title>
+    <desc lang="ar">النمر الوردي شخصية كوميدية يثير المشاكل ولا يقع فيها.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/168202230.PINK2.jpg" />
+  </programme>
+  <programme start="20181001170000 +0000" stop="20181001173000 +0000" channel="Space Toon">
+    <title lang="ar">دايس</title>
+    <desc lang="ar">دايس هي منظمة من اجل معالجة المشاكل فس مجرة سابيليون , دايس اف 99 هي الوحدة الوحيدة التي تتكون كليا من المراهقين وفي حالة وجود مشاكل دايس ينطلق للأنقاذ لكنهم ليسوا وحدهم وعندما تحتاج الى بعض المساعده الاضافيه التي تعتمد علي دينوبرياكرز يمكن تحويل السيارة الى نمط دينو لطريقة تساعد لأنجاز المهمة.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/203174092.cat_1405903188.jpg" />
+  </programme>
+  <programme start="20181001173000 +0000" stop="20181001180000 +0000" channel="Space Toon">
+    <title lang="ar">ZAK STORM</title>
+    <desc lang="ar">زاك ستورم تدور حول (زاك)، وهو شاب في سن المراهقة ، عندما يتدفق في (سيفن سيز أوف ذا برمودا).(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/205589000.Screenshot_16.png" />
+  </programme>
+  <programme start="20181001180000 +0000" stop="20181001183000 +0000" channel="Space Toon">
+    <title lang="ar">المحقق كونان 8</title>
+    <desc lang="ar">يعود كونان في هذا الجزء مع قضايا جديدة مليئة بالألغاز والغموض والتي يحاول حلها للوصول الى مرتكبيها والقبض عليهم، ولا تخلوا الحلقات من تسليط الضوء على قضية كونان الأساسية مع المنظمة السوداء.(n)</desc>
+    <credits>
+      <actor>آمال سعد الدين</actor>
+      <actor>مروان فرحات</actor>
+    </credits>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/139677918.749958874755.jpg" />
+  </programme>
+  <programme start="20181001183000 +0000" stop="20181001190000 +0000" channel="Space Toon">
+    <title lang="ar">الرمية الملتهبة</title>
+    <desc lang="ar">(الحلقةا لثامنه والعشرون) تتحدث القصة عن رحلة سامي على درب أبيه البطل الراحل رعد الذي وصاياه معه في ممارسة رياضة كرة اليد الخارقة. كان الجميع يسخر منه في البداية لقصر قامته لكن في الملعب يصبر لاعبا صنديدا عالي الأخلاق الرياضية. يكتشف سامي تدريجيا في نفسه مهارة كانت لأبيه تسمى بالرمية الملتهبة و أثناء محاولته لتنفيذها يلتقي بخصوم و أصدقاء جدد.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/190858591.ram.png" />
+  </programme>
+  <programme start="20181001190000 +0000" stop="20181001193000 +0000" channel="Space Toon">
+    <title lang="ar">أسياد الشرق</title>
+    <desc lang="ar">تجري الأحداث قبل حوالي 1800 عام في الصين، حين بدأ يضعف حكم سلالة الهان واندلعت حربٌ أهلية طاحنة في ربوع البلاد ما أدى إلى انقسامها إلى ثلاث ممالك.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/196471368.asyadsharq.png" />
+  </programme>
+  <programme start="20181001193000 +0000" stop="20181001203000 +0000" channel="Space Toon">
+    <title lang="ar">سيف النار</title>
+    <desc lang="ar">تبدأ رحلة كينشيرو في القصة، عندما تتعرض له مجموعة من رجال (زد) أحد قادة العصابات، فيقتلهم بأسلوب غريب، إذ يموتون بانفجار أجسامهم بعد فترة من تعرضهم لهجومه.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/192692775.seeefnar.jpg" />
+  </programme>
+  <programme start="20181001203000 +0000" stop="20181001210000 +0000" channel="Space Toon">
+    <title lang="ar">الصياد</title>
+    <desc lang="ar">فتاة غريبة ذات قوة خارقة قدمت للمدينة التي اصابتها احدى الحوادث ( حادثة الانفجار الكبير ) لكنها ادت لفقد الكثير من الأشخاص من بينهم زوجة وابنة شخص يدعى روي هو صياد يعمل في القبض على المجرمين والخارجين عن القانون.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/192692773.sayad.jpg" />
+  </programme>
+  <programme start="20181001210000 +0000" stop="20181001213000 +0000" channel="Space Toon">
+    <title lang="ar">النمر الوردي</title>
+    <desc lang="ar">النمر الوردي شخصية كوميدية يثير المشاكل ولا يقع فيها.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/168202230.PINK2.jpg" />
+  </programme>
+  <programme start="20181001213000 +0000" stop="20181001220000 +0000" channel="Space Toon">
+    <title lang="ar">مغامرات الفضاء غراندايزر</title>
+    <desc lang="ar">الحلقة الرابعة والأربعون الصراع بين الخير والشر، يمثل الشر (فيغا الكبير) وهو قائد فضائي شرير يسكن في سفينته الفضائية في الفضاء الخارجي هدفه السيطرة على جميع كواكب الكون، يستخدم (فيغا) في هجومه على الكواكب الأخرى رجالا آليين وروبوتات ضخمة.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/176404019.mo8amrat.jpg" />
+  </programme>
+  <programme start="20181001220000 +0000" stop="20181001221500 +0000" channel="Space Toon">
+    <title lang="ar">سونيك بوم 2</title>
+    <desc lang="ar">الحلقة الحادية والثلاثون (سونيك) يملك قدرة عجيبة في القفز والسرعة يستخدمهما في حل المشاكل.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/159439313.sonic.png" />
+  </programme>
+  <programme start="20181001221500 +0000" stop="20181001223000 +0000" channel="Space Toon">
+    <title lang="ar">ألفين 2</title>
+    <desc lang="ar">الحلقة الحادية والأربعون ثلاثة سناجب يحاولون تكوين فرقة موسيقية وأثناء ذلك تقع عدة مشاكل تخلق العديد من المواقف الكوميدية.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/168202184.0c3d860d1b022b6e22259eaaccab8890.jpg" />
+  </programme>
+  <programme start="20181001223000 +0000" stop="20181001230000 +0000" channel="Space Toon">
+    <title lang="ar">موتورايس</title>
+    <desc lang="ar">الحلقة العاشرة حدث يجتمع فيه المغامرون للتحدي من خلال استعراض الشاحنات العملاقة.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/200210577.motorise.jpg" />
+  </programme>
+  <programme start="20181001230000 +0000" stop="20181001233000 +0000" channel="Space Toon">
+    <title lang="ar">ساموراي 7</title>
+    <desc lang="ar">الحلقة الثالثة والعشرون (جاك) يحاول البحث عن طريقة للسفر إلى وقته الخاص، حيث يأمل في وقف (اكو) قبل أن تكون الأحداث في الماضي، ويسعي (جاك) لإيجاد بوابة الزمن، في حين يواجة بإستمرار العقبات التي وضعها (أكو) في معركة كلاسيكية من الخير ضد الشر.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/168202672.samurai7.jpg" />
+  </programme>
+  <programme start="20181001233000 +0000" stop="20181002000000 +0000" channel="Space Toon">
+    <title lang="ar">ساكورا</title>
+    <desc lang="ar">الحلقة الخامسة دور احداث هذا المسلسل عن فتاة صغيرهـ تبلغ العاشرهـ من عمرها تدرس في الصف الخامس الابتدائي ..تعيش حياتها عاديه مع ابيها واخيها الاكبر…..اما عن امها فقدت.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/202273098.Screenshot_10.png" />
   </programme>
   <programme start="20180930000000 +0000" stop="20180930001500 +0000" channel="Saudi Channel 1">
     <title lang="ar">الأخبار</title>
@@ -3961,23 +4310,18 @@
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/185010382.fatra.jpg" />
   </programme>
   <programme start="20180930030000 +0000" stop="20180930040000 +0000" channel="Dubai Al Oula">
-    <title lang="ar">..تجوال</title>
-    <desc lang="ar">تجوال بين ربوع إمارات الدولة، وزيارات لأماكن ومتاحف نادرة.</desc>
-    <icon src="http://stream.minisat.net/epg.data/upload/pictures/92798590.02451082.jpg" />
-  </programme>
-  <programme start="20180930040000 +0000" stop="20180930050000 +0000" channel="Dubai Al Oula">
     <title lang="ar">أفلام وثائقية</title>
-    <desc lang="ar">سلسلة من الحلقات الوثائقية التي تغطي مجموعة من المعالم العالمية المعروفة أو المواضيع البيئية والتاريخية التي تهم المشاهد وتثري معلوماته من النواحي الحياتية المختلفة.</desc>
+    <desc lang="ar">سلسلة من الحلقات الوثائقية التي تغطي مجموعة من المعالم العالمية المعروفة أو المواضيع البيئية والتاريخية التي تهم المشاهد وتثري معلوماته من النواحي الحياتية المختلفة.(c)</desc>
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/188157064.Large_33356.jpg" />
   </programme>
+  <programme start="20180930040000 +0000" stop="20180930050000 +0000" channel="Dubai Al Oula">
+    <title lang="ar">Tamasha - section 4</title>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/01396402.67.jpg" />
+  </programme>
   <programme start="20180930050000 +0000" stop="20180930060000 +0000" channel="Dubai Al Oula">
-    <title lang="ar">لدينا أقوال أخرى</title>
-    <desc lang="ar">الحلقة الثالثة والعشرون تدور الأحداث حول مستشارة قانونية سابقة يتعرض ابنها لحادث يؤدي إلى وفاته، فيبدأ التحقيق في القضية وتتعرض المستشارة لعدد من المشاكل بسبب هذا الحادث، حتى يتم إتهامها بقتل ابنها، ثم يتم الحكم عليها بالإعدام، وتتوالى الأحداث في سبيل إثبات براءتها.</desc>
-    <credits>
-      <actor>يسرى</actor>
-      <actor>نجلاء بدر</actor>
-    </credits>
-    <icon src="http://stream.minisat.net/epg.data/upload/pictures/201580388.agwalokhra.jpg" />
+    <title lang="ar">GRAND HOTEL</title>
+    <desc lang="ar">دراما إسبانية مشوقة ومثيرة حول فندق مملوك لعائلة في عام 1905، هذا الفندق الذي كان مسرحاً للحب والابتزاز والغيرة والجريمة والكوميديا والمؤامرات، والمؤامرات المضادة بين الملاك والزبائن والمحققين والموظفين.(c)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/203578095.Large_42463.jpg" />
   </programme>
   <programme start="20180930060000 +0000" stop="20180930070000 +0000" channel="Dubai Al Oula">
     <title lang="ar">أرض النفاق</title>
@@ -4004,8 +4348,8 @@
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/02881918.90.jpg" />
   </programme>
   <programme start="20180930100000 +0000" stop="20180930110000 +0000" channel="Dubai Al Oula">
-    <title lang="ar">هم النوايا</title>
-    <icon src="http://stream.minisat.net/epg.data/upload/pictures/206202357.dummy_medium.jpg" />
+    <title lang="ar">Tamasha - section 4</title>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/01396402.67.jpg" />
   </programme>
   <programme start="20180930110000 +0000" stop="20180930113000 +0000" channel="Dubai Al Oula">
     <title lang="ar">أخبار الإمارات</title>
@@ -4018,18 +4362,18 @@
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/92798584.02292837.jpg" />
   </programme>
   <programme start="20180930120000 +0000" stop="20180930130000 +0000" channel="Dubai Al Oula">
-    <title lang="ar">لدينا أقوال أخرى</title>
-    <desc lang="ar">الحلقة الثالثة والعشرون تدور الأحداث حول مستشارة قانونية سابقة يتعرض ابنها لحادث يؤدي إلى وفاته، فيبدأ التحقيق في القضية وتتعرض المستشارة لعدد من المشاكل بسبب هذا الحادث، حتى يتم إتهامها بقتل ابنها، ثم يتم الحكم عليها بالإعدام، وتتوالى الأحداث في سبيل إثبات براءتها.</desc>
-    <credits>
-      <actor>يسرى</actor>
-      <actor>نجلاء بدر</actor>
-    </credits>
-    <icon src="http://stream.minisat.net/epg.data/upload/pictures/201580388.agwalokhra.jpg" />
+    <title lang="ar">GRAND HOTEL</title>
+    <desc lang="ar">دراما إسبانية مشوقة ومثيرة حول فندق مملوك لعائلة في عام 1905، هذا الفندق الذي كان مسرحاً للحب والابتزاز والغيرة والجريمة والكوميديا والمؤامرات، والمؤامرات المضادة بين الملاك والزبائن والمحققين والموظفين.(c)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/203578095.Large_42463.jpg" />
   </programme>
   <programme start="20180930130000 +0000" stop="20180930140000 +0000" channel="Dubai Al Oula">
-    <title lang="ar">أرض النفاق</title>
-    <desc lang="ar">تدور الأحداث حول عامل مطحون من عمال الإنارة في الحي اسمه (مسعود)، ذلك العامل كان دخله ضئيل وحياته بائسة، ودومًا ما يواجه خلافات مع زوجته (جميلة) وحماته، اللتين لم تعودا قادرتين على العيش معه، ويمتلك والده محلاً لبيع الكُسكُسّي، وفي يوم تستدرجه الحياة ليتعرف على دكتور (ماضي)، الذي يقدم له أخلاق للبيع على هيئة حبوب، فيبدأ في تناول الحبوب تباعًا، ليكتشف معها حياة جديدة، بشخصيات جديدة، وأخلاق مستعارة للبيع.</desc>
-    <icon src="http://stream.minisat.net/epg.data/upload/pictures/205989884.Medium_43241.jpg" />
+    <title lang="ar">يونس ولد فضة</title>
+    <desc lang="ar">يطرح المسلسل قضية تجعلنا نغوص في أعماق الصعيد، وذلك من خلال شخصية أحد أباطرة الصعيد (يونس شهاب) الذي يقوم بتحقيق كل ما يريد بكل الطرق المشروعة والغير مشروعة، وسوف يسلط العمل الضوء علي العديد من قضايا الفساد المستوطنة في بعض مناطق الصعيد، والتي لا تجد من يواجهها.(c)</desc>
+    <credits>
+      <actor>عمرو سعد</actor>
+      <actor>ريهام حجاج</actor>
+    </credits>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/164126142.12345.jpg" />
   </programme>
   <programme start="20180930140000 +0000" stop="20180930150000 +0000" channel="Dubai Al Oula">
     <title lang="ar">The Insider بالعربي</title>
@@ -4041,8 +4385,8 @@
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/194497289.inside+ar.jpg" />
   </programme>
   <programme start="20180930150000 +0000" stop="20180930160000 +0000" channel="Dubai Al Oula">
-    <title lang="ar">هم النوايا</title>
-    <icon src="http://stream.minisat.net/epg.data/upload/pictures/206202357.dummy_medium.jpg" />
+    <title lang="ar">Tamasha - section 4</title>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/01396402.67.jpg" />
   </programme>
   <programme start="20180930160000 +0000" stop="20180930170000 +0000" channel="Dubai Al Oula">
     <title lang="ar">أخبار الإمارات</title>
@@ -4050,13 +4394,9 @@
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/157623912.157438994.54412.jpg" />
   </programme>
   <programme start="20180930170000 +0000" stop="20180930180000 +0000" channel="Dubai Al Oula">
-    <title lang="ar">لدينا أقوال أخرى</title>
-    <desc lang="ar">الحلقة الثالثة والعشرون تدور الأحداث حول مستشارة قانونية سابقة يتعرض ابنها لحادث يؤدي إلى وفاته، فيبدأ التحقيق في القضية وتتعرض المستشارة لعدد من المشاكل بسبب هذا الحادث، حتى يتم إتهامها بقتل ابنها، ثم يتم الحكم عليها بالإعدام، وتتوالى الأحداث في سبيل إثبات براءتها.</desc>
-    <credits>
-      <actor>يسرى</actor>
-      <actor>نجلاء بدر</actor>
-    </credits>
-    <icon src="http://stream.minisat.net/epg.data/upload/pictures/201580388.agwalokhra.jpg" />
+    <title lang="ar">GRAND HOTEL</title>
+    <desc lang="ar">دراما إسبانية مشوقة ومثيرة حول فندق مملوك لعائلة في عام 1905، هذا الفندق الذي كان مسرحاً للحب والابتزاز والغيرة والجريمة والكوميديا والمؤامرات، والمؤامرات المضادة بين الملاك والزبائن والمحققين والموظفين.(c)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/203578095.Large_42463.jpg" />
   </programme>
   <programme start="20180930180000 +0000" stop="20180930180500 +0000" channel="Dubai Al Oula">
     <title lang="ar">أخبار الإمارات</title>
@@ -4064,9 +4404,12 @@
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/157623912.157438994.54412.jpg" />
   </programme>
   <programme start="20180930180500 +0000" stop="20180930190000 +0000" channel="Dubai Al Oula">
-    <title lang="ar">اليوم الوطني السعودي88</title>
-    <desc lang="ar">تحتفل المملكة العربية السعودية باليوم الوطني لتوحيد المملكة في 23 سبتمبر من كل عام. وهو يوم صدور مرسوم الملك عبد العزيز بتوحيد المملكة العربية السعودية؛ حيث صدر في 17 جمادى الأولى, 1351هـ مرسوم ملكي بتوحيد كل أجزاء الدولة السعودية الحديثة تحت اسم المملكة العربية السعودية.</desc>
-    <icon src="http://stream.minisat.net/epg.data/upload/pictures/141505848.Y.jpg" />
+    <title lang="ar">Fashion Star</title>
+    <desc lang="ar">Reality competition series.(c)</desc>
+    <credits>
+      <actor>Elle Macpherson</actor>
+    </credits>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/166620306.fashion+star.jpg" />
   </programme>
   <programme start="20180930190000 +0000" stop="20180930200000 +0000" channel="Dubai Al Oula">
     <title lang="ar">The Insider بالعربي</title>
@@ -4081,6 +4424,185 @@
     <title lang="ar">اختفاء</title>
     <desc lang="ar">تدور الأحداث حول دكتورة جامعية في روسيا، وتعيش مع زوجها هناك، لكن فجأة وبدون مقدمات يختفي زوجها، لتبدأ رحلة البحث عنه، ويصل بها الأمر للعودة إلى مصر في إطار رحلة بحثها، لكن هذه الرحلة تفاجئها بالكثير من الأمور التي لم تكن على علم بها.</desc>
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/205989894.Medium_43246.jpg" />
+  </programme>
+  <programme start="20180930210000 +0000" stop="20180930220000 +0000" channel="Dubai Al Oula">
+    <title lang="ar">أرض النفاق</title>
+    <desc lang="ar">تدور الأحداث حول عامل مطحون من عمال الإنارة في الحي اسمه (مسعود)، ذلك العامل كان دخله ضئيل وحياته بائسة، ودومًا ما يواجه خلافات مع زوجته (جميلة) وحماته، اللتين لم تعودا قادرتين على العيش معه، ويمتلك والده محلاً لبيع الكُسكُسّي، وفي يوم تستدرجه الحياة ليتعرف على دكتور (ماضي)، الذي يقدم له أخلاق للبيع على هيئة حبوب، فيبدأ في تناول الحبوب تباعًا، ليكتشف معها حياة جديدة، بشخصيات جديدة، وأخلاق مستعارة للبيع.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/205989884.Medium_43241.jpg" />
+  </programme>
+  <programme start="20180930220000 +0000" stop="20180930230000 +0000" channel="Dubai Al Oula">
+    <title lang="ar">هم النوايا</title>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/206202345.dummy_medium.jpg" />
+  </programme>
+  <programme start="20180930230000 +0000" stop="20181001000000 +0000" channel="Dubai Al Oula">
+    <title lang="ar">لدينا أقوال أخرى</title>
+    <desc lang="ar">الحلقة الثالثة والعشرون تدور الأحداث حول مستشارة قانونية سابقة يتعرض ابنها لحادث يؤدي إلى وفاته، فيبدأ التحقيق في القضية وتتعرض المستشارة لعدد من المشاكل بسبب هذا الحادث، حتى يتم إتهامها بقتل ابنها، ثم يتم الحكم عليها بالإعدام، وتتوالى الأحداث في سبيل إثبات براءتها.(n)</desc>
+    <credits>
+      <actor>يسرى</actor>
+      <actor>نجلاء بدر</actor>
+    </credits>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/201580388.agwalokhra.jpg" />
+  </programme>
+  <programme start="20181001000000 +0000" stop="20181001010000 +0000" channel="Dubai Al Oula">
+    <title lang="ar">The Insider بالعربي</title>
+    <desc lang="ar">برنامج يتابع أخبار المشاهير والنجوم ويستعرض أهم القصص اليومية الخاصة في عالم الفن والمنوعات والسينما، كما يضم مقابلات حصرية وتقارير تغوص في عمق الأحداث، ويهتم بعرض الأخبار الفنية التي تخص النجوم والمشاهير، وكذلك الأحداث والحفلات التي تقام في المهرجانات السينمائية الساحات الفنية وهوليوود.(n)</desc>
+    <credits>
+      <actor>شيمه</actor>
+      <actor>فيصل الزهراني</actor>
+    </credits>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/194497289.inside+ar.jpg" />
+  </programme>
+  <programme start="20181001010000 +0000" stop="20181001020000 +0000" channel="Dubai Al Oula">
+    <title lang="ar">اختفاء</title>
+    <desc lang="ar">تدور الأحداث حول دكتورة جامعية في روسيا، وتعيش مع زوجها هناك، لكن فجأة وبدون مقدمات يختفي زوجها، لتبدأ رحلة البحث عنه، ويصل بها الأمر للعودة إلى مصر في إطار رحلة بحثها، لكن هذه الرحلة تفاجئها بالكثير من الأمور التي لم تكن على علم بها.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/205989888.Medium_43246.jpg" />
+  </programme>
+  <programme start="20181001020000 +0000" stop="20181001030000 +0000" channel="Dubai Al Oula">
+    <title lang="ar">الفترة الدينية</title>
+    <desc lang="ar">فترة الصلوات والأدعية الدينية.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/185010382.fatra.jpg" />
+  </programme>
+  <programme start="20181001030000 +0000" stop="20181001040000 +0000" channel="Dubai Al Oula">
+    <title lang="ar">Karetat Al Maal</title>
+    <desc lang="ar">تنطلق فكرة البرنامج من الحاجة إلى رصد المتغيرات الاقتصادية من حولنا عبر قراءة متأنية للإتجاهات في عالم المال والأعمال وهو يتحرك وفق ما تمليه حركة الإستثمارات والرساميل على الخارطة الدولية.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/02881918.90.jpg" />
+  </programme>
+  <programme start="20181001040000 +0000" stop="20181001050000 +0000" channel="Dubai Al Oula">
+    <title lang="ar">هم النوايا</title>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/206202357.dummy_medium.jpg" />
+  </programme>
+  <programme start="20181001050000 +0000" stop="20181001060000 +0000" channel="Dubai Al Oula">
+    <title lang="ar">لدينا أقوال أخرى</title>
+    <desc lang="ar">الحلقة الثالثة والعشرون تدور الأحداث حول مستشارة قانونية سابقة يتعرض ابنها لحادث يؤدي إلى وفاته، فيبدأ التحقيق في القضية وتتعرض المستشارة لعدد من المشاكل بسبب هذا الحادث، حتى يتم إتهامها بقتل ابنها، ثم يتم الحكم عليها بالإعدام، وتتوالى الأحداث في سبيل إثبات براءتها.(n)</desc>
+    <credits>
+      <actor>يسرى</actor>
+      <actor>نجلاء بدر</actor>
+    </credits>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/201580388.agwalokhra.jpg" />
+  </programme>
+  <programme start="20181001060000 +0000" stop="20181001070000 +0000" channel="Dubai Al Oula">
+    <title lang="ar">أرض النفاق</title>
+    <desc lang="ar">تدور الأحداث حول عامل مطحون من عمال الإنارة في الحي اسمه (مسعود)، ذلك العامل كان دخله ضئيل وحياته بائسة، ودومًا ما يواجه خلافات مع زوجته (جميلة) وحماته، اللتين لم تعودا قادرتين على العيش معه، ويمتلك والده محلاً لبيع الكُسكُسّي، وفي يوم تستدرجه الحياة ليتعرف على دكتور (ماضي)، الذي يقدم له أخلاق للبيع على هيئة حبوب، فيبدأ في تناول الحبوب تباعًا، ليكتشف معها حياة جديدة، بشخصيات جديدة، وأخلاق مستعارة للبيع.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/205989884.Medium_43241.jpg" />
+  </programme>
+  <programme start="20181001070000 +0000" stop="20181001080000 +0000" channel="Dubai Al Oula">
+    <title lang="ar">اختفاء</title>
+    <desc lang="ar">تدور الأحداث حول دكتورة جامعية في روسيا، وتعيش مع زوجها هناك، لكن فجأة وبدون مقدمات يختفي زوجها، لتبدأ رحلة البحث عنه، ويصل بها الأمر للعودة إلى مصر في إطار رحلة بحثها، لكن هذه الرحلة تفاجئها بالكثير من الأمور التي لم تكن على علم بها.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/205989894.Medium_43246.jpg" />
+  </programme>
+  <programme start="20181001080000 +0000" stop="20181001090000 +0000" channel="Dubai Al Oula">
+    <title lang="ar">The Insider بالعربي</title>
+    <desc lang="ar">برنامج يتابع أخبار المشاهير والنجوم ويستعرض أهم القصص اليومية الخاصة في عالم الفن والمنوعات والسينما، كما يضم مقابلات حصرية وتقارير تغوص في عمق الأحداث، ويهتم بعرض الأخبار الفنية التي تخص النجوم والمشاهير، وكذلك الأحداث والحفلات التي تقام في المهرجانات السينمائية الساحات الفنية وهوليوود.(n)</desc>
+    <credits>
+      <actor>شيمه</actor>
+      <actor>فيصل الزهراني</actor>
+    </credits>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/194497289.inside+ar.jpg" />
+  </programme>
+  <programme start="20181001090000 +0000" stop="20181001100000 +0000" channel="Dubai Al Oula">
+    <title lang="ar">حكايتي مع الزمان</title>
+    <desc lang="ar">برنامج يقدم سيرة حياة الفنان وماضيه بنظرة مستقبلية بداية من لحظة اشتراكهم في البرنامج وبعد عشرون عاماً وصولاً إلى أربعون عاماً، لمعرفة ردود الأفعال وبماذا سيشعر الضيفان عند التعرف إلى نسختيهما الأكبر سناً، في الوقت الذي يجيب الضيفان عن أسئلة تتسم بالعفوية وتدفع للحوار بطريقة تحرك المشاعر.(n)</desc>
+    <credits>
+      <actor>منى أبو حمزة</actor>
+    </credits>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/193647676.hekayate.jpg" />
+  </programme>
+  <programme start="20181001100000 +0000" stop="20181001110000 +0000" channel="Dubai Al Oula">
+    <title lang="ar">هم النوايا</title>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/206202357.dummy_medium.jpg" />
+  </programme>
+  <programme start="20181001110000 +0000" stop="20181001113000 +0000" channel="Dubai Al Oula">
+    <title lang="ar">أخبار الإمارات</title>
+    <desc lang="ar">نشرة أخبار الإمارات المحلية تحوي أهم الأخبار المحلية وتغطيات شيقة وإنسانية.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/157623912.157438994.54412.jpg" />
+  </programme>
+  <programme start="20181001113000 +0000" stop="20181001120000 +0000" channel="Dubai Al Oula">
+    <title lang="ar">..تداول</title>
+    <desc lang="ar">برنامج التحليل المالي والرصد اليومي لتداولات أسواق المال في الإمارات وأخبار الشركات ونتائجها ربع السنوية.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/92798584.02292837.jpg" />
+  </programme>
+  <programme start="20181001120000 +0000" stop="20181001130000 +0000" channel="Dubai Al Oula">
+    <title lang="ar">لدينا أقوال أخرى</title>
+    <desc lang="ar">الحلقة الثالثة والعشرون تدور الأحداث حول مستشارة قانونية سابقة يتعرض ابنها لحادث يؤدي إلى وفاته، فيبدأ التحقيق في القضية وتتعرض المستشارة لعدد من المشاكل بسبب هذا الحادث، حتى يتم إتهامها بقتل ابنها، ثم يتم الحكم عليها بالإعدام، وتتوالى الأحداث في سبيل إثبات براءتها.(n)</desc>
+    <credits>
+      <actor>يسرى</actor>
+      <actor>نجلاء بدر</actor>
+    </credits>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/201580388.agwalokhra.jpg" />
+  </programme>
+  <programme start="20181001130000 +0000" stop="20181001140000 +0000" channel="Dubai Al Oula">
+    <title lang="ar">أرض النفاق</title>
+    <desc lang="ar">تدور الأحداث حول عامل مطحون من عمال الإنارة في الحي اسمه (مسعود)، ذلك العامل كان دخله ضئيل وحياته بائسة، ودومًا ما يواجه خلافات مع زوجته (جميلة) وحماته، اللتين لم تعودا قادرتين على العيش معه، ويمتلك والده محلاً لبيع الكُسكُسّي، وفي يوم تستدرجه الحياة ليتعرف على دكتور (ماضي)، الذي يقدم له أخلاق للبيع على هيئة حبوب، فيبدأ في تناول الحبوب تباعًا، ليكتشف معها حياة جديدة، بشخصيات جديدة، وأخلاق مستعارة للبيع.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/205989884.Medium_43241.jpg" />
+  </programme>
+  <programme start="20181001140000 +0000" stop="20181001150000 +0000" channel="Dubai Al Oula">
+    <title lang="ar">The Insider بالعربي</title>
+    <desc lang="ar">برنامج يتابع أخبار المشاهير والنجوم ويستعرض أهم القصص اليومية الخاصة في عالم الفن والمنوعات والسينما، كما يضم مقابلات حصرية وتقارير تغوص في عمق الأحداث، ويهتم بعرض الأخبار الفنية التي تخص النجوم والمشاهير، وكذلك الأحداث والحفلات التي تقام في المهرجانات السينمائية الساحات الفنية وهوليوود.(n)</desc>
+    <credits>
+      <actor>شيمه</actor>
+      <actor>فيصل الزهراني</actor>
+    </credits>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/194497289.inside+ar.jpg" />
+  </programme>
+  <programme start="20181001150000 +0000" stop="20181001160000 +0000" channel="Dubai Al Oula">
+    <title lang="ar">هم النوايا</title>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/206202357.dummy_medium.jpg" />
+  </programme>
+  <programme start="20181001160000 +0000" stop="20181001170000 +0000" channel="Dubai Al Oula">
+    <title lang="ar">أخبار الإمارات</title>
+    <desc lang="ar">نشرة أخبار الإمارات المحلية تحوي أهم الأخبار المحلية وتغطيات شيقة وإنسانية.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/157623912.157438994.54412.jpg" />
+  </programme>
+  <programme start="20181001170000 +0000" stop="20181001180000 +0000" channel="Dubai Al Oula">
+    <title lang="ar">لدينا أقوال أخرى</title>
+    <desc lang="ar">الحلقة الثالثة والعشرون تدور الأحداث حول مستشارة قانونية سابقة يتعرض ابنها لحادث يؤدي إلى وفاته، فيبدأ التحقيق في القضية وتتعرض المستشارة لعدد من المشاكل بسبب هذا الحادث، حتى يتم إتهامها بقتل ابنها، ثم يتم الحكم عليها بالإعدام، وتتوالى الأحداث في سبيل إثبات براءتها.(n)</desc>
+    <credits>
+      <actor>يسرى</actor>
+      <actor>نجلاء بدر</actor>
+    </credits>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/201580388.agwalokhra.jpg" />
+  </programme>
+  <programme start="20181001180000 +0000" stop="20181001180500 +0000" channel="Dubai Al Oula">
+    <title lang="ar">أخبار الإمارات</title>
+    <desc lang="ar">نشرة أخبار الإمارات المحلية تحوي أهم الأخبار المحلية وتغطيات شيقة وإنسانية.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/157623912.157438994.54412.jpg" />
+  </programme>
+  <programme start="20181001180500 +0000" stop="20181001190000 +0000" channel="Dubai Al Oula">
+    <title lang="ar">اليمن زلزال المريبين</title>
+    <desc lang="ar">مواكبة للتطورات التي تحدث على الأرض في اليمن حالياً، وإظهاراً للانتصارات التي تتحقق هناك، أعلنت مؤسسة دبي للإعلام عن إنتاج برنامج.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/203578099.Large_42499.jpg" />
+  </programme>
+  <programme start="20181001190000 +0000" stop="20181001200000 +0000" channel="Dubai Al Oula">
+    <title lang="ar">The Insider بالعربي</title>
+    <desc lang="ar">برنامج يتابع أخبار المشاهير والنجوم ويستعرض أهم القصص اليومية الخاصة في عالم الفن والمنوعات والسينما، كما يضم مقابلات حصرية وتقارير تغوص في عمق الأحداث، ويهتم بعرض الأخبار الفنية التي تخص النجوم والمشاهير، وكذلك الأحداث والحفلات التي تقام في المهرجانات السينمائية الساحات الفنية وهوليوود.(n)</desc>
+    <credits>
+      <actor>شيمه</actor>
+      <actor>فيصل الزهراني</actor>
+    </credits>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/194497289.inside+ar.jpg" />
+  </programme>
+  <programme start="20181001200000 +0000" stop="20181001210000 +0000" channel="Dubai Al Oula">
+    <title lang="ar">اختفاء</title>
+    <desc lang="ar">تدور الأحداث حول دكتورة جامعية في روسيا، وتعيش مع زوجها هناك، لكن فجأة وبدون مقدمات يختفي زوجها، لتبدأ رحلة البحث عنه، ويصل بها الأمر للعودة إلى مصر في إطار رحلة بحثها، لكن هذه الرحلة تفاجئها بالكثير من الأمور التي لم تكن على علم بها.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/205989894.Medium_43246.jpg" />
+  </programme>
+  <programme start="20181001210000 +0000" stop="20181001220000 +0000" channel="Dubai Al Oula">
+    <title lang="ar">أرض النفاق</title>
+    <desc lang="ar">تدور الأحداث حول عامل مطحون من عمال الإنارة في الحي اسمه (مسعود)، ذلك العامل كان دخله ضئيل وحياته بائسة، ودومًا ما يواجه خلافات مع زوجته (جميلة) وحماته، اللتين لم تعودا قادرتين على العيش معه، ويمتلك والده محلاً لبيع الكُسكُسّي، وفي يوم تستدرجه الحياة ليتعرف على دكتور (ماضي)، الذي يقدم له أخلاق للبيع على هيئة حبوب، فيبدأ في تناول الحبوب تباعًا، ليكتشف معها حياة جديدة، بشخصيات جديدة، وأخلاق مستعارة للبيع.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/205989884.Medium_43241.jpg" />
+  </programme>
+  <programme start="20181001220000 +0000" stop="20181001230000 +0000" channel="Dubai Al Oula">
+    <title lang="ar">Tamashah</title>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/01150612.33.jpg" />
+  </programme>
+  <programme start="20181001230000 +0000" stop="20181002000000 +0000" channel="Dubai Al Oula">
+    <title lang="ar">لدينا أقوال أخرى</title>
+    <desc lang="ar">الحلقة الثالثة والعشرون تدور الأحداث حول مستشارة قانونية سابقة يتعرض ابنها لحادث يؤدي إلى وفاته، فيبدأ التحقيق في القضية وتتعرض المستشارة لعدد من المشاكل بسبب هذا الحادث، حتى يتم إتهامها بقتل ابنها، ثم يتم الحكم عليها بالإعدام، وتتوالى الأحداث في سبيل إثبات براءتها.(n)</desc>
+    <credits>
+      <actor>يسرى</actor>
+      <actor>نجلاء بدر</actor>
+    </credits>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/201580388.agwalokhra.jpg" />
   </programme>
   <programme start="20180930000000 +0000" stop="20180930020000 +0000" channel="Dubai One">
     <title lang="ar">Hitch</title>
@@ -4376,12 +4898,13 @@
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/162812887.Lar30241.jpg" />
   </programme>
   <programme start="20180930030000 +0000" stop="20180930050000 +0000" channel="Sama Dubai">
-    <title lang="ar">الراوي</title>
-    <desc lang="ar">رنامج تثقيفي توعوي ، يسلط الضوء على أهم مراحل شخصيات عاصرت دبي وساهمت في صنع تاريخ وحضارة هذه الإمارة.</desc>
+    <title lang="ar">البث المباشر</title>
+    <desc lang="ar">برنامج يومي يتناول العديد من المواضيع المحلية والتي يعرضها المشاهدين من خلال تواصلهم مع البرنامج، وشرح مشاكلهم وملاحظاتهم وإقتراحاتهم وإيضاح المواضيع من المسؤولين المختصين عبر الهواء مباشرة.(c)</desc>
     <credits>
-      <actor>جمال بن حويرب</actor>
+      <actor>راشد الخرجي</actor>
+      <actor>أيوب يوسف</actor>
     </credits>
-    <icon src="http://stream.minisat.net/epg.data/upload/pictures/141384707.25.jpg" />
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/157724587.1.jpg" />
   </programme>
   <programme start="20180930050000 +0000" stop="20180930070000 +0000" channel="Sama Dubai">
     <title lang="ar">بين قلبين</title>
@@ -4418,12 +4941,12 @@
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/162812887.Lar30241.jpg" />
   </programme>
   <programme start="20180930090000 +0000" stop="20180930100000 +0000" channel="Sama Dubai">
-    <title lang="ar">بلسم</title>
-    <desc lang="ar">برنامج حواري طبي، يرتكز على الأولوية القصوى لنشر التوعية الصحية في الأسرة وتصحيح السلوك الصحي والوقائي ونشر الثقافة والمفاهيم الصحية في المجتمع، من خلال تبني القضايا الصحية وفتح المجال أمام المشاهدين للإستفسار والمشاركة في استعراض تجاربهم.</desc>
+    <title lang="ar">سر الطبخة</title>
+    <desc lang="ar">برنامج طبخ يعرض أطباق ومأكولات تجمع بين روح الأصالة والتجدد في المطبخ الإماراتي والخليجي.(c)</desc>
     <credits>
-      <actor>ميثاء إبراهيم</actor>
+      <actor>الشيف أسما البحر</actor>
     </credits>
-    <icon src="http://stream.minisat.net/epg.data/upload/pictures/198694721.Large_40426.jpg" />
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/149698387.421.jpg" />
   </programme>
   <programme start="20180930100000 +0000" stop="20180930103000 +0000" channel="Sama Dubai">
     <title lang="ar">حنة ورنة</title>
@@ -4453,9 +4976,9 @@
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/92798584.02292837.jpg" />
   </programme>
   <programme start="20180930120000 +0000" stop="20180930123000 +0000" channel="Sama Dubai">
-    <title lang="ar">مقابلة خاصة بمناسبة اليوم الوطني السعودي88</title>
-    <desc lang="ar">مقابلة خاصة بمناسبة اليوم الوطني السعودي88.</desc>
-    <icon src="http://stream.minisat.net/epg.data/upload/pictures/199018386.news12260_0304Lar.jpg" />
+    <title lang="ar">الرسوم المتحركة</title>
+    <desc lang="ar">فقرة مخصصة لافلام الكرتون حيث تعرض مجموعة متنوعة من افلام الكرتون.(c)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/155911948.156.jpg" />
   </programme>
   <programme start="20180930123000 +0000" stop="20180930130000 +0000" channel="Sama Dubai">
     <title lang="ar">شعبية الكرتون</title>
@@ -4480,22 +5003,363 @@
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/151861314.51.jpg" />
   </programme>
   <programme start="20180930150000 +0000" stop="20180930153000 +0000" channel="Sama Dubai">
-    <title lang="ar">مقابلة خاصة بمناسبة اليوم الوطني السعودي88</title>
-    <desc lang="ar">مقابلة خاصة بمناسبة اليوم الوطني السعودي88.</desc>
-    <icon src="http://stream.minisat.net/epg.data/upload/pictures/158069445.753.png" />
+    <title lang="ar">الراوي</title>
+    <desc lang="ar">رنامج تثقيفي توعوي ، يسلط الضوء على أهم مراحل شخصيات عاصرت دبي وساهمت في صنع تاريخ وحضارة هذه الإمارة.(c)</desc>
+    <credits>
+      <actor>جمال بن حويرب</actor>
+    </credits>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/141384707.25.jpg" />
   </programme>
   <programme start="20180930153000 +0000" stop="20180930160000 +0000" channel="Sama Dubai">
     <title lang="ar">..تداول</title>
     <desc lang="ar">برنامج التحليل المالي والرصد اليومي لتداولات أسواق المال في الإمارات وأخبار الشركات ونتائجها ربع السنوية.</desc>
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/92798584.02292837.jpg" />
   </programme>
-  <programme start="20180930160000 +0000" stop="20180930210000 +0000" channel="Sama Dubai">
-    <title lang="ar">أخبار اليوم الوطني السعودي88</title>
-    <desc lang="ar">برنامج يقدم أهم وأبرز الأخبار الرياضية المحلية و العالمية.</desc>
+  <programme start="20180930160000 +0000" stop="20180930163000 +0000" channel="Sama Dubai">
+    <title lang="ar">Sanad</title>
+    <desc lang="ar">A documentary highlighting the UAE humanitarian work around the world filmed in a number of countries in Asia, Africa and South America.(c)</desc>
+    <credits>
+      <actor>Hamed karm</actor>
+    </credits>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/138164091.Large20961.jpg" />
+  </programme>
+  <programme start="20180930170000 +0000" stop="20180930180000 +0000" channel="Sama Dubai">
+    <title lang="ar">بامتياز</title>
+    <desc lang="ar">برنامج يسلط الضوء على الإبتكارات والمشاريع العملاقة والتطبيقات الذكية التي تعتمدها المؤسسات والهيئات والدوائر الحكومية في إمارة دبي، إلى جانب التطبيقات الذكية المجتمعية التي تعكس استراتيجية حكومة دبي لتصبح الأذكى والأسرع تحولاً.(c)</desc>
+    <credits>
+      <actor>ديالا علي</actor>
+    </credits>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/200709120.bemtyaz.jpg" />
+  </programme>
+  <programme start="20180930180000 +0000" stop="20180930183000 +0000" channel="Sama Dubai">
+    <title lang="ar">أخبار الإمارات</title>
+    <desc lang="ar">نشرة أخبار الإمارات المحلية تحوي أهم الأخبار المحلية وتغطيات شيقة وإنسانية.(c)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/157623912.157438994.54412.jpg" />
+  </programme>
+  <programme start="20180930183000 +0000" stop="20180930190000 +0000" channel="Sama Dubai">
+    <title lang="ar">أخبار رياضية</title>
+    <desc lang="ar">برنامج يقدم أهم وأبرز الأخبار الرياضية المحلية و العالمية.(c)</desc>
     <credits>
       <actor>مشعل القحطاني</actor>
     </credits>
-    <icon src="http://stream.minisat.net/epg.data/upload/pictures/205954778.dummy_medium+%281%29.jpg" />
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/143051975.akbaer.jpg" />
+  </programme>
+  <programme start="20180930190000 +0000" stop="20180930210000 +0000" channel="Sama Dubai">
+    <title lang="ar">قلبي معي</title>
+    <desc lang="ar">قصة (يارا) الإعلامية المتميزة والمتزوجة من رجل الأعمال (عبد الله) الذي تكتشف خيانته لها ما يؤدي إلى فقدانها جنينها، وهناك حكاية (وفاء) و(راشد) اللذين ينفصلان لفترة بسبب عدم قدرة (وفاء) على الإنجاب، لكن حبهما الكبير يجمعهما من جديد.(c)</desc>
+    <credits>
+      <actor>ميساء مغربي</actor>
+      <actor>أحمد العمري</actor>
+    </credits>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/183135800.kalbi+maee.jpg" />
+  </programme>
+  <programme start="20180930210000 +0000" stop="20180930213000 +0000" channel="Sama Dubai">
+    <title lang="ar">سند</title>
+    <desc lang="ar">برنامج وثائقي يعنى بتسليط الضوء على العمل الإنساني لدى أبناء الإمارات وما يقومون به من أعمال إنسانية، وجهود عالمية نابعة من سياسة دولة الإمارات العربية المتحدة الداخلية والخارجية، ومن مكارم الأخلاق المنبثقة من العقيدة الإسلامية السمحة.(n)</desc>
+    <credits>
+      <actor>حامد بن كرم</actor>
+    </credits>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/151786416.317.jpg" />
+  </programme>
+  <programme start="20180930213000 +0000" stop="20180930220000 +0000" channel="Sama Dubai">
+    <title lang="ar">سوالف طفاش</title>
+    <desc lang="ar">تدور أحداث المسلسل حول (طفاش)، وهو فتى حالم يسعى للحصول على وظيفة كي يستطيع الزواج من (عذاري) ابنة جاره ويحاول أن يتخطى مصاعب الحياة، ولكن النتائج تأتي دوماً عكسية في قالب كوميدي.(n)</desc>
+    <credits>
+      <actor>علي الغرير</actor>
+      <actor>أمينة القفاص</actor>
+    </credits>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/198730856.tafash.jpg" />
+  </programme>
+  <programme start="20180930220000 +0000" stop="20180930223000 +0000" channel="Sama Dubai">
+    <title lang="ar">الراوي</title>
+    <desc lang="ar">برنامج وثائقي تثقيفي توعوي يسلط الضوء على تاريخ وحضارة الامارات، ويستعرض فيلم وثائقي لأبرز ما قام به أبطال الإمارات.(n)</desc>
+    <credits>
+      <actor>جمال بن حويرب</actor>
+    </credits>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/158069445.753.png" />
+  </programme>
+  <programme start="20180930223000 +0000" stop="20180930230000 +0000" channel="Sama Dubai">
+    <title lang="ar">عالم مدهش</title>
+    <desc lang="ar">برنامج مسابقات للأطفال من مسرح مدينة مدهش الترفيهية حيث يتنافس يوميا مجموعة من الأطفال والزوار على مجموعة مختارة من الألعاب الرياضية التشويقية.(n)</desc>
+    <credits>
+      <actor>نادية نجيب</actor>
+      <actor>أمل محمد</actor>
+    </credits>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/100079100.00920874.jpg" />
+  </programme>
+  <programme start="20180930230000 +0000" stop="20180930233000 +0000" channel="Sama Dubai">
+    <title lang="ar">وديمة وحليمة</title>
+    <desc lang="ar">تدور أحداث المسلسل الكوميدي بين بيت (حليمة) وبيت (وديمة) متحوراً حول هاتين الشخصيتين والعداوة القائمة بينهما وما ينتج عن ذلك من خلافات لأتفه الأسباب بالإضافة إلى محاولاتهما للتخطيط لمقالب لتنتقم كل واحدة من الأخرى.(n)</desc>
+    <credits>
+      <actor>سعاد علي</actor>
+      <actor>ملاك الخالدي</actor>
+    </credits>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/141014269.1.jpg" />
+  </programme>
+  <programme start="20180930233000 +0000" stop="20181001000000 +0000" channel="Sama Dubai">
+    <title lang="ar">شعبية الكرتون 12</title>
+    <desc lang="ar">الحي الشعبي الذي يحكي يوميات و مغامرات سكانه، حيث يعيشون في جيرة وتآلوف وانسجام في هذه الشعبية التي تحتضنها دبي.(n)</desc>
+    <credits>
+      <actor>محمد بن فاضل</actor>
+      <actor>أحمد الدربي</actor>
+    </credits>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/183611571.288566.jpg" />
+  </programme>
+  <programme start="20181001000000 +0000" stop="20181001010000 +0000" channel="Sama Dubai">
+    <title lang="ar">الدمعة الحمراء</title>
+    <desc lang="ar">ي الحلقة الثالثة يتضح أنه هناك خلاف بين إحدى القبائل المجاورة والشيخ (العراف)، وتبين أن لص دخل على أرض (العراف) وحاول سرقتها من تلك القبيلة، إلا أنه قد أعيد إلى دياره بطريقة مشينة.(n)</desc>
+    <credits>
+      <actor>علا الفارس</actor>
+      <actor>تركي اليوسف</actor>
+    </credits>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/165021608.7678.jpg" />
+  </programme>
+  <programme start="20181001010000 +0000" stop="20181001023000 +0000" channel="Sama Dubai">
+    <title lang="ar">الفترة الدينية</title>
+    <desc lang="ar">فترة الصلوات والأدعية الدينية.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/185010382.fatra.jpg" />
+  </programme>
+  <programme start="20181001023000 +0000" stop="20181001030000 +0000" channel="Sama Dubai">
+    <title lang="ar">معا نستطيع</title>
+    <desc lang="ar">برنامج متخصص في مجال الأسرة يتضمن العديد من الفقرات المتخصصة التي تتتناول الأسرة والتحديات التي تواجه المجتمع، كذلك يتطرق لأسباب المشكلات الاجتماعية وآثارها وطرق التوصل إلى حل سليم لها.(n)</desc>
+    <credits>
+      <actor>أحمد عبد الكريم</actor>
+    </credits>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/162812887.Lar30241.jpg" />
+  </programme>
+  <programme start="20181001030000 +0000" stop="20181001050000 +0000" channel="Sama Dubai">
+    <title lang="ar">البث المباشر</title>
+    <desc lang="ar">برنامج يومي يتناول العديد من المواضيع المحلية والتي يعرضها المشاهدين من خلال تواصلهم مع البرنامج، وشرح مشاكلهم وملاحظاتهم وإقتراحاتهم وإيضاح المواضيع من المسؤولين المختصين عبر الهواء مباشرة.(n)</desc>
+    <credits>
+      <actor>راشد الخرجي</actor>
+      <actor>أيوب يوسف</actor>
+    </credits>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/157724587.1.jpg" />
+  </programme>
+  <programme start="20181001050000 +0000" stop="20181001070000 +0000" channel="Sama Dubai">
+    <title lang="ar">بين قلبين</title>
+    <desc lang="ar">مسلسل إجتماعي رومانسي يتناول قصة حب الفتاة (أريام) التي تدافع عن حبها ضد الظروف السيئة التي تعيش فيها وتعاندها، في الوقت الذي وقعت فيه في حب (بشار) وتعلقت به بالرغم من زواجه من أخرى.(n)</desc>
+    <credits>
+      <actor>عبد الله بوشهري</actor>
+      <actor>صمود</actor>
+    </credits>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/165065919.kalbayn.jpg" />
+  </programme>
+  <programme start="20181001070000 +0000" stop="20181001080000 +0000" channel="Sama Dubai">
+    <title lang="ar">عالم مدهش</title>
+    <desc lang="ar">برنامج مسابقات للأطفال من مسرح مدينة مدهش الترفيهية حيث يتنافس يوميا مجموعة من الأطفال والزوار على مجموعة مختارة من الألعاب الرياضية التشويقية.(n)</desc>
+    <credits>
+      <actor>نادية نجيب</actor>
+      <actor>أمل محمد</actor>
+    </credits>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/100079100.00920874.jpg" />
+  </programme>
+  <programme start="20181001080000 +0000" stop="20181001083000 +0000" channel="Sama Dubai">
+    <title lang="ar">وديمة وحليمة</title>
+    <desc lang="ar">تدور أحداث المسلسل الكوميدي بين بيت (حليمة) وبيت (وديمة) متحوراً حول هاتين الشخصيتين والعداوة القائمة بينهما وما ينتج عن ذلك من خلافات لأتفه الأسباب بالإضافة إلى محاولاتهما للتخطيط لمقالب لتنتقم كل واحدة من الأخرى.(n)</desc>
+    <credits>
+      <actor>سعاد علي, ملاك الخالدي</actor>
+    </credits>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/141014269.1.jpg" />
+  </programme>
+  <programme start="20181001083000 +0000" stop="20181001090000 +0000" channel="Sama Dubai">
+    <title lang="ar">معا نستطيع</title>
+    <desc lang="ar">برنامج متخصص في مجال الأسرة يتضمن العديد من الفقرات المتخصصة التي تتتناول الأسرة والتحديات التي تواجه المجتمع، كذلك يتطرق لأسباب المشكلات الاجتماعية وآثارها وطرق التوصل إلى حل سليم لها.(n)</desc>
+    <credits>
+      <actor>أحمد عبد الكريم</actor>
+    </credits>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/162812887.Lar30241.jpg" />
+  </programme>
+  <programme start="20181001090000 +0000" stop="20181001100000 +0000" channel="Sama Dubai">
+    <title lang="ar">بلسم</title>
+    <desc lang="ar">برنامج حواري طبي، يرتكز على الأولوية القصوى لنشر التوعية الصحية في الأسرة وتصحيح السلوك الصحي والوقائي ونشر الثقافة والمفاهيم الصحية في المجتمع، من خلال تبني القضايا الصحية وفتح المجال أمام المشاهدين للإستفسار والمشاركة في استعراض تجاربهم.(n)</desc>
+    <credits>
+      <actor>ميثاء إبراهيم</actor>
+    </credits>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/198694721.Large_40426.jpg" />
+  </programme>
+  <programme start="20181001100000 +0000" stop="20181001103000 +0000" channel="Sama Dubai">
+    <title lang="ar">سوالف طفاش</title>
+    <desc lang="ar">تدور أحداث المسلسل حول (طفاش)، وهو فتى حالم يسعى للحصول على وظيفة كي يستطيع الزواج من (عذاري) ابنة جاره ويحاول أن يتخطى مصاعب الحياة، ولكن النتائج تأتي دوماً عكسية في قالب كوميدي.(n)</desc>
+    <credits>
+      <actor>علي الغرير</actor>
+      <actor>أمينة القفاص</actor>
+    </credits>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/198730856.tafash.jpg" />
+  </programme>
+  <programme start="20181001103000 +0000" stop="20181001110000 +0000" channel="Sama Dubai">
+    <title lang="ar">الراوي</title>
+    <desc lang="ar">رنامج تثقيفي توعوي ، يسلط الضوء على أهم مراحل شخصيات عاصرت دبي وساهمت في صنع تاريخ وحضارة هذه الإمارة.(n)</desc>
+    <credits>
+      <actor>جمال بن حويرب</actor>
+    </credits>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/141384707.25.jpg" />
+  </programme>
+  <programme start="20181001110000 +0000" stop="20181001113000 +0000" channel="Sama Dubai">
+    <title lang="ar">أخبار الأمارات</title>
+    <desc lang="ar">نشرة أخبار الإمارات المحلية أحد أهم المعالم الإعلامية في الدولة حيث ينتظرها الجميع ويحرص على متابعة تفاصيلها لما تحتويه من أخبار وتغطيات محلية هامة وشيقة وإنسانية.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/142903850.Large_16429.jpg" />
+  </programme>
+  <programme start="20181001113000 +0000" stop="20181001120000 +0000" channel="Sama Dubai">
+    <title lang="ar">..تداول</title>
+    <desc lang="ar">برنامج التحليل المالي والرصد اليومي لتداولات أسواق المال في الإمارات وأخبار الشركات ونتائجها ربع السنوية.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/92798584.02292837.jpg" />
+  </programme>
+  <programme start="20181001120000 +0000" stop="20181001123000 +0000" channel="Sama Dubai">
+    <title lang="ar">الرسوم المتحركة</title>
+    <desc lang="ar">فقرة مخصصة للأحبة الأطفال، حيث تعرض العديد من أفلام الكرتون الشيقة والمنوعة.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/199018386.news12260_0304Lar.jpg" />
+  </programme>
+  <programme start="20181001123000 +0000" stop="20181001130000 +0000" channel="Sama Dubai">
+    <title lang="ar">شعبية الكرتون</title>
+    <desc lang="ar">يعود المسلسل الكرتوني الإماراتي شعبية الكرتون، بحلقات جديدة ورؤية متجددة مع شخصيات الحي الشعبي من جنسيات ولهجات مختلفة.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/150824936.183.jpg" />
+  </programme>
+  <programme start="20181001130000 +0000" stop="20181001140000 +0000" channel="Sama Dubai">
+    <title lang="ar">بلسم</title>
+    <desc lang="ar">برنامج حواري طبي، يرتكز على الأولوية القصوى لنشر التوعية الصحية في الأسرة وتصحيح السلوك الصحي والوقائي ونشر الثقافة والمفاهيم الصحية في المجتمع، من خلال تبني القضايا الصحية وفتح المجال أمام المشاهدين للإستفسار والمشاركة في استعراض تجاربهم.(n)</desc>
+    <credits>
+      <actor>ميثاء إبراهيم</actor>
+    </credits>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/198694721.Large_40426.jpg" />
+  </programme>
+  <programme start="20181001140000 +0000" stop="20181001150000 +0000" channel="Sama Dubai">
+    <title lang="ar">في عينيها أغنية</title>
+    <desc lang="ar">تدور أحداث المسلسل من خلال قصة رومانسية عن إحدى الفنانات المشهورات في مجال عملها، هذه الفنانة تتمتع بقدر عالي من الجمال، مما يضعها دائما في مواقف غريبة ومفارقات لكثرة العشاق والمعجبين حولها الذين يسببوا لها العديد من المشاكل التي هي في غنى عنها.(n)</desc>
+    <credits>
+      <actor>جاسم النبهان</actor>
+      <actor>فخرية خميس</actor>
+    </credits>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/151861314.51.jpg" />
+  </programme>
+  <programme start="20181001150000 +0000" stop="20181001153000 +0000" channel="Sama Dubai">
+    <title lang="ar">الراوي</title>
+    <desc lang="ar">برنامج وثائقي تثقيفي توعوي يسلط الضوء على تاريخ وحضارة الامارات، ويستعرض فيلم وثائقي لأبرز ما قام به أبطال الإمارات.(n)</desc>
+    <credits>
+      <actor>جمال بن حويرب</actor>
+    </credits>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/158069445.753.png" />
+  </programme>
+  <programme start="20181001153000 +0000" stop="20181001160000 +0000" channel="Sama Dubai">
+    <title lang="ar">..تداول</title>
+    <desc lang="ar">برنامج التحليل المالي والرصد اليومي لتداولات أسواق المال في الإمارات وأخبار الشركات ونتائجها ربع السنوية.(n)</desc>
+    <credits>
+      <actor>مروان الحل</actor>
+    </credits>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/92798584.02292837.jpg" />
+  </programme>
+  <programme start="20181001160000 +0000" stop="20181001163000 +0000" channel="Sama Dubai">
+    <title lang="ar">Sanad</title>
+    <desc lang="ar">برنامج وثائقي يعنى بتسليط الضوء على العمل الإنساني لدى أبناء الإمارات وما يقومون به من أعمال إنسانية وجهود عالمية نابعة من سياسة دولة الإمارات العربية المتحدة الداخلية والخارجية، ومن مكارم الأخلاق المنبثقة من العقيدة الإسلامية السمحة.(n)</desc>
+    <credits>
+      <actor>Hamed karm</actor>
+    </credits>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/138164091.Large20961.jpg" />
+  </programme>
+  <programme start="20181001163000 +0000" stop="20181001170000 +0000" channel="Sama Dubai">
+    <title lang="ar">سوالف طفاش</title>
+    <desc lang="ar">يجسد المسلسل الكوميدي التراثي \\'\\'سوالف طفاش\\'\\' الأجواء البحرينية خصوصاً والخليجية عموماً، في الفترة ما بين أربعينات القرن الماضي وخمسيناته، حيث تعكس كل حلقة إسقاطاً يجسد الوضع المجتمعي الحالي بقالب تراثي وكوميدي.(n)</desc>
+    <credits>
+      <actor>علي الغرير</actor>
+      <actor>امينة القفاص</actor>
+    </credits>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/140417030.7.jpg" />
+  </programme>
+  <programme start="20181001170000 +0000" stop="20181001173000 +0000" channel="Sama Dubai">
+    <title lang="ar">حنة ورنة</title>
+    <desc lang="ar">تدور أحداث المسلسل حول المواقف الإجتماعية الأسرية والمشاكل الطريفه التي تحدث بين حلوم.(n)</desc>
+    <credits>
+      <actor>رزيقه الطارش</actor>
+      <actor>مروان عبد الله</actor>
+    </credits>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/107247965.Large+18144.jpg" />
+  </programme>
+  <programme start="20181001173000 +0000" stop="20181001180000 +0000" channel="Sama Dubai">
+    <title lang="ar">مزيون</title>
+    <desc lang="ar">يجسد البرنامج واقع الحياة وأسلوبها العصري في دبي بكل تفاصيلها من جمال وموضة وصحة ورشاقة وفعاليات وأنشطة، ويظهر لكل العالم مستوى الحياة الرغيدة والفخمة التي يمكن أن يحصل عليها سكان دبي.(n)</desc>
+    <credits>
+      <actor>رحاب المهيري</actor>
+    </credits>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/199233580.mazyoon.jpg" />
+  </programme>
+  <programme start="20181001180000 +0000" stop="20181001183000 +0000" channel="Sama Dubai">
+    <title lang="ar">أخبار الإمارات</title>
+    <desc lang="ar">نشرة أخبار الإمارات المحلية أحد أهم المعالم الإعلامية في الدولة حيث ينتظرها الجميع ويحرص على متابعة تفاصيلها لما تحتويه من أخبار وتغطيات محلية هامة وشيقة وإنسانية.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/157623912.157438994.54412.jpg" />
+  </programme>
+  <programme start="20181001183000 +0000" stop="20181001190000 +0000" channel="Sama Dubai">
+    <title lang="ar">أخبار رياضية</title>
+    <desc lang="ar">برنامج يقدم أهم وأبرز الأخبار الرياضية المحلية و العالمية.(n)</desc>
+    <credits>
+      <actor>مشعل القحطاني</actor>
+    </credits>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/143051975.akbaer.jpg" />
+  </programme>
+  <programme start="20181001190000 +0000" stop="20181001200000 +0000" channel="Sama Dubai">
+    <title lang="ar">قلبي معي</title>
+    <desc lang="ar">قصة (يارا) الإعلامية المتميزة والمتزوجة من رجل الأعمال (عبد الله) الذي تكتشف خيانته لها ما يؤدي إلى فقدانها جنينها، وهناك حكاية (وفاء) و(راشد) اللذين ينفصلان لفترة بسبب عدم قدرة (وفاء) على الإنجاب، لكن حبهما الكبير يجمعهما من جديد.(n)</desc>
+    <credits>
+      <actor>ميساء مغربي</actor>
+      <actor>أحمد العمري</actor>
+    </credits>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/183135800.kalbi+maee.jpg" />
+  </programme>
+  <programme start="20181001200000 +0000" stop="20181001210000 +0000" channel="Sama Dubai">
+    <title lang="ar">مقابلة خاصة بمناسبة اليوم الوطني السعودي88</title>
+    <desc lang="ar">مقابلة خاصة بمناسبة اليوم الوطني السعودي88.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/199018386.news12260_0304Lar.jpg" />
+  </programme>
+  <programme start="20181001210000 +0000" stop="20181001213000 +0000" channel="Sama Dubai">
+    <title lang="ar">سند</title>
+    <desc lang="ar">برنامج وثائقي يعنى بتسليط الضوء على العمل الإنساني لدى أبناء الإمارات وما يقومون به من أعمال إنسانية، وجهود عالمية نابعة من سياسة دولة الإمارات العربية المتحدة الداخلية والخارجية، ومن مكارم الأخلاق المنبثقة من العقيدة الإسلامية السمحة.(n)</desc>
+    <credits>
+      <actor>حامد بن كرم</actor>
+    </credits>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/151786416.317.jpg" />
+  </programme>
+  <programme start="20181001213000 +0000" stop="20181001220000 +0000" channel="Sama Dubai">
+    <title lang="ar">سوالف طفاش</title>
+    <desc lang="ar">تدور أحداث المسلسل حول (طفاش)، وهو فتى حالم يسعى للحصول على وظيفة كي يستطيع الزواج من (عذاري) ابنة جاره ويحاول أن يتخطى مصاعب الحياة، ولكن النتائج تأتي دوماً عكسية في قالب كوميدي.(n)</desc>
+    <credits>
+      <actor>علي الغرير</actor>
+      <actor>أمينة القفاص</actor>
+    </credits>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/198730856.tafash.jpg" />
+  </programme>
+  <programme start="20181001220000 +0000" stop="20181001223000 +0000" channel="Sama Dubai">
+    <title lang="ar">الراوي</title>
+    <desc lang="ar">برنامج وثائقي تثقيفي توعوي يسلط الضوء على تاريخ وحضارة الامارات، ويستعرض فيلم وثائقي لأبرز ما قام به أبطال الإمارات.(n)</desc>
+    <credits>
+      <actor>جمال بن حويرب</actor>
+    </credits>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/158069445.753.png" />
+  </programme>
+  <programme start="20181001223000 +0000" stop="20181001230000 +0000" channel="Sama Dubai">
+    <title lang="ar">عالم مدهش</title>
+    <desc lang="ar">برنامج مسابقات للأطفال من مسرح مدينة مدهش الترفيهية حيث يتنافس يوميا مجموعة من الأطفال والزوار على مجموعة مختارة من الألعاب الرياضية التشويقية.(n)</desc>
+    <credits>
+      <actor>نادية نجيب</actor>
+      <actor>أمل محمد</actor>
+    </credits>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/100079100.00920874.jpg" />
+  </programme>
+  <programme start="20181001230000 +0000" stop="20181001233000 +0000" channel="Sama Dubai">
+    <title lang="ar">وديمة وحليمة</title>
+    <desc lang="ar">تدور أحداث المسلسل الكوميدي بين بيت (حليمة) وبيت (وديمة) متحوراً حول هاتين الشخصيتين والعداوة القائمة بينهما وما ينتج عن ذلك من خلافات لأتفه الأسباب بالإضافة إلى محاولاتهما للتخطيط لمقالب لتنتقم كل واحدة من الأخرى.(n)</desc>
+    <credits>
+      <actor>سعاد علي</actor>
+      <actor>ملاك الخالدي</actor>
+    </credits>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/141014269.1.jpg" />
+  </programme>
+  <programme start="20181001233000 +0000" stop="20181002000000 +0000" channel="Sama Dubai">
+    <title lang="ar">شعبية الكرتون 12</title>
+    <desc lang="ar">الحي الشعبي الذي يحكي يوميات و مغامرات سكانه، حيث يعيشون في جيرة وتآلوف وانسجام في هذه الشعبية التي تحتضنها دبي.(n)</desc>
+    <credits>
+      <actor>محمد بن فاضل</actor>
+      <actor>أحمد الدربي</actor>
+    </credits>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/183611571.288566.jpg" />
   </programme>
   <programme start="20180930010000 +0000" stop="20180930030000 +0000" channel="Rotana Cinema">
     <title lang="ar">Arabic Movie</title>
@@ -5057,31 +5921,26 @@
     <desc lang="ar">أبرز التطورات السياسية، الأمنية والاجتماعية في لبنان والعالم يجمعها فريق الأخبار.</desc>
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/158891344.Programs-SP-268-635778337737388528.jpg" />
   </programme>
-  <programme start="20180930115500 +0000" stop="20180930140000 +0000" channel="LBC Sat">
+  <programme start="20180930115500 +0000" stop="20180930130000 +0000" channel="LBC Sat">
     <title lang="ar">حسابك عنا</title>
-    <desc lang="ar">برنامج ألعاب ترفيهي وإجتماعي يقدمة (وسام حنا )يقوم على ألعاب، أسئلة، دولاب، وحظّ، ضمن مراحل عدّة تتنافس فيها أربع عائلات.</desc>
-    <credits>
-      <actor>فيليب أسمر</actor>
-    </credits>
-    <icon src="http://stream.minisat.net/epg.data/upload/pictures/171290730.123124.JPG" />
+    <desc lang="ar">برنامج ألعاب ترفيهي وإجتماعي يقدمة (وسام حنا )يقوم على ألعاب، أسئلة، دولاب، وحظّ، ضمن مراحل عدّة تتنافس فيها أربع عائلات.(c)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/205953023.Programs-SP-1161-636736583936144558.jpg" />
   </programme>
   <programme start="20180930140000 +0000" stop="20180930150000 +0000" channel="LBC Sat">
-    <title lang="ar">صدفة</title>
-    <desc lang="ar">تدور أحداث المسلسل حول الصدفة التي قلبت حياة الفتاة البسيطة (أصلى) رأساَ على عقب، حين قابلت على متن الطائرة شاب مغرور لم يرق لها في البداية، خاصة عندما تشاجر معها، وظنا بانتهاء الرحلة أنهما لن يلتقيا ثانيةً ولكن القدر قد حضر لهما مفاجأة لم يتوقعنها.</desc>
+    <title lang="ar">نجوم العلوم</title>
     <credits>
-      <actor>يوسف جيم</actor>
-      <actor>ديميت أوزديمير</actor>
+      <actor>خالد الجميلي</actor>
     </credits>
-    <icon src="http://stream.minisat.net/epg.data/upload/pictures/165987316.97.jpg" />
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/155203587.20140909_102926.jpg" />
   </programme>
   <programme start="20180930150000 +0000" stop="20180930155900 +0000" channel="LBC Sat">
-    <title lang="ar">العشق المر</title>
-    <desc lang="ar">(جود) شاب طموح يتزوج من ابنة مديره في العمل وهو غير مدرك لتورط مديره بموت ابيه في الماضي، وعندما يجد نفسه غير سعيداً بزواجه، يسمح لنفسه بالوقوع بحب عازفة كمان جميلة لتنقلب حياته فيما بعد رأسا على عقب.</desc>
+    <title lang="ar">موسم الكرز</title>
+    <desc lang="ar">الحلقة السادسة والعشرون قصة المسلسل حول (نور) طالبة الجامعة الطموحة والتي تحلم بأن تكون مصممة أزياء ناجحة، أحبت (نور) شقيق اعز صديقاتها (مجد) ولكنه مرتبط بفتاة أخرى، فيقوم (إياد) صديق (مجد) الحميم وابن احدى مصممي الأزياء المشهورين بمساعدة (نور) على تحقيق أحلامها ولكن هل سيقع (إياد)و(نور) في حب بعضهما.(c)</desc>
     <credits>
-      <actor>سيلين شكرجي</actor>
-      <actor>سيشكين أوزديمير</actor>
+      <actor>أوزجي جوريل</actor>
+      <actor>سيركان شاي أوغلو</actor>
     </credits>
-    <icon src="http://stream.minisat.net/epg.data/upload/pictures/179159147.ask+mor.jpg" />
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/163381739.654765432132.jpg" />
   </programme>
   <programme start="20180930155900 +0000" stop="20180930164500 +0000" channel="LBC Sat">
     <title lang="ar">ذات ليلة</title>
@@ -5093,17 +5952,10 @@
     <desc lang="ar">أبرز التطورات السياسية، الأمنية والاجتماعية في لبنان والعالم يجمعها فريق الأخبار.</desc>
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/158891344.Programs-SP-268-635778337737388528.jpg" />
   </programme>
-  <programme start="20180930174000 +0000" stop="20180930184000 +0000" channel="LBC Sat">
-    <title lang="ar">قلبي دق</title>
-    <desc lang="ar">قلبي دقّ مسلسل لبناني رومانسي مع الثنائي يورغو شلهوب وكارين رزق الله، ينطلق حين يجد سامي وكريستين نفسيهما فجأة متزوجين وهما غريبان كليًا عن بعضهما.</desc>
-    <credits>
-      <actor>يورغو شلهوب,كارين رزق الله</actor>
-    </credits>
-    <icon src="http://stream.minisat.net/epg.data/upload/pictures/152052807.Untitled.jpg" />
-  </programme>
-  <programme start="20180930184000 +0000" stop="20180930203000 +0000" channel="LBC Sat">
-    <title lang="ar">Arabs Got Talent</title>
-    <icon src="http://stream.minisat.net/epg.data/upload/pictures/01330163.ARAB+GOT+TALENT.jpg" />
+  <programme start="20180930174000 +0000" stop="20180930203000 +0000" channel="LBC Sat">
+    <title lang="ar">ثورة الفلاحين</title>
+    <desc lang="ar">عملٌ دراميّ لبنانيّ ضخم ينقلنا الى حقبة الخمسينيّات من القرن التاسع ويروي قصّة عائلة تعيش.(c)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/205953176.Programs-SP-1155-636731186513893742.JPG" />
   </programme>
   <programme start="20180930203000 +0000" stop="20180930210000 +0000" channel="LBC Sat">
     <title lang="ar">الاخبار من عندك</title>
@@ -11071,9 +11923,9 @@
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/193464340.news+be+be.jpg" />
   </programme>
   <programme start="20180930043000 +0000" stop="20180930045700 +0000" channel="BBC World News">
-    <title lang="ar">Panorama</title>
-    <desc lang="ar">(Can You Stop My Multiple Sclerosis?)\r\nInterviews and investigative reports on a wide variety of current affairs.</desc>
-    <icon src="http://stream.minisat.net/epg.data/upload/pictures/160064710.p01lyn5j.jpg" />
+    <title lang="ar">Witness</title>
+    <desc lang="ar">People who have lived in the time of the stories of our times tell the real version.(c)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/160173955.p0224r5x.jpg" />
   </programme>
   <programme start="20180930045700 +0000" stop="20180930052900 +0000" channel="BBC World News">
     <title lang="ar">BBC World News</title>
@@ -11109,9 +11961,12 @@
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/205202073.p06jblff.jpg" />
   </programme>
   <programme start="20180930072800 +0000" stop="20180930075600 +0000" channel="BBC World News">
-    <title lang="ar">William Kentridge\\'s The Head and The Load</title>
-    <desc lang="ar">Artist William Kentridge\\'s most ambitious project to date combines music, dance, film projections, mechanised sculptures and shadow play to create an imaginative landscape on an epic scale.</desc>
-    <icon src="http://stream.minisat.net/epg.data/upload/pictures/205955910.p06j89b9.jpg" />
+    <title lang="ar">Giant in the Sky - The Jumbo Jet at 50</title>
+    <desc lang="ar">Mankind put a giant in the sky a year ahead of that giant leap to the moon! Unveiled in 1968, the jumbo jet was nearly three times the size of its rivals.(c)</desc>
+    <credits>
+      <actor>Tom Brook</actor>
+    </credits>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/206203326.193464340.news%2Bbe%2Bbe.jpg" />
   </programme>
   <programme start="20180930075600 +0000" stop="20180930081000 +0000" channel="BBC World News">
     <title lang="ar">BBC World News</title>
@@ -11132,13 +11987,14 @@
     <desc lang="ar">The latest international news and updates.</desc>
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/193464340.news+be+be.jpg" />
   </programme>
-  <programme start="20180930090900 +0000" stop="20180930095600 +0000" channel="BBC World News">
-    <title lang="ar">Imagine</title>
-    <desc lang="ar">Zaha Hadid was perhaps the most successful female architect there has ever been. Imagine visits her buildings across the globe, from Austria to Azerbaijan to find out what made Zaha Hadid tick.</desc>
-    <credits>
-      <actor>Alan Yentob</actor>
-    </credits>
-    <icon src="http://stream.minisat.net/epg.data/upload/pictures/162916719.imagine.jpg" />
+  <programme start="20180930090900 +0000" stop="20180930093000 +0000" channel="BBC World News">
+    <title lang="ar">Switzerland: Cradle Of Populis</title>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/206203312.193464340.news%2Bbe%2Bbe.jpg" />
+  </programme>
+  <programme start="20180930093000 +0000" stop="20180930095600 +0000" channel="BBC World News">
+    <title lang="ar">World\\'s Most Dangerous Cities with Ben Zand</title>
+    <desc lang="ar">It\\'s one of the most dangerous places in the world for women, with the majority of women experiencing rape or assault in their lifetime.(c)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/206307225.p02xkjj0.jpg" />
   </programme>
   <programme start="20180930095600 +0000" stop="20180930100700 +0000" channel="BBC World News">
     <title lang="ar">BBC World News</title>
@@ -11150,9 +12006,9 @@
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/171185248.150025539.cna.jpg" />
   </programme>
   <programme start="20180930103000 +0000" stop="20180930105600 +0000" channel="BBC World News">
-    <title lang="ar">Panorama</title>
-    <desc lang="ar">(Can You Stop My Multiple Sclerosis?)\r\nInterviews and investigative reports on a wide variety of current affairs.</desc>
-    <icon src="http://stream.minisat.net/epg.data/upload/pictures/160064710.p01lyn5j.jpg" />
+    <title lang="ar">Witness</title>
+    <desc lang="ar">People who have lived in the time of the stories of our times tell the real version.(c)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/160173955.p0224r5x.jpg" />
   </programme>
   <programme start="20180930105600 +0000" stop="20180930110800 +0000" channel="BBC World News">
     <title lang="ar">BBC World News</title>
@@ -11165,9 +12021,9 @@
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/205202073.p06jblff.jpg" />
   </programme>
   <programme start="20180930112700 +0000" stop="20180930115600 +0000" channel="BBC World News">
-    <title lang="ar">Newsnight</title>
-    <desc lang="ar">Round up of news and current affairs, with interviews with global opinion-formers and documentaries around the world.</desc>
-    <icon src="http://stream.minisat.net/epg.data/upload/pictures/159618099.newsnight.jpg" />
+    <title lang="ar">Dateline London</title>
+    <desc lang="ar">A look at events in the UK through outsiders\\' eyes, and at how the issues of the week are being tackled around the world.(c)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/188784304.datelonndon.jpg" />
   </programme>
   <programme start="20180930115600 +0000" stop="20180930122700 +0000" channel="BBC World News">
     <title lang="ar">BBC World News</title>
@@ -11206,9 +12062,9 @@
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/191478814.bbcworldnews.jpg" />
   </programme>
   <programme start="20180930142700 +0000" stop="20180930145600 +0000" channel="BBC World News">
-    <title lang="ar">Formula E: Driving Change</title>
-    <desc lang="ar">As we shift towards electric cars, how is the sport Formula E racing driving that change? Idris Elba, Sienna Miller, Orlando Bloom and Sir Richard Branson have their say.</desc>
-    <icon src="http://stream.minisat.net/epg.data/upload/pictures/205955929.p06lkqlh.jpg" />
+    <title lang="ar">REINVENTING INDIA</title>
+    <desc lang="ar">How innovation is helping to transform old traditional industries in India and, in some cases, revitalizing entire cities.(c)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/206203316.193464340.news%2Bbe%2Bbe.jpg" />
   </programme>
   <programme start="20180930145600 +0000" stop="20180930151000 +0000" channel="BBC World News">
     <title lang="ar">BBC World News</title>
@@ -11216,8 +12072,8 @@
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/191478814.bbcworldnews.jpg" />
   </programme>
   <programme start="20180930151000 +0000" stop="20180930155600 +0000" channel="BBC World News">
-    <title lang="ar">Global Questions</title>
-    <desc lang="ar">(Development versus Democracy in Africa)\r\n(The guest: Grace Machel, Winnie Byanyima)\r\nAudiences from around the world question their leaders on global issues.</desc>
+    <title lang="ar">africa eye</title>
+    <desc lang="ar">(Development versus Democracy in Africa)\r\n(The guest: Grace Machel, Winnie Byanyima)\r\nAudiences from around the world question their leaders on global issues.(c)</desc>
     <credits>
       <actor>Zeinab Badawi</actor>
     </credits>
@@ -11270,26 +12126,249 @@
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/193464340.news+be+be.jpg" />
   </programme>
   <programme start="20180930191500 +0000" stop="20180930192900 +0000" channel="BBC World News">
-    <title lang="ar">India\\'s Game Changers</title>
-    <icon src="http://stream.minisat.net/epg.data/upload/pictures/171185248.150025539.cna.jpg" />
+    <title lang="ar">Switzerland: Cradle Of Populis</title>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/206203312.193464340.news%2Bbe%2Bbe.jpg" />
   </programme>
   <programme start="20180930192900 +0000" stop="20180930195900 +0000" channel="BBC World News">
-    <title lang="ar">William Kentridge\\'s The Head and The Load</title>
-    <desc lang="ar">Artist William Kentridge\\'s most ambitious project to date combines music, dance, film projections, mechanised sculptures and shadow play to create an imaginative landscape on an epic scale.</desc>
-    <icon src="http://stream.minisat.net/epg.data/upload/pictures/205955910.p06j89b9.jpg" />
+    <title lang="ar">Giant in the Sky - The Jumbo Jet at 50</title>
+    <desc lang="ar">Mankind put a giant in the sky a year ahead of that giant leap to the moon! Unveiled in 1968, the jumbo jet was nearly three times the size of its rivals.(c)</desc>
+    <credits>
+      <actor>Tom Brook</actor>
+    </credits>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/206203326.193464340.news%2Bbe%2Bbe.jpg" />
   </programme>
-  <programme start="20180930195900 +0000" stop="20180930202800 +0000" channel="BBC World News">
+  <programme start="20180930195900 +0000" stop="20180930203000 +0000" channel="BBC World News">
     <title lang="ar">World News Today</title>
-    <desc lang="ar">Daily coverage of world news with a particular emphasis on Europe, Middle East and Africa.</desc>
+    <desc lang="ar">Daily coverage of world news with a particular emphasis on Europe, Middle East and Africa.(c)</desc>
     <credits>
       <actor>Alice Baxter, Tim Willcox</actor>
     </credits>
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/160099587.world+news+today.jpg" />
   </programme>
-  <programme start="20180930205800 +0000" stop="20180930210000 +0000" channel="BBC World News">
-    <title lang="ar">Formula E: Driving Change</title>
-    <desc lang="ar">As we shift towards electric cars, how is the sport Formula E racing driving that change? Idris Elba, Sienna Miller, Orlando Bloom and Sir Richard Branson have their say.</desc>
-    <icon src="http://stream.minisat.net/epg.data/upload/pictures/205955929.p06lkqlh.jpg" />
+  <programme start="20180930203000 +0000" stop="20180930210000 +0000" channel="BBC World News">
+    <title lang="ar">REINVENTING INDIA</title>
+    <desc lang="ar">How innovation is helping to transform old traditional industries in India and, in some cases, revitalizing entire cities.(c)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/206203316.193464340.news%2Bbe%2Bbe.jpg" />
+  </programme>
+  <programme start="20180930212900 +0000" stop="20180930215600 +0000" channel="BBC World News">
+    <title lang="ar">The Art Of Directing</title>
+    <desc lang="ar">Go behind the scenes with the best film-makers working today, who reveal what it takes to be a great director.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/193709089.art+of+di.jpg" />
+  </programme>
+  <programme start="20180930215600 +0000" stop="20180930222800 +0000" channel="BBC World News">
+    <title lang="ar">Newsday</title>
+    <desc lang="ar">The latest international news from London and Singapore.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/193464339.newsday.jpg" />
+  </programme>
+  <programme start="20180930222800 +0000" stop="20180930224100 +0000" channel="BBC World News">
+    <title lang="ar">Asia Business Report</title>
+    <desc lang="ar">The biggest business news and an insight to the news that affect the business.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/159618345.p014bdyp.jpg" />
+  </programme>
+  <programme start="20180930224100 +0000" stop="20180930225800 +0000" channel="BBC World News">
+    <title lang="ar">Sport Today</title>
+    <desc lang="ar">The latest sports news, updates, events, results from around the globe.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/159618346.p01tbfzm.jpg" />
+  </programme>
+  <programme start="20180930225800 +0000" stop="20181001025600 +0000" channel="BBC World News">
+    <title lang="ar">BBC World News</title>
+    <desc lang="ar">The latest international news and updates.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/191478814.bbcworldnews.jpg" />
+  </programme>
+  <programme start="20181001025600 +0000" stop="20181001032900 +0000" channel="BBC World News">
+    <title lang="ar">BBC World News</title>
+    <desc lang="ar">The latest international news and updates.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/193464340.news+be+be.jpg" />
+  </programme>
+  <programme start="20181001032900 +0000" stop="20181001035600 +0000" channel="BBC World News">
+    <title lang="ar">HARDtalk</title>
+    <desc lang="ar">Discussion and talk with public figures about different issues around the world.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/159618359.HardTalk.jpg" />
+  </programme>
+  <programme start="20181001035600 +0000" stop="20181001055600 +0000" channel="BBC World News">
+    <title lang="ar">The Briefing</title>
+    <desc lang="ar">The latest news, business and sport, economic and financial from BBC News, plus your need-to-know guide to the big stories coming up today.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/193708614.bief.jpg" />
+  </programme>
+  <programme start="20181001055600 +0000" stop="20181001063800 +0000" channel="BBC World News">
+    <title lang="ar">BBC World News</title>
+    <desc lang="ar">The latest international news and updates.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/193464340.news+be+be.jpg" />
+  </programme>
+  <programme start="20181001063800 +0000" stop="20181001065600 +0000" channel="BBC World News">
+    <title lang="ar">World Business Report</title>
+    <desc lang="ar">Latest business news with informed analysis from the world\\'s finance markets.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/159618361.p014bdwr.jpg" />
+  </programme>
+  <programme start="20181001065600 +0000" stop="20181001072600 +0000" channel="BBC World News">
+    <title lang="ar">BBC World News</title>
+    <desc lang="ar">The latest international news and updates.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/191478814.bbcworldnews.jpg" />
+  </programme>
+  <programme start="20181001072600 +0000" stop="20181001075600 +0000" channel="BBC World News">
+    <title lang="ar">BBC Business Live</title>
+    <desc lang="ar">An insight to the global business news and stories.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/159618367.bbc+business+live.jpg" />
+  </programme>
+  <programme start="20181001075600 +0000" stop="20181001080800 +0000" channel="BBC World News">
+    <title lang="ar">BBC World News</title>
+    <desc lang="ar">The latest international news and updates.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/193464340.news+be+be.jpg" />
+  </programme>
+  <programme start="20181001080800 +0000" stop="20181001082900 +0000" channel="BBC World News">
+    <title lang="ar">India\\'s Game Changers</title>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/171185248.150025539.cna.jpg" />
+  </programme>
+  <programme start="20181001082900 +0000" stop="20181001085600 +0000" channel="BBC World News">
+    <title lang="ar">HARDtalk</title>
+    <desc lang="ar">Discussion and talk with public figures about different issues around the world.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/159618359.HardTalk.jpg" />
+  </programme>
+  <programme start="20181001085600 +0000" stop="20181001092700 +0000" channel="BBC World News">
+    <title lang="ar">GMT</title>
+    <desc lang="ar">Latest news developments, with updates on the world of business and sport.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/159618373.p02k6wsg.jpg" />
+  </programme>
+  <programme start="20181001092700 +0000" stop="20181001095600 +0000" channel="BBC World News">
+    <title lang="ar">Dateline London</title>
+    <desc lang="ar">A look at events in the UK through outsiders\\' eyes, and at how the issues of the week are being tackled around the world.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/188784304.datelonndon.jpg" />
+  </programme>
+  <programme start="20181001095600 +0000" stop="20181001103000 +0000" channel="BBC World News">
+    <title lang="ar">GMT</title>
+    <desc lang="ar">Latest news developments, with updates on the world of business and sport.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/159618373.p02k6wsg.jpg" />
+  </programme>
+  <programme start="20181001103000 +0000" stop="20181001104500 +0000" channel="BBC World News">
+    <title lang="ar">World Business Live</title>
+    <desc lang="ar">Latest business news with informed analysis from the world\\'s finance markets.(n)</desc>
+    <credits>
+      <actor>Jimmy Ropertson</actor>
+    </credits>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/159618361.p014bdwr.jpg" />
+  </programme>
+  <programme start="20181001104500 +0000" stop="20181001110000 +0000" channel="BBC World News">
+    <title lang="ar">Sport Today</title>
+    <desc lang="ar">The latest sports news, updates, events, results from around the globe.(n)</desc>
+    <credits>
+      <actor>Aries Merritt</actor>
+    </credits>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/159618346.p01tbfzm.jpg" />
+  </programme>
+  <programme start="20181001110000 +0000" stop="20181001115600 +0000" channel="BBC World News">
+    <title lang="ar">GMT</title>
+    <desc lang="ar">Latest news developments, with updates on the world of business and sport.(n)</desc>
+    <credits>
+      <actor>Lucy Hawking, Tim Willcox</actor>
+    </credits>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/159618373.p02k6wsg.jpg" />
+  </programme>
+  <programme start="20181001115600 +0000" stop="20181001132600 +0000" channel="BBC World News">
+    <title lang="ar">Impact</title>
+    <desc lang="ar">The news updates and discussion as it affects Asia Pacific nations and the entire world.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/159618374.p014g59t.jpg" />
+  </programme>
+  <programme start="20181001132600 +0000" stop="20181001135600 +0000" channel="BBC World News">
+    <title lang="ar">Talking Business</title>
+    <desc lang="ar">A look at the economic climate, and discussion about the prospects for global business this year.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/159618081.talking+bsns.jpg" />
+  </programme>
+  <programme start="20181001135600 +0000" stop="20181001143000 +0000" channel="BBC World News">
+    <title lang="ar">Impact</title>
+    <desc lang="ar">The news updates and discussion as it affects Asia Pacific nations and the entire world.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/159618374.p014g59t.jpg" />
+  </programme>
+  <programme start="20181001143000 +0000" stop="20181001145600 +0000" channel="BBC World News">
+    <title lang="ar">HARDtalk</title>
+    <desc lang="ar">Discussion and talk with public figures about different issues around the world.(n)</desc>
+    <credits>
+      <actor>Stephen Sackur, Zeinab Badawi</actor>
+    </credits>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/159618359.HardTalk.jpg" />
+  </programme>
+  <programme start="20181001145600 +0000" stop="20181001162800 +0000" channel="BBC World News">
+    <title lang="ar">Global</title>
+    <desc lang="ar">Analysis of the latest global news and discussions with experts to highlight their point of view about the updates.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/159618377.p02h0css.jpg" />
+  </programme>
+  <programme start="20181001162800 +0000" stop="20181001163900 +0000" channel="BBC World News">
+    <title lang="ar">World Business Report</title>
+    <desc lang="ar">Latest business news with informed analysis from the world\\'s finance markets.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/159618361.p014bdwr.jpg" />
+  </programme>
+  <programme start="20181001163900 +0000" stop="20181001165600 +0000" channel="BBC World News">
+    <title lang="ar">Sport Today</title>
+    <desc lang="ar">The latest sports news, updates, events, results from around the globe.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/159618346.p01tbfzm.jpg" />
+  </programme>
+  <programme start="20181001165600 +0000" stop="20181001172600 +0000" channel="BBC World News">
+    <title lang="ar">Global</title>
+    <desc lang="ar">Analysis of the latest global news and discussions with experts to highlight their point of view about the updates.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/159618377.p02h0css.jpg" />
+  </programme>
+  <programme start="20181001172600 +0000" stop="20181001175700 +0000" channel="BBC World News">
+    <title lang="ar">Focus on Africa</title>
+    <desc lang="ar">The Latest and biggest African and international stories updates.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/159618380.p014g58y.jpg" />
+  </programme>
+  <programme start="20181001175700 +0000" stop="20181001185600 +0000" channel="BBC World News">
+    <title lang="ar">Beyond 100 Days</title>
+    <desc lang="ar">The latest international news and updates.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/190657166.15.png" />
+  </programme>
+  <programme start="20181001185600 +0000" stop="20181001192800 +0000" channel="BBC World News">
+    <title lang="ar">Outside Source</title>
+    <desc lang="ar">The latest global stories within innovative theme.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/193464336.outside+so.jpg" />
+  </programme>
+  <programme start="20181001192800 +0000" stop="20181001195600 +0000" channel="BBC World News">
+    <title lang="ar">HARDtalk</title>
+    <desc lang="ar">Discussion and talk with public figures about different issues around the world.(n)</desc>
+    <credits>
+      <actor>Stephen Sackur, Zeinab Badawi</actor>
+    </credits>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/159618359.HardTalk.jpg" />
+  </programme>
+  <programme start="20181001195600 +0000" stop="20181001205600 +0000" channel="BBC World News">
+    <title lang="ar">Outside Source</title>
+    <desc lang="ar">The latest global stories within innovative theme.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/193464336.outside+so.jpg" />
+  </programme>
+  <programme start="20181001205600 +0000" stop="20181001212600 +0000" channel="BBC World News">
+    <title lang="ar">Sport Today</title>
+    <desc lang="ar">The latest sports news, updates, events, results from around the globe.(n)</desc>
+    <credits>
+      <actor>Aries Merritt</actor>
+    </credits>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/159618346.p01tbfzm.jpg" />
+  </programme>
+  <programme start="20181001212600 +0000" stop="20181001215600 +0000" channel="BBC World News">
+    <title lang="ar">HARDtalk</title>
+    <desc lang="ar">Discussion and talk with public figures about different issues around the world.(n)</desc>
+    <credits>
+      <actor>Stephen Sackur</actor>
+    </credits>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/159618359.HardTalk.jpg" />
+  </programme>
+  <programme start="20181001215600 +0000" stop="20181001222800 +0000" channel="BBC World News">
+    <title lang="ar">Newsday</title>
+    <desc lang="ar">The latest international news from London and Singapore.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/193464339.newsday.jpg" />
+  </programme>
+  <programme start="20181001222800 +0000" stop="20181001223900 +0000" channel="BBC World News">
+    <title lang="ar">Asia Business Report</title>
+    <desc lang="ar">The biggest business news and an insight to the news that affect the business.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/159618345.p014bdyp.jpg" />
+  </programme>
+  <programme start="20181001223900 +0000" stop="20181001225600 +0000" channel="BBC World News">
+    <title lang="ar">Sport Today</title>
+    <desc lang="ar">The latest sports news, updates, events, results from around the globe.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/159618346.p01tbfzm.jpg" />
+  </programme>
+  <programme start="20181001225600 +0000" stop="20181002025600 +0000" channel="BBC World News">
+    <title lang="ar">BBC World News</title>
+    <desc lang="ar">The latest international news and updates.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/193464340.news+be+be.jpg" />
   </programme>
   <programme start="20180930005700 +0000" stop="20180930010000 +0000" channel="CNN International">
     <title lang="ar">CNN News Now</title>
@@ -13292,9 +14371,9 @@
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/176107667.Shoraka+Al+Baqaa.PNG" />
   </programme>
   <programme start="20180930054500 +0000" stop="20180930063000 +0000" channel="Quest TV">
-    <title lang="ar">فضوليات: بركان موقوت</title>
-    <desc lang="ar">يسلط الضوء على البراكين الملتهبة والحمم الحارة جدا.</desc>
-    <icon src="http://stream.minisat.net/epg.data/upload/pictures/175026937.Fodolyat+Borkan.png" />
+    <title lang="ar">مطاردي العواصف</title>
+    <desc lang="ar">عاد موسم الأعاصير في أوكلاهوما، ريد يقترب كثيرا، تيم يطارد المتعددة وشون يصارع عاصفة مغطاه بالمطر.(c)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/183993661.665774.png" />
   </programme>
   <programme start="20180930063000 +0000" stop="20180930071500 +0000" channel="Quest TV">
     <title lang="ar">بير جريلز: نقطة االإنهيار</title>
@@ -13336,15 +14415,10 @@
     <desc lang="ar">عاد موسم الأعاصير في أوكلاهوما، ريد يقترب كثيرا، تيم يطارد المتعددة وشون يصارع عاصفة مغطاه بالمطر.</desc>
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/183993661.665774.png" />
   </programme>
-  <programme start="20180930123000 +0000" stop="20180930130000 +0000" channel="Quest TV">
-    <title lang="ar">بير جريلز: أخطر المشاهد</title>
-    <desc lang="ar">يوجد لدى كل من (راي) و(اوجور) رهاب شديد من الماء، وذلك لتعرضهما لحادث صادم في حياتهما، ويقوم بأخذهما في رحلة لمواجهة مخاوفهما في الممرات المائية بالغابة.</desc>
-    <icon src="http://stream.minisat.net/epg.data/upload/pictures/177299312.33.png" />
-  </programme>
-  <programme start="20180930130000 +0000" stop="20180930133000 +0000" channel="Quest TV">
-    <title lang="ar">بير جريلز: أخطر المشاهد</title>
-    <desc lang="ar">يوجد لدى كل من (راي) و(اوجور) رهاب شديد من الماء، وذلك لتعرضهما لحادث صادم في حياتهما، ويقوم بأخذهما في رحلة لمواجهة مخاوفهما في الممرات المائية بالغابة.</desc>
-    <icon src="http://stream.minisat.net/epg.data/upload/pictures/177299312.33.png" />
+  <programme start="20180930123000 +0000" stop="20180930133000 +0000" channel="Quest TV">
+    <title lang="ar">من أجل البقاء</title>
+    <desc lang="ar">يقفز (بير جريلز) من الطائرة بمظلته ليصل إلى إحدى المناطق النائية، وعليه مواجهة جميع المخاطر القادمة نحوه والنجاة خلال الظروف الصعبة.(c)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/173081734.6.PNG" />
   </programme>
   <programme start="20180930133000 +0000" stop="20180930143000 +0000" channel="Quest TV">
     <title lang="ar">Jungle Gold</title>
@@ -13379,15 +14453,206 @@
     <desc lang="ar">الحلقة الأولى يقود كيفن بعثة استكشافية في أعماق كهف تينيسي. حيث يتنافس شون وتوماس ونيت للحصول على عمل ضمن فريق لتسلق الأشجار. يسافر رون إلى جنوب أفريقيا لحضور دورة تدريبية لطياري المناطق النائية.</desc>
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/199813681.Screenshot+2018-04-09+00.52.16.png" />
   </programme>
-  <programme start="20180930190000 +0000" stop="20180930200000 +0000" channel="Quest TV">
+  <programme start="20180930190000 +0000" stop="20180930194500 +0000" channel="Quest TV">
     <title lang="ar">المستكشفون</title>
-    <desc lang="ar">الحلقة الأولى مخاطرين بحياتهم في سبيل الإنجازات العلمية، يتوجه ثلاثة عملاء سابقين من القوات الخاصة إلى المنطقة المميتة لأحد البراكين النشطة، يتوغلون داخل غابات مطيرة مجهولة المسالك في بابوا غينيا الجديدة، وعبر أدغال بوليفيا.</desc>
+    <desc lang="ar">الحلقة الأولى مخاطرين بحياتهم في سبيل الإنجازات العلمية، يتوجه ثلاثة عملاء سابقين من القوات الخاصة إلى المنطقة المميتة لأحد البراكين النشطة، يتوغلون داخل غابات مطيرة مجهولة المسالك في بابوا غينيا الجديدة، وعبر أدغال بوليفيا.(c)</desc>
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/205955970.172453686.3.jpg" />
   </programme>
-  <programme start="20180930200000 +0000" stop="20180930210000 +0000" channel="Quest TV">
+  <programme start="20180930194500 +0000" stop="20180930203000 +0000" channel="Quest TV">
     <title lang="ar">عمليات الإنقاذ:إفريست</title>
-    <desc lang="ar">يتم استدعاء الطيار جيسون لإنقاذ مجموعة من المتسلقين الذين دمرت الرياح العاتية مخيمهم. حيث يتوجب على سيدارتا وآندي إخلاء فتاة أنجبت طفلاً لتوها وتبلغ من العمر 18 عاماً.</desc>
+    <desc lang="ar">يتم استدعاء الطيار جيسون لإنقاذ مجموعة من المتسلقين الذين دمرت الرياح العاتية مخيمهم. حيث يتوجب على سيدارتا وآندي إخلاء فتاة أنجبت طفلاً لتوها وتبلغ من العمر 18 عاماً.(c)</desc>
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/205697137.172453686.3.jpg" />
+  </programme>
+  <programme start="20180930203000 +0000" stop="20180930210000 +0000" channel="Quest TV">
+    <title lang="ar">اطلع برة</title>
+    <desc lang="ar">برنامج مغامرات يشمل تحديات وإكتشافات.(c)</desc>
+    <credits>
+      <actor>أريج العبدالله</actor>
+    </credits>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/200316584.p3576769_p_v8_aa.jpg" />
+  </programme>
+  <programme start="20180930213000 +0000" stop="20180930215900 +0000" channel="Quest TV">
+    <title lang="ar">كاد أن يهرب</title>
+    <desc lang="ar">يسلط الضوء على أشهر الجرائم والتي أوشك فاعليها على الهروب من قبضة العدالة، ولكن بذكاء الأجهزة الأمنية يتم إلقاء القبض عليهم.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/175093198.Kad+An+yahrob.png" />
+  </programme>
+  <programme start="20180930215900 +0000" stop="20180930222200 +0000" channel="Quest TV">
+    <title lang="ar">من أجل البقاء</title>
+    <desc lang="ar">يقفز (بير جريلز) من الطائرة بمظلته ليصل إلى إحدى المناطق النائية، وعليه مواجهة جميع المخاطر القادمة نحوه والنجاة خلال الظروف الصعبة.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/173081734.6.PNG" />
+  </programme>
+  <programme start="20180930222200 +0000" stop="20180930224400 +0000" channel="Quest TV">
+    <title lang="ar">صفقات الكلاسيك: ساوث بيتش</title>
+    <desc lang="ar">الحلقة السادسة يشتري (تد)و(روبن) فرنون ويبيعان ويتاجران بالسيارات الكلاسيكية، يساوم أحد الزبائن (تد) على السعر، لكن عاصفة مفاجئة تعيث الفساد في المكان، ويحاول (روبن) أن يشتري بويك 63، بالإضافة إلى ذلك، تعلّم كيف تصغي إلى سيارتك.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/172233187.444.jpg" />
+  </programme>
+  <programme start="20180930224400 +0000" stop="20180930232900 +0000" channel="Quest TV">
+    <title lang="ar">خردوات حربية 2</title>
+    <desc lang="ar">الحلقة السادسة يسلط الضوء على فريق يقوم بتعديل الآلات الحربية وجعلها عملية للحياة العادية.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/179225944.Khoradat.png" />
+  </programme>
+  <programme start="20180930232900 +0000" stop="20181001001400 +0000" channel="Quest TV">
+    <title lang="ar">6 الخبير</title>
+    <desc lang="ar">الحلقة السادسة برنامج يسلط الضوء على (الخبير) الذي يقوم بتعديل السيارات حسب ذوقه.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/175093183.Al+Khabeer.png" />
+  </programme>
+  <programme start="20181001001400 +0000" stop="20181001003900 +0000" channel="Quest TV">
+    <title lang="ar">صفقات الكلاسيك: ساوث بيتش</title>
+    <desc lang="ar">الحلقة الأولى يشتري (تد)و(روبن) فرنون ويبيعان ويتاجران بالسيارات الكلاسيكية، يساوم أحد الزبائن (تد) على السعر، لكن عاصفة مفاجئة تعيث الفساد في المكان، ويحاول (روبن) أن يشتري بويك 63، بالإضافة إلى ذلك، تعلّم كيف تصغي إلى سيارتك.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/172233187.444.jpg" />
+  </programme>
+  <programme start="20181001003900 +0000" stop="20181001011400 +0000" channel="Quest TV">
+    <title lang="ar">صفقات الكلاسيك: ساوث بيتش</title>
+    <desc lang="ar">الحلقة الأولى يشتري (تد)و(روبن) فرنون ويبيعان ويتاجران بالسيارات الكلاسيكية، يساوم أحد الزبائن (تد) على السعر، لكن عاصفة مفاجئة تعيث الفساد في المكان، ويحاول (روبن) أن يشتري بويك 63، بالإضافة إلى ذلك، تعلّم كيف تصغي إلى سيارتك.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/172233187.444.jpg" />
+  </programme>
+  <programme start="20181001011400 +0000" stop="20181001024500 +0000" channel="Quest TV">
+    <title lang="ar">دليل البقاء</title>
+    <desc lang="ar">الحلقة الرابعة إكتشف كيف تأقلمت الحيوانات الجبلية على الظروف القاصية في أعلى قمم العالم، لقد إعتادوا المعيشة هنا لدرجة انهم لا يستطيعوا العيش فى اى منطقة آخرى.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/183361119.172277402.3.jpg" />
+  </programme>
+  <programme start="20181001024500 +0000" stop="20181001033000 +0000" channel="Quest TV">
+    <title lang="ar">بير جريلز: أخطر المشاهد</title>
+    <desc lang="ar">يوجد لدى كل من (راي) و(اوجور) رهاب شديد من الماء، وذلك لتعرضهما لحادث صادم في حياتهما، ويقوم بأخذهما في رحلة لمواجهة مخاوفهما في الممرات المائية بالغابة.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/198267245.44666777.png" />
+  </programme>
+  <programme start="20181001033000 +0000" stop="20181001035500 +0000" channel="Quest TV">
+    <title lang="ar">بلمح البصر</title>
+    <desc lang="ar">الحلقة التاسعة والخمسون يعرض بعض الحوادث الغريبة التي تحدث بلمح البصر.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/175466890.4.png" />
+  </programme>
+  <programme start="20181001035500 +0000" stop="20181001041700 +0000" channel="Quest TV">
+    <title lang="ar">بلمح البصر</title>
+    <desc lang="ar">الحلقة الرابعة و الخمسون يعرض بعض الحوادث الغريبة التي تحدث بلمح البصر.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/175466890.4.png" />
+  </programme>
+  <programme start="20181001041700 +0000" stop="20181001050000 +0000" channel="Quest TV">
+    <title lang="ar">Jungle Gold</title>
+    <desc lang="ar">بعد أن فقد سكوت وجورج كل ما يملكان بسبب الركود الذي أصاب قطاع العقارات. سيحاولان إعادة تكوين ثروتهما الضائعة مجدداً عن طريق التنقيب عن الذهب في أدغال غانا الخطرة.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/198267061.9999888.jpg" />
+  </programme>
+  <programme start="20181001050000 +0000" stop="20181001054500 +0000" channel="Quest TV">
+    <title lang="ar">شركاء البقاء</title>
+    <desc lang="ar">اجمع الخبراء على أن هناك بعض القواعد الأساسية والمتفق عليها دوليا للبقاء قيد الحياة في البرية. وهي العثور على مأوى والعثور على الماء والعثور على الطعام والعثور على المساعدة.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/176107667.Shoraka+Al+Baqaa.PNG" />
+  </programme>
+  <programme start="20181001054500 +0000" stop="20181001063000 +0000" channel="Quest TV">
+    <title lang="ar">مطاردي العواصف</title>
+    <desc lang="ar">عاد موسم الأعاصير في أوكلاهوما، ريد يقترب كثيرا، تيم يطارد المتعددة وشون يصارع عاصفة مغطاه بالمطر.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/183993661.665774.png" />
+  </programme>
+  <programme start="20181001063000 +0000" stop="20181001073000 +0000" channel="Quest TV">
+    <title lang="ar">بير جريلز: أخطر المشاهد</title>
+    <desc lang="ar">يوجد لدى كل من (راي) و(اوجور) رهاب شديد من الماء، وذلك لتعرضهما لحادث صادم في حياتهما، ويقوم بأخذهما في رحلة لمواجهة مخاوفهما في الممرات المائية بالغابة.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/198267245.44666777.png" />
+  </programme>
+  <programme start="20181001073000 +0000" stop="20181001075500 +0000" channel="Quest TV">
+    <title lang="ar">بلمح البصر</title>
+    <desc lang="ar">الحلقة التاسعة والخمسون يعرض بعض الحوادث الغريبة التي تحدث بلمح البصر.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/175466890.4.png" />
+  </programme>
+  <programme start="20181001075500 +0000" stop="20181001081700 +0000" channel="Quest TV">
+    <title lang="ar">بلمح البصر</title>
+    <desc lang="ar">الحلقة الثالثة والخمسون يعرض بعض الحوادث الغريبة التي تحدث بلمح البصر.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/175466890.4.png" />
+  </programme>
+  <programme start="20181001081700 +0000" stop="20181001090000 +0000" channel="Quest TV">
+    <title lang="ar">Jungle Gold</title>
+    <desc lang="ar">بعد أن فقد سكوت وجورج كل ما يملكان بسبب الركود الذي أصاب قطاع العقارات. سيحاولان إعادة تكوين ثروتهما الضائعة مجدداً عن طريق التنقيب عن الذهب في أدغال غانا الخطرة.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/198267061.9999888.jpg" />
+  </programme>
+  <programme start="20181001090000 +0000" stop="20181001100000 +0000" channel="Quest TV">
+    <title lang="ar">خردوات حربية</title>
+    <desc lang="ar">يسلط الضوء على فريق يقوم بتعديل الآلات الحربية وجعلها عملية للحياة العادية.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/179225944.Khoradat.png" />
+  </programme>
+  <programme start="20181001100000 +0000" stop="20181001110000 +0000" channel="Quest TV">
+    <title lang="ar">شركاء البقاء</title>
+    <desc lang="ar">اجمع الخبراء على أن هناك بعض القواعد الأساسية والمتفق عليها دوليا للبقاء قيد الحياة في البرية. وهي العثور على مأوى والعثور على الماء والعثور على الطعام والعثور على المساعدة.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/176107667.Shoraka+Al+Baqaa.PNG" />
+  </programme>
+  <programme start="20181001110000 +0000" stop="20181001113000 +0000" channel="Quest TV">
+    <title lang="ar">اطلع برة</title>
+    <desc lang="ar">برنامج مغامرات يشمل تحديات وإكتشافات.(n)</desc>
+    <credits>
+      <actor>أريج العبدالله</actor>
+    </credits>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/200316584.p3576769_p_v8_aa.jpg" />
+  </programme>
+  <programme start="20181001113000 +0000" stop="20181001123000 +0000" channel="Quest TV">
+    <title lang="ar">مطاردي العواصف</title>
+    <desc lang="ar">عاد موسم الأعاصير في أوكلاهوما، ريد يقترب كثيرا، تيم يطارد المتعددة وشون يصارع عاصفة مغطاه بالمطر.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/183993661.665774.png" />
+  </programme>
+  <programme start="20181001123000 +0000" stop="20181001133000 +0000" channel="Quest TV">
+    <title lang="ar">بير جريلز: أخطر المشاهد</title>
+    <desc lang="ar">يوجد لدى كل من (راي) و(اوجور) رهاب شديد من الماء، وذلك لتعرضهما لحادث صادم في حياتهما، ويقوم بأخذهما في رحلة لمواجهة مخاوفهما في الممرات المائية بالغابة.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/198267245.44666777.png" />
+  </programme>
+  <programme start="20181001133000 +0000" stop="20181001143000 +0000" channel="Quest TV">
+    <title lang="ar">Jungle Gold</title>
+    <desc lang="ar">بعد أن فقد سكوت وجورج كل ما يملكان بسبب الركود الذي أصاب قطاع العقارات. سيحاولان إعادة تكوين ثروتهما الضائعة مجدداً عن طريق التنقيب عن الذهب في أدغال غانا الخطرة.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/198267061.9999888.jpg" />
+  </programme>
+  <programme start="20181001143000 +0000" stop="20181001153000 +0000" channel="Quest TV">
+    <title lang="ar">شركاء البقاء</title>
+    <desc lang="ar">اجمع الخبراء على أن هناك بعض القواعد الأساسية والمتفق عليها دوليا للبقاء قيد الحياة في البرية. وهي العثور على مأوى والعثور على الماء والعثور على الطعام والعثور على المساعدة.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/176107667.Shoraka+Al+Baqaa.PNG" />
+  </programme>
+  <programme start="20181001153000 +0000" stop="20181001160000 +0000" channel="Quest TV">
+    <title lang="ar">بلمح البصر</title>
+    <desc lang="ar">يعرض بعض الحوادث الغريبة التي تحدث بلمح البصر.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/175466890.4.png" />
+  </programme>
+  <programme start="20181001160000 +0000" stop="20181001170000 +0000" channel="Quest TV">
+    <title lang="ar">خردوات حربية</title>
+    <desc lang="ar">يسلط الضوء على فريق يقوم بتعديل الآلات الحربية وجعلها عملية للحياة العادية.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/179225944.Khoradat.png" />
+  </programme>
+  <programme start="20181001170000 +0000" stop="20181001180000 +0000" channel="Quest TV">
+    <title lang="ar">steel buddies</title>
+    <desc lang="ar">في هذا البرنامج سوف يقوم فريق (ميشيل) بتصليح وتجديد الشاحنات والسيارات والقوارب، وحتى الطائرات العسكرية.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/188654775.172409410.3.jpg" />
+  </programme>
+  <programme start="20181001180000 +0000" stop="20181001190000 +0000" channel="Quest TV">
+    <title lang="ar">قديمة ومزودة</title>
+    <desc lang="ar">لمحبي تعديل السيارات القديمة هذا البرنامج يقدم لكم مجموعة من السيارات القديمة التي يعدلها فريق متمكن من الميكانيكيين المحترفين.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/198804474.876000.png" />
+  </programme>
+  <programme start="20181001190000 +0000" stop="20181001200000 +0000" channel="Quest TV">
+    <title lang="ar">خردوات حربية</title>
+    <desc lang="ar">يسلط الضوء على فريق يقوم بتعديل الآلات الحربية وجعلها عملية للحياة العادية.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/179225944.Khoradat.png" />
+  </programme>
+  <programme start="20181001200000 +0000" stop="20181001210000 +0000" channel="Quest TV">
+    <title lang="ar">خردوات حربية</title>
+    <desc lang="ar">يسلط الضوء على فريق يقوم بتعديل الآلات الحربية وجعلها عملية للحياة العادية.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/179225944.Khoradat.png" />
+  </programme>
+  <programme start="20181001213000 +0000" stop="20181001215900 +0000" channel="Quest TV">
+    <title lang="ar">كاد أن يهرب</title>
+    <desc lang="ar">يسلط الضوء على أشهر الجرائم والتي أوشك فاعليها على الهروب من قبضة العدالة، ولكن بذكاء الأجهزة الأمنية يتم إلقاء القبض عليهم.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/175093198.Kad+An+yahrob.png" />
+  </programme>
+  <programme start="20181001215900 +0000" stop="20181001222200 +0000" channel="Quest TV">
+    <title lang="ar">خردوات حربية</title>
+    <desc lang="ar">يسلط الضوء على فريق يقوم بتعديل الآلات الحربية وجعلها عملية للحياة العادية.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/179225944.Khoradat.png" />
+  </programme>
+  <programme start="20181001222200 +0000" stop="20181001224400 +0000" channel="Quest TV">
+    <title lang="ar">صفقات الكلاسيك: ساوث بيتش</title>
+    <desc lang="ar">الحلقة السادسة يشتري (تد)و(روبن) فرنون ويبيعان ويتاجران بالسيارات الكلاسيكية، يساوم أحد الزبائن (تد) على السعر، لكن عاصفة مفاجئة تعيث الفساد في المكان، ويحاول (روبن) أن يشتري بويك 63، بالإضافة إلى ذلك، تعلّم كيف تصغي إلى سيارتك.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/172233187.444.jpg" />
+  </programme>
+  <programme start="20181001224400 +0000" stop="20181001232900 +0000" channel="Quest TV">
+    <title lang="ar">خردوات حربية 2</title>
+    <desc lang="ar">الحلقة السادسة يسلط الضوء على فريق يقوم بتعديل الآلات الحربية وجعلها عملية للحياة العادية.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/179225944.Khoradat.png" />
+  </programme>
+  <programme start="20181001232900 +0000" stop="20181002001400 +0000" channel="Quest TV">
+    <title lang="ar">6 الخبير</title>
+    <desc lang="ar">الحلقة السادسة برنامج يسلط الضوء على (الخبير) الذي يقوم بتعديل السيارات حسب ذوقه.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/175093183.Al+Khabeer.png" />
   </programme>
   <programme start="20180930000300 +0000" stop="20180930004100 +0000" channel="Iqraa TV">
     <title lang="ar">بلاد الكنانة</title>
