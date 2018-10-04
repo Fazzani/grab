@@ -44,86 +44,6 @@
     <display-name lang="hr">Arena Sport 1 BiH</display-name>
     <url>http://www.m.tvprofil.net</url>
   </channel>
-  <channel id="Digi Sport 1">
-    <display-name lang="ro">Digi Sport 1</display-name>
-    <url>http://www.cinemagia.ro</url>
-  </channel>
-  <channel id="Digi Sport 2">
-    <display-name lang="ro">Digi Sport 2</display-name>
-    <url>http://www.cinemagia.ro</url>
-  </channel>
-  <channel id="Digi Sport 3">
-    <display-name lang="ro">Digi Sport 3</display-name>
-    <url>http://www.cinemagia.ro</url>
-  </channel>
-  <channel id="Digi Sport 4">
-    <display-name lang="ro">Digi Sport 4</display-name>
-    <url>http://www.cinemagia.ro</url>
-  </channel>
-  <programme start="20181004010000 +0300" stop="20181004020000 +0300" channel="Arena Sport 1.hr">
-    <title lang="hr">WRC NJEMAČKA - HIGHLIGHTS, Automobilizam</title>
-    <category lang="hr">WRC, snimka</category>
-  </programme>
-  <programme start="20181004020000 +0300" stop="20181004050000 +0300" channel="Arena Sport 1.hr">
-    <title lang="hr">AL WILD CARD GAME: NY YANKEES - OAKLAND, Bejzbol</title>
-    <category lang="hr">MLB</category>
-  </programme>
-  <programme start="20181004070000 +0300" stop="20181004083000 +0300" channel="Arena Sport 1.hr">
-    <title lang="hr">FLENSBURG - MOTOR Z., Rukomet</title>
-    <category lang="hr">EHF LIGA PRVAKA, snimka</category>
-  </programme>
-  <programme start="20181004083000 +0300" stop="20181004100000 +0300" channel="Arena Sport 1.hr">
-    <title lang="hr">OLIMPIJA - MORNAR, Košarka</title>
-    <category lang="hr">ABA LIGA, snimka</category>
-  </programme>
-  <programme start="20181004100000 +0300" stop="20181004120000 +0300" channel="Arena Sport 1.hr">
-    <title lang="hr">ST. ETIENNE - MONACO, Nogomet</title>
-    <category lang="hr">LIGUE 1, snimka</category>
-  </programme>
-  <programme start="20181004120000 +0300" stop="20181004140000 +0300" channel="Arena Sport 1.hr">
-    <title lang="hr">RUDEŠ - ISTRA, Nogomet</title>
-    <category lang="hr">HT PRVA LIGA, snimka</category>
-  </programme>
-  <programme start="20181004140000 +0300" stop="20181004160000 +0300" channel="Arena Sport 1.hr">
-    <title lang="hr">SASSUOLO - MILAN, Nogomet</title>
-    <category lang="hr">SERIE A, snimka</category>
-  </programme>
-  <programme start="20181004160000 +0300" stop="20181004163000 +0300" channel="Arena Sport 1.hr">
-    <title lang="hr">KOTV MAGAZIN, Boks</title>
-    <category lang="hr">MAGAZIN, prem.snimka</category>
-  </programme>
-  <programme start="20181004163000 +0300" stop="20181004170000 +0300" channel="Arena Sport 1.hr">
-    <title lang="hr">INSIDE LINE</title>
-    <category lang="hr">FORMULA 1, prem.snimka</category>
-  </programme>
-  <programme start="20181004170000 +0300" stop="20181004173000 +0300" channel="Arena Sport 1.hr">
-    <title lang="hr">FIFA MAGAZIN, Nogomet</title>
-    <category lang="hr">MAGAZIN, snimka</category>
-  </programme>
-  <programme start="20181004173000 +0300" stop="20181004180000 +0300" channel="Arena Sport 1.hr">
-    <title lang="hr">ARENA SPECIJAL: DIMITRIOS ITOUDIS, Košarka</title>
-    <category lang="hr">EMISIJA, snimka</category>
-  </programme>
-  <programme start="20181004180000 +0300" stop="20181004185500 +0300" channel="Arena Sport 1.hr">
-    <title lang="hr">EMISIJA UOČI UTAKMICE, Nogomet</title>
-    <category lang="hr">EUROPALIGA</category>
-  </programme>
-  <programme start="20181004185500 +0300" stop="20181004210000 +0300" channel="Arena Sport 1.hr">
-    <title lang="hr">FENERBAHCE - SPARTAK T., Nogomet</title>
-    <category lang="hr">EUROPALIGA</category>
-  </programme>
-  <programme start="20181004210000 +0300" stop="20181004211500 +0300" channel="Arena Sport 1.hr">
-    <title lang="hr">ZAVRŠNA EMISIJA, Nogomet</title>
-    <category lang="hr">EUROPALIGA</category>
-  </programme>
-  <programme start="20181004211500 +0300" stop="20181004230500 +0300" channel="Arena Sport 1.hr">
-    <title lang="hr">RANGERS - RAPID B., Nogomet</title>
-    <category lang="hr">EUROPALIGA, UKLJUČENJE</category>
-  </programme>
-  <programme start="20181004230500 +0300" stop="20181005000000 +0300" channel="Arena Sport 1.hr">
-    <title lang="hr">SAŽETAK EUROPALIGE, Nogomet</title>
-    <category lang="hr">EUROPALIGA</category>
-  </programme>
   <programme start="20181005000000 +0300" stop="20181005020000 +0300" channel="Arena Sport 1.hr">
     <title lang="hr">ANDERLECHT - GNK DINAMO ZAGREB, Nogomet</title>
     <category lang="hr">EUROPALIGA, snimka</category>
@@ -184,69 +104,57 @@
     <title lang="hr">HRVATSKA KOŠARKA, Nogomet</title>
     <category lang="hr">EMISIJA, prem.snimka</category>
   </programme>
-  <programme start="20181005230000 +0300" stop="20181005233000 +0300" channel="Arena Sport 1.hr">
-    <title lang="hr">WRC MAGAZIN, Automobilizam</title>
-    <category lang="hr">WRC, snimka</category>
+  <programme start="20181005230000 +0300" stop="20181006010000 +0300" channel="Arena Sport 1.hr">
+    <title lang="hr">FUTSAL DINAMO - BROD, futsal</title>
+    <category lang="hr">FUTSAL PRVA LIGA, snimka</category>
   </programme>
-  <programme start="20181005233000 +0300" stop="20181006030000 +0300" channel="Arena Sport 1.hr">
-    <title lang="hr">NLDS GAME 1, Bejzbol</title>
+  <programme start="20181006010000 +0300" stop="20181006043000 +0300" channel="Arena Sport 1.hr">
+    <title lang="hr">BOSTON - NY YANKEES GAME 1, Bejzbol</title>
     <category lang="hr">MLB</category>
   </programme>
-  <programme start="20181004000000 +0300" stop="20181004013000 +0300" channel="Arena Sport 2.hr">
-    <title lang="hr">FLENSBURG - MOTOR Z., Rukomet</title>
-    <category lang="hr">EHF LIGA PRVAKA, snimka</category>
-  </programme>
-  <programme start="20181004013000 +0300" stop="20181004040000 +0300" channel="Arena Sport 2.hr">
-    <title lang="hr">WASHINGTON - BOSTON, Hokej na ledu</title>
-    <category lang="hr">NHL</category>
-  </programme>
-  <programme start="20181004040000 +0300" stop="20181004060000 +0300" channel="Arena Sport 2.hr">
-    <title lang="hr">TROYES - AUXERRE, Nogomet</title>
-    <category lang="hr">FRANCUSKA 2.LIGA, snimka</category>
-  </programme>
-  <programme start="20181004060000 +0300" stop="20181004070000 +0300" channel="Arena Sport 2.hr">
-    <title lang="hr">FEIGENBUTZ - KRAFT</title>
-    <category lang="hr">BOKS, snimka</category>
-  </programme>
-  <programme start="20181004070000 +0300" stop="20181004083000 +0300" channel="Arena Sport 2.hr">
-    <title lang="hr">BAD BOYS</title>
-    <category lang="hr">DOKUMENTARNI FILM, snimka</category>
-  </programme>
-  <programme start="20181004083000 +0300" stop="20181004103000 +0300" channel="Arena Sport 2.hr">
-    <title lang="hr">FROLUNDA - LIONS ZURICH, Hokej na ledu</title>
-    <category lang="hr">LIGA PRVAKA, snimka</category>
-  </programme>
-  <programme start="20181004103000 +0300" stop="20181004120000 +0300" channel="Arena Sport 2.hr">
-    <title lang="hr">TATRAN - NEXE, Rukomet</title>
+  <programme start="20181006070000 +0300" stop="20181006083000 +0300" channel="Arena Sport 1.hr">
+    <title lang="hr">ŽELEZNIČAR - IZVIĐAČ, Rukomet</title>
     <category lang="hr">SEHA LIGA, snimka</category>
   </programme>
-  <programme start="20181004120000 +0300" stop="20181004140000 +0300" channel="Arena Sport 2.hr">
-    <title lang="hr">NY YANKEES - OAKLAND, Bejzbol</title>
-    <category lang="hr">MLB, snimka</category>
+  <programme start="20181006083000 +0300" stop="20181006103000 +0300" channel="Arena Sport 1.hr">
+    <title lang="hr">VALENCIA - REAL M., Košarka</title>
+    <category lang="hr">LIGA ENDESA, snimka</category>
   </programme>
-  <programme start="20181004140000 +0300" stop="20181004160000 +0300" channel="Arena Sport 2.hr">
-    <title lang="hr">PALMEIRAS - COLO COLO, Nogomet</title>
-    <category lang="hr">COPA LIBERTADORES, snimka</category>
+  <programme start="20181006103000 +0300" stop="20181006113000 +0300" channel="Arena Sport 1.hr">
+    <title lang="hr">PREGLED TALIJANSKE LIGE, Nogomet</title>
+    <category lang="hr">SERIE A, snimka</category>
   </programme>
-  <programme start="20181004160000 +0300" stop="20181004165000 +0300" channel="Arena Sport 2.hr">
-    <title lang="hr">NAJAVA KOLA EUROPALIGE, Nogomet</title>
-    <category lang="hr">EUROPALIGA, snimka</category>
+  <programme start="20181006113000 +0300" stop="20181006131500 +0300" channel="Arena Sport 1.hr">
+    <title lang="hr">ROSTOV - SAVENHOF, Rukomet</title>
+    <category lang="hr">EHF LIGA PRVAKINJA</category>
   </programme>
-  <programme start="20181004165000 +0300" stop="20181004185500 +0300" channel="Arena Sport 2.hr">
-    <title lang="hr">ASTANA - RENNES, Nogomet</title>
-    <category lang="hr">EUROPALIGA</category>
+  <programme start="20181006131500 +0300" stop="20181006150000 +0300" channel="Arena Sport 1.hr">
+    <title lang="hr">CARTAGENA - OSASUNA, Futsal</title>
+    <category lang="hr">ŠPANJOLSKA LIGA</category>
   </programme>
-  <programme start="20181004185500 +0300" stop="20181004210000 +0300" channel="Arena Sport 2.hr">
-    <title lang="hr">QARABAG - ARSENAL, Nogomet</title>
-    <category lang="hr">EUROPALIGA</category>
+  <programme start="20181006150000 +0300" stop="20181006163000 +0300" channel="Arena Sport 1.hr">
+    <title lang="hr">MESHKOV - VESZPREM, Rukomet</title>
+    <category lang="hr">EHF LIGA PRVAKA</category>
   </programme>
-  <programme start="20181004210000 +0300" stop="20181004230000 +0300" channel="Arena Sport 2.hr">
-    <title lang="hr">SPARTAK - VILLARREAL, Nogomet</title>
-    <category lang="hr">EUROPALIGA</category>
+  <programme start="20181006163000 +0300" stop="20181006170000 +0300" channel="Arena Sport 1.hr">
+    <title lang="hr">HRVATSKA KOŠARKA, Košarka</title>
+    <category lang="hr">EMISIJA, snimka</category>
   </programme>
-  <programme start="20181004230000 +0300" stop="20181005010000 +0300" channel="Arena Sport 2.hr">
-    <title lang="hr">WASHINGTON - BOSTON, Hokej na ledu</title>
-    <category lang="hr">NHL, snimka</category>
+  <programme start="20181006170000 +0300" stop="20181006190000 +0300" channel="Arena Sport 1.hr">
+    <title lang="hr">ZADAR - CEDEVITA, Košarka</title>
+    <category lang="hr">ABA LIGA</category>
+  </programme>
+  <programme start="20181006190000 +0300" stop="20181006210000 +0300" channel="Arena Sport 1.hr">
+    <title lang="hr">MEGA - FMP, Košarka</title>
+    <category lang="hr">ABA LIGA</category>
+  </programme>
+  <programme start="20181006210000 +0300" stop="20181006230000 +0300" channel="Arena Sport 1.hr">
+    <title lang="hr">PARTIZAN - OLIMPIJA, Košarka</title>
+    <category lang="hr">ABA LIGA</category>
+  </programme>
+  <programme start="20181006230000 +0300" stop="20181007010000 +0300" channel="Arena Sport 1.hr">
+    <title lang="hr">GORICA - RIJEKA, Nogomet</title>
+    <category lang="hr">HT PRVA LIGA, snimka</category>
   </programme>
   <programme start="20181005010000 +0300" stop="20181005040000 +0300" channel="Arena Sport 2.hr">
     <title lang="hr">PITTSBURGH - WASHINGTON, Hokej na ledu</title>
@@ -304,65 +212,73 @@
     <title lang="hr">PITTSBURGH - WASHINGTON, Hokej na ledu</title>
     <category lang="hr">NHL, snimka</category>
   </programme>
-  <programme start="20181004000000 +0300" stop="20181004020000 +0300" channel="Arena Sport 3.hr">
-    <title lang="hr">LIVINGSTON - RANGERS, Nogomet</title>
-    <category lang="hr">ŠKOTSKA LIGA, snimka</category>
-  </programme>
-  <programme start="20181004020000 +0300" stop="20181004024500 +0300" channel="Arena Sport 3.hr">
-    <title lang="hr">MNR: ENG/NJEM, Nogomet</title>
-    <category lang="hr">DOKUMENTARNI FILM, snimka</category>
-  </programme>
-  <programme start="20181004024500 +0300" stop="20181004044500 +0300" channel="Arena Sport 3.hr">
-    <title lang="hr">PALMEIRAS - COLO COLO, Nogomet</title>
-    <category lang="hr">COPA LIBERTADORES</category>
-  </programme>
-  <programme start="20181004064500 +0300" stop="20181004071500 +0300" channel="Arena Sport 3.hr">
-    <title lang="hr">FOOT BRAZIL, Nogomet</title>
-    <category lang="hr">MAGAZIN, snimka</category>
-  </programme>
-  <programme start="20181004071500 +0300" stop="20181004090000 +0300" channel="Arena Sport 3.hr">
-    <title lang="hr">FIORENTINA - ATALANTA, Nogomet</title>
+  <programme start="20181006000000 +0300" stop="20181006020000 +0300" channel="Arena Sport 2.hr">
+    <title lang="hr">TORINO - FROSINONE, Nogomet</title>
     <category lang="hr">SERIE A, snimka</category>
   </programme>
-  <programme start="20181004090000 +0300" stop="20181004093000 +0300" channel="Arena Sport 3.hr">
-    <title lang="hr">SG: MARADONA 1, Nogomet</title>
-    <category lang="hr">DOKUMENTARNI FILM, snimka</category>
-  </programme>
-  <programme start="20181004093000 +0300" stop="20181004100000 +0300" channel="Arena Sport 3.hr">
-    <title lang="hr">FGM: ARRIGO SACCHI, Nogomet</title>
-    <category lang="hr">DOKUMENTARNI FILM, snimka</category>
-  </programme>
-  <programme start="20181004100000 +0300" stop="20181004120000 +0300" channel="Arena Sport 3.hr">
-    <title lang="hr">OOSTENDE - STANDARD, Nogomet</title>
-    <category lang="hr">BELGIJSKA LIGA, snimka</category>
-  </programme>
-  <programme start="20181004120000 +0300" stop="20181004140000 +0300" channel="Arena Sport 3.hr">
-    <title lang="hr">RIVER PLATE - INDEPENDIENTE, Nogomet</title>
+  <programme start="20181006020000 +0300" stop="20181006040000 +0300" channel="Arena Sport 2.hr">
+    <title lang="hr">CRUZEIRO - BOCA JUNIORS, Nogomet</title>
     <category lang="hr">COPA LIBERTADORES, snimka</category>
   </programme>
-  <programme start="20181004140000 +0300" stop="20181004150000 +0300" channel="Arena Sport 3.hr">
-    <title lang="hr">MNR: POR/ŠPA, Nogomet</title>
+  <programme start="20181006040000 +0300" stop="20181006060000 +0300" channel="Arena Sport 2.hr">
+    <title lang="hr">NY YANKEES - OAKLAND, Bejzbol</title>
+    <category lang="hr">MLB, snimka</category>
+  </programme>
+  <programme start="20181006060000 +0300" stop="20181006070000 +0300" channel="Arena Sport 2.hr">
+    <title lang="hr">USYK - GASSIEV</title>
+    <category lang="hr">BOKS, snimka</category>
+  </programme>
+  <programme start="20181006070000 +0300" stop="20181006080000 +0300" channel="Arena Sport 2.hr">
+    <title lang="hr">SEPP BLATTER</title>
     <category lang="hr">DOKUMENTARNI FILM, snimka</category>
   </programme>
-  <programme start="20181004150000 +0300" stop="20181004170000 +0300" channel="Arena Sport 3.hr">
-    <title lang="hr">GORICA - LOKOMOTIVA, Nogomet</title>
-    <category lang="hr">HT PRVA LIGA, snimka</category>
+  <programme start="20181006080000 +0300" stop="20181006090000 +0300" channel="Arena Sport 2.hr">
+    <title lang="hr">VN JAPANA - KVALIFIKACIJE</title>
+    <category lang="hr">FORMULA 1</category>
   </programme>
-  <programme start="20181004170000 +0300" stop="20181004185500 +0300" channel="Arena Sport 3.hr">
-    <title lang="hr">ST. ETIENNE - MONACO, Nogomet</title>
-    <category lang="hr">LIGUE 1, snimka</category>
+  <programme start="20181006090000 +0300" stop="20181006110000 +0300" channel="Arena Sport 2.hr">
+    <title lang="hr">PITTSBURGH - WASHINGTON, Hokej na ledu</title>
+    <category lang="hr">NHL, snimka</category>
   </programme>
-  <programme start="20181004185500 +0300" stop="20181004210000 +0300" channel="Arena Sport 3.hr">
-    <title lang="hr">ANDERLECHT - DINAMO, Nogomet</title>
-    <category lang="hr">EUROPALIGA</category>
+  <programme start="20181006110000 +0300" stop="20181006130000 +0300" channel="Arena Sport 2.hr">
+    <title lang="hr">FUTSAL DINAMO - BROD, futsal</title>
+    <category lang="hr">FUTSAL PRVA LIGA, snimka</category>
   </programme>
-  <programme start="20181004210000 +0300" stop="20181004230000 +0300" channel="Arena Sport 3.hr">
-    <title lang="hr">EINTRACHT - LAZIO, Nogomet</title>
-    <category lang="hr">EUROPALIGA</category>
+  <programme start="20181006130000 +0300" stop="20181006140000 +0300" channel="Arena Sport 2.hr">
+    <title lang="hr">WRC VB - LIVE STAGE 1, Automobilizam</title>
+    <category lang="hr">WRC</category>
   </programme>
-  <programme start="20181004230000 +0300" stop="20181005000000 +0300" channel="Arena Sport 3.hr">
-    <title lang="hr">JULES RIMET TROPHY, Nogomet</title>
-    <category lang="hr">DOKUMENTARNI FILM, snimka</category>
+  <programme start="20181006140000 +0300" stop="20181006150000 +0300" channel="Arena Sport 2.hr">
+    <title lang="hr">VN JAPANA - KVALIFIKACIJE</title>
+    <category lang="hr">FORMULA 1, snimka</category>
+  </programme>
+  <programme start="20181006150000 +0300" stop="20181006170000 +0300" channel="Arena Sport 2.hr">
+    <title lang="hr">CAGLIARI - BOLOGNA, Nogomet</title>
+    <category lang="hr">SERIE A</category>
+  </programme>
+  <programme start="20181006170000 +0300" stop="20181006173000 +0300" channel="Arena Sport 2.hr">
+    <title lang="hr">REWIND MAGAZIN, Rukomet</title>
+    <category lang="hr">MAGAZIN, snimka</category>
+  </programme>
+  <programme start="20181006173000 +0300" stop="20181006190000 +0300" channel="Arena Sport 2.hr">
+    <title lang="hr">VARDAR - RN LOEWEN, Rukomet</title>
+    <category lang="hr">EHF LIGA PRVAKA</category>
+  </programme>
+  <programme start="20181006190000 +0300" stop="20181006193000 +0300" channel="Arena Sport 2.hr">
+    <title lang="hr">PREGLED COPA LIBERTADORES, Nogomet</title>
+    <category lang="hr">COPA LIBERTADORES, prem.snimka</category>
+  </programme>
+  <programme start="20181006193000 +0300" stop="20181006210000 +0300" channel="Arena Sport 2.hr">
+    <title lang="hr">ADEMAR LEON - WISLA, Rukomet</title>
+    <category lang="hr">EHF LIGA PRVAKA</category>
+  </programme>
+  <programme start="20181006210000 +0300" stop="20181006230000 +0300" channel="Arena Sport 2.hr">
+    <title lang="hr">CARTAGENA - OSASUNA, Futsal</title>
+    <category lang="hr">ŠPANJOLSKA LIGA, snimka</category>
+  </programme>
+  <programme start="20181006230000 +0300" stop="20181007010000 +0300" channel="Arena Sport 2.hr">
+    <title lang="hr">SAO PAULO - PALMEIRAS, Nogomet</title>
+    <category lang="hr">BRAZILSKA LIGA</category>
   </programme>
   <programme start="20181005000000 +0300" stop="20181005020000 +0300" channel="Arena Sport 3.hr">
     <title lang="hr">FENERBAHCE - SPARTAK TRNAVA, Nogomet</title>
@@ -432,81 +348,65 @@
     <title lang="hr">SEPP BLATTER, Nogomet</title>
     <category lang="hr">DOKUMENTARNI FILM, snimka</category>
   </programme>
-  <programme start="20181004000000 +0300" stop="20181004013000 +0300" channel="Arena Sport 4.hr">
-    <title lang="hr">IGOKEA - MEGA, Košarka</title>
-    <category lang="hr">ABA LIGA, snimka</category>
+  <programme start="20181006000000 +0300" stop="20181006020000 +0300" channel="Arena Sport 3.hr">
+    <title lang="hr">INTER - FIORENTINA, Nogomet</title>
+    <category lang="hr">SERIE A, snimka</category>
   </programme>
-  <programme start="20181004013000 +0300" stop="20181004020000 +0300" channel="Arena Sport 4.hr">
-    <title lang="hr">SOY FOOTBALL,9</title>
+  <programme start="20181006020000 +0300" stop="20181006030000 +0300" channel="Arena Sport 3.hr">
+    <title lang="hr">MNR: ITA/EX-YU, Nogomet</title>
     <category lang="hr">DOKUMENTARNI FILM, snimka</category>
   </programme>
-  <programme start="20181004020000 +0300" stop="20181004040000 +0300" channel="Arena Sport 4.hr">
-    <title lang="hr">HUDDERSFIELD - TOTTENHAM, Nogomet</title>
-    <category lang="hr">TOTTENHAM TV, snimka</category>
+  <programme start="20181006030000 +0300" stop="20181006044500 +0300" channel="Arena Sport 3.hr">
+    <title lang="hr">TOULOUSE - NICE, Nogomet</title>
+    <category lang="hr">LIGUE 1, snimka</category>
   </programme>
-  <programme start="20181004040000 +0300" stop="20181004050000 +0300" channel="Arena Sport 4.hr">
-    <title lang="hr">MNR: BRA/ARG</title>
+  <programme start="20181006064500 +0300" stop="20181006071500 +0300" channel="Arena Sport 3.hr">
+    <title lang="hr">FIFA MAGAZIN, Nogomet</title>
+    <category lang="hr">MAGAZIN, snimka</category>
+  </programme>
+  <programme start="20181006071500 +0300" stop="20181006090000 +0300" channel="Arena Sport 3.hr">
+    <title lang="hr">TORINO - FROSINONE, Nogomet</title>
+    <category lang="hr">SERIE A, snimka</category>
+  </programme>
+  <programme start="20181006090000 +0300" stop="20181006093000 +0300" channel="Arena Sport 3.hr">
+    <title lang="hr">SG: MARADONA 3, Nogomet</title>
     <category lang="hr">DOKUMENTARNI FILM, snimka</category>
   </programme>
-  <programme start="20181004050000 +0300" stop="20181004060000 +0300" channel="Arena Sport 4.hr">
-    <title lang="hr">WSP 2017 3, Poker</title>
+  <programme start="20181006093000 +0300" stop="20181006100000 +0300" channel="Arena Sport 3.hr">
+    <title lang="hr">FGM: ARRIGO SACCHI, Nogomet</title>
     <category lang="hr">DOKUMENTARNI FILM, snimka</category>
   </programme>
-  <programme start="20181004060000 +0300" stop="20181004070000 +0300" channel="Arena Sport 4.hr">
-    <title lang="hr">JAPAN - MAĐARSKA, Vaterpolo</title>
-    <category lang="hr">SVJETSKA LIGA, snimka</category>
-  </programme>
-  <programme start="20181004070000 +0300" stop="20181004073000 +0300" channel="Arena Sport 4.hr">
-    <title lang="hr">TRAIN TO RUSSIA,10</title>
-    <category lang="hr">DOKUMENTARNI FILM, snimka</category>
-  </programme>
-  <programme start="20181004073000 +0300" stop="20181004080000 +0300" channel="Arena Sport 4.hr">
-    <title lang="hr">SPORTSKA RIVALSTVA,10</title>
-    <category lang="hr">DOKUMENTARNI FILM, snimka</category>
-  </programme>
-  <programme start="20181004080000 +0300" stop="20181004100000 +0300" channel="Arena Sport 4.hr">
-    <title lang="hr">FLUMINENSE - GREMIO, Nogomet</title>
-    <category lang="hr">BRAZILSKA LIGA, snimka</category>
-  </programme>
-  <programme start="20181004100000 +0300" stop="20181004120000 +0300" channel="Arena Sport 4.hr">
-    <title lang="hr">OLYMPIACOS - BETIS, Nogomet</title>
-    <category lang="hr">EUROPALIGA, snimka</category>
-  </programme>
-  <programme start="20181004120000 +0300" stop="20181004133000 +0300" channel="Arena Sport 4.hr">
-    <title lang="hr">BARCELONA - GRAN CANARIA, Košarka</title>
-    <category lang="hr">LIGA ENDESA, snimka</category>
-  </programme>
-  <programme start="20181004133000 +0300" stop="20181004140000 +0300" channel="Arena Sport 4.hr">
-    <title lang="hr">ZONA CEDEVITA, Košarka</title>
-    <category lang="hr">EMISIJA, snimka</category>
-  </programme>
-  <programme start="20181004140000 +0300" stop="20181004154500 +0300" channel="Arena Sport 4.hr">
+  <programme start="20181006100000 +0300" stop="20181006120000 +0300" channel="Arena Sport 3.hr">
     <title lang="hr">CLUB BRUGGE - CERCLE BRUGGE, Nogomet</title>
     <category lang="hr">BELGIJSKA LIGA, snimka</category>
   </programme>
-  <programme start="20181004154500 +0300" stop="20181004161500 +0300" channel="Arena Sport 4.hr">
-    <title lang="hr">SEND IT,9</title>
+  <programme start="20181006120000 +0300" stop="20181006130000 +0300" channel="Arena Sport 3.hr">
+    <title lang="hr">MNR: BRA/ARG, Nogomet</title>
     <category lang="hr">DOKUMENTARNI FILM, snimka</category>
   </programme>
-  <programme start="20181004161500 +0300" stop="20181004180000 +0300" channel="Arena Sport 4.hr">
-    <title lang="hr">GREMIO - ATLETICO T., Nogomet</title>
-    <category lang="hr">COPA LIBERTADORES, snimka</category>
+  <programme start="20181006130000 +0300" stop="20181006150000 +0300" channel="Arena Sport 3.hr">
+    <title lang="hr">OSIJEK - LOKOMOTIVA, Nogomet</title>
+    <category lang="hr">1. HNL JUNIORI, snimka</category>
   </programme>
-  <programme start="20181004180000 +0300" stop="20181004185500 +0300" channel="Arena Sport 4.hr">
-    <title lang="hr">SEPP BLATTER</title>
-    <category lang="hr">DOKUMENTARNI FILM, snimka</category>
+  <programme start="20181006150000 +0300" stop="20181006170000 +0300" channel="Arena Sport 3.hr">
+    <title lang="hr">GORICA - RIJEKA, Nogomet</title>
+    <category lang="hr">HT PRVA LIGA</category>
   </programme>
-  <programme start="20181004185500 +0300" stop="20181004210000 +0300" channel="Arena Sport 4.hr">
-    <title lang="hr">MILAN - OLYMPIACOS, Nogomet</title>
-    <category lang="hr">EUROPALIGA</category>
+  <programme start="20181006170000 +0300" stop="20181006190000 +0300" channel="Arena Sport 3.hr">
+    <title lang="hr">LILLE - ST. ETIENNE, Nogomet</title>
+    <category lang="hr">LIGUE 1</category>
   </programme>
-  <programme start="20181004210000 +0300" stop="20181004230000 +0300" channel="Arena Sport 4.hr">
-    <title lang="hr">KRASNODAR - SEVILLA, Nogomet</title>
-    <category lang="hr">EUROPALIGA</category>
+  <programme start="20181006190000 +0300" stop="20181006210000 +0300" channel="Arena Sport 3.hr">
+    <title lang="hr">SLAVEN B. - ISTRA, Nogomet</title>
+    <category lang="hr">HT PRVA LIGA</category>
   </programme>
-  <programme start="20181004230000 +0300" stop="20181005000000 +0300" channel="Arena Sport 4.hr">
-    <title lang="hr">HRGOVIĆ - LITTLE</title>
-    <category lang="hr">BOKS, snimka</category>
+  <programme start="20181006210000 +0300" stop="20181006230000 +0300" channel="Arena Sport 3.hr">
+    <title lang="hr">ANDERLECHT - DINAMO, Nogomet</title>
+    <category lang="hr">HT PRVA LIGA, snimka</category>
+  </programme>
+  <programme start="20181006230000 +0300" stop="20181007010000 +0300" channel="Arena Sport 3.hr">
+    <title lang="hr">UDINESE - JUVENTUS, Nogomet</title>
+    <category lang="hr">SERIE A, snimka</category>
   </programme>
   <programme start="20181005000000 +0300" stop="20181005020000 +0300" channel="Arena Sport 4.hr">
     <title lang="hr">RB SALZBURG - CELTIC, Nogomet</title>
@@ -572,25 +472,81 @@
     <title lang="hr">BUKUREŠT - RAIL CARGO HUNGARIA, Rukomet</title>
     <category lang="hr">LIGA PRVAKINJA, snimka</category>
   </programme>
-  <programme start="20181004150000 +0300" stop="20181004170000 +0300" channel="Arena Sport 5.hr">
-    <title lang="hr">RIJEKA - SLAVEN B., Nogomet</title>
-    <category lang="hr">HT PRVA LIGA, snimka</category>
+  <programme start="20181006003000 +0300" stop="20181006020000 +0300" channel="Arena Sport 4.hr">
+    <title lang="hr">CRVENA ZVEZDA - CIBONA, Košarka</title>
+    <category lang="hr">ABA LIGA, snimka</category>
   </programme>
-  <programme start="20181004170000 +0300" stop="20181004185500 +0300" channel="Arena Sport 5.hr">
-    <title lang="hr">SPARKS - PRIMORSKA, Košarka</title>
-    <category lang="hr">ABA 2. LIGA</category>
+  <programme start="20181006020000 +0300" stop="20181006040000 +0300" channel="Arena Sport 4.hr">
+    <title lang="hr">ANDERLECHT - STTV, Nogomet</title>
+    <category lang="hr">BELGIJSKA LIGA, snimka</category>
   </programme>
-  <programme start="20181004185500 +0300" stop="20181004210000 +0300" channel="Arena Sport 5.hr">
+  <programme start="20181006040000 +0300" stop="20181006050000 +0300" channel="Arena Sport 4.hr">
+    <title lang="hr">MNR: ITA/EX-YU</title>
+    <category lang="hr">DOKUMENTARNI FILM, snimka</category>
+  </programme>
+  <programme start="20181006050000 +0300" stop="20181006060000 +0300" channel="Arena Sport 4.hr">
+    <title lang="hr">WSP 2017 5</title>
+    <category lang="hr">POKER, snimka</category>
+  </programme>
+  <programme start="20181006060000 +0300" stop="20181006070000 +0300" channel="Arena Sport 4.hr">
+    <title lang="hr">HRVATSKA - ŠPANJOLSKA, Vaterpolo</title>
+    <category lang="hr">SVJETSKA LIGA, snimka</category>
+  </programme>
+  <programme start="20181006070000 +0300" stop="20181006073000 +0300" channel="Arena Sport 4.hr">
+    <title lang="hr">TRAIN TO RUSSIA,12</title>
+    <category lang="hr">DOKUMENTARNI FILM, snimka</category>
+  </programme>
+  <programme start="20181006073000 +0300" stop="20181006080000 +0300" channel="Arena Sport 4.hr">
+    <title lang="hr">SPORTSKA RIVALSTVA,13</title>
+    <category lang="hr">DOKUMENTARNI FILM, snimka</category>
+  </programme>
+  <programme start="20181006080000 +0300" stop="20181006100000 +0300" channel="Arena Sport 4.hr">
+    <title lang="hr">PALMEIRAS - COLO COLO, Nogomet</title>
+    <category lang="hr">COPA LIBERTADORES, snimka</category>
+  </programme>
+  <programme start="20181006100000 +0300" stop="20181006120000 +0300" channel="Arena Sport 4.hr">
     <title lang="hr">SALZBURG - CELTIC, Nogomet</title>
-    <category lang="hr">EUROPALIGA</category>
+    <category lang="hr">EUROPALIGA, snimka</category>
   </programme>
-  <programme start="20181004210000 +0300" stop="20181004230000 +0300" channel="Arena Sport 5.hr">
-    <title lang="hr">CHELSEA - VIDI, Nogomet</title>
-    <category lang="hr">EUROPALIGA</category>
+  <programme start="20181006120000 +0300" stop="20181006133000 +0300" channel="Arena Sport 4.hr">
+    <title lang="hr">VALENCIA - REAL M., Košarka</title>
+    <category lang="hr">LIGA ENDESA, snimka</category>
   </programme>
-  <programme start="20181004230000 +0300" stop="20181005000000 +0300" channel="Arena Sport 5.hr">
-    <title lang="hr">WRC TURSKA - HIGHLIGHTS, Automobilizam</title>
-    <category lang="hr">WRC, snimka</category>
+  <programme start="20181006133000 +0300" stop="20181006140000 +0300" channel="Arena Sport 4.hr">
+    <title lang="hr">SOY FOOTBALL,11</title>
+    <category lang="hr">DOKUMENTARNI FILM, snimka</category>
+  </programme>
+  <programme start="20181006140000 +0300" stop="20181006160000 +0300" channel="Arena Sport 4.hr">
+    <title lang="hr">BOSTON - NY YANKEES GAME 1, Bejzbol</title>
+    <category lang="hr">MLB, snimka</category>
+  </programme>
+  <programme start="20181006160000 +0300" stop="20181006173000 +0300" channel="Arena Sport 4.hr">
+    <title lang="hr">BARCELONA - MONTPELLIER, Rukomet</title>
+    <category lang="hr">EHF LIGA PRVAKA</category>
+  </programme>
+  <programme start="20181006173000 +0300" stop="20181006180000 +0300" channel="Arena Sport 4.hr">
+    <title lang="hr">SEND IT,11</title>
+    <category lang="hr">DOKUMENTARNI FILM, snimka</category>
+  </programme>
+  <programme start="20181006180000 +0300" stop="20181006200000 +0300" channel="Arena Sport 4.hr">
+    <title lang="hr">UDINESE - JUVENTUS, Nogomet</title>
+    <category lang="hr">SERIE A</category>
+  </programme>
+  <programme start="20181006200000 +0300" stop="20181006203000 +0300" channel="Arena Sport 4.hr">
+    <title lang="hr">PREGLED COPA LIBERTADORES, Nogomet</title>
+    <category lang="hr">COPA LIBERTADORES, snimka</category>
+  </programme>
+  <programme start="20181006203000 +0300" stop="20181006223000 +0300" channel="Arena Sport 4.hr">
+    <title lang="hr">EMPOLI - ROMA, Nogomet</title>
+    <category lang="hr">SERIE A</category>
+  </programme>
+  <programme start="20181006223000 +0300" stop="20181006230000 +0300" channel="Arena Sport 4.hr">
+    <title lang="hr">ULTIMATE RUSH,6</title>
+    <category lang="hr">DOKUMENTARNI FILM, snimka</category>
+  </programme>
+  <programme start="20181006230000 +0300" stop="20181007003000 +0300" channel="Arena Sport 4.hr">
+    <title lang="hr">MESHKOV - VESZPREM, Rukomet</title>
+    <category lang="hr">EHF LIGA PRVAKA, snimka</category>
   </programme>
   <programme start="20181005150000 +0300" stop="20181005170000 +0300" channel="Arena Sport 5.hr">
     <title lang="hr">RUDEŠ - ISTRA, Nogomet</title>
@@ -616,81 +572,21 @@
     <title lang="hr">BUDIMPEŠTA DAN 2, Plivanje</title>
     <category lang="hr">SVJETSKI KUP, snimka</category>
   </programme>
-  <programme start="20181004004000 +0300" stop="20181004011000 +0300" channel="Arena Sport 1">
-    <title lang="hr">Arenasport News</title>
-    <category lang="hr">Vesti</category>
+  <programme start="20181006150000 +0300" stop="20181006170000 +0300" channel="Arena Sport 5.hr">
+    <title lang="hr">CRUZEIRO - BOCA JUNIORS, Nogomet</title>
+    <category lang="hr">COPA LIB., snimka</category>
   </programme>
-  <programme start="20181004011000 +0300" stop="20181004030000 +0300" channel="Arena Sport 1">
-    <title lang="hr">LIGA ŠAMPIONA: Tottenham - Barcelona</title>
-    <category lang="hr">Fudbal</category>
+  <programme start="20181006170000 +0300" stop="20181006190000 +0300" channel="Arena Sport 5.hr">
+    <title lang="hr">BUDIMPEŠTA - 3. DAN, Plivanje</title>
+    <category lang="hr">SVJETSKI KUP</category>
   </programme>
-  <programme start="20181004030000 +0300" stop="20181004043000 +0300" channel="Arena Sport 1">
-    <title lang="hr">EHF LIGA ŠAMPIONA: SG Flensburg-Handewitt - HC Motor Zaporozhye</title>
-    <category lang="hr">Rukomet</category>
+  <programme start="20181006190000 +0300" stop="20181006220000 +0300" channel="Arena Sport 5.hr">
+    <title lang="hr">NEW JERSEY - EDMONTON, Hokej na ledu</title>
+    <category lang="hr">NHL</category>
   </programme>
-  <programme start="20181004043000 +0300" stop="20181004060000 +0300" channel="Arena Sport 1">
-    <title lang="hr">BRAZILSKA LIGA: Santos - Sao Paolo</title>
-    <category lang="hr">Fudbal</category>
-  </programme>
-  <programme start="20181004060000 +0300" stop="20181004063000 +0300" channel="Arena Sport 1">
-    <title lang="hr">BRAZILSKA LIGA: Santos - Sao Paolo</title>
-    <category lang="hr">Fudbal</category>
-  </programme>
-  <programme start="20181004063000 +0300" stop="20181004070000 +0300" channel="Arena Sport 1">
-    <title lang="hr">Dream teams,11</title>
-  </programme>
-  <programme start="20181004070000 +0300" stop="20181004073000 +0300" channel="Arena Sport 1">
-    <title lang="hr">FIFA Football</title>
-  </programme>
-  <programme start="20181004073000 +0300" stop="20181004090000 +0300" channel="Arena Sport 1">
-    <title lang="hr">EHF LIGA ŠAMPIONA: Riihimäen Cocks - Dinamo Bucurest</title>
-    <category lang="hr">Rukomet</category>
-  </programme>
-  <programme start="20181004090000 +0300" stop="20181004103000 +0300" channel="Arena Sport 1">
-    <title lang="hr">ABA LIGA: Budućnost VOLI - Krka</title>
-    <category lang="hr">Košarka</category>
-  </programme>
-  <programme start="20181004103000 +0300" stop="20181004110000 +0300" channel="Arena Sport 1">
-    <title lang="hr">MaxBet NEWS</title>
-    <category lang="hr">Vesti</category>
-  </programme>
-  <programme start="20181004110000 +0300" stop="20181004113000 +0300" channel="Arena Sport 1">
-    <title lang="hr">Belgijska Liga Pregled</title>
-  </programme>
-  <programme start="20181004113000 +0300" stop="20181004133000 +0300" channel="Arena Sport 1">
-    <title lang="hr">LIGA ŠAMPIONA: PSV - Inter</title>
-    <category lang="hr">Fudbal</category>
-  </programme>
-  <programme start="20181004133000 +0300" stop="20181004152500 +0300" channel="Arena Sport 1">
-    <title lang="hr">LIGA ŠAMPIONA: Tottenham - Barcelona</title>
-    <category lang="hr">Fudbal</category>
-  </programme>
-  <programme start="20181004152500 +0300" stop="20181004160000 +0300" channel="Arena Sport 1">
-    <title lang="hr">ABS Show</title>
-  </programme>
-  <programme start="20181004160000 +0300" stop="20181004165000 +0300" channel="Arena Sport 1">
-    <title lang="hr">LIGA EVROPE: Magazin</title>
-    <category lang="hr">Fudbal</category>
-  </programme>
-  <programme start="20181004165000 +0300" stop="20181004185500 +0300" channel="Arena Sport 1">
-    <title lang="hr">LIGA EVROPE: Astana - Rennes</title>
-    <category lang="hr">Fudbal</category>
-  </programme>
-  <programme start="20181004185500 +0300" stop="20181004210000 +0300" channel="Arena Sport 1">
-    <title lang="hr">LIGA EVROPE: Milan - Olympiacos</title>
-    <category lang="hr">Fudbal</category>
-  </programme>
-  <programme start="20181004210000 +0300" stop="20181004225500 +0300" channel="Arena Sport 1">
-    <title lang="hr">LIGA EVROPE: Spartak Moskva - Villarreal</title>
-    <category lang="hr">Fudbal</category>
-  </programme>
-  <programme start="20181004225500 +0300" stop="20181004233000 +0300" channel="Arena Sport 1">
-    <title lang="hr">MaxBet NEWS</title>
-    <category lang="hr">Vesti</category>
-  </programme>
-  <programme start="20181004233000 +0300" stop="20181005000000 +0300" channel="Arena Sport 1">
-    <title lang="hr">LIGA EVROPE: Pregled</title>
-    <category lang="hr">Fudbal</category>
+  <programme start="20181006220000 +0300" stop="20181007000000 +0300" channel="Arena Sport 5.hr">
+    <title lang="hr">FUTSAL DINAMO - BROD, futsal</title>
+    <category lang="hr">FUTSAL PRVA LIGA, snimka</category>
   </programme>
   <programme start="20181005000000 +0300" stop="20181005020000 +0300" channel="Arena Sport 1">
     <title lang="hr">LIGA EVROPE: Anderlecht - Dinamo</title>
@@ -771,62 +667,75 @@
     <title lang="hr">Son of the Congo</title>
     <category lang="hr">Dokumentarni film</category>
   </programme>
-  <programme start="20181004000000 +0300" stop="20181004013000 +0300" channel="Arena Sport 2">
-    <title lang="hr">SEHA LIGA: Tatran - Nexe</title>
-    <category lang="hr">Rukomet</category>
+  <programme start="20181006003000 +0300" stop="20181006023000 +0300" channel="Arena Sport 1">
+    <title lang="hr">FRANCUSKA LIGA: Toulouse - Nice</title>
+    <category lang="hr">Fudbal</category>
   </programme>
-  <programme start="20181004013000 +0300" stop="20181004040000 +0300" channel="Arena Sport 2">
-    <title lang="hr">NHL: Boston - Washington</title>
+  <programme start="20181006023000 +0300" stop="20181006040000 +0300" channel="Arena Sport 1">
+    <title lang="hr">SVETSKI KUP: Budimpešta Dan 2</title>
+    <category lang="hr">Plivanje</category>
+  </programme>
+  <programme start="20181006040000 +0300" stop="20181006043000 +0300" channel="Arena Sport 1">
+    <title lang="hr">KOTV Weekly: Magazin</title>
+  </programme>
+  <programme start="20181006043000 +0300" stop="20181006060000 +0300" channel="Arena Sport 1">
+    <title lang="hr">NHL: San Jose - Los Angeles</title>
     <category lang="hr">Hokej</category>
   </programme>
-  <programme start="20181004040000 +0300" stop="20181004043000 +0300" channel="Arena Sport 2">
-    <title lang="hr">WRC Najava Wales</title>
-    <category lang="hr">Automoto sport</category>
+  <programme start="20181006060000 +0300" stop="20181006070000 +0300" channel="Arena Sport 1">
+    <title lang="hr">NHL: San Jose - Los Angeles</title>
+    <category lang="hr">Hokej</category>
   </programme>
-  <programme start="20181004043000 +0300" stop="20181004060000 +0300" channel="Arena Sport 2">
-    <title lang="hr">SEHA LIGA: Vardar - Vojvodina</title>
+  <programme start="20181006070000 +0300" stop="20181006073000 +0300" channel="Arena Sport 1">
+    <title lang="hr">Arena eGames</title>
+  </programme>
+  <programme start="20181006073000 +0300" stop="20181006090000 +0300" channel="Arena Sport 1">
+    <title lang="hr">EHF LIGA ŠAMPIONA: SG Flensburg-Handewitt - HC Motor Zaporozhye</title>
     <category lang="hr">Rukomet</category>
   </programme>
-  <programme start="20181004060000 +0300" stop="20181004074500 +0300" channel="Arena Sport 2">
-    <title lang="hr">ABA LIGA: Crvena zvezda - Cibona</title>
+  <programme start="20181006090000 +0300" stop="20181006103000 +0300" channel="Arena Sport 1">
+    <title lang="hr">ABA LIGA: FMP - Zadar</title>
     <category lang="hr">Košarka</category>
   </programme>
-  <programme start="20181004074500 +0300" stop="20181004100000 +0300" channel="Arena Sport 2">
-    <title lang="hr">MLB: Wild card</title>
-    <category lang="hr">Bejzbol</category>
+  <programme start="20181006103000 +0300" stop="20181006110000 +0300" channel="Arena Sport 1">
+    <title lang="hr">MaxBet NEWS</title>
+    <category lang="hr">Vesti</category>
   </programme>
-  <programme start="20181004100000 +0300" stop="20181004120000 +0300" channel="Arena Sport 2">
-    <title lang="hr">KOTV Classics</title>
-  </programme>
-  <programme start="20181004120000 +0300" stop="20181004143000 +0300" channel="Arena Sport 2">
-    <title lang="hr">MLB: Wild card</title>
-    <category lang="hr">Bejzbol</category>
-  </programme>
-  <programme start="20181004143000 +0300" stop="20181004161500 +0300" channel="Arena Sport 2">
-    <title lang="hr">ABA LIGA: Budućnost VOLI - Krka</title>
-    <category lang="hr">Košarka</category>
-  </programme>
-  <programme start="20181004161500 +0300" stop="20181004163000 +0300" channel="Arena Sport 2">
-    <title lang="hr">Red Bull Worldies,3</title>
-  </programme>
-  <programme start="20181004163000 +0300" stop="20181004170000 +0300" channel="Arena Sport 2">
-    <title lang="hr">ABA LIGA: Pregled</title>
-  </programme>
-  <programme start="20181004170000 +0300" stop="20181004185500 +0300" channel="Arena Sport 2">
-    <title lang="hr">ABA 2. LIGA: Spars - Sixt Primorska</title>
-    <category lang="hr">Košarka</category>
-  </programme>
-  <programme start="20181004185500 +0300" stop="20181004210000 +0300" channel="Arena Sport 2">
-    <title lang="hr">LIGA EVROPE: MULTIPRENOS Fenerbahçe - Spartak Trnava</title>
+  <programme start="20181006110000 +0300" stop="20181006113000 +0300" channel="Arena Sport 1">
+    <title lang="hr">LIGA EVROPE: Pregled</title>
     <category lang="hr">Fudbal</category>
   </programme>
-  <programme start="20181004210000 +0300" stop="20181004230000 +0300" channel="Arena Sport 2">
-    <title lang="hr">LIGA EVROPE: MULTIPRENOS Apollon - Marseille</title>
+  <programme start="20181006113000 +0300" stop="20181006131500 +0300" channel="Arena Sport 1">
+    <title lang="hr">EHF LIGA ŠAMPIONA (Ž): Rostov-Don - IK Sävehof</title>
+    <category lang="hr">Rukomet</category>
+  </programme>
+  <programme start="20181006131500 +0300" stop="20181006150000 +0300" channel="Arena Sport 1">
+    <title lang="hr">ŠPANSKA LIGA: Jimbee Cartagena FS - CA Osasuna Magna</title>
+    <category lang="hr">Futsal</category>
+  </programme>
+  <programme start="20181006150000 +0300" stop="20181006170000 +0300" channel="Arena Sport 1">
+    <title lang="hr">ITALIJANSKA LIGA: Cagliari - Bologna</title>
     <category lang="hr">Fudbal</category>
   </programme>
-  <programme start="20181004230000 +0300" stop="20181005010000 +0300" channel="Arena Sport 2">
-    <title lang="hr">SVETSKI KUP: Budimpešta Dan 1</title>
-    <category lang="hr">Plivanje</category>
+  <programme start="20181006170000 +0300" stop="20181006190000 +0300" channel="Arena Sport 1">
+    <title lang="hr">FRANCUSKA LIGA: Lille - Saint-Etienne</title>
+    <category lang="hr">Fudbal</category>
+  </programme>
+  <programme start="20181006190000 +0300" stop="20181006210000 +0300" channel="Arena Sport 1">
+    <title lang="hr">ABA LIGA: Mega Bemax - FMP</title>
+    <category lang="hr">Košarka</category>
+  </programme>
+  <programme start="20181006210000 +0300" stop="20181006225500 +0300" channel="Arena Sport 1">
+    <title lang="hr">ABA LIGA: Partizan NIS - Petrol Olimpija</title>
+    <category lang="hr">Košarka</category>
+  </programme>
+  <programme start="20181006225500 +0300" stop="20181006233000 +0300" channel="Arena Sport 1">
+    <title lang="hr">MaxBet NEWS</title>
+    <category lang="hr">Vesti</category>
+  </programme>
+  <programme start="20181006233000 +0300" stop="20181007011500 +0300" channel="Arena Sport 1">
+    <title lang="hr">ITALIJANSKA LIGA: Udinese - Juventus</title>
+    <category lang="hr">Fudbal</category>
   </programme>
   <programme start="20181005010000 +0300" stop="20181005033000 +0300" channel="Arena Sport 2">
     <title lang="hr">NHL: Washington - Pittsburgh</title>
@@ -890,64 +799,66 @@
   <programme start="20181005230000 +0300" stop="20181005233000 +0300" channel="Arena Sport 2">
     <title lang="hr">KOTV Weekly: Magazin</title>
   </programme>
-  <programme start="20181005233000 +0300" stop="20181006023000 +0300" channel="Arena Sport 2">
-    <title lang="hr">MLB: Playoff</title>
+  <programme start="20181005233000 +0300" stop="20181006013000 +0300" channel="Arena Sport 2">
+    <title lang="hr">SVETSKI KUP: Budimpešta Dan 2</title>
+    <category lang="hr">Plivanje</category>
+  </programme>
+  <programme start="20181006013000 +0300" stop="20181006043000 +0300" channel="Arena Sport 2">
+    <title lang="hr">MLB: Playoff Boston - NY Yankees</title>
     <category lang="hr">Bejzbol</category>
   </programme>
-  <programme start="20181004004500 +0300" stop="20181004024500 +0300" channel="Arena Sport 3">
-    <title lang="hr">LIGA ŠAMPIONA: PSV - Inter</title>
+  <programme start="20181006043000 +0300" stop="20181006060000 +0300" channel="Arena Sport 2">
+    <title lang="hr">EHF LIGA ŠAMPIONA (Ž): CSM Bucuresti - FTC-Rail Cargo Hungaria</title>
+    <category lang="hr">Rukomet</category>
+  </programme>
+  <programme start="20181006060000 +0300" stop="20181006074500 +0300" channel="Arena Sport 2">
+    <title lang="hr">ABA 2. LIGA: Spars - Sixt Primorska</title>
+    <category lang="hr">Košarka</category>
+  </programme>
+  <programme start="20181006074500 +0300" stop="20181006081500 +0300" channel="Arena Sport 2">
+    <title lang="hr">ENDESA LIGA:Pregled</title>
+    <category lang="hr">Košarka</category>
+  </programme>
+  <programme start="20181006081500 +0300" stop="20181006100000 +0300" channel="Arena Sport 2">
+    <title lang="hr">SVETSKI KUP: Budimpešta Dan 2</title>
+    <category lang="hr">Plivanje</category>
+  </programme>
+  <programme start="20181006100000 +0300" stop="20181006120000 +0300" channel="Arena Sport 2">
+    <title lang="hr">KOTV Classics</title>
+  </programme>
+  <programme start="20181006120000 +0300" stop="20181006123000 +0300" channel="Arena Sport 2">
+    <title lang="hr">KOTV Weekly: Magazin</title>
+  </programme>
+  <programme start="20181006123000 +0300" stop="20181006130000 +0300" channel="Arena Sport 2">
+    <title lang="hr">WRC Najava Wales</title>
+    <category lang="hr">Automoto sport</category>
+  </programme>
+  <programme start="20181006130000 +0300" stop="20181006140000 +0300" channel="Arena Sport 2">
+    <title lang="hr">WRC VELIKA BRITANIJA: Live Stage 1</title>
+    <category lang="hr">Automoto sport</category>
+  </programme>
+  <programme start="20181006140000 +0300" stop="20181006160000 +0300" channel="Arena Sport 2">
+    <title lang="hr">NHL: San Jose - Los Angeles</title>
+    <category lang="hr">Hokej</category>
+  </programme>
+  <programme start="20181006160000 +0300" stop="20181006174500 +0300" channel="Arena Sport 2">
+    <title lang="hr">EHF LIGA ŠAMPIONA: Barça Lassa - Montpellier HB</title>
+    <category lang="hr">Rukomet</category>
+  </programme>
+  <programme start="20181006174500 +0300" stop="20181006180000 +0300" channel="Arena Sport 2">
+    <title lang="hr">FIFA Football</title>
+  </programme>
+  <programme start="20181006180000 +0300" stop="20181006200000 +0300" channel="Arena Sport 2">
+    <title lang="hr">ITALIJANSKA LIGA: Udinese - Juventus</title>
     <category lang="hr">Fudbal</category>
   </programme>
-  <programme start="20181004024500 +0300" stop="20181004044500 +0300" channel="Arena Sport 3">
-    <title lang="hr">COPA LIBERTADORES: Palmeiras - Colo Colo</title>
+  <programme start="20181006200000 +0300" stop="20181006220000 +0300" channel="Arena Sport 2">
+    <title lang="hr">FRANCUSKA LIGA: Nimes - Reims</title>
     <category lang="hr">Fudbal</category>
   </programme>
-  <programme start="20181004044500 +0300" stop="20181004060000 +0300" channel="Arena Sport 3">
-    <title lang="hr">LIGA ŠAMPIONA: Pregled</title>
-    <category lang="hr">Fudbal</category>
-  </programme>
-  <programme start="20181004060000 +0300" stop="20181004080000 +0300" channel="Arena Sport 3">
-    <title lang="hr">ITALIJANSKA LIGA: Sassuolo - Milan</title>
-    <category lang="hr">Fudbal</category>
-  </programme>
-  <programme start="20181004080000 +0300" stop="20181004100000 +0300" channel="Arena Sport 3">
-    <title lang="hr">PRVA LIGA SRBIJE: Javor Matis - Radnički Kragujevac</title>
-    <category lang="hr">Fudbal</category>
-  </programme>
-  <programme start="20181004100000 +0300" stop="20181004120000 +0300" channel="Arena Sport 3">
-    <title lang="hr">LIGA ŠAMPIONA: Atlético Madrid - Club Brugge</title>
-    <category lang="hr">Fudbal</category>
-  </programme>
-  <programme start="20181004120000 +0300" stop="20181004134500 +0300" channel="Arena Sport 3">
-    <title lang="hr">ITALIJANSKA LIGA: Juventus - Napoli</title>
-    <category lang="hr">Fudbal</category>
-  </programme>
-  <programme start="20181004134500 +0300" stop="20181004153000 +0300" channel="Arena Sport 3">
-    <title lang="hr">COPA LIBERTADORES: Palmeiras - Colo Colo</title>
-    <category lang="hr">Fudbal</category>
-  </programme>
-  <programme start="20181004153000 +0300" stop="20181004160000 +0300" channel="Arena Sport 3">
-    <title lang="hr">Dream teams,15</title>
-  </programme>
-  <programme start="20181004160000 +0300" stop="20181004180000 +0300" channel="Arena Sport 3">
-    <title lang="hr">LIGA ŠAMPIONA:Napoli - Liverpool</title>
-    <category lang="hr">Fudbal</category>
-  </programme>
-  <programme start="20181004180000 +0300" stop="20181004185500 +0300" channel="Arena Sport 3">
-    <title lang="hr">LIGA ŠAMPIONA: Pregled</title>
-    <category lang="hr">Fudbal</category>
-  </programme>
-  <programme start="20181004185500 +0300" stop="20181004210000 +0300" channel="Arena Sport 3">
-    <title lang="hr">LIGA EVROPE: Anderlecht - Dinamo</title>
-    <category lang="hr">Fudbal</category>
-  </programme>
-  <programme start="20181004210000 +0300" stop="20181004230000 +0300" channel="Arena Sport 3">
-    <title lang="hr">LIGA EVROPE: Chelsea - Vidi</title>
-    <category lang="hr">Fudbal</category>
-  </programme>
-  <programme start="20181004230000 +0300" stop="20181005010000 +0300" channel="Arena Sport 3">
-    <title lang="hr">LIGA EVROPE: Salzburg - Celtic</title>
-    <category lang="hr">Fudbal</category>
+  <programme start="20181006220000 +0300" stop="20181007000000 +0300" channel="Arena Sport 2">
+    <title lang="hr">World boxing super series: Groves - Smith</title>
+    <category lang="hr">Boks</category>
   </programme>
   <programme start="20181005010000 +0300" stop="20181005030000 +0300" channel="Arena Sport 3">
     <title lang="hr">LIGA EVROPE: Zenit - Slavia Praha</title>
@@ -1009,69 +920,63 @@
     <title lang="hr">LIGA ŠAMPIONA: PSG - Crvena zvezda</title>
     <category lang="hr">Fudbal</category>
   </programme>
-  <programme start="20181004000000 +0300" stop="20181004020000 +0300" channel="Arena Sport 4">
-    <title lang="hr">LIGA ŠAMPIONA:Napoli - Liverpool</title>
+  <programme start="20181006003000 +0300" stop="20181006021500 +0300" channel="Arena Sport 3">
+    <title lang="hr">SUPER LIGA SRBIJE: Partizan - Voždovac</title>
     <category lang="hr">Fudbal</category>
   </programme>
-  <programme start="20181004020000 +0300" stop="20181004050000 +0300" channel="Arena Sport 4">
-    <title lang="hr">MLB:Wild card Oakland - NY Yankees</title>
-    <category lang="hr">Bejzbol</category>
-  </programme>
-  <programme start="20181004050000 +0300" stop="20181004053000 +0300" channel="Arena Sport 4">
-    <title lang="hr">Send it,5</title>
-  </programme>
-  <programme start="20181004053000 +0300" stop="20181004060000 +0300" channel="Arena Sport 4">
-    <title lang="hr">Send it,6</title>
-  </programme>
-  <programme start="20181004060000 +0300" stop="20181004080000 +0300" channel="Arena Sport 4">
-    <title lang="hr">SVETSKI KUP: Eindhoven Dan 3</title>
-    <category lang="hr">Plivanje</category>
-  </programme>
-  <programme start="20181004080000 +0300" stop="20181004100000 +0300" channel="Arena Sport 4">
-    <title lang="hr">LIGA ŠAMPIONA: Lokomotiv Moskva - Schalke</title>
+  <programme start="20181006021500 +0300" stop="20181006040000 +0300" channel="Arena Sport 3">
+    <title lang="hr">KUP CRNE GORE: Petrovac - OFK Titograd</title>
     <category lang="hr">Fudbal</category>
   </programme>
-  <programme start="20181004100000 +0300" stop="20181004103000 +0300" channel="Arena Sport 4">
-    <title lang="hr">FIFA Football</title>
+  <programme start="20181006040000 +0300" stop="20181006060000 +0300" channel="Arena Sport 3">
+    <title lang="hr">COPA LIBERTADORES: Palmeiras - Colo Colo</title>
+    <category lang="hr">Fudbal</category>
   </programme>
-  <programme start="20181004103000 +0300" stop="20181004110000 +0300" channel="Arena Sport 4">
-    <title lang="hr">Brazilska liga Pregled</title>
+  <programme start="20181006060000 +0300" stop="20181006080000 +0300" channel="Arena Sport 3">
+    <title lang="hr">FRANCUSKA 2. LIGA</title>
+    <category lang="hr">Fudbal</category>
   </programme>
-  <programme start="20181004110000 +0300" stop="20181004120000 +0300" channel="Arena Sport 4">
-    <title lang="hr">WSOP 2017: Epizoda 11</title>
-    <category lang="hr">POKER</category>
+  <programme start="20181006080000 +0300" stop="20181006100000 +0300" channel="Arena Sport 3">
+    <title lang="hr">LIGA EVROPE: Anderlecht - Dinamo</title>
+    <category lang="hr">Fudbal</category>
   </programme>
-  <programme start="20181004120000 +0300" stop="20181004134500 +0300" channel="Arena Sport 4">
-    <title lang="hr">ABA LIGA: Crvena zvezda - Cibona</title>
+  <programme start="20181006100000 +0300" stop="20181006120000 +0300" channel="Arena Sport 3">
+    <title lang="hr">LIGA ŠAMPIONA: Manchester United - Valencia</title>
+    <category lang="hr">Fudbal</category>
+  </programme>
+  <programme start="20181006120000 +0300" stop="20181006140000 +0300" channel="Arena Sport 3">
+    <title lang="hr">FRANCUSKA LIGA: Toulouse - Nice</title>
+    <category lang="hr">Fudbal</category>
+  </programme>
+  <programme start="20181006140000 +0300" stop="20181006143000 +0300" channel="Arena Sport 3">
+    <title lang="hr">LIGA EVROPE: Pregled</title>
+    <category lang="hr">Fudbal</category>
+  </programme>
+  <programme start="20181006143000 +0300" stop="20181006150000 +0300" channel="Arena Sport 3">
+    <title lang="hr">Liga šampiona: -magazin</title>
+  </programme>
+  <programme start="20181006150000 +0300" stop="20181006170000 +0300" channel="Arena Sport 3">
+    <title lang="hr">HRVATSKA LIGA: Gorica - Rijeka</title>
+    <category lang="hr">Fudbal</category>
+  </programme>
+  <programme start="20181006170000 +0300" stop="20181006190000 +0300" channel="Arena Sport 3">
+    <title lang="hr">ABA LIGA: Zadar - Cedevita</title>
     <category lang="hr">Košarka</category>
   </programme>
-  <programme start="20181004134500 +0300" stop="20181004144500 +0300" channel="Arena Sport 4">
-    <title lang="hr">WRC NEMAČKA: Pregled</title>
-    <category lang="hr">Automoto sport</category>
-  </programme>
-  <programme start="20181004144500 +0300" stop="20181004151500 +0300" channel="Arena Sport 4">
-    <title lang="hr">PRVA LIGA SRBIJE: Pregled kola</title>
-    <category lang="hr">Studijska emisija</category>
-  </programme>
-  <programme start="20181004151500 +0300" stop="20181004170000 +0300" channel="Arena Sport 4">
-    <title lang="hr">EHF LIGA ŠAMPIONA: SG Flensburg-Handewitt - HC Motor Zaporozhye</title>
+  <programme start="20181006190000 +0300" stop="20181006204500 +0300" channel="Arena Sport 3">
+    <title lang="hr">EHF LIGA ŠAMPIONA (Ž): Budućnost - Odense</title>
     <category lang="hr">Rukomet</category>
   </programme>
-  <programme start="20181004170000 +0300" stop="20181004185500 +0300" channel="Arena Sport 4">
-    <title lang="hr">NHL: Boston - Washington</title>
-    <category lang="hr">Hokej</category>
-  </programme>
-  <programme start="20181004185500 +0300" stop="20181004210000 +0300" channel="Arena Sport 4">
-    <title lang="hr">LIGA EVROPE: Salzburg - Celtic</title>
+  <programme start="20181006204500 +0300" stop="20181006224500 +0300" channel="Arena Sport 3">
+    <title lang="hr">LIGA ŠAMPIONA: Bayern München - Ajax</title>
     <category lang="hr">Fudbal</category>
   </programme>
-  <programme start="20181004210000 +0300" stop="20181004230000 +0300" channel="Arena Sport 4">
-    <title lang="hr">LIGA EVROPE: Rangers - Rapid</title>
-    <category lang="hr">Fudbal</category>
+  <programme start="20181006224500 +0300" stop="20181006230000 +0300" channel="Arena Sport 3">
+    <title lang="hr">Brazilska liga Pregled</title>
   </programme>
-  <programme start="20181004230000 +0300" stop="20181005000000 +0300" channel="Arena Sport 4">
-    <title lang="hr">WSOP 2017: Epizoda 13</title>
-    <category lang="hr">POKER</category>
+  <programme start="20181006230000 +0300" stop="20181007010000 +0300" channel="Arena Sport 3">
+    <title lang="hr">BRAZILSKA LIGA: Sao Paulo - Palmeiras</title>
+    <category lang="hr">Fudbal</category>
   </programme>
   <programme start="20181005000000 +0300" stop="20181005014500 +0300" channel="Arena Sport 4">
     <title lang="hr">LIGA EVROPE: Chelsea - Vidi</title>
@@ -1145,24 +1050,82 @@
     <title lang="hr">WSOP 2017: Epizoda 14</title>
     <category lang="hr">POKER</category>
   </programme>
-  <programme start="20181004150000 +0300" stop="20181004170000 +0300" channel="Arena Sport 5">
-    <title lang="hr">KUP CRNE GORE: Petrovac - OFK Titograd</title>
+  <programme start="20181006000000 +0300" stop="20181006014500 +0300" channel="Arena Sport 4">
+    <title lang="hr">ABA LIGA: Crvena zvezda - Cibona</title>
+    <category lang="hr">Košarka</category>
+  </programme>
+  <programme start="20181006014500 +0300" stop="20181006024500 +0300" channel="Arena Sport 4">
+    <title lang="hr">Red Bull Air race: Neustad Pregled</title>
+  </programme>
+  <programme start="20181006024500 +0300" stop="20181006031500 +0300" channel="Arena Sport 4">
+    <title lang="hr">KOTV Weekly: Magazin</title>
+  </programme>
+  <programme start="20181006031500 +0300" stop="20181006034500 +0300" channel="Arena Sport 4">
+    <title lang="hr">Ultimate rush,2</title>
+  </programme>
+  <programme start="20181006034500 +0300" stop="20181006041500 +0300" channel="Arena Sport 4">
+    <title lang="hr">Xtreme collixtion,22</title>
+  </programme>
+  <programme start="20181006041500 +0300" stop="20181006060000 +0300" channel="Arena Sport 4">
+    <title lang="hr">LIGA ŠAMPIONA: Atlético Madrid - Club Brugge</title>
     <category lang="hr">Fudbal</category>
   </programme>
-  <programme start="20181004170000 +0300" stop="20181004173000 +0300" channel="Arena Sport 5">
-    <title lang="hr">EHF LIGA ŠAMPIONA: Pregled</title>
-  </programme>
-  <programme start="20181004173000 +0300" stop="20181004185500 +0300" channel="Arena Sport 5">
-    <title lang="hr">O.J.: Made in America,4</title>
-    <category lang="hr">Dokumentarni film</category>
-  </programme>
-  <programme start="20181004185500 +0300" stop="20181004210000 +0300" channel="Arena Sport 5">
-    <title lang="hr">LIGA EVROPE: Zenit - Slavia Praha</title>
+  <programme start="20181006060000 +0300" stop="20181006080000 +0300" channel="Arena Sport 4">
+    <title lang="hr">LIGA EVROPE: Salzburg - Celtic</title>
     <category lang="hr">Fudbal</category>
   </programme>
-  <programme start="20181004210000 +0300" stop="20181004230000 +0300" channel="Arena Sport 5">
-    <title lang="hr">LIGA EVROPE: Krasnodar - Sevilla</title>
+  <programme start="20181006080000 +0300" stop="20181006083000 +0300" channel="Arena Sport 4">
+    <title lang="hr">ITALIJANSKA LIGA: Najava kola</title>
+    <category lang="hr">Studijska emisija</category>
+  </programme>
+  <programme start="20181006083000 +0300" stop="20181006090000 +0300" channel="Arena Sport 4">
+    <title lang="hr">FRANCUSKA LIGA: Najava kola</title>
+    <category lang="hr">Studijska emisija</category>
+  </programme>
+  <programme start="20181006090000 +0300" stop="20181006110000 +0300" channel="Arena Sport 4">
+    <title lang="hr">ITALIJANSKA LIGA: Torino - Frosinone</title>
     <category lang="hr">Fudbal</category>
+  </programme>
+  <programme start="20181006110000 +0300" stop="20181006120000 +0300" channel="Arena Sport 4">
+    <title lang="hr">WSOP 2017: Epizoda 13</title>
+    <category lang="hr">POKER</category>
+  </programme>
+  <programme start="20181006120000 +0300" stop="20181006134500 +0300" channel="Arena Sport 4">
+    <title lang="hr">ENDESA LIGA: Valencia - Real Madrid</title>
+    <category lang="hr">Košarka</category>
+  </programme>
+  <programme start="20181006134500 +0300" stop="20181006143000 +0300" channel="Arena Sport 4">
+    <title lang="hr">LIGA ŠAMPIONA: Pregled</title>
+    <category lang="hr">Fudbal</category>
+  </programme>
+  <programme start="20181006143000 +0300" stop="20181006163000 +0300" channel="Arena Sport 4">
+    <title lang="hr">PRVA LIGA CRNE GORE: OFK Titograd - Iskra</title>
+    <category lang="hr">Fudbal</category>
+  </programme>
+  <programme start="20181006163000 +0300" stop="20181006173000 +0300" channel="Arena Sport 4">
+    <title lang="hr">WRC VELIKA BRITANIJA: Live Stage 1</title>
+    <category lang="hr">Automoto sport</category>
+  </programme>
+  <programme start="20181006173000 +0300" stop="20181006191500 +0300" channel="Arena Sport 4">
+    <title lang="hr">EHF LIGA ŠAMPIONA: HC Vardar - Rhein‐Neckar Löwen</title>
+    <category lang="hr">Rukomet</category>
+  </programme>
+  <programme start="20181006191500 +0300" stop="20181006194500 +0300" channel="Arena Sport 4">
+    <title lang="hr">KOTV Weekly: Magazin</title>
+  </programme>
+  <programme start="20181006194500 +0300" stop="20181006203000 +0300" channel="Arena Sport 4">
+    <title lang="hr">Copa Libertadores Pregled</title>
+  </programme>
+  <programme start="20181006203000 +0300" stop="20181006223000 +0300" channel="Arena Sport 4">
+    <title lang="hr">ITALIJANSKA LIGA: Empoli - Roma</title>
+    <category lang="hr">Fudbal</category>
+  </programme>
+  <programme start="20181006223000 +0300" stop="20181006230000 +0300" channel="Arena Sport 4">
+    <title lang="hr">FIFA Football</title>
+  </programme>
+  <programme start="20181006230000 +0300" stop="20181007004500 +0300" channel="Arena Sport 4">
+    <title lang="hr">ŠPANSKA LIGA: Jimbee Cartagena FS - CA Osasuna Magna</title>
+    <category lang="hr">Futsal</category>
   </programme>
   <programme start="20181005150000 +0300" stop="20181005165000 +0300" channel="Arena Sport 5">
     <title lang="hr">SVETSKI KUP: Budimpešta Dan 1</title>
@@ -1180,81 +1143,28 @@
     <title lang="hr">SRPSKA LIGA: Dunav - OKK Beograd</title>
     <category lang="hr">Kоšarka</category>
   </programme>
-  <programme start="20181004004000 +0300" stop="20181004011000 +0300" channel="Arena Sport 1 BiH">
-    <title lang="hr">MaxBet NEWS</title>
-    <category lang="hr">Vesti</category>
-  </programme>
-  <programme start="20181004011000 +0300" stop="20181004030000 +0300" channel="Arena Sport 1 BiH">
-    <title lang="hr">LIGA ŠAMPIONA: Tottenham - Barcelona</title>
-    <category lang="hr">Fudbal</category>
-  </programme>
-  <programme start="20181004030000 +0300" stop="20181004043000 +0300" channel="Arena Sport 1 BiH">
-    <title lang="hr">EHF LIGA ŠAMPIONA: SG Flensburg-Handewitt - HC Motor Zaporozhye</title>
+  <programme start="20181006150000 +0300" stop="20181006164500 +0300" channel="Arena Sport 5">
+    <title lang="hr">EHF LIGA ŠAMPIONA: HC Meskov Brest - Telekom Veszprém HC</title>
     <category lang="hr">Rukomet</category>
   </programme>
-  <programme start="20181004043000 +0300" stop="20181004060000 +0300" channel="Arena Sport 1 BiH">
-    <title lang="hr">BRAZILSKA LIGA: Santos - Sao Paolo</title>
+  <programme start="20181006164500 +0300" stop="20181006173000 +0300" channel="Arena Sport 5">
+    <title lang="hr">LIGA ŠAMPIONA: Pregled</title>
     <category lang="hr">Fudbal</category>
   </programme>
-  <programme start="20181004060000 +0300" stop="20181004063000 +0300" channel="Arena Sport 1 BiH">
-    <title lang="hr">BRAZILSKA LIGA: Santos - Sao Paolo</title>
-    <category lang="hr">Fudbal</category>
-  </programme>
-  <programme start="20181004063000 +0300" stop="20181004070000 +0300" channel="Arena Sport 1 BiH">
-    <title lang="hr">Dream teams,11</title>
-  </programme>
-  <programme start="20181004070000 +0300" stop="20181004073000 +0300" channel="Arena Sport 1 BiH">
-    <title lang="hr">FIFA Football</title>
-  </programme>
-  <programme start="20181004073000 +0300" stop="20181004090000 +0300" channel="Arena Sport 1 BiH">
-    <title lang="hr">EHF LIGA ŠAMPIONA: Riihimäen Cocks - Dinamo Bucurest</title>
+  <programme start="20181006173000 +0300" stop="20181006190000 +0300" channel="Arena Sport 5">
+    <title lang="hr">EHF LIGA ŠAMPIONA: Paris Saint-Germain HB - HBC Nantes</title>
     <category lang="hr">Rukomet</category>
   </programme>
-  <programme start="20181004090000 +0300" stop="20181004103000 +0300" channel="Arena Sport 1 BiH">
-    <title lang="hr">ABA LIGA: Budućnost VOLI - Krka</title>
-    <category lang="hr">Košarka</category>
+  <programme start="20181006190000 +0300" stop="20181006213000 +0300" channel="Arena Sport 5">
+    <title lang="hr">NHL: Edmonton - New Jersey</title>
+    <category lang="hr">Hokej</category>
   </programme>
-  <programme start="20181004103000 +0300" stop="20181004110000 +0300" channel="Arena Sport 1 BiH">
-    <title lang="hr">MaxBet NEWS</title>
-    <category lang="hr">Vesti</category>
+  <programme start="20181006213000 +0300" stop="20181006220000 +0300" channel="Arena Sport 5">
+    <title lang="hr">Dream teams,18</title>
   </programme>
-  <programme start="20181004110000 +0300" stop="20181004113000 +0300" channel="Arena Sport 1 BiH">
-    <title lang="hr">Belgijska Liga Pregled</title>
-  </programme>
-  <programme start="20181004113000 +0300" stop="20181004133000 +0300" channel="Arena Sport 1 BiH">
-    <title lang="hr">LIGA ŠAMPIONA: PSV - Inter</title>
-    <category lang="hr">Fudbal</category>
-  </programme>
-  <programme start="20181004133000 +0300" stop="20181004152500 +0300" channel="Arena Sport 1 BiH">
-    <title lang="hr">LIGA ŠAMPIONA: Tottenham - Barcelona</title>
-    <category lang="hr">Fudbal</category>
-  </programme>
-  <programme start="20181004152500 +0300" stop="20181004160000 +0300" channel="Arena Sport 1 BiH">
-    <title lang="hr">ABS Show</title>
-  </programme>
-  <programme start="20181004160000 +0300" stop="20181004165000 +0300" channel="Arena Sport 1 BiH">
-    <title lang="hr">LIGA EVROPE: Magazin</title>
-    <category lang="hr">Fudbal</category>
-  </programme>
-  <programme start="20181004165000 +0300" stop="20181004185500 +0300" channel="Arena Sport 1 BiH">
-    <title lang="hr">LIGA EVROPE: Astana - Rennes</title>
-    <category lang="hr">Fudbal</category>
-  </programme>
-  <programme start="20181004185500 +0300" stop="20181004210000 +0300" channel="Arena Sport 1 BiH">
-    <title lang="hr">LIGA EVROPE: Milan - Olympiacos</title>
-    <category lang="hr">Fudbal</category>
-  </programme>
-  <programme start="20181004210000 +0300" stop="20181004225500 +0300" channel="Arena Sport 1 BiH">
-    <title lang="hr">LIGA EVROPE: Eintracht Frankfurt - Lazio</title>
-    <category lang="hr">Fudbal</category>
-  </programme>
-  <programme start="20181004225500 +0300" stop="20181004233000 +0300" channel="Arena Sport 1 BiH">
-    <title lang="hr">MaxBet NEWS</title>
-    <category lang="hr">Vesti</category>
-  </programme>
-  <programme start="20181004233000 +0300" stop="20181005000000 +0300" channel="Arena Sport 1 BiH">
-    <title lang="hr">LIGA EVROPE: Pregled</title>
-    <category lang="hr">Fudbal</category>
+  <programme start="20181006220000 +0300" stop="20181007000000 +0300" channel="Arena Sport 5">
+    <title lang="hr">SVETSKI KUP: Budimpešta Dan 3</title>
+    <category lang="hr">Plivanje</category>
   </programme>
   <programme start="20181005000000 +0300" stop="20181005020000 +0300" channel="Arena Sport 1 BiH">
     <title lang="hr">LIGA EVROPE: Anderlecht - Dinamo</title>
@@ -1335,1138 +1245,74 @@
     <title lang="hr">Son of the Congo</title>
     <category lang="hr">Dokumentarni film</category>
   </programme>
-  <programme start="20181004000000 +0300" stop="20181004010000 +0300" channel="Digi Sport 1">
-    <title lang="ro">Live Euro Fotbal</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004010000 +0300" stop="20181004023000 +0300" channel="Digi Sport 1">
-    <title lang="ro">Premiera Rezumate UEFA Champions League</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004023000 +0300" stop="20181004024500 +0300" channel="Digi Sport 1">
-    <title lang="ro">Stirile Digi Sport</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004024500 +0300" stop="20181004043000 +0300" channel="Digi Sport 1">
-    <title lang="ro">Fotbal: Tottenham - Barcelona UEFA Champions League</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004043000 +0300" stop="20181004053000 +0300" channel="Digi Sport 1">
-    <title lang="ro">Euro Fotbal</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004053000 +0300" stop="20181004070000 +0300" channel="Digi Sport 1">
-    <title lang="ro">Rezumate UEFA Champions League</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004070000 +0300" stop="20181004073000 +0300" channel="Digi Sport 1">
-    <title lang="ro">Stirile Digi Sport</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004073000 +0300" stop="20181004080000 +0300" channel="Digi Sport 1">
-    <title lang="ro">Stirile Digi Sport</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004080000 +0300" stop="20181004083000 +0300" channel="Digi Sport 1">
-    <title lang="ro">Stirile Digi Sport</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004083000 +0300" stop="20181004090000 +0300" channel="Digi Sport 1">
-    <title lang="ro">Stirile Digi Sport</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004090000 +0300" stop="20181004093000 +0300" channel="Digi Sport 1">
-    <title lang="ro">Stirile Digi Sport</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004093000 +0300" stop="20181004100000 +0300" channel="Digi Sport 1">
-    <title lang="ro">Stirile Digi Sport</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004100000 +0300" stop="20181004101500 +0300" channel="Digi Sport 1">
-    <title lang="ro">Live Stirile Digi Sport</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004101500 +0300" stop="20181004110000 +0300" channel="Digi Sport 1">
-    <title lang="ro">Live Digi Sport Matinal</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004110000 +0300" stop="20181004111500 +0300" channel="Digi Sport 1">
-    <title lang="ro">Live Stirile Digi Sport</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004111500 +0300" stop="20181004120000 +0300" channel="Digi Sport 1">
-    <title lang="ro">Live Digi Sport Matinal</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004120000 +0300" stop="20181004121500 +0300" channel="Digi Sport 1">
-    <title lang="ro">Live Stirile Digi Sport</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004121500 +0300" stop="20181004130000 +0300" channel="Digi Sport 1">
-    <title lang="ro">Euro Fotbal</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004130000 +0300" stop="20181004131500 +0300" channel="Digi Sport 1">
-    <title lang="ro">Live Stirile Digi Sport</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004131500 +0300" stop="20181004140000 +0300" channel="Digi Sport 1">
-    <title lang="ro">Digi Sport Matinal</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004140000 +0300" stop="20181004141500 +0300" channel="Digi Sport 1">
-    <title lang="ro">Live Stirile Digi Sport</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004141500 +0300" stop="20181004150000 +0300" channel="Digi Sport 1">
-    <title lang="ro">Digi Sport Matinal</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004150000 +0300" stop="20181004151500 +0300" channel="Digi Sport 1">
-    <title lang="ro">Live Stirile Digi Sport</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004151500 +0300" stop="20181004160000 +0300" channel="Digi Sport 1">
-    <title lang="ro">Euro Fotbal</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004160000 +0300" stop="20181004161500 +0300" channel="Digi Sport 1">
-    <title lang="ro">Live Stirile Digi Sport</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004161500 +0300" stop="20181004170000 +0300" channel="Digi Sport 1">
-    <title lang="ro">Digi Sport Matinal</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004170000 +0300" stop="20181004174500 +0300" channel="Digi Sport 1">
-    <title lang="ro">Live Fotbal: Arges - Petrolul Liga a2-a</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004174500 +0300" stop="20181004180000 +0300" channel="Digi Sport 1">
-    <title lang="ro">Live Stirile Digi Sport</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004180000 +0300" stop="20181004190000 +0300" channel="Digi Sport 1">
-    <title lang="ro">Live Fotbal: Arges - Petrolul Liga a2-a</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004190000 +0300" stop="20181004200000 +0300" channel="Digi Sport 1">
-    <title lang="ro">Live Digi Sport Special</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004200000 +0300" stop="20181004204500 +0300" channel="Digi Sport 1">
-    <title lang="ro">Live Fotbal: Milan - Olympiakos UEFA Europa League</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004204500 +0300" stop="20181004210000 +0300" channel="Digi Sport 1">
-    <title lang="ro">Live Euro Fotbal</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004210000 +0300" stop="20181004220000 +0300" channel="Digi Sport 1">
-    <title lang="ro">Live Fotbal: Milan - Olympiakos UEFA Europa League</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004220000 +0300" stop="20181004224500 +0300" channel="Digi Sport 1">
-    <title lang="ro">Live Fotbal: Chelsea - Vidi UEFA Europa League</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004224500 +0300" stop="20181004230000 +0300" channel="Digi Sport 1">
-    <title lang="ro">Live Euro Fotbal</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004230000 +0300" stop="20181005000000 +0300" channel="Digi Sport 1">
-    <title lang="ro">Live Fotbal: Chelsea - Vidi UEFA Europa League</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005000000 +0300" stop="20181005010000 +0300" channel="Digi Sport 1">
-    <title lang="ro">Live Euro Fotbal</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005010000 +0300" stop="20181005013000 +0300" channel="Digi Sport 1">
-    <title lang="ro">Premiera Rezumate UEFA Europa League</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005013000 +0300" stop="20181005020000 +0300" channel="Digi Sport 1">
-    <title lang="ro">Stirile Digi Sport</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005020000 +0300" stop="20181005034500 +0300" channel="Digi Sport 1">
-    <title lang="ro">Fotbal: Milan - Olympiakos UEFA Europa League</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005034500 +0300" stop="20181005040000 +0300" channel="Digi Sport 1">
-    <title lang="ro">Stirile Digi Sport</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005040000 +0300" stop="20181005053000 +0300" channel="Digi Sport 1">
-    <title lang="ro">Live Formula 1: Antrenamente Marele Premiu al Japoniei</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005053000 +0300" stop="20181005063000 +0300" channel="Digi Sport 1">
-    <title lang="ro">Euro Fotbal</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005063000 +0300" stop="20181005070000 +0300" channel="Digi Sport 1">
-    <title lang="ro">Rezumate UEFA Europa League</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005070000 +0300" stop="20181005073000 +0300" channel="Digi Sport 1">
-    <title lang="ro">Stirile Digi Sport</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005073000 +0300" stop="20181005080000 +0300" channel="Digi Sport 1">
-    <title lang="ro">Stirile Digi Sport</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005080000 +0300" stop="20181005093000 +0300" channel="Digi Sport 1">
-    <title lang="ro">Live Formula 1: antrenamente Marele Premiu al Japoniei</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005093000 +0300" stop="20181005100000 +0300" channel="Digi Sport 1">
-    <title lang="ro">Stirile Digi Sport</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005100000 +0300" stop="20181005101500 +0300" channel="Digi Sport 1">
-    <title lang="ro">Live Stirile Digi Sport</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005101500 +0300" stop="20181005110000 +0300" channel="Digi Sport 1">
-    <title lang="ro">Live Digi Sport Matinal</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005110000 +0300" stop="20181005111500 +0300" channel="Digi Sport 1">
-    <title lang="ro">Live Stirile Digi Sport</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005111500 +0300" stop="20181005120000 +0300" channel="Digi Sport 1">
-    <title lang="ro">Live Digi Sport Matinal</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005120000 +0300" stop="20181005121500 +0300" channel="Digi Sport 1">
-    <title lang="ro">Live Stirile Digi Sport</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005121500 +0300" stop="20181005130000 +0300" channel="Digi Sport 1">
-    <title lang="ro">Euro Fotbal</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005130000 +0300" stop="20181005131500 +0300" channel="Digi Sport 1">
-    <title lang="ro">Live Stirile Digi Sport</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005131500 +0300" stop="20181005140000 +0300" channel="Digi Sport 1">
-    <title lang="ro">Digi Sport Matinal</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005140000 +0300" stop="20181005141500 +0300" channel="Digi Sport 1">
-    <title lang="ro">Live Stirile Digi Sport</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005141500 +0300" stop="20181005150000 +0300" channel="Digi Sport 1">
-    <title lang="ro">Digi Sport Matinal</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005150000 +0300" stop="20181005151500 +0300" channel="Digi Sport 1">
-    <title lang="ro">Live Stirile Digi Sport</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005151500 +0300" stop="20181005160000 +0300" channel="Digi Sport 1">
-    <title lang="ro">Euro Fotbal</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005160000 +0300" stop="20181005164500 +0300" channel="Digi Sport 1">
-    <title lang="ro">Live Fotbal: Pandurii Targu Jiu - UTA Arad Liga a 2-a</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005164500 +0300" stop="20181005170000 +0300" channel="Digi Sport 1">
-    <title lang="ro">Live Stirile Digi Sport</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005170000 +0300" stop="20181005180000 +0300" channel="Digi Sport 1">
-    <title lang="ro">Live Fotbal: Pandurii Targu Jiu - UTA Arad Liga a 2-a</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005180000 +0300" stop="20181005183000 +0300" channel="Digi Sport 1">
-    <title lang="ro">Live Digi Sport Matinal</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005183000 +0300" stop="20181005191500 +0300" channel="Digi Sport 1">
-    <title lang="ro">Live Handbal F: CSM Bucuresti - FTC Budapesta EHF Champions League</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005191500 +0300" stop="20181005193000 +0300" channel="Digi Sport 1">
-    <title lang="ro">Live Stirile Digi Sport</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005193000 +0300" stop="20181005200000 +0300" channel="Digi Sport 1">
-    <title lang="ro">Live Handbal F: CSM Bucuresti - FTC Budapesta EHF Champions League</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005200000 +0300" stop="20181005210000 +0300" channel="Digi Sport 1">
-    <title lang="ro">Live Fotbal Club</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005210000 +0300" stop="20181005214500 +0300" channel="Digi Sport 1">
-    <title lang="ro">Live Fotbal: Politehnica Iasi - Viitorul Liga 1</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005214500 +0300" stop="20181005220000 +0300" channel="Digi Sport 1">
-    <title lang="ro">Live Fotbal Club</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005220000 +0300" stop="20181005230000 +0300" channel="Digi Sport 1">
-    <title lang="ro">Live Fotbal: Politehnica Iasi - Viitorul Liga 1</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005230000 +0300" stop="20181006001500 +0300" channel="Digi Sport 1">
-    <title lang="ro">Live Fotbal Club</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004000000 +0300" stop="20181004060000 +0300" channel="Digi Sport 2">
-    <title lang="ro">Tenis</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004060000 +0300" stop="20181004070000 +0300" channel="Digi Sport 2">
-    <title lang="ro">Live Tenis: ATP Tokyo - ziua 4</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004070000 +0300" stop="20181004073000 +0300" channel="Digi Sport 2">
-    <title lang="ro">Live Tenis: ATP Tokyo - ziua 4</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004073000 +0300" stop="20181004090000 +0300" channel="Digi Sport 2">
-    <title lang="ro">Live Julia GOERGES (GER) - Naomi OSAKA (JPN) Tenis: WTA Beijing - ziua 6</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004090000 +0300" stop="20181004113000 +0300" channel="Digi Sport 2">
-    <title lang="ro">Live Angelique KERBER (GER) - Shuai ZHANG (CHN) Tenis: WTA Beijing - ziua 6</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004113000 +0300" stop="20181004133000 +0300" channel="Digi Sport 2">
-    <title lang="ro">Live Anett KONTAVEIT (EST - Caroline WOZNIACKI (DEN) Tenis: WTA Beijing - ziua 6</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004133000 +0300" stop="20181004143000 +0300" channel="Digi Sport 2">
-    <title lang="ro">Tenis</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004143000 +0300" stop="20181004163000 +0300" channel="Digi Sport 2">
-    <title lang="ro">Live Karolina PLISKOVA (CZE) - Qiang WANG (CHN) Tenis: WTA Beijing - ziua 6</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004163000 +0300" stop="20181004174500 +0300" channel="Digi Sport 2">
-    <title lang="ro">Tenis</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004174500 +0300" stop="20181004194500 +0300" channel="Digi Sport 2">
-    <title lang="ro">Live Fotbal: Astana - Rennes UEFA Europa League</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004194500 +0300" stop="20181004200000 +0300" channel="Digi Sport 2">
-    <title lang="ro">Stirile Digi Sport</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004200000 +0300" stop="20181004220000 +0300" channel="Digi Sport 2">
-    <title lang="ro">Live Fotbal: Qarabag - Arsenal UEFA Europa League</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004220000 +0300" stop="20181005000000 +0300" channel="Digi Sport 2">
-    <title lang="ro">Live Fotbal: BATE - PAOK Salonic UEFA Europa League</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005000000 +0300" stop="20181005060000 +0300" channel="Digi Sport 2">
-    <title lang="ro">Tenis</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005060000 +0300" stop="20181005070000 +0300" channel="Digi Sport 2">
-    <title lang="ro">Live Tenis: ATP Tokyo - ziua 5</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005070000 +0300" stop="20181005073000 +0300" channel="Digi Sport 2">
-    <title lang="ro">Tenis: ATP Tokyo - ziua 5</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005073000 +0300" stop="20181005134500 +0300" channel="Digi Sport 2">
-    <title lang="ro">Tenis: WTA Beijing - ziua 7</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005134500 +0300" stop="20181005160000 +0300" channel="Digi Sport 2">
-    <title lang="ro">Tenis: ATP Beijing - ziua 5</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005160000 +0300" stop="20181005180000 +0300" channel="Digi Sport 2">
-    <title lang="ro">Tenis: WTA Beijing - ziua 7</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005180000 +0300" stop="20181005213000 +0300" channel="Digi Sport 2">
-    <title lang="ro">Tenis</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005213000 +0300" stop="20181005233000 +0300" channel="Digi Sport 2">
-    <title lang="ro">Fotbal: Werder Bremen - Wolfsburg Bundesliga</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005233000 +0300" stop="20181006010000 +0300" channel="Digi Sport 2">
-    <title lang="ro">Handbal F: CSM Bucuresti - FTC Budapesta EHF Champions League</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004000000 +0300" stop="20181004003000 +0300" channel="Digi Sport 3">
-    <title lang="ro">Stirile Digi Sport</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004003000 +0300" stop="20181004010000 +0300" channel="Digi Sport 3">
-    <title lang="ro">Stirile Digi Sport</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004010000 +0300" stop="20181004013000 +0300" channel="Digi Sport 3">
-    <title lang="ro">Stirile Digi Sport</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004013000 +0300" stop="20181004020000 +0300" channel="Digi Sport 3">
-    <title lang="ro">Stirile Digi Sport</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004020000 +0300" stop="20181004023000 +0300" channel="Digi Sport 3">
-    <title lang="ro">Stirile Digi Sport</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004023000 +0300" stop="20181004024500 +0300" channel="Digi Sport 3">
-    <title lang="ro">Digi Sport Show</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004024500 +0300" stop="20181004033000 +0300" channel="Digi Sport 3">
-    <title lang="ro">Stirile Digi Sport</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004033000 +0300" stop="20181004040000 +0300" channel="Digi Sport 3">
-    <title lang="ro">Stirile Digi Sport</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004040000 +0300" stop="20181004043000 +0300" channel="Digi Sport 3">
-    <title lang="ro">Stirile Digi Sport</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004043000 +0300" stop="20181004050000 +0300" channel="Digi Sport 3">
-    <title lang="ro">Stirile Digi Sport</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004050000 +0300" stop="20181004053000 +0300" channel="Digi Sport 3">
-    <title lang="ro">Stirile Digi Sport</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004053000 +0300" stop="20181004060000 +0300" channel="Digi Sport 3">
-    <title lang="ro">Stirile Digi Sport</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004060000 +0300" stop="20181004063000 +0300" channel="Digi Sport 3">
-    <title lang="ro">Stirile Digi Sport</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004063000 +0300" stop="20181004070000 +0300" channel="Digi Sport 3">
-    <title lang="ro">Stirile Digi Sport</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004070000 +0300" stop="20181004073000 +0300" channel="Digi Sport 3">
-    <title lang="ro">Rezumate UEFA Champions League</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004073000 +0300" stop="20181004083000 +0300" channel="Digi Sport 3">
-    <title lang="ro">Live Jan-Lennard STRUFF (GER) - Jeremy CHARDY (FRA) Tenis: ATP Tokyo - ziua 4</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004083000 +0300" stop="20181004100000 +0300" channel="Digi Sport 3">
-    <title lang="ro">Live Jan-Lennard STRUFF (GER) - Jeremy CHARDY (FRA) Tenis: ATP Tokyo - ziua 4</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004100000 +0300" stop="20181004113000 +0300" channel="Digi Sport 3">
-    <title lang="ro">Live Frances TIAFOE (USA) - Kevin ANDERSON (RSA) Tenis: ATP Tokyo - ziua 4</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004113000 +0300" stop="20181004130000 +0300" channel="Digi Sport 3">
-    <title lang="ro">Live Richard GASQUET (FRA) - Nick KYRGIOS (AUS) Tenis: ATP Tokyo - ziua 4</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004130000 +0300" stop="20181004131500 +0300" channel="Digi Sport 3">
-    <title lang="ro">Digi Sport Show</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004131500 +0300" stop="20181004140000 +0300" channel="Digi Sport 3">
-    <title lang="ro">Stirile Digi Sport</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004140000 +0300" stop="20181004141500 +0300" channel="Digi Sport 3">
-    <title lang="ro">Digi Sport Show</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004141500 +0300" stop="20181004150000 +0300" channel="Digi Sport 3">
-    <title lang="ro">Stirile Digi Sport</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004150000 +0300" stop="20181004151500 +0300" channel="Digi Sport 3">
-    <title lang="ro">Digi Sport Show</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004151500 +0300" stop="20181004160000 +0300" channel="Digi Sport 3">
-    <title lang="ro">Stirile Digi Sport</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004160000 +0300" stop="20181004161500 +0300" channel="Digi Sport 3">
-    <title lang="ro">Digi Sport Show</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004161500 +0300" stop="20181004170000 +0300" channel="Digi Sport 3">
-    <title lang="ro">Stirile Digi Sport</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004170000 +0300" stop="20181004174500 +0300" channel="Digi Sport 3">
-    <title lang="ro">Stirile Digi Sport</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004174500 +0300" stop="20181004180000 +0300" channel="Digi Sport 3">
-    <title lang="ro">Digi Sport Show</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004180000 +0300" stop="20181004183000 +0300" channel="Digi Sport 3">
-    <title lang="ro">Stirile Digi Sport</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004183000 +0300" stop="20181004184500 +0300" channel="Digi Sport 3">
-    <title lang="ro">Digi Sport Show</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004184500 +0300" stop="20181004191500 +0300" channel="Digi Sport 3">
-    <title lang="ro">Stirile Digi Sport</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004191500 +0300" stop="20181004194500 +0300" channel="Digi Sport 3">
-    <title lang="ro">Stirile Digi Sport</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004194500 +0300" stop="20181004200000 +0300" channel="Digi Sport 3">
-    <title lang="ro">Digi Sport Show</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004200000 +0300" stop="20181004220000 +0300" channel="Digi Sport 3">
-    <title lang="ro">Live Fotbal: FC Zurich - Ludogorets UEFA Europa League</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004220000 +0300" stop="20181005000000 +0300" channel="Digi Sport 3">
-    <title lang="ro">Live Fotbal: Frankfurt - Lazio UEFA Europa League</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005000000 +0300" stop="20181005003000 +0300" channel="Digi Sport 3">
-    <title lang="ro">Stirile Digi Sport</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005003000 +0300" stop="20181005010000 +0300" channel="Digi Sport 3">
-    <title lang="ro">Stirile Digi Sport</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005010000 +0300" stop="20181005013000 +0300" channel="Digi Sport 3">
-    <title lang="ro">Stirile Digi Sport</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005013000 +0300" stop="20181005020000 +0300" channel="Digi Sport 3">
-    <title lang="ro">La Volan</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005020000 +0300" stop="20181005023000 +0300" channel="Digi Sport 3">
-    <title lang="ro">Stirile Digi Sport</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005023000 +0300" stop="20181005030000 +0300" channel="Digi Sport 3">
-    <title lang="ro">Stirile Digi Sport</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005030000 +0300" stop="20181005033000 +0300" channel="Digi Sport 3">
-    <title lang="ro">Stirile Digi Sport</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005033000 +0300" stop="20181005034500 +0300" channel="Digi Sport 3">
-    <title lang="ro">Stirile Digi Sport</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005034500 +0300" stop="20181005040000 +0300" channel="Digi Sport 3">
-    <title lang="ro">Digi Sport Show</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005040000 +0300" stop="20181005043000 +0300" channel="Digi Sport 3">
-    <title lang="ro">Stirile Digi Sport</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005043000 +0300" stop="20181005050000 +0300" channel="Digi Sport 3">
-    <title lang="ro">Stirile Digi Sport</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005050000 +0300" stop="20181005053000 +0300" channel="Digi Sport 3">
-    <title lang="ro">Stirile Digi Sport</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005053000 +0300" stop="20181005060000 +0300" channel="Digi Sport 3">
-    <title lang="ro">Stirile Digi Sport</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005060000 +0300" stop="20181005063000 +0300" channel="Digi Sport 3">
-    <title lang="ro">Stirile Digi Sport</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005063000 +0300" stop="20181005070000 +0300" channel="Digi Sport 3">
-    <title lang="ro">Stirile Digi Sport</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005070000 +0300" stop="20181005073000 +0300" channel="Digi Sport 3">
-    <title lang="ro">Rezumate UEFA Europa League</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005073000 +0300" stop="20181005101500 +0300" channel="Digi Sport 3">
-    <title lang="ro">Tenis: ATP Tokyo - ziua 5</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005101500 +0300" stop="20181005110000 +0300" channel="Digi Sport 3">
-    <title lang="ro">Stirile Digi Sport</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005110000 +0300" stop="20181005111500 +0300" channel="Digi Sport 3">
-    <title lang="ro">Digi Sport Show</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005111500 +0300" stop="20181005120000 +0300" channel="Digi Sport 3">
-    <title lang="ro">Stirile Digi Sport</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005120000 +0300" stop="20181005160000 +0300" channel="Digi Sport 3">
-    <title lang="ro">Tenis: ATP Tokyo - ziua 5</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005160000 +0300" stop="20181005164500 +0300" channel="Digi Sport 3">
-    <title lang="ro">Stirile Digi Sport</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005164500 +0300" stop="20181005170000 +0300" channel="Digi Sport 3">
-    <title lang="ro">Digi Sport Show</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005170000 +0300" stop="20181005173000 +0300" channel="Digi Sport 3">
-    <title lang="ro">Stirile Digi Sport</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005173000 +0300" stop="20181005180000 +0300" channel="Digi Sport 3">
-    <title lang="ro">Stirile Digi Sport</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005180000 +0300" stop="20181005183000 +0300" channel="Digi Sport 3">
-    <title lang="ro">UCL Magazin</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005183000 +0300" stop="20181005193000 +0300" channel="Digi Sport 3">
-    <title lang="ro">Rezumate UEFA Europa League</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005193000 +0300" stop="20181005200000 +0300" channel="Digi Sport 3">
-    <title lang="ro">Stirile Digi Sport</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005200000 +0300" stop="20181005203000 +0300" channel="Digi Sport 3">
-    <title lang="ro">Avanpremiera Serie A</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005203000 +0300" stop="20181005210000 +0300" channel="Digi Sport 3">
-    <title lang="ro">Avanpremiera Ligue 1</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005210000 +0300" stop="20181005213000 +0300" channel="Digi Sport 3">
-    <title lang="ro">Avanpremiera Bundesliga</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005213000 +0300" stop="20181005220000 +0300" channel="Digi Sport 3">
-    <title lang="ro">Avanpremiera La Liga</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005220000 +0300" stop="20181006000000 +0300" channel="Digi Sport 3">
-    <title lang="ro">Fotbal: Athletic Bilbao - Real Sociedad La Liga</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004000000 +0300" stop="20181004014500 +0300" channel="Digi Sport 4">
-    <title lang="ro">Fotbal: PSG - Steaua Rosie Belgrad UEFA Champions League</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004014500 +0300" stop="20181004033000 +0300" channel="Digi Sport 4">
-    <title lang="ro">Fotbal: Lokomotiv Moscova - Schalke 04 UEFA Champions League</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004033000 +0300" stop="20181004051500 +0300" channel="Digi Sport 4">
-    <title lang="ro">Fotbal: Dortmund - Monaco UEFA Champions League</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004051500 +0300" stop="20181004070000 +0300" channel="Digi Sport 4">
-    <title lang="ro">Fotbal: Napoli - Liverpool UEFA Champions League</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004070000 +0300" stop="20181004093000 +0300" channel="Digi Sport 4">
-    <title lang="ro">La Liga World</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004093000 +0300" stop="20181004113000 +0300" channel="Digi Sport 4">
-    <title lang="ro">Live Marton FUCSOVICS (HUN - Marco CECCHINATO (ITA) Tenis: ATP Beijing - ziua 4</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004113000 +0300" stop="20181004133000 +0300" channel="Digi Sport 4">
-    <title lang="ro">Live Fabio FOGNINI (ITA) - Andrey RUBLEV (RUS) Tenis: ATP Beijing - ziua 4</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004133000 +0300" stop="20181004160000 +0300" channel="Digi Sport 4">
-    <title lang="ro">Live Nikoloz BASILASHVILI (GEO) - Fernando VERDASCO (ESP) Tenis: ATP Beijing - ziua 4</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004160000 +0300" stop="20181004170000 +0300" channel="Digi Sport 4">
-    <title lang="ro">Live Malek JAZIRI (TUN) - Alexander ZVEREV (GER) Tenis: ATP Beijing - ziua 4</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004170000 +0300" stop="20181004184500 +0300" channel="Digi Sport 4">
-    <title lang="ro">Fotbal: Tottenham - Barcelona UEFA Champions League</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004184500 +0300" stop="20181004200000 +0300" channel="Digi Sport 4">
-    <title lang="ro">Rezumate UEFA Champions League</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004200000 +0300" stop="20181004220000 +0300" channel="Digi Sport 4">
-    <title lang="ro">Live Fotbal: Zenit - Slavia Praga UEFA Europa League</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181004220000 +0300" stop="20181005000000 +0300" channel="Digi Sport 4">
-    <title lang="ro">Live Fotbal: Krasnodar - Sevilla UEFA Europa League</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005000000 +0300" stop="20181005014500 +0300" channel="Digi Sport 4">
-    <title lang="ro">Fotbal: Milan - Olympiakos UEFA Europa League</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005014500 +0300" stop="20181005033000 +0300" channel="Digi Sport 4">
-    <title lang="ro">Fotbal: Qaraba? - Arsenal UEFA Europa League</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005033000 +0300" stop="20181005051500 +0300" channel="Digi Sport 4">
-    <title lang="ro">Fotbal: Chelsea - Vidi UEFA Europa League</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005051500 +0300" stop="20181005070000 +0300" channel="Digi Sport 4">
-    <title lang="ro">Fotbal: BATE - PAOK Salonik UEFA Europa League</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005070000 +0300" stop="20181005073000 +0300" channel="Digi Sport 4">
-    <title lang="ro">La Volan</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005073000 +0300" stop="20181005134500 +0300" channel="Digi Sport 4">
-    <title lang="ro">Tenis: ATP Beijing - ziua 5</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005134500 +0300" stop="20181005153000 +0300" channel="Digi Sport 4">
-    <title lang="ro">Fotbal: Chelsea - Vidi UEFA Europa League</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005153000 +0300" stop="20181005171500 +0300" channel="Digi Sport 4">
-    <title lang="ro">Fotbal: Milan - Olympiacos UEFA Europa League</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005171500 +0300" stop="20181005190000 +0300" channel="Digi Sport 4">
-    <title lang="ro">Fotbal: BATE - PAOK Salonic UEFA Europa League</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005190000 +0300" stop="20181005204500 +0300" channel="Digi Sport 4">
-    <title lang="ro">Baschet M: Dinamo - BC CSU Sibiu Liga Nationala</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005204500 +0300" stop="20181005214500 +0300" channel="Digi Sport 4">
-    <title lang="ro">Rezumate UEFA Europa League</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005214500 +0300" stop="20181005234500 +0300" channel="Digi Sport 4">
-    <title lang="ro">Fotbal: Toulouse - Nice Ligue 1</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
-  </programme>
-  <programme start="20181005234500 +0300" stop="20181006000000 +0300" channel="Digi Sport 4">
-    <title lang="ro">Stirile Digi Sport</title>
-    <rating system="RO">
-      <value>AP</value>
-    </rating>
+  <programme start="20181006003000 +0300" stop="20181006023000 +0300" channel="Arena Sport 1 BiH">
+    <title lang="hr">FRANCUSKA LIGA: Toulouse - Nice</title>
+    <category lang="hr">Fudbal</category>
+  </programme>
+  <programme start="20181006023000 +0300" stop="20181006040000 +0300" channel="Arena Sport 1 BiH">
+    <title lang="hr">SVETSKI KUP: Budimpešta Dan 2</title>
+    <category lang="hr">Plivanje</category>
+  </programme>
+  <programme start="20181006040000 +0300" stop="20181006043000 +0300" channel="Arena Sport 1 BiH">
+    <title lang="hr">KOTV Weekly: Magazin</title>
+  </programme>
+  <programme start="20181006043000 +0300" stop="20181006060000 +0300" channel="Arena Sport 1 BiH">
+    <title lang="hr">NHL: San Jose - Los Angeles</title>
+    <category lang="hr">Hokej</category>
+  </programme>
+  <programme start="20181006060000 +0300" stop="20181006070000 +0300" channel="Arena Sport 1 BiH">
+    <title lang="hr">NHL: San Jose - Los Angeles</title>
+    <category lang="hr">Hokej</category>
+  </programme>
+  <programme start="20181006070000 +0300" stop="20181006073000 +0300" channel="Arena Sport 1 BiH">
+    <title lang="hr">Arena eGames</title>
+  </programme>
+  <programme start="20181006073000 +0300" stop="20181006090000 +0300" channel="Arena Sport 1 BiH">
+    <title lang="hr">EHF LIGA ŠAMPIONA: SG Flensburg-Handewitt - HC Motor Zaporozhye</title>
+    <category lang="hr">Rukomet</category>
+  </programme>
+  <programme start="20181006090000 +0300" stop="20181006103000 +0300" channel="Arena Sport 1 BiH">
+    <title lang="hr">ABA LIGA: FMP - Zadar</title>
+    <category lang="hr">Košarka</category>
+  </programme>
+  <programme start="20181006103000 +0300" stop="20181006110000 +0300" channel="Arena Sport 1 BiH">
+    <title lang="hr">MaxBet NEWS</title>
+    <category lang="hr">Vesti</category>
+  </programme>
+  <programme start="20181006110000 +0300" stop="20181006113000 +0300" channel="Arena Sport 1 BiH">
+    <title lang="hr">LIGA EVROPE: Pregled</title>
+    <category lang="hr">Fudbal</category>
+  </programme>
+  <programme start="20181006113000 +0300" stop="20181006131500 +0300" channel="Arena Sport 1 BiH">
+    <title lang="hr">EHF LIGA ŠAMPIONA (Ž): Rostov-Don - IK Sävehof</title>
+    <category lang="hr">Rukomet</category>
+  </programme>
+  <programme start="20181006131500 +0300" stop="20181006150000 +0300" channel="Arena Sport 1 BiH">
+    <title lang="hr">ŠPANSKA LIGA: Jimbee Cartagena FS - CA Osasuna Magna</title>
+    <category lang="hr">Futsal</category>
+  </programme>
+  <programme start="20181006150000 +0300" stop="20181006170000 +0300" channel="Arena Sport 1 BiH">
+    <title lang="hr">ITALIJANSKA LIGA: Cagliari - Bologna</title>
+    <category lang="hr">Fudbal</category>
+  </programme>
+  <programme start="20181006170000 +0300" stop="20181006190000 +0300" channel="Arena Sport 1 BiH">
+    <title lang="hr">FRANCUSKA LIGA: Lille - Saint-Etienne</title>
+    <category lang="hr">Fudbal</category>
+  </programme>
+  <programme start="20181006190000 +0300" stop="20181006210000 +0300" channel="Arena Sport 1 BiH">
+    <title lang="hr">HRVATSKA LIGA: Slaven Belupo - Istra 1961</title>
+    <category lang="hr">Fudbal</category>
+  </programme>
+  <programme start="20181006210000 +0300" stop="20181006225500 +0300" channel="Arena Sport 1 BiH">
+    <title lang="hr">ABA LIGA: Partizan NIS - Petrol Olimpija</title>
+    <category lang="hr">Košarka</category>
+  </programme>
+  <programme start="20181006225500 +0300" stop="20181006233000 +0300" channel="Arena Sport 1 BiH">
+    <title lang="hr">MaxBet NEWS</title>
+    <category lang="hr">Vesti</category>
+  </programme>
+  <programme start="20181006233000 +0300" stop="20181007011500 +0300" channel="Arena Sport 1 BiH">
+    <title lang="hr">ITALIJANSKA LIGA: Udinese - Juventus</title>
+    <category lang="hr">Fudbal</category>
   </programme>
 </tv>
