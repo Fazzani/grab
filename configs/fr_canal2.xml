@@ -8,7 +8,7 @@
   <logging>on</logging>
   <retry time-out="15">1</retry>
   <skip>12,1</skip>
-  <timespan>1</timespan>
+  <timespan>2</timespan>
   <update>i</update>
   <channel update="i" site="canalsat.fr" site_id="312" xmltv_id="TF1">TF1</channel>
   <channel update="i" site="canalsat.fr" site_id="26" xmltv_id="FRANCE 2">FRANCE 2</channel>
