@@ -8,7 +8,7 @@
   <logging>on</logging>
   <retry time-out="15">1</retry>
   <skip>12,1</skip>
-  <timespan>1</timespan>
+  <timespan>2</timespan>
   <update>i</update>
   <channel update="i" site="canalsat.fr" site_id="440" xmltv_id="CHERIE 25">CHERIE 25</channel>
   <channel update="i" site="canalsat.fr" site_id="677" xmltv_id="VICELAND">VICELAND</channel>
