@@ -8,7 +8,7 @@
   <logging>on</logging>
   <retry time-out="15">1</retry>
   <skip>12,1</skip>
-  <timespan>1</timespan>
+  <timespan>2</timespan>
   <update>i</update>
   <channel update="i" site="watania.tn" site_id="www.watania1.tn/البرنامج-الأسبوعي/" xmltv_id="Watania 1">Watania 1</channel>
   <channel update="i" site="watania.tn" site_id="www.watania2.tn/دليل-الأسبوع/" xmltv_id="Watania 2">Watania 2</channel>
