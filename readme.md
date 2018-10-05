@@ -573,7 +573,3 @@
 |![icon]()|Arena Sport 4|http://www.m.tvprofil.net|
 |![icon]()|Arena Sport 5|http://www.m.tvprofil.net|
 |![icon]()|Arena Sport 1 BiH|http://www.m.tvprofil.net|
-|![icon]()|Digi Sport 1|http://www.cinemagia.ro|
-|![icon]()|Digi Sport 2|http://www.cinemagia.ro|
-|![icon]()|Digi Sport 3|http://www.cinemagia.ro|
-|![icon]()|Digi Sport 4|http://www.cinemagia.ro|
