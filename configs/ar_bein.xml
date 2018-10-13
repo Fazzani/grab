@@ -8,7 +8,7 @@
   <logging>on</logging>
   <retry time-out="5">1</retry>
   <skip>12</skip>
-  <timespan>2</timespan>
+  <timespan>1</timespan>
   <update>i</update>
 
   <channel update="i" site="bein.net" site_id="mena_sports/HD1" xmltv_id="HD1">beIN sports 1 hd</channel>
