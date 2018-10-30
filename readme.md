@@ -535,33 +535,33 @@
 |![icon](http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_603.PNG)|BEIN SPORTS MAX 8|http://www.canalsat.fr|
 |![icon](http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_604.PNG)|BEIN SPORTS MAX 9|http://www.canalsat.fr|
 |![icon](http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_605.PNG)|BEIN SPORTS MAX 10|http://www.canalsat.fr|
-|![icon]()|BE 1|http://www.telerama.fr|
-|![icon]()|Be Ciné|http://www.telerama.fr|
-|![icon]()|Be Séries|http://www.telerama.fr|
-|![icon]()|La Deux|http://www.telerama.fr|
-|![icon]()|La Trois|http://www.telerama.fr|
-|![icon]()|La Une|http://www.telerama.fr|
-|![icon]()|VOOsport World 1|http://www.telerama.fr|
-|![icon]()|VOOsport World 2|http://www.telerama.fr|
-|![icon]()|Real Madrid TV|http://www.telerama.fr|
+|![icon](https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png)|BE 1|http://www.telerama.fr|
+|![icon](https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png)|Be Ciné|http://www.telerama.fr|
+|![icon](https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png)|Be Séries|http://www.telerama.fr|
+|![icon](https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png)|La Deux|http://www.telerama.fr|
+|![icon](https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png)|La Trois|http://www.telerama.fr|
+|![icon](https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png)|La Une|http://www.telerama.fr|
+|![icon](https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png)|VOOsport World 1|http://www.telerama.fr|
+|![icon](https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png)|VOOsport World 2|http://www.telerama.fr|
+|![icon](https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png)|Real Madrid TV|http://www.telerama.fr|
 |![icon](//media1.woopic.com/api/v1/images/201%2Fchannel%2F295%2F71e%2F0b94af0a2f62a15142d5f9ec0b%2Fc8%7Cclair_445.png?facedetect=1&quality=85)|D8|http://www.tv.orange.fr|
 |![icon](//media2.woopic.com/api/v1/images/201%2Fchannel%2Fd0e%2Faaf%2F681a636a087fb6836511b921ec%2Fcstar%7Cclair_458.png?facedetect=1&quality=85)|D17|http://www.tv.orange.fr|
 |![icon](//media2.woopic.com/api/v1/images/201%2Fchannel%2Ff72%2F5b5%2F39f01b04fa87927f1e8812f065%2Fscience-vie-tv%7Cclair_63.png?facedetect=1&quality=85)|SCIENCE et VIE TV|http://www.tv.orange.fr|
 |![icon](//media1.woopic.com/api/v1/images/201%2Fchannel%2F860%2F2fe%2Ff551bf0006cc126ad5028d31ad%2Fchasse-peche%7Cclair_38.png?facedetect=1&quality=85)|CHASSE PECHE|http://www.tv.orange.fr|
-|![icon]()|MTV Rocks|http://www.telerama.fr|
-|![icon]()|MTV Base|http://www.telerama.fr|
-|![icon]()|NRJ Hits|http://www.telerama.fr|
-|![icon]()|AB 3|http://www.telerama.fr|
-|![icon]()|E !|http://www.telerama.fr|
-|![icon]()|Chasse et pêche|http://www.telerama.fr|
-|![icon]()|Discovery Channel|http://www.telerama.fr|
-|![icon]()|Discovery Science|http://www.telerama.fr|
-|![icon]()|Science & Vie TV|http://www.telerama.fr|
-|![icon]()|Extreme Sports Channel|http://www.telerama.fr|
-|![icon]()|Motorsport TV|http://www.telerama.fr|
-|![icon]()|OMTV|http://www.telerama.fr|
-|![icon]()|Al Jazeera English|http://www.telerama.fr|
-|![icon]()|BBC World News|http://www.telerama.fr|
+|![icon](https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png)|MTV Rocks|http://www.telerama.fr|
+|![icon](https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png)|MTV Base|http://www.telerama.fr|
+|![icon](https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png)|NRJ Hits|http://www.telerama.fr|
+|![icon](https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png)|AB 3|http://www.telerama.fr|
+|![icon](https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png)|E !|http://www.telerama.fr|
+|![icon](https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png)|Chasse et pêche|http://www.telerama.fr|
+|![icon](https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png)|Discovery Channel|http://www.telerama.fr|
+|![icon](https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png)|Discovery Science|http://www.telerama.fr|
+|![icon](https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png)|Science & Vie TV|http://www.telerama.fr|
+|![icon](https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png)|Extreme Sports Channel|http://www.telerama.fr|
+|![icon](https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png)|Motorsport TV|http://www.telerama.fr|
+|![icon](https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png)|OMTV|http://www.telerama.fr|
+|![icon](https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png)|Al Jazeera English|http://www.telerama.fr|
+|![icon](https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png)|BBC World News|http://www.telerama.fr|
 |![icon]()|Arena Sport 1.hr|http://www.m.tvprofil.net|
 |![icon]()|Arena Sport 2.hr|http://www.m.tvprofil.net|
 |![icon]()|Arena Sport 3.hr|http://www.m.tvprofil.net|
