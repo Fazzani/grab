@@ -562,14 +562,3 @@
 |![icon](https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png)|OMTV|http://www.telerama.fr|
 |![icon](https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png)|Al Jazeera English|http://www.telerama.fr|
 |![icon](https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png)|BBC World News|http://www.telerama.fr|
-|![icon]()|Arena Sport 1.hr|http://www.m.tvprofil.net|
-|![icon]()|Arena Sport 2.hr|http://www.m.tvprofil.net|
-|![icon]()|Arena Sport 3.hr|http://www.m.tvprofil.net|
-|![icon]()|Arena Sport 4.hr|http://www.m.tvprofil.net|
-|![icon]()|Arena Sport 5.hr|http://www.m.tvprofil.net|
-|![icon]()|Arena Sport 1|http://www.m.tvprofil.net|
-|![icon]()|Arena Sport 2|http://www.m.tvprofil.net|
-|![icon]()|Arena Sport 3|http://www.m.tvprofil.net|
-|![icon]()|Arena Sport 4|http://www.m.tvprofil.net|
-|![icon]()|Arena Sport 5|http://www.m.tvprofil.net|
-|![icon]()|Arena Sport 1 BiH|http://www.m.tvprofil.net|
