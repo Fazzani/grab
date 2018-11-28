@@ -282,6 +282,7 @@
   </channel>
   <channel id="Urdu 1">
     <display-name lang="en">Urdu 1</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/URD.png" />
     <url>http://www.osn.com</url>
   </channel>
   <channel id="Sun TV">
@@ -668,293 +669,289 @@
     <icon src="https://eirsport.ie/Themes/eir/imgs/channel_logos/Setanta.png" />
     <url>http://www.eirsport.ie</url>
   </channel>
-  <programme start="20181127000000 +0000" stop="20181127000000 +0000" channel="Setanta">
-    <title lang="en">Broken Rings (?)</title>
-  </programme>
-  <programme start="20181127000000 +0000" stop="20181127000000 +0000" channel="Setanta">
-    <title lang="en">Man Utd v Liverpool (?)</title>
-  </programme>
-  <programme start="20181127000000 +0000" stop="20181127000000 +0000" channel="Setanta">
-    <title lang="en">Outdoor Sports Show (?)</title>
-  </programme>
-  <programme start="20181127000000 +0000" stop="20181127000000 +0000" channel="Setanta">
-    <title lang="en">Limerick v Waterford 2007 (?)</title>
-  </programme>
-  <programme start="20181127000000 +0000" stop="20181127000000 +0000" channel="Setanta">
-    <title lang="en">Leinster v Ospreys (?)</title>
-  </programme>
-  <programme start="20181127000000 +0000" stop="20181127000000 +0000" channel="Setanta">
-    <title lang="en">Newcastle v Man Utd (?)</title>
-  </programme>
-  <programme start="20181127000000 +0000" stop="20181127000000 +0000" channel="Setanta">
-    <title lang="en">Liverpool v Sheffield Wednesday (?)</title>
-  </programme>
-  <programme start="20181127000000 +0000" stop="20181127000000 +0000" channel="Setanta">
-    <title lang="en">Limerick v Waterford 2007 (?)</title>
-  </programme>
-  <programme start="20181127000000 +0000" stop="20181127000000 +0000" channel="Setanta">
-    <title lang="en">Cork v Galway 2005 (?)</title>
-  </programme>
-  <programme start="20181127000000 +0000" stop="20181127000000 +0000" channel="Setanta">
-    <title lang="en">Man Utd v Liverpool (?)</title>
-  </programme>
-  <programme start="20181127000000 +0000" stop="20181127000000 +0000" channel="Setanta">
-    <title lang="en">Liverpool v Man Utd '99 (?)</title>
-  </programme>
-  <programme start="20181127000000 +0000" stop="20181127000000 +0000" channel="Setanta">
-    <title lang="en">Manchester City v Man Utd '02/03 (?)</title>
-  </programme>
-  <programme start="20181127000000 +0000" stop="20181127000000 +0000" channel="Setanta">
-    <title lang="en">Leeds United v Man United '01/02 (?)</title>
-  </programme>
-  <programme start="20181127000000 +0000" stop="20181127000000 +0000" channel="Setanta">
-    <title lang="en">Atlantic's Edge- Year in Lahinch (?)</title>
-  </programme>
-  <programme start="20181127000000 +0000" stop="20181127000000 +0000" channel="Setanta">
-    <title lang="en">Southern Kings v Connacht (?)</title>
-  </programme>
-  <programme start="20181127000000 +0000" stop="20181127000000 +0000" channel="Setanta">
-    <title lang="en">Zebre v Munster (?)</title>
-  </programme>
-  <programme start="20181127000000 +0000" stop="20181127000000 +0000" channel="Setanta">
-    <title lang="en">Dick Warner's Fishing Odyssey (?)</title>
-  </programme>
-  <programme start="20181127000000 +0000" stop="20181127000000 +0000" channel="Setanta">
-    <title lang="en">Dick Warner's Fishing Odyssey (?)</title>
-  </programme>
-  <programme start="20181127000000 +0000" stop="20181127000000 +0000" channel="Setanta">
-    <title lang="en">Atlantic's Edge- Year in Lahinch (?)</title>
-  </programme>
-  <programme start="20181127000000 +0000" stop="20181127000000 +0000" channel="Setanta">
-    <title lang="en">Golf Central (?)</title>
-  </programme>
-  <programme start="20181127000000 +0000" stop="20181127000000 +0000" channel="Setanta">
-    <title lang="en">Red Bull Air Race Magazine (?)</title>
-  </programme>
-  <programme start="20181127000000 +0000" stop="20181127000000 +0000" channel="Setanta">
-    <title lang="en">It's On (?)</title>
-  </programme>
-  <programme start="20181127000000 +0000" stop="20181127000000 +0000" channel="Setanta">
-    <title lang="en">Wilder v Fury (?)</title>
-  </programme>
-  <programme start="20181127000000 +0000" stop="20181127000000 +0000" channel="Setanta">
-    <title lang="en">Deontay Wilder Special (?)</title>
-  </programme>
-  <programme start="20181127000000 +0000" stop="20181127000000 +0000" channel="Setanta">
-    <title lang="en">IMMAF World Championships (?)</title>
-  </programme>
-  <programme start="20181127000000 +0000" stop="20181127000000 +0000" channel="Setanta">
-    <title lang="en">Manchester City v Man Utd '02/03 (?)</title>
-  </programme>
-  <programme start="20181127000000 +0000" stop="20181127000000 +0000" channel="Setanta">
-    <title lang="en">Dublin v Tyrone 2005 (?)</title>
-  </programme>
-  <programme start="20181127000000 +0000" stop="20181127000000 +0000" channel="Setanta">
-    <title lang="en">Down v Derry 1994 (?)</title>
-  </programme>
-  <programme start="20181127000000 +0000" stop="20181127000000 +0000" channel="Setanta">
-    <title lang="en">Down v Derry 1994 (?)</title>
-  </programme>
-  <programme start="20181127000000 +0000" stop="20181127010000 +0000" channel="Setanta">
-    <title lang="en">Main Events - Walsh v James</title>
-    <desc lang="en">Twins Liam and Ryan Walsh were on the same card at the Copper Box in April 2016. Ryan Walsh v James Tennyson and Liam Walsh v Troy James.(n)</desc>
+  <programme start="20181128000000 +0000" stop="20181128013000 +0000" channel="Setanta">
+    <title lang="en">Dublin v Tyrone 2005</title>
     <category lang="en">Other Sports</category>
   </programme>
-  <programme start="20181127010000 +0000" stop="20181127020000 +0000" channel="Setanta">
-    <title lang="en">BoxNation Presents</title>
-    <desc lang="en">New WBU champion Mehrdud Takaloo and WBO champion Daniel Santos met at Cardiff Castle for this light middleweight showdown. Both men had their titles on the line.(n)</desc>
+  <programme start="20181128013000 +0000" stop="20181128030000 +0000" channel="Setanta">
+    <title lang="en">Down v Derry 1994</title>
     <category lang="en">Other Sports</category>
   </programme>
-  <programme start="20181127020000 +0000" stop="20181127060000 +0000" channel="Setanta">
-    <title lang="en">Uncut: Ramirez v Hart</title>
-    <desc lang="en">Two World Championship fights, two exciting champions. Gilberto Ramirez takes on Jesse Hart, plus, one of the hottest prospects in boxing, Oscar Valdez faces Genesis Servania .The whole night, uncut.(n)</desc>
+  <programme start="20181128030000 +0000" stop="20181128050000 +0000" channel="Setanta">
+    <title lang="en">Scarlets v Ulster</title>
     <category lang="en">Other Sports</category>
   </programme>
-  <programme start="20181127060000 +0000" stop="20181127093000 +0000" channel="Setanta">
-    <title lang="en">Uncut: Ramirez v Orozco</title>
-    <desc lang="en">Jose Ramirez returns to BoxNation as he makes the first defence of his WBC Super-Lightweight crown against unbeaten Antonio Orozco, the number three challenger for his belt.The whole night, uncut.(n)</desc>
+  <programme start="20181128050000 +0000" stop="20181128060000 +0000" channel="Setanta">
+    <title lang="en">The OCR World Championships</title>
     <category lang="en">Other Sports</category>
   </programme>
-  <programme start="20181127093000 +0000" stop="20181127100000 +0000" channel="Setanta">
-    <title lang="en">BoxNation Meets Isaac Dogboe</title>
-    <desc lang="en">Isaac Dogboe, the London based Ghanaian, has won all professional 20 fights and become one of the most talked about world champions in boxing, recently he took time to speak BoxNation's Steve Lillis.(n)</desc>
+  <programme start="20181128060000 +0000" stop="20181128073000 +0000" channel="Setanta">
+    <title lang="en">Dublin v Tyrone 2005</title>
     <category lang="en">Other Sports</category>
   </programme>
-  <programme start="20181127100000 +0000" stop="20181127110000 +0000" channel="Setanta">
-    <title lang="en">Fight To Remember Best Of British</title>
-    <desc lang="en">KO Special: We go back to the York Hall 1996 where Kevin Lueshing took on Chris Saunders in a classic tear up for the British Welterweight title on a packed card.(n)</desc>
+  <programme start="20181128073000 +0000" stop="20181128090000 +0000" channel="Setanta">
+    <title lang="en">Down v Derry 1994</title>
     <category lang="en">Other Sports</category>
   </programme>
-  <programme start="20181127110000 +0000" stop="20181127120000 +0000" channel="Setanta">
-    <title lang="en">Main Events - Lemieux v Reyes</title>
-    <desc lang="en">May 2017. David Lemieux takes on the up and coming Marcos Reyes.(n)</desc>
+  <programme start="20181128090000 +0000" stop="20181128093000 +0000" channel="Setanta">
+    <title lang="en">Manchester City v Man Utd '02/03</title>
     <category lang="en">Other Sports</category>
   </programme>
-  <programme start="20181127120000 +0000" stop="20181127130000 +0000" channel="Setanta">
-    <title lang="en">Main Events - Barrett v Osejo</title>
-    <desc lang="en">May 2017. Rising star and undefeated British Super-Featherweight Zelfa Barrett takes on Eusebio Osejo.(n)</desc>
+  <programme start="20181128093000 +0000" stop="20181128100000 +0000" channel="Setanta">
+    <title lang="en">Leeds United v Man United '01/02</title>
     <category lang="en">Other Sports</category>
   </programme>
-  <programme start="20181127130000 +0000" stop="20181127140000 +0000" channel="Setanta">
-    <title lang="en">BoxNation Presents</title>
-    <desc lang="en">BoxNation Presents- Ricky Hatton was 28 fights undefeated going into his bout against Eamonn Magee. In front of 10,000 fans in Manchester, could he survive an early scare to retain his WBU crown?(n)</desc>
+  <programme start="20181128100000 +0000" stop="20181128103000 +0000" channel="Setanta">
+    <title lang="en">Liverpool v Manchester Utd 93/94</title>
     <category lang="en">Other Sports</category>
   </programme>
-  <programme start="20181127140000 +0000" stop="20181127143000 +0000" channel="Setanta">
-    <title lang="en">BoxNation Meets Isaac Dogboe</title>
-    <desc lang="en">Isaac Dogboe, the London based Ghanaian, has won all professional 20 fights and become one of the most talked about world champions in boxing, recently he took time to speak BoxNation's Steve Lillis.(n)</desc>
+  <programme start="20181128103000 +0000" stop="20181128110000 +0000" channel="Setanta">
+    <title lang="en">Everton v Man Utd</title>
     <category lang="en">Other Sports</category>
   </programme>
-  <programme start="20181127143000 +0000" stop="20181127153000 +0000" channel="Setanta">
-    <title lang="en">Main Events - Kovalev v Mohammedi</title>
-    <desc lang="en">Big hitting Sergey Kovalev is in Las Vegas to defend his World Light-Heavyweight titles against French challenger Nadjib Mohammedi.(n)</desc>
+  <programme start="20181128110000 +0000" stop="20181128120000 +0000" channel="Setanta">
+    <title lang="en">1992 - Va Ser Mitic</title>
     <category lang="en">Other Sports</category>
   </programme>
-  <programme start="20181127153000 +0000" stop="20181127190000 +0000" channel="Setanta">
-    <title lang="en">Uncut: Garcia v Porter</title>
-    <desc lang="en">Welterweight stars and former 147 pound title holders Danny 'Swift' Garcia and 'Showtime' Shawn Porter square off for the vacant WBC Welterweight World Championship.The whole night, uncut.(n)</desc>
+  <programme start="20181128120000 +0000" stop="20181128140000 +0000" channel="Setanta">
+    <title lang="en">Scarlets v Ulster</title>
     <category lang="en">Other Sports</category>
   </programme>
-  <programme start="20181127190000 +0000" stop="20181127200000 +0000" channel="Setanta">
-    <title lang="en">Main Events - Saunders v Monroe JR</title>
-    <desc lang="en">September 2017. WBO World Middleweight Champion Billy Joe Saunders defends his World Title against Willie Monroe Jr.(n)</desc>
+  <programme start="20181128140000 +0000" stop="20181128160000 +0000" channel="Setanta">
+    <title lang="en">Cheetahs v Benetton</title>
     <category lang="en">Other Sports</category>
   </programme>
-  <programme start="20181127200000 +0000" stop="20181127233000 +0000" channel="Setanta">
-    <title lang="en">Uncut: Figueroa v Escandon</title>
-    <desc lang="en">Unbeaten Featherweight Brandon Figueroa faces Oscar Escandon, plus British Heavyweight hope Joe Joyce has his first fight under trainer Abel Sanchez when he faces Iago Kiladze. The whole night, uncut.(n)</desc>
+  <programme start="20181128160000 +0000" stop="20181128163000 +0000" channel="Setanta">
+    <title lang="en">Dick Warner's Fishing Odyssey</title>
     <category lang="en">Other Sports</category>
   </programme>
-  <programme start="20181127233000 +0000" stop="20181128000000 +0000" channel="Setanta">
-    <title lang="en">BoxNation Meets Vasyl Lomachenko</title>
-    <desc lang="en">Three-weight world champion Vasyl Lomachenko has wowed fans all over the world. Here the Ukrainian superstar talks exclusively to BoxNation's Steve Lillis about his spectacular rise to the top.(n)</desc>
+  <programme start="20181128163000 +0000" stop="20181128170000 +0000" channel="Setanta">
+    <title lang="en">Dick Warner's Fishing Odyssey</title>
     <category lang="en">Other Sports</category>
   </programme>
-  <programme start="20181128000000 +0000" stop="20181128010000 +0000" channel="Setanta">
+  <programme start="20181128170000 +0000" stop="20181128173000 +0000" channel="Setanta">
+    <title lang="en">Manchester City v Man Utd '02/03</title>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20181128173000 +0000" stop="20181128180000 +0000" channel="Setanta">
+    <title lang="en">Leeds United v Man United '01/02</title>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20181128180000 +0000" stop="20181128183000 +0000" channel="Setanta">
+    <title lang="en">Golf Central</title>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20181128183000 +0000" stop="20181128190000 +0000" channel="Setanta">
+    <title lang="en">Stories</title>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20181128190000 +0000" stop="20181128210000 +0000" channel="Setanta">
+    <title lang="en">France v Fiji</title>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20181128210000 +0000" stop="20181128220000 +0000" channel="Setanta">
+    <title lang="en">!Live - The PRO14 Hour</title>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20181128220000 +0000" stop="20181128223000 +0000" channel="Setanta">
+    <title lang="en">The Back Row</title>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20181128223000 +0000" stop="20181128233000 +0000" channel="Setanta">
+    <title lang="en">The Road to Redemption</title>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20181128233000 +0000" stop="20181129000000 +0000" channel="Setanta">
+    <title lang="en">Face Off</title>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20181129000000 +0000" stop="20181129013000 +0000" channel="Setanta">
+    <title lang="en">Cork v Waterford 2004</title>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20181129013000 +0000" stop="20181129000000 +0000" channel="Setanta">
+    <title lang="en">Galway v Kilkenny 2012</title>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20181129000000 +0000" stop="20181129010000 +0000" channel="Setanta">
     <title lang="en">Fight of the Year - The Contenders</title>
     <desc lang="en">Garcia v Lipinets. We've selected eight of the most stunning all-out battles seen so far on BoxNation this year. This week Mikey Garcia aims to capture a world title in his fourth weight division.(n)</desc>
     <category lang="en">Other Sports</category>
   </programme>
-  <programme start="20181128010000 +0000" stop="20181128020000 +0000" channel="Setanta">
+  <programme start="20181129010000 +0000" stop="20181129020000 +0000" channel="Setanta">
     <title lang="en">Fight of the Year - The Contenders</title>
     <desc lang="en">Carrol v Geraghty. We've selected eight of the most stunning all-out battles seen so far on BoxNation this year. This week the hugely entertaining all-Irish scrap at the SSE Arena in Belfast.(n)</desc>
     <category lang="en">Other Sports</category>
   </programme>
-  <programme start="20181128020000 +0000" stop="20181128000000 +0000" channel="Setanta">
+  <programme start="20181129020000 +0000" stop="20181129030000 +0000" channel="Setanta">
     <title lang="en">Fight of the Year - The Contenders</title>
     <desc lang="en">Magdaleno v Dogboe. We've selected eight of the most stunning all-out battles seen so far on BoxNation this year. This week Isaac Dogboe challenges for the WBO Super-Bantamweight belt.(n)</desc>
     <category lang="en">Other Sports</category>
   </programme>
-  <programme start="20181128000000 +0000" stop="20181128003000 +0000" channel="Setanta">
-    <title lang="en">Live: CFP Rankings Show</title>
+  <programme start="20181129030000 +0000" stop="20181129040000 +0000" channel="Setanta">
+    <title lang="en">Fight To Remember Calzaghe v Reid</title>
+    <desc lang="en">Robin Reid is in the studio to look back on his closely fought 1999 epic with the legendary Joe Calzaghe.(n)</desc>
     <category lang="en">Other Sports</category>
   </programme>
-  <programme start="20181128003000 +0000" stop="20181128023000 +0000" channel="Setanta">
-    <title lang="en">!Live - CBB: Michigan St @ Louisville</title>
+  <programme start="20181129040000 +0000" stop="20181129050000 +0000" channel="Setanta">
+    <title lang="en">Main Events - Khan v Canelo</title>
+    <desc lang="en">Can the speed of Amir 'King' Khan conquer the power of Saul Canelo Alvarez in the fight of his life for the WBC World Middleweight Championship in Las Vegas?(n)</desc>
     <category lang="en">Other Sports</category>
   </programme>
-  <programme start="20181128023000 +0000" stop="20181128043000 +0000" channel="Setanta">
-    <title lang="en">!Live - CBB: Indiana @ Duke</title>
+  <programme start="20181129050000 +0000" stop="20181129060000 +0000" channel="Setanta">
+    <title lang="en">BoxNation Presents</title>
+    <desc lang="en">From the one round finish against John Miceli, to his title bout with Juan Polo Perez- a collection of some of the finest early fights from knockout maestro Prince Naseem Hamed.(n)</desc>
     <category lang="en">Other Sports</category>
   </programme>
-  <programme start="20181128043000 +0000" stop="20181128050000 +0000" channel="Setanta">
-    <title lang="en">Red Bull Air Race Highlights</title>
+  <programme start="20181129060000 +0000" stop="20181129110000 +0000" channel="Setanta">
+    <title lang="en">Uncut: Murata v Brant</title>
+    <desc lang="en">Japanese superstar Ryoto Murata makes the second defence of his WBA Middleweight Title against American Rob Brant. Plus, Irish star Michael Conlan features on the undercard.The whole night, uncut.(n)</desc>
     <category lang="en">Other Sports</category>
   </programme>
-  <programme start="20181128050000 +0000" stop="20181128053000 +0000" channel="Setanta">
-    <title lang="en">Beyond Champions</title>
+  <programme start="20181129110000 +0000" stop="20181129120000 +0000" channel="Setanta">
+    <title lang="en">Fight To Remember Mormeck v Haye</title>
+    <desc lang="en">David Haye set out to become King of the Crusierweight division when he took on Jean Marc Mormeck for the WBA Super and WBC titles in a legendary bout.(n)</desc>
     <category lang="en">Other Sports</category>
   </programme>
-  <programme start="20181128053000 +0000" stop="20181128060000 +0000" channel="Setanta">
-    <title lang="en">Beyond Champions</title>
+  <programme start="20181129120000 +0000" stop="20181129130000 +0000" channel="Setanta">
+    <title lang="en">Main Events - Warrington v Martinez</title>
+    <desc lang="en">May 2017. Josh Warrington makes his long-awaited return to the ring against former World Champion Kiko Martinez.(n)</desc>
     <category lang="en">Other Sports</category>
   </programme>
-  <programme start="20181128060000 +0000" stop="20181128063000 +0000" channel="Setanta">
-    <title lang="en">Pardon the Interruption</title>
+  <programme start="20181129130000 +0000" stop="20181129140000 +0000" channel="Setanta">
+    <title lang="en">Main Events - Dickens v Ward</title>
+    <desc lang="en">May 2017. Jazza Dickens defends his British Super-Bantamweight title against Thomas Ward.(n)</desc>
     <category lang="en">Other Sports</category>
   </programme>
-  <programme start="20181128063000 +0000" stop="20181128070000 +0000" channel="Setanta">
+  <programme start="20181129140000 +0000" stop="20181129150000 +0000" channel="Setanta">
+    <title lang="en">BoxNation Presents</title>
+    <desc lang="en">BoxNation Presents- Anthony Farnell is on home turf in Manchester, with his second crack at a world title. This one is against South Africa's Ruben Groenewald for the WBU middleweight belt.(n)</desc>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20181129150000 +0000" stop="20181129153000 +0000" channel="Setanta">
+    <title lang="en">Boxing Matters Top 10 British..</title>
+    <desc lang="en">...Lightweights. Colin Hart and Alan Hubbard are in the Boxing Matters studio to put forward their Top 10 British Lightweights of the modern era.(n)</desc>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20181129153000 +0000" stop="20181129190000 +0000" channel="Setanta">
+    <title lang="en">Uncut: Foley v Jenkins</title>
+    <desc lang="en">MTK Global brings boxing back to the Emirates Arena in Glasgow with an action packed card featuring Welsh Super-Lightweight Chris Jenkins against a dangerous Darragh Foley. The whole night, uncut.(n)</desc>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20181129190000 +0000" stop="20181129200000 +0000" channel="Setanta">
+    <title lang="en">Fight of the Year - The Contenders</title>
+    <desc lang="en">Diaz v Ito. We've selected eight of the most stunning all-out battles seen so far on BoxNation this year. Christopher Diaz squares off with Japanese hot shot Masayuki Ito for the WBO World Title.(n)</desc>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20181129200000 +0000" stop="20181129233000 +0000" channel="Setanta">
+    <title lang="en">Uncut: Garcia v Porter</title>
+    <desc lang="en">Welterweight stars and former 147 pound title holders Danny 'Swift' Garcia and 'Showtime' Shawn Porter square off for the vacant WBC Welterweight World Championship.The whole night, uncut.(n)</desc>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20181129233000 +0000" stop="20181130000000 +0000" channel="Setanta">
+    <title lang="en">Boxing Matters - Fighting Cities</title>
+    <desc lang="en">A new series about the cities that have become famous fight capitals. The first one looks at the rich history of Liverpool in the boxing world.(n)</desc>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20181130000000 +0000" stop="20181130030000 +0000" channel="Setanta">
+    <title lang="en">Uncut: Berchelt v Awuku</title>
+    <desc lang="en">Heavy-handed Mexican warrior Miguel Berchelt makes the second defence of his WBC World Super-Featherweight Title against Maxwell Awuku. The whole night, uncut.(n)</desc>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20181130234500 +0000" stop="20181201001500 +0000" channel="Setanta">
     <title lang="en">College Football Live</title>
     <category lang="en">Other Sports</category>
   </programme>
-  <programme start="20181128070000 +0000" stop="20181128073000 +0000" channel="Setanta">
-    <title lang="en">Around the Horn</title>
-    <category lang="en">Other Sports</category>
-  </programme>
-  <programme start="20181128073000 +0000" stop="20181128103000 +0000" channel="Setanta">
-    <title lang="en">CFB: Oklahoma @ West Virginia</title>
-    <category lang="en">Other Sports</category>
-  </programme>
-  <programme start="20181128103000 +0000" stop="20181128110000 +0000" channel="Setanta">
-    <title lang="en">CFP Rankings Show</title>
-    <category lang="en">Other Sports</category>
-  </programme>
-  <programme start="20181128110000 +0000" stop="20181128113000 +0000" channel="Setanta">
-    <title lang="en">Around the Horn</title>
-    <category lang="en">Other Sports</category>
-  </programme>
-  <programme start="20181128113000 +0000" stop="20181128120000 +0000" channel="Setanta">
-    <title lang="en">Pardon the Interruption</title>
-    <category lang="en">Other Sports</category>
-  </programme>
-  <programme start="20181128120000 +0000" stop="20181128123000 +0000" channel="Setanta">
-    <title lang="en">ESPN FC 2018</title>
-    <category lang="en">Other Sports</category>
-  </programme>
-  <programme start="20181128123000 +0000" stop="20181128124500 +0000" channel="Setanta">
-    <title lang="en">Ali: The Mission</title>
-    <category lang="en">Other Sports</category>
-  </programme>
-  <programme start="20181128124500 +0000" stop="20181128143000 +0000" channel="Setanta">
-    <title lang="en">CBB: Michigan State @ Louisville</title>
-    <category lang="en">Other Sports</category>
-  </programme>
-  <programme start="20181128143000 +0000" stop="20181128161500 +0000" channel="Setanta">
-    <title lang="en">CBB: Indiana @ Duke</title>
-    <category lang="en">Other Sports</category>
-  </programme>
-  <programme start="20181128161500 +0000" stop="20181128171500 +0000" channel="Setanta">
-    <title lang="en">World Series of Poker 2018</title>
-    <category lang="en">Other Sports</category>
-  </programme>
-  <programme start="20181128171500 +0000" stop="20181128174500 +0000" channel="Setanta">
-    <title lang="en">ESPN FC 2018</title>
-    <category lang="en">Other Sports</category>
-  </programme>
-  <programme start="20181128174500 +0000" stop="20181128200000 +0000" channel="Setanta">
-    <title lang="en">Live: Lokomotiv v Galatasaray</title>
-    <category lang="en">Other Sports</category>
-  </programme>
-  <programme start="20181128200000 +0000" stop="20181128220000 +0000" channel="Setanta">
-    <title lang="en">Live: PSV v Barcelona</title>
-    <category lang="en">Other Sports</category>
-  </programme>
-  <programme start="20181128220000 +0000" stop="20181128221500 +0000" channel="Setanta">
+  <programme start="20181201001500 +0000" stop="20181201003000 +0000" channel="Setanta">
     <title lang="en">BT Sport Reload</title>
     <category lang="en">Other Sports</category>
   </programme>
-  <programme start="20181128221500 +0000" stop="20181128231500 +0000" channel="Setanta">
-    <title lang="en">Red Bull Air Race Magazine</title>
-    <category lang="en">Other Sports</category>
-  </programme>
-  <programme start="20181128231500 +0000" stop="20181128234500 +0000" channel="Setanta">
-    <title lang="en">Pardon the Interruption</title>
-    <category lang="en">Other Sports</category>
-  </programme>
-  <programme start="20181128234500 +0000" stop="20181129001500 +0000" channel="Setanta">
-    <title lang="en">College Football Live</title>
-    <category lang="en">Other Sports</category>
-  </programme>
-  <programme start="20181129001500 +0000" stop="20181129003000 +0000" channel="Setanta">
-    <title lang="en">BT Sport Reload</title>
-    <category lang="en">Other Sports</category>
-  </programme>
-  <programme start="20181129003000 +0000" stop="20181129023000 +0000" channel="Setanta">
+  <programme start="20181201003000 +0000" stop="20181201023000 +0000" channel="Setanta">
     <title lang="en">Live: College Basketball</title>
     <category lang="en">Other Sports</category>
   </programme>
-  <programme start="20181129023000 +0000" stop="20181129043000 +0000" channel="Setanta">
+  <programme start="20181201023000 +0000" stop="20181201043000 +0000" channel="Setanta">
     <title lang="en">!Live - CBB: N. Carolina @ Michigan</title>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20181201043000 +0000" stop="20181201050000 +0000" channel="Setanta">
+    <title lang="en">BT Sport Reload</title>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20181201050000 +0000" stop="20181201053000 +0000" channel="Setanta">
+    <title lang="en">Beyond Champions</title>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20181201053000 +0000" stop="20181201060000 +0000" channel="Setanta">
+    <title lang="en">Beyond Champions</title>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20181201060000 +0000" stop="20181201063000 +0000" channel="Setanta">
+    <title lang="en">Pardon the Interruption</title>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20181201063000 +0000" stop="20181201070000 +0000" channel="Setanta">
+    <title lang="en">College Football Live</title>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20181201070000 +0000" stop="20181201073000 +0000" channel="Setanta">
+    <title lang="en">Around the Horn</title>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20181201073000 +0000" stop="20181201103000 +0000" channel="Setanta">
+    <title lang="en">CFB: Florida @ Florida State</title>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20181201103000 +0000" stop="20181201110000 +0000" channel="Setanta">
+    <title lang="en">Pardon the Interruption</title>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20181201110000 +0000" stop="20181201113000 +0000" channel="Setanta">
+    <title lang="en">ESPN FC 2018</title>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20181201113000 +0000" stop="20181201131500 +0000" channel="Setanta">
+    <title lang="en">College Basketball</title>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20181201131500 +0000" stop="20181201150000 +0000" channel="Setanta">
+    <title lang="en">CBB: North Carolina @ Michigan</title>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20181201150000 +0000" stop="20181201151500 +0000" channel="Setanta">
+    <title lang="en">BT Sport Reload</title>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20181201151500 +0000" stop="20181201154500 +0000" channel="Setanta">
+    <title lang="en">ESPN FC 2018</title>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20181201154500 +0000" stop="20181201174500 +0000" channel="Setanta">
+    <title lang="en">Live: Spartak Moscow v R. Vienna</title>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20181201174500 +0000" stop="20181201200000 +0000" channel="Setanta">
+    <title lang="en">Live: Salzburg v RB Leipzig</title>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20181201200000 +0000" stop="20181201220000 +0000" channel="Setanta">
+    <title lang="en">Live: Standard Liege v Sevilla</title>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20181201220000 +0000" stop="20181201221500 +0000" channel="Setanta">
+    <title lang="en">BT Sport Reload</title>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20181201221500 +0000" stop="20181202000000 +0000" channel="Setanta">
+    <title lang="en">CBB: North Carolina @ Michigan</title>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20181202000000 +0000" stop="20181202020000 +0000" channel="Setanta">
+    <title lang="en">!Live - CBB: Alabama @ UCF</title>
+    <category lang="en">Other Sports</category>
+  </programme>
+  <programme start="20181202020000 +0000" stop="20181202050000 +0000" channel="Setanta">
+    <title lang="en">CFB: Syracuse @ Boston College</title>
     <category lang="en">Other Sports</category>
   </programme>
 </tv>
