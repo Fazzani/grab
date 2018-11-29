@@ -290,7 +290,7 @@
 |![icon]()|GEO TV|http://www.osn.com|
 |![icon]()|Masala TV|http://www.osn.com|
 |![icon]()|Kiran TV|http://www.osn.com|
-|![icon]()|Urdu 1|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/URD.png)|Urdu 1|http://www.osn.com|
 |![icon]()|Sun TV|http://www.osn.com|
 |![icon]()|Star Vijay International|http://www.osn.com|
 |![icon]()|Asianet|http://www.osn.com|
