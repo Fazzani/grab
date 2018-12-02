@@ -513,7 +513,7 @@
 |![icon](http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_436.PNG)|EUROSPORT 2|http://www.canalsat.fr|
 |![icon](http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_572.PNG)|OL TV|http://www.canalsat.fr|
 |![icon](http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_574.PNG)|ONZEO|http://www.canalsat.fr|
-|![icon](http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_548.PNG)|GIRONDINS TV|http://www.canalsat.fr|
+|![icon](http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_.PNG)|GIRONDINS TV|http://www.canalsat.fr|
 |![icon](http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_612.PNG)|AB MOTEURS|http://www.canalsat.fr|
 |![icon](http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_540.PNG)|EQUIDIA|http://www.canalsat.fr|
 |![icon](http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_381.PNG)|BEIN SPORTS 1|http://www.canalsat.fr|
