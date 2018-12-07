@@ -4,6 +4,7 @@ set -e
 
 command -v tv_merge >/dev/null 2>&1 || { echo >&2 "I require tv_merge but it's not installed. Please install xmltv-util package. Aborting."; exit 1; }
 command -v tar >/dev/null 2>&1 || { echo >&2 "I require tar but it's not installed.  Aborting."; exit 1; }
+command -v zip >/dev/null 2>&1 || { echo >&2 "I require zip but it's not installed.  Aborting."; exit 1; }
 
 output="merge.xmltv"
 i=0
@@ -29,5 +30,7 @@ do
    i=$((i+1))
 
 done;
-tar zcvf merge.tar.gz merge.xmltv && rm merge.xmltv
+
+mv ./merge.xmltv ./merge.xml && tar zcvf merge.tar.gz merge.xml && zip -r merge.zip merge.xml && rm merge.xml
+
 exit 0

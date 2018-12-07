@@ -3,12 +3,12 @@ ENV GITHUB_API_TOKEN xxxx
 LABEL maintainer="fazzani.heni@outlook.com" \
       description="debian image with préinstalled xmltv_util package" \
       system.dist="linux" \
-	  multi.name="xmltv_util"
+	   multi.name="xmltv_util"
 
 WORKDIR /work
 
 RUN apt-get -qq update \
-   && apt-get -y upgrade \
-   && apt-get -y install xmltv-util dos2unix
+    && apt-get -y upgrade \
+    && apt-get -y install xmltv-util dos2unix
 
 CMD [ "/bin/bash" ]
