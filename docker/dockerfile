@@ -9,6 +9,6 @@ WORKDIR /work
 
 RUN apt-get -qq update \
     && apt-get -y upgrade \
-    && apt-get -y install xmltv-util dos2unix
+    && apt-get -y install xmltv-util dos2unix zip
 
 CMD [ "/bin/bash" ]
