@@ -22,7 +22,7 @@ env:
   - WEBGRAB_FILENAME=configs/fr_canal2.xml
   - WEBGRAB_FILENAME=configs/others.xml
 script:
-- docker run -it --rm -v "${PWD}/${WEBGRAB_FILENAME}:/config/WebGrab++.config.xml" -v "${PWD}:/data" --entrypoint="/defaults/updateChannels.sh" synker/webgraboneshot:latest
+- docker run -it --rm -v "${PWD}/${WEBGRAB_FILENAME}:/config/WebGrab++.config.xml" -v "${PWD}:/data" --entrypoint="/defaults/update.sh" synker/webgraboneshot:latest
 - git remote add origin2 https://${GITHUB_API_TOKEN}@github.com/fazzani/grab.git > /dev/null 2>&1
 - git add --all && (git commit -m "Webgrab ${WEBGRAB_FILENAME}" || echo "No changes to commit")
 - (git pull origin2 HEAD:master && git push origin2 HEAD:master) || (sleep 100 && git pull origin2 HEAD:master && git push origin2 HEAD:master)
