@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<settings>
+  <filename>/data/ar_osn.xmltv</filename>
+  <mode>m</mode>
+  <postprocess run="n" grab="y">mdb</postprocess>
+  <proxy>automatic</proxy>
+  <user-agent>Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; yie9)</user-agent>
+  <logging>on</logging>
+  <retry time-out="5">1</retry>
+  <skip>12</skip>
+  <timespan>1</timespan>
+  <update>i</update>
+  <channel update="i" site="osn.com" site_id="YAW" xmltv_id="Al Yawm">Al Yawm</channel>
+  <channel update="i" site="osn.com" site_id="SAF" xmltv_id="Al Safwa">Al Safwa</channel>
+  <channel update="i" site="osn.com" site_id="FAN" xmltv_id="Fann">Fann</channel>
+  <channel update="i" site="osn.com" site_id="CM1" xmltv_id="Cinema 1">Cinema 1</channel>
+  <channel update="i" site="osn.com" site_id="CM2" xmltv_id="Cinema 2">Cinema 2</channel>
+  <channel update="i" site="osn.com" site_id="NOW" xmltv_id="Music Now">Music Now</channel>
+  <channel update="i" site="osn.com" site_id="HK1" xmltv_id="Hekayat">Hekayat</channel>
+  <channel update="i" site="osn.com" site_id="HK2" xmltv_id="Hekayat 2">Hekayat 2</channel>
+  <channel update="i" site="osn.com" site_id="AF1" xmltv_id="ART Aflam 1">ART Aflam 1</channel>
+  <channel update="i" site="osn.com" site_id="AF2" xmltv_id="ART Aflam 2">ART Aflam 2</channel>
+  <channel update="i" site="osn.com" site_id="ACM" xmltv_id="ART Cinema">ART Cinema</channel>
+  <channel update="i" site="osn.com" site_id="ADH" xmltv_id="AD Drama + HD">AD Drama + HD</channel>
+  <channel update="i" site="osn.com" site_id="OFH" xmltv_id="OSN Series First HD">OSN Series First HD</channel>
+  <channel update="i" site="osn.com" site_id="OFS" xmltv_id="OSN First HBO HD">OSN First HBO HD</channel>
+  <channel update="i" site="osn.com" site_id="OFX" xmltv_id="OSN Series HD">OSN Series HD</channel>
+ </settings>
