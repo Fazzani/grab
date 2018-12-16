@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<settings>
+  <filename>/data/ar_arab.xmltv</filename>
+  <mode>m</mode>
+  <postprocess run="n" grab="y">mdb</postprocess>
+  <proxy>automatic</proxy>
+  <user-agent>Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; yie9)</user-agent>
+  <logging>on</logging>
+  <retry time-out="15">1</retry>
+  <skip>12,1</skip>
+  <timespan>2</timespan>
+  <update>i</update>
+  
+	
+  <channel update="i" site="invision.com.sa" site_id="754##page=8" xmltv_id="MBC Pro Sports 3 HD">MBC Pro Sports 3</channel>
+  <channel update="i" site="invision.com.sa" site_id="755##page=8" xmltv_id="MBC Pro Sports 4">MBC Pro Sports 4</channel>
+  <channel update="i" site="invision.com.sa" site_id="756##page=8" xmltv_id="Al Kass">Al Kass</channel>
+  <channel update="i" site="invision.com.sa" site_id="757##page=8" xmltv_id="Al Kass 2">Al Kass 2</channel>
+</settings>
