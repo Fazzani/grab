@@ -13,9 +13,12 @@ branches:
   - master
 if: (commit_message =~ ^daily OR type = "cron") AND (branch = master)
 env:
-  - WEBGRAB_FILENAME=configs/ar_bein.xml
-  - WEBGRAB_FILENAME=configs/ar_osn.xml
+  - WEBGRAB_FILENAME=configs/el_cinema.xml
   - WEBGRAB_FILENAME=configs/ar_arab.xml
+  - WEBGRAB_FILENAME=configs/ar_osn.xml
+  - WEBGRAB_FILENAME=configs/seevi.xml
+  - WEBGRAB_FILENAME=configs/invision.xml
+  - WEBGRAB_FILENAME=configs/ar_bein.xml
   - WEBGRAB_FILENAME=configs/fr_telerama.xml
   - WEBGRAB_FILENAME=configs/fr_telerama.be.xml
   - WEBGRAB_FILENAME=configs/fr_canal.xml
