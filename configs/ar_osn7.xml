@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<settings>
+  <filename>/data/ar_osn.xmltv</filename>
+  <mode>m</mode>
+  <postprocess run="n" grab="y">mdb</postprocess>
+  <proxy>automatic</proxy>
+  <user-agent>Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; yie9)</user-agent>
+  <logging>on</logging>
+  <retry time-out="5">1</retry>
+  <skip>12</skip>
+  <timespan>1</timespan>
+  <update>i</update>
+  
+  <channel update="i" site="osn.com" site_id="STJ" xmltv_id="Star Jalsha">Star Jalsha</channel>
+  <channel update="i" site="osn.com" site_id="SPR" xmltv_id="Star Pravah">Star Pravah</channel>
+  <channel update="i" site="osn.com" site_id="MTL" xmltv_id="MTV Live HD">MTV Live HD</channel>
+  <channel update="i" site="osn.com" site_id="VH1" xmltv_id="VH1">VH1</channel>
+  <channel update="i" site="osn.com" site_id="TRM" xmltv_id="Trace Urban">Trace Urban</channel>
+  <channel update="i" site="osn.com" site_id="SMX" xmltv_id="Sony MIX">Sony MIX</channel>
+  <channel update="i" site="osn.com" site_id="MIN" xmltv_id="MTV India">MTV India</channel>
+  <channel update="i" site="osn.com" site_id="UTV" xmltv_id="Bindaas">Bindaas</channel>
+  <channel update="i" site="osn.com" site_id="DIS" xmltv_id="Disney HD">Disney HD</channel>
+  <channel update="i" site="osn.com" site_id="DXD" xmltv_id="Disney XD">Disney XD</channel>
+  <channel update="i" site="osn.com" site_id="DJR" xmltv_id="Disney Junior">Disney Junior</channel>
+  <channel update="i" site="osn.com" site_id="NIC" xmltv_id="Nickelodeon HD">Nickelodeon HD</channel>
+  <channel update="i" site="osn.com" site_id="NJR" xmltv_id="Nick Jr">Nick Jr</channel>
+  <channel update="i" site="osn.com" site_id="NKT" xmltv_id="NickToons">NickToons</channel>
+  <channel update="i" site="osn.com" site_id="KDZ" xmltv_id="OSN Kid Zone TV">OSN Kid Zone TV</channel>
+  <channel update="i" site="osn.com" site_id="BAB" xmltv_id="Baby TV Europe">Baby TV Europe</channel>
+  <channel update="i" site="osn.com" site_id="ONS" xmltv_id="OSN News">OSN News</channel>
+  <channel update="i" site="osn.com" site_id="SKH" xmltv_id="Sky News HD">Sky News HD</channel>
+  <channel update="i" site="osn.com" site_id="BBW" xmltv_id="BBC World">BBC World</channel>
+  <channel update="i" site="osn.com" site_id="FXN" xmltv_id="Fox News">Fox News</channel>
+  <channel update="i" site="osn.com" site_id="CNB" xmltv_id="CNBC">CNBC</channel>
+</settings>
