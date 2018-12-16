@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<settings>
+  <filename>/data/ar_osn.xmltv</filename>
+  <mode>m</mode>
+  <postprocess run="n" grab="y">mdb</postprocess>
+  <proxy>automatic</proxy>
+  <user-agent>Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; yie9)</user-agent>
+  <logging>on</logging>
+  <retry time-out="5">1</retry>
+  <skip>12</skip>
+  <timespan>1</timespan>
+  <update>i</update>
+
+  <channel update="i" site="osn.com" site_id="OCO" xmltv_id="OSN Series Comedy HD">OSN Series Comedy HD</channel>
+  <channel update="i" site="osn.com" site_id="OCX" xmltv_id="OSN Series Comedy HD +2h">OSN Series Comedy HD +2h</channel>
+  <channel update="i" site="osn.com" site_id="CCE" xmltv_id="Comedy Central">Comedy Central</channel>
+  <channel update="i" site="osn.com" site_id="SFY" xmltv_id="Syfy HD">Syfy HD</channel>
+  <channel update="i" site="osn.com" site_id="STW" xmltv_id="Star World HD">Star World HD</channel>
+  <channel update="i" site="osn.com" site_id="TLC" xmltv_id="TLC HD">TLC HD</channel>
+  <channel update="i" site="osn.com" site_id="ETV" xmltv_id="E! Entertainment HD">E! Entertainment HD</channel>
+  <channel update="i" site="osn.com" site_id="BBE" xmltv_id="BBC First HD">BBC First HD</channel>
+  <channel update="i" site="osn.com" site_id="GUK" xmltv_id="ITV Choice HD">ITV Choice HD</channel>
+  <channel update="i" site="osn.com" site_id="FNH" xmltv_id="Food Network HD">Food Network HD</channel>
+  <channel update="i" site="osn.com" site_id="FIN" xmltv_id="Fine Living">Fine Living</channel>
+  <channel update="i" site="osn.com" site_id="FTH" xmltv_id="Fashion TV HD">Fashion TV HD</channel>
+  <channel update="i" site="osn.com" site_id="TRA" xmltv_id="Travel Channel">Travel Channel</channel>
+  <channel update="i" site="osn.com" site_id="ATV" xmltv_id="\\u0026 TV">\\u0026 TV</channel>
+  <channel update="i" site="osn.com" site_id="STP" xmltv_id="Star Plus Middle East">Star Plus Middle East</channel>
+  <channel update="i" site="osn.com" site_id="ZET" xmltv_id="Zee TV">Zee TV</channel>
+  <channel update="i" site="osn.com" site_id="SET" xmltv_id="SET Middle East">SET Middle East</channel>
+  
+ </settings>
