@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<settings>
+  <filename>/data/ar_osn8.xmltv</filename>
+  <mode>m</mode>
+  <postprocess run="n" grab="y">mdb</postprocess>
+  <proxy>automatic</proxy>
+  <user-agent>Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; yie9)</user-agent>
+  <logging>on</logging>
+  <retry time-out="5">1</retry>
+  <skip>12</skip>
+  <timespan>1</timespan>
+  <update>i</update>
+
+  <channel update="i" site="osn.com" site_id="TIM" xmltv_id="Times Now">Times Now</channel>
+  <channel update="i" site="osn.com" site_id="NDT" xmltv_id="NDTV 24x7">NDTV 24x7</channel>
+  <channel update="i" site="osn.com" site_id="ANN" xmltv_id="Asianet News">Asianet News</channel>
+  <channel update="i" site="osn.com" site_id="SNH" xmltv_id="Sky News Arabia HD">Sky News Arabia HD</channel>
+  <channel update="i" site="osn.com" site_id="SNA" xmltv_id="Sky News Arabia">Sky News Arabia</channel>
+  <channel update="i" site="osn.com" site_id="ARH" xmltv_id="Alarabiya">Alarabiya</channel>
+  <channel update="i" site="osn.com" site_id="FRA" xmltv_id="France 24">France 24</channel>
+  <channel update="i" site="osn.com" site_id="CTA" xmltv_id="CCTV Arabic">CCTV Arabic</channel>
+  <channel update="i" site="osn.com" site_id="DSC" xmltv_id="Discovery HD">Discovery HD</channel>
+  <channel update="i" site="osn.com" site_id="DCF" xmltv_id="Discovery Family HD">Discovery Family HD</channel>
+  
+</settings>
