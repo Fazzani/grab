@@ -32,6 +32,9 @@ env:
   - WEBGRAB_FILENAME=configs/ar_osn8.xml
   - WEBGRAB_FILENAME=configs/ar_osn9.xml
   - WEBGRAB_FILENAME=configs/ar_osn10.xml
+  - WEBGRAB_FILENAME=configs/ar_osn11.xml
+  - WEBGRAB_FILENAME=configs/ar_osn12.xml
+  - WEBGRAB_FILENAME=configs/ar_osn13.xml
   - WEBGRAB_FILENAME=configs/others.xml
 script:
 - docker run -it --rm -v "${PWD}/${WEBGRAB_FILENAME}:/config/WebGrab++.config.xml" -v "${PWD}:/data" synker/webgraboneshot:latest
