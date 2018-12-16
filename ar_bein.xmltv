@@ -738,12 +738,12 @@
     <sub-title lang="en">Mini Match - EPL 2018/2019</sub-title>
     <category lang="en">Leagues Summary</category>
   </programme>
-  <programme start="20181217220000 +0300" stop="20181217223500 +0300" channel="HD2">
+  <programme start="20181217220000 +0300" stop="20181217224000 +0300" channel="HD2">
     <title lang="en">Liverpool v Manchester United</title>
     <sub-title lang="en">Mini Match - EPL 2018/2019</sub-title>
     <category lang="en">Leagues Summary</category>
   </programme>
-  <programme start="20181217223500 +0300" stop="20181218010000 +0300" channel="HD2">
+  <programme start="20181217224000 +0300" stop="20181218010000 +0300" channel="HD2">
     <title lang="en">Derby County vs Nottingham Forest</title>
     <sub-title lang="en">EFL-English Football League - Championship 2018/19</sub-title>
     <category lang="en">English League - Championship</category>
@@ -1380,7 +1380,11 @@
     <sub-title lang="en">English Premier League 2018/2019 Week 17</sub-title>
     <category lang="en">English Premier League</category>
   </programme>
-  <programme start="20181217181500 +0300" stop="20181217200000 +0300" channel="HD7">
+  <programme start="20181217181500 +0300" stop="20181217191000 +0300" channel="HD7">
+    <title lang="en">Traditional carriers … A futuristic trip through the panels of the past</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20181217191000 +0300" stop="20181217200000 +0300" channel="HD7">
     <title lang="en">Bolton Wanderers vs Leeds United</title>
     <sub-title lang="en">EFL-English Football League - Championship 2018/19</sub-title>
     <category lang="en">English League - Championship</category>
@@ -1769,10 +1773,15 @@
     <sub-title lang="en">Behind the superiority in the Japanese way of Judo</sub-title>
     <category lang="en">Sports General</category>
   </programme>
-  <programme start="20181217203000 +0300" stop="20181217223000 +0300" channel="HD10">
+  <programme start="20181217203000 +0300" stop="20181217220000 +0300" channel="HD10">
     <title lang="en">PSG vs Nantes</title>
     <sub-title lang="en">Handball - French Stars League 2018/19</sub-title>
     <category lang="en">Handball - French Handball League</category>
+  </programme>
+  <programme start="20181217220000 +0300" stop="20181217223000 +0300" channel="HD10">
+    <title lang="en">Hitting The Wall 2</title>
+    <sub-title lang="en">Fitness couple Austin Raye and Julian Daigre train like Olympians</sub-title>
+    <category lang="en">Sports General</category>
   </programme>
   <programme start="20181217223000 +0300" stop="20181217230000 +0300" channel="HD10">
     <title lang="en">Gamers Vs</title>
@@ -2010,17 +2019,17 @@
     <sub-title lang="en">EFL-English Football League - Championship 2018/19</sub-title>
     <category lang="en">English League - Championship</category>
   </programme>
-  <programme start="20181216144500 +0300" stop="20181216170000 +0300" channel="SportsHD13">
+  <programme start="20181216144500 +0300" stop="20181216164900 +0300" channel="SportsHD13">
     <title lang="en">International Cricket</title>
     <sub-title lang="en">Australia vs India, 2nd Test Match 1st Session Day 3</sub-title>
     <category lang="en">Cricket</category>
   </programme>
-  <programme start="20181216170000 +0300" stop="20181216191500 +0300" channel="SportsHD13">
+  <programme start="20181216164900 +0300" stop="20181216185000 +0300" channel="SportsHD13">
     <title lang="en">International Cricket</title>
     <sub-title lang="en">Australia vs India, 2nd Test Match 2nd Session Day 3</sub-title>
     <category lang="en">Cricket</category>
   </programme>
-  <programme start="20181216191500 +0300" stop="20181216213000 +0300" channel="SportsHD13">
+  <programme start="20181216185000 +0300" stop="20181216213000 +0300" channel="SportsHD13">
     <title lang="en">International Cricket</title>
     <sub-title lang="en">Australia vs India, 2nd Test Match 3rd Session Day 3</sub-title>
     <category lang="en">Cricket</category>
@@ -2048,10 +2057,15 @@
     <sub-title lang="en">City Game : Los Angeles</sub-title>
     <category lang="en">Sports General</category>
   </programme>
-  <programme start="20181217000000 +0300" stop="20181217033000 +0300" channel="SportsHD13">
+  <programme start="20181217000000 +0300" stop="20181217030000 +0300" channel="SportsHD13">
     <title lang="en">Sydney Sixers vs Hobart Hurricanes</title>
     <sub-title lang="en">Rebel Women's Big Bash League</sub-title>
     <category lang="en">Cricket</category>
+  </programme>
+  <programme start="20181217030000 +0300" stop="20181217033000 +0300" channel="SportsHD13">
+    <title lang="en">NBA Inside Stuff 2018/19</title>
+    <sub-title lang="en">City Game : Los Angeles</sub-title>
+    <category lang="en">Sports General</category>
   </programme>
   <programme start="20181217033000 +0300" stop="20181217040000 +0300" channel="SportsHD13">
     <title lang="en">500 Great Goals</title>
@@ -2471,14 +2485,6 @@
   <programme start="20181217230000 +0300" stop="20181218020000 +0300" channel="SportsHD16">
     <title lang="en">NFL J15</title>
     <sub-title lang="en">RED ZONE MULTIPLEX</sub-title>
-    <category lang="en">Sports General</category>
-  </programme>
-  <programme start="20181216030000 +0300" stop="20181216030000 +0300" channel="SportsHD17">
-    <title lang="en">beIN Sports 17HD</title>
-    <category lang="en">Sports General</category>
-  </programme>
-  <programme start="20181216030000 +0300" stop="20181216030000 +0300" channel="SportsHD17">
-    <title lang="en">beIN Sports 17HD</title>
     <category lang="en">Sports General</category>
   </programme>
   <programme start="20181216000000 +0300" stop="20181216000500 +0300" channel="News_ar">
@@ -3429,8 +3435,100 @@
     <sub-title lang="en">4K - Spanish La Liga 2018/19 4K</sub-title>
     <category lang="en">Spanish League - Primera División</category>
   </programme>
-  <programme start="20181216223500 +0300" stop="20181217004500 +0300" channel="Global">
+  <programme start="20181216033000 +0300" stop="20181216053000 +0300" channel="Global">
+    <title lang="en">Real Madrid vs. Rayo Vallecano de Madrid</title>
+    <category lang="en">Spanish Primera Division Soccer</category>
+  </programme>
+  <programme start="20181216053000 +0300" stop="20181216060000 +0300" channel="Global">
+    <title lang="en">Istanbul Basaksehir F.K. vs. Galatasaray</title>
+    <category lang="en">90 in 30</category>
+  </programme>
+  <programme start="20181216060000 +0300" stop="20181216080000 +0300" channel="Global">
+    <title lang="en">Real Valladolid vs. Atletico Madrid</title>
+    <category lang="en">Spanish Primera Division Soccer</category>
+  </programme>
+  <programme start="20181216080000 +0300" stop="20181216100000 +0300" channel="Global">
     <title lang="en">Eibar vs. Valencia</title>
+    <category lang="en">Spanish Primera Division Soccer</category>
+  </programme>
+  <programme start="20181216100000 +0300" stop="20181216103000 +0300" channel="Global">
+    <title lang="en">Real Madrid vs. Rayo</title>
+    <category lang="en">90 in 30</category>
+  </programme>
+  <programme start="20181216103000 +0300" stop="20181216110000 +0300" channel="Global">
+    <title lang="en">Istanbul Basaksehir F.K. vs. Galatasaray</title>
+    <category lang="en">90 in 30</category>
+  </programme>
+  <programme start="20181216110000 +0300" stop="20181216113000 +0300" channel="Global">
+    <title lang="en">Valladolid vs. Atletico de Madrid</title>
+    <category lang="en">90 in 30</category>
+  </programme>
+  <programme start="20181216113000 +0300" stop="20181216120000 +0300" channel="Global">
+    <title lang="en">Men's Health</title>
+    <sub-title lang="en">All-Natural Secret for Prostate Health</sub-title>
+    <category lang="en">Consumer</category>
+  </programme>
+  <programme start="20181216120000 +0300" stop="20181216123000 +0300" channel="Global">
+    <title lang="en">Power Smokeless Grill</title>
+    <category lang="en">Consumer</category>
+  </programme>
+  <programme start="20181216123000 +0300" stop="20181216130000 +0300" channel="Global">
+    <title lang="en">Paid Programming</title>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20181216130000 +0300" stop="20181216133000 +0300" channel="Global">
+    <title lang="en">Power Smokeless Grill</title>
+    <category lang="en">Consumer</category>
+  </programme>
+  <programme start="20181216133000 +0300" stop="20181216140000 +0300" channel="Global">
+    <title lang="en">Paid Programming</title>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20181216140000 +0300" stop="20181216143000 +0300" channel="Global">
+    <title lang="en">Paid Programming</title>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20181216143000 +0300" stop="20181216150000 +0300" channel="Global">
+    <title lang="en">New Larry King Update</title>
+    <sub-title lang="en">Is Your Credit In Crisis?</sub-title>
+    <category lang="en">Consumer</category>
+  </programme>
+  <programme start="20181216150000 +0300" stop="20181216153000 +0300" channel="Global">
+    <title lang="en">Paid Programming</title>
+    <category lang="en">Shopping</category>
+  </programme>
+  <programme start="20181216153000 +0300" stop="20181216160000 +0300" channel="Global">
+    <title lang="en">Larry King's Prostate Report</title>
+    <sub-title lang="en">Secrets To Prostate Health Revealed</sub-title>
+    <category lang="en">Consumer</category>
+  </programme>
+  <programme start="20181216160000 +0300" stop="20181216163000 +0300" channel="Global">
+    <title lang="en">Try Total Gym for $14.95</title>
+    <category lang="en">Consumer</category>
+  </programme>
+  <programme start="20181216163000 +0300" stop="20181216170000 +0300" channel="Global">
+    <title lang="en">Valladolid vs. Atletico de Madrid</title>
+    <category lang="en">90 in 30</category>
+  </programme>
+  <programme start="20181216170000 +0300" stop="20181216185500 +0300" channel="Global">
+    <title lang="en">Real Madrid vs. Rayo Vallecano de Madrid</title>
+    <category lang="en">Spanish Primera Division Soccer</category>
+  </programme>
+  <programme start="20181216185500 +0300" stop="20181216210000 +0300" channel="Global">
+    <title lang="en">Besiktas JK vs. Trabzonspor AS</title>
+    <category lang="en">Turkish Super Lig Soccer</category>
+  </programme>
+  <programme start="20181216210000 +0300" stop="20181216223000 +0300" channel="Global">
+    <title lang="en">SD Huesca vs. Villarreal</title>
+    <category lang="en">Spanish Primera Division Soccer</category>
+  </programme>
+  <programme start="20181216223000 +0300" stop="20181216223500 +0300" channel="Global">
+    <title lang="en">The Express Preview</title>
+    <category lang="en">Sports</category>
+    <category lang="en">non-event</category>
+  </programme>
+  <programme start="20181216223500 +0300" stop="20181217004500 +0300" channel="Global">
+    <title lang="en">Levante UD vs. FC Barcelona</title>
     <category lang="en">Spanish Primera Division Soccer</category>
   </programme>
   <programme start="20181217004500 +0300" stop="20181217013000 +0300" channel="Global">
