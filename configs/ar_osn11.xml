@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<settings>
+  <filename>/data/ar_osn9.xmltv</filename>
+  <mode>m</mode>
+  <postprocess run="n" grab="y">mdb</postprocess>
+  <proxy>automatic</proxy>
+  <user-agent>Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; yie9)</user-agent>
+  <logging>on</logging>
+  <retry time-out="5">1</retry>
+  <skip>12</skip>
+  <timespan>1</timespan>
+  <update>i</update>
+
+  <channel update="i" site="osn.com" site_id="SCI" xmltv_id="Discovery Science HD">Discovery Science HD</channel>
+  <channel update="i" site="osn.com" site_id="DCX" xmltv_id="IDX HD">IDX HD</channel>
+  <channel update="i" site="osn.com" site_id="CAI" xmltv_id="Crime \\u0026 Investigation Network">Crime and Investigation Network</channel>
+  <channel update="i" site="osn.com" site_id="HIS" xmltv_id="History HD">History HD</channel>
+  <channel update="i" site="osn.com" site_id="HI2" xmltv_id="H2 HD">H2 HD</channel>
+  <channel update="i" site="osn.com" site_id="APL" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
+  <channel update="i" site="osn.com" site_id="NGO" xmltv_id="Nat Geo HD">Nat Geo HD</channel>
+  <channel update="i" site="osn.com" site_id="NHD" xmltv_id="Nat Geo Wild HD">Nat Geo Wild HD</channel>
+  <channel update="i" site="osn.com" site_id="NAH" xmltv_id="Nat Geo People HD">Nat Geo People HD</channel>
+  
+</settings>
