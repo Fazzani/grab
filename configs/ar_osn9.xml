@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<settings>
+  <filename>/data/ar_osn.xmltv</filename>
+  <mode>m</mode>
+  <postprocess run="n" grab="y">mdb</postprocess>
+  <proxy>automatic</proxy>
+  <user-agent>Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; yie9)</user-agent>
+  <logging>on</logging>
+  <retry time-out="5">1</retry>
+  <skip>12</skip>
+  <timespan>1</timespan>
+  <update>i</update>
+
+  <channel update="i" site="osn.com" site_id="SCI" xmltv_id="Discovery Science HD">Discovery Science HD</channel>
+  <channel update="i" site="osn.com" site_id="DCX" xmltv_id="IDX HD">IDX HD</channel>
+  <channel update="i" site="osn.com" site_id="CAI" xmltv_id="Crime \\u0026 Investigation Network">Crime and Investigation Network</channel>
+  <channel update="i" site="osn.com" site_id="HIS" xmltv_id="History HD">History HD</channel>
+  <channel update="i" site="osn.com" site_id="HI2" xmltv_id="H2 HD">H2 HD</channel>
+  <channel update="i" site="osn.com" site_id="APL" xmltv_id="Animal Planet HD">Animal Planet HD</channel>
+  <channel update="i" site="osn.com" site_id="NGO" xmltv_id="Nat Geo HD">Nat Geo HD</channel>
+  <channel update="i" site="osn.com" site_id="NHD" xmltv_id="Nat Geo Wild HD">Nat Geo Wild HD</channel>
+  <channel update="i" site="osn.com" site_id="NAH" xmltv_id="Nat Geo People HD">Nat Geo People HD</channel>
+  <channel update="i" site="osn.com" site_id="SPH" xmltv_id="OSN Sports Action 1 HD">OSN Sports Action 1 HD</channel>
+  <channel update="i" site="osn.com" site_id="SP2" xmltv_id="OSN Sports Action 2 HD">OSN Sports Action 2 HD</channel>
+  <channel update="i" site="osn.com" site_id="SP3" xmltv_id="OSN Sports 3 HD">OSN Sports 3 HD</channel>
+  <channel update="i" site="osn.com" site_id="SP4" xmltv_id="OSN Sports 4 HD">OSN Sports 4 HD</channel>
+  <channel update="i" site="osn.com" site_id="SP5" xmltv_id="OSN Sports 5 HD">OSN Sports 5 HD</channel>
+  <channel update="i" site="osn.com" site_id="WWE" xmltv_id="OSN WWE Network HD">OSN WWE Network HD</channel>
+  <channel update="i" site="osn.com" site_id="CRI" xmltv_id="OSN Sports Cricket HD">OSN Sports Cricket HD</channel>
+  <channel update="i" site="osn.com" site_id="TCR" xmltv_id="Ten Cricket International">Ten Cricket International</channel>
+  <channel update="i" site="osn.com" site_id="FNW" xmltv_id="OSN Fight Network HD">OSN Fight Network HD</channel>
+  <channel update="i" site="osn.com" site_id="FUE" xmltv_id="Fuel TV">Fuel TV</channel>
+  <channel update="i" site="osn.com" site_id="GNX" xmltv_id="Ginx Esports TV HD">Ginx Esports TV HD</channel>
+  
+</settings>
