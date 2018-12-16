@@ -20,6 +20,15 @@ env:
   - WEBGRAB_FILENAME=configs/fr_telerama.be.xml
   - WEBGRAB_FILENAME=configs/fr_canal.xml
   - WEBGRAB_FILENAME=configs/fr_canal2.xml
+  - WEBGRAB_FILENAME=configs/ar_osn2.xml
+  - WEBGRAB_FILENAME=configs/ar_osn3.xml
+  - WEBGRAB_FILENAME=configs/ar_osn4.xml
+  - WEBGRAB_FILENAME=configs/ar_osn5.xml
+  - WEBGRAB_FILENAME=configs/ar_osn6.xml
+  - WEBGRAB_FILENAME=configs/ar_osn7.xml
+  - WEBGRAB_FILENAME=configs/ar_osn8.xml
+  - WEBGRAB_FILENAME=configs/ar_osn9.xml
+  - WEBGRAB_FILENAME=configs/ar_osn10.xml
   - WEBGRAB_FILENAME=configs/others.xml
 script:
 - docker run -it --rm -v "${PWD}/${WEBGRAB_FILENAME}:/config/WebGrab++.config.xml" -v "${PWD}:/data" synker/webgraboneshot:latest
