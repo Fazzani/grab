@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<settings>
+  <filename>/data/ar_osn.xmltv</filename>
+  <mode>m</mode>
+  <postprocess run="n" grab="y">mdb</postprocess>
+  <proxy>automatic</proxy>
+  <user-agent>Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; yie9)</user-agent>
+  <logging>on</logging>
+  <retry time-out="5">1</retry>
+  <skip>12</skip>
+  <timespan>1</timespan>
+  <update>i</update>
+
+  <channel update="i" site="osn.com" site_id="OM1" xmltv_id="OSN Movies HD">OSN Movies HD</channel>
+  <channel update="i" site="osn.com" site_id="OM1" xmltv_id="OSN Movies First HD">OSN Movies First HD</channel>
+  <channel update="i" site="osn.com" site_id="OMX" xmltv_id="OSN Movies First HD +2h">OSN Movies First HD +2h</channel>
+  <channel update="i" site="osn.com" site_id="AHD" xmltv_id="OSN Movies Action HD">OSN Movies Action HD</channel>
+  <channel update="i" site="osn.com" site_id="OMA" xmltv_id="OSN Movies Action +2">OSN Movies Action +2</channel>
+  <channel update="i" site="osn.com" site_id="OPR" xmltv_id="OSN Movies HD Premier">OSN Movies HD Premier</channel>
+  <channel update="i" site="osn.com" site_id="OPX" xmltv_id="OSN Movies +2h">OSN Movies +2h</channel>
+  <channel update="i" site="osn.com" site_id="OCM" xmltv_id="OSN Movies Thriller HD">OSN Movies Thriller HD</channel>
+  <channel update="i" site="osn.com" site_id="OC2" xmltv_id="OSN Movies Thriller +2h">OSN Movies Thriller +2h</channel>
+  <channel update="i" site="osn.com" site_id="OMF" xmltv_id="OSN Movies Festival HD">OSN Movies Festival HD</channel>
+  <channel update="i" site="osn.com" site_id="OMK" xmltv_id="OSN Movies Kids HD">OSN Movies Kids HD</channel>
+  <channel update="i" site="osn.com" site_id="OFM" xmltv_id="OSN Movies Family HD">OSN Movies Family HD</channel>
+  <channel update="i" site="osn.com" site_id="OMC" xmltv_id="OSN Movies Comedy HD">OSN Movies Comedy HD</channel>
+ </settings>
