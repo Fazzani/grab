@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<settings>
+  <filename>/data/ar_osn.xmltv</filename>
+  <mode>m</mode>
+  <postprocess run="n" grab="y">mdb</postprocess>
+  <proxy>automatic</proxy>
+  <user-agent>Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; yie9)</user-agent>
+  <logging>on</logging>
+  <retry time-out="5">1</retry>
+  <skip>12</skip>
+  <timespan>1</timespan>
+  <update>i</update>
+  
+  <channel update="i" site="osn.com" site_id="COL" xmltv_id="Colors">Colors</channel>
+  <channel update="i" site="osn.com" site_id="HUM" xmltv_id="Hum TV Middle East">Hum TV Middle East</channel>
+  <channel update="i" site="osn.com" site_id="RIS" xmltv_id="Rishtey TV">Rishtey TV</channel>
+  <channel update="i" site="osn.com" site_id="LIF" xmltv_id="Life OK Middle East">Life OK Middle East</channel>
+  <channel update="i" site="osn.com" site_id="SAB" xmltv_id="Sab TV">Sab TV</channel>
+  <channel update="i" site="osn.com" site_id="ARY" xmltv_id="Ary Digital TV">Ary Digital TV</channel>
+  <channel update="i" site="osn.com" site_id="GEO" xmltv_id="GEO TV">GEO TV</channel>
+  <channel update="i" site="osn.com" site_id="MAS" xmltv_id="Masala TV">Masala TV</channel>
+  <channel update="i" site="osn.com" site_id="KIR" xmltv_id="Kiran TV">Kiran TV</channel>
+  <channel update="i" site="osn.com" site_id="URD" xmltv_id="Urdu 1">Urdu 1</channel>
+  <channel update="i" site="osn.com" site_id="STV" xmltv_id="Sun TV">Sun TV</channel>
+  <channel update="i" site="osn.com" site_id="SVI" xmltv_id="Star Vijay International">Star Vijay International</channel>
+  <channel update="i" site="osn.com" site_id="ASN" xmltv_id="Asianet">Asianet</channel>
+  <channel update="i" site="osn.com" site_id="SUR" xmltv_id="Surya TV">Surya TV</channel>
+  <channel update="i" site="osn.com" site_id="UDA" xmltv_id="Udaya TV">Udaya TV</channel>
+  <channel update="i" site="osn.com" site_id="GEM" xmltv_id="Gemini TV">Gemini TV</channel>
+</settings>
