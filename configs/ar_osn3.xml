@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<settings>
+  <filename>/data/ar_osn.xmltv</filename>
+  <mode>m</mode>
+  <postprocess run="n" grab="y">mdb</postprocess>
+  <proxy>automatic</proxy>
+  <user-agent>Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; yie9)</user-agent>
+  <logging>on</logging>
+  <retry time-out="5">1</retry>
+  <skip>12</skip>
+  <timespan>1</timespan>
+  <update>i</update>
+ <channel update="i" site="osn.com" site_id="BO1" xmltv_id="OSN Movies Box Office 1 HD">OSN Movies Box Office 1 HD</channel>
+  <channel update="i" site="osn.com" site_id="BO2" xmltv_id="OSN Movies Box Office 2">OSN Movies Box Office 2</channel>
+  <channel update="i" site="osn.com" site_id="BO3" xmltv_id="OSN Movies Box Office 3">OSN Movies Box Office 3</channel>
+  <channel update="i" site="osn.com" site_id="SUN" xmltv_id="Sundance TV">Sundance TV</channel>
+  <channel update="i" site="osn.com" site_id="STM" xmltv_id="Star Movies HD">Star Movies HD</channel>
+  <channel update="i" site="osn.com" site_id="SEM" xmltv_id="Sony Max Middle East">Sony Max Middle East</channel>
+  <channel update="i" site="osn.com" site_id="STG" xmltv_id="Star Gold">Star Gold</channel>
+  <channel update="i" site="osn.com" site_id="ZEC" xmltv_id="Zee Cinema">Zee Cinema</channel>
+  <channel update="i" site="osn.com" site_id="UTM" xmltv_id="UTV Movies">UTV Movies</channel>
+  <channel update="i" site="osn.com" site_id="OYH" xmltv_id="OSN Ya Hala Al Oula">OSN Ya Hala Al Oula</channel>
+  <channel update="i" site="osn.com" site_id="OYX" xmltv_id="OSN Ya Hala Al Oula +2h">OSN Ya Hala Al Oula +2h</channel>
+  <channel update="i" site="osn.com" site_id="OYA" xmltv_id="OSN Ya Hala HD">OSN Ya Hala HD</channel>
+  <channel update="i" site="osn.com" site_id="OYC" xmltv_id="OSN Yahala Cinema HD">OSN Yahala Cinema HD</channel>
+  <channel update="i" site="osn.com" site_id="SER" xmltv_id="Series Channel">Series Channel</channel>
+  <channel update="i" site="osn.com" site_id="SE4" xmltv_id="Series +2">Series +2</channel>
+ </settings>
