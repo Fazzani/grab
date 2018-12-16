@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<settings>
+  <filename>/data/ar_osn.xmltv</filename>
+  <mode>m</mode>
+  <postprocess run="n" grab="y">mdb</postprocess>
+  <proxy>automatic</proxy>
+  <user-agent>Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; yie9)</user-agent>
+  <logging>on</logging>
+  <retry time-out="5">1</retry>
+  <skip>12</skip>
+  <timespan>1</timespan>
+  <update>i</update>
+  
+  <channel update="i" site="osn.com" site_id="AD3" xmltv_id="AD Sports 3 HD">AD Sports 3 HD</channel>
+  <channel update="i" site="osn.com" site_id="AD4" xmltv_id="AD Sports 4 HD">AD Sports 4 HD</channel>
+  <channel update="i" site="osn.com" site_id="AD5" xmltv_id="AD Sports 5 HD">AD Sports 5 HD</channel>
+  <channel update="i" site="osn.com" site_id="AD6" xmltv_id="AD Sports 6 HD">AD Sports 6 HD</channel>
+  <channel update="i" site="osn.com" site_id="AD7" xmltv_id="Edge Sport HD">Edge Sport HD</channel>
+  <channel update="i" site="osn.com" site_id="DS5" xmltv_id="Dubai Sports 4 HD">Dubai Sports 4 HD</channel>
+  <channel update="i" site="osn.com" site_id="DH2" xmltv_id="Dubai Sports 2 HD">Dubai Sports 2 HD</channel>
+  <channel update="i" site="osn.com" site_id="TFC" xmltv_id="TFC">TFC</channel>
+  <channel update="i" site="osn.com" site_id="BRO" xmltv_id="ABS-CBN Sports+Action">ABS CBN Sports+ Action</channel>
+  <channel update="i" site="osn.com" site_id="COG" xmltv_id="Cinema One Global">Cinema One Global</channel>
+  <channel update="i" site="osn.com" site_id="ANC" xmltv_id="ANC">ANC</channel>
+  <channel update="i" site="osn.com" site_id="DZM" xmltv_id="DZMM Teleradyo">DZMM Teleradyo</channel>
+  <channel update="i" site="osn.com" site_id="DWR" xmltv_id="DWRR 101.9">DWRR 101.9</channel>
+  <channel update="i" site="osn.com" site_id="VIV" xmltv_id="Viva TV">Viva TV</channel>
+  <channel update="i" site="osn.com" site_id="TV5" xmltv_id="Kapatid TV5">Kapatid TV5</channel>
+  <channel update="i" site="osn.com" site_id="AKS" xmltv_id="Aksyon TV">Aksyon TV</channel>
+  
+</settings>
