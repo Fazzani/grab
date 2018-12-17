@@ -6,7 +6,7 @@
   <proxy>automatic</proxy>
   <user-agent>Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; yie9)</user-agent>
   <logging>on</logging>
-  <retry time-out="5">1</retry>
+  <retry time-out="15">1</retry>
   <skip>12</skip>
   <timespan>1</timespan>
   <update>i</update>
@@ -27,5 +27,7 @@
   <channel update="i" site="osn.com" site_id="VIV" xmltv_id="Viva TV">Viva TV</channel>
   <channel update="i" site="osn.com" site_id="TV5" xmltv_id="Kapatid TV5">Kapatid TV5</channel>
   <channel update="i" site="osn.com" site_id="AKS" xmltv_id="Aksyon TV">Aksyon TV</channel>
+  <channel update="i" site="osn.com" site_id="DJR" xmltv_id="Disney Junior">Disney Junior</channel>
+  <channel update="i" site="osn.com" site_id="NKT" xmltv_id="NickToons">NickToons</channel>
   
 </settings>
