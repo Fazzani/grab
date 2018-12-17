@@ -53,6 +53,14 @@
   </channel><channel id="LBCI" country="arab">
     <display-name lang="ar">LBCI</display-name>
     <url>http://www.elcinema.com</url>
+  </channel><channel id="Watania 1" country="bein">
+    <display-name lang="ar">Watania 1</display-name>
+    <icon src="http://www.watania1.tn/sites/default/files/main_logo_watania1_0.png"/>
+    <url>http://www.watania.tn</url>
+  </channel><channel id="Watania 2" country="bein">
+    <display-name lang="ar">Watania 2</display-name>
+    <icon src="http://www.watania2.tn/sites/default/files/main_logo_watania2_0.png"/>
+    <url>http://www.watania.tn</url>
   </channel><channel id="HD1" country="bein">
     <display-name lang="en">beIN sports 1 hd</display-name>
     <icon src="http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg"/>
@@ -149,293 +157,75 @@
     <display-name lang="en">beIN sports (es)</display-name>
     <icon src="http://epg.beinsports.com/us_sports/Global.svg"/>
     <url>http://www.bein.net</url>
-  </channel><channel id="MoviesHD1" country="bein">
-    <display-name lang="en">beIN movies 1</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="MoviesHD2" country="bein">
-    <display-name lang="en">beIN movies 2</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="MoviesHD3" country="bein">
-    <display-name lang="en">beIN movies 3</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="MoviesHD4" country="bein">
-    <display-name lang="en">beIN movies 4</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="SeriesHD1" country="bein">
-    <display-name lang="en">beIN Series 1</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="SeriesHD2" country="bein">
-    <display-name lang="en">beIN Series 2</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="beJUNIOR" country="bein">
-    <display-name lang="en">beIN junior hd 1</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="fox_movies_hd" country="bein">
-    <display-name lang="en">Fox movies hd</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="starmovieshd" country="bein">
-    <display-name lang="en">Star movies hd</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="starw_orld_hd" country="bein">
-    <display-name lang="en">Star world hd</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="NatGeo_HD" country="bein">
-    <display-name lang="en">Natgeo HD (en)</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="NatGeoPeople_HD" country="bein">
-    <display-name lang="en">NatGeo People HD (en)</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="NatGeoWild_HD" country="bein">
-    <display-name lang="en">natgeo wild HD (en)</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="Baby_TV" country="bein">
-    <display-name lang="en">Baby tv</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="Jeem" country="bein">
-    <display-name lang="en">Jeem</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="Baraem" country="bein">
-    <display-name lang="en">Baraem</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="gourmet" country="bein">
-    <display-name lang="en">beIN Gourmet HD</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="BoxOffice_HD1" country="bein">
-    <display-name lang="en">beIN BoxOffice HD1</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="DTX" country="bein">
-    <display-name lang="en">beIN DTX HD</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="CBeebies" country="bein">
-    <display-name lang="en">beIN BBC CBEEBIES</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="V_HD" country="bein">
-    <display-name lang="en">beIN V HD</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="CNNHD" country="bein">
-    <display-name lang="en">beIN CNN HD</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="TCM" country="bein">
-    <display-name lang="en">beIN TCM</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="CartoonNetworkAR" country="bein">
-    <display-name lang="en">beIN Cartoon Network AR</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="CartoonNetworkHD" country="bein">
-    <display-name lang="en">beIN Cartoon Network HD</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="CartoonNetworkHindi" country="bein">
-    <display-name lang="en">beIN Cartoon Network Hindi</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="HLN" country="bein">
-    <display-name lang="en">beIN HLN</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="Boomerang" country="bein">
-    <display-name lang="en">beIN Boomerang</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="DramaHD1" country="bein">
-    <display-name lang="en">beIN Drama HD 1</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="Star_Movies_HD" country="bein">
-    <display-name lang="en">beIN Star Movies HD</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="amc" country="bein">
-    <display-name lang="en">beIN AMC</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="CBSreality" country="bein">
-    <display-name lang="en">beIN CBS reality</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="FoxActMovHD" country="bein">
-    <display-name lang="en">beIN Fox Action Movie HD</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="FoxFamHD" country="bein">
-    <display-name lang="en">beIN Fox Family HD</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="FXHD" country="bein">
-    <display-name lang="en">beIN FX HD</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="FoxNews" country="bein">
-    <display-name lang="en">beIN Fox News</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="AnimalPlanetHD" country="bein">
-    <display-name lang="en">beIN Animal Planet HD</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="DLife" country="bein">
-    <display-name lang="en">beIN DLife</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="DreamWorks" country="bein">
-    <display-name lang="en">beIN DreamWorks</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="DKids" country="bein">
-    <display-name lang="en">beIN DKids</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="DMAX" country="bein">
-    <display-name lang="en">beIN DMAX</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="OutdoorChannel" country="bein">
-    <display-name lang="en">beIN Outdoor Channel</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="Extreme" country="bein">
-    <display-name lang="en">beIN Extreme</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="TravelChannel" country="bein">
-    <display-name lang="en">beIN Travel Channel</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"/>
-    <url>http://www.bein.net</url>
-  </channel><channel id="HGTV" country="bein">
-    <display-name lang="en">beIN HGTV</display-name>
-    <icon src="http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"/>
-    <url>http://www.bein.net</url>
   </channel><channel id="almanar" country="el_cinema">
     <display-name lang="ar">almanar</display-name>
-    <url>http://www.elcinema.ar.com</url>
+    <url>http://www.elcinema.com</url>
   </channel><channel id="Sada El Balad" country="el_cinema">
     <display-name lang="ar">Sada El Balad</display-name>
-    <url>http://www.elcinema.ar.com</url>
+    <url>http://www.elcinema.com</url>
   </channel><channel id="ON E" country="el_cinema">
     <display-name lang="ar">ON E</display-name>
-    <url>http://www.elcinema.ar.com</url>
+    <url>http://www.elcinema.com</url>
   </channel><channel id="Amman" country="el_cinema">
     <display-name lang="ar">Amman</display-name>
-    <url>http://www.elcinema.ar.com</url>
+    <url>http://www.elcinema.com</url>
   </channel><channel id="MTV" country="el_cinema">
     <display-name lang="ar">MTV</display-name>
-    <url>http://www.elcinema.ar.com</url>
+    <url>http://www.elcinema.com</url>
   </channel><channel id="Al Nahar TV" country="el_cinema">
     <display-name lang="ar">Al Nahar TV</display-name>
-    <url>http://www.elcinema.ar.com</url>
+    <url>http://www.elcinema.com</url>
   </channel><channel id="Al Jadeed TV" country="el_cinema">
     <display-name lang="ar">Al Jadeed TV</display-name>
-    <url>http://www.elcinema.ar.com</url>
+    <url>http://www.elcinema.com</url>
   </channel><channel id="Al Kahera Wal Nas TV" country="el_cinema">
     <display-name lang="ar">Al Kahera Wal Nas TV</display-name>
-    <url>http://www.elcinema.ar.com</url>
+    <url>http://www.elcinema.com</url>
   </channel><channel id="Al sharqya" country="el_cinema">
     <display-name lang="ar">Al sharqya</display-name>
-    <url>http://www.elcinema.ar.com</url>
+    <url>http://www.elcinema.com</url>
   </channel><channel id="Zee alwan" country="el_cinema">
     <display-name lang="ar">Zee alwan</display-name>
-    <url>http://www.elcinema.ar.com</url>
+    <url>http://www.elcinema.com</url>
   </channel><channel id="Fujairah" country="el_cinema">
     <display-name lang="ar">Fujairah</display-name>
-    <url>http://www.elcinema.ar.com</url>
+    <url>http://www.elcinema.com</url>
   </channel><channel id="Roya" country="el_cinema">
     <display-name lang="ar">Roya</display-name>
-    <url>http://www.elcinema.ar.com</url>
+    <url>http://www.elcinema.com</url>
   </channel><channel id="Mehwar" country="el_cinema">
     <display-name lang="ar">Mehwar</display-name>
-    <url>http://www.elcinema.ar.com</url>
+    <url>http://www.elcinema.com</url>
   </channel><channel id="Alhayat TV" country="el_cinema">
     <display-name lang="ar">Alhayat TV</display-name>
-    <url>http://www.elcinema.ar.com</url>
+    <url>http://www.elcinema.com</url>
   </channel><channel id="Sharjah TV" country="el_cinema">
     <display-name lang="ar">Sharjah TV</display-name>
-    <url>http://www.elcinema.ar.com</url>
+    <url>http://www.elcinema.com</url>
   </channel><channel id="Lana" country="el_cinema">
     <display-name lang="ar">Lana</display-name>
-    <url>http://www.elcinema.ar.com</url>
+    <url>http://www.elcinema.com</url>
   </channel><channel id="Sada El Balad Drama" country="el_cinema">
     <display-name lang="ar">Sada El Balad Drama</display-name>
-    <url>http://www.elcinema.ar.com</url>
+    <url>http://www.elcinema.com</url>
   </channel><channel id="ON Drama" country="el_cinema">
     <display-name lang="ar">ON Drama</display-name>
-    <url>http://www.elcinema.ar.com</url>
+    <url>http://www.elcinema.com</url>
   </channel><channel id="iFILM TV" country="el_cinema">
     <display-name lang="ar">iFILM TV</display-name>
-    <url>http://www.elcinema.ar.com</url>
+    <url>http://www.elcinema.com</url>
   </channel><channel id="DMC DRAMA" country="el_cinema">
     <display-name lang="ar">DMC DRAMA</display-name>
-    <url>http://www.elcinema.ar.com</url>
+    <url>http://www.elcinema.com</url>
   </channel><channel id="Alhayat Series" country="el_cinema">
     <display-name lang="ar">Alhayat Series</display-name>
-    <url>http://www.elcinema.ar.com</url>
+    <url>http://www.elcinema.com</url>
   </channel><channel id="TeN TV" country="el_cinema">
     <display-name lang="ar">TeN TV</display-name>
-    <url>http://www.elcinema.ar.com</url>
+    <url>http://www.elcinema.com</url>
   </channel><channel id="Fan" country="el_cinema">
     <display-name lang="ar">Fan</display-name>
-    <url>http://www.elcinema.ar.com</url>
-  </channel><channel id="Watania 1" country="invision">
-    <display-name lang="ar">Watania 1</display-name>
-    <icon src="http://www.watania1.tn/sites/default/files/main_logo_watania1_0.png"/>
-    <url>http://www.watania.tn</url>
-  </channel><channel id="Watania 2" country="invision">
-    <display-name lang="ar">Watania 2</display-name>
-    <icon src="http://www.watania2.tn/sites/default/files/main_logo_watania2_0.png"/>
-    <url>http://www.watania.tn</url>
-  </channel><channel id="MBC Pro Sports 3 HD" country="invision">
-    <display-name lang="en">MBC Pro Sports 3</display-name>
-    <url>http://www.invision.com.sa</url>
-  </channel><channel id="MBC Pro Sports 4" country="invision">
-    <display-name lang="en">MBC Pro Sports 4</display-name>
-    <url>http://www.invision.com.sa</url>
-  </channel><channel id="Al Kass" country="invision">
-    <display-name lang="en">Al Kass</display-name>
-    <url>http://www.invision.com.sa</url>
-  </channel><channel id="Al Kass 2" country="invision">
-    <display-name lang="en">Al Kass 2</display-name>
-    <url>http://www.invision.com.sa</url>
-  </channel><channel id="Al-Jazeera" country="invision">
-    <display-name lang="en">Al-Jazeera</display-name>
-    <url>http://www.invision.com.sa</url>
-  </channel><channel id="JSC Documentry" country="invision">
-    <display-name lang="en">JSC Documentry</display-name>
-    <url>http://www.invision.com.sa</url>
-  </channel><channel id="Al-Jazeera English" country="invision">
-    <display-name lang="en">Al-Jazeera English</display-name>
-    <url>http://www.invision.com.sa</url>
-  </channel><channel id="Al Majd General" country="invision">
-    <display-name lang="en">Al Majd General</display-name>
-    <url>http://www.invision.com.sa</url>
-  </channel><channel id="Al Aan" country="invision">
-    <display-name lang="en">Al Aan</display-name>
-    <url>http://www.invision.com.sa</url>
-  </channel><channel id="Qatar TV" country="invision">
-    <display-name lang="en">Qatar TV</display-name>
-    <url>http://www.invision.com.sa</url>
+    <url>http://www.elcinema.com</url>
   </channel><channel id="AD Sports 3 HD" country="osn10">
     <display-name lang="en">AD Sports 3 HD</display-name>
     <icon src="http://content.osn.com/logo/channel/cropped/AD3.png"/>
@@ -1014,39 +804,62 @@
     <url>http://www.osn.com</url>
   </channel><channel id="GMA Life TV" country="osn">
     <display-name lang="en">GMA Life TV</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/GML.png"/>
     <url>http://www.osn.com</url>
   </channel><channel id="GMA News TV" country="osn">
     <display-name lang="en">GMA News TV</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/GMN.png"/>
     <url>http://www.osn.com</url>
   </channel><channel id="MBC 1" country="osn">
     <display-name lang="en">MBC 1</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/MH1.png"/>
     <url>http://www.osn.com</url>
   </channel><channel id="MBC 4" country="osn">
     <display-name lang="en">MBC 4</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/MH4.png"/>
     <url>http://www.osn.com</url>
   </channel><channel id="MBC Drama" country="osn">
     <display-name lang="en">MBC Drama</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/MHD.png"/>
     <url>http://www.osn.com</url>
   </channel><channel id="MBC 2" country="osn">
     <display-name lang="en">MBC 2</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/MH2.png"/>
     <url>http://www.osn.com</url>
   </channel><channel id="MBC MAX" country="osn">
     <display-name lang="en">MBC MAX</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/MHM.png"/>
     <url>http://www.osn.com</url>
   </channel><channel id="MBC Action" country="osn">
     <display-name lang="en">MBC Action</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/MHA.png"/>
     <url>http://www.osn.com</url>
-  </channel><channel id="Cartoon Network Arabia" country="seevi">
-    <display-name lang="ar">Cartoon Network Arabia</display-name>
+  </channel><channel id="Panorama Food" country="seevi">
+    <display-name lang="ar">Panorama Food</display-name>
     <url>http://www.seevii.com</url>
-  </channel><channel id="Ajial" country="seevi">
-    <display-name lang="ar">Ajial</display-name>
+  </channel><channel id="Al Thakafeyia" country="seevi">
+    <display-name lang="ar">Al Thakafeyia</display-name>
     <url>http://www.seevii.com</url>
-  </channel><channel id="Space Toon" country="seevi">
-    <display-name lang="ar">Space Toon</display-name>
+  </channel><channel id="National Geographic Abu  Dhabi" country="seevi">
+    <display-name lang="ar">National Geographic Abu  Dhabi</display-name>
     <url>http://www.seevii.com</url>
-  </channel><channel id="Saudi Channel 1" country="seevi">
-    <display-name lang="ar">Saudi Channel 1</display-name>
+  </channel><channel id="CNBC Arabiyah" country="seevi">
+    <display-name lang="ar">CNBC Arabiyah</display-name>
+    <url>http://www.seevii.com</url>
+  </channel><channel id="B4U Plus" country="seevi">
+    <display-name lang="ar">B4U Plus</display-name>
+    <url>http://www.seevii.com</url>
+  </channel><channel id="MBC 4" country="seevi">
+    <display-name lang="ar">MBC 4</display-name>
+    <url>http://www.seevii.com</url>
+  </channel><channel id="MBC Masr" country="seevi">
+    <display-name lang="ar">MBC Masr</display-name>
+    <url>http://www.seevii.com</url>
+  </channel><channel id="Dubai One" country="seevi">
+    <display-name lang="ar">Dubai One</display-name>
+    <url>http://www.seevii.com</url>
+  </channel><channel id="Rotana Masriyah" country="seevi">
+    <display-name lang="ar">Rotana Masriyah</display-name>
     <url>http://www.seevii.com</url>
   </channel><channel id="Abu Dhabi TV" country="seevi">
     <display-name lang="ar">Abu Dhabi TV</display-name>
@@ -1054,122 +867,137 @@
   </channel><channel id="AD Emarat" country="seevi">
     <display-name lang="ar">AD Emarat</display-name>
     <url>http://www.seevii.com</url>
-  </channel><channel id="Abu Dhabi Drama" country="seevi">
-    <display-name lang="ar">Abu Dhabi Drama</display-name>
-    <url>http://www.seevii.com</url>
-  </channel><channel id="Dubai Al Oula" country="seevi">
-    <display-name lang="ar">Dubai Al Oula</display-name>
-    <url>http://www.seevii.com</url>
-  </channel><channel id="Dubai One" country="seevi">
-    <display-name lang="ar">Dubai One</display-name>
-    <url>http://www.seevii.com</url>
-  </channel><channel id="Sama Dubai" country="seevi">
-    <display-name lang="ar">Sama Dubai</display-name>
-    <url>http://www.seevii.com</url>
-  </channel><channel id="Dubai Zaman" country="seevi">
-    <display-name lang="ar">Dubai Zaman</display-name>
-    <url>http://www.seevii.com</url>
-  </channel><channel id="Rotana Cinema" country="seevi">
-    <display-name lang="ar">Rotana Cinema</display-name>
-    <url>http://www.seevii.com</url>
-  </channel><channel id="Rotana Aflam" country="seevi">
-    <display-name lang="ar">Rotana Aflam</display-name>
-    <url>http://www.seevii.com</url>
-  </channel><channel id="Rotana Khalijiah" country="seevi">
-    <display-name lang="ar">Rotana Khalijiah</display-name>
-    <url>http://www.seevii.com</url>
-  </channel><channel id="Rotana Classic" country="seevi">
-    <display-name lang="ar">Rotana Classic</display-name>
-    <url>http://www.seevii.com</url>
-  </channel><channel id="LBC Sat" country="seevi">
-    <display-name lang="ar">LBC Sat</display-name>
-    <url>http://www.seevii.com</url>
-  </channel><channel id="Rotana Masriyah" country="seevi">
-    <display-name lang="ar">Rotana Masriyah</display-name>
-    <url>http://www.seevii.com</url>
-  </channel><channel id="CBC" country="seevi">
-    <display-name lang="ar">CBC</display-name>
-    <url>http://www.seevii.com</url>
-  </channel><channel id="CBC Drama" country="seevi">
-    <display-name lang="ar">CBC Drama</display-name>
-    <url>http://www.seevii.com</url>
-  </channel><channel id="CBC Extra" country="seevi">
-    <display-name lang="ar">CBC Extra</display-name>
-    <url>http://www.seevii.com</url>
-  </channel><channel id="CBC Sofra" country="seevi">
-    <display-name lang="ar">CBC Sofra</display-name>
-    <url>http://www.seevii.com</url>
-  </channel><channel id="Al Nahar Drama" country="seevi">
-    <display-name lang="ar">Al Nahar Drama</display-name>
-    <url>http://www.seevii.com</url>
-  </channel><channel id="Al Nahar" country="seevi">
-    <display-name lang="ar">Al Nahar</display-name>
-    <url>http://www.seevii.com</url>
-  </channel><channel id="Al Hayat 2" country="seevi">
-    <display-name lang="ar">Al Hayat 2</display-name>
-    <url>http://www.seevii.com</url>
-  </channel><channel id="Al Kahera Wal Nas" country="seevi">
-    <display-name lang="ar">Al Kahera Wal Nas</display-name>
-    <url>http://www.seevii.com</url>
-  </channel><channel id="MTV Lebanon" country="seevi">
-    <display-name lang="ar">MTV Lebanon</display-name>
-    <url>http://www.seevii.com</url>
-  </channel><channel id="Future TV International" country="seevi">
-    <display-name lang="ar">Future TV International</display-name>
-    <url>http://www.seevii.com</url>
-  </channel><channel id="Al Jadeed" country="seevi">
-    <display-name lang="ar">Al Jadeed</display-name>
-    <url>http://www.seevii.com</url>
-  </channel><channel id="LDC" country="seevi">
-    <display-name lang="ar">LDC</display-name>
-    <url>http://www.seevii.com</url>
   </channel><channel id="Al Dafrah" country="seevi">
     <display-name lang="ar">Al Dafrah</display-name>
-    <url>http://www.seevii.com</url>
-  </channel><channel id="Zee Alwan" country="seevi">
-    <display-name lang="ar">Zee Alwan</display-name>
-    <url>http://www.seevii.com</url>
-  </channel><channel id="B4U Plus" country="seevi">
-    <display-name lang="ar">B4U Plus</display-name>
-    <url>http://www.seevii.com</url>
-  </channel><channel id="B4U Aflam" country="seevi">
-    <display-name lang="ar">B4U Aflam</display-name>
-    <url>http://www.seevii.com</url>
-  </channel><channel id="Alaan TV" country="seevi">
-    <display-name lang="ar">Alaan TV</display-name>
-    <url>http://www.seevii.com</url>
-  </channel><channel id="Funoon TV" country="seevi">
-    <display-name lang="ar">Funoon TV</display-name>
-    <url>http://www.seevii.com</url>
-  </channel><channel id="Bahrain" country="seevi">
-    <display-name lang="ar">Bahrain</display-name>
-    <url>http://www.seevii.com</url>
-  </channel><channel id="Jordan" country="seevi">
-    <display-name lang="ar">Jordan</display-name>
-    <url>http://www.seevii.com</url>
-  </channel><channel id="Al Masriyah" country="seevi">
-    <display-name lang="ar">Al Masriyah</display-name>
-    <url>http://www.seevii.com</url>
-  </channel><channel id="al Arabiya" country="seevi">
-    <display-name lang="ar">al Arabiya</display-name>
-    <url>http://www.seevii.com</url>
-  </channel><channel id="Al Ekhbaria" country="seevi">
-    <display-name lang="ar">Al Ekhbaria</display-name>
-    <url>http://www.seevii.com</url>
-  </channel><channel id="BBC Arabic" country="seevi">
-    <display-name lang="ar">BBC Arabic</display-name>
-    <url>http://www.seevii.com</url>
-  </channel><channel id="Sky News Arabia HD" country="seevi">
-    <display-name lang="ar">Sky News Arabia HD</display-name>
     <url>http://www.seevii.com</url>
   </channel><channel id="Al Hadath" country="seevi">
     <display-name lang="ar">Al Hadath</display-name>
     <url>http://www.seevii.com</url>
-  </channel><channel id="France 24 (in Arabic)" country="seevi">
-    <display-name lang="ar">France 24 (in Arabic)</display-name>
+  </channel><channel id="Al Jadeed" country="seevi">
+    <display-name lang="ar">Al Jadeed</display-name>
+    <url>http://www.seevii.com</url>
+  </channel><channel id="Al Masriyah" country="seevi">
+    <display-name lang="ar">Al Masriyah</display-name>
+    <url>http://www.seevii.com</url>
+  </channel><channel id="Alaan TV" country="seevi">
+    <display-name lang="ar">Alaan TV</display-name>
+    <url>http://www.seevii.com</url>
+  </channel><channel id="Bahrain" country="seevi">
+    <display-name lang="ar">Bahrain</display-name>
+    <url>http://www.seevii.com</url>
+  </channel><channel id="Dubai Al Oula" country="seevi">
+    <display-name lang="ar">Dubai Al Oula</display-name>
+    <url>http://www.seevii.com</url>
+  </channel><channel id="Dubai Zaman" country="seevi">
+    <display-name lang="ar">Dubai Zaman</display-name>
     <url>http://www.seevii.com</url>
   </channel><channel id="DW-TV" country="seevi">
     <display-name lang="ar">DW-TV</display-name>
+    <url>http://www.seevii.com</url>
+  </channel><channel id="Ennahar TV AlGerie" country="seevi">
+    <display-name lang="ar">Ennahar TV AlGerie</display-name>
+    <url>http://www.seevii.com</url>
+  </channel><channel id="Funoon TV" country="seevi">
+    <display-name lang="ar">Funoon TV</display-name>
+    <url>http://www.seevii.com</url>
+  </channel><channel id="Future TV International" country="seevi">
+    <display-name lang="ar">Future TV International</display-name>
+    <url>http://www.seevii.com</url>
+  </channel><channel id="Hawas TV" country="seevi">
+    <display-name lang="ar">Hawas TV</display-name>
+    <url>http://www.seevii.com</url>
+  </channel><channel id="Jordan" country="seevi">
+    <display-name lang="ar">Jordan</display-name>
+    <url>http://www.seevii.com</url>
+  </channel><channel id="KTV Ch 2" country="seevi">
+    <display-name lang="ar">KTV Ch 2</display-name>
+    <url>http://www.seevii.com</url>
+  </channel><channel id="LBC Sat" country="seevi">
+    <display-name lang="ar">LBC Sat</display-name>
+    <url>http://www.seevii.com</url>
+  </channel><channel id="LDC" country="seevi">
+    <display-name lang="ar">LDC</display-name>
+    <url>http://www.seevii.com</url>
+  </channel><channel id="MBC 1" country="seevi">
+    <display-name lang="ar">MBC 1</display-name>
+    <url>http://www.seevii.com</url>
+  </channel><channel id="MBC Masr 2" country="seevi">
+    <display-name lang="ar">MBC Masr 2</display-name>
+    <url>http://www.seevii.com</url>
+  </channel><channel id="MTV Lebanon" country="seevi">
+    <display-name lang="ar">MTV Lebanon</display-name>
+    <url>http://www.seevii.com</url>
+  </channel><channel id="Noor Dubai" country="seevi">
+    <display-name lang="ar">Noor Dubai</display-name>
+    <url>http://www.seevii.com</url>
+  </channel><channel id="Ro\u00b4ya" country="seevi">
+    <display-name lang="ar">Ro\u00b4ya</display-name>
+    <url>http://www.seevii.com</url>
+  </channel><channel id="Rotana Khalijiah" country="seevi">
+    <display-name lang="ar">Rotana Khalijiah</display-name>
+    <url>http://www.seevii.com</url>
+  </channel><channel id="Sama Dubai" country="seevi">
+    <display-name lang="ar">Sama Dubai</display-name>
+    <url>http://www.seevii.com</url>
+  </channel><channel id="Saudi Channel 1" country="seevi">
+    <display-name lang="ar">Saudi Channel 1</display-name>
+    <url>http://www.seevii.com</url>
+  </channel><channel id="Scope TV" country="seevi">
+    <display-name lang="ar">Scope TV</display-name>
+    <url>http://www.seevii.com</url>
+  </channel><channel id="Zee Alwan" country="seevi">
+    <display-name lang="ar">Zee Alwan</display-name>
+    <url>http://www.seevii.com</url>
+  </channel><channel id="Ajial" country="seevi">
+    <display-name lang="ar">Ajial</display-name>
+    <url>http://www.seevii.com</url>
+  </channel><channel id="Cartoon Network Arabia" country="seevi">
+    <display-name lang="ar">Cartoon Network Arabia</display-name>
+    <url>http://www.seevii.com</url>
+  </channel><channel id="MBC 3" country="seevi">
+    <display-name lang="ar">MBC 3</display-name>
+    <url>http://www.seevii.com</url>
+  </channel><channel id="Space Toon" country="seevi">
+    <display-name lang="ar">Space Toon</display-name>
+    <url>http://www.seevii.com</url>
+  </channel><channel id="Cima Alibaba" country="seevi">
+    <display-name lang="ar">Cima Alibaba</display-name>
+    <url>http://www.seevii.com</url>
+  </channel><channel id="MBC Action" country="seevi">
+    <display-name lang="ar">MBC Action</display-name>
+    <url>http://www.seevii.com</url>
+  </channel><channel id="MBC Bollywood" country="seevi">
+    <display-name lang="ar">MBC Bollywood</display-name>
+    <url>http://www.seevii.com</url>
+  </channel><channel id="MBC Max" country="seevi">
+    <display-name lang="ar">MBC Max</display-name>
+    <url>http://www.seevii.com</url>
+  </channel><channel id="Rotana Aflam" country="seevi">
+    <display-name lang="ar">Rotana Aflam</display-name>
+    <url>http://www.seevii.com</url>
+  </channel><channel id="Rotana Cinema" country="seevi">
+    <display-name lang="ar">Rotana Cinema</display-name>
+    <url>http://www.seevii.com</url>
+  </channel><channel id="Rotana Classic" country="seevi">
+    <display-name lang="ar">Rotana Classic</display-name>
+    <url>http://www.seevii.com</url>
+  </channel><channel id="TokTok Cima" country="seevi">
+    <display-name lang="ar">TokTok Cima</display-name>
+    <url>http://www.seevii.com</url>
+  </channel><channel id="Rotana Clip" country="seevi">
+    <display-name lang="ar">Rotana Clip</display-name>
+    <url>http://www.seevii.com</url>
+  </channel><channel id="Rotana Music" country="seevi">
+    <display-name lang="ar">Rotana Music</display-name>
+    <url>http://www.seevii.com</url>
+  </channel><channel id="Al Ekhbaria" country="seevi">
+    <display-name lang="ar">Al Ekhbaria</display-name>
+    <url>http://www.seevii.com</url>
+  </channel><channel id="Bahrain 55" country="seevi">
+    <display-name lang="ar">Bahrain 55</display-name>
+    <url>http://www.seevii.com</url>
+  </channel><channel id="BBC Arabic" country="seevi">
+    <display-name lang="ar">BBC Arabic</display-name>
     <url>http://www.seevii.com</url>
   </channel><channel id="BBC World News" country="seevi">
     <display-name lang="ar">BBC World News</display-name>
@@ -1180,17 +1008,8 @@
   </channel><channel id="France 24 (in English)" country="seevi">
     <display-name lang="ar">France 24 (in English)</display-name>
     <url>http://www.seevii.com</url>
-  </channel><channel id="CNBC Arabiyah" country="seevi">
-    <display-name lang="ar">CNBC Arabiyah</display-name>
-    <url>http://www.seevii.com</url>
-  </channel><channel id="National Geographic Abu  Dhabi" country="seevi">
-    <display-name lang="ar">National Geographic Abu  Dhabi</display-name>
-    <url>http://www.seevii.com</url>
-  </channel><channel id="Quest TV" country="seevi">
-    <display-name lang="ar">Quest TV</display-name>
-    <url>http://www.seevii.com</url>
-  </channel><channel id="Al Thakafeyia" country="seevi">
-    <display-name lang="ar">Al Thakafeyia</display-name>
+  </channel><channel id="Dubai Racing HD" country="seevi">
+    <display-name lang="ar">Dubai Racing HD</display-name>
     <url>http://www.seevii.com</url>
   </channel><channel id="Al Resalah" country="seevi">
     <display-name lang="ar">Al Resalah</display-name>
@@ -1198,11 +1017,17 @@
   </channel><channel id="Saudi Quran" country="seevi">
     <display-name lang="ar">Saudi Quran</display-name>
     <url>http://www.seevii.com</url>
-  </channel><channel id="Iqraa TV" country="seevi">
-    <display-name lang="ar">Iqraa TV</display-name>
+  </channel><channel id="Abu Dhabi Drama" country="seevi">
+    <display-name lang="ar">Abu Dhabi Drama</display-name>
     <url>http://www.seevii.com</url>
-  </channel><channel id="Noor Dubai" country="seevi">
-    <display-name lang="ar">Noor Dubai</display-name>
+  </channel><channel id="MBC Drama" country="seevi">
+    <display-name lang="ar">MBC Drama</display-name>
+    <url>http://www.seevii.com</url>
+  </channel><channel id="Panorama Drama 2" country="seevi">
+    <display-name lang="ar">Panorama Drama 2</display-name>
+    <url>http://www.seevii.com</url>
+  </channel><channel id="Syrian Drama TV" country="seevi">
+    <display-name lang="ar">Syrian Drama TV</display-name>
     <url>http://www.seevii.com</url>
   </channel><channel id="Abu Dhabi Sport 1" country="seevi">
     <display-name lang="ar">Abu Dhabi Sport 1</display-name>
@@ -1213,68 +1038,74 @@
   </channel><channel id="Al Ahly TV" country="seevi">
     <display-name lang="ar">Al Ahly TV</display-name>
     <url>http://www.seevii.com</url>
-  </channel><channel id="Dubai Sport" country="seevi">
-    <display-name lang="ar">Dubai Sport</display-name>
-    <url>http://www.seevii.com</url>
   </channel><channel id="Dubai Sport 4" country="seevi">
     <display-name lang="ar">Dubai Sport 4</display-name>
     <url>http://www.seevii.com</url>
-  </channel><channel id="Dubai Racing HD" country="seevi">
-    <display-name lang="ar">Dubai Racing HD</display-name>
-    <url>http://www.seevii.com</url>
-  </channel><channel id="Rotana Clip" country="seevi">
-    <display-name lang="ar">Rotana Clip</display-name>
-    <url>http://www.seevii.com</url>
-  </channel><channel id="Rotana Music" country="seevi">
-    <display-name lang="ar">Rotana Music</display-name>
-    <url>http://www.seevii.com</url>
-  </channel><channel id="KTV CH1" country="seevi">
-    <display-name lang="ar">KTV CH1</display-name>
-    <url>http://www.seevii.com</url>
-  </channel><channel id="KTV Ch 2" country="seevi">
-    <display-name lang="ar">KTV Ch 2</display-name>
-    <url>http://www.seevii.com</url>
-  </channel><channel id="Imagine Movies" country="seevi">
-    <display-name lang="ar">Imagine Movies</display-name>
-    <url>http://www.seevii.com</url>
-  </channel><channel id="Cima Alibaba" country="seevi">
-    <display-name lang="ar">Cima Alibaba</display-name>
-    <url>http://www.seevii.com</url>
-  </channel><channel id="Scope TV" country="seevi">
-    <display-name lang="ar">Scope TV</display-name>
-    <url>http://www.seevii.com</url>
-  </channel><channel id="Nile Family and Kids" country="seevi">
-    <display-name lang="ar">Nile Family and Kids</display-name>
-    <url>http://www.seevii.com</url>
-  </channel><channel id="Ennahar TV AlGerie" country="seevi">
-    <display-name lang="ar">Ennahar TV AlGerie</display-name>
+  </channel><channel id="Dubai Sport" country="seevi">
+    <display-name lang="ar">Dubai Sport</display-name>
     <url>http://www.seevii.com</url>
   </channel><channel id="Al Oula" country="seevi">
     <display-name lang="ar">Al Oula</display-name>
     <url>http://www.seevii.com</url>
-  </channel><channel id="Panorama Food" country="seevi">
-    <display-name lang="ar">Panorama Food</display-name>
+  </channel><channel id="KTV CH1" country="seevi">
+    <display-name lang="ar">KTV CH1</display-name>
     <url>http://www.seevii.com</url>
-  </channel><channel id="Dream 2" country="seevi">
-    <display-name lang="ar">Dream 2</display-name>
+  </channel><channel id="Sky News Arabia HD" country="seevi">
+    <display-name lang="ar">Sky News Arabia HD</display-name>
     <url>http://www.seevii.com</url>
-  </channel><channel id="Nile Cinema" country="seevi">
-    <display-name lang="ar">Nile Cinema</display-name>
+  </channel><channel id="Seevii AlOla" country="seevi">
+    <display-name lang="ar">Seevii AlOla</display-name>
     <url>http://www.seevii.com</url>
-  </channel><channel id="TokTok Cima" country="seevi">
-    <display-name lang="ar">TokTok Cima</display-name>
+  </channel><channel id="Seevii Documentary HD" country="seevi">
+    <display-name lang="ar">Seevii Documentary HD</display-name>
     <url>http://www.seevii.com</url>
-  </channel><channel id="Bahrain 55" country="seevi">
-    <display-name lang="ar">Bahrain 55</display-name>
+  </channel><channel id="Seevii SHAMIYA HD" country="seevi">
+    <display-name lang="ar">Seevii SHAMIYA HD</display-name>
     <url>http://www.seevii.com</url>
-  </channel><channel id="Nile Drama" country="seevi">
-    <display-name lang="ar">Nile Drama</display-name>
+  </channel><channel id="Seevii Drama HD" country="seevi">
+    <display-name lang="ar">Seevii Drama HD</display-name>
+    <url>http://www.seevii.com</url>
+  </channel><channel id="B4U Aflam" country="seevi">
+    <display-name lang="ar">B4U Aflam</display-name>
     <url>http://www.seevii.com</url>
   </channel><channel id="Panorama Drama" country="seevi">
     <display-name lang="ar">Panorama Drama</display-name>
     <url>http://www.seevii.com</url>
-  </channel><channel id="Panorama Drama 2" country="seevi">
-    <display-name lang="ar">Panorama Drama 2</display-name>
+  </channel><channel id="al Arabiya" country="seevi">
+    <display-name lang="ar">al Arabiya</display-name>
+    <url>http://www.seevii.com</url>
+  </channel><channel id="France 24 (in Arabic)" country="seevi">
+    <display-name lang="ar">France 24 (in Arabic)</display-name>
+    <url>http://www.seevii.com</url>
+  </channel><channel id="Sada Balad" country="seevi">
+    <display-name lang="ar">Sada Balad</display-name>
+    <url>http://www.seevii.com</url>
+  </channel><channel id="Quest TV " country="seevi">
+    <display-name lang="ar">Quest TV </display-name>
+    <url>http://www.seevii.com</url>
+  </channel><channel id="MBC 1 HD" country="seevi">
+    <display-name lang="ar">MBC 1 HD</display-name>
+    <url>http://www.seevii.com</url>
+  </channel><channel id="MBC 3 HD" country="seevi">
+    <display-name lang="ar">MBC 3 HD</display-name>
+    <url>http://www.seevii.com</url>
+  </channel><channel id="MBC 4 HD" country="seevi">
+    <display-name lang="ar">MBC 4 HD</display-name>
+    <url>http://www.seevii.com</url>
+  </channel><channel id="MBC Action HD" country="seevi">
+    <display-name lang="ar">MBC Action HD</display-name>
+    <url>http://www.seevii.com</url>
+  </channel><channel id="MBC MAX HD" country="seevi">
+    <display-name lang="ar">MBC MAX HD</display-name>
+    <url>http://www.seevii.com</url>
+  </channel><channel id="MBC Drama HD" country="seevi">
+    <display-name lang="ar">MBC Drama HD</display-name>
+    <url>http://www.seevii.com</url>
+  </channel><channel id="MBC Variety HD" country="seevi">
+    <display-name lang="ar">MBC Variety HD</display-name>
+    <url>http://www.seevii.com</url>
+  </channel><channel id="MBC Drama + HD" country="seevi">
+    <display-name lang="ar">MBC Drama + HD</display-name>
     <url>http://www.seevii.com</url>
   </channel><channel id="TF1" country="canal2">
     <display-name lang="fr">TF1</display-name>

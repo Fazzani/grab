@@ -166,6 +166,30 @@
 				"url": "http://www.elcinema.com"
 			},
 			{
+				"id": "Watania 1",
+				"country": "bein",
+				"display-name": {
+					"lang": "ar",
+					"$t": "Watania 1"
+				},
+				"icon": {
+					"src": "http://www.watania1.tn/sites/default/files/main_logo_watania1_0.png"
+				},
+				"url": "http://www.watania.tn"
+			},
+			{
+				"id": "Watania 2",
+				"country": "bein",
+				"display-name": {
+					"lang": "ar",
+					"$t": "Watania 2"
+				},
+				"icon": {
+					"src": "http://www.watania2.tn/sites/default/files/main_logo_watania2_0.png"
+				},
+				"url": "http://www.watania.tn"
+			},
+			{
 				"id": "HD1",
 				"country": "bein",
 				"display-name": {
@@ -454,553 +478,13 @@
 				"url": "http://www.bein.net"
 			},
 			{
-				"id": "MoviesHD1",
-				"country": "bein",
-				"display-name": {
-					"lang": "en",
-					"$t": "beIN movies 1"
-				},
-				"icon": {
-					"src": "http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"
-				},
-				"url": "http://www.bein.net"
-			},
-			{
-				"id": "MoviesHD2",
-				"country": "bein",
-				"display-name": {
-					"lang": "en",
-					"$t": "beIN movies 2"
-				},
-				"icon": {
-					"src": "http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"
-				},
-				"url": "http://www.bein.net"
-			},
-			{
-				"id": "MoviesHD3",
-				"country": "bein",
-				"display-name": {
-					"lang": "en",
-					"$t": "beIN movies 3"
-				},
-				"icon": {
-					"src": "http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"
-				},
-				"url": "http://www.bein.net"
-			},
-			{
-				"id": "MoviesHD4",
-				"country": "bein",
-				"display-name": {
-					"lang": "en",
-					"$t": "beIN movies 4"
-				},
-				"icon": {
-					"src": "http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"
-				},
-				"url": "http://www.bein.net"
-			},
-			{
-				"id": "SeriesHD1",
-				"country": "bein",
-				"display-name": {
-					"lang": "en",
-					"$t": "beIN Series 1"
-				},
-				"icon": {
-					"src": "http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"
-				},
-				"url": "http://www.bein.net"
-			},
-			{
-				"id": "SeriesHD2",
-				"country": "bein",
-				"display-name": {
-					"lang": "en",
-					"$t": "beIN Series 2"
-				},
-				"icon": {
-					"src": "http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"
-				},
-				"url": "http://www.bein.net"
-			},
-			{
-				"id": "beJUNIOR",
-				"country": "bein",
-				"display-name": {
-					"lang": "en",
-					"$t": "beIN junior hd 1"
-				},
-				"icon": {
-					"src": "http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"
-				},
-				"url": "http://www.bein.net"
-			},
-			{
-				"id": "fox_movies_hd",
-				"country": "bein",
-				"display-name": {
-					"lang": "en",
-					"$t": "Fox movies hd"
-				},
-				"icon": {
-					"src": "http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"
-				},
-				"url": "http://www.bein.net"
-			},
-			{
-				"id": "starmovieshd",
-				"country": "bein",
-				"display-name": {
-					"lang": "en",
-					"$t": "Star movies hd"
-				},
-				"icon": {
-					"src": "http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"
-				},
-				"url": "http://www.bein.net"
-			},
-			{
-				"id": "starw_orld_hd",
-				"country": "bein",
-				"display-name": {
-					"lang": "en",
-					"$t": "Star world hd"
-				},
-				"icon": {
-					"src": "http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"
-				},
-				"url": "http://www.bein.net"
-			},
-			{
-				"id": "NatGeo_HD",
-				"country": "bein",
-				"display-name": {
-					"lang": "en",
-					"$t": "Natgeo HD (en)"
-				},
-				"icon": {
-					"src": "http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"
-				},
-				"url": "http://www.bein.net"
-			},
-			{
-				"id": "NatGeoPeople_HD",
-				"country": "bein",
-				"display-name": {
-					"lang": "en",
-					"$t": "NatGeo People HD (en)"
-				},
-				"icon": {
-					"src": "http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"
-				},
-				"url": "http://www.bein.net"
-			},
-			{
-				"id": "NatGeoWild_HD",
-				"country": "bein",
-				"display-name": {
-					"lang": "en",
-					"$t": "natgeo wild HD (en)"
-				},
-				"icon": {
-					"src": "http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"
-				},
-				"url": "http://www.bein.net"
-			},
-			{
-				"id": "Baby_TV",
-				"country": "bein",
-				"display-name": {
-					"lang": "en",
-					"$t": "Baby tv"
-				},
-				"icon": {
-					"src": "http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"
-				},
-				"url": "http://www.bein.net"
-			},
-			{
-				"id": "Jeem",
-				"country": "bein",
-				"display-name": {
-					"lang": "en",
-					"$t": "Jeem"
-				},
-				"icon": {
-					"src": "http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"
-				},
-				"url": "http://www.bein.net"
-			},
-			{
-				"id": "Baraem",
-				"country": "bein",
-				"display-name": {
-					"lang": "en",
-					"$t": "Baraem"
-				},
-				"icon": {
-					"src": "http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"
-				},
-				"url": "http://www.bein.net"
-			},
-			{
-				"id": "gourmet",
-				"country": "bein",
-				"display-name": {
-					"lang": "en",
-					"$t": "beIN Gourmet HD"
-				},
-				"icon": {
-					"src": "http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"
-				},
-				"url": "http://www.bein.net"
-			},
-			{
-				"id": "BoxOffice_HD1",
-				"country": "bein",
-				"display-name": {
-					"lang": "en",
-					"$t": "beIN BoxOffice HD1"
-				},
-				"icon": {
-					"src": "http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"
-				},
-				"url": "http://www.bein.net"
-			},
-			{
-				"id": "DTX",
-				"country": "bein",
-				"display-name": {
-					"lang": "en",
-					"$t": "beIN DTX HD"
-				},
-				"icon": {
-					"src": "http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"
-				},
-				"url": "http://www.bein.net"
-			},
-			{
-				"id": "CBeebies",
-				"country": "bein",
-				"display-name": {
-					"lang": "en",
-					"$t": "beIN BBC CBEEBIES"
-				},
-				"icon": {
-					"src": "http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"
-				},
-				"url": "http://www.bein.net"
-			},
-			{
-				"id": "V_HD",
-				"country": "bein",
-				"display-name": {
-					"lang": "en",
-					"$t": "beIN V HD"
-				},
-				"icon": {
-					"src": "http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"
-				},
-				"url": "http://www.bein.net"
-			},
-			{
-				"id": "CNNHD",
-				"country": "bein",
-				"display-name": {
-					"lang": "en",
-					"$t": "beIN CNN HD"
-				},
-				"icon": {
-					"src": "http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"
-				},
-				"url": "http://www.bein.net"
-			},
-			{
-				"id": "TCM",
-				"country": "bein",
-				"display-name": {
-					"lang": "en",
-					"$t": "beIN TCM"
-				},
-				"icon": {
-					"src": "http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"
-				},
-				"url": "http://www.bein.net"
-			},
-			{
-				"id": "CartoonNetworkAR",
-				"country": "bein",
-				"display-name": {
-					"lang": "en",
-					"$t": "beIN Cartoon Network AR"
-				},
-				"icon": {
-					"src": "http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"
-				},
-				"url": "http://www.bein.net"
-			},
-			{
-				"id": "CartoonNetworkHD",
-				"country": "bein",
-				"display-name": {
-					"lang": "en",
-					"$t": "beIN Cartoon Network HD"
-				},
-				"icon": {
-					"src": "http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"
-				},
-				"url": "http://www.bein.net"
-			},
-			{
-				"id": "CartoonNetworkHindi",
-				"country": "bein",
-				"display-name": {
-					"lang": "en",
-					"$t": "beIN Cartoon Network Hindi"
-				},
-				"icon": {
-					"src": "http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"
-				},
-				"url": "http://www.bein.net"
-			},
-			{
-				"id": "HLN",
-				"country": "bein",
-				"display-name": {
-					"lang": "en",
-					"$t": "beIN HLN"
-				},
-				"icon": {
-					"src": "http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"
-				},
-				"url": "http://www.bein.net"
-			},
-			{
-				"id": "Boomerang",
-				"country": "bein",
-				"display-name": {
-					"lang": "en",
-					"$t": "beIN Boomerang"
-				},
-				"icon": {
-					"src": "http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"
-				},
-				"url": "http://www.bein.net"
-			},
-			{
-				"id": "DramaHD1",
-				"country": "bein",
-				"display-name": {
-					"lang": "en",
-					"$t": "beIN Drama HD 1"
-				},
-				"icon": {
-					"src": "http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"
-				},
-				"url": "http://www.bein.net"
-			},
-			{
-				"id": "Star_Movies_HD",
-				"country": "bein",
-				"display-name": {
-					"lang": "en",
-					"$t": "beIN Star Movies HD"
-				},
-				"icon": {
-					"src": "http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"
-				},
-				"url": "http://www.bein.net"
-			},
-			{
-				"id": "amc",
-				"country": "bein",
-				"display-name": {
-					"lang": "en",
-					"$t": "beIN AMC"
-				},
-				"icon": {
-					"src": "http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"
-				},
-				"url": "http://www.bein.net"
-			},
-			{
-				"id": "CBSreality",
-				"country": "bein",
-				"display-name": {
-					"lang": "en",
-					"$t": "beIN CBS reality"
-				},
-				"icon": {
-					"src": "http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"
-				},
-				"url": "http://www.bein.net"
-			},
-			{
-				"id": "FoxActMovHD",
-				"country": "bein",
-				"display-name": {
-					"lang": "en",
-					"$t": "beIN Fox Action Movie HD"
-				},
-				"icon": {
-					"src": "http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"
-				},
-				"url": "http://www.bein.net"
-			},
-			{
-				"id": "FoxFamHD",
-				"country": "bein",
-				"display-name": {
-					"lang": "en",
-					"$t": "beIN Fox Family HD"
-				},
-				"icon": {
-					"src": "http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"
-				},
-				"url": "http://www.bein.net"
-			},
-			{
-				"id": "FXHD",
-				"country": "bein",
-				"display-name": {
-					"lang": "en",
-					"$t": "beIN FX HD"
-				},
-				"icon": {
-					"src": "http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"
-				},
-				"url": "http://www.bein.net"
-			},
-			{
-				"id": "FoxNews",
-				"country": "bein",
-				"display-name": {
-					"lang": "en",
-					"$t": "beIN Fox News"
-				},
-				"icon": {
-					"src": "http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"
-				},
-				"url": "http://www.bein.net"
-			},
-			{
-				"id": "AnimalPlanetHD",
-				"country": "bein",
-				"display-name": {
-					"lang": "en",
-					"$t": "beIN Animal Planet HD"
-				},
-				"icon": {
-					"src": "http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"
-				},
-				"url": "http://www.bein.net"
-			},
-			{
-				"id": "DLife",
-				"country": "bein",
-				"display-name": {
-					"lang": "en",
-					"$t": "beIN DLife"
-				},
-				"icon": {
-					"src": "http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"
-				},
-				"url": "http://www.bein.net"
-			},
-			{
-				"id": "DreamWorks",
-				"country": "bein",
-				"display-name": {
-					"lang": "en",
-					"$t": "beIN DreamWorks"
-				},
-				"icon": {
-					"src": "http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"
-				},
-				"url": "http://www.bein.net"
-			},
-			{
-				"id": "DKids",
-				"country": "bein",
-				"display-name": {
-					"lang": "en",
-					"$t": "beIN DKids"
-				},
-				"icon": {
-					"src": "http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"
-				},
-				"url": "http://www.bein.net"
-			},
-			{
-				"id": "DMAX",
-				"country": "bein",
-				"display-name": {
-					"lang": "en",
-					"$t": "beIN DMAX"
-				},
-				"icon": {
-					"src": "http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"
-				},
-				"url": "http://www.bein.net"
-			},
-			{
-				"id": "OutdoorChannel",
-				"country": "bein",
-				"display-name": {
-					"lang": "en",
-					"$t": "beIN Outdoor Channel"
-				},
-				"icon": {
-					"src": "http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"
-				},
-				"url": "http://www.bein.net"
-			},
-			{
-				"id": "Extreme",
-				"country": "bein",
-				"display-name": {
-					"lang": "en",
-					"$t": "beIN Extreme"
-				},
-				"icon": {
-					"src": "http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"
-				},
-				"url": "http://www.bein.net"
-			},
-			{
-				"id": "TravelChannel",
-				"country": "bein",
-				"display-name": {
-					"lang": "en",
-					"$t": "beIN Travel Channel"
-				},
-				"icon": {
-					"src": "http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"
-				},
-				"url": "http://www.bein.net"
-			},
-			{
-				"id": "HGTV",
-				"country": "bein",
-				"display-name": {
-					"lang": "en",
-					"$t": "beIN HGTV"
-				},
-				"icon": {
-					"src": "http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"
-				},
-				"url": "http://www.bein.net"
-			},
-			{
 				"id": "almanar",
 				"country": "el_cinema",
 				"display-name": {
 					"lang": "ar",
 					"$t": "almanar"
 				},
-				"url": "http://www.elcinema.ar.com"
+				"url": "http://www.elcinema.com"
 			},
 			{
 				"id": "Sada El Balad",
@@ -1009,7 +493,7 @@
 					"lang": "ar",
 					"$t": "Sada El Balad"
 				},
-				"url": "http://www.elcinema.ar.com"
+				"url": "http://www.elcinema.com"
 			},
 			{
 				"id": "ON E",
@@ -1018,7 +502,7 @@
 					"lang": "ar",
 					"$t": "ON E"
 				},
-				"url": "http://www.elcinema.ar.com"
+				"url": "http://www.elcinema.com"
 			},
 			{
 				"id": "Amman",
@@ -1027,7 +511,7 @@
 					"lang": "ar",
 					"$t": "Amman"
 				},
-				"url": "http://www.elcinema.ar.com"
+				"url": "http://www.elcinema.com"
 			},
 			{
 				"id": "MTV",
@@ -1036,7 +520,7 @@
 					"lang": "ar",
 					"$t": "MTV"
 				},
-				"url": "http://www.elcinema.ar.com"
+				"url": "http://www.elcinema.com"
 			},
 			{
 				"id": "Al Nahar TV",
@@ -1045,7 +529,7 @@
 					"lang": "ar",
 					"$t": "Al Nahar TV"
 				},
-				"url": "http://www.elcinema.ar.com"
+				"url": "http://www.elcinema.com"
 			},
 			{
 				"id": "Al Jadeed TV",
@@ -1054,7 +538,7 @@
 					"lang": "ar",
 					"$t": "Al Jadeed TV"
 				},
-				"url": "http://www.elcinema.ar.com"
+				"url": "http://www.elcinema.com"
 			},
 			{
 				"id": "Al Kahera Wal Nas TV",
@@ -1063,7 +547,7 @@
 					"lang": "ar",
 					"$t": "Al Kahera Wal Nas TV"
 				},
-				"url": "http://www.elcinema.ar.com"
+				"url": "http://www.elcinema.com"
 			},
 			{
 				"id": "Al sharqya",
@@ -1072,7 +556,7 @@
 					"lang": "ar",
 					"$t": "Al sharqya"
 				},
-				"url": "http://www.elcinema.ar.com"
+				"url": "http://www.elcinema.com"
 			},
 			{
 				"id": "Zee alwan",
@@ -1081,7 +565,7 @@
 					"lang": "ar",
 					"$t": "Zee alwan"
 				},
-				"url": "http://www.elcinema.ar.com"
+				"url": "http://www.elcinema.com"
 			},
 			{
 				"id": "Fujairah",
@@ -1090,7 +574,7 @@
 					"lang": "ar",
 					"$t": "Fujairah"
 				},
-				"url": "http://www.elcinema.ar.com"
+				"url": "http://www.elcinema.com"
 			},
 			{
 				"id": "Roya",
@@ -1099,7 +583,7 @@
 					"lang": "ar",
 					"$t": "Roya"
 				},
-				"url": "http://www.elcinema.ar.com"
+				"url": "http://www.elcinema.com"
 			},
 			{
 				"id": "Mehwar",
@@ -1108,7 +592,7 @@
 					"lang": "ar",
 					"$t": "Mehwar"
 				},
-				"url": "http://www.elcinema.ar.com"
+				"url": "http://www.elcinema.com"
 			},
 			{
 				"id": "Alhayat TV",
@@ -1117,7 +601,7 @@
 					"lang": "ar",
 					"$t": "Alhayat TV"
 				},
-				"url": "http://www.elcinema.ar.com"
+				"url": "http://www.elcinema.com"
 			},
 			{
 				"id": "Sharjah TV",
@@ -1126,7 +610,7 @@
 					"lang": "ar",
 					"$t": "Sharjah TV"
 				},
-				"url": "http://www.elcinema.ar.com"
+				"url": "http://www.elcinema.com"
 			},
 			{
 				"id": "Lana",
@@ -1135,7 +619,7 @@
 					"lang": "ar",
 					"$t": "Lana"
 				},
-				"url": "http://www.elcinema.ar.com"
+				"url": "http://www.elcinema.com"
 			},
 			{
 				"id": "Sada El Balad Drama",
@@ -1144,7 +628,7 @@
 					"lang": "ar",
 					"$t": "Sada El Balad Drama"
 				},
-				"url": "http://www.elcinema.ar.com"
+				"url": "http://www.elcinema.com"
 			},
 			{
 				"id": "ON Drama",
@@ -1153,7 +637,7 @@
 					"lang": "ar",
 					"$t": "ON Drama"
 				},
-				"url": "http://www.elcinema.ar.com"
+				"url": "http://www.elcinema.com"
 			},
 			{
 				"id": "iFILM TV",
@@ -1162,7 +646,7 @@
 					"lang": "ar",
 					"$t": "iFILM TV"
 				},
-				"url": "http://www.elcinema.ar.com"
+				"url": "http://www.elcinema.com"
 			},
 			{
 				"id": "DMC DRAMA",
@@ -1171,7 +655,7 @@
 					"lang": "ar",
 					"$t": "DMC DRAMA"
 				},
-				"url": "http://www.elcinema.ar.com"
+				"url": "http://www.elcinema.com"
 			},
 			{
 				"id": "Alhayat Series",
@@ -1180,7 +664,7 @@
 					"lang": "ar",
 					"$t": "Alhayat Series"
 				},
-				"url": "http://www.elcinema.ar.com"
+				"url": "http://www.elcinema.com"
 			},
 			{
 				"id": "TeN TV",
@@ -1189,7 +673,7 @@
 					"lang": "ar",
 					"$t": "TeN TV"
 				},
-				"url": "http://www.elcinema.ar.com"
+				"url": "http://www.elcinema.com"
 			},
 			{
 				"id": "Fan",
@@ -1198,121 +682,7 @@
 					"lang": "ar",
 					"$t": "Fan"
 				},
-				"url": "http://www.elcinema.ar.com"
-			},
-			{
-				"id": "Watania 1",
-				"country": "invision",
-				"display-name": {
-					"lang": "ar",
-					"$t": "Watania 1"
-				},
-				"icon": {
-					"src": "http://www.watania1.tn/sites/default/files/main_logo_watania1_0.png"
-				},
-				"url": "http://www.watania.tn"
-			},
-			{
-				"id": "Watania 2",
-				"country": "invision",
-				"display-name": {
-					"lang": "ar",
-					"$t": "Watania 2"
-				},
-				"icon": {
-					"src": "http://www.watania2.tn/sites/default/files/main_logo_watania2_0.png"
-				},
-				"url": "http://www.watania.tn"
-			},
-			{
-				"id": "MBC Pro Sports 3 HD",
-				"country": "invision",
-				"display-name": {
-					"lang": "en",
-					"$t": "MBC Pro Sports 3"
-				},
-				"url": "http://www.invision.com.sa"
-			},
-			{
-				"id": "MBC Pro Sports 4",
-				"country": "invision",
-				"display-name": {
-					"lang": "en",
-					"$t": "MBC Pro Sports 4"
-				},
-				"url": "http://www.invision.com.sa"
-			},
-			{
-				"id": "Al Kass",
-				"country": "invision",
-				"display-name": {
-					"lang": "en",
-					"$t": "Al Kass"
-				},
-				"url": "http://www.invision.com.sa"
-			},
-			{
-				"id": "Al Kass 2",
-				"country": "invision",
-				"display-name": {
-					"lang": "en",
-					"$t": "Al Kass 2"
-				},
-				"url": "http://www.invision.com.sa"
-			},
-			{
-				"id": "Al-Jazeera",
-				"country": "invision",
-				"display-name": {
-					"lang": "en",
-					"$t": "Al-Jazeera"
-				},
-				"url": "http://www.invision.com.sa"
-			},
-			{
-				"id": "JSC Documentry",
-				"country": "invision",
-				"display-name": {
-					"lang": "en",
-					"$t": "JSC Documentry"
-				},
-				"url": "http://www.invision.com.sa"
-			},
-			{
-				"id": "Al-Jazeera English",
-				"country": "invision",
-				"display-name": {
-					"lang": "en",
-					"$t": "Al-Jazeera English"
-				},
-				"url": "http://www.invision.com.sa"
-			},
-			{
-				"id": "Al Majd General",
-				"country": "invision",
-				"display-name": {
-					"lang": "en",
-					"$t": "Al Majd General"
-				},
-				"url": "http://www.invision.com.sa"
-			},
-			{
-				"id": "Al Aan",
-				"country": "invision",
-				"display-name": {
-					"lang": "en",
-					"$t": "Al Aan"
-				},
-				"url": "http://www.invision.com.sa"
-			},
-			{
-				"id": "Qatar TV",
-				"country": "invision",
-				"display-name": {
-					"lang": "en",
-					"$t": "Qatar TV"
-				},
-				"url": "http://www.invision.com.sa"
+				"url": "http://www.elcinema.com"
 			},
 			{
 				"id": "AD Sports 3 HD",
@@ -3049,6 +2419,9 @@
 					"lang": "en",
 					"$t": "GMA Life TV"
 				},
+				"icon": {
+					"src": "http://content.osn.com/logo/channel/cropped/GML.png"
+				},
 				"url": "http://www.osn.com"
 			},
 			{
@@ -3057,6 +2430,9 @@
 				"display-name": {
 					"lang": "en",
 					"$t": "GMA News TV"
+				},
+				"icon": {
+					"src": "http://content.osn.com/logo/channel/cropped/GMN.png"
 				},
 				"url": "http://www.osn.com"
 			},
@@ -3067,6 +2443,9 @@
 					"lang": "en",
 					"$t": "MBC 1"
 				},
+				"icon": {
+					"src": "http://content.osn.com/logo/channel/cropped/MH1.png"
+				},
 				"url": "http://www.osn.com"
 			},
 			{
@@ -3075,6 +2454,9 @@
 				"display-name": {
 					"lang": "en",
 					"$t": "MBC 4"
+				},
+				"icon": {
+					"src": "http://content.osn.com/logo/channel/cropped/MH4.png"
 				},
 				"url": "http://www.osn.com"
 			},
@@ -3085,6 +2467,9 @@
 					"lang": "en",
 					"$t": "MBC Drama"
 				},
+				"icon": {
+					"src": "http://content.osn.com/logo/channel/cropped/MHD.png"
+				},
 				"url": "http://www.osn.com"
 			},
 			{
@@ -3093,6 +2478,9 @@
 				"display-name": {
 					"lang": "en",
 					"$t": "MBC 2"
+				},
+				"icon": {
+					"src": "http://content.osn.com/logo/channel/cropped/MH2.png"
 				},
 				"url": "http://www.osn.com"
 			},
@@ -3103,6 +2491,9 @@
 					"lang": "en",
 					"$t": "MBC MAX"
 				},
+				"icon": {
+					"src": "http://content.osn.com/logo/channel/cropped/MHM.png"
+				},
 				"url": "http://www.osn.com"
 			},
 			{
@@ -3112,41 +2503,89 @@
 					"lang": "en",
 					"$t": "MBC Action"
 				},
+				"icon": {
+					"src": "http://content.osn.com/logo/channel/cropped/MHA.png"
+				},
 				"url": "http://www.osn.com"
 			},
 			{
-				"id": "Cartoon Network Arabia",
+				"id": "Panorama Food",
 				"country": "seevi",
 				"display-name": {
 					"lang": "ar",
-					"$t": "Cartoon Network Arabia"
+					"$t": "Panorama Food"
 				},
 				"url": "http://www.seevii.com"
 			},
 			{
-				"id": "Ajial",
+				"id": "Al Thakafeyia",
 				"country": "seevi",
 				"display-name": {
 					"lang": "ar",
-					"$t": "Ajial"
+					"$t": "Al Thakafeyia"
 				},
 				"url": "http://www.seevii.com"
 			},
 			{
-				"id": "Space Toon",
+				"id": "National Geographic Abu  Dhabi",
 				"country": "seevi",
 				"display-name": {
 					"lang": "ar",
-					"$t": "Space Toon"
+					"$t": "National Geographic Abu  Dhabi"
 				},
 				"url": "http://www.seevii.com"
 			},
 			{
-				"id": "Saudi Channel 1",
+				"id": "CNBC Arabiyah",
 				"country": "seevi",
 				"display-name": {
 					"lang": "ar",
-					"$t": "Saudi Channel 1"
+					"$t": "CNBC Arabiyah"
+				},
+				"url": "http://www.seevii.com"
+			},
+			{
+				"id": "B4U Plus",
+				"country": "seevi",
+				"display-name": {
+					"lang": "ar",
+					"$t": "B4U Plus"
+				},
+				"url": "http://www.seevii.com"
+			},
+			{
+				"id": "MBC 4",
+				"country": "seevi",
+				"display-name": {
+					"lang": "ar",
+					"$t": "MBC 4"
+				},
+				"url": "http://www.seevii.com"
+			},
+			{
+				"id": "MBC Masr",
+				"country": "seevi",
+				"display-name": {
+					"lang": "ar",
+					"$t": "MBC Masr"
+				},
+				"url": "http://www.seevii.com"
+			},
+			{
+				"id": "Dubai One",
+				"country": "seevi",
+				"display-name": {
+					"lang": "ar",
+					"$t": "Dubai One"
+				},
+				"url": "http://www.seevii.com"
+			},
+			{
+				"id": "Rotana Masriyah",
+				"country": "seevi",
+				"display-name": {
+					"lang": "ar",
+					"$t": "Rotana Masriyah"
 				},
 				"url": "http://www.seevii.com"
 			},
@@ -3169,326 +2608,11 @@
 				"url": "http://www.seevii.com"
 			},
 			{
-				"id": "Abu Dhabi Drama",
-				"country": "seevi",
-				"display-name": {
-					"lang": "ar",
-					"$t": "Abu Dhabi Drama"
-				},
-				"url": "http://www.seevii.com"
-			},
-			{
-				"id": "Dubai Al Oula",
-				"country": "seevi",
-				"display-name": {
-					"lang": "ar",
-					"$t": "Dubai Al Oula"
-				},
-				"url": "http://www.seevii.com"
-			},
-			{
-				"id": "Dubai One",
-				"country": "seevi",
-				"display-name": {
-					"lang": "ar",
-					"$t": "Dubai One"
-				},
-				"url": "http://www.seevii.com"
-			},
-			{
-				"id": "Sama Dubai",
-				"country": "seevi",
-				"display-name": {
-					"lang": "ar",
-					"$t": "Sama Dubai"
-				},
-				"url": "http://www.seevii.com"
-			},
-			{
-				"id": "Dubai Zaman",
-				"country": "seevi",
-				"display-name": {
-					"lang": "ar",
-					"$t": "Dubai Zaman"
-				},
-				"url": "http://www.seevii.com"
-			},
-			{
-				"id": "Rotana Cinema",
-				"country": "seevi",
-				"display-name": {
-					"lang": "ar",
-					"$t": "Rotana Cinema"
-				},
-				"url": "http://www.seevii.com"
-			},
-			{
-				"id": "Rotana Aflam",
-				"country": "seevi",
-				"display-name": {
-					"lang": "ar",
-					"$t": "Rotana Aflam"
-				},
-				"url": "http://www.seevii.com"
-			},
-			{
-				"id": "Rotana Khalijiah",
-				"country": "seevi",
-				"display-name": {
-					"lang": "ar",
-					"$t": "Rotana Khalijiah"
-				},
-				"url": "http://www.seevii.com"
-			},
-			{
-				"id": "Rotana Classic",
-				"country": "seevi",
-				"display-name": {
-					"lang": "ar",
-					"$t": "Rotana Classic"
-				},
-				"url": "http://www.seevii.com"
-			},
-			{
-				"id": "LBC Sat",
-				"country": "seevi",
-				"display-name": {
-					"lang": "ar",
-					"$t": "LBC Sat"
-				},
-				"url": "http://www.seevii.com"
-			},
-			{
-				"id": "Rotana Masriyah",
-				"country": "seevi",
-				"display-name": {
-					"lang": "ar",
-					"$t": "Rotana Masriyah"
-				},
-				"url": "http://www.seevii.com"
-			},
-			{
-				"id": "CBC",
-				"country": "seevi",
-				"display-name": {
-					"lang": "ar",
-					"$t": "CBC"
-				},
-				"url": "http://www.seevii.com"
-			},
-			{
-				"id": "CBC Drama",
-				"country": "seevi",
-				"display-name": {
-					"lang": "ar",
-					"$t": "CBC Drama"
-				},
-				"url": "http://www.seevii.com"
-			},
-			{
-				"id": "CBC Extra",
-				"country": "seevi",
-				"display-name": {
-					"lang": "ar",
-					"$t": "CBC Extra"
-				},
-				"url": "http://www.seevii.com"
-			},
-			{
-				"id": "CBC Sofra",
-				"country": "seevi",
-				"display-name": {
-					"lang": "ar",
-					"$t": "CBC Sofra"
-				},
-				"url": "http://www.seevii.com"
-			},
-			{
-				"id": "Al Nahar Drama",
-				"country": "seevi",
-				"display-name": {
-					"lang": "ar",
-					"$t": "Al Nahar Drama"
-				},
-				"url": "http://www.seevii.com"
-			},
-			{
-				"id": "Al Nahar",
-				"country": "seevi",
-				"display-name": {
-					"lang": "ar",
-					"$t": "Al Nahar"
-				},
-				"url": "http://www.seevii.com"
-			},
-			{
-				"id": "Al Hayat 2",
-				"country": "seevi",
-				"display-name": {
-					"lang": "ar",
-					"$t": "Al Hayat 2"
-				},
-				"url": "http://www.seevii.com"
-			},
-			{
-				"id": "Al Kahera Wal Nas",
-				"country": "seevi",
-				"display-name": {
-					"lang": "ar",
-					"$t": "Al Kahera Wal Nas"
-				},
-				"url": "http://www.seevii.com"
-			},
-			{
-				"id": "MTV Lebanon",
-				"country": "seevi",
-				"display-name": {
-					"lang": "ar",
-					"$t": "MTV Lebanon"
-				},
-				"url": "http://www.seevii.com"
-			},
-			{
-				"id": "Future TV International",
-				"country": "seevi",
-				"display-name": {
-					"lang": "ar",
-					"$t": "Future TV International"
-				},
-				"url": "http://www.seevii.com"
-			},
-			{
-				"id": "Al Jadeed",
-				"country": "seevi",
-				"display-name": {
-					"lang": "ar",
-					"$t": "Al Jadeed"
-				},
-				"url": "http://www.seevii.com"
-			},
-			{
-				"id": "LDC",
-				"country": "seevi",
-				"display-name": {
-					"lang": "ar",
-					"$t": "LDC"
-				},
-				"url": "http://www.seevii.com"
-			},
-			{
 				"id": "Al Dafrah",
 				"country": "seevi",
 				"display-name": {
 					"lang": "ar",
 					"$t": "Al Dafrah"
-				},
-				"url": "http://www.seevii.com"
-			},
-			{
-				"id": "Zee Alwan",
-				"country": "seevi",
-				"display-name": {
-					"lang": "ar",
-					"$t": "Zee Alwan"
-				},
-				"url": "http://www.seevii.com"
-			},
-			{
-				"id": "B4U Plus",
-				"country": "seevi",
-				"display-name": {
-					"lang": "ar",
-					"$t": "B4U Plus"
-				},
-				"url": "http://www.seevii.com"
-			},
-			{
-				"id": "B4U Aflam",
-				"country": "seevi",
-				"display-name": {
-					"lang": "ar",
-					"$t": "B4U Aflam"
-				},
-				"url": "http://www.seevii.com"
-			},
-			{
-				"id": "Alaan TV",
-				"country": "seevi",
-				"display-name": {
-					"lang": "ar",
-					"$t": "Alaan TV"
-				},
-				"url": "http://www.seevii.com"
-			},
-			{
-				"id": "Funoon TV",
-				"country": "seevi",
-				"display-name": {
-					"lang": "ar",
-					"$t": "Funoon TV"
-				},
-				"url": "http://www.seevii.com"
-			},
-			{
-				"id": "Bahrain",
-				"country": "seevi",
-				"display-name": {
-					"lang": "ar",
-					"$t": "Bahrain"
-				},
-				"url": "http://www.seevii.com"
-			},
-			{
-				"id": "Jordan",
-				"country": "seevi",
-				"display-name": {
-					"lang": "ar",
-					"$t": "Jordan"
-				},
-				"url": "http://www.seevii.com"
-			},
-			{
-				"id": "Al Masriyah",
-				"country": "seevi",
-				"display-name": {
-					"lang": "ar",
-					"$t": "Al Masriyah"
-				},
-				"url": "http://www.seevii.com"
-			},
-			{
-				"id": "al Arabiya",
-				"country": "seevi",
-				"display-name": {
-					"lang": "ar",
-					"$t": "al Arabiya"
-				},
-				"url": "http://www.seevii.com"
-			},
-			{
-				"id": "Al Ekhbaria",
-				"country": "seevi",
-				"display-name": {
-					"lang": "ar",
-					"$t": "Al Ekhbaria"
-				},
-				"url": "http://www.seevii.com"
-			},
-			{
-				"id": "BBC Arabic",
-				"country": "seevi",
-				"display-name": {
-					"lang": "ar",
-					"$t": "BBC Arabic"
-				},
-				"url": "http://www.seevii.com"
-			},
-			{
-				"id": "Sky News Arabia HD",
-				"country": "seevi",
-				"display-name": {
-					"lang": "ar",
-					"$t": "Sky News Arabia HD"
 				},
 				"url": "http://www.seevii.com"
 			},
@@ -3502,11 +2626,56 @@
 				"url": "http://www.seevii.com"
 			},
 			{
-				"id": "France 24 (in Arabic)",
+				"id": "Al Jadeed",
 				"country": "seevi",
 				"display-name": {
 					"lang": "ar",
-					"$t": "France 24 (in Arabic)"
+					"$t": "Al Jadeed"
+				},
+				"url": "http://www.seevii.com"
+			},
+			{
+				"id": "Al Masriyah",
+				"country": "seevi",
+				"display-name": {
+					"lang": "ar",
+					"$t": "Al Masriyah"
+				},
+				"url": "http://www.seevii.com"
+			},
+			{
+				"id": "Alaan TV",
+				"country": "seevi",
+				"display-name": {
+					"lang": "ar",
+					"$t": "Alaan TV"
+				},
+				"url": "http://www.seevii.com"
+			},
+			{
+				"id": "Bahrain",
+				"country": "seevi",
+				"display-name": {
+					"lang": "ar",
+					"$t": "Bahrain"
+				},
+				"url": "http://www.seevii.com"
+			},
+			{
+				"id": "Dubai Al Oula",
+				"country": "seevi",
+				"display-name": {
+					"lang": "ar",
+					"$t": "Dubai Al Oula"
+				},
+				"url": "http://www.seevii.com"
+			},
+			{
+				"id": "Dubai Zaman",
+				"country": "seevi",
+				"display-name": {
+					"lang": "ar",
+					"$t": "Dubai Zaman"
 				},
 				"url": "http://www.seevii.com"
 			},
@@ -3516,6 +2685,321 @@
 				"display-name": {
 					"lang": "ar",
 					"$t": "DW-TV"
+				},
+				"url": "http://www.seevii.com"
+			},
+			{
+				"id": "Ennahar TV AlGerie",
+				"country": "seevi",
+				"display-name": {
+					"lang": "ar",
+					"$t": "Ennahar TV AlGerie"
+				},
+				"url": "http://www.seevii.com"
+			},
+			{
+				"id": "Funoon TV",
+				"country": "seevi",
+				"display-name": {
+					"lang": "ar",
+					"$t": "Funoon TV"
+				},
+				"url": "http://www.seevii.com"
+			},
+			{
+				"id": "Future TV International",
+				"country": "seevi",
+				"display-name": {
+					"lang": "ar",
+					"$t": "Future TV International"
+				},
+				"url": "http://www.seevii.com"
+			},
+			{
+				"id": "Hawas TV",
+				"country": "seevi",
+				"display-name": {
+					"lang": "ar",
+					"$t": "Hawas TV"
+				},
+				"url": "http://www.seevii.com"
+			},
+			{
+				"id": "Jordan",
+				"country": "seevi",
+				"display-name": {
+					"lang": "ar",
+					"$t": "Jordan"
+				},
+				"url": "http://www.seevii.com"
+			},
+			{
+				"id": "KTV Ch 2",
+				"country": "seevi",
+				"display-name": {
+					"lang": "ar",
+					"$t": "KTV Ch 2"
+				},
+				"url": "http://www.seevii.com"
+			},
+			{
+				"id": "LBC Sat",
+				"country": "seevi",
+				"display-name": {
+					"lang": "ar",
+					"$t": "LBC Sat"
+				},
+				"url": "http://www.seevii.com"
+			},
+			{
+				"id": "LDC",
+				"country": "seevi",
+				"display-name": {
+					"lang": "ar",
+					"$t": "LDC"
+				},
+				"url": "http://www.seevii.com"
+			},
+			{
+				"id": "MBC 1",
+				"country": "seevi",
+				"display-name": {
+					"lang": "ar",
+					"$t": "MBC 1"
+				},
+				"url": "http://www.seevii.com"
+			},
+			{
+				"id": "MBC Masr 2",
+				"country": "seevi",
+				"display-name": {
+					"lang": "ar",
+					"$t": "MBC Masr 2"
+				},
+				"url": "http://www.seevii.com"
+			},
+			{
+				"id": "MTV Lebanon",
+				"country": "seevi",
+				"display-name": {
+					"lang": "ar",
+					"$t": "MTV Lebanon"
+				},
+				"url": "http://www.seevii.com"
+			},
+			{
+				"id": "Noor Dubai",
+				"country": "seevi",
+				"display-name": {
+					"lang": "ar",
+					"$t": "Noor Dubai"
+				},
+				"url": "http://www.seevii.com"
+			},
+			{
+				"id": "Ro\\u00b4ya",
+				"country": "seevi",
+				"display-name": {
+					"lang": "ar",
+					"$t": "Ro\\u00b4ya"
+				},
+				"url": "http://www.seevii.com"
+			},
+			{
+				"id": "Rotana Khalijiah",
+				"country": "seevi",
+				"display-name": {
+					"lang": "ar",
+					"$t": "Rotana Khalijiah"
+				},
+				"url": "http://www.seevii.com"
+			},
+			{
+				"id": "Sama Dubai",
+				"country": "seevi",
+				"display-name": {
+					"lang": "ar",
+					"$t": "Sama Dubai"
+				},
+				"url": "http://www.seevii.com"
+			},
+			{
+				"id": "Saudi Channel 1",
+				"country": "seevi",
+				"display-name": {
+					"lang": "ar",
+					"$t": "Saudi Channel 1"
+				},
+				"url": "http://www.seevii.com"
+			},
+			{
+				"id": "Scope TV",
+				"country": "seevi",
+				"display-name": {
+					"lang": "ar",
+					"$t": "Scope TV"
+				},
+				"url": "http://www.seevii.com"
+			},
+			{
+				"id": "Zee Alwan",
+				"country": "seevi",
+				"display-name": {
+					"lang": "ar",
+					"$t": "Zee Alwan"
+				},
+				"url": "http://www.seevii.com"
+			},
+			{
+				"id": "Ajial",
+				"country": "seevi",
+				"display-name": {
+					"lang": "ar",
+					"$t": "Ajial"
+				},
+				"url": "http://www.seevii.com"
+			},
+			{
+				"id": "Cartoon Network Arabia",
+				"country": "seevi",
+				"display-name": {
+					"lang": "ar",
+					"$t": "Cartoon Network Arabia"
+				},
+				"url": "http://www.seevii.com"
+			},
+			{
+				"id": "MBC 3",
+				"country": "seevi",
+				"display-name": {
+					"lang": "ar",
+					"$t": "MBC 3"
+				},
+				"url": "http://www.seevii.com"
+			},
+			{
+				"id": "Space Toon",
+				"country": "seevi",
+				"display-name": {
+					"lang": "ar",
+					"$t": "Space Toon"
+				},
+				"url": "http://www.seevii.com"
+			},
+			{
+				"id": "Cima Alibaba",
+				"country": "seevi",
+				"display-name": {
+					"lang": "ar",
+					"$t": "Cima Alibaba"
+				},
+				"url": "http://www.seevii.com"
+			},
+			{
+				"id": "MBC Action",
+				"country": "seevi",
+				"display-name": {
+					"lang": "ar",
+					"$t": "MBC Action"
+				},
+				"url": "http://www.seevii.com"
+			},
+			{
+				"id": "MBC Bollywood",
+				"country": "seevi",
+				"display-name": {
+					"lang": "ar",
+					"$t": "MBC Bollywood"
+				},
+				"url": "http://www.seevii.com"
+			},
+			{
+				"id": "MBC Max",
+				"country": "seevi",
+				"display-name": {
+					"lang": "ar",
+					"$t": "MBC Max"
+				},
+				"url": "http://www.seevii.com"
+			},
+			{
+				"id": "Rotana Aflam",
+				"country": "seevi",
+				"display-name": {
+					"lang": "ar",
+					"$t": "Rotana Aflam"
+				},
+				"url": "http://www.seevii.com"
+			},
+			{
+				"id": "Rotana Cinema",
+				"country": "seevi",
+				"display-name": {
+					"lang": "ar",
+					"$t": "Rotana Cinema"
+				},
+				"url": "http://www.seevii.com"
+			},
+			{
+				"id": "Rotana Classic",
+				"country": "seevi",
+				"display-name": {
+					"lang": "ar",
+					"$t": "Rotana Classic"
+				},
+				"url": "http://www.seevii.com"
+			},
+			{
+				"id": "TokTok Cima",
+				"country": "seevi",
+				"display-name": {
+					"lang": "ar",
+					"$t": "TokTok Cima"
+				},
+				"url": "http://www.seevii.com"
+			},
+			{
+				"id": "Rotana Clip",
+				"country": "seevi",
+				"display-name": {
+					"lang": "ar",
+					"$t": "Rotana Clip"
+				},
+				"url": "http://www.seevii.com"
+			},
+			{
+				"id": "Rotana Music",
+				"country": "seevi",
+				"display-name": {
+					"lang": "ar",
+					"$t": "Rotana Music"
+				},
+				"url": "http://www.seevii.com"
+			},
+			{
+				"id": "Al Ekhbaria",
+				"country": "seevi",
+				"display-name": {
+					"lang": "ar",
+					"$t": "Al Ekhbaria"
+				},
+				"url": "http://www.seevii.com"
+			},
+			{
+				"id": "Bahrain 55",
+				"country": "seevi",
+				"display-name": {
+					"lang": "ar",
+					"$t": "Bahrain 55"
+				},
+				"url": "http://www.seevii.com"
+			},
+			{
+				"id": "BBC Arabic",
+				"country": "seevi",
+				"display-name": {
+					"lang": "ar",
+					"$t": "BBC Arabic"
 				},
 				"url": "http://www.seevii.com"
 			},
@@ -3547,38 +3031,11 @@
 				"url": "http://www.seevii.com"
 			},
 			{
-				"id": "CNBC Arabiyah",
+				"id": "Dubai Racing HD",
 				"country": "seevi",
 				"display-name": {
 					"lang": "ar",
-					"$t": "CNBC Arabiyah"
-				},
-				"url": "http://www.seevii.com"
-			},
-			{
-				"id": "National Geographic Abu  Dhabi",
-				"country": "seevi",
-				"display-name": {
-					"lang": "ar",
-					"$t": "National Geographic Abu  Dhabi"
-				},
-				"url": "http://www.seevii.com"
-			},
-			{
-				"id": "Quest TV",
-				"country": "seevi",
-				"display-name": {
-					"lang": "ar",
-					"$t": "Quest TV"
-				},
-				"url": "http://www.seevii.com"
-			},
-			{
-				"id": "Al Thakafeyia",
-				"country": "seevi",
-				"display-name": {
-					"lang": "ar",
-					"$t": "Al Thakafeyia"
+					"$t": "Dubai Racing HD"
 				},
 				"url": "http://www.seevii.com"
 			},
@@ -3601,20 +3058,38 @@
 				"url": "http://www.seevii.com"
 			},
 			{
-				"id": "Iqraa TV",
+				"id": "Abu Dhabi Drama",
 				"country": "seevi",
 				"display-name": {
 					"lang": "ar",
-					"$t": "Iqraa TV"
+					"$t": "Abu Dhabi Drama"
 				},
 				"url": "http://www.seevii.com"
 			},
 			{
-				"id": "Noor Dubai",
+				"id": "MBC Drama",
 				"country": "seevi",
 				"display-name": {
 					"lang": "ar",
-					"$t": "Noor Dubai"
+					"$t": "MBC Drama"
+				},
+				"url": "http://www.seevii.com"
+			},
+			{
+				"id": "Panorama Drama 2",
+				"country": "seevi",
+				"display-name": {
+					"lang": "ar",
+					"$t": "Panorama Drama 2"
+				},
+				"url": "http://www.seevii.com"
+			},
+			{
+				"id": "Syrian Drama TV",
+				"country": "seevi",
+				"display-name": {
+					"lang": "ar",
+					"$t": "Syrian Drama TV"
 				},
 				"url": "http://www.seevii.com"
 			},
@@ -3646,15 +3121,6 @@
 				"url": "http://www.seevii.com"
 			},
 			{
-				"id": "Dubai Sport",
-				"country": "seevi",
-				"display-name": {
-					"lang": "ar",
-					"$t": "Dubai Sport"
-				},
-				"url": "http://www.seevii.com"
-			},
-			{
 				"id": "Dubai Sport 4",
 				"country": "seevi",
 				"display-name": {
@@ -3664,92 +3130,11 @@
 				"url": "http://www.seevii.com"
 			},
 			{
-				"id": "Dubai Racing HD",
+				"id": "Dubai Sport",
 				"country": "seevi",
 				"display-name": {
 					"lang": "ar",
-					"$t": "Dubai Racing HD"
-				},
-				"url": "http://www.seevii.com"
-			},
-			{
-				"id": "Rotana Clip",
-				"country": "seevi",
-				"display-name": {
-					"lang": "ar",
-					"$t": "Rotana Clip"
-				},
-				"url": "http://www.seevii.com"
-			},
-			{
-				"id": "Rotana Music",
-				"country": "seevi",
-				"display-name": {
-					"lang": "ar",
-					"$t": "Rotana Music"
-				},
-				"url": "http://www.seevii.com"
-			},
-			{
-				"id": "KTV CH1",
-				"country": "seevi",
-				"display-name": {
-					"lang": "ar",
-					"$t": "KTV CH1"
-				},
-				"url": "http://www.seevii.com"
-			},
-			{
-				"id": "KTV Ch 2",
-				"country": "seevi",
-				"display-name": {
-					"lang": "ar",
-					"$t": "KTV Ch 2"
-				},
-				"url": "http://www.seevii.com"
-			},
-			{
-				"id": "Imagine Movies",
-				"country": "seevi",
-				"display-name": {
-					"lang": "ar",
-					"$t": "Imagine Movies"
-				},
-				"url": "http://www.seevii.com"
-			},
-			{
-				"id": "Cima Alibaba",
-				"country": "seevi",
-				"display-name": {
-					"lang": "ar",
-					"$t": "Cima Alibaba"
-				},
-				"url": "http://www.seevii.com"
-			},
-			{
-				"id": "Scope TV",
-				"country": "seevi",
-				"display-name": {
-					"lang": "ar",
-					"$t": "Scope TV"
-				},
-				"url": "http://www.seevii.com"
-			},
-			{
-				"id": "Nile Family and Kids",
-				"country": "seevi",
-				"display-name": {
-					"lang": "ar",
-					"$t": "Nile Family and Kids"
-				},
-				"url": "http://www.seevii.com"
-			},
-			{
-				"id": "Ennahar TV AlGerie",
-				"country": "seevi",
-				"display-name": {
-					"lang": "ar",
-					"$t": "Ennahar TV AlGerie"
+					"$t": "Dubai Sport"
 				},
 				"url": "http://www.seevii.com"
 			},
@@ -3763,56 +3148,65 @@
 				"url": "http://www.seevii.com"
 			},
 			{
-				"id": "Panorama Food",
+				"id": "KTV CH1",
 				"country": "seevi",
 				"display-name": {
 					"lang": "ar",
-					"$t": "Panorama Food"
+					"$t": "KTV CH1"
 				},
 				"url": "http://www.seevii.com"
 			},
 			{
-				"id": "Dream 2",
+				"id": "Sky News Arabia HD",
 				"country": "seevi",
 				"display-name": {
 					"lang": "ar",
-					"$t": "Dream 2"
+					"$t": "Sky News Arabia HD"
 				},
 				"url": "http://www.seevii.com"
 			},
 			{
-				"id": "Nile Cinema",
+				"id": "Seevii AlOla",
 				"country": "seevi",
 				"display-name": {
 					"lang": "ar",
-					"$t": "Nile Cinema"
+					"$t": "Seevii AlOla"
 				},
 				"url": "http://www.seevii.com"
 			},
 			{
-				"id": "TokTok Cima",
+				"id": "Seevii Documentary HD",
 				"country": "seevi",
 				"display-name": {
 					"lang": "ar",
-					"$t": "TokTok Cima"
+					"$t": "Seevii Documentary HD"
 				},
 				"url": "http://www.seevii.com"
 			},
 			{
-				"id": "Bahrain 55",
+				"id": "Seevii SHAMIYA HD",
 				"country": "seevi",
 				"display-name": {
 					"lang": "ar",
-					"$t": "Bahrain 55"
+					"$t": "Seevii SHAMIYA HD"
 				},
 				"url": "http://www.seevii.com"
 			},
 			{
-				"id": "Nile Drama",
+				"id": "Seevii Drama HD",
 				"country": "seevi",
 				"display-name": {
 					"lang": "ar",
-					"$t": "Nile Drama"
+					"$t": "Seevii Drama HD"
+				},
+				"url": "http://www.seevii.com"
+			},
+			{
+				"id": "B4U Aflam",
+				"country": "seevi",
+				"display-name": {
+					"lang": "ar",
+					"$t": "B4U Aflam"
 				},
 				"url": "http://www.seevii.com"
 			},
@@ -3826,11 +3220,110 @@
 				"url": "http://www.seevii.com"
 			},
 			{
-				"id": "Panorama Drama 2",
+				"id": "al Arabiya",
 				"country": "seevi",
 				"display-name": {
 					"lang": "ar",
-					"$t": "Panorama Drama 2"
+					"$t": "al Arabiya"
+				},
+				"url": "http://www.seevii.com"
+			},
+			{
+				"id": "France 24 (in Arabic)",
+				"country": "seevi",
+				"display-name": {
+					"lang": "ar",
+					"$t": "France 24 (in Arabic)"
+				},
+				"url": "http://www.seevii.com"
+			},
+			{
+				"id": "Sada Balad",
+				"country": "seevi",
+				"display-name": {
+					"lang": "ar",
+					"$t": "Sada Balad"
+				},
+				"url": "http://www.seevii.com"
+			},
+			{
+				"id": "Quest TV ",
+				"country": "seevi",
+				"display-name": {
+					"lang": "ar",
+					"$t": "Quest TV"
+				},
+				"url": "http://www.seevii.com"
+			},
+			{
+				"id": "MBC 1 HD",
+				"country": "seevi",
+				"display-name": {
+					"lang": "ar",
+					"$t": "MBC 1 HD"
+				},
+				"url": "http://www.seevii.com"
+			},
+			{
+				"id": "MBC 3 HD",
+				"country": "seevi",
+				"display-name": {
+					"lang": "ar",
+					"$t": "MBC 3 HD"
+				},
+				"url": "http://www.seevii.com"
+			},
+			{
+				"id": "MBC 4 HD",
+				"country": "seevi",
+				"display-name": {
+					"lang": "ar",
+					"$t": "MBC 4 HD"
+				},
+				"url": "http://www.seevii.com"
+			},
+			{
+				"id": "MBC Action HD",
+				"country": "seevi",
+				"display-name": {
+					"lang": "ar",
+					"$t": "MBC Action HD"
+				},
+				"url": "http://www.seevii.com"
+			},
+			{
+				"id": "MBC MAX HD",
+				"country": "seevi",
+				"display-name": {
+					"lang": "ar",
+					"$t": "MBC MAX HD"
+				},
+				"url": "http://www.seevii.com"
+			},
+			{
+				"id": "MBC Drama HD",
+				"country": "seevi",
+				"display-name": {
+					"lang": "ar",
+					"$t": "MBC Drama HD"
+				},
+				"url": "http://www.seevii.com"
+			},
+			{
+				"id": "MBC Variety HD",
+				"country": "seevi",
+				"display-name": {
+					"lang": "ar",
+					"$t": "MBC Variety HD"
+				},
+				"url": "http://www.seevii.com"
+			},
+			{
+				"id": "MBC Drama + HD",
+				"country": "seevi",
+				"display-name": {
+					"lang": "ar",
+					"$t": "MBC Drama + HD"
 				},
 				"url": "http://www.seevii.com"
 			},
