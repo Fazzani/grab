@@ -17,8 +17,8 @@ env:
   - WEBGRAB_FILENAME=configs/ar_arab.xml
   - WEBGRAB_FILENAME=configs/ar_osn.xml
   - WEBGRAB_FILENAME=configs/ar_seevi.xml
-  - WEBGRAB_FILENAME=configs/ar_invision.xml
   - WEBGRAB_FILENAME=configs/ar_bein.xml
+  - WEBGRAB_FILENAME=configs/ar_bein2.xml
   - WEBGRAB_FILENAME=configs/fr_telerama.xml
   - WEBGRAB_FILENAME=configs/fr_telerama.be.xml
   - WEBGRAB_FILENAME=configs/fr_canal.xml
