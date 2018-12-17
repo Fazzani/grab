@@ -94,7 +94,7 @@ outputfile_missing_prog="out/check_missing_programs.json"
 
 #vider les fichiers output
 echo "" > $outputfile > $outputfile_json
-echo "{\"report\":{\"date\":\"$now\",\"sources\":[" > $outputfile_missing_prog
+echo "{\"report\":{\"date\":\"$now\",\"_id\":\"${2:-1}\",\"sources\":[" > $outputfile_missing_prog
 #convert encoding to utf-8
 echo -ne '\xEF\xBB\xBF' > $outputfile
 #file -i $outputfile
