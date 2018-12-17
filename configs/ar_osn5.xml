@@ -6,7 +6,7 @@
   <proxy>automatic</proxy>
   <user-agent>Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; yie9)</user-agent>
   <logging>on</logging>
-  <retry time-out="5">1</retry>
+  <retry time-out="15">1</retry>
   <skip>12</skip>
   <timespan>1</timespan>
   <update>i</update>
@@ -24,6 +24,5 @@
   <channel update="i" site="osn.com" site_id="ATV" xmltv_id="\\u0026 TV">\\u0026 TV</channel>
   <channel update="i" site="osn.com" site_id="STP" xmltv_id="Star Plus Middle East">Star Plus Middle East</channel>
   <channel update="i" site="osn.com" site_id="ZET" xmltv_id="Zee TV">Zee TV</channel>
-  <channel update="i" site="osn.com" site_id="SET" xmltv_id="SET Middle East">SET Middle East</channel>
   
  </settings>
