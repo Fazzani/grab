@@ -51,6 +51,51 @@
 |![icon](http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg)|OlympicChannel|http://www.bein.net|
 |![icon](http://epg.beinsports.com/us_sports/Global.svg)|Global|http://www.bein.net|
 |![icon](http://epg.beinsports.com/us_sports/Global.svg)|Spanish|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|MoviesHD1|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|MoviesHD2|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|MoviesHD3|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|MoviesHD4|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|SeriesHD1|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|SeriesHD2|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|beJUNIOR|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|fox_movies_hd|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|starmovieshd|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|starw_orld_hd|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|NatGeo_HD|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|NatGeoPeople_HD|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|NatGeoWild_HD|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|Baby_TV|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|Jeem|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|Baraem|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|gourmet|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|BoxOffice_HD1|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|DTX|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|CBeebies|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|V_HD|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|CNNHD|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|TCM|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|CartoonNetworkAR|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|CartoonNetworkHD|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|CartoonNetworkHindi|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|HLN|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|Boomerang|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|DramaHD1|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|Star_Movies_HD|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|amc|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|CBSreality|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|FoxActMovHD|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|FoxFamHD|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|FXHD|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|FoxNews|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|AnimalPlanetHD|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|DLife|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|DreamWorks|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|DKids|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|DMAX|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|OutdoorChannel|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|Extreme|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|TravelChannel|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|HGTV|http://www.bein.net|
 |![icon]()|almanar|http://www.elcinema.com|
 |![icon]()|Sada El Balad|http://www.elcinema.com|
 |![icon]()|ON E|http://www.elcinema.com|
@@ -90,6 +135,8 @@
 |![icon](http://content.osn.com/logo/channel/cropped/VIV.png)|Viva TV|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/TV5.png)|Kapatid TV5|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/AKS.png)|Aksyon TV|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/DJR.png)|Disney Junior|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/NKT.png)|NickToons|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/SCI.png)|Discovery Science HD|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/DCX.png)|IDX HD|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/CAI.png)|Crime \\u0026 Investigation Network|http://www.osn.com|
@@ -99,6 +146,8 @@
 |![icon](http://content.osn.com/logo/channel/cropped/NGO.png)|Nat Geo HD|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/NHD.png)|Nat Geo Wild HD|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/NAH.png)|Nat Geo People HD|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/CNB.png)|CNBC|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/FXN.png)|Fox News|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/TIM.png)|Times Now|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/NDT.png)|NDTV 24x7|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/ANN.png)|Asianet News|http://www.osn.com|
@@ -168,7 +217,6 @@
 |![icon](http://content.osn.com/logo/channel/cropped/ATV.png)|\\u0026 TV|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/STP.png)|Star Plus Middle East|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/ZET.png)|Zee TV|http://www.osn.com|
-|![icon](http://content.osn.com/logo/channel/cropped/SET.png)|SET Middle East|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/COL.png)|Colors|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/HUM.png)|Hum TV Middle East|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/RIS.png)|Rishtey TV|http://www.osn.com|
@@ -184,7 +232,6 @@
 |![icon](http://content.osn.com/logo/channel/cropped/ASN.png)|Asianet|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/SUR.png)|Surya TV|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/UDA.png)|Udaya TV|http://www.osn.com|
-|![icon](http://content.osn.com/logo/channel/cropped/GEM.png)|Gemini TV|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/STJ.png)|Star Jalsha|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/SPR.png)|Star Pravah|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/MTL.png)|MTV Live HD|http://www.osn.com|
@@ -195,6 +242,8 @@
 |![icon](http://content.osn.com/logo/channel/cropped/UTV.png)|Bindaas|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/DIS.png)|Disney HD|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/DXD.png)|Disney XD|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/GEM.png)|Gemini TV|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/SET.png)|SET Middle East|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/BTV.png)|Bloomberg|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/CT9.png)|CCTV News|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/FRE.png)|France 24 English|http://www.osn.com|
