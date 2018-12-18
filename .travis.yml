@@ -62,7 +62,7 @@ jobs:
     script:
       - chmod +x ./scripts/check_channels.sh
       - ./scripts/check_channels.sh *.xmltv ${TRAVIS_BUILD_NUMBER}
-      - curl -s -H "Content-Type: application/json" -XPOST elastic.synker.ovh/missingepgchannels/_doc -d @./out/check_missing_programs.json
+      - curl -s -H "Content-Type: application/json" -XPOST elastic.synker.ovh/missingepgchannels/_doc -d @out/check_missing_programs.json
 
 notifications:
   email:
