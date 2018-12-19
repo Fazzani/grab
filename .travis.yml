@@ -10,8 +10,7 @@ branches:
   only:
   - master
 script:
-  - ls -la ./out/
-  - curl -s -H "Content-Type: application/json" -XPOST elastic.synker.ovh/missingepgchannels/_doc -d @./out/check_missing_programs.json
+  - curl -s -H "Content-Type:application/json" -XPOST "elastic.synker.ovh/missingepgchannels/_doc" -d @./out/check_missing_programs.json
 
 notifications:
   email:
