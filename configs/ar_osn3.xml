@@ -7,7 +7,7 @@
   <user-agent>Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; yie9)</user-agent>
   <logging>on</logging>
   <retry time-out="15">1</retry>
-  <skip>12</skip>
+  <skip>12,5</skip>
   <timespan>1</timespan>
   <update>i</update>
  <channel update="i" site="osn.com" site_id="BO1" xmltv_id="OSN Movies Box Office 1 HD">OSN Movies Box Office 1 HD</channel>
