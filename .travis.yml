@@ -15,7 +15,7 @@ script:
   - npm install -g xml2json-cli
   - chmod +x ./scripts/check_channels.sh
   - ./scripts/check_channels.sh *.xmltv ${TRAVIS_BUILD_NUMBER}
-  - ls -la
+  - ls -la ./out/
   - curl -s -H "Content-Type: application/json" -XPOST elastic.synker.ovh/missingepgchannels/_doc -d @out/check_missing_programs.json
 
 notifications:
