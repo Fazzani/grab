@@ -4,65 +4,19 @@ install: skip
 cache: false
 matrix:
   fast_finish: true
-services:
-  - docker
 git:
   depth: false
 branches:
   only:
   - master
-if: (commit_message =~ ^daily OR type = "cron") AND (branch = master)
-env:
-  - WEBGRAB_FILENAME=configs/ar_el_cinema.xml
-  - WEBGRAB_FILENAME=configs/ar_arab.xml
-  - WEBGRAB_FILENAME=configs/ar_osn.xml
-  - WEBGRAB_FILENAME=configs/ar_seevi.xml
-  - WEBGRAB_FILENAME=configs/ar_bein.xml
-  - WEBGRAB_FILENAME=configs/fr_telerama.xml
-  - WEBGRAB_FILENAME=configs/fr_telerama.be.xml
-  - WEBGRAB_FILENAME=configs/fr_canal.xml
-  - WEBGRAB_FILENAME=configs/fr_canal2.xml
-  - WEBGRAB_FILENAME=configs/ar_osn2.xml
-  - WEBGRAB_FILENAME=configs/ar_osn3.xml
-  - WEBGRAB_FILENAME=configs/ar_osn4.xml
-  - WEBGRAB_FILENAME=configs/ar_osn5.xml
-  - WEBGRAB_FILENAME=configs/ar_osn6.xml
-  - WEBGRAB_FILENAME=configs/ar_osn7.xml
-  - WEBGRAB_FILENAME=configs/ar_osn8.xml
-  - WEBGRAB_FILENAME=configs/ar_osn9.xml
-  - WEBGRAB_FILENAME=configs/ar_osn10.xml
-  - WEBGRAB_FILENAME=configs/ar_osn11.xml
-  - WEBGRAB_FILENAME=configs/ar_osn12.xml
-  - WEBGRAB_FILENAME=configs/ar_osn13.xml
-  - WEBGRAB_FILENAME=configs/others.xml
+    script:
 script:
-- docker run -it --rm -v "${PWD}/${WEBGRAB_FILENAME}:/config/WebGrab++.config.xml" -v "${PWD}:/data" synker/webgraboneshot:latest
-- git remote add origin2 https://${GITHUB_API_TOKEN}@github.com/fazzani/grab.git > /dev/null 2>&1
-- git add --all && (git commit -m "Webgrab ${WEBGRAB_FILENAME}" || echo "No changes to commit")
-- (git pull origin2 HEAD:master && git push origin2 HEAD:master) || (sleep 100 && git pull origin2 HEAD:master && git push origin2 HEAD:master)
-
-jobs:
-  include:
-  - stage: merging
-    name: Merging xmltv files
-    script:
-    - chmod +x docker/merge.sh
-    - docker pull synker/xmltv_merge:latest
-    - docker run -it -v "${PWD}:/work" -e GITHUB_API_TOKEN=${GITHUB_API_TOKEN} synker/xmltv_merge:0.0.3 /bin/bash -c "dos2unix docker/merge.sh && chmod +x docker/merge.sh && apt-get install zip -y && docker/merge.sh '*.xmltv'"
-    - git remote add origin2 https://${GITHUB_API_TOKEN}@github.com/fazzani/grab.git > /dev/null 2>&1
-    - git add merge.tar.gz && git add merge.zip && git commit -m "compression and mergin xmltv files and pushing them to GITHUB. Triggred by $TRAVIS_EVENT_TYPE"
-    - git pull origin2 HEAD:master
-    - git push origin2 HEAD:master
-  - stage: Update readme
-    name: Update readme
-    before_script:
-      - sudo apt-get update -qq
-      - sudo apt-get install libxml2-utils xmlstarlet -y
-      - npm install -g xml2json-cli
-    script:
-      - chmod +x ./scripts/check_channels.sh
-      - ./scripts/check_channels.sh *.xmltv ${TRAVIS_BUILD_NUMBER}
-      - curl -s -H "Content-Type: application/json" -XPOST elastic.synker.ovh/missingepgchannels/_doc -d @out/check_missing_programs.json
+  - sudo apt-get update -qq
+  - sudo apt-get install libxml2-utils xmlstarlet -y
+  - npm install -g xml2json-cli
+  - chmod +x ./scripts/check_channels.sh
+  - ./scripts/check_channels.sh *.xmltv ${TRAVIS_BUILD_NUMBER}
+  - curl -s -H "Content-Type: application/json" -XPOST elastic.synker.ovh/missingepgchannels/_doc -d @out/check_missing_programs.json
 
 notifications:
   email:
