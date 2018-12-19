@@ -85,7 +85,7 @@ if [ -z "$1" ];then
 	echoInfo "You must pass a list of epg files!!"
 	exit -1
 fi
-now=$(date +"%d/%m/%Y")
+now=$(date +"%Y/%m/%d H:M:S")
 echo $now
 
 outputfile="out/check_channels.xml"
@@ -94,7 +94,7 @@ outputfile_missing_prog="out/check_missing_programs.json"
 
 #vider les fichiers output
 echo "" > $outputfile > $outputfile_json
-echo "{\"report\":{\"date\":\"$now\",\"_id\":\"${2:-1}\",\"sources\":[" > $outputfile_missing_prog
+echo "{\"report\":{\"update_date\":\"$now\",\"_id\":\"${2:-1}\",\"sources\":[" > $outputfile_missing_prog
 #convert encoding to utf-8
 echo -ne '\xEF\xBB\xBF' > $outputfile
 #file -i $outputfile
