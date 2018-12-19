@@ -10,13 +10,8 @@ branches:
   only:
   - master
 script:
-  - sudo apt-get update -qq
-  - sudo apt-get install libxml2-utils xmlstarlet -y
-  - npm install -g xml2json-cli
-  - chmod +x ./scripts/check_channels.sh
-  - ./scripts/check_channels.sh *.xmltv ${TRAVIS_BUILD_NUMBER}
   - ls -la ./out/
-  - curl -s -H "Content-Type: application/json" -XPOST elastic.synker.ovh/missingepgchannels/_doc -d @out/check_missing_programs.json
+  - curl -s -H "Content-Type: application/json" -XPOST elastic.synker.ovh/missingepgchannels/_doc -d @./out/check_missing_programs.json
 
 notifications:
   email:
