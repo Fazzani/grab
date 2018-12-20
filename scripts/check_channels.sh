@@ -94,7 +94,7 @@ outputfile_missing_prog="out/check_missing_programs.json"
 
 #vider les fichiers output
 echo "" > $outputfile > $outputfile_json
-echo "{\"report\":{\"update_date\":\"$now\",\"_id\":\"${2:-1}\",\"sources\":[" > $outputfile_missing_prog
+echo "{\"created_date\":\"$now\",\"id\":\"${2:-1}\",\"sources\":[" > $outputfile_missing_prog
 #convert encoding to utf-8
 echo -ne '\xEF\xBB\xBF' > $outputfile
 #file -i $outputfile
@@ -110,7 +110,7 @@ echo '</tv>' >> $outputfile
 
 # formating channels without programs file
 content_missing=$(cat $outputfile_missing_prog)
-echo ${content_missing%,}"]}}" > $outputfile_missing_prog
+echo ${content_missing%,}"]}" > $outputfile_missing_prog
 # Generate json version
 
 xml2json $outputfile $outputfile_json
