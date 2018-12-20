@@ -1225,6 +1225,138 @@
 				"url": "http://www.elcinema.com"
 			},
 			{
+				"id": "Cine Mo",
+				"country": "osn",
+				"display-name": {
+					"lang": "en",
+					"$t": "Cine Mo"
+				},
+				"icon": {
+					"src": "http://content.osn.com/logo/channel/cropped/CIN.png"
+				},
+				"url": "http://www.osn.com"
+			},
+			{
+				"id": "Lifestyle Network",
+				"country": "osn",
+				"display-name": {
+					"lang": "en",
+					"$t": "Lifestyle Network"
+				},
+				"icon": {
+					"src": "http://content.osn.com/logo/channel/cropped/LSN.png"
+				},
+				"url": "http://www.osn.com"
+			},
+			{
+				"id": "GMA Pinoy TV",
+				"country": "osn",
+				"display-name": {
+					"lang": "en",
+					"$t": "GMA Pinoy TV"
+				},
+				"icon": {
+					"src": "http://content.osn.com/logo/channel/cropped/GMA.png"
+				},
+				"url": "http://www.osn.com"
+			},
+			{
+				"id": "GMA Life TV",
+				"country": "osn",
+				"display-name": {
+					"lang": "en",
+					"$t": "GMA Life TV"
+				},
+				"icon": {
+					"src": "http://content.osn.com/logo/channel/cropped/GML.png"
+				},
+				"url": "http://www.osn.com"
+			},
+			{
+				"id": "GMA News TV",
+				"country": "osn",
+				"display-name": {
+					"lang": "en",
+					"$t": "GMA News TV"
+				},
+				"icon": {
+					"src": "http://content.osn.com/logo/channel/cropped/GMN.png"
+				},
+				"url": "http://www.osn.com"
+			},
+			{
+				"id": "MBC 1",
+				"country": "osn",
+				"display-name": {
+					"lang": "en",
+					"$t": "MBC 1"
+				},
+				"icon": {
+					"src": "http://content.osn.com/logo/channel/cropped/MH1.png"
+				},
+				"url": "http://www.osn.com"
+			},
+			{
+				"id": "MBC 4",
+				"country": "osn",
+				"display-name": {
+					"lang": "en",
+					"$t": "MBC 4"
+				},
+				"icon": {
+					"src": "http://content.osn.com/logo/channel/cropped/MH4.png"
+				},
+				"url": "http://www.osn.com"
+			},
+			{
+				"id": "MBC Drama",
+				"country": "osn",
+				"display-name": {
+					"lang": "en",
+					"$t": "MBC Drama"
+				},
+				"icon": {
+					"src": "http://content.osn.com/logo/channel/cropped/MHD.png"
+				},
+				"url": "http://www.osn.com"
+			},
+			{
+				"id": "MBC 2",
+				"country": "osn",
+				"display-name": {
+					"lang": "en",
+					"$t": "MBC 2"
+				},
+				"icon": {
+					"src": "http://content.osn.com/logo/channel/cropped/MH2.png"
+				},
+				"url": "http://www.osn.com"
+			},
+			{
+				"id": "MBC MAX",
+				"country": "osn",
+				"display-name": {
+					"lang": "en",
+					"$t": "MBC MAX"
+				},
+				"icon": {
+					"src": "http://content.osn.com/logo/channel/cropped/MHM.png"
+				},
+				"url": "http://www.osn.com"
+			},
+			{
+				"id": "MBC Action",
+				"country": "osn",
+				"display-name": {
+					"lang": "en",
+					"$t": "MBC Action"
+				},
+				"icon": {
+					"src": "http://content.osn.com/logo/channel/cropped/MHA.png"
+				},
+				"url": "http://www.osn.com"
+			},
+			{
 				"id": "AD Sports 3 HD",
 				"country": "osn10",
 				"display-name": {
@@ -1569,6 +1701,66 @@
 				},
 				"icon": {
 					"src": "http://content.osn.com/logo/channel/cropped/FXN.png"
+				},
+				"url": "http://www.osn.com"
+			},
+			{
+				"id": "Nick Jr",
+				"country": "osn12",
+				"display-name": {
+					"lang": "en",
+					"$t": "Nick Jr"
+				},
+				"icon": {
+					"src": "http://content.osn.com/logo/channel/cropped/NJR.png"
+				},
+				"url": "http://www.osn.com"
+			},
+			{
+				"id": "OSN Kid Zone TV",
+				"country": "osn12",
+				"display-name": {
+					"lang": "en",
+					"$t": "OSN Kid Zone TV"
+				},
+				"icon": {
+					"src": "http://content.osn.com/logo/channel/cropped/KDZ.png"
+				},
+				"url": "http://www.osn.com"
+			},
+			{
+				"id": "OSN News",
+				"country": "osn12",
+				"display-name": {
+					"lang": "en",
+					"$t": "OSN News"
+				},
+				"icon": {
+					"src": "http://content.osn.com/logo/channel/cropped/ONS.png"
+				},
+				"url": "http://www.osn.com"
+			},
+			{
+				"id": "Sky News HD",
+				"country": "osn12",
+				"display-name": {
+					"lang": "en",
+					"$t": "Sky News HD"
+				},
+				"icon": {
+					"src": "http://content.osn.com/logo/channel/cropped/SKH.png"
+				},
+				"url": "http://www.osn.com"
+			},
+			{
+				"id": "BBC World",
+				"country": "osn12",
+				"display-name": {
+					"lang": "en",
+					"$t": "BBC World"
+				},
+				"icon": {
+					"src": "http://content.osn.com/logo/channel/cropped/BBW.png"
 				},
 				"url": "http://www.osn.com"
 			},
@@ -2965,138 +3157,6 @@
 				"url": "http://www.osn.com"
 			},
 			{
-				"id": "Cine Mo",
-				"country": "osn",
-				"display-name": {
-					"lang": "en",
-					"$t": "Cine Mo"
-				},
-				"icon": {
-					"src": "http://content.osn.com/logo/channel/cropped/CIN.png"
-				},
-				"url": "http://www.osn.com"
-			},
-			{
-				"id": "Lifestyle Network",
-				"country": "osn",
-				"display-name": {
-					"lang": "en",
-					"$t": "Lifestyle Network"
-				},
-				"icon": {
-					"src": "http://content.osn.com/logo/channel/cropped/LSN.png"
-				},
-				"url": "http://www.osn.com"
-			},
-			{
-				"id": "GMA Pinoy TV",
-				"country": "osn",
-				"display-name": {
-					"lang": "en",
-					"$t": "GMA Pinoy TV"
-				},
-				"icon": {
-					"src": "http://content.osn.com/logo/channel/cropped/GMA.png"
-				},
-				"url": "http://www.osn.com"
-			},
-			{
-				"id": "GMA Life TV",
-				"country": "osn",
-				"display-name": {
-					"lang": "en",
-					"$t": "GMA Life TV"
-				},
-				"icon": {
-					"src": "http://content.osn.com/logo/channel/cropped/GML.png"
-				},
-				"url": "http://www.osn.com"
-			},
-			{
-				"id": "GMA News TV",
-				"country": "osn",
-				"display-name": {
-					"lang": "en",
-					"$t": "GMA News TV"
-				},
-				"icon": {
-					"src": "http://content.osn.com/logo/channel/cropped/GMN.png"
-				},
-				"url": "http://www.osn.com"
-			},
-			{
-				"id": "MBC 1",
-				"country": "osn",
-				"display-name": {
-					"lang": "en",
-					"$t": "MBC 1"
-				},
-				"icon": {
-					"src": "http://content.osn.com/logo/channel/cropped/MH1.png"
-				},
-				"url": "http://www.osn.com"
-			},
-			{
-				"id": "MBC 4",
-				"country": "osn",
-				"display-name": {
-					"lang": "en",
-					"$t": "MBC 4"
-				},
-				"icon": {
-					"src": "http://content.osn.com/logo/channel/cropped/MH4.png"
-				},
-				"url": "http://www.osn.com"
-			},
-			{
-				"id": "MBC Drama",
-				"country": "osn",
-				"display-name": {
-					"lang": "en",
-					"$t": "MBC Drama"
-				},
-				"icon": {
-					"src": "http://content.osn.com/logo/channel/cropped/MHD.png"
-				},
-				"url": "http://www.osn.com"
-			},
-			{
-				"id": "MBC 2",
-				"country": "osn",
-				"display-name": {
-					"lang": "en",
-					"$t": "MBC 2"
-				},
-				"icon": {
-					"src": "http://content.osn.com/logo/channel/cropped/MH2.png"
-				},
-				"url": "http://www.osn.com"
-			},
-			{
-				"id": "MBC MAX",
-				"country": "osn",
-				"display-name": {
-					"lang": "en",
-					"$t": "MBC MAX"
-				},
-				"icon": {
-					"src": "http://content.osn.com/logo/channel/cropped/MHM.png"
-				},
-				"url": "http://www.osn.com"
-			},
-			{
-				"id": "MBC Action",
-				"country": "osn",
-				"display-name": {
-					"lang": "en",
-					"$t": "MBC Action"
-				},
-				"icon": {
-					"src": "http://content.osn.com/logo/channel/cropped/MHA.png"
-				},
-				"url": "http://www.osn.com"
-			},
-			{
 				"id": "Panorama Food",
 				"country": "seevi",
 				"display-name": {
@@ -3914,858 +3974,6 @@
 					"$t": "MBC Drama + HD"
 				},
 				"url": "http://www.seevii.com"
-			},
-			{
-				"id": "TF1",
-				"country": "canal2",
-				"display-name": {
-					"lang": "fr",
-					"$t": "TF1"
-				},
-				"icon": {
-					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_312.PNG"
-				},
-				"url": "http://www.canalsat.fr"
-			},
-			{
-				"id": "FRANCE 2",
-				"country": "canal2",
-				"display-name": {
-					"lang": "fr",
-					"$t": "FRANCE 2"
-				},
-				"icon": {
-					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_26.PNG"
-				},
-				"url": "http://www.canalsat.fr"
-			},
-			{
-				"id": "FRANCE 3",
-				"country": "canal2",
-				"display-name": {
-					"lang": "fr",
-					"$t": "FRANCE 3"
-				},
-				"icon": {
-					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_543.PNG"
-				},
-				"url": "http://www.canalsat.fr"
-			},
-			{
-				"id": "FRANCE 5",
-				"country": "canal2",
-				"display-name": {
-					"lang": "fr",
-					"$t": "FRANCE 5"
-				},
-				"icon": {
-					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_545.PNG"
-				},
-				"url": "http://www.canalsat.fr"
-			},
-			{
-				"id": "M6",
-				"country": "canal2",
-				"display-name": {
-					"lang": "fr",
-					"$t": "M6"
-				},
-				"icon": {
-					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_313.PNG"
-				},
-				"url": "http://www.canalsat.fr"
-			},
-			{
-				"id": "ARTE",
-				"country": "canal2",
-				"display-name": {
-					"lang": "fr",
-					"$t": "ARTE"
-				},
-				"icon": {
-					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_154.PNG"
-				},
-				"url": "http://www.canalsat.fr"
-			},
-			{
-				"id": "CANAL+",
-				"country": "canal2",
-				"display-name": {
-					"lang": "fr",
-					"$t": "CANAL+"
-				},
-				"icon": {
-					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_1.PNG"
-				},
-				"url": "http://www.canalsat.fr"
-			},
-			{
-				"id": "CANAL+ CINEMA",
-				"country": "canal2",
-				"display-name": {
-					"lang": "fr",
-					"$t": "CANAL+ CINEMA"
-				},
-				"icon": {
-					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_198.PNG"
-				},
-				"url": "http://www.canalsat.fr"
-			},
-			{
-				"id": "CANAL+ SPORT",
-				"country": "canal2",
-				"display-name": {
-					"lang": "fr",
-					"$t": "CANAL+ SPORT"
-				},
-				"icon": {
-					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_177.PNG"
-				},
-				"url": "http://www.canalsat.fr"
-			},
-			{
-				"id": "CANAL+ SERIES",
-				"country": "canal2",
-				"display-name": {
-					"lang": "fr",
-					"$t": "CANAL+ SERIES"
-				},
-				"icon": {
-					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_481.PNG"
-				},
-				"url": "http://www.canalsat.fr"
-			},
-			{
-				"id": "CANAL+ FAMILY",
-				"country": "canal2",
-				"display-name": {
-					"lang": "fr",
-					"$t": "CANAL+ FAMILY"
-				},
-				"icon": {
-					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_259.PNG"
-				},
-				"url": "http://www.canalsat.fr"
-			},
-			{
-				"id": "CANAL+ DECALE",
-				"country": "canal2",
-				"display-name": {
-					"lang": "fr",
-					"$t": "CANAL+ DECALE"
-				},
-				"icon": {
-					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_257.PNG"
-				},
-				"url": "http://www.canalsat.fr"
-			},
-			{
-				"id": "EVENEMENT",
-				"country": "canal2",
-				"display-name": {
-					"lang": "fr",
-					"$t": "EVENEMENT"
-				},
-				"icon": {
-					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_289.PNG"
-				},
-				"url": "http://www.canalsat.fr"
-			},
-			{
-				"id": "CINE+ PREMIER",
-				"country": "canal2",
-				"display-name": {
-					"lang": "fr",
-					"$t": "CINE+ PREMIER"
-				},
-				"icon": {
-					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_322.PNG"
-				},
-				"url": "http://www.canalsat.fr"
-			},
-			{
-				"id": "CINE+ FRISSON",
-				"country": "canal2",
-				"display-name": {
-					"lang": "fr",
-					"$t": "CINE+ FRISSON"
-				},
-				"icon": {
-					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_398.PNG"
-				},
-				"url": "http://www.canalsat.fr"
-			},
-			{
-				"id": "CINE+ EMOTION",
-				"country": "canal2",
-				"display-name": {
-					"lang": "fr",
-					"$t": "CINE+ EMOTION"
-				},
-				"icon": {
-					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_396.PNG"
-				},
-				"url": "http://www.canalsat.fr"
-			},
-			{
-				"id": "CINE+ FAMIZ",
-				"country": "canal2",
-				"display-name": {
-					"lang": "fr",
-					"$t": "CINE+ FAMIZ"
-				},
-				"icon": {
-					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_533.PNG"
-				},
-				"url": "http://www.canalsat.fr"
-			},
-			{
-				"id": "CINE+ CLUB",
-				"country": "canal2",
-				"display-name": {
-					"lang": "fr",
-					"$t": "CINE+ CLUB"
-				},
-				"icon": {
-					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_532.PNG"
-				},
-				"url": "http://www.canalsat.fr"
-			},
-			{
-				"id": "CINE+ CLASSIC",
-				"country": "canal2",
-				"display-name": {
-					"lang": "fr",
-					"$t": "CINE+ CLASSIC"
-				},
-				"icon": {
-					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_531.PNG"
-				},
-				"url": "http://www.canalsat.fr"
-			},
-			{
-				"id": "OCS MAX",
-				"country": "canal2",
-				"display-name": {
-					"lang": "fr",
-					"$t": "OCS MAX"
-				},
-				"icon": {
-					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_367.PNG"
-				},
-				"url": "http://www.canalsat.fr"
-			},
-			{
-				"id": "OCS CITY",
-				"country": "canal2",
-				"display-name": {
-					"lang": "fr",
-					"$t": "OCS CITY"
-				},
-				"icon": {
-					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_369.PNG"
-				},
-				"url": "http://www.canalsat.fr"
-			},
-			{
-				"id": "OCS CHOC",
-				"country": "canal2",
-				"display-name": {
-					"lang": "fr",
-					"$t": "OCS CHOC"
-				},
-				"icon": {
-					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_368.PNG"
-				},
-				"url": "http://www.canalsat.fr"
-			},
-			{
-				"id": "OCS GEANTS",
-				"country": "canal2",
-				"display-name": {
-					"lang": "fr",
-					"$t": "OCS GEANTS"
-				},
-				"icon": {
-					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_370.PNG"
-				},
-				"url": "http://www.canalsat.fr"
-			},
-			{
-				"id": "TCM CINEMA",
-				"country": "canal2",
-				"display-name": {
-					"lang": "fr",
-					"$t": "TCM CINEMA"
-				},
-				"icon": {
-					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_374.PNG"
-				},
-				"url": "http://www.canalsat.fr"
-			},
-			{
-				"id": "PARAMOUNT CHANNEL",
-				"country": "canal2",
-				"display-name": {
-					"lang": "fr",
-					"$t": "PARAMOUNT CHANNEL"
-				},
-				"icon": {
-					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_489.PNG"
-				},
-				"url": "http://www.canalsat.fr"
-			},
-			{
-				"id": "ACTION",
-				"country": "canal2",
-				"display-name": {
-					"lang": "fr",
-					"$t": "ACTION"
-				},
-				"icon": {
-					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_504.PNG"
-				},
-				"url": "http://www.canalsat.fr"
-			},
-			{
-				"id": "SUNDANCE TV",
-				"country": "canal2",
-				"display-name": {
-					"lang": "fr",
-					"$t": "SUNDANCE TV"
-				},
-				"icon": {
-					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_641.PNG"
-				},
-				"url": "http://www.canalsat.fr"
-			},
-			{
-				"id": "NOLLYWOOD TV",
-				"country": "canal2",
-				"display-name": {
-					"lang": "fr",
-					"$t": "NOLLYWOOD TV"
-				},
-				"icon": {
-					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_527.PNG"
-				},
-				"url": "http://www.canalsat.fr"
-			},
-			{
-				"id": "A+",
-				"country": "canal2",
-				"display-name": {
-					"lang": "fr",
-					"$t": "A+"
-				},
-				"icon": {
-					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_639.PNG"
-				},
-				"url": "http://www.canalsat.fr"
-			},
-			{
-				"id": "DISNEY CINEMA",
-				"country": "canal2",
-				"display-name": {
-					"lang": "fr",
-					"$t": "DISNEY CINEMA"
-				},
-				"icon": {
-					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_340.PNG"
-				},
-				"url": "http://www.canalsat.fr"
-			},
-			{
-				"id": "TF1 SERIES FILMS",
-				"country": "canal2",
-				"display-name": {
-					"lang": "fr",
-					"$t": "TF1 SERIES FILMS"
-				},
-				"icon": {
-					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_526.PNG"
-				},
-				"url": "http://www.canalsat.fr"
-			},
-			{
-				"id": "BOB TV",
-				"country": "canal2",
-				"display-name": {
-					"lang": "fr",
-					"$t": "BOB TV"
-				},
-				"icon": {
-					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_196.PNG"
-				},
-				"url": "http://www.canalsat.fr"
-			},
-			{
-				"id": "DIEGO TV",
-				"country": "canal2",
-				"display-name": {
-					"lang": "fr",
-					"$t": "DIEGO TV"
-				},
-				"icon": {
-					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_184.PNG"
-				},
-				"url": "http://www.canalsat.fr"
-			},
-			{
-				"id": "DORA TV",
-				"country": "canal2",
-				"display-name": {
-					"lang": "fr",
-					"$t": "DORA TV"
-				},
-				"icon": {
-					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_185.PNG"
-				},
-				"url": "http://www.canalsat.fr"
-			},
-			{
-				"id": "DISNEY JUNIOR",
-				"country": "canal2",
-				"display-name": {
-					"lang": "fr",
-					"$t": "DISNEY JUNIOR"
-				},
-				"icon": {
-					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_274.PNG"
-				},
-				"url": "http://www.canalsat.fr"
-			},
-			{
-				"id": "PIWI+",
-				"country": "canal2",
-				"display-name": {
-					"lang": "fr",
-					"$t": "PIWI+"
-				},
-				"icon": {
-					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_576.PNG"
-				},
-				"url": "http://www.canalsat.fr"
-			},
-			{
-				"id": "NICKELODEON JUNIOR",
-				"country": "canal2",
-				"display-name": {
-					"lang": "fr",
-					"$t": "NICKELODEON JUNIOR"
-				},
-				"icon": {
-					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_593.PNG"
-				},
-				"url": "http://www.canalsat.fr"
-			},
-			{
-				"id": "TIJI",
-				"country": "canal2",
-				"display-name": {
-					"lang": "fr",
-					"$t": "TIJI"
-				},
-				"icon": {
-					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_583.PNG"
-				},
-				"url": "http://www.canalsat.fr"
-			},
-			{
-				"id": "BOOMERANG",
-				"country": "canal2",
-				"display-name": {
-					"lang": "fr",
-					"$t": "BOOMERANG"
-				},
-				"icon": {
-					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_530.PNG"
-				},
-				"url": "http://www.canalsat.fr"
-			},
-			{
-				"id": "CARTOON NETWORK",
-				"country": "canal2",
-				"display-name": {
-					"lang": "fr",
-					"$t": "CARTOON NETWORK"
-				},
-				"icon": {
-					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_502.PNG"
-				},
-				"url": "http://www.canalsat.fr"
-			},
-			{
-				"id": "NICKELODEON",
-				"country": "canal2",
-				"display-name": {
-					"lang": "fr",
-					"$t": "NICKELODEON"
-				},
-				"icon": {
-					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_591.PNG"
-				},
-				"url": "http://www.canalsat.fr"
-			},
-			{
-				"id": "TELETOON+",
-				"country": "canal2",
-				"display-name": {
-					"lang": "fr",
-					"$t": "TELETOON+"
-				},
-				"icon": {
-					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_581.PNG"
-				},
-				"url": "http://www.canalsat.fr"
-			},
-			{
-				"id": "DISNEY XD",
-				"country": "canal2",
-				"display-name": {
-					"lang": "fr",
-					"$t": "DISNEY XD"
-				},
-				"icon": {
-					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_284.PNG"
-				},
-				"url": "http://www.canalsat.fr"
-			},
-			{
-				"id": "CANAL J",
-				"country": "canal2",
-				"display-name": {
-					"lang": "fr",
-					"$t": "CANAL J"
-				},
-				"icon": {
-					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_525.PNG"
-				},
-				"url": "http://www.canalsat.fr"
-			},
-			{
-				"id": "BOING",
-				"country": "canal2",
-				"display-name": {
-					"lang": "fr",
-					"$t": "BOING"
-				},
-				"icon": {
-					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_529.PNG"
-				},
-				"url": "http://www.canalsat.fr"
-			},
-			{
-				"id": "TOONAMI",
-				"country": "canal2",
-				"display-name": {
-					"lang": "fr",
-					"$t": "TOONAMI"
-				},
-				"icon": {
-					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_683.PNG"
-				},
-				"url": "http://www.canalsat.fr"
-			},
-			{
-				"id": "NICKELODEON TEEN",
-				"country": "canal2",
-				"display-name": {
-					"lang": "fr",
-					"$t": "NICKELODEON TEEN"
-				},
-				"icon": {
-					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_518.PNG"
-				},
-				"url": "http://www.canalsat.fr"
-			},
-			{
-				"id": "DISNEY CHANNEL",
-				"country": "canal2",
-				"display-name": {
-					"lang": "fr",
-					"$t": "DISNEY CHANNEL"
-				},
-				"icon": {
-					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_282.PNG"
-				},
-				"url": "http://www.canalsat.fr"
-			},
-			{
-				"id": "GULLI",
-				"country": "canal2",
-				"display-name": {
-					"lang": "fr",
-					"$t": "GULLI"
-				},
-				"icon": {
-					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_549.PNG"
-				},
-				"url": "http://www.canalsat.fr"
-			},
-			{
-				"id": "MTV HITS",
-				"country": "canal2",
-				"display-name": {
-					"lang": "fr",
-					"$t": "MTV HITS"
-				},
-				"icon": {
-					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_629.PNG"
-				},
-				"url": "http://www.canalsat.fr"
-			},
-			{
-				"id": "COMEDIE+",
-				"country": "canal2",
-				"display-name": {
-					"lang": "fr",
-					"$t": "COMEDIE+"
-				},
-				"icon": {
-					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_534.PNG"
-				},
-				"url": "http://www.canalsat.fr"
-			},
-			{
-				"id": "POLAR+",
-				"country": "canal2",
-				"display-name": {
-					"lang": "fr",
-					"$t": "POLAR+"
-				},
-				"icon": {
-					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_692.PNG"
-				},
-				"url": "http://www.canalsat.fr"
-			},
-			{
-				"id": "WARNER TV",
-				"country": "canal2",
-				"display-name": {
-					"lang": "fr",
-					"$t": "WARNER TV"
-				},
-				"icon": {
-					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_694.PNG"
-				},
-				"url": "http://www.canalsat.fr"
-			},
-			{
-				"id": "SERIE CLUB",
-				"country": "canal2",
-				"display-name": {
-					"lang": "fr",
-					"$t": "SERIE CLUB"
-				},
-				"icon": {
-					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_356.PNG"
-				},
-				"url": "http://www.canalsat.fr"
-			},
-			{
-				"id": "ELLE GIRL",
-				"country": "canal2",
-				"display-name": {
-					"lang": "fr",
-					"$t": "ELLE GIRL"
-				},
-				"icon": {
-					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_524.PNG"
-				},
-				"url": "http://www.canalsat.fr"
-			},
-			{
-				"id": "NON STOP PEOPLE",
-				"country": "canal2",
-				"display-name": {
-					"lang": "fr",
-					"$t": "NON STOP PEOPLE"
-				},
-				"icon": {
-					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_434.PNG"
-				},
-				"url": "http://www.canalsat.fr"
-			},
-			{
-				"id": "NOVELAS TV",
-				"country": "canal2",
-				"display-name": {
-					"lang": "fr",
-					"$t": "NOVELAS TV"
-				},
-				"icon": {
-					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_693.PNG"
-				},
-				"url": "http://www.canalsat.fr"
-			},
-			{
-				"id": "J-ONE",
-				"country": "canal2",
-				"display-name": {
-					"lang": "fr",
-					"$t": "J-ONE"
-				},
-				"icon": {
-					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_484.PNG"
-				},
-				"url": "http://www.canalsat.fr"
-			},
-			{
-				"id": "AB1",
-				"country": "canal2",
-				"display-name": {
-					"lang": "fr",
-					"$t": "AB1"
-				},
-				"icon": {
-					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_611.PNG"
-				},
-				"url": "http://www.canalsat.fr"
-			},
-			{
-				"id": "TV BREIZH",
-				"country": "canal2",
-				"display-name": {
-					"lang": "fr",
-					"$t": "TV BREIZH"
-				},
-				"icon": {
-					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_586.PNG"
-				},
-				"url": "http://www.canalsat.fr"
-			},
-			{
-				"id": "TEVA",
-				"country": "canal2",
-				"display-name": {
-					"lang": "fr",
-					"$t": "TEVA"
-				},
-				"icon": {
-					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_292.PNG"
-				},
-				"url": "http://www.canalsat.fr"
-			},
-			{
-				"id": "PARIS PREMIERE",
-				"country": "canal2",
-				"display-name": {
-					"lang": "fr",
-					"$t": "PARIS PREMIERE"
-				},
-				"icon": {
-					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_294.PNG"
-				},
-				"url": "http://www.canalsat.fr"
-			},
-			{
-				"id": "RTL9",
-				"country": "canal2",
-				"display-name": {
-					"lang": "fr",
-					"$t": "RTL9"
-				},
-				"icon": {
-					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_505.PNG"
-				},
-				"url": "http://www.canalsat.fr"
-			},
-			{
-				"id": "BET",
-				"country": "canal2",
-				"display-name": {
-					"lang": "fr",
-					"$t": "BET"
-				},
-				"icon": {
-					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_628.PNG"
-				},
-				"url": "http://www.canalsat.fr"
-			},
-			{
-				"id": "C8",
-				"country": "canal2",
-				"display-name": {
-					"lang": "fr",
-					"$t": "C8"
-				},
-				"icon": {
-					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_450.PNG"
-				},
-				"url": "http://www.canalsat.fr"
-			},
-			{
-				"id": "W9",
-				"country": "canal2",
-				"display-name": {
-					"lang": "fr",
-					"$t": "W9"
-				},
-				"icon": {
-					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_296.PNG"
-				},
-				"url": "http://www.canalsat.fr"
-			},
-			{
-				"id": "TMC",
-				"country": "canal2",
-				"display-name": {
-					"lang": "fr",
-					"$t": "TMC"
-				},
-				"icon": {
-					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_584.PNG"
-				},
-				"url": "http://www.canalsat.fr"
-			},
-			{
-				"id": "TFX",
-				"country": "canal2",
-				"display-name": {
-					"lang": "fr",
-					"$t": "TFX"
-				},
-				"icon": {
-					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_570.PNG"
-				},
-				"url": "http://www.canalsat.fr"
-			},
-			{
-				"id": "NRJ 12",
-				"country": "canal2",
-				"display-name": {
-					"lang": "fr",
-					"$t": "NRJ 12"
-				},
-				"icon": {
-					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_568.PNG"
-				},
-				"url": "http://www.canalsat.fr"
-			},
-			{
-				"id": "FRANCE 4",
-				"country": "canal2",
-				"display-name": {
-					"lang": "fr",
-					"$t": "FRANCE 4"
-				},
-				"icon": {
-					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_544.PNG"
-				},
-				"url": "http://www.canalsat.fr"
-			},
-			{
-				"id": "CSTAR",
-				"country": "canal2",
-				"display-name": {
-					"lang": "fr",
-					"$t": "CSTAR"
-				},
-				"icon": {
-					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_513.PNG"
-				},
-				"url": "http://www.canalsat.fr"
 			},
 			{
 				"id": "CHERIE 25",
@@ -5709,6 +4917,858 @@
 				},
 				"icon": {
 					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_605.PNG"
+				},
+				"url": "http://www.canalsat.fr"
+			},
+			{
+				"id": "TF1",
+				"country": "canal2",
+				"display-name": {
+					"lang": "fr",
+					"$t": "TF1"
+				},
+				"icon": {
+					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_312.PNG"
+				},
+				"url": "http://www.canalsat.fr"
+			},
+			{
+				"id": "FRANCE 2",
+				"country": "canal2",
+				"display-name": {
+					"lang": "fr",
+					"$t": "FRANCE 2"
+				},
+				"icon": {
+					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_26.PNG"
+				},
+				"url": "http://www.canalsat.fr"
+			},
+			{
+				"id": "FRANCE 3",
+				"country": "canal2",
+				"display-name": {
+					"lang": "fr",
+					"$t": "FRANCE 3"
+				},
+				"icon": {
+					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_543.PNG"
+				},
+				"url": "http://www.canalsat.fr"
+			},
+			{
+				"id": "FRANCE 5",
+				"country": "canal2",
+				"display-name": {
+					"lang": "fr",
+					"$t": "FRANCE 5"
+				},
+				"icon": {
+					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_545.PNG"
+				},
+				"url": "http://www.canalsat.fr"
+			},
+			{
+				"id": "M6",
+				"country": "canal2",
+				"display-name": {
+					"lang": "fr",
+					"$t": "M6"
+				},
+				"icon": {
+					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_313.PNG"
+				},
+				"url": "http://www.canalsat.fr"
+			},
+			{
+				"id": "ARTE",
+				"country": "canal2",
+				"display-name": {
+					"lang": "fr",
+					"$t": "ARTE"
+				},
+				"icon": {
+					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_154.PNG"
+				},
+				"url": "http://www.canalsat.fr"
+			},
+			{
+				"id": "CANAL+",
+				"country": "canal2",
+				"display-name": {
+					"lang": "fr",
+					"$t": "CANAL+"
+				},
+				"icon": {
+					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_1.PNG"
+				},
+				"url": "http://www.canalsat.fr"
+			},
+			{
+				"id": "CANAL+ CINEMA",
+				"country": "canal2",
+				"display-name": {
+					"lang": "fr",
+					"$t": "CANAL+ CINEMA"
+				},
+				"icon": {
+					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_198.PNG"
+				},
+				"url": "http://www.canalsat.fr"
+			},
+			{
+				"id": "CANAL+ SPORT",
+				"country": "canal2",
+				"display-name": {
+					"lang": "fr",
+					"$t": "CANAL+ SPORT"
+				},
+				"icon": {
+					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_177.PNG"
+				},
+				"url": "http://www.canalsat.fr"
+			},
+			{
+				"id": "CANAL+ SERIES",
+				"country": "canal2",
+				"display-name": {
+					"lang": "fr",
+					"$t": "CANAL+ SERIES"
+				},
+				"icon": {
+					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_481.PNG"
+				},
+				"url": "http://www.canalsat.fr"
+			},
+			{
+				"id": "CANAL+ FAMILY",
+				"country": "canal2",
+				"display-name": {
+					"lang": "fr",
+					"$t": "CANAL+ FAMILY"
+				},
+				"icon": {
+					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_259.PNG"
+				},
+				"url": "http://www.canalsat.fr"
+			},
+			{
+				"id": "CANAL+ DECALE",
+				"country": "canal2",
+				"display-name": {
+					"lang": "fr",
+					"$t": "CANAL+ DECALE"
+				},
+				"icon": {
+					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_257.PNG"
+				},
+				"url": "http://www.canalsat.fr"
+			},
+			{
+				"id": "EVENEMENT",
+				"country": "canal2",
+				"display-name": {
+					"lang": "fr",
+					"$t": "EVENEMENT"
+				},
+				"icon": {
+					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_289.PNG"
+				},
+				"url": "http://www.canalsat.fr"
+			},
+			{
+				"id": "CINE+ PREMIER",
+				"country": "canal2",
+				"display-name": {
+					"lang": "fr",
+					"$t": "CINE+ PREMIER"
+				},
+				"icon": {
+					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_322.PNG"
+				},
+				"url": "http://www.canalsat.fr"
+			},
+			{
+				"id": "CINE+ FRISSON",
+				"country": "canal2",
+				"display-name": {
+					"lang": "fr",
+					"$t": "CINE+ FRISSON"
+				},
+				"icon": {
+					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_398.PNG"
+				},
+				"url": "http://www.canalsat.fr"
+			},
+			{
+				"id": "CINE+ EMOTION",
+				"country": "canal2",
+				"display-name": {
+					"lang": "fr",
+					"$t": "CINE+ EMOTION"
+				},
+				"icon": {
+					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_396.PNG"
+				},
+				"url": "http://www.canalsat.fr"
+			},
+			{
+				"id": "CINE+ FAMIZ",
+				"country": "canal2",
+				"display-name": {
+					"lang": "fr",
+					"$t": "CINE+ FAMIZ"
+				},
+				"icon": {
+					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_533.PNG"
+				},
+				"url": "http://www.canalsat.fr"
+			},
+			{
+				"id": "CINE+ CLUB",
+				"country": "canal2",
+				"display-name": {
+					"lang": "fr",
+					"$t": "CINE+ CLUB"
+				},
+				"icon": {
+					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_532.PNG"
+				},
+				"url": "http://www.canalsat.fr"
+			},
+			{
+				"id": "CINE+ CLASSIC",
+				"country": "canal2",
+				"display-name": {
+					"lang": "fr",
+					"$t": "CINE+ CLASSIC"
+				},
+				"icon": {
+					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_531.PNG"
+				},
+				"url": "http://www.canalsat.fr"
+			},
+			{
+				"id": "OCS MAX",
+				"country": "canal2",
+				"display-name": {
+					"lang": "fr",
+					"$t": "OCS MAX"
+				},
+				"icon": {
+					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_367.PNG"
+				},
+				"url": "http://www.canalsat.fr"
+			},
+			{
+				"id": "OCS CITY",
+				"country": "canal2",
+				"display-name": {
+					"lang": "fr",
+					"$t": "OCS CITY"
+				},
+				"icon": {
+					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_369.PNG"
+				},
+				"url": "http://www.canalsat.fr"
+			},
+			{
+				"id": "OCS CHOC",
+				"country": "canal2",
+				"display-name": {
+					"lang": "fr",
+					"$t": "OCS CHOC"
+				},
+				"icon": {
+					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_368.PNG"
+				},
+				"url": "http://www.canalsat.fr"
+			},
+			{
+				"id": "OCS GEANTS",
+				"country": "canal2",
+				"display-name": {
+					"lang": "fr",
+					"$t": "OCS GEANTS"
+				},
+				"icon": {
+					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_370.PNG"
+				},
+				"url": "http://www.canalsat.fr"
+			},
+			{
+				"id": "TCM CINEMA",
+				"country": "canal2",
+				"display-name": {
+					"lang": "fr",
+					"$t": "TCM CINEMA"
+				},
+				"icon": {
+					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_374.PNG"
+				},
+				"url": "http://www.canalsat.fr"
+			},
+			{
+				"id": "PARAMOUNT CHANNEL",
+				"country": "canal2",
+				"display-name": {
+					"lang": "fr",
+					"$t": "PARAMOUNT CHANNEL"
+				},
+				"icon": {
+					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_489.PNG"
+				},
+				"url": "http://www.canalsat.fr"
+			},
+			{
+				"id": "ACTION",
+				"country": "canal2",
+				"display-name": {
+					"lang": "fr",
+					"$t": "ACTION"
+				},
+				"icon": {
+					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_504.PNG"
+				},
+				"url": "http://www.canalsat.fr"
+			},
+			{
+				"id": "SUNDANCE TV",
+				"country": "canal2",
+				"display-name": {
+					"lang": "fr",
+					"$t": "SUNDANCE TV"
+				},
+				"icon": {
+					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_641.PNG"
+				},
+				"url": "http://www.canalsat.fr"
+			},
+			{
+				"id": "NOLLYWOOD TV",
+				"country": "canal2",
+				"display-name": {
+					"lang": "fr",
+					"$t": "NOLLYWOOD TV"
+				},
+				"icon": {
+					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_527.PNG"
+				},
+				"url": "http://www.canalsat.fr"
+			},
+			{
+				"id": "A+",
+				"country": "canal2",
+				"display-name": {
+					"lang": "fr",
+					"$t": "A+"
+				},
+				"icon": {
+					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_639.PNG"
+				},
+				"url": "http://www.canalsat.fr"
+			},
+			{
+				"id": "DISNEY CINEMA",
+				"country": "canal2",
+				"display-name": {
+					"lang": "fr",
+					"$t": "DISNEY CINEMA"
+				},
+				"icon": {
+					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_340.PNG"
+				},
+				"url": "http://www.canalsat.fr"
+			},
+			{
+				"id": "TF1 SERIES FILMS",
+				"country": "canal2",
+				"display-name": {
+					"lang": "fr",
+					"$t": "TF1 SERIES FILMS"
+				},
+				"icon": {
+					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_526.PNG"
+				},
+				"url": "http://www.canalsat.fr"
+			},
+			{
+				"id": "BOB TV",
+				"country": "canal2",
+				"display-name": {
+					"lang": "fr",
+					"$t": "BOB TV"
+				},
+				"icon": {
+					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_196.PNG"
+				},
+				"url": "http://www.canalsat.fr"
+			},
+			{
+				"id": "DIEGO TV",
+				"country": "canal2",
+				"display-name": {
+					"lang": "fr",
+					"$t": "DIEGO TV"
+				},
+				"icon": {
+					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_184.PNG"
+				},
+				"url": "http://www.canalsat.fr"
+			},
+			{
+				"id": "DORA TV",
+				"country": "canal2",
+				"display-name": {
+					"lang": "fr",
+					"$t": "DORA TV"
+				},
+				"icon": {
+					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_185.PNG"
+				},
+				"url": "http://www.canalsat.fr"
+			},
+			{
+				"id": "DISNEY JUNIOR",
+				"country": "canal2",
+				"display-name": {
+					"lang": "fr",
+					"$t": "DISNEY JUNIOR"
+				},
+				"icon": {
+					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_274.PNG"
+				},
+				"url": "http://www.canalsat.fr"
+			},
+			{
+				"id": "PIWI+",
+				"country": "canal2",
+				"display-name": {
+					"lang": "fr",
+					"$t": "PIWI+"
+				},
+				"icon": {
+					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_576.PNG"
+				},
+				"url": "http://www.canalsat.fr"
+			},
+			{
+				"id": "NICKELODEON JUNIOR",
+				"country": "canal2",
+				"display-name": {
+					"lang": "fr",
+					"$t": "NICKELODEON JUNIOR"
+				},
+				"icon": {
+					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_593.PNG"
+				},
+				"url": "http://www.canalsat.fr"
+			},
+			{
+				"id": "TIJI",
+				"country": "canal2",
+				"display-name": {
+					"lang": "fr",
+					"$t": "TIJI"
+				},
+				"icon": {
+					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_583.PNG"
+				},
+				"url": "http://www.canalsat.fr"
+			},
+			{
+				"id": "BOOMERANG",
+				"country": "canal2",
+				"display-name": {
+					"lang": "fr",
+					"$t": "BOOMERANG"
+				},
+				"icon": {
+					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_530.PNG"
+				},
+				"url": "http://www.canalsat.fr"
+			},
+			{
+				"id": "CARTOON NETWORK",
+				"country": "canal2",
+				"display-name": {
+					"lang": "fr",
+					"$t": "CARTOON NETWORK"
+				},
+				"icon": {
+					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_502.PNG"
+				},
+				"url": "http://www.canalsat.fr"
+			},
+			{
+				"id": "NICKELODEON",
+				"country": "canal2",
+				"display-name": {
+					"lang": "fr",
+					"$t": "NICKELODEON"
+				},
+				"icon": {
+					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_591.PNG"
+				},
+				"url": "http://www.canalsat.fr"
+			},
+			{
+				"id": "TELETOON+",
+				"country": "canal2",
+				"display-name": {
+					"lang": "fr",
+					"$t": "TELETOON+"
+				},
+				"icon": {
+					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_581.PNG"
+				},
+				"url": "http://www.canalsat.fr"
+			},
+			{
+				"id": "DISNEY XD",
+				"country": "canal2",
+				"display-name": {
+					"lang": "fr",
+					"$t": "DISNEY XD"
+				},
+				"icon": {
+					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_284.PNG"
+				},
+				"url": "http://www.canalsat.fr"
+			},
+			{
+				"id": "CANAL J",
+				"country": "canal2",
+				"display-name": {
+					"lang": "fr",
+					"$t": "CANAL J"
+				},
+				"icon": {
+					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_525.PNG"
+				},
+				"url": "http://www.canalsat.fr"
+			},
+			{
+				"id": "BOING",
+				"country": "canal2",
+				"display-name": {
+					"lang": "fr",
+					"$t": "BOING"
+				},
+				"icon": {
+					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_529.PNG"
+				},
+				"url": "http://www.canalsat.fr"
+			},
+			{
+				"id": "TOONAMI",
+				"country": "canal2",
+				"display-name": {
+					"lang": "fr",
+					"$t": "TOONAMI"
+				},
+				"icon": {
+					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_683.PNG"
+				},
+				"url": "http://www.canalsat.fr"
+			},
+			{
+				"id": "NICKELODEON TEEN",
+				"country": "canal2",
+				"display-name": {
+					"lang": "fr",
+					"$t": "NICKELODEON TEEN"
+				},
+				"icon": {
+					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_518.PNG"
+				},
+				"url": "http://www.canalsat.fr"
+			},
+			{
+				"id": "DISNEY CHANNEL",
+				"country": "canal2",
+				"display-name": {
+					"lang": "fr",
+					"$t": "DISNEY CHANNEL"
+				},
+				"icon": {
+					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_282.PNG"
+				},
+				"url": "http://www.canalsat.fr"
+			},
+			{
+				"id": "GULLI",
+				"country": "canal2",
+				"display-name": {
+					"lang": "fr",
+					"$t": "GULLI"
+				},
+				"icon": {
+					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_549.PNG"
+				},
+				"url": "http://www.canalsat.fr"
+			},
+			{
+				"id": "MTV HITS",
+				"country": "canal2",
+				"display-name": {
+					"lang": "fr",
+					"$t": "MTV HITS"
+				},
+				"icon": {
+					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_629.PNG"
+				},
+				"url": "http://www.canalsat.fr"
+			},
+			{
+				"id": "COMEDIE+",
+				"country": "canal2",
+				"display-name": {
+					"lang": "fr",
+					"$t": "COMEDIE+"
+				},
+				"icon": {
+					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_534.PNG"
+				},
+				"url": "http://www.canalsat.fr"
+			},
+			{
+				"id": "POLAR+",
+				"country": "canal2",
+				"display-name": {
+					"lang": "fr",
+					"$t": "POLAR+"
+				},
+				"icon": {
+					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_692.PNG"
+				},
+				"url": "http://www.canalsat.fr"
+			},
+			{
+				"id": "WARNER TV",
+				"country": "canal2",
+				"display-name": {
+					"lang": "fr",
+					"$t": "WARNER TV"
+				},
+				"icon": {
+					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_694.PNG"
+				},
+				"url": "http://www.canalsat.fr"
+			},
+			{
+				"id": "SERIE CLUB",
+				"country": "canal2",
+				"display-name": {
+					"lang": "fr",
+					"$t": "SERIE CLUB"
+				},
+				"icon": {
+					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_356.PNG"
+				},
+				"url": "http://www.canalsat.fr"
+			},
+			{
+				"id": "ELLE GIRL",
+				"country": "canal2",
+				"display-name": {
+					"lang": "fr",
+					"$t": "ELLE GIRL"
+				},
+				"icon": {
+					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_524.PNG"
+				},
+				"url": "http://www.canalsat.fr"
+			},
+			{
+				"id": "NON STOP PEOPLE",
+				"country": "canal2",
+				"display-name": {
+					"lang": "fr",
+					"$t": "NON STOP PEOPLE"
+				},
+				"icon": {
+					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_434.PNG"
+				},
+				"url": "http://www.canalsat.fr"
+			},
+			{
+				"id": "NOVELAS TV",
+				"country": "canal2",
+				"display-name": {
+					"lang": "fr",
+					"$t": "NOVELAS TV"
+				},
+				"icon": {
+					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_693.PNG"
+				},
+				"url": "http://www.canalsat.fr"
+			},
+			{
+				"id": "J-ONE",
+				"country": "canal2",
+				"display-name": {
+					"lang": "fr",
+					"$t": "J-ONE"
+				},
+				"icon": {
+					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_484.PNG"
+				},
+				"url": "http://www.canalsat.fr"
+			},
+			{
+				"id": "AB1",
+				"country": "canal2",
+				"display-name": {
+					"lang": "fr",
+					"$t": "AB1"
+				},
+				"icon": {
+					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_611.PNG"
+				},
+				"url": "http://www.canalsat.fr"
+			},
+			{
+				"id": "TV BREIZH",
+				"country": "canal2",
+				"display-name": {
+					"lang": "fr",
+					"$t": "TV BREIZH"
+				},
+				"icon": {
+					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_586.PNG"
+				},
+				"url": "http://www.canalsat.fr"
+			},
+			{
+				"id": "TEVA",
+				"country": "canal2",
+				"display-name": {
+					"lang": "fr",
+					"$t": "TEVA"
+				},
+				"icon": {
+					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_292.PNG"
+				},
+				"url": "http://www.canalsat.fr"
+			},
+			{
+				"id": "PARIS PREMIERE",
+				"country": "canal2",
+				"display-name": {
+					"lang": "fr",
+					"$t": "PARIS PREMIERE"
+				},
+				"icon": {
+					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_294.PNG"
+				},
+				"url": "http://www.canalsat.fr"
+			},
+			{
+				"id": "RTL9",
+				"country": "canal2",
+				"display-name": {
+					"lang": "fr",
+					"$t": "RTL9"
+				},
+				"icon": {
+					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_505.PNG"
+				},
+				"url": "http://www.canalsat.fr"
+			},
+			{
+				"id": "BET",
+				"country": "canal2",
+				"display-name": {
+					"lang": "fr",
+					"$t": "BET"
+				},
+				"icon": {
+					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_628.PNG"
+				},
+				"url": "http://www.canalsat.fr"
+			},
+			{
+				"id": "C8",
+				"country": "canal2",
+				"display-name": {
+					"lang": "fr",
+					"$t": "C8"
+				},
+				"icon": {
+					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_450.PNG"
+				},
+				"url": "http://www.canalsat.fr"
+			},
+			{
+				"id": "W9",
+				"country": "canal2",
+				"display-name": {
+					"lang": "fr",
+					"$t": "W9"
+				},
+				"icon": {
+					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_296.PNG"
+				},
+				"url": "http://www.canalsat.fr"
+			},
+			{
+				"id": "TMC",
+				"country": "canal2",
+				"display-name": {
+					"lang": "fr",
+					"$t": "TMC"
+				},
+				"icon": {
+					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_584.PNG"
+				},
+				"url": "http://www.canalsat.fr"
+			},
+			{
+				"id": "TFX",
+				"country": "canal2",
+				"display-name": {
+					"lang": "fr",
+					"$t": "TFX"
+				},
+				"icon": {
+					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_570.PNG"
+				},
+				"url": "http://www.canalsat.fr"
+			},
+			{
+				"id": "NRJ 12",
+				"country": "canal2",
+				"display-name": {
+					"lang": "fr",
+					"$t": "NRJ 12"
+				},
+				"icon": {
+					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_568.PNG"
+				},
+				"url": "http://www.canalsat.fr"
+			},
+			{
+				"id": "FRANCE 4",
+				"country": "canal2",
+				"display-name": {
+					"lang": "fr",
+					"$t": "FRANCE 4"
+				},
+				"icon": {
+					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_544.PNG"
+				},
+				"url": "http://www.canalsat.fr"
+			},
+			{
+				"id": "CSTAR",
+				"country": "canal2",
+				"display-name": {
+					"lang": "fr",
+					"$t": "CSTAR"
+				},
+				"icon": {
+					"src": "http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_513.PNG"
 				},
 				"url": "http://www.canalsat.fr"
 			},
