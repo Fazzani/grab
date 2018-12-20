@@ -85,7 +85,7 @@ if [ -z "$1" ];then
 	echoInfo "You must pass a list of epg files!!"
 	exit -1
 fi
-now=$(date +"%Y/%m/%d H:M:S")
+now=$(date +"%Y/%m/%d %H:%M:%S")
 echo $now
 
 outputfile="out/check_channels.xml"
