@@ -406,50 +406,6 @@
   </channel><channel id="Fan" country="el_cinema">
     <display-name lang="ar">Fan</display-name>
     <url>http://www.elcinema.com</url>
-  </channel><channel id="Cine Mo" country="osn">
-    <display-name lang="en">Cine Mo</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/CIN.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="Lifestyle Network" country="osn">
-    <display-name lang="en">Lifestyle Network</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/LSN.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="GMA Pinoy TV" country="osn">
-    <display-name lang="en">GMA Pinoy TV</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/GMA.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="GMA Life TV" country="osn">
-    <display-name lang="en">GMA Life TV</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/GML.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="GMA News TV" country="osn">
-    <display-name lang="en">GMA News TV</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/GMN.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="MBC 1" country="osn">
-    <display-name lang="en">MBC 1</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/MH1.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="MBC 4" country="osn">
-    <display-name lang="en">MBC 4</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/MH4.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="MBC Drama" country="osn">
-    <display-name lang="en">MBC Drama</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/MHD.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="MBC 2" country="osn">
-    <display-name lang="en">MBC 2</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/MH2.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="MBC MAX" country="osn">
-    <display-name lang="en">MBC MAX</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/MHM.png"/>
-    <url>http://www.osn.com</url>
-  </channel><channel id="MBC Action" country="osn">
-    <display-name lang="en">MBC Action</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/MHA.png"/>
-    <url>http://www.osn.com</url>
   </channel><channel id="AD Sports 3 HD" country="osn10">
     <display-name lang="en">AD Sports 3 HD</display-name>
     <icon src="http://content.osn.com/logo/channel/cropped/AD3.png"/>
@@ -1050,6 +1006,50 @@
     <display-name lang="en">Ginx Esports TV HD</display-name>
     <icon src="http://content.osn.com/logo/channel/cropped/GNX.png"/>
     <url>http://www.osn.com</url>
+  </channel><channel id="Cine Mo" country="osn">
+    <display-name lang="en">Cine Mo</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/CIN.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="Lifestyle Network" country="osn">
+    <display-name lang="en">Lifestyle Network</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/LSN.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="GMA Pinoy TV" country="osn">
+    <display-name lang="en">GMA Pinoy TV</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/GMA.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="GMA Life TV" country="osn">
+    <display-name lang="en">GMA Life TV</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/GML.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="GMA News TV" country="osn">
+    <display-name lang="en">GMA News TV</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/GMN.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="MBC 1" country="osn">
+    <display-name lang="en">MBC 1</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/MH1.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="MBC 4" country="osn">
+    <display-name lang="en">MBC 4</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/MH4.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="MBC Drama" country="osn">
+    <display-name lang="en">MBC Drama</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/MHD.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="MBC 2" country="osn">
+    <display-name lang="en">MBC 2</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/MH2.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="MBC MAX" country="osn">
+    <display-name lang="en">MBC MAX</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/MHM.png"/>
+    <url>http://www.osn.com</url>
+  </channel><channel id="MBC Action" country="osn">
+    <display-name lang="en">MBC Action</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/MHA.png"/>
+    <url>http://www.osn.com</url>
   </channel><channel id="Panorama Food" country="seevi">
     <display-name lang="ar">Panorama Food</display-name>
     <url>http://www.seevii.com</url>
@@ -1323,6 +1323,290 @@
   </channel><channel id="MBC Drama + HD" country="seevi">
     <display-name lang="ar">MBC Drama + HD</display-name>
     <url>http://www.seevii.com</url>
+  </channel><channel id="TF1" country="canal2">
+    <display-name lang="fr">TF1</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_312.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="FRANCE 2" country="canal2">
+    <display-name lang="fr">FRANCE 2</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_26.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="FRANCE 3" country="canal2">
+    <display-name lang="fr">FRANCE 3</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_543.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="FRANCE 5" country="canal2">
+    <display-name lang="fr">FRANCE 5</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_545.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="M6" country="canal2">
+    <display-name lang="fr">M6</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_313.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="ARTE" country="canal2">
+    <display-name lang="fr">ARTE</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_154.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="CANAL+" country="canal2">
+    <display-name lang="fr">CANAL+</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_1.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="CANAL+ CINEMA" country="canal2">
+    <display-name lang="fr">CANAL+ CINEMA</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_198.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="CANAL+ SPORT" country="canal2">
+    <display-name lang="fr">CANAL+ SPORT</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_177.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="CANAL+ SERIES" country="canal2">
+    <display-name lang="fr">CANAL+ SERIES</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_481.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="CANAL+ FAMILY" country="canal2">
+    <display-name lang="fr">CANAL+ FAMILY</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_259.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="CANAL+ DECALE" country="canal2">
+    <display-name lang="fr">CANAL+ DECALE</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_257.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="EVENEMENT" country="canal2">
+    <display-name lang="fr">EVENEMENT</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_289.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="CINE+ PREMIER" country="canal2">
+    <display-name lang="fr">CINE+ PREMIER</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_322.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="CINE+ FRISSON" country="canal2">
+    <display-name lang="fr">CINE+ FRISSON</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_398.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="CINE+ EMOTION" country="canal2">
+    <display-name lang="fr">CINE+ EMOTION</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_396.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="CINE+ FAMIZ" country="canal2">
+    <display-name lang="fr">CINE+ FAMIZ</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_533.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="CINE+ CLUB" country="canal2">
+    <display-name lang="fr">CINE+ CLUB</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_532.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="CINE+ CLASSIC" country="canal2">
+    <display-name lang="fr">CINE+ CLASSIC</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_531.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="OCS MAX" country="canal2">
+    <display-name lang="fr">OCS MAX</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_367.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="OCS CITY" country="canal2">
+    <display-name lang="fr">OCS CITY</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_369.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="OCS CHOC" country="canal2">
+    <display-name lang="fr">OCS CHOC</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_368.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="OCS GEANTS" country="canal2">
+    <display-name lang="fr">OCS GEANTS</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_370.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="TCM CINEMA" country="canal2">
+    <display-name lang="fr">TCM CINEMA</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_374.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="PARAMOUNT CHANNEL" country="canal2">
+    <display-name lang="fr">PARAMOUNT CHANNEL</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_489.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="ACTION" country="canal2">
+    <display-name lang="fr">ACTION</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_504.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="SUNDANCE TV" country="canal2">
+    <display-name lang="fr">SUNDANCE TV</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_641.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="NOLLYWOOD TV" country="canal2">
+    <display-name lang="fr">NOLLYWOOD TV</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_527.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="A+" country="canal2">
+    <display-name lang="fr">A+</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_639.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="DISNEY CINEMA" country="canal2">
+    <display-name lang="fr">DISNEY CINEMA</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_340.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="TF1 SERIES FILMS" country="canal2">
+    <display-name lang="fr">TF1 SERIES FILMS</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_526.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="BOB TV" country="canal2">
+    <display-name lang="fr">BOB TV</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_196.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="DIEGO TV" country="canal2">
+    <display-name lang="fr">DIEGO TV</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_184.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="DORA TV" country="canal2">
+    <display-name lang="fr">DORA TV</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_185.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="DISNEY JUNIOR" country="canal2">
+    <display-name lang="fr">DISNEY JUNIOR</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_274.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="PIWI+" country="canal2">
+    <display-name lang="fr">PIWI+</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_576.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="NICKELODEON JUNIOR" country="canal2">
+    <display-name lang="fr">NICKELODEON JUNIOR</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_593.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="TIJI" country="canal2">
+    <display-name lang="fr">TIJI</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_583.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="BOOMERANG" country="canal2">
+    <display-name lang="fr">BOOMERANG</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_530.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="CARTOON NETWORK" country="canal2">
+    <display-name lang="fr">CARTOON NETWORK</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_502.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="NICKELODEON" country="canal2">
+    <display-name lang="fr">NICKELODEON</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_591.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="TELETOON+" country="canal2">
+    <display-name lang="fr">TELETOON+</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_581.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="DISNEY XD" country="canal2">
+    <display-name lang="fr">DISNEY XD</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_284.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="CANAL J" country="canal2">
+    <display-name lang="fr">CANAL J</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_525.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="BOING" country="canal2">
+    <display-name lang="fr">BOING</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_529.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="TOONAMI" country="canal2">
+    <display-name lang="fr">TOONAMI</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_683.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="NICKELODEON TEEN" country="canal2">
+    <display-name lang="fr">NICKELODEON TEEN</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_518.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="DISNEY CHANNEL" country="canal2">
+    <display-name lang="fr">DISNEY CHANNEL</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_282.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="GULLI" country="canal2">
+    <display-name lang="fr">GULLI</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_549.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="MTV HITS" country="canal2">
+    <display-name lang="fr">MTV HITS</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_629.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="COMEDIE+" country="canal2">
+    <display-name lang="fr">COMEDIE+</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_534.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="POLAR+" country="canal2">
+    <display-name lang="fr">POLAR+</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_692.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="WARNER TV" country="canal2">
+    <display-name lang="fr">WARNER TV</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_694.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="SERIE CLUB" country="canal2">
+    <display-name lang="fr">SERIE CLUB</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_356.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="ELLE GIRL" country="canal2">
+    <display-name lang="fr">ELLE GIRL</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_524.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="NON STOP PEOPLE" country="canal2">
+    <display-name lang="fr">NON STOP PEOPLE</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_434.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="NOVELAS TV" country="canal2">
+    <display-name lang="fr">NOVELAS TV</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_693.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="J-ONE" country="canal2">
+    <display-name lang="fr">J-ONE</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_484.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="AB1" country="canal2">
+    <display-name lang="fr">AB1</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_611.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="TV BREIZH" country="canal2">
+    <display-name lang="fr">TV BREIZH</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_586.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="TEVA" country="canal2">
+    <display-name lang="fr">TEVA</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_292.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="PARIS PREMIERE" country="canal2">
+    <display-name lang="fr">PARIS PREMIERE</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_294.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="RTL9" country="canal2">
+    <display-name lang="fr">RTL9</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_505.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="BET" country="canal2">
+    <display-name lang="fr">BET</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_628.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="C8" country="canal2">
+    <display-name lang="fr">C8</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_450.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="W9" country="canal2">
+    <display-name lang="fr">W9</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_296.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="TMC" country="canal2">
+    <display-name lang="fr">TMC</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_584.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="TFX" country="canal2">
+    <display-name lang="fr">TFX</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_570.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="NRJ 12" country="canal2">
+    <display-name lang="fr">NRJ 12</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_568.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="FRANCE 4" country="canal2">
+    <display-name lang="fr">FRANCE 4</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_544.PNG"/>
+    <url>http://www.canalsat.fr</url>
+  </channel><channel id="CSTAR" country="canal2">
+    <display-name lang="fr">CSTAR</display-name>
+    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_513.PNG"/>
+    <url>http://www.canalsat.fr</url>
   </channel><channel id="CHERIE 25" country="canal">
     <display-name lang="fr">CHERIE 25</display-name>
     <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_440.PNG"/>
@@ -1637,290 +1921,6 @@
   </channel><channel id="BEIN SPORTS MAX 10" country="canal">
     <display-name lang="fr">BEIN SPORTS MAX 10</display-name>
     <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_605.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="TF1" country="canal2">
-    <display-name lang="fr">TF1</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_312.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="FRANCE 2" country="canal2">
-    <display-name lang="fr">FRANCE 2</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_26.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="FRANCE 3" country="canal2">
-    <display-name lang="fr">FRANCE 3</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_543.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="FRANCE 5" country="canal2">
-    <display-name lang="fr">FRANCE 5</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_545.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="M6" country="canal2">
-    <display-name lang="fr">M6</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_313.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="ARTE" country="canal2">
-    <display-name lang="fr">ARTE</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_154.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="CANAL+" country="canal2">
-    <display-name lang="fr">CANAL+</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_1.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="CANAL+ CINEMA" country="canal2">
-    <display-name lang="fr">CANAL+ CINEMA</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_198.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="CANAL+ SPORT" country="canal2">
-    <display-name lang="fr">CANAL+ SPORT</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_177.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="CANAL+ SERIES" country="canal2">
-    <display-name lang="fr">CANAL+ SERIES</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_481.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="CANAL+ FAMILY" country="canal2">
-    <display-name lang="fr">CANAL+ FAMILY</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_259.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="CANAL+ DECALE" country="canal2">
-    <display-name lang="fr">CANAL+ DECALE</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_257.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="EVENEMENT" country="canal2">
-    <display-name lang="fr">EVENEMENT</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_289.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="CINE+ PREMIER" country="canal2">
-    <display-name lang="fr">CINE+ PREMIER</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_322.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="CINE+ FRISSON" country="canal2">
-    <display-name lang="fr">CINE+ FRISSON</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_398.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="CINE+ EMOTION" country="canal2">
-    <display-name lang="fr">CINE+ EMOTION</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_396.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="CINE+ FAMIZ" country="canal2">
-    <display-name lang="fr">CINE+ FAMIZ</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_533.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="CINE+ CLUB" country="canal2">
-    <display-name lang="fr">CINE+ CLUB</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_532.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="CINE+ CLASSIC" country="canal2">
-    <display-name lang="fr">CINE+ CLASSIC</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_531.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="OCS MAX" country="canal2">
-    <display-name lang="fr">OCS MAX</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_367.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="OCS CITY" country="canal2">
-    <display-name lang="fr">OCS CITY</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_369.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="OCS CHOC" country="canal2">
-    <display-name lang="fr">OCS CHOC</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_368.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="OCS GEANTS" country="canal2">
-    <display-name lang="fr">OCS GEANTS</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_370.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="TCM CINEMA" country="canal2">
-    <display-name lang="fr">TCM CINEMA</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_374.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="PARAMOUNT CHANNEL" country="canal2">
-    <display-name lang="fr">PARAMOUNT CHANNEL</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_489.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="ACTION" country="canal2">
-    <display-name lang="fr">ACTION</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_504.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="SUNDANCE TV" country="canal2">
-    <display-name lang="fr">SUNDANCE TV</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_641.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="NOLLYWOOD TV" country="canal2">
-    <display-name lang="fr">NOLLYWOOD TV</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_527.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="A+" country="canal2">
-    <display-name lang="fr">A+</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_639.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="DISNEY CINEMA" country="canal2">
-    <display-name lang="fr">DISNEY CINEMA</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_340.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="TF1 SERIES FILMS" country="canal2">
-    <display-name lang="fr">TF1 SERIES FILMS</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_526.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="BOB TV" country="canal2">
-    <display-name lang="fr">BOB TV</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_196.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="DIEGO TV" country="canal2">
-    <display-name lang="fr">DIEGO TV</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_184.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="DORA TV" country="canal2">
-    <display-name lang="fr">DORA TV</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_185.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="DISNEY JUNIOR" country="canal2">
-    <display-name lang="fr">DISNEY JUNIOR</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_274.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="PIWI+" country="canal2">
-    <display-name lang="fr">PIWI+</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_576.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="NICKELODEON JUNIOR" country="canal2">
-    <display-name lang="fr">NICKELODEON JUNIOR</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_593.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="TIJI" country="canal2">
-    <display-name lang="fr">TIJI</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_583.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="BOOMERANG" country="canal2">
-    <display-name lang="fr">BOOMERANG</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_530.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="CARTOON NETWORK" country="canal2">
-    <display-name lang="fr">CARTOON NETWORK</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_502.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="NICKELODEON" country="canal2">
-    <display-name lang="fr">NICKELODEON</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_591.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="TELETOON+" country="canal2">
-    <display-name lang="fr">TELETOON+</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_581.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="DISNEY XD" country="canal2">
-    <display-name lang="fr">DISNEY XD</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_284.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="CANAL J" country="canal2">
-    <display-name lang="fr">CANAL J</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_525.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="BOING" country="canal2">
-    <display-name lang="fr">BOING</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_529.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="TOONAMI" country="canal2">
-    <display-name lang="fr">TOONAMI</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_683.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="NICKELODEON TEEN" country="canal2">
-    <display-name lang="fr">NICKELODEON TEEN</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_518.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="DISNEY CHANNEL" country="canal2">
-    <display-name lang="fr">DISNEY CHANNEL</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_282.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="GULLI" country="canal2">
-    <display-name lang="fr">GULLI</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_549.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="MTV HITS" country="canal2">
-    <display-name lang="fr">MTV HITS</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_629.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="COMEDIE+" country="canal2">
-    <display-name lang="fr">COMEDIE+</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_534.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="POLAR+" country="canal2">
-    <display-name lang="fr">POLAR+</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_692.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="WARNER TV" country="canal2">
-    <display-name lang="fr">WARNER TV</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_694.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="SERIE CLUB" country="canal2">
-    <display-name lang="fr">SERIE CLUB</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_356.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="ELLE GIRL" country="canal2">
-    <display-name lang="fr">ELLE GIRL</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_524.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="NON STOP PEOPLE" country="canal2">
-    <display-name lang="fr">NON STOP PEOPLE</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_434.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="NOVELAS TV" country="canal2">
-    <display-name lang="fr">NOVELAS TV</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_693.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="J-ONE" country="canal2">
-    <display-name lang="fr">J-ONE</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_484.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="AB1" country="canal2">
-    <display-name lang="fr">AB1</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_611.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="TV BREIZH" country="canal2">
-    <display-name lang="fr">TV BREIZH</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_586.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="TEVA" country="canal2">
-    <display-name lang="fr">TEVA</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_292.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="PARIS PREMIERE" country="canal2">
-    <display-name lang="fr">PARIS PREMIERE</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_294.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="RTL9" country="canal2">
-    <display-name lang="fr">RTL9</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_505.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="BET" country="canal2">
-    <display-name lang="fr">BET</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_628.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="C8" country="canal2">
-    <display-name lang="fr">C8</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_450.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="W9" country="canal2">
-    <display-name lang="fr">W9</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_296.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="TMC" country="canal2">
-    <display-name lang="fr">TMC</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_584.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="TFX" country="canal2">
-    <display-name lang="fr">TFX</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_570.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="NRJ 12" country="canal2">
-    <display-name lang="fr">NRJ 12</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_568.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="FRANCE 4" country="canal2">
-    <display-name lang="fr">FRANCE 4</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_544.PNG"/>
-    <url>http://www.canalsat.fr</url>
-  </channel><channel id="CSTAR" country="canal2">
-    <display-name lang="fr">CSTAR</display-name>
-    <icon src="http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_513.PNG"/>
     <url>http://www.canalsat.fr</url>
   </channel><channel id="BE 1" country="telerama.be">
     <display-name lang="fr">BE 1</display-name>
