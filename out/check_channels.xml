@@ -83,7 +83,7 @@
     <url>http://www.bein.net</url>
   </channel><channel id="HD6" country="bein">
     <display-name lang="en">beIN sports 6 hd</display-name>
-    <icon src="http://epg.beinsports.com/mena_sports/News_ar.svg?2018"/>
+    <icon src="http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg"/>
     <url>http://www.bein.net</url>
   </channel><channel id="HD7" country="bein">
     <display-name lang="en">beIN sports 7 hd</display-name>
@@ -91,7 +91,7 @@
     <url>http://www.bein.net</url>
   </channel><channel id="HD8" country="bein">
     <display-name lang="en">beIN sports 8 hd</display-name>
-    <icon src="http://epg.beinsports.com/mena_sports/News_ar.svg?2018"/>
+    <icon src="http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg"/>
     <url>http://www.bein.net</url>
   </channel><channel id="HD9" country="bein">
     <display-name lang="en">beIN sports 9 hd</display-name>
@@ -99,7 +99,7 @@
     <url>http://www.bein.net</url>
   </channel><channel id="HD10" country="bein">
     <display-name lang="en">beIN sports 10 hd</display-name>
-    <icon src="http://epg.beinsports.com/mena_sports/News_ar.svg?2018"/>
+    <icon src="http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg"/>
     <url>http://www.bein.net</url>
   </channel><channel id="SportsHD11" country="bein">
     <display-name lang="en">beIN sports 11 hd</display-name>
@@ -123,7 +123,7 @@
     <url>http://www.bein.net</url>
   </channel><channel id="SportsHD16" country="bein">
     <display-name lang="en">beIN sports 16 hd</display-name>
-    <icon src="http://epg.beinsports.com/mena_sports/News_ar.svg?2018"/>
+    <icon src="http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg"/>
     <url>http://www.bein.net</url>
   </channel><channel id="SportsHD17" country="bein">
     <display-name lang="en">beIN sports 17 hd</display-name>
@@ -135,7 +135,7 @@
     <url>http://www.bein.net</url>
   </channel><channel id="SportsGlobalHD" country="bein">
     <display-name lang="en">beIN global</display-name>
-    <icon src="http://epg.beinsports.com/mena_sports/News_ar.svg?2018"/>
+    <icon src="http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg"/>
     <url>http://www.bein.net</url>
   </channel><channel id="BS NBA" country="bein">
     <display-name lang="en">beIN Sports NBA</display-name>
@@ -143,7 +143,7 @@
     <url>http://www.bein.net</url>
   </channel><channel id="4K" country="bein">
     <display-name lang="en">beIN Sports 4K</display-name>
-    <icon src="http://epg.beinsports.com/mena_sports/News_ar.svg?2018"/>
+    <icon src="http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg"/>
     <url>http://www.bein.net</url>
   </channel><channel id="OlympicChannel" country="bein">
     <display-name lang="en">beIN Sports Olympic Channel</display-name>
@@ -2030,4 +2030,37 @@
     <display-name lang="fr">BBC World News</display-name>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png"/>
     <url>http://www.telerama.fr</url>
+  </channel><channel id="Arena Sport 1.hr" country="others">
+    <display-name lang="hr">Arena Sport 1.hr</display-name>
+    <url>http://www.m.tvprofil.net</url>
+  </channel><channel id="Arena Sport 2.hr" country="others">
+    <display-name lang="hr">Arena Sport 2.hr</display-name>
+    <url>http://www.m.tvprofil.net</url>
+  </channel><channel id="Arena Sport 3.hr" country="others">
+    <display-name lang="hr">Arena Sport 3.hr</display-name>
+    <url>http://www.m.tvprofil.net</url>
+  </channel><channel id="Arena Sport 4.hr" country="others">
+    <display-name lang="hr">Arena Sport 4.hr</display-name>
+    <url>http://www.m.tvprofil.net</url>
+  </channel><channel id="Arena Sport 5.hr" country="others">
+    <display-name lang="hr">Arena Sport 5.hr</display-name>
+    <url>http://www.m.tvprofil.net</url>
+  </channel><channel id="Arena Sport 1" country="others">
+    <display-name lang="hr">Arena Sport 1</display-name>
+    <url>http://www.m.tvprofil.net</url>
+  </channel><channel id="Arena Sport 2" country="others">
+    <display-name lang="hr">Arena Sport 2</display-name>
+    <url>http://www.m.tvprofil.net</url>
+  </channel><channel id="Arena Sport 3" country="others">
+    <display-name lang="hr">Arena Sport 3</display-name>
+    <url>http://www.m.tvprofil.net</url>
+  </channel><channel id="Arena Sport 4" country="others">
+    <display-name lang="hr">Arena Sport 4</display-name>
+    <url>http://www.m.tvprofil.net</url>
+  </channel><channel id="Arena Sport 5" country="others">
+    <display-name lang="hr">Arena Sport 5</display-name>
+    <url>http://www.m.tvprofil.net</url>
+  </channel><channel id="Arena Sport 1 BiH" country="others">
+    <display-name lang="hr">Arena Sport 1 BiH</display-name>
+    <url>http://www.m.tvprofil.net</url>
   </channel></tv>

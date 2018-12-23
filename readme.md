@@ -32,22 +32,22 @@
 |![icon](http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg)|HD3|http://www.bein.net|
 |![icon](http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg)|HD4|http://www.bein.net|
 |![icon](http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg)|HD5|http://www.bein.net|
-|![icon](http://epg.beinsports.com/mena_sports/News_ar.svg?2018)|HD6|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg)|HD6|http://www.bein.net|
 |![icon](http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg)|HD7|http://www.bein.net|
-|![icon](http://epg.beinsports.com/mena_sports/News_ar.svg?2018)|HD8|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg)|HD8|http://www.bein.net|
 |![icon](http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg)|HD9|http://www.bein.net|
-|![icon](http://epg.beinsports.com/mena_sports/News_ar.svg?2018)|HD10|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg)|HD10|http://www.bein.net|
 |![icon](http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg)|SportsHD11|http://www.bein.net|
 |![icon](http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg)|SportsHD12|http://www.bein.net|
 |![icon](http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg)|SportsHD13|http://www.bein.net|
 |![icon](http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg)|SportsHD14|http://www.bein.net|
 |![icon](http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg)|SportsHD15|http://www.bein.net|
-|![icon](http://epg.beinsports.com/mena_sports/News_ar.svg?2018)|SportsHD16|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg)|SportsHD16|http://www.bein.net|
 |![icon](http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg)|SportsHD17|http://www.bein.net|
 |![icon](http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg)|News_ar|http://www.bein.net|
-|![icon](http://epg.beinsports.com/mena_sports/News_ar.svg?2018)|SportsGlobalHD|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg)|SportsGlobalHD|http://www.bein.net|
 |![icon](http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg)|BS NBA|http://www.bein.net|
-|![icon](http://epg.beinsports.com/mena_sports/News_ar.svg?2018)|4K|http://www.bein.net|
+|![icon](http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg)|4K|http://www.bein.net|
 |![icon](http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg)|OlympicChannel|http://www.bein.net|
 |![icon](http://epg.beinsports.com/us_sports/Global.svg)|Global|http://www.bein.net|
 |![icon](http://epg.beinsports.com/us_sports/Global.svg)|Spanish|http://www.bein.net|
@@ -548,3 +548,14 @@
 |![icon](https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png)|OMTV|http://www.telerama.fr|
 |![icon](https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png)|Al Jazeera English|http://www.telerama.fr|
 |![icon](https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png)|BBC World News|http://www.telerama.fr|
+|![icon]()|Arena Sport 1.hr|http://www.m.tvprofil.net|
+|![icon]()|Arena Sport 2.hr|http://www.m.tvprofil.net|
+|![icon]()|Arena Sport 3.hr|http://www.m.tvprofil.net|
+|![icon]()|Arena Sport 4.hr|http://www.m.tvprofil.net|
+|![icon]()|Arena Sport 5.hr|http://www.m.tvprofil.net|
+|![icon]()|Arena Sport 1|http://www.m.tvprofil.net|
+|![icon]()|Arena Sport 2|http://www.m.tvprofil.net|
+|![icon]()|Arena Sport 3|http://www.m.tvprofil.net|
+|![icon]()|Arena Sport 4|http://www.m.tvprofil.net|
+|![icon]()|Arena Sport 5|http://www.m.tvprofil.net|
+|![icon]()|Arena Sport 1 BiH|http://www.m.tvprofil.net|
