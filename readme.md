@@ -138,16 +138,16 @@
 |![icon](http://content.osn.com/logo/channel/cropped/DJR.png)|Disney Junior|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/NKT.png)|NickToons|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/SCI.png)|Discovery Science HD|http://www.osn.com|
-|![icon]()|IDX HD|http://www.osn.com|
-|![icon]()|Crime \\u0026 Investigation Network|http://www.osn.com|
-|![icon]()|History HD|http://www.osn.com|
-|![icon]()|H2 HD|http://www.osn.com|
-|![icon]()|Animal Planet HD|http://www.osn.com|
-|![icon]()|Nat Geo HD|http://www.osn.com|
-|![icon]()|Nat Geo Wild HD|http://www.osn.com|
-|![icon]()|Nat Geo People HD|http://www.osn.com|
-|![icon]()|CNBC|http://www.osn.com|
-|![icon]()|Fox News|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/DCX.png)|IDX HD|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/CAI.png)|Crime \\u0026 Investigation Network|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/HIS.png)|History HD|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/HI2.png)|H2 HD|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/APL.png)|Animal Planet HD|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/NGO.png)|Nat Geo HD|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/NHD.png)|Nat Geo Wild HD|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/NAH.png)|Nat Geo People HD|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/CNB.png)|CNBC|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/FXN.png)|Fox News|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/NJR.png)|Nick Jr|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/KDZ.png)|OSN Kid Zone TV|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/ONS.png)|OSN News|http://www.osn.com|
