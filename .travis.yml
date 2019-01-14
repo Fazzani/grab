@@ -34,7 +34,6 @@ env:
   - WEBGRAB_FILENAME=configs/ar_osn11.xml
   - WEBGRAB_FILENAME=configs/ar_osn12.xml
   - WEBGRAB_FILENAME=configs/ar_osn13.xml
-  - WEBGRAB_FILENAME=configs/others.xml
 script:
 - docker run -it --rm -v "${PWD}/${WEBGRAB_FILENAME}:/config/WebGrab++.config.xml" -v "${PWD}:/data" synker/webgraboneshot:latest
 - git remote add origin2 https://${GITHUB_API_TOKEN}@github.com/fazzani/grab.git > /dev/null 2>&1
