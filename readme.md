@@ -187,13 +187,13 @@
 |![icon](http://content.osn.com/logo/channel/cropped/UTM.png)|UTV Movies|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/OYH.png)|OSN Ya Hala Al Oula|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/OYX.png)|OSN Ya Hala Al Oula +2h|http://www.osn.com|
-|![icon](http://content.osn.com/logo/channel/cropped/OYA.png)|OSN Ya Hala HD|http://www.osn.com|
-|![icon](http://content.osn.com/logo/channel/cropped/OYC.png)|OSN Yahala Cinema HD|http://www.osn.com|
-|![icon](http://content.osn.com/logo/channel/cropped/SER.png)|Series Channel|http://www.osn.com|
-|![icon](http://content.osn.com/logo/channel/cropped/SE4.png)|Series +2|http://www.osn.com|
-|![icon](http://content.osn.com/logo/channel/cropped/ETV.png)|E! Entertainment HD|http://www.osn.com|
-|![icon](http://content.osn.com/logo/channel/cropped/BBE.png)|BBC First HD|http://www.osn.com|
-|![icon](http://content.osn.com/logo/channel/cropped/GUK.png)|ITV Choice HD|http://www.osn.com|
+|![icon]()|OSN Ya Hala HD|http://www.osn.com|
+|![icon]()|OSN Yahala Cinema HD|http://www.osn.com|
+|![icon]()|Series Channel|http://www.osn.com|
+|![icon]()|Series +2|http://www.osn.com|
+|![icon]()|E! Entertainment HD|http://www.osn.com|
+|![icon]()|BBC First HD|http://www.osn.com|
+|![icon]()|ITV Choice HD|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/YAW.png)|Al Yawm|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/SAF.png)|Al Safwa|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/FAN.png)|Fann|http://www.osn.com|
@@ -548,14 +548,3 @@
 |![icon](https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png)|OMTV|http://www.telerama.fr|
 |![icon](https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png)|Al Jazeera English|http://www.telerama.fr|
 |![icon](https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png)|BBC World News|http://www.telerama.fr|
-|![icon]()|Arena Sport 1.hr|http://www.m.tvprofil.net|
-|![icon]()|Arena Sport 2.hr|http://www.m.tvprofil.net|
-|![icon]()|Arena Sport 3.hr|http://www.m.tvprofil.net|
-|![icon]()|Arena Sport 4.hr|http://www.m.tvprofil.net|
-|![icon]()|Arena Sport 5.hr|http://www.m.tvprofil.net|
-|![icon]()|Arena Sport 1|http://www.m.tvprofil.net|
-|![icon]()|Arena Sport 2|http://www.m.tvprofil.net|
-|![icon]()|Arena Sport 3|http://www.m.tvprofil.net|
-|![icon]()|Arena Sport 4|http://www.m.tvprofil.net|
-|![icon]()|Arena Sport 5|http://www.m.tvprofil.net|
-|![icon]()|Arena Sport 1 BiH|http://www.m.tvprofil.net|
