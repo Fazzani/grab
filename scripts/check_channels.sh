@@ -50,10 +50,10 @@ function checkChannels {
     countErrors=`echo $((comm -3 tempfile tempfile2) | wc -l )`
 
     echoInfo "Channels total count : $total"
-    echoInfo "Channels with programmes count : $not_missed"
+    echoInfo "Channels with programs count : $not_missed"
 
     if [ $countErrors -ne 0 ];then
-      echoError "Channels wihout programmes count : $countErrors"
+      echoError "Channels without programs count : $countErrors"
       echo
 
       echo "{\"filename\":\"$fileInput\",\"total\":$total,\"missed\":$countErrors,\"missedlist\":" >> $4

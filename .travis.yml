@@ -59,9 +59,11 @@ jobs:
       - sudo apt-get install libxml2-utils xmlstarlet -y
       - npm install -g xml2json-cli
     script:
-      - chmod +x ./scripts/check_channels.sh
+      - chmod +x ./scripts/*.sh
       - ./scripts/check_channels.sh *.xmltv ${TRAVIS_BUILD_NUMBER}
       - curl -s -H "Content-Type:application/json" -XPOST elastic.synker.ovh/missingepgchannels/report -d @./out/check_missing_programs.json
+      - ./scripts/update_missed_channels.sh ./out/check_channels.json ./out/check_missing_programs.json
+      - curl -s -H "Content-Type:application/json" -XPOST elastic.synker.ovh/epg/channels -d @./out/check_channels.json
 
 notifications:
   email:
