@@ -142,12 +142,12 @@
 |![icon](http://content.osn.com/logo/channel/cropped/CAI.png)|Crime \\u0026 Investigation Network|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/HIS.png)|History HD|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/HI2.png)|H2 HD|http://www.osn.com|
-|![icon]()|Animal Planet HD|http://www.osn.com|
-|![icon]()|Nat Geo HD|http://www.osn.com|
-|![icon]()|Nat Geo Wild HD|http://www.osn.com|
-|![icon]()|Nat Geo People HD|http://www.osn.com|
-|![icon]()|CNBC|http://www.osn.com|
-|![icon]()|Fox News|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/APL.png)|Animal Planet HD|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/NGO.png)|Nat Geo HD|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/NHD.png)|Nat Geo Wild HD|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/NAH.png)|Nat Geo People HD|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/CNB.png)|CNBC|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/FXN.png)|Fox News|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/NJR.png)|Nick Jr|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/KDZ.png)|OSN Kid Zone TV|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/ONS.png)|OSN News|http://www.osn.com|
@@ -156,13 +156,13 @@
 |![icon](http://content.osn.com/logo/channel/cropped/TIM.png)|Times Now|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/NDT.png)|NDTV 24x7|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/ANN.png)|Asianet News|http://www.osn.com|
-|![icon]()|Sky News Arabia HD|http://www.osn.com|
-|![icon]()|Sky News Arabia|http://www.osn.com|
-|![icon]()|Alarabiya|http://www.osn.com|
-|![icon]()|France 24|http://www.osn.com|
-|![icon]()|CCTV Arabic|http://www.osn.com|
-|![icon]()|Discovery HD|http://www.osn.com|
-|![icon]()|Discovery Family HD|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/SNH.png)|Sky News Arabia HD|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/SNA.png)|Sky News Arabia|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/ARH.png)|Alarabiya|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/FRA.png)|France 24|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/CTA.png)|CCTV Arabic|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/DSC.png)|Discovery HD|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/DCF.png)|Discovery Family HD|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/OM1.png)|OSN Movies HD|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/OM1.png)|OSN Movies First HD|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/OMX.png)|OSN Movies First HD +2h|http://www.osn.com|
