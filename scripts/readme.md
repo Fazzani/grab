@@ -9,6 +9,7 @@ PUT epg
     "channels": {
       "properties": {
         "tv": {
+          "type": "nested",
           "properties": {
             "channel": {
               "type": "nested",
@@ -105,5 +106,6 @@ PUT epg
     }
   }
 }
+
 
 ```

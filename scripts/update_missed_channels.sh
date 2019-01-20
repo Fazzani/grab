@@ -22,6 +22,6 @@ for missed in $(jq -r '.sources[].missedlist[]' $missed_channels_file); do
 done
 
 # updating elastic doc
-curl -s -H "Content-Type:application/json" -XPUT elastic.synker.ovh/epg/channels/9L-OU2gBt2zDT9FgG-_g -d @./out/check_channels.json
+curl -s -H "Content-Type:application/json" -XPUT elastic.synker.ovh/epg/channels/1 -d @./out/check_channels.json
 
 exit 0
