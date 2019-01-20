@@ -109,3 +109,34 @@ PUT epg
 
 
 ```
+
+## Active EPG Channels Query
+
+```json
+GET epg/_search
+{
+  "query": {
+    "nested": {
+      "path": "tv.channel",
+      "query": {
+        "bool": {
+          "must": [
+            {
+              "match": {
+                "tv.channel.active": true
+              }
+            }
+          ]
+        }
+      },
+      "inner_hits": {
+        "highlight": {
+          "fields": {
+            "tv.channel": {}
+          }
+        }
+      }
+    }
+  }
+}
+```
