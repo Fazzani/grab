@@ -9,11 +9,11 @@ GREEN='\033[0;32m'
 NC='\033[0m' # No Color
 
 function echoInfo {
-        echo -e "${GREEN}$1${NC}"
+  echo -e "${GREEN}$1${NC}"
 }
 
 function echoError {
-        echo -e "${RED}$1${NC}"
+  echo -e "${RED}$1${NC}"
 }
 
 #----------------------------------------
