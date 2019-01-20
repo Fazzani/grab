@@ -8,14 +8,14 @@
   <logging>on</logging>
   <retry time-out="15">1</retry>
   <skip>12,5</skip>
-  <timespan>2</timespan>
-  <update>i</update>
+  <timespan>1</timespan>
+  <update>l</update>
   
     <channel update="i" site="elcinema.ar.com" site_id="1241" xmltv_id="MBC 3">MBC 3</channel>
     <channel update="i" site="elcinema.ar.com" site_id="1127" xmltv_id="MBC">MBC</channel>
     <channel update="i" site="elcinema.ar.com" site_id="1132" xmltv_id="MBC MAX">MBC MAX</channel>
     <channel update="i" site="elcinema.ar.com" site_id="1130" xmltv_id="MBC Action">MBC Action</channel>
-    <channel update="i" site="elcinema.ar.com" site_id="1128" xmltv_id="MBC 2">MBC 2</channel>
+    <channel update="f" site="elcinema.ar.com" site_id="1128" xmltv_id="MBC 2">MBC 2</channel>
     <channel update="i" site="elcinema.ar.com" site_id="1129" xmltv_id="MBC 4">MBC 4</channel>
     <channel update="i" site="elcinema.ar.com" site_id="1259" xmltv_id="MBC Bollywood">MBC Bollywood</channel>
     <channel update="i" site="elcinema.ar.com" site_id="1131" xmltv_id="MBC Drama +">MBC Drama +</channel>
