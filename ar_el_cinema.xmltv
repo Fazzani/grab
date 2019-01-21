@@ -61,7 +61,7 @@
     <url>http://www.elcinema.com</url>
   </channel>
   <channel id="Lana">
-    <display-name lang="ar">Lana</display-name>
+    <display-name lang="en">Lana</display-name>
     <url>http://www.elcinema.com</url>
   </channel>
   <channel id="Sada El Balad Drama">
@@ -69,7 +69,7 @@
     <url>http://www.elcinema.com</url>
   </channel>
   <channel id="ON Drama">
-    <display-name lang="ar">ON Drama</display-name>
+    <display-name lang="en">ON Drama</display-name>
     <url>http://www.elcinema.com</url>
   </channel>
   <channel id="iFILM TV">
@@ -81,7 +81,7 @@
     <url>http://www.elcinema.com</url>
   </channel>
   <channel id="Alhayat Series">
-    <display-name lang="ar">Alhayat Series</display-name>
+    <display-name lang="en">Alhayat Series</display-name>
     <url>http://www.elcinema.com</url>
   </channel>
   <channel id="TeN TV">
@@ -418,7 +418,8 @@
   </programme>
   <programme start="20190122150000 +0200" stop="20190122160000 +0200" channel="almanar">
     <title lang="ar">هنا دمشق</title>
-    <desc lang="ar">(c)</desc>
+    <desc lang="ar">
+    </desc>
     <date>0</date>
     <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
   </programme>
@@ -509,7 +510,8 @@
   </programme>
   <programme start="20190123063500 +0200" stop="20190123073000 +0200" channel="almanar">
     <title lang="ar">هنا دمشق</title>
-    <desc lang="ar">(c)</desc>
+    <desc lang="ar">
+    </desc>
     <date>0</date>
     <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
   </programme>
@@ -557,7 +559,7 @@
   </programme>
   <programme start="20190123153000 +0200" stop="20190123163000 +0200" channel="almanar">
     <title lang="ar">الغالبون 2</title>
-    <desc lang="ar">الجزء الثاني من مسلسل (الغالبون) ، الذي يتعرض لكفاح وصمود أهل الجنوب اللبناني ضد جيش الاحتلال اﻹسرائيلي ، ويتناول هذا الجزء وقائع جديدة عن حياة أهل الجنوب الصامد ، بعد تمركز الجيش الإسرائيلي على (الشريط الحدودي المحتل) منذ عام 1985 وحتى 1992.(c)</desc>
+    <desc lang="ar">الجزء الثاني من مسلسل (الغالبون) ، الذي يتعرض لكفاح وصمود أهل الجنوب اللبناني ضد جيش الاحتلال اﻹسرائيلي ، ويتناول هذا الجزء وقائع جديدة عن حياة أهل الجنوب الصامد ، بعد تمركز الجيش الإسرائيلي على (الشريط الحدودي المحتل) منذ عام 1985 وحتى 1992.</desc>
     <credits>
       <director>رضوان شاهين</director>
       <director>ماجد قبراوي</director>
@@ -869,8 +871,7 @@
   </programme>
   <programme start="20190123090000 +0200" stop="20190123100000 +0200" channel="Sada El Balad">
     <title lang="ar">ست الستات</title>
-    <desc lang="ar">
-    </desc>
+    <desc lang="ar" />
     <date>2017</date>
     <rating system="EG">
       <value>4.3</value>
@@ -908,8 +909,7 @@
   </programme>
   <programme start="20190123120000 +0200" stop="20190123130000 +0200" channel="Sada El Balad">
     <title lang="ar">قلوب تائهة</title>
-    <desc lang="ar">
-    </desc>
+    <desc lang="ar" />
     <date>2008</date>
   </programme>
   <programme start="20190123130000 +0200" stop="20190123160000 +0200" channel="Sada El Balad">
@@ -927,8 +927,7 @@
   </programme>
   <programme start="20190123210000 +0200" stop="20190123220000 +0200" channel="Sada El Balad">
     <title lang="ar">قلوب تائهة</title>
-    <desc lang="ar">
-    </desc>
+    <desc lang="ar" />
     <date>2008</date>
   </programme>
   <programme start="20190123220000 +0200" stop="20190124000000 +0200" channel="Sada El Balad">
@@ -1413,8 +1412,7 @@
   </programme>
   <programme start="20190123013000 +0200" stop="20190123040000 +0200" channel="ON E">
     <title lang="ar">كلام ستات</title>
-    <desc lang="ar">
-    </desc>
+    <desc lang="ar" />
     <date>2018</date>
     <rating system="EG">
       <value>5.8</value>
@@ -1510,8 +1508,7 @@
   </programme>
   <programme start="20190123090000 +0200" stop="20190123100000 +0200" channel="ON E">
     <title lang="ar">قلوب عامرة</title>
-    <desc lang="ar">
-    </desc>
+    <desc lang="ar" />
     <date>0</date>
     <rating system="EG">
       <value>4.3</value>
@@ -1519,8 +1516,7 @@
   </programme>
   <programme start="20190123100000 +0200" stop="20190123120000 +0200" channel="ON E">
     <title lang="ar">كلام ستات</title>
-    <desc lang="ar">
-    </desc>
+    <desc lang="ar" />
     <date>2018</date>
     <rating system="EG">
       <value>5.8</value>
@@ -2863,8 +2859,7 @@
   </programme>
   <programme start="20190123100000 +0200" stop="20190123120000 +0200" channel="Al Nahar TV">
     <title lang="ar">شارع النهار</title>
-    <desc lang="ar">
-    </desc>
+    <desc lang="ar" />
     <date>2018</date>
     <rating system="EG">
       <value>4.3</value>
@@ -3427,8 +3422,7 @@
   </programme>
   <programme start="20190123023000 +0200" stop="20190123043000 +0200" channel="Al Jadeed TV">
     <title lang="ar">حنين الدم</title>
-    <desc lang="ar">
-    </desc>
+    <desc lang="ar" />
     <credits>
       <director>شربل الخوري</director>
       <director>وسام مصطفى</director>
@@ -3489,8 +3483,7 @@
   </programme>
   <programme start="20190123093000 +0200" stop="20190123110000 +0200" channel="Al Jadeed TV">
     <title lang="ar">طوني خليفة</title>
-    <desc lang="ar">
-    </desc>
+    <desc lang="ar" />
     <credits>
       <writer>طوني خليفة</writer>
     </credits>
@@ -3563,8 +3556,7 @@
   </programme>
   <programme start="20190123144000 +0200" stop="20190123153000 +0200" channel="Al Jadeed TV">
     <title lang="ar">حنين الدم</title>
-    <desc lang="ar">
-    </desc>
+    <desc lang="ar" />
     <credits>
       <director>شربل الخوري</director>
       <director>وسام مصطفى</director>
@@ -3638,8 +3630,7 @@
   </programme>
   <programme start="20190123220000 +0200" stop="20190124013000 +0200" channel="Al Jadeed TV">
     <title lang="ar">طوني خليفة</title>
-    <desc lang="ar">
-    </desc>
+    <desc lang="ar" />
     <credits>
       <writer>طوني خليفة</writer>
     </credits>
@@ -4255,8 +4246,7 @@
   </programme>
   <programme start="20190121180000 +0200" stop="20190121200000 +0200" channel="Al sharqya">
     <title lang="ar">كلام الناس</title>
-    <desc lang="ar">
-    </desc>
+    <desc lang="ar" />
     <date>0</date>
   </programme>
   <programme start="20190121200000 +0200" stop="20190121220000 +0200" channel="Al sharqya">
@@ -4392,20 +4382,17 @@
   </programme>
   <programme start="20190123090000 +0200" stop="20190123101500 +0200" channel="Al sharqya">
     <title lang="ar">اللاعب 12</title>
-    <desc lang="ar">
-    </desc>
+    <desc lang="ar" />
     <date>0</date>
   </programme>
   <programme start="20190123101500 +0200" stop="20190123110000 +0200" channel="Al sharqya">
     <title lang="ar">كلام الناس</title>
-    <desc lang="ar">
-    </desc>
+    <desc lang="ar" />
     <date>0</date>
   </programme>
   <programme start="20190123110000 +0200" stop="20190123120000 +0200" channel="Al sharqya">
     <title lang="ar">أهل المدينة</title>
-    <desc lang="ar">
-    </desc>
+    <desc lang="ar" />
     <date>2014</date>
   </programme>
   <programme start="20190123120000 +0200" stop="20190123130000 +0200" channel="Al sharqya">
@@ -4420,8 +4407,7 @@
   </programme>
   <programme start="20190123150000 +0200" stop="20190123160000 +0200" channel="Al sharqya">
     <title lang="ar">زرق ورق</title>
-    <desc lang="ar">
-    </desc>
+    <desc lang="ar" />
     <credits>
       <actor>أياد راضي</actor>
       <actor>آلاء حسين</actor>
@@ -6914,8 +6900,7 @@
   </programme>
   <programme start="20190123010000 +0200" stop="20190123030000 +0200" channel="Fujairah">
     <title lang="ar">صباح الخير يا وطن</title>
-    <desc lang="ar">
-    </desc>
+    <desc lang="ar" />
     <date>0</date>
   </programme>
   <programme start="20190123030000 +0200" stop="20190123033000 +0200" channel="Fujairah">
@@ -6946,8 +6931,7 @@
   </programme>
   <programme start="20190123100000 +0200" stop="20190123113000 +0200" channel="Fujairah">
     <title lang="ar">سبعة على سبعة</title>
-    <desc lang="ar">
-    </desc>
+    <desc lang="ar" />
     <date>0</date>
   </programme>
   <programme start="20190123113000 +0200" stop="20190123133000 +0200" channel="Fujairah">
@@ -6963,8 +6947,7 @@
   </programme>
   <programme start="20190123160000 +0200" stop="20190123194500 +0200" channel="Fujairah">
     <title lang="ar">سبعة على سبعة</title>
-    <desc lang="ar">
-    </desc>
+    <desc lang="ar" />
     <date>0</date>
   </programme>
   <programme start="20190123210000 +0200" stop="20190123230000 +0200" channel="Fujairah">
@@ -7425,8 +7408,7 @@
   </programme>
   <programme start="20190122163000 +0200" stop="20190122170000 +0200" channel="Roya">
     <title lang="ar">عصفورية</title>
-    <desc lang="ar">
-    </desc>
+    <desc lang="ar" />
     <credits>
       <director>رفقي عساف</director>
       <director>أحمد اليسير</director>
@@ -7597,8 +7579,7 @@
   </programme>
   <programme start="20190123120000 +0200" stop="20190123123000 +0200" channel="Roya">
     <title lang="ar">عصفورية</title>
-    <desc lang="ar">
-    </desc>
+    <desc lang="ar" />
     <credits>
       <director>رفقي عساف</director>
       <director>أحمد اليسير</director>
@@ -10041,7 +10022,7 @@
   </programme>
   <programme start="20190123160000 +0200" stop="20190123170000 +0200" channel="Lana">
     <title lang="ar">الأخوة</title>
-    <desc lang="ar">يقع الأخوان (خوان) و (ألبيرتو) في حب جارتهما (فيرجينا) التي تريد أن تصبح صحفية مشهورة.. حيث يريد الأخ الأكبر احتراف رياضة الملاكمة لأن يوجد لديه ميول انفعالية، بينما يتمتع الأخ الأصغر بذكاء حاد ويسعى أن يصل إلى السلطة.(n)</desc>
+    <desc lang="ar">يقع الأخوان (خوان) و (ألبيرتو) في حب جارتهما (فيرجينا) التي تريد أن تصبح صحفية مشهورة.. حيث يريد الأخ الأكبر احتراف رياضة الملاكمة لأن يوجد لديه ميول انفعالية، بينما يتمتع الأخ الأصغر بذكاء حاد ويسعى أن يصل إلى السلطة.</desc>
     <credits>
       <director>جواكين لاماس</director>
       <director>سلفادور كالفو</director>
@@ -10057,7 +10038,7 @@
   </programme>
   <programme start="20190123170000 +0200" stop="20190123180000 +0200" channel="Lana">
     <title lang="ar">ما ملكت أيمانكم</title>
-    <desc lang="ar">الشريحة التي يتناولها العمل من مجتمعنا هي ليست عشوائيات المدينة الفقيرة، بل الطبقة الوسطى، مسلطاً الضوء على تفاصيل مشاكلها وهمومها، وعلى قضايا مثل التطرف الديني والفساد والإرهاب، مبيناً الثمن الذي ندفعه جميعاً لقاء تدهور الأوضاع الاقتصادية والاجتماعية... تؤدي الشخصيات الأنثوية في العمل دوراً جوهرياً، وذلك من خلال أربع نساء يشكلن نماذج لشرائح المجتمع السوري المعاصر، بين الاتزان والتطرف الديني، والانفلات الاجتماعي، والطبقة التي تعاني يومياتها من شرخ واسع يفصل بين طموحاتها وإمكاناتها.(n)</desc>
+    <desc lang="ar">الشريحة التي يتناولها العمل من مجتمعنا هي ليست عشوائيات المدينة الفقيرة، بل الطبقة الوسطى، مسلطاً الضوء على تفاصيل مشاكلها وهمومها، وعلى قضايا مثل التطرف الديني والفساد والإرهاب، مبيناً الثمن الذي ندفعه جميعاً لقاء تدهور الأوضاع الاقتصادية والاجتماعية... تؤدي الشخصيات الأنثوية في العمل دوراً جوهرياً، وذلك من خلال أربع نساء يشكلن نماذج لشرائح المجتمع السوري المعاصر، بين الاتزان والتطرف الديني، والانفلات الاجتماعي، والطبقة التي تعاني يومياتها من شرخ واسع يفصل بين طموحاتها وإمكاناتها.</desc>
     <credits>
       <director>نجدة إسماعيل أنزور</director>
       <director>أيهم عرسان</director>
@@ -10079,7 +10060,7 @@
   </programme>
   <programme start="20190123180000 +0200" stop="20190123190000 +0200" channel="Lana">
     <title lang="ar">مشاريع صغيرة</title>
-    <desc lang="ar">كوميديا لطيفة هادفة تصوّر معاناة أسرة كبيرة العدد لحالة بائسة من الفقر الثقيل الذي يجعل الأخ الأكبر يترك المدرسة ليشتغل ويُعيل والدته وإخوته السبع (أربع أولاد وثلاث بنات) حتى يتخرجوا ويتزوجوا. ثم يكتشف أنه قد بلغ الأربعينات وأن قطار العمر قد فاته، وأنه قد خسر قصّة حب عمَّرتْ 15 سنة وانتهت بالفشل الحزين بعد إخفاقات متكررة.(n)</desc>
+    <desc lang="ar">كوميديا لطيفة هادفة تصوّر معاناة أسرة كبيرة العدد لحالة بائسة من الفقر الثقيل الذي يجعل الأخ الأكبر يترك المدرسة ليشتغل ويُعيل والدته وإخوته السبع (أربع أولاد وثلاث بنات) حتى يتخرجوا ويتزوجوا. ثم يكتشف أنه قد بلغ الأربعينات وأن قطار العمر قد فاته، وأنه قد خسر قصّة حب عمَّرتْ 15 سنة وانتهت بالفشل الحزين بعد إخفاقات متكررة.</desc>
     <credits>
       <director>المثنى صبح</director>
       <actor>سلوم حداد</actor>
@@ -10101,7 +10082,7 @@
   </programme>
   <programme start="20190123190000 +0200" stop="20190123200000 +0200" channel="Lana">
     <title lang="ar">مرايا 97</title>
-    <desc lang="ar">مسلسل ناقد كوميدي متعدد الأجزاء، يتناول في حلقاته عدة قصص وحكايات بأسلوب كوميدي ناقد وساخر وينتقد الأوضاع الاجتماعية والسياسية.(n)</desc>
+    <desc lang="ar">مسلسل ناقد كوميدي متعدد الأجزاء، يتناول في حلقاته عدة قصص وحكايات بأسلوب كوميدي ناقد وساخر وينتقد الأوضاع الاجتماعية والسياسية.</desc>
     <credits>
       <director>مأمون البني</director>
       <director>فتحي مراد</director>
@@ -10124,7 +10105,7 @@
   </programme>
   <programme start="20190123200000 +0200" stop="20190123210000 +0200" channel="Lana">
     <title lang="ar">فرصة العمر</title>
-    <desc lang="ar">مجموعة من الحلقات المنفصلة ذات الطابع الكوميدي الجميل و تناقش بعض قضايا المجتمع.(n)</desc>
+    <desc lang="ar">مجموعة من الحلقات المنفصلة ذات الطابع الكوميدي الجميل و تناقش بعض قضايا المجتمع.</desc>
     <credits>
       <director>عزام فوق العادة</director>
       <actor>عباس النوري</actor>
@@ -10143,7 +10124,7 @@
   </programme>
   <programme start="20190123210000 +0200" stop="20190123220000 +0200" channel="Lana">
     <title lang="ar">أبناء القهر</title>
-    <desc lang="ar">المسلسل عبارة عن دراما اجتماعية تصور معاناة ومشكلات الأفراد والازواج والابناء في العائلة الواحدة، حيث تبدأ حكاية المسلسل من عائلة (عصام) ـ بسام كوسا ـ الذي يكون الخلاف بينه وبين زوجته قائما منذ البداية، وهو خلاف متطور ودون ان يراعي الزوجان ان ولديهما سامر ولينا يحصدان ثمرة خلافهما، فشجارهما الدائم يؤدي الى تشويش في ذهني الصغيرين، فلينا تتسع المسافة بينها وبين استيعاب الدروس وحفظها، وسامر يجد نفسه هاربا من المنزل لمرافقة أولاد السوء. وسبب الخلاف بين الزوجين ان عصام مغرم بزميلته في الوظيفة أميرة التي تريده زوجا لها بعد طلاقه من زوجته رجاء (سلمى المصري) التي باتت في الآونة الأخيرة عصبية عدوانية لكثرة ما يستهتر بها عصام، وهكذا تتوالى الاحداث في هذه العائلة ليحصل الطلاق وليتزوج من عشيقته وليضيع ولداهما، خاصة الولد سامر الذي يتحول لمجرم وقاتل، كذلك يسلط المسلسل الضوء على عائلة (أيمن) ـ على كريم ـ وهو شرطي مرور ورجل نزيه صادق وأمين وقنوع ويعيش في ملحق مستأجر في نفس بناية عصام ويعاني من عدم تمكنه من تحقيق طموح ابنته نهى في تزويجها بشكل جيد، خاصة انها حاولت ان تتزوج من صاحب نوفوتيه يكبرها بالسن كثيرا وتصاب ابنته بالاكتئاب ويمرض الاب ايضا ولكن لا يتراجع عن كبريائه. وهناك ايضا عائلة سالم (ابو بسام) ـ زهير رمضان ـ الاخ الاصغر لأيمن، لديه ولدان وبنت وعائلته تميل الى الانتهازية. وكذلك هناك الاخ الاكبر لأيمن ـ رأفت العانس ـ وعمره 70 عاما وهو من أم أخرى ورث عنها أموالا طائلة ويسكن بيتا يشبه القصر لكنه بخيل على اخويه الفقيرين، ويؤدي دور رأفت الممثل سليم صبري. وهناك ايضا عائلة شامل الذي يعيش مع ابيه في بيت عربي قديم من ارث الجد. ويلعب شامل دورا سلبيا في العلاقات الاجتماعية، خاصة بين العوائل المتجاورة ولكن توالي الاحداث يجعل البعض ينظر اليه على انه شاب طيب وذو خلق فاضل. وهكذا تتوالى حلقات المسلسل لتسلط الضوء على حياة هذه العوائل والاشخاص ولتقدم بانوراما للحياة والمشكلات والازمات التي يمرون بها.(n)</desc>
+    <desc lang="ar">المسلسل عبارة عن دراما اجتماعية تصور معاناة ومشكلات الأفراد والازواج والابناء في العائلة الواحدة، حيث تبدأ حكاية المسلسل من عائلة (عصام) ـ بسام كوسا ـ الذي يكون الخلاف بينه وبين زوجته قائما منذ البداية، وهو خلاف متطور ودون ان يراعي الزوجان ان ولديهما سامر ولينا يحصدان ثمرة خلافهما، فشجارهما الدائم يؤدي الى تشويش في ذهني الصغيرين، فلينا تتسع المسافة بينها وبين استيعاب الدروس وحفظها، وسامر يجد نفسه هاربا من المنزل لمرافقة أولاد السوء. وسبب الخلاف بين الزوجين ان عصام مغرم بزميلته في الوظيفة أميرة التي تريده زوجا لها بعد طلاقه من زوجته رجاء (سلمى المصري) التي باتت في الآونة الأخيرة عصبية عدوانية لكثرة ما يستهتر بها عصام، وهكذا تتوالى الاحداث في هذه العائلة ليحصل الطلاق وليتزوج من عشيقته وليضيع ولداهما، خاصة الولد سامر الذي يتحول لمجرم وقاتل، كذلك يسلط المسلسل الضوء على عائلة (أيمن) ـ على كريم ـ وهو شرطي مرور ورجل نزيه صادق وأمين وقنوع ويعيش في ملحق مستأجر في نفس بناية عصام ويعاني من عدم تمكنه من تحقيق طموح ابنته نهى في تزويجها بشكل جيد، خاصة انها حاولت ان تتزوج من صاحب نوفوتيه يكبرها بالسن كثيرا وتصاب ابنته بالاكتئاب ويمرض الاب ايضا ولكن لا يتراجع عن كبريائه. وهناك ايضا عائلة سالم (ابو بسام) ـ زهير رمضان ـ الاخ الاصغر لأيمن، لديه ولدان وبنت وعائلته تميل الى الانتهازية. وكذلك هناك الاخ الاكبر لأيمن ـ رأفت العانس ـ وعمره 70 عاما وهو من أم أخرى ورث عنها أموالا طائلة ويسكن بيتا يشبه القصر لكنه بخيل على اخويه الفقيرين، ويؤدي دور رأفت الممثل سليم صبري. وهناك ايضا عائلة شامل الذي يعيش مع ابيه في بيت عربي قديم من ارث الجد. ويلعب شامل دورا سلبيا في العلاقات الاجتماعية، خاصة بين العوائل المتجاورة ولكن توالي الاحداث يجعل البعض ينظر اليه على انه شاب طيب وذو خلق فاضل. وهكذا تتوالى حلقات المسلسل لتسلط الضوء على حياة هذه العوائل والاشخاص ولتقدم بانوراما للحياة والمشكلات والازمات التي يمرون بها.</desc>
     <credits>
       <director>مروان بركات</director>
       <director>غياث الجاجه</director>
@@ -10165,7 +10146,7 @@
   </programme>
   <programme start="20190123220000 +0200" stop="20190123230000 +0200" channel="Lana">
     <title lang="ar">الأخوة</title>
-    <desc lang="ar">يقع الأخوان (خوان) و (ألبيرتو) في حب جارتهما (فيرجينا) التي تريد أن تصبح صحفية مشهورة.. حيث يريد الأخ الأكبر احتراف رياضة الملاكمة لأن يوجد لديه ميول انفعالية، بينما يتمتع الأخ الأصغر بذكاء حاد ويسعى أن يصل إلى السلطة.(n)</desc>
+    <desc lang="ar">يقع الأخوان (خوان) و (ألبيرتو) في حب جارتهما (فيرجينا) التي تريد أن تصبح صحفية مشهورة.. حيث يريد الأخ الأكبر احتراف رياضة الملاكمة لأن يوجد لديه ميول انفعالية، بينما يتمتع الأخ الأصغر بذكاء حاد ويسعى أن يصل إلى السلطة.</desc>
     <credits>
       <director>جواكين لاماس</director>
       <director>سلفادور كالفو</director>
@@ -10181,7 +10162,7 @@
   </programme>
   <programme start="20190123230000 +0200" stop="20190124000000 +0200" channel="Lana">
     <title lang="ar">أهل الراية</title>
-    <desc lang="ar">هو حكاية الصراع الأزلي بين الخير والشر، ومحاولة لمسح غبار الكراهية ما بين الخالة وأولاد الزوج. حيث تبدأ أحداث المسلسل عند التاجر الذي ينتظر بفارق الصبر قدوم مولوده الجديد من زوجته وهيبة خانم، والتي تموت أثناء عملية الولادة، ويكاد الأغا ينهار بعد وفاة زوجته والمنافسة التي يعيشها مع تجار السوق؛ إلا أن ابنته قطر الندى تقف إلى جانبه في هذه المحنة وتزوجه من دلال ، لكن الأمور لا تجري كما يشتهي الجميع.(n)</desc>
+    <desc lang="ar">هو حكاية الصراع الأزلي بين الخير والشر، ومحاولة لمسح غبار الكراهية ما بين الخالة وأولاد الزوج. حيث تبدأ أحداث المسلسل عند التاجر الذي ينتظر بفارق الصبر قدوم مولوده الجديد من زوجته وهيبة خانم، والتي تموت أثناء عملية الولادة، ويكاد الأغا ينهار بعد وفاة زوجته والمنافسة التي يعيشها مع تجار السوق؛ إلا أن ابنته قطر الندى تقف إلى جانبه في هذه المحنة وتزوجه من دلال ، لكن الأمور لا تجري كما يشتهي الجميع.</desc>
     <credits>
       <director>علاء الدين كوكش</director>
       <director>منار حفار</director>
@@ -11216,8 +11197,7 @@
   </programme>
   <programme start="20190123000000 +0200" stop="20190123010000 +0200" channel="Sada El Balad Drama">
     <title lang="ar">قلوب تائهة</title>
-    <desc lang="ar">
-    </desc>
+    <desc lang="ar" />
     <date>2008</date>
   </programme>
   <programme start="20190123010000 +0200" stop="20190123020000 +0200" channel="Sada El Balad Drama">
@@ -11330,8 +11310,7 @@
   </programme>
   <programme start="20190123060000 +0200" stop="20190123070000 +0200" channel="Sada El Balad Drama">
     <title lang="ar">قلوب تائهة</title>
-    <desc lang="ar">
-    </desc>
+    <desc lang="ar" />
     <date>2008</date>
   </programme>
   <programme start="20190123070000 +0200" stop="20190123080000 +0200" channel="Sada El Balad Drama">
@@ -11529,8 +11508,7 @@
   </programme>
   <programme start="20190123160000 +0200" stop="20190123170000 +0200" channel="Sada El Balad Drama">
     <title lang="ar">قلوب تائهة</title>
-    <desc lang="ar">
-    </desc>
+    <desc lang="ar" />
     <date>2008</date>
   </programme>
   <programme start="20190123170000 +0200" stop="20190123180000 +0200" channel="Sada El Balad Drama">
@@ -13713,8 +13691,7 @@
   </programme>
   <programme start="20190122160000 +0200" stop="20190122173000 +0200" channel="iFILM TV">
     <title lang="ar">المدار الصفر</title>
-    <desc lang="ar">
-    </desc>
+    <desc lang="ar" />
     <date>2009</date>
   </programme>
   <programme start="20190122173000 +0200" stop="20190122180000 +0200" channel="iFILM TV">
@@ -13786,8 +13763,7 @@
   </programme>
   <programme start="20190122220000 +0200" stop="20190122233000 +0200" channel="iFILM TV">
     <title lang="ar">المدار الصفر</title>
-    <desc lang="ar">
-    </desc>
+    <desc lang="ar" />
     <date>2009</date>
   </programme>
   <programme start="20190122233000 +0200" stop="20190123000000 +0200" channel="iFILM TV">
@@ -13859,8 +13835,7 @@
   </programme>
   <programme start="20190123040000 +0200" stop="20190123053000 +0200" channel="iFILM TV">
     <title lang="ar">المدار الصفر</title>
-    <desc lang="ar">
-    </desc>
+    <desc lang="ar" />
     <date>2009</date>
   </programme>
   <programme start="20190123053000 +0200" stop="20190123060000 +0200" channel="iFILM TV">
@@ -13932,8 +13907,7 @@
   </programme>
   <programme start="20190123100000 +0200" stop="20190123113000 +0200" channel="iFILM TV">
     <title lang="ar">المدار الصفر</title>
-    <desc lang="ar">
-    </desc>
+    <desc lang="ar" />
     <date>2009</date>
   </programme>
   <programme start="20190123113000 +0200" stop="20190123120000 +0200" channel="iFILM TV">
@@ -17536,8 +17510,7 @@
   </programme>
   <programme start="20190123010000 +0200" stop="20190123020000 +0200" channel="TeN TV">
     <title lang="ar">صحتين</title>
-    <desc lang="ar">
-    </desc>
+    <desc lang="ar" />
     <date>0</date>
   </programme>
   <programme start="20190123020000 +0200" stop="20190123034500 +0200" channel="TeN TV">
@@ -17590,8 +17563,7 @@
   </programme>
   <programme start="20190123070000 +0200" stop="20190123080000 +0200" channel="TeN TV">
     <title lang="ar">بيتك ومطبخك</title>
-    <desc lang="ar">
-    </desc>
+    <desc lang="ar" />
     <date>2017</date>
     <rating system="EG">
       <value>4.3</value>
@@ -17609,8 +17581,7 @@
   </programme>
   <programme start="20190123103000 +0200" stop="20190123110000 +0200" channel="TeN TV">
     <title lang="ar">البوصلة</title>
-    <desc lang="ar">
-    </desc>
+    <desc lang="ar" />
     <date>2018</date>
     <rating system="EG">
       <value>4.3</value>
@@ -17662,8 +17633,7 @@
   </programme>
   <programme start="20190123153000 +0200" stop="20190123160000 +0200" channel="TeN TV">
     <title lang="ar">البوصلة</title>
-    <desc lang="ar">
-    </desc>
+    <desc lang="ar" />
     <date>2018</date>
     <rating system="EG">
       <value>4.3</value>
@@ -17687,8 +17657,7 @@
   </programme>
   <programme start="20190123200000 +0200" stop="20190123203000 +0200" channel="TeN TV">
     <title lang="ar">البوصلة</title>
-    <desc lang="ar">
-    </desc>
+    <desc lang="ar" />
     <date>2018</date>
     <rating system="EG">
       <value>4.3</value>
@@ -17723,8 +17692,7 @@
   </programme>
   <programme start="20190123230000 +0200" stop="20190124000000 +0200" channel="TeN TV">
     <title lang="ar">بيتك ومطبخك</title>
-    <desc lang="ar">
-    </desc>
+    <desc lang="ar" />
     <date>2017</date>
     <rating system="EG">
       <value>4.3</value>
