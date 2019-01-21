@@ -1,63 +1,63 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.5 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="almanar">
-    <display-name lang="ar">almanar</display-name>
+    <display-name lang="en">almanar</display-name>
     <url>http://www.elcinema.com</url>
   </channel>
   <channel id="Sada El Balad">
-    <display-name lang="ar">Sada El Balad</display-name>
+    <display-name lang="en">Sada El Balad</display-name>
     <url>http://www.elcinema.com</url>
   </channel>
   <channel id="ON E">
-    <display-name lang="ar">ON E</display-name>
+    <display-name lang="en">ON E</display-name>
     <url>http://www.elcinema.com</url>
   </channel>
   <channel id="Amman">
-    <display-name lang="ar">Amman</display-name>
+    <display-name lang="en">Amman</display-name>
     <url>http://www.elcinema.com</url>
   </channel>
   <channel id="MTV">
-    <display-name lang="ar">MTV</display-name>
+    <display-name lang="en">MTV</display-name>
     <url>http://www.elcinema.com</url>
   </channel>
   <channel id="Al Nahar TV">
-    <display-name lang="ar">Al Nahar TV</display-name>
+    <display-name lang="en">Al Nahar TV</display-name>
     <url>http://www.elcinema.com</url>
   </channel>
   <channel id="Al Jadeed TV">
-    <display-name lang="ar">Al Jadeed TV</display-name>
+    <display-name lang="en">Al Jadeed TV</display-name>
     <url>http://www.elcinema.com</url>
   </channel>
   <channel id="Al Kahera Wal Nas TV">
-    <display-name lang="ar">Al Kahera Wal Nas TV</display-name>
+    <display-name lang="en">Al Kahera Wal Nas TV</display-name>
     <url>http://www.elcinema.com</url>
   </channel>
   <channel id="Al sharqya">
-    <display-name lang="ar">Al sharqya</display-name>
+    <display-name lang="en">Al sharqya</display-name>
     <url>http://www.elcinema.com</url>
   </channel>
   <channel id="Zee alwan">
-    <display-name lang="ar">Zee alwan</display-name>
+    <display-name lang="en">Zee alwan</display-name>
     <url>http://www.elcinema.com</url>
   </channel>
   <channel id="Fujairah">
-    <display-name lang="ar">Fujairah</display-name>
+    <display-name lang="en">Fujairah</display-name>
     <url>http://www.elcinema.com</url>
   </channel>
   <channel id="Roya">
-    <display-name lang="ar">Roya</display-name>
+    <display-name lang="en">Roya</display-name>
     <url>http://www.elcinema.com</url>
   </channel>
   <channel id="Mehwar">
-    <display-name lang="ar">Mehwar</display-name>
+    <display-name lang="en">Mehwar</display-name>
     <url>http://www.elcinema.com</url>
   </channel>
   <channel id="Alhayat TV">
-    <display-name lang="ar">Alhayat TV</display-name>
+    <display-name lang="en">Alhayat TV</display-name>
     <url>http://www.elcinema.com</url>
   </channel>
   <channel id="Sharjah TV">
-    <display-name lang="ar">Sharjah TV</display-name>
+    <display-name lang="en">Sharjah TV</display-name>
     <url>http://www.elcinema.com</url>
   </channel>
   <channel id="Lana">
@@ -65,7 +65,7 @@
     <url>http://www.elcinema.com</url>
   </channel>
   <channel id="Sada El Balad Drama">
-    <display-name lang="ar">Sada El Balad Drama</display-name>
+    <display-name lang="en">Sada El Balad Drama</display-name>
     <url>http://www.elcinema.com</url>
   </channel>
   <channel id="ON Drama">
@@ -73,11 +73,11 @@
     <url>http://www.elcinema.com</url>
   </channel>
   <channel id="iFILM TV">
-    <display-name lang="ar">iFILM TV</display-name>
+    <display-name lang="en">iFILM TV</display-name>
     <url>http://www.elcinema.com</url>
   </channel>
   <channel id="DMC DRAMA">
-    <display-name lang="ar">DMC DRAMA</display-name>
+    <display-name lang="en">DMC DRAMA</display-name>
     <url>http://www.elcinema.com</url>
   </channel>
   <channel id="Alhayat Series">
@@ -85,11 +85,11 @@
     <url>http://www.elcinema.com</url>
   </channel>
   <channel id="TeN TV">
-    <display-name lang="ar">TeN TV</display-name>
+    <display-name lang="en">TeN TV</display-name>
     <url>http://www.elcinema.com</url>
   </channel>
   <channel id="Fan">
-    <display-name lang="ar">Fan</display-name>
+    <display-name lang="en">Fan</display-name>
     <url>http://www.elcinema.com</url>
   </channel>
   <programme start="20190122000000 +0200" stop="20190122003000 +0200" channel="almanar">
@@ -998,7 +998,8 @@
   </programme>
   <programme start="20190123160000 +0200" stop="20190123170000 +0200" channel="ON E">
     <title lang="ar">حفلة 11</title>
-    <desc lang="ar">(c)</desc>
+    <desc lang="ar">
+    </desc>
     <credits>
       <director>شريف الأقطش</director>
       <writer>شريف بديع النور</writer>
@@ -1161,7 +1162,7 @@
   </programme>
   <programme start="20190122150000 +0200" stop="20190122160000 +0200" channel="Amman">
     <title lang="ar">ذات (بنت اسمها ذات)</title>
-    <desc lang="ar">مسلسل (ذات) المأخوذ عن رواية لصنع الله إبراهيم، بدأ بثورة (يوليو 1952) وينتهي بثورة (يناير 2011)، ليرصد الستين عامًا الأخيرة في حياة مصر، وهي سنين حياة ذات، يطرح العديد من الحكايات الإنسانية والأحداث السياسية في الفترة بين الثورتين؛ حيث نجد ذات التي عانت من الظروف التي عايشتها في مجتمع عانى من تهميش طوال 60 عامًا ليتحرر بثورة عظيمة. Based on Sonallah Ibrahim's celebrated novel, "Zaat" explores the social and political winds of change in Egypt starting from 1952, when the main character "Zaat" was born, all the way up to the present day.(c)</desc>
+    <desc lang="ar">مسلسل (ذات) المأخوذ عن رواية لصنع الله إبراهيم، بدأ بثورة (يوليو 1952) وينتهي بثورة (يناير 2011)، ليرصد الستين عامًا الأخيرة في حياة مصر، وهي سنين حياة ذات، يطرح العديد من الحكايات الإنسانية والأحداث السياسية في الفترة بين الثورتين؛ حيث نجد ذات التي عانت من الظروف التي عايشتها في مجتمع عانى من تهميش طوال 60 عامًا ليتحرر بثورة عظيمة. Based on Sonallah Ibrahim's celebrated novel, "Zaat" explores the social and political winds of change in Egypt starting from 1952, when the main character "Zaat" was born, all the way up to the present day.</desc>
     <credits>
       <director>كاملة أبو ذكري</director>
       <director>شادي يسري</director>
@@ -1327,7 +1328,7 @@
   </programme>
   <programme start="20190123233000 +0200" stop="20190124000000 +0200" channel="Amman">
     <title lang="ar">بصراحة</title>
-    <desc lang="ar">برنامج تلفزيوني يعرض أهم القضايا المحلية التي تهم المواطن الأردني، ومحاولة إيجاد حلول لمشاكلهم وإيصالها لأبرز المسؤولين على الهواء مباشرة.(c)</desc>
+    <desc lang="ar">برنامج تلفزيوني يعرض أهم القضايا المحلية التي تهم المواطن الأردني، ومحاولة إيجاد حلول لمشاكلهم وإيصالها لأبرز المسؤولين على الهواء مباشرة.</desc>
     <date>2018</date>
     <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_98da7fd84bb929270d34506a93eeac2352f918f226735bda39535795a8d3fa95.jpg" />
   </programme>
@@ -1479,7 +1480,7 @@
   </programme>
   <programme start="20190123033000 +0200" stop="20190123034000 +0200" channel="MTV">
     <title lang="ar">ما يعرض على إم تي في</title>
-    <desc lang="ar">محطة يومية تخبر المشاهدين بأبرز محطات سهرة اليوم السابق وبرامج اليوم، والمنتظر في الأيام المقبلة.(n)</desc>
+    <desc lang="ar">محطة يومية تخبر المشاهدين بأبرز محطات سهرة اليوم السابق وبرامج اليوم، والمنتظر في الأيام المقبلة.</desc>
     <date>2014</date>
     <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_74a7050da58f60ab76a1d0695eb65ccbbc7ecf8b4be305e4359019fb8d30fc86.jpg" />
   </programme>
@@ -1490,7 +1491,7 @@
   </programme>
   <programme start="20190123040000 +0200" stop="20190123044500 +0200" channel="MTV">
     <title lang="ar">ماذا يطبخ</title>
-    <desc lang="ar">برنامج يقوم بتقديمه عدد من أمهر الطهاة، والذين يقومون بتحضير عدد من أشهر أطباق الحلويات والأكلات في لبنان والعالم.(n)</desc>
+    <desc lang="ar">برنامج يقوم بتقديمه عدد من أمهر الطهاة، والذين يقومون بتحضير عدد من أشهر أطباق الحلويات والأكلات في لبنان والعالم.</desc>
     <date>2014</date>
     <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_af11f2d1411b11aa268ff70e0576b15eaa2bad76f54a7c0a8033f16cec385def.jpg" />
   </programme>
@@ -1516,25 +1517,25 @@
   </programme>
   <programme start="20190123063000 +0200" stop="20190123080000 +0200" channel="MTV">
     <title lang="ar">الحل عنا</title>
-    <desc lang="ar">برنامج اجتماعي يهتم بشكاوي وقضايا المواطنين حيث يتواصل مع المسؤولين، من أجل الوصول إلى حلول.(n)</desc>
+    <desc lang="ar">برنامج اجتماعي يهتم بشكاوي وقضايا المواطنين حيث يتواصل مع المسؤولين، من أجل الوصول إلى حلول.</desc>
     <date>0</date>
     <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_ef644b20b0062472798cddf6f7172c98cc4d1cb47dce087cd4928bff5ec2e873.jpg" />
   </programme>
   <programme start="20190123080000 +0200" stop="20190123091500 +0200" channel="MTV">
     <title lang="ar">بيروت اليوم</title>
-    <desc lang="ar">برنامج يقدم الأخبار المحلية والعالمية ويقوم بمناقشتها من خلال الضيوف الذين يستضيفهم في الأستوديو وخارجه.(n)</desc>
+    <desc lang="ar">برنامج يقدم الأخبار المحلية والعالمية ويقوم بمناقشتها من خلال الضيوف الذين يستضيفهم في الأستوديو وخارجه.</desc>
     <date>0</date>
     <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_b2902ef32a6de36727b83b9f73a4829a63fce5979e20254acf307f97cce8bdf5.jpg" />
   </programme>
   <programme start="20190123091500 +0200" stop="20190123110000 +0200" channel="MTV">
     <title lang="ar">هاشتاج</title>
-    <desc lang="ar">برنامج يتحدث عن كل ما له علاقة بالفن.(n)</desc>
+    <desc lang="ar">برنامج يتحدث عن كل ما له علاقة بالفن.</desc>
     <date>10</date>
     <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_3c407df41fdbca535112c654bd20e1848dc67aa352e0fe73325e481066bd3943.jpg" />
   </programme>
   <programme start="20190123110000 +0200" stop="20190123114500 +0200" channel="MTV">
     <title lang="ar">Summer fire (Vatre Ivanjske)</title>
-    <desc lang="ar">تدور أحداث المسلسل حول طبيبة شابة تتسبب في قتل مريضة بشكل غير مقصود، تقودها الصدفة للتعرف على الزوج السابق لهذه السيدة التي تركته من أجل آخر، ينجذب كل طرف إلى الآخر دون أن يعرف أي منهما ماضي شريكه الجديد.(n)</desc>
+    <desc lang="ar">تدور أحداث المسلسل حول طبيبة شابة تتسبب في قتل مريضة بشكل غير مقصود، تقودها الصدفة للتعرف على الزوج السابق لهذه السيدة التي تركته من أجل آخر، ينجذب كل طرف إلى الآخر دون أن يعرف أي منهما ماضي شريكه الجديد.</desc>
     <credits>
       <director>ألدو تاردوزي</director>
       <actor>نيفينا ريستك</actor>
@@ -1548,7 +1549,8 @@
   </programme>
   <programme start="20190123134000 +0200" stop="20190123144000 +0200" channel="MTV">
     <title lang="ar">ما فيي</title>
-    <desc lang="ar">(n)</desc>
+    <desc lang="ar">
+    </desc>
     <credits>
       <director>رشا شربتجي</director>
       <director>وسيم بدر</director>
@@ -1920,7 +1922,7 @@
   </programme>
   <programme start="20190123203000 +0200" stop="20190123213000 +0200" channel="Al Nahar TV">
     <title lang="ar">اسأل مع دعاء</title>
-    <desc lang="ar">برنامج ديني يعتمد على استضافة مُقدمته (دعاء فاروق) لشيخ أو داعية إسلامي بهدف الرد على استفسارات وتساؤلات الجمهور حول الأمور الدينية والدنيوية.(n)</desc>
+    <desc lang="ar">برنامج ديني يعتمد على استضافة مُقدمته (دعاء فاروق) لشيخ أو داعية إسلامي بهدف الرد على استفسارات وتساؤلات الجمهور حول الأمور الدينية والدنيوية.</desc>
     <date>2018</date>
     <category lang="ar">تصنيف العمل</category>
     <category lang="ar">ﻋﺎﺋﻠﻲ</category>
@@ -2404,7 +2406,7 @@
   </programme>
   <programme start="20190122020000 +0200" stop="20190122030000 +0200" channel="Al Kahera Wal Nas TV">
     <title lang="ar">المصري أفندي 360</title>
-    <desc lang="ar">هو برنامج توك شو، يتناول العديد من القضايا ومنها السياسية والإقتصادية والاجتماعية والفنية والرياضية، حيث يقوم البرنامج بنقل آراء الشارع المصري، كما يقوم بالتواصل مع الجمهور عن طريق الهاشتاجات وعن طريق إشراك الجمهور في المناقشات التي تتم في البرنامج.(c)</desc>
+    <desc lang="ar">هو برنامج توك شو، يتناول العديد من القضايا ومنها السياسية والإقتصادية والاجتماعية والفنية والرياضية، حيث يقوم البرنامج بنقل آراء الشارع المصري، كما يقوم بالتواصل مع الجمهور عن طريق الهاشتاجات وعن طريق إشراك الجمهور في المناقشات التي تتم في البرنامج.</desc>
     <date>2017</date>
     <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_4f89402f42d8567c18c47ee44bdf2bbb3cc1a9bfe4fab4bdbd57b354c5cd711d.jpg" />
     <rating system="EG">
@@ -2747,7 +2749,8 @@
   </programme>
   <programme start="20190122120000 +0200" stop="20190122140000 +0200" channel="Al sharqya">
     <title lang="ar">ظهيرة الجمعة</title>
-    <desc lang="ar">(c)</desc>
+    <desc lang="ar">
+    </desc>
     <date>0</date>
     <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
   </programme>
@@ -2883,7 +2886,8 @@
   </programme>
   <programme start="20190123190000 +0200" stop="20190123200000 +0200" channel="Al sharqya">
     <title lang="ar">كلام الناس</title>
-    <desc lang="ar">(c)</desc>
+    <desc lang="ar">
+    </desc>
     <date>0</date>
     <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
   </programme>
@@ -4419,7 +4423,8 @@
   </programme>
   <programme start="20190122010000 +0200" stop="20190122030000 +0200" channel="Fujairah">
     <title lang="ar">صباح الخير يا وطن</title>
-    <desc lang="ar">(c)</desc>
+    <desc lang="ar">
+    </desc>
     <date>0</date>
     <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
   </programme>
@@ -4475,7 +4480,7 @@
   </programme>
   <programme start="20190122210000 +0200" stop="20190122230000 +0200" channel="Fujairah">
     <title lang="ar">راينبو</title>
-    <desc lang="ar">برنامج للأطفال عبارة عن أسئلة يتم اختيارها بناًء على اللون الذي يختاره الكمبيوتر في قوس قزح حيث لكل لون سؤال، يتم تلقي الاتصالات على كل سؤال لمدة خمس دقائق بحيث تدخُل أسماء جميع المشتركين من أصحاب الإجابات الصحيحة في سحب أسبوعي لربح جائزة تحدد لاحقًا من المحطة.(c)</desc>
+    <desc lang="ar">برنامج للأطفال عبارة عن أسئلة يتم اختيارها بناًء على اللون الذي يختاره الكمبيوتر في قوس قزح حيث لكل لون سؤال، يتم تلقي الاتصالات على كل سؤال لمدة خمس دقائق بحيث تدخُل أسماء جميع المشتركين من أصحاب الإجابات الصحيحة في سحب أسبوعي لربح جائزة تحدد لاحقًا من المحطة.</desc>
     <date>2017</date>
     <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_63efd627822114f877ddbfde26ac58b60f8d76e80d96ab01c2f4608d8a6b8cad.jpg" />
   </programme>
@@ -4491,7 +4496,8 @@
   </programme>
   <programme start="20190123030000 +0200" stop="20190123033000 +0200" channel="Fujairah">
     <title lang="ar">أبشر بالخير</title>
-    <desc lang="ar">(c)</desc>
+    <desc lang="ar">
+    </desc>
     <date>0</date>
     <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
   </programme>
@@ -4522,7 +4528,8 @@
   </programme>
   <programme start="20190123113000 +0200" stop="20190123133000 +0200" channel="Fujairah">
     <title lang="ar">وذكرهم</title>
-    <desc lang="ar">(c)</desc>
+    <desc lang="ar">
+    </desc>
     <date>0</date>
     <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
   </programme>
@@ -4704,7 +4711,7 @@
   </programme>
   <programme start="20190122133000 +0200" stop="20190122160000 +0200" channel="Roya">
     <title lang="ar">نبض البلد</title>
-    <desc lang="ar">برنامج سياسي يتناول العديد من القضايا المحلية، العربية والعالمية يستضيف متخصصين ويعرض تقارير ميدانية ويتواصل مع الجمهور من خلال التعليقات عبر مواقع التواصل الاجتماعي ويطرحها على الضيوف خلال الحلقة.(c)</desc>
+    <desc lang="ar">برنامج سياسي يتناول العديد من القضايا المحلية، العربية والعالمية يستضيف متخصصين ويعرض تقارير ميدانية ويتواصل مع الجمهور من خلال التعليقات عبر مواقع التواصل الاجتماعي ويطرحها على الضيوف خلال الحلقة.</desc>
     <date>2018</date>
     <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_fae9e9aa130ac8c101998aeb9634a0cf14160609cc604d4688d8593adeb75c64.jpg" />
   </programme>
@@ -4957,7 +4964,7 @@
   </programme>
   <programme start="20190122020000 +0200" stop="20190122033000 +0200" channel="Mehwar">
     <title lang="ar">90 دقيقة</title>
-    <desc lang="ar">أحد أهم البرامج الحوارية بدأ إذاعته عام 2006 مع معتز الدمرداش وريهام السهلي، ولكن في عام 2011 انضم الإعلامي عمرو الليثي للبرنامج بعد أن انسحب الدمرداش من تقديمه. يهتم البرنامج بالأخبار المهمة والأحداث اليومية التي تدور في الشارع المصري والعربى، كما يرصد أيضاً اهتمامات المشاهدين وآراءهم وتطلعاتهم، كما يستقبل العديد من الضيوف من رجال السياسة والإعلام والاقتصاد.(c)</desc>
+    <desc lang="ar">أحد أهم البرامج الحوارية بدأ إذاعته عام 2006 مع معتز الدمرداش وريهام السهلي، ولكن في عام 2011 انضم الإعلامي عمرو الليثي للبرنامج بعد أن انسحب الدمرداش من تقديمه. يهتم البرنامج بالأخبار المهمة والأحداث اليومية التي تدور في الشارع المصري والعربى، كما يرصد أيضاً اهتمامات المشاهدين وآراءهم وتطلعاتهم، كما يستقبل العديد من الضيوف من رجال السياسة والإعلام والاقتصاد.</desc>
     <date>2006</date>
     <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_e11eaad5a74aa78a774d48258d114eb4a8a3942810ef7930890735ff289badc5.jpg" />
     <rating system="EG">
@@ -4966,7 +4973,7 @@
   </programme>
   <programme start="20190122033000 +0200" stop="20190122053000 +0200" channel="Mehwar">
     <title lang="ar">صولا 3</title>
-    <desc lang="ar">تستضيف الفنانة أصالة عدد من النجوم البارزين في العديد من المجالات المختلفة (فنانين، مطربين، سياسيين، مقدمين برامج) وتحاورهم، إلى جانب محاولة اكتشاف مجموعة من المواهب الجديدة لمشاركة النجوم في حلقاتهم.(c)</desc>
+    <desc lang="ar">تستضيف الفنانة أصالة عدد من النجوم البارزين في العديد من المجالات المختلفة (فنانين، مطربين، سياسيين، مقدمين برامج) وتحاورهم، إلى جانب محاولة اكتشاف مجموعة من المواهب الجديدة لمشاركة النجوم في حلقاتهم.</desc>
     <credits>
       <director>طارق العريان</director>
     </credits>
@@ -5299,7 +5306,7 @@
   </programme>
   <programme start="20190122130000 +0200" stop="20190122140000 +0200" channel="Alhayat TV">
     <title lang="ar">الحياة اليوم</title>
-    <desc lang="ar">برنامج مسائي يومي يناقش الأوضاع السياسية والاجتماعية والاقتصادية فى مصر، وتستضيف من خلاله اﻹعلامية لبنى عسل يوميًا أبرز الشخصيات على الساحة في مصر.(c)</desc>
+    <desc lang="ar">برنامج مسائي يومي يناقش الأوضاع السياسية والاجتماعية والاقتصادية فى مصر، وتستضيف من خلاله اﻹعلامية لبنى عسل يوميًا أبرز الشخصيات على الساحة في مصر.</desc>
     <date>2011</date>
     <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_d4d7fa580ff2161db1a16f6ab546e4a5811965846a81bec7d02f29af8ea935ec.jpg" />
     <rating system="EG">
@@ -5601,7 +5608,8 @@
   </programme>
   <programme start="20190123003000 +0200" stop="20190123010000 +0200" channel="Sharjah TV">
     <title lang="ar">رائدات</title>
-    <desc lang="ar">(g)</desc>
+    <desc lang="ar">
+    </desc>
     <date>0</date>
     <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
   </programme>
@@ -6597,7 +6605,8 @@
   </programme>
   <programme start="20190124000000 +0200" stop="20190124010000 +0200" channel="Lana">
     <title lang="en">مشاريع صغيرة (?)</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>AL-Mothanna Sobah</director>
       <actor>Salloum Haddad</actor>
@@ -6619,7 +6628,8 @@
   </programme>
   <programme start="20190124010000 +0200" stop="20190124020000 +0200" channel="Lana">
     <title lang="en">Ahmar (?)</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Joud Said</director>
       <director>يارا جروج</director>
@@ -6644,7 +6654,8 @@
   </programme>
   <programme start="20190124020000 +0200" stop="20190124030000 +0200" channel="Lana">
     <title lang="en">أشواك ناعمة (?)</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Rasha Sharbatgy</director>
       <actor>Salma El Masry</actor>
@@ -6663,7 +6674,8 @@
   </programme>
   <programme start="20190124030000 +0200" stop="20190124040000 +0200" channel="Lana">
     <title lang="en">ما ملكت أيمانكم (?)</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Nagdat Ismail Anzour</director>
       <director>Ayham Arsan</director>
@@ -6685,7 +6697,8 @@
   </programme>
   <programme start="20190124040000 +0200" stop="20190124050000 +0200" channel="Lana">
     <title lang="en">أهل الراية (?)</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Alaa El Din Koksh</director>
       <director>منار حفار</director>
@@ -6707,7 +6720,8 @@
   </programme>
   <programme start="20190124050000 +0200" stop="20190124060000 +0200" channel="Lana">
     <title lang="en">مرايا 97 (?)</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>مأمون البني</director>
       <director>فتحي مراد</director>
@@ -6730,7 +6744,8 @@
   </programme>
   <programme start="20190124060000 +0200" stop="20190124070000 +0200" channel="Lana">
     <title lang="en">Hermanos (?)</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Joaquín Llamas</director>
       <director>Salvador Calvo</director>
@@ -6746,7 +6761,8 @@
   </programme>
   <programme start="20190124070000 +0200" stop="20190124080000 +0200" channel="Lana">
     <title lang="en">أبناء القهر (?)</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Marwan Barakat</director>
       <director>غياث الجاجه</director>
@@ -6768,7 +6784,8 @@
   </programme>
   <programme start="20190124080000 +0200" stop="20190124090000 +0200" channel="Lana">
     <title lang="en">فرصة العمر (?)</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Azzam Fauq El Ada</director>
       <actor>Abbas Al Nouri</actor>
@@ -6787,7 +6804,8 @@
   </programme>
   <programme start="20190124090000 +0200" stop="20190124100000 +0200" channel="Lana">
     <title lang="en">مشاريع صغيرة (?)</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>AL-Mothanna Sobah</director>
       <actor>Salloum Haddad</actor>
@@ -6809,7 +6827,8 @@
   </programme>
   <programme start="20190124100000 +0200" stop="20190124110000 +0200" channel="Lana">
     <title lang="en">أهل الراية (?)</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Alaa El Din Koksh</director>
       <director>منار حفار</director>
@@ -6831,7 +6850,8 @@
   </programme>
   <programme start="20190124110000 +0200" stop="20190124120000 +0200" channel="Lana">
     <title lang="en">أشواك ناعمة (?)</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Rasha Sharbatgy</director>
       <actor>Salma El Masry</actor>
@@ -6850,7 +6870,8 @@
   </programme>
   <programme start="20190124120000 +0200" stop="20190124130000 +0200" channel="Lana">
     <title lang="en">Ahmar (?)</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Joud Said</director>
       <director>يارا جروج</director>
@@ -6875,7 +6896,8 @@
   </programme>
   <programme start="20190124130000 +0200" stop="20190124140000 +0200" channel="Lana">
     <title lang="en">مرايا 97 (?)</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>مأمون البني</director>
       <director>فتحي مراد</director>
@@ -6898,7 +6920,8 @@
   </programme>
   <programme start="20190124140000 +0200" stop="20190124150000 +0200" channel="Lana">
     <title lang="en">فرصة العمر (?)</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Azzam Fauq El Ada</director>
       <actor>Abbas Al Nouri</actor>
@@ -6917,7 +6940,8 @@
   </programme>
   <programme start="20190124150000 +0200" stop="20190124160000 +0200" channel="Lana">
     <title lang="en">أبناء القهر (?)</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Marwan Barakat</director>
       <director>غياث الجاجه</director>
@@ -6939,7 +6963,8 @@
   </programme>
   <programme start="20190124160000 +0200" stop="20190124170000 +0200" channel="Lana">
     <title lang="en">Hermanos (?)</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Joaquín Llamas</director>
       <director>Salvador Calvo</director>
@@ -6955,7 +6980,8 @@
   </programme>
   <programme start="20190124170000 +0200" stop="20190124180000 +0200" channel="Lana">
     <title lang="en">ما ملكت أيمانكم (?)</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Nagdat Ismail Anzour</director>
       <director>Ayham Arsan</director>
@@ -6977,7 +7003,8 @@
   </programme>
   <programme start="20190124180000 +0200" stop="20190124190000 +0200" channel="Lana">
     <title lang="en">مشاريع صغيرة (?)</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>AL-Mothanna Sobah</director>
       <actor>Salloum Haddad</actor>
@@ -6999,7 +7026,8 @@
   </programme>
   <programme start="20190124190000 +0200" stop="20190124200000 +0200" channel="Lana">
     <title lang="en">مرايا 97 (?)</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>مأمون البني</director>
       <director>فتحي مراد</director>
@@ -7022,7 +7050,8 @@
   </programme>
   <programme start="20190124200000 +0200" stop="20190124210000 +0200" channel="Lana">
     <title lang="en">فرصة العمر (?)</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Azzam Fauq El Ada</director>
       <actor>Abbas Al Nouri</actor>
@@ -7041,7 +7070,8 @@
   </programme>
   <programme start="20190124210000 +0200" stop="20190124220000 +0200" channel="Lana">
     <title lang="en">أبناء القهر (?)</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Marwan Barakat</director>
       <director>غياث الجاجه</director>
@@ -7063,7 +7093,8 @@
   </programme>
   <programme start="20190124220000 +0200" stop="20190124230000 +0200" channel="Lana">
     <title lang="en">Hermanos (?)</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Joaquín Llamas</director>
       <director>Salvador Calvo</director>
@@ -7079,7 +7110,8 @@
   </programme>
   <programme start="20190124230000 +0200" stop="20190125000000 +0200" channel="Lana">
     <title lang="en">أهل الراية (?)</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Alaa El Din Koksh</director>
       <director>منار حفار</director>
@@ -9072,7 +9104,8 @@
   </programme>
   <programme start="20190124000000 +0200" stop="20190124010000 +0200" channel="ON Drama">
     <title lang="en">العصيان (ج1) (?)</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Ahmed AL-Sabaawi</director>
       <actor>Mahmoud Yassine</actor>
@@ -9093,7 +9126,7 @@
   </programme>
   <programme start="20190124010000 +0200" stop="20190124020000 +0200" channel="ON Drama">
     <title lang="en">Gabal Al Halal (?)</title>
-    <desc lang="en">This series revolves around a man who is known for his promiscuous behavior with women and his many marriages. He is involved in a various illegal activities involving weapons and antiquities, until he is shocked by a traumatic change in his life. This show captures the dramatic shifts that have occurred in Egypt over the last three years.(n)</desc>
+    <desc lang="en">This series revolves around a man who is known for his promiscuous behavior with women and his many marriages. He is involved in a various illegal activities involving weapons and antiquities, until he is shocked by a traumatic change in his life. This show captures the dramatic shifts that have occurred in Egypt over the last three years.</desc>
     <credits>
       <director>Adel Adeeb</director>
       <director>Hassan Alqenawy</director>
@@ -9115,7 +9148,8 @@
   </programme>
   <programme start="20190124020000 +0200" stop="20190124030000 +0200" channel="ON Drama">
     <title lang="en">The Trader of Happiness (?)</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Shereen Adel</director>
       <director>Ashraf Nar</director>
@@ -9139,7 +9173,8 @@
   </programme>
   <programme start="20190124030000 +0200" stop="20190124040000 +0200" channel="ON Drama">
     <title lang="en">Unstable Mind (?)</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Moataz El Tony</director>
       <director>Mohamed abd elrahman</director>
@@ -9162,7 +9197,8 @@
   </programme>
   <programme start="20190124040000 +0200" stop="20190124050000 +0200" channel="ON Drama">
     <title lang="en">Al Tabbal (?)</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Ahmed Khaled Amin</director>
       <director>ناصر زيدان</director>
@@ -9185,7 +9221,8 @@
   </programme>
   <programme start="20190124050000 +0200" stop="20190124060000 +0200" channel="ON Drama">
     <title lang="en">Bwabit alhalwani (?)</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Ibrahim El Shan</director>
       <director>Mohammad Helmy</director>
@@ -9208,7 +9245,8 @@
   </programme>
   <programme start="20190124060000 +0200" stop="20190124070000 +0200" channel="ON Drama">
     <title lang="en">العصيان (ج1) (?)</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Ahmed AL-Sabaawi</director>
       <actor>Mahmoud Yassine</actor>
@@ -9229,7 +9267,7 @@
   </programme>
   <programme start="20190124070000 +0200" stop="20190124080000 +0200" channel="ON Drama">
     <title lang="en">Gabal Al Halal (?)</title>
-    <desc lang="en">This series revolves around a man who is known for his promiscuous behavior with women and his many marriages. He is involved in a various illegal activities involving weapons and antiquities, until he is shocked by a traumatic change in his life. This show captures the dramatic shifts that have occurred in Egypt over the last three years.(n)</desc>
+    <desc lang="en">This series revolves around a man who is known for his promiscuous behavior with women and his many marriages. He is involved in a various illegal activities involving weapons and antiquities, until he is shocked by a traumatic change in his life. This show captures the dramatic shifts that have occurred in Egypt over the last three years.</desc>
     <credits>
       <director>Adel Adeeb</director>
       <director>Hassan Alqenawy</director>
@@ -9251,7 +9289,8 @@
   </programme>
   <programme start="20190124080000 +0200" stop="20190124090000 +0200" channel="ON Drama">
     <title lang="en">The Trader of Happiness (?)</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Shereen Adel</director>
       <director>Ashraf Nar</director>
@@ -9275,7 +9314,8 @@
   </programme>
   <programme start="20190124090000 +0200" stop="20190124100000 +0200" channel="ON Drama">
     <title lang="en">Unstable Mind (?)</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Moataz El Tony</director>
       <director>Mohamed abd elrahman</director>
@@ -9298,7 +9338,8 @@
   </programme>
   <programme start="20190124100000 +0200" stop="20190124110000 +0200" channel="ON Drama">
     <title lang="en">Al Tabbal (?)</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Ahmed Khaled Amin</director>
       <director>ناصر زيدان</director>
@@ -9321,7 +9362,8 @@
   </programme>
   <programme start="20190124110000 +0200" stop="20190124120000 +0200" channel="ON Drama">
     <title lang="en">Bwabit alhalwani (?)</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Ibrahim El Shan</director>
       <director>Mohammad Helmy</director>
@@ -9344,7 +9386,8 @@
   </programme>
   <programme start="20190124120000 +0200" stop="20190124130000 +0200" channel="ON Drama">
     <title lang="en">العصيان (ج1) (?)</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Ahmed AL-Sabaawi</director>
       <actor>Mahmoud Yassine</actor>
@@ -9365,7 +9408,7 @@
   </programme>
   <programme start="20190124130000 +0200" stop="20190124140000 +0200" channel="ON Drama">
     <title lang="en">Gabal Al Halal (?)</title>
-    <desc lang="en">This series revolves around a man who is known for his promiscuous behavior with women and his many marriages. He is involved in a various illegal activities involving weapons and antiquities, until he is shocked by a traumatic change in his life. This show captures the dramatic shifts that have occurred in Egypt over the last three years.(n)</desc>
+    <desc lang="en">This series revolves around a man who is known for his promiscuous behavior with women and his many marriages. He is involved in a various illegal activities involving weapons and antiquities, until he is shocked by a traumatic change in his life. This show captures the dramatic shifts that have occurred in Egypt over the last three years.</desc>
     <credits>
       <director>Adel Adeeb</director>
       <director>Hassan Alqenawy</director>
@@ -9387,7 +9430,8 @@
   </programme>
   <programme start="20190124140000 +0200" stop="20190124150000 +0200" channel="ON Drama">
     <title lang="en">The Trader of Happiness (?)</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Shereen Adel</director>
       <director>Ashraf Nar</director>
@@ -9411,7 +9455,8 @@
   </programme>
   <programme start="20190124150000 +0200" stop="20190124160000 +0200" channel="ON Drama">
     <title lang="en">Unstable Mind (?)</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Moataz El Tony</director>
       <director>Mohamed abd elrahman</director>
@@ -9434,7 +9479,8 @@
   </programme>
   <programme start="20190124160000 +0200" stop="20190124170000 +0200" channel="ON Drama">
     <title lang="en">Al Tabbal (?)</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Ahmed Khaled Amin</director>
       <director>ناصر زيدان</director>
@@ -9457,7 +9503,8 @@
   </programme>
   <programme start="20190124170000 +0200" stop="20190124180000 +0200" channel="ON Drama">
     <title lang="en">Bwabit alhalwani (?)</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Ibrahim El Shan</director>
       <director>Mohammad Helmy</director>
@@ -9480,7 +9527,8 @@
   </programme>
   <programme start="20190124180000 +0200" stop="20190124190000 +0200" channel="ON Drama">
     <title lang="en">العصيان (ج1) (?)</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Ahmed AL-Sabaawi</director>
       <actor>Mahmoud Yassine</actor>
@@ -9501,7 +9549,7 @@
   </programme>
   <programme start="20190124190000 +0200" stop="20190124200000 +0200" channel="ON Drama">
     <title lang="en">Gabal Al Halal (?)</title>
-    <desc lang="en">This series revolves around a man who is known for his promiscuous behavior with women and his many marriages. He is involved in a various illegal activities involving weapons and antiquities, until he is shocked by a traumatic change in his life. This show captures the dramatic shifts that have occurred in Egypt over the last three years.(n)</desc>
+    <desc lang="en">This series revolves around a man who is known for his promiscuous behavior with women and his many marriages. He is involved in a various illegal activities involving weapons and antiquities, until he is shocked by a traumatic change in his life. This show captures the dramatic shifts that have occurred in Egypt over the last three years.</desc>
     <credits>
       <director>Adel Adeeb</director>
       <director>Hassan Alqenawy</director>
@@ -9523,7 +9571,8 @@
   </programme>
   <programme start="20190124200000 +0200" stop="20190124210000 +0200" channel="ON Drama">
     <title lang="en">The Trader of Happiness (?)</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Shereen Adel</director>
       <director>Ashraf Nar</director>
@@ -9547,7 +9596,8 @@
   </programme>
   <programme start="20190124210000 +0200" stop="20190124220000 +0200" channel="ON Drama">
     <title lang="en">Unstable Mind (?)</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Moataz El Tony</director>
       <director>Mohamed abd elrahman</director>
@@ -9570,7 +9620,8 @@
   </programme>
   <programme start="20190124220000 +0200" stop="20190124230000 +0200" channel="ON Drama">
     <title lang="en">Al Tabbal (?)</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Ahmed Khaled Amin</director>
       <director>ناصر زيدان</director>
@@ -9593,7 +9644,8 @@
   </programme>
   <programme start="20190124230000 +0200" stop="20190125000000 +0200" channel="ON Drama">
     <title lang="en">Bwabit alhalwani (?)</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Ibrahim El Shan</director>
       <director>Mohammad Helmy</director>
@@ -9678,7 +9730,8 @@
   </programme>
   <programme start="20190122040000 +0200" stop="20190122053000 +0200" channel="iFILM TV">
     <title lang="ar">المدار الصفر</title>
-    <desc lang="ar">(c)</desc>
+    <desc lang="ar">
+    </desc>
     <date>2009</date>
     <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
   </programme>
@@ -9751,7 +9804,8 @@
   </programme>
   <programme start="20190122100000 +0200" stop="20190122113000 +0200" channel="iFILM TV">
     <title lang="ar">المدار الصفر</title>
-    <desc lang="ar">(c)</desc>
+    <desc lang="ar">
+    </desc>
     <date>2009</date>
     <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
   </programme>
@@ -10955,7 +11009,7 @@
   </programme>
   <programme start="20190123160000 +0200" stop="20190123170000 +0200" channel="DMC DRAMA">
     <title lang="ar">أبو العروسة (ج2)</title>
-    <desc lang="ar">استكمالا ﻷحداث الموسم الأول من المسلسل، تتطور الأحداث حيث تنتظر زينه (ولاء الشريف) - ابنه عبدالحميد (سيد رجب) - مولودتها الأولى، وتقرر هي وزوجها السفر لأمريكا لإنجاب طفلتها، ومن باب الصدفة يخبر الأطباء عبدالحميد أنه سيفقد بصره خلال شهر قبل أن يرى حفيدته الأولى.(n)</desc>
+    <desc lang="ar">استكمالا ﻷحداث الموسم الأول من المسلسل، تتطور الأحداث حيث تنتظر زينه (ولاء الشريف) - ابنه عبدالحميد (سيد رجب) - مولودتها الأولى، وتقرر هي وزوجها السفر لأمريكا لإنجاب طفلتها، ومن باب الصدفة يخبر الأطباء عبدالحميد أنه سيفقد بصره خلال شهر قبل أن يرى حفيدته الأولى.</desc>
     <credits>
       <director>كمال منصور</director>
       <director>أحمد أنور</director>
@@ -10978,7 +11032,7 @@
   </programme>
   <programme start="20190123170000 +0200" stop="20190123180000 +0200" channel="DMC DRAMA">
     <title lang="ar">رحيم</title>
-    <desc lang="ar">يرصد المسلسل قصة صراع تدور داخل المجتمع المصري، حيث "رحيم" رجل أعمال مصري، يعمل في غسيل الأموال وتهريب الدولارات، ويتم القبض عليه ويسجن لفترة ليست قصيرة، وبعد خروجه من السجن، يفاجأ بأن رجاله استولوا على جميع ممتلكاته، وشرد أفراد أسرته، فيبدأ رحلة بحثه عنهم واسترداد ممتلكاته. The show deals with Rahim, a rich businessman, who works in money laundry and currency smuggling. After he gets out of a long prison sentence, he finds out that his men took all his money and drove his family away. He goes on a journey to find them and get his belongings back.(n)</desc>
+    <desc lang="ar">يرصد المسلسل قصة صراع تدور داخل المجتمع المصري، حيث "رحيم" رجل أعمال مصري، يعمل في غسيل الأموال وتهريب الدولارات، ويتم القبض عليه ويسجن لفترة ليست قصيرة، وبعد خروجه من السجن، يفاجأ بأن رجاله استولوا على جميع ممتلكاته، وشرد أفراد أسرته، فيبدأ رحلة بحثه عنهم واسترداد ممتلكاته. The show deals with Rahim, a rich businessman, who works in money laundry and currency smuggling. After he gets out of a long prison sentence, he finds out that his men took all his money and drove his family away. He goes on a journey to find them and get his belongings back.</desc>
     <credits>
       <director>محمد سلامة</director>
       <director>مها إمام</director>
@@ -11003,7 +11057,7 @@
   </programme>
   <programme start="20190123180000 +0200" stop="20190123190000 +0200" channel="DMC DRAMA">
     <title lang="ar">الضوء الشارد</title>
-    <desc lang="ar">تدور القصة حول الصراع الطبقي بين طبقة الإقطاعين القدامى متمثلة في عائلة العزايزه وطبقة الملاك الجدد متمثلة في عائلة السوالم الذين كانوا أجراء فيما مضى، ويلجأ السوالم لطرق غير شرعية للحصول على المال لمنافسة العزايزه على كرسي مجلس الشعب الذي كان حكراً على العزايزة.(n)</desc>
+    <desc lang="ar">تدور القصة حول الصراع الطبقي بين طبقة الإقطاعين القدامى متمثلة في عائلة العزايزه وطبقة الملاك الجدد متمثلة في عائلة السوالم الذين كانوا أجراء فيما مضى، ويلجأ السوالم لطرق غير شرعية للحصول على المال لمنافسة العزايزه على كرسي مجلس الشعب الذي كان حكراً على العزايزة.</desc>
     <credits>
       <director>مجدي أبو عميرة</director>
       <director>شيرين عادل</director>
@@ -11026,7 +11080,7 @@
   </programme>
   <programme start="20190123190000 +0200" stop="20190123200000 +0200" channel="DMC DRAMA">
     <title lang="ar">المال والبنون (ج1)</title>
-    <desc lang="ar">تدور قصة المسلسل حول سلامة فراويلة يعيش في رفاهية مع أولاده بينما عباس الضو يسكن في غرفة فوق السطح، يوسف ابن عباس يريد الزواج من فريـال ابنة سلامة لكنهما يصطدمان برفض العائلة رغم الصداقة القوية بين عباس وسلامة، يكتشف يوسف أن والده وسلامة كانا يعملان لدى خواجة جمع ثروته من تهريبه للآثار خارج مصر، بعد موت الخواجة، يأخذ سلامة الأموال بينما عباس يمتنع ويحاول أن يبعد أبناءه عن أبناء سلامة.(n)</desc>
+    <desc lang="ar">تدور قصة المسلسل حول سلامة فراويلة يعيش في رفاهية مع أولاده بينما عباس الضو يسكن في غرفة فوق السطح، يوسف ابن عباس يريد الزواج من فريـال ابنة سلامة لكنهما يصطدمان برفض العائلة رغم الصداقة القوية بين عباس وسلامة، يكتشف يوسف أن والده وسلامة كانا يعملان لدى خواجة جمع ثروته من تهريبه للآثار خارج مصر، بعد موت الخواجة، يأخذ سلامة الأموال بينما عباس يمتنع ويحاول أن يبعد أبناءه عن أبناء سلامة.</desc>
     <credits>
       <director>مجدي أبو عميرة</director>
       <director>ثابت محمد ثابت</director>
@@ -11048,7 +11102,7 @@
   </programme>
   <programme start="20190123210000 +0200" stop="20190123220000 +0200" channel="DMC DRAMA">
     <title lang="ar">أين قلبي</title>
-    <desc lang="ar">تدورالأحداث حول المهندسة (فاتن) والتي توفي زوجها وترك لها ابنه وابن (فرح وتامر)، ويقيم معها أيضاً والدها، يلاحقها شقيق زوجها ويطلب منها الزواج مما يسبب لها العديد من المشاكل، بالإضافة إلى مشاكل ابنائها، فهل ستنجح فاتن في السيطرة على حياتها؟.(n)</desc>
+    <desc lang="ar">تدورالأحداث حول المهندسة (فاتن) والتي توفي زوجها وترك لها ابنه وابن (فرح وتامر)، ويقيم معها أيضاً والدها، يلاحقها شقيق زوجها ويطلب منها الزواج مما يسبب لها العديد من المشاكل، بالإضافة إلى مشاكل ابنائها، فهل ستنجح فاتن في السيطرة على حياتها؟.</desc>
     <credits>
       <director>مجدي أبو عميرة</director>
       <director>أمير شاكر</director>
@@ -11071,7 +11125,7 @@
   </programme>
   <programme start="20190123220000 +0200" stop="20190123230000 +0200" channel="DMC DRAMA">
     <title lang="ar">الضوء الشارد</title>
-    <desc lang="ar">تدور القصة حول الصراع الطبقي بين طبقة الإقطاعين القدامى متمثلة في عائلة العزايزه وطبقة الملاك الجدد متمثلة في عائلة السوالم الذين كانوا أجراء فيما مضى، ويلجأ السوالم لطرق غير شرعية للحصول على المال لمنافسة العزايزه على كرسي مجلس الشعب الذي كان حكراً على العزايزة.(n)</desc>
+    <desc lang="ar">تدور القصة حول الصراع الطبقي بين طبقة الإقطاعين القدامى متمثلة في عائلة العزايزه وطبقة الملاك الجدد متمثلة في عائلة السوالم الذين كانوا أجراء فيما مضى، ويلجأ السوالم لطرق غير شرعية للحصول على المال لمنافسة العزايزه على كرسي مجلس الشعب الذي كان حكراً على العزايزة.</desc>
     <credits>
       <director>مجدي أبو عميرة</director>
       <director>شيرين عادل</director>
@@ -11094,7 +11148,7 @@
   </programme>
   <programme start="20190123230000 +0200" stop="20190124000000 +0200" channel="DMC DRAMA">
     <title lang="ar">المال والبنون (ج1)</title>
-    <desc lang="ar">تدور قصة المسلسل حول سلامة فراويلة يعيش في رفاهية مع أولاده بينما عباس الضو يسكن في غرفة فوق السطح، يوسف ابن عباس يريد الزواج من فريـال ابنة سلامة لكنهما يصطدمان برفض العائلة رغم الصداقة القوية بين عباس وسلامة، يكتشف يوسف أن والده وسلامة كانا يعملان لدى خواجة جمع ثروته من تهريبه للآثار خارج مصر، بعد موت الخواجة، يأخذ سلامة الأموال بينما عباس يمتنع ويحاول أن يبعد أبناءه عن أبناء سلامة.(n)</desc>
+    <desc lang="ar">تدور قصة المسلسل حول سلامة فراويلة يعيش في رفاهية مع أولاده بينما عباس الضو يسكن في غرفة فوق السطح، يوسف ابن عباس يريد الزواج من فريـال ابنة سلامة لكنهما يصطدمان برفض العائلة رغم الصداقة القوية بين عباس وسلامة، يكتشف يوسف أن والده وسلامة كانا يعملان لدى خواجة جمع ثروته من تهريبه للآثار خارج مصر، بعد موت الخواجة، يأخذ سلامة الأموال بينما عباس يمتنع ويحاول أن يبعد أبناءه عن أبناء سلامة.</desc>
     <credits>
       <director>مجدي أبو عميرة</director>
       <director>ثابت محمد ثابت</director>
@@ -12156,7 +12210,7 @@
   </programme>
   <programme start="20190124000000 +0200" stop="20190124010000 +0200" channel="Alhayat Series">
     <title lang="en">Leaabet Eblis (?)</title>
-    <desc lang="en">The series follows two men, portrayed by one actor. One, a a successful entrepreneur, the other, a magician who unites with the devil to fulfill his goals. So what will unite both men.(n)</desc>
+    <desc lang="en">The series follows two men, portrayed by one actor. One, a a successful entrepreneur, the other, a magician who unites with the devil to fulfill his goals. So what will unite both men.</desc>
     <credits>
       <director>Sherif Ismail</director>
       <director>Islam AbdelMuti</director>
@@ -12180,7 +12234,8 @@
   </programme>
   <programme start="20190124010000 +0200" stop="20190124020000 +0200" channel="Alhayat Series">
     <title lang="en">Capable Women (?)</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Ahmed Atef</director>
       <director>Ehab Amr</director>
@@ -12203,7 +12258,7 @@
   </programme>
   <programme start="20190124020000 +0200" stop="20190124030000 +0200" channel="Alhayat Series">
     <title lang="en">Zay El Ward (?)</title>
-    <desc lang="en">The series revolves around "Ali"(actor Youssef El Sherif). He gets Unjustly imprisoned and after going out of jail he finds the woman of his dreams married to another man. He starts over and searches for a job. Afterwards he works for a businessman (Actor Salah Abdallah) and falls in love again with a girl but his social conditions prevents him from marrying her. He gets exposed to many problems and conflicts.(n)</desc>
+    <desc lang="en">The series revolves around "Ali"(actor Youssef El Sherif). He gets Unjustly imprisoned and after going out of jail he finds the woman of his dreams married to another man. He starts over and searches for a job. Afterwards he works for a businessman (Actor Salah Abdallah) and falls in love again with a girl but his social conditions prevents him from marrying her. He gets exposed to many problems and conflicts.</desc>
     <credits>
       <director>Saad Hendawy</director>
       <director>Ahmed Esaa</director>
@@ -12226,7 +12281,8 @@
   </programme>
   <programme start="20190124030000 +0200" stop="20190124040000 +0200" channel="Alhayat Series">
     <title lang="en">Ada el Nahar (?)</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Ismail Abdel-Hafez</director>
       <director>Hossam El Nabawy</director>
@@ -12248,7 +12304,7 @@
   </programme>
   <programme start="20190124040000 +0200" stop="20190124050000 +0200" channel="Alhayat Series">
     <title lang="en">Halet Eshq (?)</title>
-    <desc lang="en">The series follows a love story between a radio show hostess from an aristocratic family who now lives in a slum, and her work mate in the radio channel. But after her mother gets married to a wealthy man who moves the family once again to a high social level, the relationship gets complicated.(n)</desc>
+    <desc lang="en">The series follows a love story between a radio show hostess from an aristocratic family who now lives in a slum, and her work mate in the radio channel. But after her mother gets married to a wealthy man who moves the family once again to a high social level, the relationship gets complicated.</desc>
     <credits>
       <director>Ibrahim Fakhr</director>
       <actor>Mai Ezz-eldin</actor>
@@ -12270,7 +12326,7 @@
   </programme>
   <programme start="20190124050000 +0200" stop="20190124060000 +0200" channel="Alhayat Series">
     <title lang="en">Nona Al Maazona (?)</title>
-    <desc lang="en">A socio-comic TV series which tells the story of a girl (Hanaan Tork) a marriage counselor with all accompanying comic situations. The story covers a number of recent social matters that prevail in Egypt.(n)</desc>
+    <desc lang="en">A socio-comic TV series which tells the story of a girl (Hanaan Tork) a marriage counselor with all accompanying comic situations. The story covers a number of recent social matters that prevail in Egypt.</desc>
     <credits>
       <director>Manal El Seifi</director>
       <director>أنور مؤمن</director>
@@ -12292,7 +12348,7 @@
   </programme>
   <programme start="20190124060000 +0200" stop="20190124070000 +0200" channel="Alhayat Series">
     <title lang="en">Leaabet Eblis (?)</title>
-    <desc lang="en">The series follows two men, portrayed by one actor. One, a a successful entrepreneur, the other, a magician who unites with the devil to fulfill his goals. So what will unite both men.(n)</desc>
+    <desc lang="en">The series follows two men, portrayed by one actor. One, a a successful entrepreneur, the other, a magician who unites with the devil to fulfill his goals. So what will unite both men.</desc>
     <credits>
       <director>Sherif Ismail</director>
       <director>Islam AbdelMuti</director>
@@ -12316,7 +12372,8 @@
   </programme>
   <programme start="20190124070000 +0200" stop="20190124080000 +0200" channel="Alhayat Series">
     <title lang="en">Capable Women (?)</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Ahmed Atef</director>
       <director>Ehab Amr</director>
@@ -12339,7 +12396,7 @@
   </programme>
   <programme start="20190124080000 +0200" stop="20190124090000 +0200" channel="Alhayat Series">
     <title lang="en">Zay El Ward (?)</title>
-    <desc lang="en">The series revolves around "Ali"(actor Youssef El Sherif). He gets Unjustly imprisoned and after going out of jail he finds the woman of his dreams married to another man. He starts over and searches for a job. Afterwards he works for a businessman (Actor Salah Abdallah) and falls in love again with a girl but his social conditions prevents him from marrying her. He gets exposed to many problems and conflicts.(n)</desc>
+    <desc lang="en">The series revolves around "Ali"(actor Youssef El Sherif). He gets Unjustly imprisoned and after going out of jail he finds the woman of his dreams married to another man. He starts over and searches for a job. Afterwards he works for a businessman (Actor Salah Abdallah) and falls in love again with a girl but his social conditions prevents him from marrying her. He gets exposed to many problems and conflicts.</desc>
     <credits>
       <director>Saad Hendawy</director>
       <director>Ahmed Esaa</director>
@@ -12362,7 +12419,8 @@
   </programme>
   <programme start="20190124090000 +0200" stop="20190124100000 +0200" channel="Alhayat Series">
     <title lang="en">Ada el Nahar (?)</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Ismail Abdel-Hafez</director>
       <director>Hossam El Nabawy</director>
@@ -12384,7 +12442,7 @@
   </programme>
   <programme start="20190124100000 +0200" stop="20190124110000 +0200" channel="Alhayat Series">
     <title lang="en">Halet Eshq (?)</title>
-    <desc lang="en">The series follows a love story between a radio show hostess from an aristocratic family who now lives in a slum, and her work mate in the radio channel. But after her mother gets married to a wealthy man who moves the family once again to a high social level, the relationship gets complicated.(n)</desc>
+    <desc lang="en">The series follows a love story between a radio show hostess from an aristocratic family who now lives in a slum, and her work mate in the radio channel. But after her mother gets married to a wealthy man who moves the family once again to a high social level, the relationship gets complicated.</desc>
     <credits>
       <director>Ibrahim Fakhr</director>
       <actor>Mai Ezz-eldin</actor>
@@ -12406,7 +12464,7 @@
   </programme>
   <programme start="20190124110000 +0200" stop="20190124120000 +0200" channel="Alhayat Series">
     <title lang="en">Nona Al Maazona (?)</title>
-    <desc lang="en">A socio-comic TV series which tells the story of a girl (Hanaan Tork) a marriage counselor with all accompanying comic situations. The story covers a number of recent social matters that prevail in Egypt.(n)</desc>
+    <desc lang="en">A socio-comic TV series which tells the story of a girl (Hanaan Tork) a marriage counselor with all accompanying comic situations. The story covers a number of recent social matters that prevail in Egypt.</desc>
     <credits>
       <director>Manal El Seifi</director>
       <director>أنور مؤمن</director>
@@ -12428,7 +12486,7 @@
   </programme>
   <programme start="20190124120000 +0200" stop="20190124130000 +0200" channel="Alhayat Series">
     <title lang="en">Leaabet Eblis (?)</title>
-    <desc lang="en">The series follows two men, portrayed by one actor. One, a a successful entrepreneur, the other, a magician who unites with the devil to fulfill his goals. So what will unite both men.(n)</desc>
+    <desc lang="en">The series follows two men, portrayed by one actor. One, a a successful entrepreneur, the other, a magician who unites with the devil to fulfill his goals. So what will unite both men.</desc>
     <credits>
       <director>Sherif Ismail</director>
       <director>Islam AbdelMuti</director>
@@ -12452,7 +12510,8 @@
   </programme>
   <programme start="20190124130000 +0200" stop="20190124140000 +0200" channel="Alhayat Series">
     <title lang="en">Capable Women (?)</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Ahmed Atef</director>
       <director>Ehab Amr</director>
@@ -12475,7 +12534,7 @@
   </programme>
   <programme start="20190124140000 +0200" stop="20190124150000 +0200" channel="Alhayat Series">
     <title lang="en">Zay El Ward (?)</title>
-    <desc lang="en">The series revolves around "Ali"(actor Youssef El Sherif). He gets Unjustly imprisoned and after going out of jail he finds the woman of his dreams married to another man. He starts over and searches for a job. Afterwards he works for a businessman (Actor Salah Abdallah) and falls in love again with a girl but his social conditions prevents him from marrying her. He gets exposed to many problems and conflicts.(n)</desc>
+    <desc lang="en">The series revolves around "Ali"(actor Youssef El Sherif). He gets Unjustly imprisoned and after going out of jail he finds the woman of his dreams married to another man. He starts over and searches for a job. Afterwards he works for a businessman (Actor Salah Abdallah) and falls in love again with a girl but his social conditions prevents him from marrying her. He gets exposed to many problems and conflicts.</desc>
     <credits>
       <director>Saad Hendawy</director>
       <director>Ahmed Esaa</director>
@@ -12498,7 +12557,8 @@
   </programme>
   <programme start="20190124150000 +0200" stop="20190124160000 +0200" channel="Alhayat Series">
     <title lang="en">Ada el Nahar (?)</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Ismail Abdel-Hafez</director>
       <director>Hossam El Nabawy</director>
@@ -12520,7 +12580,7 @@
   </programme>
   <programme start="20190124160000 +0200" stop="20190124170000 +0200" channel="Alhayat Series">
     <title lang="en">Halet Eshq (?)</title>
-    <desc lang="en">The series follows a love story between a radio show hostess from an aristocratic family who now lives in a slum, and her work mate in the radio channel. But after her mother gets married to a wealthy man who moves the family once again to a high social level, the relationship gets complicated.(n)</desc>
+    <desc lang="en">The series follows a love story between a radio show hostess from an aristocratic family who now lives in a slum, and her work mate in the radio channel. But after her mother gets married to a wealthy man who moves the family once again to a high social level, the relationship gets complicated.</desc>
     <credits>
       <director>Ibrahim Fakhr</director>
       <actor>Mai Ezz-eldin</actor>
@@ -12542,7 +12602,7 @@
   </programme>
   <programme start="20190124170000 +0200" stop="20190124180000 +0200" channel="Alhayat Series">
     <title lang="en">Nona Al Maazona (?)</title>
-    <desc lang="en">A socio-comic TV series which tells the story of a girl (Hanaan Tork) a marriage counselor with all accompanying comic situations. The story covers a number of recent social matters that prevail in Egypt.(n)</desc>
+    <desc lang="en">A socio-comic TV series which tells the story of a girl (Hanaan Tork) a marriage counselor with all accompanying comic situations. The story covers a number of recent social matters that prevail in Egypt.</desc>
     <credits>
       <director>Manal El Seifi</director>
       <director>أنور مؤمن</director>
@@ -12564,7 +12624,7 @@
   </programme>
   <programme start="20190124180000 +0200" stop="20190124190000 +0200" channel="Alhayat Series">
     <title lang="en">Leaabet Eblis (?)</title>
-    <desc lang="en">The series follows two men, portrayed by one actor. One, a a successful entrepreneur, the other, a magician who unites with the devil to fulfill his goals. So what will unite both men.(n)</desc>
+    <desc lang="en">The series follows two men, portrayed by one actor. One, a a successful entrepreneur, the other, a magician who unites with the devil to fulfill his goals. So what will unite both men.</desc>
     <credits>
       <director>Sherif Ismail</director>
       <director>Islam AbdelMuti</director>
@@ -12588,7 +12648,8 @@
   </programme>
   <programme start="20190124190000 +0200" stop="20190124200000 +0200" channel="Alhayat Series">
     <title lang="en">Capable Women (?)</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Ahmed Atef</director>
       <director>Ehab Amr</director>
@@ -12611,7 +12672,7 @@
   </programme>
   <programme start="20190124200000 +0200" stop="20190124210000 +0200" channel="Alhayat Series">
     <title lang="en">Zay El Ward (?)</title>
-    <desc lang="en">The series revolves around "Ali"(actor Youssef El Sherif). He gets Unjustly imprisoned and after going out of jail he finds the woman of his dreams married to another man. He starts over and searches for a job. Afterwards he works for a businessman (Actor Salah Abdallah) and falls in love again with a girl but his social conditions prevents him from marrying her. He gets exposed to many problems and conflicts.(n)</desc>
+    <desc lang="en">The series revolves around "Ali"(actor Youssef El Sherif). He gets Unjustly imprisoned and after going out of jail he finds the woman of his dreams married to another man. He starts over and searches for a job. Afterwards he works for a businessman (Actor Salah Abdallah) and falls in love again with a girl but his social conditions prevents him from marrying her. He gets exposed to many problems and conflicts.</desc>
     <credits>
       <director>Saad Hendawy</director>
       <director>Ahmed Esaa</director>
@@ -12634,7 +12695,8 @@
   </programme>
   <programme start="20190124210000 +0200" stop="20190124220000 +0200" channel="Alhayat Series">
     <title lang="en">Ada el Nahar (?)</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Ismail Abdel-Hafez</director>
       <director>Hossam El Nabawy</director>
@@ -12656,7 +12718,7 @@
   </programme>
   <programme start="20190124220000 +0200" stop="20190124230000 +0200" channel="Alhayat Series">
     <title lang="en">Halet Eshq (?)</title>
-    <desc lang="en">The series follows a love story between a radio show hostess from an aristocratic family who now lives in a slum, and her work mate in the radio channel. But after her mother gets married to a wealthy man who moves the family once again to a high social level, the relationship gets complicated.(n)</desc>
+    <desc lang="en">The series follows a love story between a radio show hostess from an aristocratic family who now lives in a slum, and her work mate in the radio channel. But after her mother gets married to a wealthy man who moves the family once again to a high social level, the relationship gets complicated.</desc>
     <credits>
       <director>Ibrahim Fakhr</director>
       <actor>Mai Ezz-eldin</actor>
@@ -12678,7 +12740,7 @@
   </programme>
   <programme start="20190124230000 +0200" stop="20190125000000 +0200" channel="Alhayat Series">
     <title lang="en">Nona Al Maazona (?)</title>
-    <desc lang="en">A socio-comic TV series which tells the story of a girl (Hanaan Tork) a marriage counselor with all accompanying comic situations. The story covers a number of recent social matters that prevail in Egypt.(n)</desc>
+    <desc lang="en">A socio-comic TV series which tells the story of a girl (Hanaan Tork) a marriage counselor with all accompanying comic situations. The story covers a number of recent social matters that prevail in Egypt.</desc>
     <credits>
       <director>Manal El Seifi</director>
       <director>أنور مؤمن</director>
@@ -12863,7 +12925,7 @@
   </programme>
   <programme start="20190122183000 +0200" stop="20190122200000 +0200" channel="TeN TV">
     <title lang="ar">بالورقة والقلم</title>
-    <desc lang="ar">برنامج سياسي يعمل على تحليل الأوضاع الراهنة في المجتمع.(c)</desc>
+    <desc lang="ar">برنامج سياسي يعمل على تحليل الأوضاع الراهنة في المجتمع.</desc>
     <credits>
       <actor>نشأت الديهي</actor>
     </credits>
@@ -12875,7 +12937,8 @@
   </programme>
   <programme start="20190122200000 +0200" stop="20190122203000 +0200" channel="TeN TV">
     <title lang="ar">البوصلة</title>
-    <desc lang="ar">(c)</desc>
+    <desc lang="ar">
+    </desc>
     <date>2018</date>
     <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
     <rating system="EG">
@@ -12884,7 +12947,7 @@
   </programme>
   <programme start="20190122203000 +0200" stop="20190122213000 +0200" channel="TeN TV">
     <title lang="ar">أفراح القبة</title>
-    <desc lang="ar">داخل إحدى الفرق المسرحية خلال حقبة السبعينيات، يعمل ممثلو الفرقة على المشاركة في مسرحية جديدة تحمل اسم (أفراح القبة)، يكتشف الممثلون أن أحداث المسرحية تدور حول شخصياتهم الحقيقية في كواليس المسرح، وأن مؤلف المسرحية يعرض أمامهم أسرارهم المشينة التي حدثت بالماضي. يسعى الممثلون لإيقاف هذه المسرحية الفاضحة لهم، لكن مالك الفريق يُصر على استكمال العمل لكي يتطهر من آثام الماضي، ويجد الممثلون أنفسهم مجبرين على الاستمرار في تمثيل أدوارهم الحقيقية.(c)</desc>
+    <desc lang="ar">داخل إحدى الفرق المسرحية خلال حقبة السبعينيات، يعمل ممثلو الفرقة على المشاركة في مسرحية جديدة تحمل اسم (أفراح القبة)، يكتشف الممثلون أن أحداث المسرحية تدور حول شخصياتهم الحقيقية في كواليس المسرح، وأن مؤلف المسرحية يعرض أمامهم أسرارهم المشينة التي حدثت بالماضي. يسعى الممثلون لإيقاف هذه المسرحية الفاضحة لهم، لكن مالك الفريق يُصر على استكمال العمل لكي يتطهر من آثام الماضي، ويجد الممثلون أنفسهم مجبرين على الاستمرار في تمثيل أدوارهم الحقيقية.</desc>
     <credits>
       <director>محمد ياسين</director>
       <director>محمد عبدالرحمن حماقي</director>
@@ -12907,7 +12970,7 @@
   </programme>
   <programme start="20190122213000 +0200" stop="20190122230000 +0200" channel="TeN TV">
     <title lang="ar">كلام بنات</title>
-    <desc lang="ar">برنامج اجتماعي جديد موجه للمرأة المصرية والعربية بشكل موسع، يعرض العديد من القضايا التي تمس المجتمع بشكل عام والمرأة بشكل خاص.(c)</desc>
+    <desc lang="ar">برنامج اجتماعي جديد موجه للمرأة المصرية والعربية بشكل موسع، يعرض العديد من القضايا التي تمس المجتمع بشكل عام والمرأة بشكل خاص.</desc>
     <date>2018</date>
     <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
   </programme>
