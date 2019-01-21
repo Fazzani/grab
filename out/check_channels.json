@@ -10,7 +10,7 @@
 					"lang": "ar",
 					"$t": "MBC 3"
 				},
-				"url": "http://www.elcinema.com"
+				"url": "http://www.elcinema.ar.com"
 			},
 			{
 				"id": "MBC",
@@ -19,7 +19,7 @@
 					"lang": "ar",
 					"$t": "MBC"
 				},
-				"url": "http://www.elcinema.com"
+				"url": "http://www.elcinema.ar.com"
 			},
 			{
 				"id": "MBC MAX",
@@ -28,7 +28,7 @@
 					"lang": "ar",
 					"$t": "MBC MAX"
 				},
-				"url": "http://www.elcinema.com"
+				"url": "http://www.elcinema.ar.com"
 			},
 			{
 				"id": "MBC Action",
@@ -37,7 +37,7 @@
 					"lang": "ar",
 					"$t": "MBC Action"
 				},
-				"url": "http://www.elcinema.com"
+				"url": "http://www.elcinema.ar.com"
 			},
 			{
 				"id": "MBC 2",
@@ -46,7 +46,7 @@
 					"lang": "ar",
 					"$t": "MBC 2"
 				},
-				"url": "http://www.elcinema.com"
+				"url": "http://www.elcinema.ar.com"
 			},
 			{
 				"id": "MBC 4",
@@ -55,7 +55,7 @@
 					"lang": "ar",
 					"$t": "MBC 4"
 				},
-				"url": "http://www.elcinema.com"
+				"url": "http://www.elcinema.ar.com"
 			},
 			{
 				"id": "MBC Bollywood",
@@ -64,7 +64,7 @@
 					"lang": "ar",
 					"$t": "MBC Bollywood"
 				},
-				"url": "http://www.elcinema.com"
+				"url": "http://www.elcinema.ar.com"
 			},
 			{
 				"id": "MBC Drama +",
@@ -73,7 +73,7 @@
 					"lang": "ar",
 					"$t": "MBC Drama +"
 				},
-				"url": "http://www.elcinema.com"
+				"url": "http://www.elcinema.ar.com"
 			},
 			{
 				"id": "MBC MASR 2",
@@ -82,7 +82,7 @@
 					"lang": "ar",
 					"$t": "MBC MASR 2"
 				},
-				"url": "http://www.elcinema.com"
+				"url": "http://www.elcinema.ar.com"
 			},
 			{
 				"id": "MBC Drama",
@@ -91,7 +91,7 @@
 					"lang": "ar",
 					"$t": "MBC Drama"
 				},
-				"url": "http://www.elcinema.com"
+				"url": "http://www.elcinema.ar.com"
 			},
 			{
 				"id": "MBC Egypt",
@@ -100,7 +100,7 @@
 					"lang": "ar",
 					"$t": "MBC Egypt"
 				},
-				"url": "http://www.elcinema.com"
+				"url": "http://www.elcinema.ar.com"
 			},
 			{
 				"id": "Emirates",
@@ -109,7 +109,7 @@
 					"lang": "ar",
 					"$t": "Emirates"
 				},
-				"url": "http://www.elcinema.com"
+				"url": "http://www.elcinema.ar.com"
 			},
 			{
 				"id": "Hawass",
@@ -118,7 +118,7 @@
 					"lang": "ar",
 					"$t": "Hawass"
 				},
-				"url": "http://www.elcinema.com"
+				"url": "http://www.elcinema.ar.com"
 			},
 			{
 				"id": "Dubai TV",
@@ -127,7 +127,7 @@
 					"lang": "ar",
 					"$t": "Dubai TV"
 				},
-				"url": "http://www.elcinema.com"
+				"url": "http://www.elcinema.ar.com"
 			},
 			{
 				"id": "Future TV",
@@ -136,7 +136,7 @@
 					"lang": "ar",
 					"$t": "Future TV"
 				},
-				"url": "http://www.elcinema.com"
+				"url": "http://www.elcinema.ar.com"
 			},
 			{
 				"id": "LBC Europe",
@@ -145,7 +145,7 @@
 					"lang": "ar",
 					"$t": "LBC Europe"
 				},
-				"url": "http://www.elcinema.com"
+				"url": "http://www.elcinema.ar.com"
 			},
 			{
 				"id": "Alsumaria",
@@ -154,7 +154,7 @@
 					"lang": "ar",
 					"$t": "Alsumaria"
 				},
-				"url": "http://www.elcinema.com"
+				"url": "http://www.elcinema.ar.com"
 			},
 			{
 				"id": "LBCI",
@@ -163,7 +163,7 @@
 					"lang": "ar",
 					"$t": "LBCI"
 				},
-				"url": "http://www.elcinema.com"
+				"url": "http://www.elcinema.ar.com"
 			},
 			{
 				"id": "Watania 1",
@@ -1255,9 +1255,6 @@
 					"lang": "en",
 					"$t": "AD Sports 5 HD"
 				},
-				"icon": {
-					"src": "http://content.osn.com/logo/channel/cropped/AD5.png"
-				},
 				"url": "http://www.osn.com"
 			},
 			{
@@ -1266,9 +1263,6 @@
 				"display-name": {
 					"lang": "en",
 					"$t": "AD Sports 6 HD"
-				},
-				"icon": {
-					"src": "http://content.osn.com/logo/channel/cropped/AD6.png"
 				},
 				"url": "http://www.osn.com"
 			},
@@ -1279,9 +1273,6 @@
 					"lang": "en",
 					"$t": "Edge Sport HD"
 				},
-				"icon": {
-					"src": "http://content.osn.com/logo/channel/cropped/AD7.png"
-				},
 				"url": "http://www.osn.com"
 			},
 			{
@@ -1290,9 +1281,6 @@
 				"display-name": {
 					"lang": "en",
 					"$t": "Dubai Sports 4 HD"
-				},
-				"icon": {
-					"src": "http://content.osn.com/logo/channel/cropped/DS5.png"
 				},
 				"url": "http://www.osn.com"
 			},
@@ -1303,9 +1291,6 @@
 					"lang": "en",
 					"$t": "Dubai Sports 2 HD"
 				},
-				"icon": {
-					"src": "http://content.osn.com/logo/channel/cropped/DH2.png"
-				},
 				"url": "http://www.osn.com"
 			},
 			{
@@ -1314,9 +1299,6 @@
 				"display-name": {
 					"lang": "en",
 					"$t": "TFC"
-				},
-				"icon": {
-					"src": "http://content.osn.com/logo/channel/cropped/TFC.png"
 				},
 				"url": "http://www.osn.com"
 			},
@@ -1327,9 +1309,6 @@
 					"lang": "en",
 					"$t": "ABS CBN Sports+ Action"
 				},
-				"icon": {
-					"src": "http://content.osn.com/logo/channel/cropped/BRO.png"
-				},
 				"url": "http://www.osn.com"
 			},
 			{
@@ -1338,9 +1317,6 @@
 				"display-name": {
 					"lang": "en",
 					"$t": "Cinema One Global"
-				},
-				"icon": {
-					"src": "http://content.osn.com/logo/channel/cropped/COG.png"
 				},
 				"url": "http://www.osn.com"
 			},
@@ -1351,9 +1327,6 @@
 					"lang": "en",
 					"$t": "ANC"
 				},
-				"icon": {
-					"src": "http://content.osn.com/logo/channel/cropped/ANC.png"
-				},
 				"url": "http://www.osn.com"
 			},
 			{
@@ -1362,9 +1335,6 @@
 				"display-name": {
 					"lang": "en",
 					"$t": "DZMM Teleradyo"
-				},
-				"icon": {
-					"src": "http://content.osn.com/logo/channel/cropped/DZM.png"
 				},
 				"url": "http://www.osn.com"
 			},
@@ -1375,9 +1345,6 @@
 					"lang": "en",
 					"$t": "DWRR 101.9"
 				},
-				"icon": {
-					"src": "http://content.osn.com/logo/channel/cropped/DWR.png"
-				},
 				"url": "http://www.osn.com"
 			},
 			{
@@ -1386,9 +1353,6 @@
 				"display-name": {
 					"lang": "en",
 					"$t": "Viva TV"
-				},
-				"icon": {
-					"src": "http://content.osn.com/logo/channel/cropped/VIV.png"
 				},
 				"url": "http://www.osn.com"
 			},
@@ -1399,9 +1363,6 @@
 					"lang": "en",
 					"$t": "Kapatid TV5"
 				},
-				"icon": {
-					"src": "http://content.osn.com/logo/channel/cropped/TV5.png"
-				},
 				"url": "http://www.osn.com"
 			},
 			{
@@ -1410,9 +1371,6 @@
 				"display-name": {
 					"lang": "en",
 					"$t": "Aksyon TV"
-				},
-				"icon": {
-					"src": "http://content.osn.com/logo/channel/cropped/AKS.png"
 				},
 				"url": "http://www.osn.com"
 			},
@@ -1423,9 +1381,6 @@
 					"lang": "en",
 					"$t": "Disney Junior"
 				},
-				"icon": {
-					"src": "http://content.osn.com/logo/channel/cropped/DJR.png"
-				},
 				"url": "http://www.osn.com"
 			},
 			{
@@ -1434,9 +1389,6 @@
 				"display-name": {
 					"lang": "en",
 					"$t": "NickToons"
-				},
-				"icon": {
-					"src": "http://content.osn.com/logo/channel/cropped/NKT.png"
 				},
 				"url": "http://www.osn.com"
 			},
