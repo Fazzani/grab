@@ -9,7 +9,7 @@
   <retry time-out="15">1</retry>
   <skip>12,5</skip>
   <timespan>1</timespan>
-  <update>f</update>
+  <update>i</update>
    
     <channel update="i" site="elcinema.en.com" site_id="1321" xmltv_id="almanar">almanar</channel>
     <channel update="i" site="elcinema.en.com" site_id="1226" xmltv_id="Sada El Balad">Sada El Balad</channel>
