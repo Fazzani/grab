@@ -9,7 +9,7 @@
   <retry time-out="15">1</retry>
   <skip>12,5</skip>
   <timespan>1</timespan>
-  <update>f</update>
+  <update>i</update>
   
     <channel update="i" site="elcinema.en.com" site_id="1241" xmltv_id="MBC 3">MBC 3</channel>
     <channel update="i" site="elcinema.en.com" site_id="1127" xmltv_id="MBC">MBC</channel>
