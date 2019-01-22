@@ -885,7 +885,7 @@ Le hasard veut que Blake Newman, grand photographe conceptuel qui déshabille le
     <title lang="fr">Bienvenue à l'hôtel (?)</title>
     <category lang="fr">Téléréalité</category>
   </programme>
-  <programme start="20190123130000 +0100" stop="20190123133000 +0100" channel="La Deux">
+  <programme start="20190123130000 +0100" stop="20190123132500 +0100" channel="La Deux">
     <title lang="fr">Plus belle la vie (?)</title>
     <credits>
       <director>Jean-Pierre Igoux</director>
@@ -903,7 +903,7 @@ Le hasard veut que Blake Newman, grand photographe conceptuel qui déshabille le
     </credits>
     <category lang="fr">Feuilleton réaliste</category>
   </programme>
-  <programme start="20190123133000 +0100" stop="20190123135500 +0100" channel="La Deux">
+  <programme start="20190123132500 +0100" stop="20190123135500 +0100" channel="La Deux">
     <title lang="fr">Plus belle la vie (?)</title>
     <credits>
       <director>Jean-Pierre Igoux</director>
@@ -1022,17 +1022,9 @@ Le hasard veut que Blake Newman, grand photographe conceptuel qui déshabille le
     <title lang="fr">Burger Quiz</title>
     <category lang="fr">Jeu</category>
   </programme>
-  <programme start="20190123221000 +0100" stop="20190123221500 +0100" channel="La Deux">
-    <title lang="fr">Palmashow (?)</title>
+  <programme start="20190123221000 +0100" stop="20190123222600 +0100" channel="La Deux">
+    <title lang="fr">Le meilleur de l'humour express (?)</title>
     <category lang="fr">Divertissement-humour</category>
-  </programme>
-  <programme start="20190123221500 +0100" stop="20190123222200 +0100" channel="La Deux">
-    <title lang="fr">Palmashow (?)</title>
-    <category lang="fr">Divertissement-humour</category>
-  </programme>
-  <programme start="20190123222200 +0100" stop="20190123222600 +0100" channel="La Deux">
-    <title lang="fr">Météo</title>
-    <category lang="fr">Météo</category>
   </programme>
   <programme start="20190123222600 +0100" stop="20190123223000 +0100" channel="La Deux">
     <title lang="fr">Keno</title>
@@ -1046,9 +1038,13 @@ Le hasard veut que Blake Newman, grand photographe conceptuel qui déshabille le
     </credits>
     <category lang="fr">Magazine d'actualité</category>
   </programme>
-  <programme start="20190123225800 +0100" stop="20190123230000 +0100" channel="La Deux">
+  <programme start="20190123225800 +0100" stop="20190123225900 +0100" channel="La Deux">
     <title lang="fr">Rapports Lotto-Joker</title>
     <category lang="fr">Loterie</category>
+  </programme>
+  <programme start="20190123225900 +0100" stop="20190123230000 +0100" channel="La Deux">
+    <title lang="fr">Météo</title>
+    <category lang="fr">Météo</category>
   </programme>
   <programme start="20190123230000 +0100" stop="20190123232500 +0100" channel="La Deux">
     <title lang="fr">D6BELS on Stage (?)</title>
@@ -1082,7 +1078,67 @@ Le hasard veut que Blake Newman, grand photographe conceptuel qui déshabille le
     </credits>
     <category lang="fr">Divertissement</category>
   </programme>
-  <programme start="20190124004500 +0100" stop="20190124010500 +0100" channel="La Deux">
+  <programme start="20190124004500 +0100" stop="20190124011000 +0100" channel="La Deux">
+    <title lang="fr">Le meilleur de l'humour express (?)</title>
+    <category lang="fr">Divertissement-humour</category>
+  </programme>
+  <programme start="20190124011000 +0100" stop="20190124013500 +0100" channel="La Deux">
+    <title lang="fr">Vews</title>
+    <category lang="fr">Magazine d'actualité</category>
+  </programme>
+  <programme start="20190124013500 +0100" stop="20190124014000 +0100" channel="La Deux">
+    <title lang="fr">Météo</title>
+    <category lang="fr">Météo</category>
+  </programme>
+  <programme start="20190124014000 +0100" stop="20190124020000 +0100" channel="La Deux">
+    <title lang="fr">20:02 (?)</title>
+    <credits>
+      <presenter>Adrien Devyver</presenter>
+      <presenter>Bénédicte Deprez</presenter>
+    </credits>
+    <category lang="fr">Divertissement</category>
+  </programme>
+  <programme start="20190124020000 +0100" stop="20190124022500 +0100" channel="La Deux">
+    <title lang="fr">Le meilleur de l'humour express (?)</title>
+    <category lang="fr">Divertissement-humour</category>
+  </programme>
+  <programme start="20190124022500 +0100" stop="20190124025000 +0100" channel="La Deux">
+    <title lang="fr">Vews</title>
+    <category lang="fr">Magazine d'actualité</category>
+  </programme>
+  <programme start="20190124025000 +0100" stop="20190124025500 +0100" channel="La Deux">
+    <title lang="fr">Météo</title>
+    <category lang="fr">Météo</category>
+  </programme>
+  <programme start="20190124025500 +0100" stop="20190124031500 +0100" channel="La Deux">
+    <title lang="fr">20:02 (?)</title>
+    <credits>
+      <presenter>Adrien Devyver</presenter>
+      <presenter>Bénédicte Deprez</presenter>
+    </credits>
+    <category lang="fr">Divertissement</category>
+  </programme>
+  <programme start="20190124031500 +0100" stop="20190124034000 +0100" channel="La Deux">
+    <title lang="fr">Le meilleur de l'humour express (?)</title>
+    <category lang="fr">Divertissement-humour</category>
+  </programme>
+  <programme start="20190124034000 +0100" stop="20190124040500 +0100" channel="La Deux">
+    <title lang="fr">Vews</title>
+    <category lang="fr">Magazine d'actualité</category>
+  </programme>
+  <programme start="20190124040500 +0100" stop="20190124041000 +0100" channel="La Deux">
+    <title lang="fr">Météo</title>
+    <category lang="fr">Météo</category>
+  </programme>
+  <programme start="20190124041000 +0100" stop="20190124043000 +0100" channel="La Deux">
+    <title lang="fr">20:02 (?)</title>
+    <credits>
+      <presenter>Adrien Devyver</presenter>
+      <presenter>Bénédicte Deprez</presenter>
+    </credits>
+    <category lang="fr">Divertissement</category>
+  </programme>
+  <programme start="20190124043000 +0100" stop="20190124045500 +0100" channel="La Deux">
     <title lang="fr">Le meilleur de l'humour express (?)</title>
     <category lang="fr">Divertissement-humour</category>
   </programme>
@@ -1455,11 +1511,11 @@ Le hasard veut que Blake Newman, grand photographe conceptuel qui déshabille le
     <title lang="fr">Super 4 (?)</title>
     <category lang="fr">Dessin animé</category>
   </programme>
-  <programme start="20190123072500 +0100" stop="20190123074000 +0100" channel="La Trois">
+  <programme start="20190123072500 +0100" stop="20190123073500 +0100" channel="La Trois">
     <title lang="fr">Super 4 (?)</title>
     <category lang="fr">Dessin animé</category>
   </programme>
-  <programme start="20190123074000 +0100" stop="20190123075000 +0100" channel="La Trois">
+  <programme start="20190123073500 +0100" stop="20190123075000 +0100" channel="La Trois">
     <title lang="fr">Martin Matin (?)</title>
     <category lang="fr">Dessin animé</category>
   </programme>
@@ -1485,22 +1541,17 @@ Le hasard veut que Blake Newman, grand photographe conceptuel qui déshabille le
     <category lang="fr">Dessin animé</category>
   </programme>
   <programme start="20190123085000 +0100" stop="20190123085500 +0100" channel="La Trois">
-    <title lang="fr">Les Niouzz (?)</title>
-    <credits>
-      <presenter>Cécile Bouniton</presenter>
-      <presenter>David Wathelet</presenter>
-      <presenter>Marie Bourguignon</presenter>
-    </credits>
+    <title lang="fr">Les Niouzz</title>
     <category lang="fr">Magazine jeunesse</category>
   </programme>
-  <programme start="20190123085500 +0100" stop="20190123090500 +0100" channel="La Trois">
+  <programme start="20190123085500 +0100" stop="20190123090000 +0100" channel="La Trois">
     <title lang="fr">Si j'étais un animal (?)</title>
     <credits>
       <director>Marie-Claire Javoy</director>
     </credits>
     <category lang="fr">Animalier</category>
   </programme>
-  <programme start="20190123090500 +0100" stop="20190123104000 +0100" channel="La Trois">
+  <programme start="20190123090000 +0100" stop="20190123104000 +0100" channel="La Trois">
     <title lang="fr">Le clan des Lanzac (?)</title>
     <credits>
       <director>Josée Dayan</director>
@@ -1525,7 +1576,7 @@ Le hasard veut que Blake Newman, grand photographe conceptuel qui déshabille le
     </credits>
     <category lang="fr">Magazine de découvertes</category>
   </programme>
-  <programme start="20190123120000 +0100" stop="20190123121300 +0100" channel="La Trois">
+  <programme start="20190123120000 +0100" stop="20190123121000 +0100" channel="La Trois">
     <title lang="fr">Je voudrais devenir... (?)</title>
     <credits>
       <director>Benoit Van Wambeke</director>
@@ -1541,11 +1592,11 @@ Le hasard veut que Blake Newman, grand photographe conceptuel qui déshabille le
     </credits>
     <category lang="fr">Téléfilm d'animation</category>
   </programme>
-  <programme start="20190123155500 +0100" stop="20190123161000 +0100" channel="La Trois">
+  <programme start="20190123155500 +0100" stop="20190123160500 +0100" channel="La Trois">
     <title lang="fr">Alvinnn !!! et les Chipmunks (?)</title>
     <category lang="fr">Dessin animé</category>
   </programme>
-  <programme start="20190123161000 +0100" stop="20190123162000 +0100" channel="La Trois">
+  <programme start="20190123160500 +0100" stop="20190123162000 +0100" channel="La Trois">
     <title lang="fr">Alvinnn !!! et les Chipmunks (?)</title>
     <category lang="fr">Dessin animé</category>
   </programme>
@@ -1553,14 +1604,14 @@ Le hasard veut que Blake Newman, grand photographe conceptuel qui déshabille le
     <title lang="fr">Alvinnn !!! et les Chipmunks (?)</title>
     <category lang="fr">Dessin animé</category>
   </programme>
-  <programme start="20190123163000 +0100" stop="20190123164500 +0100" channel="La Trois">
+  <programme start="20190123163000 +0100" stop="20190123164000 +0100" channel="La Trois">
     <title lang="fr">Robin des Bois (?)</title>
     <credits>
       <director>Sandra Derval</director>
     </credits>
     <category lang="fr">Dessin animé</category>
   </programme>
-  <programme start="20190123164500 +0100" stop="20190123165500 +0100" channel="La Trois">
+  <programme start="20190123164000 +0100" stop="20190123165500 +0100" channel="La Trois">
     <title lang="fr">Robin des Bois (?)</title>
     <credits>
       <director>Sandra Derval</director>
@@ -1568,15 +1619,10 @@ Le hasard veut que Blake Newman, grand photographe conceptuel qui déshabille le
     <category lang="fr">Dessin animé</category>
   </programme>
   <programme start="20190123185500 +0100" stop="20190123190000 +0100" channel="La Trois">
-    <title lang="fr">Les Niouzz (?)</title>
-    <credits>
-      <presenter>Cécile Bouniton</presenter>
-      <presenter>David Wathelet</presenter>
-      <presenter>Marie Bourguignon</presenter>
-    </credits>
+    <title lang="fr">Les Niouzz</title>
     <category lang="fr">Magazine jeunesse</category>
   </programme>
-  <programme start="20190123195000 +0100" stop="20190123195500 +0100" channel="La Trois">
+  <programme start="20190123194500 +0100" stop="20190123195500 +0100" channel="La Trois">
     <title lang="fr">Les Niouzz (traduction gestuelle) (?)</title>
     <credits>
       <presenter>Cécile Bouniton</presenter>
@@ -1637,26 +1683,26 @@ Le hasard veut que Blake Newman, grand photographe conceptuel qui déshabille le
     </credits>
     <category lang="fr">Magazine de découvertes</category>
   </programme>
-  <programme start="20190124020500 +0100" stop="20190124023900 +0100" channel="La Trois">
-    <title lang="fr">JT traduction gestuelle</title>
+  <programme start="20190124020500 +0100" stop="20190124024000 +0100" channel="La Trois">
+    <title lang="fr">JT traduction gestuelle (?)</title>
     <category lang="fr">Journal</category>
   </programme>
-  <programme start="20190124023900 +0100" stop="20190124024000 +0100" channel="La Trois">
+  <programme start="20190124024000 +0100" stop="20190124024100 +0100" channel="La Trois">
     <title lang="fr">Météo internationale</title>
     <category lang="fr">Météo</category>
   </programme>
-  <programme start="20190124024000 +0100" stop="20190124034000 +0100" channel="La Trois">
+  <programme start="20190124024100 +0100" stop="20190124034500 +0100" channel="La Trois">
     <title lang="fr">Zoom arrière (?)</title>
     <credits>
       <presenter>Elodie de Sélys</presenter>
     </credits>
     <category lang="fr">Magazine de découvertes</category>
   </programme>
-  <programme start="20190124034000 +0100" stop="20190124041800 +0100" channel="La Trois">
+  <programme start="20190124034500 +0100" stop="20190124041900 +0100" channel="La Trois">
     <title lang="fr">JT traduction gestuelle</title>
     <category lang="fr">Journal</category>
   </programme>
-  <programme start="20190124041800 +0100" stop="20190124042000 +0100" channel="La Trois">
+  <programme start="20190124041900 +0100" stop="20190124042000 +0100" channel="La Trois">
     <title lang="fr">Météo internationale</title>
     <category lang="fr">Météo</category>
   </programme>
@@ -1855,11 +1901,11 @@ Le hasard veut que Blake Newman, grand photographe conceptuel qui déshabille le
     </credits>
     <category lang="fr">Magazine du consommateur</category>
   </programme>
-  <programme start="20190123115000 +0100" stop="20190123115100 +0100" channel="La Une">
+  <programme start="20190123115000 +0100" stop="20190123115500 +0100" channel="La Une">
     <title lang="fr">Air de familles</title>
     <category lang="fr">Magazine de société</category>
   </programme>
-  <programme start="20190123115100 +0100" stop="20190123123700 +0100" channel="La Une">
+  <programme start="20190123115500 +0100" stop="20190123123800 +0100" channel="La Une">
     <title lang="fr">Les feux de l'amour (?)</title>
     <credits>
       <actor>Michelle Stafford</actor>
@@ -1872,7 +1918,7 @@ Le hasard veut que Blake Newman, grand photographe conceptuel qui déshabille le
     </credits>
     <category lang="fr">Feuilleton sentimental</category>
   </programme>
-  <programme start="20190123123700 +0100" stop="20190123124200 +0100" channel="La Une">
+  <programme start="20190123123800 +0100" stop="20190123124200 +0100" channel="La Une">
     <title lang="fr">Rapports Euro millions (?)</title>
     <category lang="fr">Loterie</category>
   </programme>
@@ -1892,18 +1938,18 @@ Le hasard veut que Blake Newman, grand photographe conceptuel qui déshabille le
     <title lang="fr">JT 13h</title>
     <category lang="fr">Journal</category>
   </programme>
-  <programme start="20190123133000 +0100" stop="20190123133500 +0100" channel="La Une">
+  <programme start="20190123133000 +0100" stop="20190123134000 +0100" channel="La Une">
     <title lang="fr">Météo</title>
     <category lang="fr">Météo</category>
   </programme>
-  <programme start="20190123133500 +0100" stop="20190123142500 +0100" channel="La Une">
+  <programme start="20190123134000 +0100" stop="20190123143000 +0100" channel="La Une">
     <title lang="fr">Affaire conclue (?)</title>
     <credits>
       <presenter>Sophie Davant</presenter>
     </credits>
     <category lang="fr">Magazine de l'art de vivre</category>
   </programme>
-  <programme start="20190123161000 +0100" stop="20190123165500 +0100" channel="La Une">
+  <programme start="20190123160000 +0100" stop="20190123165500 +0100" channel="La Une">
     <title lang="fr">Tout le monde veut prendre sa place</title>
     <category lang="fr">Jeu</category>
   </programme>
@@ -1931,15 +1977,15 @@ Le hasard veut que Blake Newman, grand photographe conceptuel qui déshabille le
     <title lang="fr">Météo</title>
     <category lang="fr">Météo</category>
   </programme>
-  <programme start="20190123193000 +0100" stop="20190123200500 +0100" channel="La Une">
+  <programme start="20190123193000 +0100" stop="20190123201000 +0100" channel="La Une">
     <title lang="fr">JT 19h30</title>
     <category lang="fr">Journal</category>
   </programme>
-  <programme start="20190123200500 +0100" stop="20190123201000 +0100" channel="La Une">
+  <programme start="20190123201000 +0100" stop="20190123201500 +0100" channel="La Une">
     <title lang="fr">Tirage Lotto-Joker (?)</title>
     <category lang="fr">Loterie</category>
   </programme>
-  <programme start="20190123201000 +0100" stop="20190123202000 +0100" channel="La Une">
+  <programme start="20190123201500 +0100" stop="20190123202000 +0100" channel="La Une">
     <title lang="fr">Météo</title>
     <category lang="fr">Météo</category>
   </programme>
@@ -1984,19 +2030,19 @@ Le hasard veut que Blake Newman, grand photographe conceptuel qui déshabille le
     <title lang="fr">VivaCité Matin</title>
     <category lang="fr">Magazine de services</category>
   </programme>
-  <programme start="20190122122500 +0100" stop="20190122162500 +0100" channel="VOOsport World 1">
+  <programme start="20190122121500 +0100" stop="20190122162000 +0100" channel="VOOsport World 1">
     <title lang="fr">Golf (?)</title>
     <category lang="fr">Golf</category>
   </programme>
-  <programme start="20190122162500 +0100" stop="20190122181500 +0100" channel="VOOsport World 1">
+  <programme start="20190122162000 +0100" stop="20190122181000 +0100" channel="VOOsport World 1">
     <title lang="fr">L'Europe des 11 (?)</title>
     <category lang="fr">Football</category>
   </programme>
-  <programme start="20190122181500 +0100" stop="20190122202000 +0100" channel="VOOsport World 1">
+  <programme start="20190122181000 +0100" stop="20190122201500 +0100" channel="VOOsport World 1">
     <title lang="fr">Football (?)</title>
     <category lang="fr">Football</category>
   </programme>
-  <programme start="20190122202000 +0100" stop="20190122204500 +0100" channel="VOOsport World 1">
+  <programme start="20190122201500 +0100" stop="20190122204500 +0100" channel="VOOsport World 1">
     <title lang="fr">Euroligue : The Journey (?)</title>
     <category lang="fr">Basket-ball</category>
   </programme>
