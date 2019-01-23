@@ -7,24 +7,24 @@
 
 |Icon|Channel|Site|
 |:----|:---:|:---:|
-|![icon]()|MBC 3|http://www.elcinema.ar.com|
-|![icon]()|MBC|http://www.elcinema.ar.com|
-|![icon]()|MBC MAX|http://www.elcinema.ar.com|
-|![icon]()|MBC Action|http://www.elcinema.ar.com|
-|![icon]()|MBC 2|http://www.elcinema.ar.com|
-|![icon]()|MBC 4|http://www.elcinema.ar.com|
-|![icon]()|MBC Bollywood|http://www.elcinema.ar.com|
-|![icon]()|MBC Drama +|http://www.elcinema.ar.com|
-|![icon]()|MBC MASR 2|http://www.elcinema.ar.com|
-|![icon]()|MBC Drama|http://www.elcinema.ar.com|
-|![icon]()|MBC Egypt|http://www.elcinema.ar.com|
-|![icon]()|Emirates|http://www.elcinema.ar.com|
-|![icon]()|Hawass|http://www.elcinema.ar.com|
-|![icon]()|Dubai TV|http://www.elcinema.ar.com|
-|![icon]()|Future TV|http://www.elcinema.ar.com|
-|![icon]()|LBC Europe|http://www.elcinema.ar.com|
-|![icon]()|Alsumaria|http://www.elcinema.ar.com|
-|![icon]()|LBCI|http://www.elcinema.ar.com|
+|![icon]()|MBC 3|http://www.elcinema.com|
+|![icon]()|MBC|http://www.elcinema.com|
+|![icon]()|MBC MAX|http://www.elcinema.com|
+|![icon]()|MBC Action|http://www.elcinema.com|
+|![icon]()|MBC 2|http://www.elcinema.com|
+|![icon]()|MBC 4|http://www.elcinema.com|
+|![icon]()|MBC Bollywood|http://www.elcinema.com|
+|![icon]()|MBC Drama +|http://www.elcinema.com|
+|![icon]()|MBC MASR 2|http://www.elcinema.com|
+|![icon]()|MBC Drama|http://www.elcinema.com|
+|![icon]()|MBC Egypt|http://www.elcinema.com|
+|![icon]()|Emirates|http://www.elcinema.com|
+|![icon]()|Hawass|http://www.elcinema.com|
+|![icon]()|Dubai TV|http://www.elcinema.com|
+|![icon]()|Future TV|http://www.elcinema.com|
+|![icon]()|LBC Europe|http://www.elcinema.com|
+|![icon]()|Alsumaria|http://www.elcinema.com|
+|![icon]()|LBCI|http://www.elcinema.com|
 |![icon](http://www.watania1.tn/sites/default/files/main_logo_watania1_0.png)|Watania 1|http://www.watania.tn|
 |![icon](http://www.watania2.tn/sites/default/files/main_logo_watania2_0.png)|Watania 2|http://www.watania.tn|
 |![icon](http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg)|HD1|http://www.bein.net|
@@ -121,22 +121,22 @@
 |![icon]()|Fan|http://www.elcinema.com|
 |![icon](http://content.osn.com/logo/channel/cropped/AD3.png)|AD Sports 3 HD|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/AD4.png)|AD Sports 4 HD|http://www.osn.com|
-|![icon]()|AD Sports 5 HD|http://www.osn.com|
-|![icon]()|AD Sports 6 HD|http://www.osn.com|
-|![icon]()|Edge Sport HD|http://www.osn.com|
-|![icon]()|Dubai Sports 4 HD|http://www.osn.com|
-|![icon]()|Dubai Sports 2 HD|http://www.osn.com|
-|![icon]()|TFC|http://www.osn.com|
-|![icon]()|ABS-CBN Sports+Action|http://www.osn.com|
-|![icon]()|Cinema One Global|http://www.osn.com|
-|![icon]()|ANC|http://www.osn.com|
-|![icon]()|DZMM Teleradyo|http://www.osn.com|
-|![icon]()|DWRR 101.9|http://www.osn.com|
-|![icon]()|Viva TV|http://www.osn.com|
-|![icon]()|Kapatid TV5|http://www.osn.com|
-|![icon]()|Aksyon TV|http://www.osn.com|
-|![icon]()|Disney Junior|http://www.osn.com|
-|![icon]()|NickToons|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/AD5.png)|AD Sports 5 HD|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/AD6.png)|AD Sports 6 HD|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/AD7.png)|Edge Sport HD|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/DS5.png)|Dubai Sports 4 HD|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/DH2.png)|Dubai Sports 2 HD|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/TFC.png)|TFC|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/BRO.png)|ABS-CBN Sports+Action|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/COG.png)|Cinema One Global|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/ANC.png)|ANC|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/DZM.png)|DZMM Teleradyo|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/DWR.png)|DWRR 101.9|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/VIV.png)|Viva TV|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/TV5.png)|Kapatid TV5|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/AKS.png)|Aksyon TV|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/DJR.png)|Disney Junior|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/NKT.png)|NickToons|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/SCI.png)|Discovery Science HD|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/DCX.png)|IDX HD|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/CAI.png)|Crime \\u0026 Investigation Network|http://www.osn.com|
