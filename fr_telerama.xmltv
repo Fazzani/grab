@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.5 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="MTV Rocks">
     <display-name lang="fr">MTV Rocks</display-name>
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png" />
@@ -70,22 +70,6 @@
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png" />
     <url>http://www.telerama.fr</url>
   </channel>
-  <programme start="20190123070000 +0100" stop="20190123150000 +0100" channel="MTV Rocks">
-    <title lang="fr">Biggest ! Hottest ! Loudest !</title>
-    <category lang="fr">Clips</category>
-  </programme>
-  <programme start="20190123150000 +0100" stop="20190123170000 +0100" channel="MTV Rocks">
-    <title lang="fr">100% Anthems !</title>
-    <category lang="fr">Clips</category>
-  </programme>
-  <programme start="20190123170000 +0100" stop="20190123220000 +0100" channel="MTV Rocks">
-    <title lang="fr">Rocks Rated !</title>
-    <category lang="fr">Clips</category>
-  </programme>
-  <programme start="20190123220000 +0100" stop="20190124040000 +0100" channel="MTV Rocks">
-    <title lang="fr">All Night Session</title>
-    <category lang="fr">Clips</category>
-  </programme>
   <programme start="20190124070000 +0100" stop="20190124150000 +0100" channel="MTV Rocks">
     <title lang="fr">Biggest ! Hottest ! Loudest !</title>
     <category lang="fr">Clips</category>
@@ -102,44 +86,20 @@
     <title lang="fr">All Night Session</title>
     <category lang="fr">Clips</category>
   </programme>
-  <programme start="20190123010000 +0100" stop="20190123050000 +0100" channel="MTV Base">
-    <title lang="fr">Super Base Beats</title>
+  <programme start="20190125070000 +0100" stop="20190125150000 +0100" channel="MTV Rocks">
+    <title lang="fr">Biggest ! Hottest ! Loudest !</title>
     <category lang="fr">Clips</category>
   </programme>
-  <programme start="20190123070000 +0100" stop="20190123110000 +0100" channel="MTV Base">
-    <title lang="fr">Super Base Beats</title>
+  <programme start="20190125150000 +0100" stop="20190125170000 +0100" channel="MTV Rocks">
+    <title lang="fr">100% Anthems !</title>
     <category lang="fr">Clips</category>
   </programme>
-  <programme start="20190123110000 +0100" stop="20190123130000 +0100" channel="MTV Base">
-    <title lang="fr">The Official UK Urban Chart</title>
+  <programme start="20190125170000 +0100" stop="20190125220000 +0100" channel="MTV Rocks">
+    <title lang="fr">Rocks Rated !</title>
     <category lang="fr">Clips</category>
   </programme>
-  <programme start="20190123130000 +0100" stop="20190123150000 +0100" channel="MTV Base">
-    <title lang="fr">21 Homegrown Anthems !</title>
-    <category lang="fr">Clips</category>
-  </programme>
-  <programme start="20190123150000 +0100" stop="20190123160000 +0100" channel="MTV Base">
-    <title lang="fr">Nicki Minaj : Chart Champion</title>
-    <category lang="fr">Clips</category>
-  </programme>
-  <programme start="20190123160000 +0100" stop="20190123180000 +0100" channel="MTV Base">
-    <title lang="fr">Super Base Beats</title>
-    <category lang="fr">Clips</category>
-  </programme>
-  <programme start="20190123180000 +0100" stop="20190123200000 +0100" channel="MTV Base">
-    <title lang="fr">The Official UK Urban Chart</title>
-    <category lang="fr">Clips</category>
-  </programme>
-  <programme start="20190123200000 +0100" stop="20190123210000 +0100" channel="MTV Base">
-    <title lang="fr">Sean Paul : Chart Champion</title>
-    <category lang="fr">Clips</category>
-  </programme>
-  <programme start="20190123210000 +0100" stop="20190123230000 +0100" channel="MTV Base">
-    <title lang="fr">Big Beats &amp; Future Hits !</title>
-    <category lang="fr">Clips</category>
-  </programme>
-  <programme start="20190123230000 +0100" stop="20190124010000 +0100" channel="MTV Base">
-    <title lang="fr">The Official UK Urban Chart</title>
+  <programme start="20190125220000 +0100" stop="20190126040000 +0100" channel="MTV Rocks">
+    <title lang="fr">All Night Session</title>
     <category lang="fr">Clips</category>
   </programme>
   <programme start="20190124010000 +0100" stop="20190124050000 +0100" channel="MTV Base">
@@ -186,44 +146,40 @@
     <title lang="fr">Super Base Beats</title>
     <category lang="fr">Clips</category>
   </programme>
-  <programme start="20190123000000 +0100" stop="20190123020000 +0100" channel="NRJ Hits">
-    <title lang="fr">NRJ Hits Mix (?)</title>
+  <programme start="20190125070000 +0100" stop="20190125110000 +0100" channel="MTV Base">
+    <title lang="fr">Super Base Beats</title>
     <category lang="fr">Clips</category>
   </programme>
-  <programme start="20190123020000 +0100" stop="20190123060000 +0100" channel="NRJ Hits">
-    <title lang="fr">French Music Only (?)</title>
+  <programme start="20190125110000 +0100" stop="20190125130000 +0100" channel="MTV Base">
+    <title lang="fr">Gimme Da Light ! Sizzling Dancehall Anthems</title>
     <category lang="fr">Clips</category>
   </programme>
-  <programme start="20190123060000 +0100" stop="20190123090000 +0100" channel="NRJ Hits">
-    <title lang="fr">La tête dans le clip</title>
+  <programme start="20190125130000 +0100" stop="20190125150000 +0100" channel="MTV Base">
+    <title lang="fr">21 Homegrown Anthems !</title>
     <category lang="fr">Clips</category>
   </programme>
-  <programme start="20190123090000 +0100" stop="20190123120000 +0100" channel="NRJ Hits">
-    <title lang="fr">NRJ Morning Hits (?)</title>
+  <programme start="20190125150000 +0100" stop="20190125160000 +0100" channel="MTV Base">
+    <title lang="fr">Sean Paul : Chart Champion</title>
     <category lang="fr">Clips</category>
   </programme>
-  <programme start="20190123120000 +0100" stop="20190123140000 +0100" channel="NRJ Hits">
-    <title lang="fr">Hit Music Only</title>
+  <programme start="20190125160000 +0100" stop="20190125180000 +0100" channel="MTV Base">
+    <title lang="fr">Super Base Beats</title>
     <category lang="fr">Clips</category>
   </programme>
-  <programme start="20190123140000 +0100" stop="20190123160000 +0100" channel="NRJ Hits">
-    <title lang="fr">Hit Music Only</title>
+  <programme start="20190125180000 +0100" stop="20190125200000 +0100" channel="MTV Base">
+    <title lang="fr">Gimme Da Light ! Sizzling Dancehall Anthems</title>
     <category lang="fr">Clips</category>
   </programme>
-  <programme start="20190123160000 +0100" stop="20190123170000 +0100" channel="NRJ Hits">
-    <title lang="fr">Le hit des clips (?)</title>
+  <programme start="20190125200000 +0100" stop="20190126010000 +0100" channel="MTV Base">
+    <title lang="fr">Litness ! UK Party Smashes</title>
     <category lang="fr">Clips</category>
   </programme>
-  <programme start="20190123170000 +0100" stop="20190123200000 +0100" channel="NRJ Hits">
-    <title lang="fr">Spéciale Teen Pop (?)</title>
+  <programme start="20190126010000 +0100" stop="20190126030000 +0100" channel="MTV Base">
+    <title lang="fr">Gimme Da Light ! Sizzling Dancehall Anthems</title>
     <category lang="fr">Clips</category>
   </programme>
-  <programme start="20190123200000 +0100" stop="20190123220000 +0100" channel="NRJ Hits">
-    <title lang="fr">NRJ Hit Music Only (?)</title>
-    <category lang="fr">Clips</category>
-  </programme>
-  <programme start="20190123220000 +0100" stop="20190124000000 +0100" channel="NRJ Hits">
-    <title lang="fr">NRJ Hit Music Only (?)</title>
+  <programme start="20190126030000 +0100" stop="20190126050000 +0100" channel="MTV Base">
+    <title lang="fr">Super Base Beats</title>
     <category lang="fr">Clips</category>
   </programme>
   <programme start="20190124000000 +0100" stop="20190124020000 +0100" channel="NRJ Hits">
@@ -270,60 +226,41 @@
     <title lang="fr">French Music Only (?)</title>
     <category lang="fr">Clips</category>
   </programme>
-  <programme start="20190123004500 +0100" stop="20190123020500 +0100" channel="AB 3">
-    <title lang="fr">Crimes (?)</title>
-    <credits>
-      <presenter>Jean-Marc Morandini</presenter>
-    </credits>
-    <category lang="fr">Magazine de société</category>
+  <programme start="20190125060000 +0100" stop="20190125090000 +0100" channel="NRJ Hits">
+    <title lang="fr">La tête dans le clip</title>
+    <category lang="fr">Clips</category>
   </programme>
-  <programme start="20190123101000 +0100" stop="20190123111000 +0100" channel="AB 3">
-    <title lang="fr">Télé-achat</title>
-    <category lang="fr">Magazine de télé-achat</category>
+  <programme start="20190125090000 +0100" stop="20190125120000 +0100" channel="NRJ Hits">
+    <title lang="fr">NRJ Morning Hits (?)</title>
+    <category lang="fr">Clips</category>
   </programme>
-  <programme start="20190123132500 +0100" stop="20190123133000 +0100" channel="AB 3">
-    <title lang="fr">Météo</title>
-    <category lang="fr">Météo</category>
+  <programme start="20190125120000 +0100" stop="20190125150000 +0100" channel="NRJ Hits">
+    <title lang="fr">Hit Music Only</title>
+    <category lang="fr">Clips</category>
   </programme>
-  <programme start="20190123133000 +0100" stop="20190123145500 +0100" channel="AB 3">
-    <title lang="fr">Le lycée des vanités (?)</title>
-    <credits>
-      <director>Conor Allyn</director>
-      <actor>David Maldonado 
- 
- Stuart</actor>
-      <actor>Jake Allyn 
- 
- Jimmy</actor>
-      <actor>Marguerite Moreau 
- 
- Sheila</actor>
-      <actor>Mary Katherine Duhon 
- 
- Erin</actor>
-      <actor>Sam Chance 
- 
- Taylor</actor>
-      <actor>Taylor Murphy 
- 
- Joanna</actor>
-      <actor>William Tate 
- 
- Aiden</actor>
-    </credits>
-    <category lang="fr">Téléfilm de suspense</category>
+  <programme start="20190125150000 +0100" stop="20190125170000 +0100" channel="NRJ Hits">
+    <title lang="fr">Hit Music Only</title>
+    <category lang="fr">Clips</category>
   </programme>
-  <programme start="20190123200000 +0100" stop="20190123221000 +0100" channel="AB 3">
-    <title lang="fr">En cloque, mode d'emploi</title>
-    <desc lang="fr">Avec ses inséparables copains, Ben mène une existence sans tracas. Refusant de se poser trop de questions sur l'avenir, il passe ses journées à perdre tranquillement son temps. Un soir, dans une boîte de nuit, il croise Alison. Dynamique et talentueuse, Alison fête une promotion en compagnie de sa copine Debbie. Passablement ivre, Alison se laisse séduire par l'allure décontractée et débraillée de Ben. Et c'est sans complexes qu'elle passe la nuit avec lui. Le lendemain, Alison n'a qu'une idée : se débarrasser - poliment mais fermement - de Ben. Quelque temps plus tard, elle constate que quelque chose en elle a changé..(c)</desc>
-    <category lang="fr">Film</category>
-    <icon src="https://www.telerama.fr/sites/tr_master/files/483a2335-23d2-4ce6-9ccb-aef5f1cfe737_2.jpg" />
+  <programme start="20190125170000 +0100" stop="20190125200000 +0100" channel="NRJ Hits">
+    <title lang="fr">NRJ After School</title>
+    <category lang="fr">Clips</category>
   </programme>
-  <programme start="20190123221000 +0100" stop="20190124002000 +0100" channel="AB 3">
-    <title lang="fr">40 Ans, mode d'emploi</title>
-    <desc lang="fr">Mariés depuis des années, Pete et Debbie mènent de front leur vie de couple, leur travail et l'éducation de leurs deux filles, Charlotte et Sadie. Les deux époux se connaissent par coeur et, ensemble, s'apprêtent à aborder le tournant fatidique de la quarantaine. Pour Pete, le seul homme de la famille, le bilan est rude : la maison de disques indépendante qu'il a créée est à l'agonie. Comble de l'ironie : son père, qui vient d'avoir des triplés, compte sur lui pour l'aider à financer les dépenses du foyer. Avec Debbie, le glamour des débuts a laissé place à la réalité du quotidien, avec ses bons et ses mauvais côtés. Sadie, l'aînée de la fratrie, en pleine crise d'adolescence, multiplie les provocations. La vie n'est pas de tout repos pour le couple qui, pour garder l'équilibre et ne pas s'entretuer, va devoir composer..(c)</desc>
-    <category lang="fr">Film</category>
-    <icon src="https://www.telerama.fr/sites/tr_master/files/sheet_media/movie/438075/438075_406663.jpg" />
+  <programme start="20190125200000 +0100" stop="20190125220000 +0100" channel="NRJ Hits">
+    <title lang="fr">Spéciale voix françaises</title>
+    <category lang="fr">Clips</category>
+  </programme>
+  <programme start="20190125220000 +0100" stop="20190126000000 +0100" channel="NRJ Hits">
+    <title lang="fr">NRJ Hit Music Only (?)</title>
+    <category lang="fr">Clips</category>
+  </programme>
+  <programme start="20190126000000 +0100" stop="20190126020000 +0100" channel="NRJ Hits">
+    <title lang="fr">NRJ Hits Mix (?)</title>
+    <category lang="fr">Clips</category>
+  </programme>
+  <programme start="20190126020000 +0100" stop="20190126060000 +0100" channel="NRJ Hits">
+    <title lang="fr">French Music Only (?)</title>
+    <category lang="fr">Clips</category>
   </programme>
   <programme start="20190124002000 +0100" stop="20190124015500 +0100" channel="AB 3">
     <title lang="fr">On a échangé nos mamans (?)</title>
@@ -377,8 +314,6 @@
     <title lang="fr">S.O.S. ma famille a besoin d'aide (?)</title>
     <credits>
       <presenter>Pascal Soetens</presenter>
-      <presenter>Pascal Soetens</presenter>
-      <presenter>Pascal Soetens</presenter>
     </credits>
     <category lang="fr">Magazine de société</category>
   </programme>
@@ -386,334 +321,68 @@
     <title lang="fr">S.O.S. ma famille a besoin d'aide (?)</title>
     <credits>
       <presenter>Pascal Soetens</presenter>
-      <presenter>Pascal Soetens</presenter>
-      <presenter>Pascal Soetens</presenter>
     </credits>
     <category lang="fr">Magazine de société</category>
   </programme>
-  <programme start="20190123002000 +0100" stop="20190123004500 +0100" channel="E !">
+  <programme start="20190125101000 +0100" stop="20190125111000 +0100" channel="AB 3">
+    <title lang="fr">Télé-achat</title>
+    <category lang="fr">Magazine de télé-achat</category>
+  </programme>
+  <programme start="20190125132500 +0100" stop="20190125133000 +0100" channel="AB 3">
+    <title lang="fr">Météo</title>
+    <category lang="fr">Météo</category>
+  </programme>
+  <programme start="20190125133000 +0100" stop="20190125145500 +0100" channel="AB 3">
+    <title lang="fr">Un terrible secret (?)</title>
+    <credits>
+      <director>Vic Sarin</director>
+      <actor>Becky Hachey 
+ 
+ Nicole</actor>
+      <actor>Bri Neal 
+ 
+ Nora</actor>
+      <actor>Emily Tennant 
+ 
+ Shelly</actor>
+      <actor>Glynis Davies 
+ 
+ Joan</actor>
+      <actor>Peter Benson 
+ 
+ le docteur Logie</actor>
+      <actor>Poppy Montgomery 
+ 
+ Angela</actor>
+      <actor>Steven Krueger 
+ 
+ David</actor>
+    </credits>
+    <category lang="fr">Téléfilm de suspense</category>
+  </programme>
+  <programme start="20190125200000 +0100" stop="20190125220000 +0100" channel="AB 3">
+    <title lang="fr">S.W.A.T. unité d'élite</title>
+    <desc lang="fr">Une équipe du SWAT, l'élite de la police américaine, doit convoyer un trafiquant de drogue, qui offre cent millions de dollars à quiconque le libérera.(n)</desc>
+    <category lang="fr">Film</category>
+  </programme>
+  <programme start="20190125220000 +0100" stop="20190125233500 +0100" channel="AB 3">
+    <title lang="fr">Dommage collatéral</title>
+    <desc lang="fr">En pleine jungle, la vengeance d'un citoyen américain modèle après la mort de sa femme et de son fils dans un attentat visant des dignitaires colombiens.(n)</desc>
+    <category lang="fr">Film</category>
+  </programme>
+  <programme start="20190124002000 +0100" stop="20190124004500 +0100" channel="E !">
     <title lang="fr">Party On (?)</title>
     <credits>
       <presenter>Laury Thilleman</presenter>
     </credits>
     <category lang="fr">Téléréalité</category>
   </programme>
-  <programme start="20190123004500 +0100" stop="20190123011000 +0100" channel="E !">
+  <programme start="20190124004500 +0100" stop="20190124011000 +0100" channel="E !">
     <title lang="fr">Party On (?)</title>
     <credits>
       <presenter>Laury Thilleman</presenter>
     </credits>
     <category lang="fr">Téléréalité</category>
-  </programme>
-  <programme start="20190123000600 +0100" stop="20190123005800 +0100" channel="Chasse et pêche">
-    <title lang="fr">J'irai pêcher chez vous (?)</title>
-    <credits>
-      <director>Olivier Naïmi</director>
-    </credits>
-    <category lang="fr">Pêche</category>
-  </programme>
-  <programme start="20190123005800 +0100" stop="20190123012400 +0100" channel="Chasse et pêche">
-    <title lang="fr">Québec à vol d'oiseau (?)</title>
-    <credits>
-      <director>Frédéric Laroche</director>
-      <director>Joël Tremblay</director>
-    </credits>
-    <category lang="fr">Chasse</category>
-  </programme>
-  <programme start="20190123012400 +0100" stop="20190123014600 +0100" channel="Chasse et pêche">
-    <title lang="fr">La globe-trotteuse Chasse &amp; Pêche (?)</title>
-    <credits>
-      <director>Larysa Switlyk</director>
-    </credits>
-    <category lang="fr">Nature</category>
-  </programme>
-  <programme start="20190123014600 +0100" stop="20190123020000 +0100" channel="Chasse et pêche">
-    <title lang="fr">Cap sur la pêche française (?)</title>
-    <credits>
-      <director>Sophie Wahl</director>
-    </credits>
-    <category lang="fr">Pêche</category>
-  </programme>
-  <programme start="20190123020000 +0100" stop="20190123051800 +0100" channel="Chasse et pêche">
-    <title lang="fr">Programmes de la nuit</title>
-    <category lang="fr">Programme indéterminé</category>
-  </programme>
-  <programme start="20190123051800 +0100" stop="20190123053000 +0100" channel="Chasse et pêche">
-    <title lang="fr">Cap sur la pêche française (?)</title>
-    <credits>
-      <director>Sophie Wahl</director>
-    </credits>
-    <category lang="fr">Pêche</category>
-  </programme>
-  <programme start="20190123053000 +0100" stop="20190123054300 +0100" channel="Chasse et pêche">
-    <title lang="fr">Cap sur la pêche française (?)</title>
-    <credits>
-      <director>Sophie Wahl</director>
-    </credits>
-    <category lang="fr">Pêche</category>
-  </programme>
-  <programme start="20190123061100 +0100" stop="20190123063500 +0100" channel="Chasse et pêche">
-    <title lang="fr">De la flèche à la proie (?)</title>
-    <category lang="fr">Chasse</category>
-  </programme>
-  <programme start="20190123063500 +0100" stop="20190123065800 +0100" channel="Chasse et pêche">
-    <title lang="fr">Carp Wars (?)</title>
-    <credits>
-      <director>Paul Cooper</director>
-      <director>Paul Cooper</director>
-      <director>Paul Cooper</director>
-    </credits>
-    <category lang="fr">Pêche</category>
-  </programme>
-  <programme start="20190123065800 +0100" stop="20190123075200 +0100" channel="Chasse et pêche">
-    <title lang="fr">Mission à risque pour directeur de chasse (?)</title>
-    <credits>
-      <director>Jean-Paul Gurliat</director>
-    </credits>
-    <category lang="fr">Découvertes</category>
-  </programme>
-  <programme start="20190123075200 +0100" stop="20190123084400 +0100" channel="Chasse et pêche">
-    <title lang="fr">Une forêt pour 100 000 chasseurs (?)</title>
-    <credits>
-      <director>Jean-Paul Gurliat</director>
-    </credits>
-    <category lang="fr">Nature</category>
-  </programme>
-  <programme start="20190123084400 +0100" stop="20190123090500 +0100" channel="Chasse et pêche">
-    <title lang="fr">La globe-trotteuse Chasse &amp; Pêche (?)</title>
-    <credits>
-      <director>Larysa Switlyk</director>
-      <director>Larysa Switlyk</director>
-    </credits>
-    <category lang="fr">Nature</category>
-  </programme>
-  <programme start="20190123090500 +0100" stop="20190123091800 +0100" channel="Chasse et pêche">
-    <title lang="fr">Cap sur la pêche française (?)</title>
-    <credits>
-      <director>Sophie Wahl</director>
-    </credits>
-    <category lang="fr">Pêche</category>
-  </programme>
-  <programme start="20190123091800 +0100" stop="20190123093000 +0100" channel="Chasse et pêche">
-    <title lang="fr">Cap sur la pêche française (?)</title>
-    <credits>
-      <director>Sophie Wahl</director>
-    </credits>
-    <category lang="fr">Pêche</category>
-  </programme>
-  <programme start="20190123093000 +0100" stop="20190123095800 +0100" channel="Chasse et pêche">
-    <title lang="fr">Au coeur de la nature (?)</title>
-    <credits>
-      <director>Teemu Hostikka</director>
-      <director>Teemu Hostikka</director>
-      <director>Teemu Hostikka</director>
-    </credits>
-    <category lang="fr">Chasse</category>
-  </programme>
-  <programme start="20190123095800 +0100" stop="20190123102300 +0100" channel="Chasse et pêche">
-    <title lang="fr">Pêche en stand up dans les chasses de thons (?)</title>
-    <credits>
-      <director>Gilbert Di Nino</director>
-    </credits>
-    <category lang="fr">Pêche</category>
-  </programme>
-  <programme start="20190123102300 +0100" stop="20190123105100 +0100" channel="Chasse et pêche">
-    <title lang="fr">Chasse entre amis (?)</title>
-    <category lang="fr">Chasse</category>
-  </programme>
-  <programme start="20190123105100 +0100" stop="20190123112100 +0100" channel="Chasse et pêche">
-    <title lang="fr">Chasse entre amis (?)</title>
-    <category lang="fr">Chasse</category>
-  </programme>
-  <programme start="20190123112100 +0100" stop="20190123114300 +0100" channel="Chasse et pêche">
-    <title lang="fr">Un guide de pêche à la mouche (?)</title>
-    <credits>
-      <director>Colin McKeown</director>
-    </credits>
-    <category lang="fr">Pêche</category>
-  </programme>
-  <programme start="20190123114300 +0100" stop="20190123123500 +0100" channel="Chasse et pêche">
-    <title lang="fr">Chambord (?)</title>
-    <credits>
-      <director>Marc Jampolsky</director>
-    </credits>
-    <category lang="fr">Découvertes</category>
-  </programme>
-  <programme start="20190123123500 +0100" stop="20190123125800 +0100" channel="Chasse et pêche">
-    <title lang="fr">Chasseur de l'extrême (?)</title>
-    <category lang="fr">Chasse</category>
-  </programme>
-  <programme start="20190123125800 +0100" stop="20190123132300 +0100" channel="Chasse et pêche">
-    <title lang="fr">La globe-trotteuse Chasse &amp; Pêche (?)</title>
-    <credits>
-      <director>Larysa Switlyk</director>
-      <director>Larysa Switlyk</director>
-    </credits>
-    <category lang="fr">Nature</category>
-  </programme>
-  <programme start="20190123132300 +0100" stop="20190123134500 +0100" channel="Chasse et pêche">
-    <title lang="fr">Chasseur de l'extrême (?)</title>
-    <category lang="fr">Chasse</category>
-  </programme>
-  <programme start="20190123134500 +0100" stop="20190123143500 +0100" channel="Chasse et pêche">
-    <title lang="fr">Chasse entre amis (?)</title>
-    <category lang="fr">Chasse</category>
-  </programme>
-  <programme start="20190123143500 +0100" stop="20190123145900 +0100" channel="Chasse et pêche">
-    <title lang="fr">Pêche à la mouche sur la rivière Cure (?)</title>
-    <category lang="fr">Pêche</category>
-  </programme>
-  <programme start="20190123145900 +0100" stop="20190123153100 +0100" channel="Chasse et pêche">
-    <title lang="fr">Le chasseur français (?)</title>
-    <credits>
-      <presenter>Antoine Berton</presenter>
-      <presenter>Antoine Berton</presenter>
-      <presenter>Antoine Berton</presenter>
-    </credits>
-    <category lang="fr">Magazine de la chasse</category>
-  </programme>
-  <programme start="20190123153100 +0100" stop="20190123160100 +0100" channel="Chasse et pêche">
-    <title lang="fr">Sur les traces du brochet en vallée de Meuse (?)</title>
-    <credits>
-      <director>Anne-Cécile Monnier</director>
-    </credits>
-    <category lang="fr">Pêche</category>
-  </programme>
-  <programme start="20190123160100 +0100" stop="20190123162300 +0100" channel="Chasse et pêche">
-    <title lang="fr">Chasseur de l'extrême (?)</title>
-    <category lang="fr">Chasse</category>
-  </programme>
-  <programme start="20190123162300 +0100" stop="20190123164500 +0100" channel="Chasse et pêche">
-    <title lang="fr">Chasse entre amis (?)</title>
-    <category lang="fr">Chasse</category>
-  </programme>
-  <programme start="20190123164500 +0100" stop="20190123170900 +0100" channel="Chasse et pêche">
-    <title lang="fr">Pêche de l'amour en Ukraine (?)</title>
-    <category lang="fr">Pêche</category>
-  </programme>
-  <programme start="20190123170900 +0100" stop="20190123173100 +0100" channel="Chasse et pêche">
-    <title lang="fr">Cuisine sauvage (?)</title>
-    <credits>
-      <director>Guy Beauché</director>
-      <director>Jonathan Ulrich</director>
-      <director>Laurent Sardi</director>
-    </credits>
-    <category lang="fr">Gastronomie</category>
-  </programme>
-  <programme start="20190123173100 +0100" stop="20190123180000 +0100" channel="Chasse et pêche">
-    <title lang="fr">Au coeur de la nature (?)</title>
-    <credits>
-      <director>Teemu Hostikka</director>
-      <director>Teemu Hostikka</director>
-      <director>Teemu Hostikka</director>
-    </credits>
-    <category lang="fr">Chasse</category>
-  </programme>
-  <programme start="20190123180000 +0100" stop="20190123183000 +0100" channel="Chasse et pêche">
-    <title lang="fr">Québec à vol d'oiseau (?)</title>
-    <credits>
-      <director>Frédéric Laroche</director>
-      <director>Joël Tremblay</director>
-      <director>Frédéric Laroche</director>
-    </credits>
-    <category lang="fr">Chasse</category>
-  </programme>
-  <programme start="20190123183000 +0100" stop="20190123185200 +0100" channel="Chasse et pêche">
-    <title lang="fr">Québec à vol d'oiseau (?)</title>
-    <credits>
-      <director>Frédéric Laroche</director>
-      <director>Joël Tremblay</director>
-      <director>Frédéric Laroche</director>
-    </credits>
-    <category lang="fr">Chasse</category>
-  </programme>
-  <programme start="20190123185200 +0100" stop="20190123191400 +0100" channel="Chasse et pêche">
-    <title lang="fr">Québec à vol d'oiseau (?)</title>
-    <credits>
-      <director>Frédéric Laroche</director>
-      <director>Joël Tremblay</director>
-      <director>Frédéric Laroche</director>
-    </credits>
-    <category lang="fr">Chasse</category>
-  </programme>
-  <programme start="20190123191400 +0100" stop="20190123193600 +0100" channel="Chasse et pêche">
-    <title lang="fr">Québec à vol d'oiseau (?)</title>
-    <credits>
-      <director>Frédéric Laroche</director>
-      <director>Joël Tremblay</director>
-      <director>Frédéric Laroche</director>
-    </credits>
-    <category lang="fr">Chasse</category>
-  </programme>
-  <programme start="20190123193600 +0100" stop="20190123195800 +0100" channel="Chasse et pêche">
-    <title lang="fr">Québec à vol d'oiseau (?)</title>
-    <credits>
-      <director>Frédéric Laroche</director>
-      <director>Joël Tremblay</director>
-      <director>Frédéric Laroche</director>
-    </credits>
-    <category lang="fr">Chasse</category>
-  </programme>
-  <programme start="20190123195800 +0100" stop="20190123202400 +0100" channel="Chasse et pêche">
-    <title lang="fr">Hooké (?)</title>
-    <credits>
-      <presenter>Alexis Pageau</presenter>
-      <presenter>Charles-Alexandre Cloutier</presenter>
-      <presenter>Derek Martin</presenter>
-    </credits>
-    <category lang="fr">Magazine de découvertes</category>
-  </programme>
-  <programme start="20190123202400 +0100" stop="20190123204600 +0100" channel="Chasse et pêche">
-    <title lang="fr">Chasse entre amis (?)</title>
-    <category lang="fr">Chasse</category>
-  </programme>
-  <programme start="20190123204600 +0100" stop="20190123210800 +0100" channel="Chasse et pêche">
-    <title lang="fr">Chasse entre amis (?)</title>
-    <category lang="fr">Chasse</category>
-  </programme>
-  <programme start="20190123210800 +0100" stop="20190123221400 +0100" channel="Chasse et pêche">
-    <title lang="fr">Sur la piste du cerf de Virginie à Saint-Pierre-et-Miquelon (?)</title>
-    <category lang="fr">Chasse</category>
-  </programme>
-  <programme start="20190123221400 +0100" stop="20190123223600 +0100" channel="Chasse et pêche">
-    <title lang="fr">Chasseur de l'extrême (?)</title>
-    <category lang="fr">Chasse</category>
-  </programme>
-  <programme start="20190123223600 +0100" stop="20190123230200 +0100" channel="Chasse et pêche">
-    <title lang="fr">Québec à vol d'oiseau (?)</title>
-    <credits>
-      <director>Frédéric Laroche</director>
-      <director>Joël Tremblay</director>
-      <director>Frédéric Laroche</director>
-    </credits>
-    <category lang="fr">Chasse</category>
-  </programme>
-  <programme start="20190123230200 +0100" stop="20190123232400 +0100" channel="Chasse et pêche">
-    <title lang="fr">Chasseur de l'extrême (?)</title>
-    <category lang="fr">Chasse</category>
-  </programme>
-  <programme start="20190123232400 +0100" stop="20190123233700 +0100" channel="Chasse et pêche">
-    <title lang="fr">Cap sur la pêche française (?)</title>
-    <credits>
-      <director>Sophie Wahl</director>
-    </credits>
-    <category lang="fr">Pêche</category>
-  </programme>
-  <programme start="20190123233700 +0100" stop="20190123234900 +0100" channel="Chasse et pêche">
-    <title lang="fr">Cap sur la pêche française (?)</title>
-    <credits>
-      <director>Sophie Wahl</director>
-    </credits>
-    <category lang="fr">Pêche</category>
-  </programme>
-  <programme start="20190123234900 +0100" stop="20190124001700 +0100" channel="Chasse et pêche">
-    <title lang="fr">Au coeur de la nature (?)</title>
-    <credits>
-      <director>Teemu Hostikka</director>
-      <director>Teemu Hostikka</director>
-      <director>Teemu Hostikka</director>
-    </credits>
-    <category lang="fr">Chasse</category>
   </programme>
   <programme start="20190124001700 +0100" stop="20190124003900 +0100" channel="Chasse et pêche">
     <title lang="fr">Québec à vol d'oiseau (?)</title>
@@ -784,8 +453,6 @@
     <title lang="fr">Le chasseur français (?)</title>
     <credits>
       <presenter>Antoine Berton</presenter>
-      <presenter>Antoine Berton</presenter>
-      <presenter>Antoine Berton</presenter>
     </credits>
     <category lang="fr">Magazine de la chasse</category>
   </programme>
@@ -809,14 +476,12 @@
     <credits>
       <director>Frédéric Laroche</director>
       <director>Joël Tremblay</director>
-      <director>Frédéric Laroche</director>
     </credits>
     <category lang="fr">Chasse</category>
   </programme>
   <programme start="20190124103800 +0100" stop="20190124105900 +0100" channel="Chasse et pêche">
     <title lang="fr">La globe-trotteuse Chasse &amp; Pêche (?)</title>
     <credits>
-      <director>Larysa Switlyk</director>
       <director>Larysa Switlyk</director>
     </credits>
     <category lang="fr">Nature</category>
@@ -845,8 +510,6 @@
     <title lang="fr">Carp Wars (?)</title>
     <credits>
       <director>Paul Cooper</director>
-      <director>Paul Cooper</director>
-      <director>Paul Cooper</director>
     </credits>
     <category lang="fr">Pêche</category>
   </programme>
@@ -855,7 +518,6 @@
     <credits>
       <director>Frédéric Laroche</director>
       <director>Joël Tremblay</director>
-      <director>Frédéric Laroche</director>
     </credits>
     <category lang="fr">Chasse</category>
   </programme>
@@ -864,7 +526,6 @@
     <credits>
       <director>Frédéric Laroche</director>
       <director>Joël Tremblay</director>
-      <director>Frédéric Laroche</director>
     </credits>
     <category lang="fr">Chasse</category>
   </programme>
@@ -875,8 +536,6 @@
   <programme start="20190124145600 +0100" stop="20190124152800 +0100" channel="Chasse et pêche">
     <title lang="fr">Le chasseur français (?)</title>
     <credits>
-      <presenter>Antoine Berton</presenter>
-      <presenter>Antoine Berton</presenter>
       <presenter>Antoine Berton</presenter>
     </credits>
     <category lang="fr">Magazine de la chasse</category>
@@ -911,8 +570,6 @@
     <title lang="fr">Au coeur de la nature (?)</title>
     <credits>
       <director>Teemu Hostikka</director>
-      <director>Teemu Hostikka</director>
-      <director>Teemu Hostikka</director>
     </credits>
     <category lang="fr">Chasse</category>
   </programme>
@@ -920,16 +577,12 @@
     <title lang="fr">Au coeur de la nature (?)</title>
     <credits>
       <director>Teemu Hostikka</director>
-      <director>Teemu Hostikka</director>
-      <director>Teemu Hostikka</director>
     </credits>
     <category lang="fr">Chasse</category>
   </programme>
   <programme start="20190124180000 +0100" stop="20190124190000 +0100" channel="Chasse et pêche">
     <title lang="fr">Mordu de la pêche (?)</title>
     <credits>
-      <director>Cyril Chauquet</director>
-      <director>Cyril Chauquet</director>
       <director>Cyril Chauquet</director>
     </credits>
     <category lang="fr">Pêche</category>
@@ -942,16 +595,12 @@
     <title lang="fr">Au coeur de la nature (?)</title>
     <credits>
       <director>Teemu Hostikka</director>
-      <director>Teemu Hostikka</director>
-      <director>Teemu Hostikka</director>
     </credits>
     <category lang="fr">Chasse</category>
   </programme>
   <programme start="20190124195000 +0100" stop="20190124201800 +0100" channel="Chasse et pêche">
     <title lang="fr">Au coeur de la nature (?)</title>
     <credits>
-      <director>Teemu Hostikka</director>
-      <director>Teemu Hostikka</director>
       <director>Teemu Hostikka</director>
     </credits>
     <category lang="fr">Chasse</category>
@@ -979,16 +628,12 @@
     <title lang="fr">Mordu de la pêche (?)</title>
     <credits>
       <director>Cyril Chauquet</director>
-      <director>Cyril Chauquet</director>
-      <director>Cyril Chauquet</director>
     </credits>
     <category lang="fr">Pêche</category>
   </programme>
   <programme start="20190124230600 +0100" stop="20190124235100 +0100" channel="Chasse et pêche">
     <title lang="fr">Mordu de la pêche (?)</title>
     <credits>
-      <director>Cyril Chauquet</director>
-      <director>Cyril Chauquet</director>
       <director>Cyril Chauquet</director>
     </credits>
     <category lang="fr">Pêche</category>
@@ -1009,7 +654,6 @@
   <programme start="20190125003600 +0100" stop="20190125005800 +0100" channel="Chasse et pêche">
     <title lang="fr">La globe-trotteuse Chasse &amp; Pêche (?)</title>
     <credits>
-      <director>Larysa Switlyk</director>
       <director>Larysa Switlyk</director>
     </credits>
     <category lang="fr">Nature</category>
@@ -1032,16 +676,12 @@
     <title lang="fr">Au coeur de la nature (?)</title>
     <credits>
       <director>Teemu Hostikka</director>
-      <director>Teemu Hostikka</director>
-      <director>Teemu Hostikka</director>
     </credits>
     <category lang="fr">Chasse</category>
   </programme>
   <programme start="20190125015300 +0100" stop="20190125022000 +0100" channel="Chasse et pêche">
     <title lang="fr">Au coeur de la nature (?)</title>
     <credits>
-      <director>Teemu Hostikka</director>
-      <director>Teemu Hostikka</director>
       <director>Teemu Hostikka</director>
     </credits>
     <category lang="fr">Chasse</category>
@@ -1050,153 +690,287 @@
     <title lang="fr">Programmes de la nuit</title>
     <category lang="fr">Programme indéterminé</category>
   </programme>
-  <programme start="20190123001000 +0100" stop="20190123003500 +0100" channel="Discovery Channel">
-    <title lang="fr">Burgers &amp; Co (?)</title>
-    <category lang="fr">Téléréalité</category>
+  <programme start="20190125061100 +0100" stop="20190125063700 +0100" channel="Chasse et pêche">
+    <title lang="fr">Au coeur de la nature (?)</title>
+    <credits>
+      <director>Teemu Hostikka</director>
+    </credits>
+    <category lang="fr">Chasse</category>
   </programme>
-  <programme start="20190123003500 +0100" stop="20190123010000 +0100" channel="Discovery Channel">
-    <title lang="fr">Burgers &amp; Co (?)</title>
-    <category lang="fr">Téléréalité</category>
+  <programme start="20190125063700 +0100" stop="20190125070600 +0100" channel="Chasse et pêche">
+    <title lang="fr">Au coeur de la nature (?)</title>
+    <credits>
+      <director>Teemu Hostikka</director>
+    </credits>
+    <category lang="fr">Chasse</category>
   </programme>
-  <programme start="20190123010000 +0100" stop="20190123015000 +0100" channel="Discovery Channel">
-    <title lang="fr">Occasions à saisir (?)</title>
-    <category lang="fr">Découvertes</category>
+  <programme start="20190125070600 +0100" stop="20190125081100 +0100" channel="Chasse et pêche">
+    <title lang="fr">Sur la piste du cerf de Virginie à Saint-Pierre-et-Miquelon (?)</title>
+    <category lang="fr">Chasse</category>
   </programme>
-  <programme start="20190123015000 +0100" stop="20190123024000 +0100" channel="Discovery Channel">
-    <title lang="fr">Occasions à saisir (?)</title>
-    <category lang="fr">Découvertes</category>
+  <programme start="20190125081100 +0100" stop="20190125083700 +0100" channel="Chasse et pêche">
+    <title lang="fr">Au coeur de la nature (?)</title>
+    <credits>
+      <director>Teemu Hostikka</director>
+    </credits>
+    <category lang="fr">Chasse</category>
   </programme>
-  <programme start="20190123024000 +0100" stop="20190123033000 +0100" channel="Discovery Channel">
-    <title lang="fr">Occasions à saisir (?)</title>
-    <category lang="fr">Découvertes</category>
-  </programme>
-  <programme start="20190123033000 +0100" stop="20190123042000 +0100" channel="Discovery Channel">
-    <title lang="fr">Occasions à saisir (?)</title>
-    <category lang="fr">Découvertes</category>
-  </programme>
-  <programme start="20190123042000 +0100" stop="20190123051000 +0100" channel="Discovery Channel">
-    <title lang="fr">Les bûcherons de l'extrême (?)</title>
-    <category lang="fr">Découvertes</category>
-  </programme>
-  <programme start="20190123051000 +0100" stop="20190123060000 +0100" channel="Discovery Channel">
-    <title lang="fr">Les bûcherons de l'extrême (?)</title>
-    <category lang="fr">Découvertes</category>
-  </programme>
-  <programme start="20190123060000 +0100" stop="20190123062000 +0100" channel="Discovery Channel">
-    <title lang="fr">Adjugé vendu : La boutique (?)</title>
-    <category lang="fr">Téléréalité</category>
-  </programme>
-  <programme start="20190123062000 +0100" stop="20190123064500 +0100" channel="Discovery Channel">
-    <title lang="fr">Adjugé vendu : La boutique (?)</title>
-    <category lang="fr">Téléréalité</category>
-  </programme>
-  <programme start="20190123064500 +0100" stop="20190123070500 +0100" channel="Discovery Channel">
-    <title lang="fr">Adjugé vendu : La boutique (?)</title>
-    <category lang="fr">Téléréalité</category>
-  </programme>
-  <programme start="20190123070500 +0100" stop="20190123073000 +0100" channel="Discovery Channel">
-    <title lang="fr">Adjugé vendu : La boutique (?)</title>
-    <category lang="fr">Téléréalité</category>
-  </programme>
-  <programme start="20190123073000 +0100" stop="20190123075500 +0100" channel="Discovery Channel">
-    <title lang="fr">Adjugé vendu : La boutique (?)</title>
-    <category lang="fr">Téléréalité</category>
-  </programme>
-  <programme start="20190123075500 +0100" stop="20190123082000 +0100" channel="Discovery Channel">
-    <title lang="fr">Hardcore Money (?)</title>
-    <category lang="fr">Téléréalité</category>
-  </programme>
-  <programme start="20190123082000 +0100" stop="20190123091000 +0100" channel="Discovery Channel">
-    <title lang="fr">Sauveurs de trésors (?)</title>
-    <category lang="fr">Découvertes</category>
-  </programme>
-  <programme start="20190123091000 +0100" stop="20190123100500 +0100" channel="Discovery Channel">
-    <title lang="fr">Sauveurs de trésors (?)</title>
-    <category lang="fr">Découvertes</category>
-  </programme>
-  <programme start="20190123100500 +0100" stop="20190123103000 +0100" channel="Discovery Channel">
-    <title lang="fr">Au coeur des douanes (?)</title>
-    <category lang="fr">Société</category>
-  </programme>
-  <programme start="20190123103000 +0100" stop="20190123105500 +0100" channel="Discovery Channel">
-    <title lang="fr">Au coeur des douanes (?)</title>
-    <category lang="fr">Société</category>
-  </programme>
-  <programme start="20190123105500 +0100" stop="20190123115000 +0100" channel="Discovery Channel">
-    <title lang="fr">Occasions à saisir (?)</title>
-    <category lang="fr">Découvertes</category>
-  </programme>
-  <programme start="20190123115000 +0100" stop="20190123124000 +0100" channel="Discovery Channel">
-    <title lang="fr">Occasions à saisir (?)</title>
-    <category lang="fr">Découvertes</category>
-  </programme>
-  <programme start="20190123124000 +0100" stop="20190123130500 +0100" channel="Discovery Channel">
-    <title lang="fr">Burgers &amp; Co (?)</title>
-    <category lang="fr">Téléréalité</category>
-  </programme>
-  <programme start="20190123130500 +0100" stop="20190123133500 +0100" channel="Discovery Channel">
-    <title lang="fr">Burgers &amp; Co (?)</title>
-    <category lang="fr">Téléréalité</category>
-  </programme>
-  <programme start="20190123133500 +0100" stop="20190123142500 +0100" channel="Discovery Channel">
-    <title lang="fr">Les bûcherons de l'extrême (?)</title>
-    <category lang="fr">Découvertes</category>
-  </programme>
-  <programme start="20190123142500 +0100" stop="20190123152000 +0100" channel="Discovery Channel">
-    <title lang="fr">Les bûcherons de l'extrême (?)</title>
-    <category lang="fr">Découvertes</category>
-  </programme>
-  <programme start="20190123152000 +0100" stop="20190123161500 +0100" channel="Discovery Channel">
-    <title lang="fr">Péril en haute mer : la relève (?)</title>
+  <programme start="20190125083700 +0100" stop="20190125085900 +0100" channel="Chasse et pêche">
+    <title lang="fr">La globe-trotteuse Chasse &amp; Pêche (?)</title>
+    <credits>
+      <director>Larysa Switlyk</director>
+    </credits>
     <category lang="fr">Nature</category>
   </programme>
-  <programme start="20190123161500 +0100" stop="20190123171000 +0100" channel="Discovery Channel">
-    <title lang="fr">Péril en haute mer : la relève (?)</title>
+  <programme start="20190125085900 +0100" stop="20190125092300 +0100" channel="Chasse et pêche">
+    <title lang="fr">Carp Wars (?)</title>
+    <credits>
+      <director>Paul Cooper</director>
+    </credits>
+    <category lang="fr">Pêche</category>
+  </programme>
+  <programme start="20190125092300 +0100" stop="20190125100800 +0100" channel="Chasse et pêche">
+    <title lang="fr">Mordu de la pêche (?)</title>
+    <credits>
+      <director>Cyril Chauquet</director>
+    </credits>
+    <category lang="fr">Pêche</category>
+  </programme>
+  <programme start="20190125100800 +0100" stop="20190125105000 +0100" channel="Chasse et pêche">
+    <title lang="fr">La globe-trotteuse Chasse &amp; Pêche (?)</title>
+    <credits>
+      <director>Larysa Switlyk</director>
+    </credits>
     <category lang="fr">Nature</category>
   </programme>
-  <programme start="20190123171000 +0100" stop="20190123180000 +0100" channel="Discovery Channel">
-    <title lang="fr">Péril en haute mer : la relève (?)</title>
+  <programme start="20190125105000 +0100" stop="20190125114500 +0100" channel="Chasse et pêche">
+    <title lang="fr">Chasses d'exception (?)</title>
+    <category lang="fr">Chasse</category>
+  </programme>
+  <programme start="20190125114500 +0100" stop="20190125123800 +0100" channel="Chasse et pêche">
+    <title lang="fr">Pêche mythique en Alaska sur la rivière Wulik (?)</title>
+    <category lang="fr">Pêche</category>
+  </programme>
+  <programme start="20190125123800 +0100" stop="20190125130000 +0100" channel="Chasse et pêche">
+    <title lang="fr">Pêche en réservoir en Ukraine (?)</title>
+    <category lang="fr">Pêche</category>
+  </programme>
+  <programme start="20190125130000 +0100" stop="20190125132200 +0100" channel="Chasse et pêche">
+    <title lang="fr">Chasseur de l'extrême (?)</title>
+    <category lang="fr">Chasse</category>
+  </programme>
+  <programme start="20190125132200 +0100" stop="20190125134400 +0100" channel="Chasse et pêche">
+    <title lang="fr">Chasseur de l'extrême (?)</title>
+    <category lang="fr">Chasse</category>
+  </programme>
+  <programme start="20190125134400 +0100" stop="20190125140700 +0100" channel="Chasse et pêche">
+    <title lang="fr">Chasseur de l'extrême (?)</title>
+    <category lang="fr">Chasse</category>
+  </programme>
+  <programme start="20190125140700 +0100" stop="20190125142900 +0100" channel="Chasse et pêche">
+    <title lang="fr">Chasseur de l'extrême (?)</title>
+    <category lang="fr">Chasse</category>
+  </programme>
+  <programme start="20190125142900 +0100" stop="20190125145900 +0100" channel="Chasse et pêche">
+    <title lang="fr">Chasse entre amis (?)</title>
+    <category lang="fr">Chasse</category>
+  </programme>
+  <programme start="20190125145900 +0100" stop="20190125152200 +0100" channel="Chasse et pêche">
+    <title lang="fr">Pêche au coup en Ukraine (?)</title>
+    <category lang="fr">Pêche</category>
+  </programme>
+  <programme start="20190125152200 +0100" stop="20190125154700 +0100" channel="Chasse et pêche">
+    <title lang="fr">Le défi des sirènes : pêche sportive au féminin (?)</title>
+    <credits>
+      <director>Gilbert Di Nino</director>
+    </credits>
+    <category lang="fr">Pêche</category>
+  </programme>
+  <programme start="20190125154700 +0100" stop="20190125160900 +0100" channel="Chasse et pêche">
+    <title lang="fr">Cuisine sauvage (?)</title>
+    <credits>
+      <director>Guy Beauché</director>
+      <director>Jonathan Ulrich</director>
+      <director>Laurent Sardi</director>
+    </credits>
+    <category lang="fr">Gastronomie</category>
+  </programme>
+  <programme start="20190125160900 +0100" stop="20190125163300 +0100" channel="Chasse et pêche">
+    <title lang="fr">Chasse entre amis (?)</title>
+    <category lang="fr">Chasse</category>
+  </programme>
+  <programme start="20190125163300 +0100" stop="20190125165700 +0100" channel="Chasse et pêche">
+    <title lang="fr">Pêche à la mouche sur la rivière Cure (?)</title>
+    <category lang="fr">Pêche</category>
+  </programme>
+  <programme start="20190125165700 +0100" stop="20190125173000 +0100" channel="Chasse et pêche">
+    <title lang="fr">Le chasseur français (?)</title>
+    <credits>
+      <presenter>Antoine Berton</presenter>
+    </credits>
+    <category lang="fr">Magazine de la chasse</category>
+  </programme>
+  <programme start="20190125173000 +0100" stop="20190125180000 +0100" channel="Chasse et pêche">
+    <title lang="fr">Au coeur de la nature (?)</title>
+    <credits>
+      <director>Teemu Hostikka</director>
+    </credits>
+    <category lang="fr">Chasse</category>
+  </programme>
+  <programme start="20190125180000 +0100" stop="20190125183000 +0100" channel="Chasse et pêche">
+    <title lang="fr">Un guide de pêche à la mouche (?)</title>
+    <credits>
+      <director>Colin McKeown</director>
+    </credits>
+    <category lang="fr">Pêche</category>
+  </programme>
+  <programme start="20190125183000 +0100" stop="20190125190000 +0100" channel="Chasse et pêche">
+    <title lang="fr">Hooké (?)</title>
+    <credits>
+      <presenter>Alexis Pageau</presenter>
+      <presenter>Charles-Alexandre Cloutier</presenter>
+      <presenter>Derek Martin</presenter>
+    </credits>
+    <category lang="fr">Magazine de découvertes</category>
+  </programme>
+  <programme start="20190125190000 +0100" stop="20190125192500 +0100" channel="Chasse et pêche">
+    <title lang="fr">Pêche sur le lac de Pannecière (?)</title>
+    <credits>
+      <director>Gilbert Di Nino</director>
+    </credits>
+    <category lang="fr">Pêche</category>
+  </programme>
+  <programme start="20190125192500 +0100" stop="20190125194700 +0100" channel="Chasse et pêche">
+    <title lang="fr">La globe-trotteuse Chasse &amp; Pêche (?)</title>
+    <credits>
+      <director>Larysa Switlyk</director>
+    </credits>
     <category lang="fr">Nature</category>
   </programme>
-  <programme start="20190123180000 +0100" stop="20190123185500 +0100" channel="Discovery Channel">
-    <title lang="fr">Péril en haute mer : la relève (?)</title>
+  <programme start="20190125194700 +0100" stop="20190125200900 +0100" channel="Chasse et pêche">
+    <title lang="fr">La globe-trotteuse Chasse &amp; Pêche (?)</title>
+    <credits>
+      <director>Larysa Switlyk</director>
+    </credits>
     <category lang="fr">Nature</category>
   </programme>
-  <programme start="20190123185500 +0100" stop="20190123195000 +0100" channel="Discovery Channel">
-    <title lang="fr">Péril en haute mer : la relève (?)</title>
-    <category lang="fr">Nature</category>
+  <programme start="20190125200900 +0100" stop="20190125203100 +0100" channel="Chasse et pêche">
+    <title lang="fr">Chasseur de l'extrême (?)</title>
+    <category lang="fr">Chasse</category>
   </programme>
-  <programme start="20190123195000 +0100" stop="20190123201500 +0100" channel="Discovery Channel">
-    <title lang="fr">Hardcore Money (?)</title>
-    <category lang="fr">Téléréalité</category>
+  <programme start="20190125203100 +0100" stop="20190125210100 +0100" channel="Chasse et pêche">
+    <title lang="fr">Sur les traces du brochet en vallée de Meuse (?)</title>
+    <credits>
+      <director>Anne-Cécile Monnier</director>
+    </credits>
+    <category lang="fr">Pêche</category>
   </programme>
-  <programme start="20190123201500 +0100" stop="20190123204500 +0100" channel="Discovery Channel">
-    <title lang="fr">Hardcore Money (?)</title>
-    <category lang="fr">Téléréalité</category>
+  <programme start="20190125210100 +0100" stop="20190125214900 +0100" channel="Chasse et pêche">
+    <title lang="fr">Chasse entre amis (?)</title>
+    <category lang="fr">Chasse</category>
   </programme>
-  <programme start="20190123204500 +0100" stop="20190123211000 +0100" channel="Discovery Channel">
-    <title lang="fr">Affaires militaires (?)</title>
-    <category lang="fr">Téléréalité</category>
+  <programme start="20190125214900 +0100" stop="20190125221200 +0100" channel="Chasse et pêche">
+    <title lang="fr">Pêche au coup en Ukraine (?)</title>
+    <category lang="fr">Pêche</category>
   </programme>
-  <programme start="20190123211000 +0100" stop="20190123213500 +0100" channel="Discovery Channel">
-    <title lang="fr">Affaires militaires (?)</title>
-    <category lang="fr">Téléréalité</category>
+  <programme start="20190125221200 +0100" stop="20190125223400 +0100" channel="Chasse et pêche">
+    <title lang="fr">Chasseur de l'extrême (?)</title>
+    <category lang="fr">Chasse</category>
   </programme>
-  <programme start="20190123213500 +0100" stop="20190123222500 +0100" channel="Discovery Channel">
-    <title lang="fr">Sauveurs de trésors (?)</title>
-    <category lang="fr">Découvertes</category>
+  <programme start="20190125223400 +0100" stop="20190125224700 +0100" channel="Chasse et pêche">
+    <title lang="fr">Cap sur la pêche française (?)</title>
+    <credits>
+      <director>Sophie Wahl</director>
+    </credits>
+    <category lang="fr">Pêche</category>
   </programme>
-  <programme start="20190123222500 +0100" stop="20190123232000 +0100" channel="Discovery Channel">
-    <title lang="fr">Sauveurs de trésors (?)</title>
-    <category lang="fr">Découvertes</category>
+  <programme start="20190125224700 +0100" stop="20190125231100 +0100" channel="Chasse et pêche">
+    <title lang="fr">Carp Wars (?)</title>
+    <credits>
+      <director>Paul Cooper</director>
+    </credits>
+    <category lang="fr">Pêche</category>
   </programme>
-  <programme start="20190123232000 +0100" stop="20190123234500 +0100" channel="Discovery Channel">
-    <title lang="fr">Adjugé vendu : La boutique (?)</title>
-    <category lang="fr">Téléréalité</category>
+  <programme start="20190125231100 +0100" stop="20190125233900 +0100" channel="Chasse et pêche">
+    <title lang="fr">Au coeur de la nature (?)</title>
+    <credits>
+      <director>Teemu Hostikka</director>
+    </credits>
+    <category lang="fr">Chasse</category>
   </programme>
-  <programme start="20190123234500 +0100" stop="20190124001000 +0100" channel="Discovery Channel">
-    <title lang="fr">Hardcore Money (?)</title>
-    <category lang="fr">Téléréalité</category>
+  <programme start="20190125233900 +0100" stop="20190126000700 +0100" channel="Chasse et pêche">
+    <title lang="fr">Au coeur de la nature (?)</title>
+    <credits>
+      <director>Teemu Hostikka</director>
+    </credits>
+    <category lang="fr">Chasse</category>
+  </programme>
+  <programme start="20190126000700 +0100" stop="20190126003500 +0100" channel="Chasse et pêche">
+    <title lang="fr">Au coeur de la nature (?)</title>
+    <credits>
+      <director>Teemu Hostikka</director>
+    </credits>
+    <category lang="fr">Chasse</category>
+  </programme>
+  <programme start="20190126003500 +0100" stop="20190126010300 +0100" channel="Chasse et pêche">
+    <title lang="fr">Au coeur de la nature (?)</title>
+    <credits>
+      <director>Teemu Hostikka</director>
+    </credits>
+    <category lang="fr">Chasse</category>
+  </programme>
+  <programme start="20190126010300 +0100" stop="20190126013100 +0100" channel="Chasse et pêche">
+    <title lang="fr">Au coeur de la nature (?)</title>
+    <credits>
+      <director>Teemu Hostikka</director>
+    </credits>
+    <category lang="fr">Chasse</category>
+  </programme>
+  <programme start="20190126013100 +0100" stop="20190126014300 +0100" channel="Chasse et pêche">
+    <title lang="fr">Cap sur la pêche française (?)</title>
+    <credits>
+      <director>Sophie Wahl</director>
+    </credits>
+    <category lang="fr">Pêche</category>
+  </programme>
+  <programme start="20190126014300 +0100" stop="20190126015500 +0100" channel="Chasse et pêche">
+    <title lang="fr">Cap sur la pêche française (?)</title>
+    <credits>
+      <director>Sophie Wahl</director>
+    </credits>
+    <category lang="fr">Pêche</category>
+  </programme>
+  <programme start="20190126015500 +0100" stop="20190126020800 +0100" channel="Chasse et pêche">
+    <title lang="fr">Cap sur la pêche française (?)</title>
+    <credits>
+      <director>Sophie Wahl</director>
+    </credits>
+    <category lang="fr">Pêche</category>
+  </programme>
+  <programme start="20190126020800 +0100" stop="20190126022000 +0100" channel="Chasse et pêche">
+    <title lang="fr">Cap sur la pêche française (?)</title>
+    <credits>
+      <director>Sophie Wahl</director>
+    </credits>
+    <category lang="fr">Pêche</category>
+  </programme>
+  <programme start="20190126022000 +0100" stop="20190126023500 +0100" channel="Chasse et pêche">
+    <title lang="fr">Cap sur la pêche française (?)</title>
+    <credits>
+      <director>Sophie Wahl</director>
+    </credits>
+    <category lang="fr">Pêche</category>
+  </programme>
+  <programme start="20190126023500 +0100" stop="20190126050100 +0100" channel="Chasse et pêche">
+    <title lang="fr">Programmes de la nuit</title>
+    <category lang="fr">Programme indéterminé</category>
+  </programme>
+  <programme start="20190126050100 +0100" stop="20190126053100 +0100" channel="Chasse et pêche">
+    <title lang="fr">Sur les traces du brochet en vallée de Meuse (?)</title>
+    <credits>
+      <director>Anne-Cécile Monnier</director>
+    </credits>
+    <category lang="fr">Pêche</category>
   </programme>
   <programme start="20190124001000 +0100" stop="20190124003500 +0100" channel="Discovery Channel">
     <title lang="fr">Burgers &amp; Co (?)</title>
@@ -1382,188 +1156,153 @@
     <title lang="fr">Les bûcherons de l'extrême (?)</title>
     <category lang="fr">Découvertes</category>
   </programme>
-  <programme start="20190123002500 +0100" stop="20190123011500 +0100" channel="Discovery Science">
-    <title lang="fr">Secrets enfouis (?)</title>
+  <programme start="20190125060000 +0100" stop="20190125062000 +0100" channel="Discovery Channel">
+    <title lang="fr">Adjugé vendu : La boutique (?)</title>
+    <category lang="fr">Téléréalité</category>
+  </programme>
+  <programme start="20190125062000 +0100" stop="20190125064500 +0100" channel="Discovery Channel">
+    <title lang="fr">Hardcore Money (?)</title>
+    <category lang="fr">Téléréalité</category>
+  </programme>
+  <programme start="20190125064500 +0100" stop="20190125070500 +0100" channel="Discovery Channel">
+    <title lang="fr">Hardcore Money (?)</title>
+    <category lang="fr">Téléréalité</category>
+  </programme>
+  <programme start="20190125070500 +0100" stop="20190125073000 +0100" channel="Discovery Channel">
+    <title lang="fr">Hardcore Money (?)</title>
+    <category lang="fr">Téléréalité</category>
+  </programme>
+  <programme start="20190125073000 +0100" stop="20190125075500 +0100" channel="Discovery Channel">
+    <title lang="fr">Hardcore Money (?)</title>
+    <category lang="fr">Téléréalité</category>
+  </programme>
+  <programme start="20190125075500 +0100" stop="20190125082000 +0100" channel="Discovery Channel">
+    <title lang="fr">Hardcore Money (?)</title>
+    <category lang="fr">Téléréalité</category>
+  </programme>
+  <programme start="20190125082000 +0100" stop="20190125091000 +0100" channel="Discovery Channel">
+    <title lang="fr">Sauveurs de trésors (?)</title>
     <category lang="fr">Découvertes</category>
   </programme>
-  <programme start="20190123011500 +0100" stop="20190123020000 +0100" channel="Discovery Science">
-    <title lang="fr">Secrets enfouis (?)</title>
+  <programme start="20190125091000 +0100" stop="20190125100500 +0100" channel="Discovery Channel">
+    <title lang="fr">Sauveurs de trésors (?)</title>
     <category lang="fr">Découvertes</category>
   </programme>
-  <programme start="20190123020000 +0100" stop="20190123025000 +0100" channel="Discovery Science">
-    <title lang="fr">Objectif Terre (?)</title>
-    <category lang="fr">Environnement</category>
-  </programme>
-  <programme start="20190123025000 +0100" stop="20190123034000 +0100" channel="Discovery Science">
-    <title lang="fr">Objectif Terre (?)</title>
-    <category lang="fr">Environnement</category>
-  </programme>
-  <programme start="20190123034000 +0100" stop="20190123042500 +0100" channel="Discovery Science">
-    <title lang="fr">Objectif Terre (?)</title>
-    <category lang="fr">Environnement</category>
-  </programme>
-  <programme start="20190123042500 +0100" stop="20190123051500 +0100" channel="Discovery Science">
-    <title lang="fr">Réactions en chaînes (?)</title>
-    <credits>
-      <presenter>Adam Savage</presenter>
-      <presenter>Jamie Hyneman</presenter>
-    </credits>
-    <category lang="fr">Magazine scientifique</category>
-  </programme>
-  <programme start="20190123051500 +0100" stop="20190123060000 +0100" channel="Discovery Science">
-    <title lang="fr">Affrontement de superhumains (?)</title>
-    <category lang="fr">Sciences et technique</category>
-  </programme>
-  <programme start="20190123060000 +0100" stop="20190123062500 +0100" channel="Discovery Science">
-    <title lang="fr">Comment ça marche ? (?)</title>
-    <credits>
-      <director>Emma Shaw</director>
-      <director>John Boam</director>
-      <director>Karen O'Donovan</director>
-    </credits>
-    <category lang="fr">Sciences et technique</category>
-  </programme>
-  <programme start="20190123062500 +0100" stop="20190123065000 +0100" channel="Discovery Science">
-    <title lang="fr">Comment ça marche ? (?)</title>
-    <credits>
-      <director>Emma Shaw</director>
-      <director>John Boam</director>
-      <director>Karen O'Donovan</director>
-    </credits>
-    <category lang="fr">Sciences et technique</category>
-  </programme>
-  <programme start="20190123065000 +0100" stop="20190123071500 +0100" channel="Discovery Science">
-    <title lang="fr">Comment c'est fait (?)</title>
-    <category lang="fr">Sciences et technique</category>
-  </programme>
-  <programme start="20190123071500 +0100" stop="20190123074500 +0100" channel="Discovery Science">
-    <title lang="fr">Comment c'est fait (?)</title>
-    <category lang="fr">Sciences et technique</category>
-  </programme>
-  <programme start="20190123074500 +0100" stop="20190123081000 +0100" channel="Discovery Science">
-    <title lang="fr">Comment c'est fait (?)</title>
-    <category lang="fr">Sciences et technique</category>
-  </programme>
-  <programme start="20190123081000 +0100" stop="20190123083500 +0100" channel="Discovery Science">
-    <title lang="fr">Comment c'est fait (?)</title>
-    <category lang="fr">Sciences et technique</category>
-  </programme>
-  <programme start="20190123083500 +0100" stop="20190123092500 +0100" channel="Discovery Science">
-    <title lang="fr">Le soulèvement des machines (?)</title>
-    <category lang="fr">Sciences et technique</category>
-  </programme>
-  <programme start="20190123092500 +0100" stop="20190123102000 +0100" channel="Discovery Science">
-    <title lang="fr">Seven Seas Explorer : Construire le luxe (?)</title>
-    <category lang="fr">Sciences et technique</category>
-  </programme>
-  <programme start="20190123102000 +0100" stop="20190123111000 +0100" channel="Discovery Science">
-    <title lang="fr">Seven Seas Explorer : Construire le luxe (?)</title>
-    <category lang="fr">Sciences et technique</category>
-  </programme>
-  <programme start="20190123111000 +0100" stop="20190123113500 +0100" channel="Discovery Science">
-    <title lang="fr">Amérique : mythes et réalité (?)</title>
-    <credits>
-      <director>Rob Lihani</director>
-      <director>Ron Nelson</director>
-    </credits>
-    <category lang="fr">Histoire</category>
-  </programme>
-  <programme start="20190123113500 +0100" stop="20190123120500 +0100" channel="Discovery Science">
-    <title lang="fr">Amérique : mythes et réalité (?)</title>
-    <credits>
-      <director>Rob Lihani</director>
-      <director>Ron Nelson</director>
-    </credits>
-    <category lang="fr">Histoire</category>
-  </programme>
-  <programme start="20190123120500 +0100" stop="20190123123000 +0100" channel="Discovery Science">
-    <title lang="fr">Amérique : mythes et réalité (?)</title>
-    <credits>
-      <director>Rob Lihani</director>
-      <director>Ron Nelson</director>
-    </credits>
-    <category lang="fr">Histoire</category>
-  </programme>
-  <programme start="20190123123000 +0100" stop="20190123125500 +0100" channel="Discovery Science">
-    <title lang="fr">Amérique : mythes et réalité (?)</title>
-    <credits>
-      <director>Rob Lihani</director>
-      <director>Ron Nelson</director>
-    </credits>
-    <category lang="fr">Histoire</category>
-  </programme>
-  <programme start="20190123125500 +0100" stop="20190123132000 +0100" channel="Discovery Science">
-    <title lang="fr">Comment c'est fait : Voitures de rêve (?)</title>
-    <category lang="fr">Sciences et technique</category>
-  </programme>
-  <programme start="20190123132000 +0100" stop="20190123135000 +0100" channel="Discovery Science">
-    <title lang="fr">Comment c'est fait : Voitures de rêve (?)</title>
-    <category lang="fr">Sciences et technique</category>
-  </programme>
-  <programme start="20190123135000 +0100" stop="20190123144000 +0100" channel="Discovery Science">
-    <title lang="fr">Chasseurs de tornades (?)</title>
-    <credits>
-      <director>Lawrence Cumbo</director>
-    </credits>
-    <category lang="fr">Sciences et technique</category>
-  </programme>
-  <programme start="20190123144000 +0100" stop="20190123153500 +0100" channel="Discovery Science">
-    <title lang="fr">Chasseurs de tornades (?)</title>
-    <credits>
-      <director>Lawrence Cumbo</director>
-    </credits>
-    <category lang="fr">Sciences et technique</category>
-  </programme>
-  <programme start="20190123153500 +0100" stop="20190123163000 +0100" channel="Discovery Science">
-    <title lang="fr">Chasseurs de tornades (?)</title>
-    <credits>
-      <director>Lawrence Cumbo</director>
-    </credits>
-    <category lang="fr">Sciences et technique</category>
-  </programme>
-  <programme start="20190123163000 +0100" stop="20190123172500 +0100" channel="Discovery Science">
-    <title lang="fr">Phénomènes vus de l'espace (?)</title>
-    <category lang="fr">Nature</category>
-  </programme>
-  <programme start="20190123172500 +0100" stop="20190123181500 +0100" channel="Discovery Science">
-    <title lang="fr">Phénomènes vus de l'espace (?)</title>
-    <category lang="fr">Nature</category>
-  </programme>
-  <programme start="20190123181500 +0100" stop="20190123191000 +0100" channel="Discovery Science">
-    <title lang="fr">Phénomènes vus de l'espace (?)</title>
-    <category lang="fr">Nature</category>
-  </programme>
-  <programme start="20190123191000 +0100" stop="20190123193500 +0100" channel="Discovery Science">
-    <title lang="fr">Comment c'est fait (?)</title>
-    <category lang="fr">Sciences et technique</category>
-  </programme>
-  <programme start="20190123193500 +0100" stop="20190123200500 +0100" channel="Discovery Science">
-    <title lang="fr">Comment c'est fait (?)</title>
-    <category lang="fr">Sciences et technique</category>
-  </programme>
-  <programme start="20190123200500 +0100" stop="20190123203000 +0100" channel="Discovery Science">
-    <title lang="fr">Comment c'est fait (?)</title>
-    <category lang="fr">Sciences et technique</category>
-  </programme>
-  <programme start="20190123203000 +0100" stop="20190123210000 +0100" channel="Discovery Science">
-    <title lang="fr">Comment c'est fait (?)</title>
-    <category lang="fr">Sciences et technique</category>
-  </programme>
-  <programme start="20190123210000 +0100" stop="20190123215000 +0100" channel="Discovery Science">
-    <title lang="fr">Titans des mers (?)</title>
-    <category lang="fr">Découvertes</category>
-  </programme>
-  <programme start="20190123215000 +0100" stop="20190123224000 +0100" channel="Discovery Science">
-    <title lang="fr">Titans des mers (?)</title>
-    <category lang="fr">Découvertes</category>
-  </programme>
-  <programme start="20190123224000 +0100" stop="20190123233500 +0100" channel="Discovery Science">
-    <title lang="fr">Dans les coulisses des aéroports (?)</title>
+  <programme start="20190125100500 +0100" stop="20190125103000 +0100" channel="Discovery Channel">
+    <title lang="fr">Au coeur des douanes (?)</title>
     <category lang="fr">Société</category>
   </programme>
-  <programme start="20190123233500 +0100" stop="20190124002500 +0100" channel="Discovery Science">
-    <title lang="fr">X-Ray Mega Airport (?)</title>
-    <category lang="fr">Sciences et technique</category>
+  <programme start="20190125103000 +0100" stop="20190125105500 +0100" channel="Discovery Channel">
+    <title lang="fr">Au coeur des douanes (?)</title>
+    <category lang="fr">Société</category>
+  </programme>
+  <programme start="20190125105500 +0100" stop="20190125115000 +0100" channel="Discovery Channel">
+    <title lang="fr">Occasions à saisir : du Japon à Dubai (?)</title>
+    <category lang="fr">Découvertes</category>
+  </programme>
+  <programme start="20190125115000 +0100" stop="20190125124000 +0100" channel="Discovery Channel">
+    <title lang="fr">Occasions à saisir : du Japon à Dubai (?)</title>
+    <category lang="fr">Découvertes</category>
+  </programme>
+  <programme start="20190125124000 +0100" stop="20190125130500 +0100" channel="Discovery Channel">
+    <title lang="fr">Burgers &amp; Co (?)</title>
+    <category lang="fr">Téléréalité</category>
+  </programme>
+  <programme start="20190125130500 +0100" stop="20190125133500 +0100" channel="Discovery Channel">
+    <title lang="fr">Burgers &amp; Co (?)</title>
+    <category lang="fr">Téléréalité</category>
+  </programme>
+  <programme start="20190125133500 +0100" stop="20190125142500 +0100" channel="Discovery Channel">
+    <title lang="fr">Arctic Rescue (?)</title>
+    <category lang="fr">Téléréalité</category>
+  </programme>
+  <programme start="20190125142500 +0100" stop="20190125152000 +0100" channel="Discovery Channel">
+    <title lang="fr">Arctic Rescue (?)</title>
+    <category lang="fr">Téléréalité</category>
+  </programme>
+  <programme start="20190125152000 +0100" stop="20190125161500 +0100" channel="Discovery Channel">
+    <title lang="fr">Americars : pièces détachées (?)</title>
+    <category lang="fr">Téléréalité</category>
+  </programme>
+  <programme start="20190125161500 +0100" stop="20190125171000 +0100" channel="Discovery Channel">
+    <title lang="fr">Americars : pièces détachées (?)</title>
+    <category lang="fr">Téléréalité</category>
+  </programme>
+  <programme start="20190125171000 +0100" stop="20190125180000 +0100" channel="Discovery Channel">
+    <title lang="fr">Americars : pièces détachées (?)</title>
+    <category lang="fr">Téléréalité</category>
+  </programme>
+  <programme start="20190125180000 +0100" stop="20190125185500 +0100" channel="Discovery Channel">
+    <title lang="fr">Americars : pièces détachées (?)</title>
+    <category lang="fr">Téléréalité</category>
+  </programme>
+  <programme start="20190125185500 +0100" stop="20190125195000 +0100" channel="Discovery Channel">
+    <title lang="fr">Americars : pièces détachées (?)</title>
+    <category lang="fr">Téléréalité</category>
+  </programme>
+  <programme start="20190125195000 +0100" stop="20190125201500 +0100" channel="Discovery Channel">
+    <title lang="fr">Hardcore Money (?)</title>
+    <category lang="fr">Téléréalité</category>
+  </programme>
+  <programme start="20190125201500 +0100" stop="20190125204500 +0100" channel="Discovery Channel">
+    <title lang="fr">Hardcore Money (?)</title>
+    <category lang="fr">Téléréalité</category>
+  </programme>
+  <programme start="20190125204500 +0100" stop="20190125211000 +0100" channel="Discovery Channel">
+    <title lang="fr">Burgers &amp; Co (?)</title>
+    <category lang="fr">Téléréalité</category>
+  </programme>
+  <programme start="20190125211000 +0100" stop="20190125213500 +0100" channel="Discovery Channel">
+    <title lang="fr">Burgers &amp; Co (?)</title>
+    <category lang="fr">Téléréalité</category>
+  </programme>
+  <programme start="20190125213500 +0100" stop="20190125222500 +0100" channel="Discovery Channel">
+    <title lang="fr">Food Paradise : les meilleures adresses (?)</title>
+    <category lang="fr">Téléréalité</category>
+  </programme>
+  <programme start="20190125222500 +0100" stop="20190125232000 +0100" channel="Discovery Channel">
+    <title lang="fr">Alaska : La ruée vers l'or (?)</title>
+    <category lang="fr">Téléréalité</category>
+  </programme>
+  <programme start="20190125232000 +0100" stop="20190125234500 +0100" channel="Discovery Channel">
+    <title lang="fr">Hardcore Money (?)</title>
+    <category lang="fr">Téléréalité</category>
+  </programme>
+  <programme start="20190125234500 +0100" stop="20190126001000 +0100" channel="Discovery Channel">
+    <title lang="fr">Hardcore Money (?)</title>
+    <category lang="fr">Téléréalité</category>
+  </programme>
+  <programme start="20190126001000 +0100" stop="20190126003500 +0100" channel="Discovery Channel">
+    <title lang="fr">Burgers &amp; Co (?)</title>
+    <category lang="fr">Téléréalité</category>
+  </programme>
+  <programme start="20190126003500 +0100" stop="20190126010000 +0100" channel="Discovery Channel">
+    <title lang="fr">Burgers &amp; Co (?)</title>
+    <category lang="fr">Téléréalité</category>
+  </programme>
+  <programme start="20190126010000 +0100" stop="20190126015000 +0100" channel="Discovery Channel">
+    <title lang="fr">Occasions à saisir : du Japon à Dubai (?)</title>
+    <category lang="fr">Découvertes</category>
+  </programme>
+  <programme start="20190126015000 +0100" stop="20190126024000 +0100" channel="Discovery Channel">
+    <title lang="fr">Occasions à saisir : du Japon à Dubai (?)</title>
+    <category lang="fr">Découvertes</category>
+  </programme>
+  <programme start="20190126024000 +0100" stop="20190126030500 +0100" channel="Discovery Channel">
+    <title lang="fr">Burgers &amp; Co (?)</title>
+    <category lang="fr">Téléréalité</category>
+  </programme>
+  <programme start="20190126030500 +0100" stop="20190126033000 +0100" channel="Discovery Channel">
+    <title lang="fr">Burgers &amp; Co (?)</title>
+    <category lang="fr">Téléréalité</category>
+  </programme>
+  <programme start="20190126033000 +0100" stop="20190126042000 +0100" channel="Discovery Channel">
+    <title lang="fr">Food Paradise : les meilleures adresses (?)</title>
+    <category lang="fr">Téléréalité</category>
+  </programme>
+  <programme start="20190126042000 +0100" stop="20190126051000 +0100" channel="Discovery Channel">
+    <title lang="fr">Arctic Rescue (?)</title>
+    <category lang="fr">Téléréalité</category>
   </programme>
   <programme start="20190124002500 +0100" stop="20190124011500 +0100" channel="Discovery Science">
     <title lang="fr">Secrets enfouis (?)</title>
@@ -1812,270 +1551,6 @@
     <title lang="fr">Affrontement de superhumains (?)</title>
     <category lang="fr">Sciences et technique</category>
   </programme>
-  <programme start="20190123002500 +0100" stop="20190123011400 +0100" channel="Science &amp; Vie TV">
-    <title lang="fr">Construire l'impossible (?)</title>
-    <credits>
-      <director>Suzanne Carvin</director>
-      <director>Tim Williams</director>
-      <director>Todd Eckerson Wendel</director>
-    </credits>
-    <category lang="fr">Sciences et technique</category>
-  </programme>
-  <programme start="20190123011400 +0100" stop="20190123020300 +0100" channel="Science &amp; Vie TV">
-    <title lang="fr">Construire l'impossible (?)</title>
-    <credits>
-      <director>Suzanne Carvin</director>
-      <director>Tim Williams</director>
-      <director>Todd Eckerson Wendel</director>
-    </credits>
-    <category lang="fr">Sciences et technique</category>
-  </programme>
-  <programme start="20190123020300 +0100" stop="20190123023300 +0100" channel="Science &amp; Vie TV">
-    <title lang="fr">Le mag de la science : hebdo (?)</title>
-    <credits>
-      <presenter>Jérôme Bonaldi</presenter>
-    </credits>
-    <category lang="fr">Magazine scientifique</category>
-  </programme>
-  <programme start="20190123023300 +0100" stop="20190123032900 +0100" channel="Science &amp; Vie TV">
-    <title lang="fr">La tragédie électronique (?)</title>
-    <credits>
-      <director>Cosima Dannoritzer</director>
-    </credits>
-    <category lang="fr">Environnement</category>
-  </programme>
-  <programme start="20190123032900 +0100" stop="20190123045600 +0100" channel="Science &amp; Vie TV">
-    <title lang="fr">Urban Mining : le recyclage des métaux (?)</title>
-    <credits>
-      <director>Christoph Gretzmacher</director>
-    </credits>
-    <category lang="fr">Sciences et technique</category>
-  </programme>
-  <programme start="20190123045600 +0100" stop="20190123052600 +0100" channel="Science &amp; Vie TV">
-    <title lang="fr">Le mag de la science : hebdo (?)</title>
-    <credits>
-      <presenter>Jérôme Bonaldi</presenter>
-    </credits>
-    <category lang="fr">Magazine scientifique</category>
-  </programme>
-  <programme start="20190123062300 +0100" stop="20190123071800 +0100" channel="Science &amp; Vie TV">
-    <title lang="fr">Vers une famine planétaire ? (?)</title>
-    <credits>
-      <director>Christiane Schwarz</director>
-      <director>Marcel Weingärtner</director>
-    </credits>
-    <category lang="fr">Sciences et technique</category>
-  </programme>
-  <programme start="20190123071800 +0100" stop="20190123081400 +0100" channel="Science &amp; Vie TV">
-    <title lang="fr">Vivre en 2040 (?)</title>
-    <credits>
-      <director>Aurine Crémieu</director>
-      <director>Elsa Le Peutrec</director>
-      <director>Philippe Baron</director>
-    </credits>
-    <category lang="fr">Sciences et technique</category>
-  </programme>
-  <programme start="20190123081400 +0100" stop="20190123084000 +0100" channel="Science &amp; Vie TV">
-    <title lang="fr">Des bricoleurs de génie (?)</title>
-    <credits>
-      <director>Chris Triffo</director>
-    </credits>
-    <category lang="fr">Sciences et technique</category>
-  </programme>
-  <programme start="20190123084000 +0100" stop="20190123090600 +0100" channel="Science &amp; Vie TV">
-    <title lang="fr">Des bricoleurs de génie (?)</title>
-    <credits>
-      <director>Chris Triffo</director>
-    </credits>
-    <category lang="fr">Sciences et technique</category>
-  </programme>
-  <programme start="20190123090600 +0100" stop="20190123091800 +0100" channel="Science &amp; Vie TV">
-    <title lang="fr">Les rendez-vous de l'Espace (?)</title>
-    <credits>
-      <presenter>Axel Villard</presenter>
-      <presenter>Axel Villard</presenter>
-      <presenter>Axel Villard</presenter>
-    </credits>
-    <category lang="fr">Magazine scientifique</category>
-  </programme>
-  <programme start="20190123091800 +0100" stop="20190123094500 +0100" channel="Science &amp; Vie TV">
-    <title lang="fr">Les nouvelles frontières de l'espace (?)</title>
-    <credits>
-      <director>Andrew Thomson</director>
-      <director>Andrew Thomson</director>
-    </credits>
-    <category lang="fr">Sciences et technique</category>
-  </programme>
-  <programme start="20190123094500 +0100" stop="20190123103100 +0100" channel="Science &amp; Vie TV">
-    <title lang="fr">Les mystères de l'univers (?)</title>
-    <credits>
-      <director>Erik Thompson</director>
-      <director>Erik Thompson</director>
-    </credits>
-    <category lang="fr">Sciences et technique</category>
-  </programme>
-  <programme start="20190123103100 +0100" stop="20190123111700 +0100" channel="Science &amp; Vie TV">
-    <title lang="fr">Les mystères de l'univers (?)</title>
-    <credits>
-      <director>Erik Thompson</director>
-      <director>Erik Thompson</director>
-    </credits>
-    <category lang="fr">Sciences et technique</category>
-  </programme>
-  <programme start="20190123111700 +0100" stop="20190123120500 +0100" channel="Science &amp; Vie TV">
-    <title lang="fr">Construire l'impossible (?)</title>
-    <credits>
-      <director>Suzanne Carvin</director>
-      <director>Tim Williams</director>
-      <director>Todd Eckerson Wendel</director>
-    </credits>
-    <category lang="fr">Sciences et technique</category>
-  </programme>
-  <programme start="20190123120500 +0100" stop="20190123125400 +0100" channel="Science &amp; Vie TV">
-    <title lang="fr">Construire l'impossible (?)</title>
-    <credits>
-      <director>Suzanne Carvin</director>
-      <director>Tim Williams</director>
-      <director>Todd Eckerson Wendel</director>
-    </credits>
-    <category lang="fr">Sciences et technique</category>
-  </programme>
-  <programme start="20190123125400 +0100" stop="20190123134700 +0100" channel="Science &amp; Vie TV">
-    <title lang="fr">En mouvement (?)</title>
-    <category lang="fr">Sciences et technique</category>
-  </programme>
-  <programme start="20190123134700 +0100" stop="20190123141400 +0100" channel="Science &amp; Vie TV">
-    <title lang="fr">Accro aux gadgets (?)</title>
-    <category lang="fr">Sciences et technique</category>
-  </programme>
-  <programme start="20190123141400 +0100" stop="20190123144000 +0100" channel="Science &amp; Vie TV">
-    <title lang="fr">Des bricoleurs de génie (?)</title>
-    <credits>
-      <director>Chris Triffo</director>
-    </credits>
-    <category lang="fr">Sciences et technique</category>
-  </programme>
-  <programme start="20190123144000 +0100" stop="20190123150800 +0100" channel="Science &amp; Vie TV">
-    <title lang="fr">Il était une fois... l'Homme (?)</title>
-    <credits>
-      <director>Albert Barillé</director>
-      <writer>Albert Barillé</writer>
-    </credits>
-    <category lang="fr">Dessin animé</category>
-  </programme>
-  <programme start="20190123150800 +0100" stop="20190123153400 +0100" channel="Science &amp; Vie TV">
-    <title lang="fr">Il était une fois... l'Homme (?)</title>
-    <credits>
-      <director>Albert Barillé</director>
-      <writer>Albert Barillé</writer>
-    </credits>
-    <category lang="fr">Dessin animé</category>
-  </programme>
-  <programme start="20190123153400 +0100" stop="20190123162600 +0100" channel="Science &amp; Vie TV">
-    <title lang="fr">On n'est pas que des cobayes (?)</title>
-    <credits>
-      <director>Frédéric Febvre</director>
-      <director>Laurent Sbasnik</director>
-      <director>Pascal Richter</director>
-    </credits>
-    <category lang="fr">Sciences et technique</category>
-  </programme>
-  <programme start="20190123162600 +0100" stop="20190123163200 +0100" channel="Science &amp; Vie TV">
-    <title lang="fr">Cap'taine Snap (?)</title>
-    <credits>
-      <presenter>Clémence Bretécher</presenter>
-    </credits>
-    <category lang="fr">Magazine scientifique</category>
-  </programme>
-  <programme start="20190123163200 +0100" stop="20190123164800 +0100" channel="Science &amp; Vie TV">
-    <title lang="fr">Ramène ta science ! (?)</title>
-    <credits>
-      <director>David Frecinaux</director>
-      <director>David Frecinaux</director>
-      <director>David Frecinaux</director>
-    </credits>
-    <category lang="fr">Sciences et technique</category>
-  </programme>
-  <programme start="20190123164800 +0100" stop="20190123165400 +0100" channel="Science &amp; Vie TV">
-    <title lang="fr">Les chroniques de Dr Nozman (?)</title>
-    <category lang="fr">Magazine de société</category>
-  </programme>
-  <programme start="20190123165400 +0100" stop="20190123171100 +0100" channel="Science &amp; Vie TV">
-    <title lang="fr">L'esprit sorcier (?)</title>
-    <category lang="fr">Magazine de découvertes</category>
-  </programme>
-  <programme start="20190123171100 +0100" stop="20190123181100 +0100" channel="Science &amp; Vie TV">
-    <title lang="fr">Agir pour le climat (?)</title>
-    <credits>
-      <director>Hayden Denman</director>
-    </credits>
-    <category lang="fr">Sciences et technique</category>
-  </programme>
-  <programme start="20190123181100 +0100" stop="20190123185300 +0100" channel="Science &amp; Vie TV">
-    <title lang="fr">Accro aux gadgets (?)</title>
-    <category lang="fr">Sciences et technique</category>
-  </programme>
-  <programme start="20190123185300 +0100" stop="20190123192000 +0100" channel="Science &amp; Vie TV">
-    <title lang="fr">Accro aux gadgets (?)</title>
-    <category lang="fr">Sciences et technique</category>
-  </programme>
-  <programme start="20190123192000 +0100" stop="20190123193200 +0100" channel="Science &amp; Vie TV">
-    <title lang="fr">Les rendez-vous de l'Espace (?)</title>
-    <credits>
-      <presenter>Axel Villard</presenter>
-      <presenter>Axel Villard</presenter>
-      <presenter>Axel Villard</presenter>
-    </credits>
-    <category lang="fr">Magazine scientifique</category>
-  </programme>
-  <programme start="20190123193200 +0100" stop="20190123195900 +0100" channel="Science &amp; Vie TV">
-    <title lang="fr">Les nouvelles frontières de l'espace (?)</title>
-    <credits>
-      <director>Andrew Thomson</director>
-      <director>Andrew Thomson</director>
-    </credits>
-    <category lang="fr">Sciences et technique</category>
-  </programme>
-  <programme start="20190123195900 +0100" stop="20190123204500 +0100" channel="Science &amp; Vie TV">
-    <title lang="fr">Les mystères de l'univers (?)</title>
-    <credits>
-      <director>Erik Thompson</director>
-      <director>Erik Thompson</director>
-    </credits>
-    <category lang="fr">Sciences et technique</category>
-  </programme>
-  <programme start="20190123204500 +0100" stop="20190123214100 +0100" channel="Science &amp; Vie TV">
-    <title lang="fr">Under the Pole (?)</title>
-    <credits>
-      <director>Jean-Gabriel Leynaud</director>
-    </credits>
-    <category lang="fr">Découvertes</category>
-  </programme>
-  <programme start="20190123214100 +0100" stop="20190123223800 +0100" channel="Science &amp; Vie TV">
-    <title lang="fr">Under the Pole (?)</title>
-    <credits>
-      <director>Jean-Gabriel Leynaud</director>
-    </credits>
-    <category lang="fr">Découvertes</category>
-  </programme>
-  <programme start="20190123223800 +0100" stop="20190123232600 +0100" channel="Science &amp; Vie TV">
-    <title lang="fr">Forces de la nature (?)</title>
-    <credits>
-      <director>Geoffrey Sharp</director>
-      <director>Geoffrey Sharp</director>
-      <director>Matthew Dyas</director>
-    </credits>
-    <category lang="fr">Découvertes</category>
-  </programme>
-  <programme start="20190123232600 +0100" stop="20190124001400 +0100" channel="Science &amp; Vie TV">
-    <title lang="fr">Forces de la nature (?)</title>
-    <credits>
-      <director>Geoffrey Sharp</director>
-      <director>Geoffrey Sharp</director>
-      <director>Matthew Dyas</director>
-    </credits>
-    <category lang="fr">Découvertes</category>
-  </programme>
   <programme start="20190124001400 +0100" stop="20190124004000 +0100" channel="Science &amp; Vie TV">
     <title lang="fr">Enquêtes en eaux profondes (?)</title>
     <credits>
@@ -2137,7 +1612,6 @@
     <title lang="fr">Les mystères de l'univers (?)</title>
     <credits>
       <director>Erik Thompson</director>
-      <director>Erik Thompson</director>
     </credits>
     <category lang="fr">Sciences et technique</category>
   </programme>
@@ -2161,11 +1635,6 @@
   </programme>
   <programme start="20190124080500 +0100" stop="20190124083300 +0100" channel="Science &amp; Vie TV">
     <title lang="fr">C'est pas sorcier (?)</title>
-    <credits>
-      <presenter>Frédéric Courant</presenter>
-      <presenter>Jamy Gourmaud</presenter>
-      <presenter>Sabine Quindou</presenter>
-    </credits>
     <category lang="fr">Magazine éducatif</category>
   </programme>
   <programme start="20190124083300 +0100" stop="20190124085900 +0100" channel="Science &amp; Vie TV">
@@ -2186,8 +1655,6 @@
     <title lang="fr">Les rendez-vous de l'Espace (?)</title>
     <credits>
       <presenter>Axel Villard</presenter>
-      <presenter>Axel Villard</presenter>
-      <presenter>Axel Villard</presenter>
     </credits>
     <category lang="fr">Magazine scientifique</category>
   </programme>
@@ -2205,7 +1672,6 @@
   <programme start="20190124105200 +0100" stop="20190124111900 +0100" channel="Science &amp; Vie TV">
     <title lang="fr">Les nouvelles frontières de l'espace (?)</title>
     <credits>
-      <director>Andrew Thomson</director>
       <director>Andrew Thomson</director>
     </credits>
     <category lang="fr">Sciences et technique</category>
@@ -2250,7 +1716,6 @@
     <title lang="fr">Forces de la nature (?)</title>
     <credits>
       <director>Geoffrey Sharp</director>
-      <director>Geoffrey Sharp</director>
       <director>Matthew Dyas</director>
     </credits>
     <category lang="fr">Découvertes</category>
@@ -2258,7 +1723,6 @@
   <programme start="20190124152700 +0100" stop="20190124161500 +0100" channel="Science &amp; Vie TV">
     <title lang="fr">Forces de la nature (?)</title>
     <credits>
-      <director>Geoffrey Sharp</director>
       <director>Geoffrey Sharp</director>
       <director>Matthew Dyas</director>
     </credits>
@@ -2325,15 +1789,12 @@
     <title lang="fr">Les rendez-vous de l'Espace (?)</title>
     <credits>
       <presenter>Axel Villard</presenter>
-      <presenter>Axel Villard</presenter>
-      <presenter>Axel Villard</presenter>
     </credits>
     <category lang="fr">Magazine scientifique</category>
   </programme>
   <programme start="20190125003300 +0100" stop="20190125011900 +0100" channel="Science &amp; Vie TV">
     <title lang="fr">Les mystères de l'univers (?)</title>
     <credits>
-      <director>Erik Thompson</director>
       <director>Erik Thompson</director>
     </credits>
     <category lang="fr">Sciences et technique</category>
@@ -2345,7 +1806,6 @@
   <programme start="20190125014300 +0100" stop="20190125022900 +0100" channel="Science &amp; Vie TV">
     <title lang="fr">Les mystères de l'univers (?)</title>
     <credits>
-      <director>Erik Thompson</director>
       <director>Erik Thompson</director>
     </credits>
     <category lang="fr">Sciences et technique</category>
@@ -2370,161 +1830,226 @@
     <title lang="fr">Fin des programmes</title>
     <category lang="fr">Fin</category>
   </programme>
-  <programme start="20190123000500 +0100" stop="20190123003000 +0100" channel="Extreme Sports Channel">
-    <title lang="fr">World of X-Games (?)</title>
-    <category lang="fr">Sport</category>
+  <programme start="20190125060800 +0100" stop="20190125070100 +0100" channel="Science &amp; Vie TV">
+    <title lang="fr">Au coeur de la ville (?)</title>
+    <credits>
+      <director>Ian White</director>
+    </credits>
+    <category lang="fr">Sciences et technique</category>
   </programme>
-  <programme start="20190123003000 +0100" stop="20190123005500 +0100" channel="Extreme Sports Channel">
-    <title lang="fr">Now Boarding (?)</title>
-    <category lang="fr">Skate-board</category>
+  <programme start="20190125070100 +0100" stop="20190125075400 +0100" channel="Science &amp; Vie TV">
+    <title lang="fr">Au coeur de la ville (?)</title>
+    <credits>
+      <director>Ian White</director>
+    </credits>
+    <category lang="fr">Sciences et technique</category>
   </programme>
-  <programme start="20190123005500 +0100" stop="20190123012000 +0100" channel="Extreme Sports Channel">
-    <title lang="fr">Now Boarding (?)</title>
-    <category lang="fr">Skate-board</category>
+  <programme start="20190125075400 +0100" stop="20190125082200 +0100" channel="Science &amp; Vie TV">
+    <title lang="fr">C'est pas sorcier (?)</title>
+    <credits>
+      <presenter>Frédéric Courant</presenter>
+      <presenter>Jamy Gourmaud</presenter>
+      <presenter>Sabine Quindou</presenter>
+    </credits>
+    <category lang="fr">Magazine éducatif</category>
   </programme>
-  <programme start="20190123012000 +0100" stop="20190123021000 +0100" channel="Extreme Sports Channel">
-    <title lang="fr">Extreme Fighting Championship Africa (?)</title>
-    <category lang="fr">Free Fight</category>
+  <programme start="20190125082200 +0100" stop="20190125084800 +0100" channel="Science &amp; Vie TV">
+    <title lang="fr">Des bricoleurs de génie (?)</title>
+    <credits>
+      <director>Chris Triffo</director>
+    </credits>
+    <category lang="fr">Sciences et technique</category>
   </programme>
-  <programme start="20190123021000 +0100" stop="20190123030000 +0100" channel="Extreme Sports Channel">
-    <title lang="fr">MMA (?)</title>
-    <category lang="fr">MMA</category>
+  <programme start="20190125084800 +0100" stop="20190125091300 +0100" channel="Science &amp; Vie TV">
+    <title lang="fr">Des bricoleurs de génie (?)</title>
+    <credits>
+      <director>Chris Triffo</director>
+    </credits>
+    <category lang="fr">Sciences et technique</category>
   </programme>
-  <programme start="20190123030000 +0100" stop="20190123035000 +0100" channel="Extreme Sports Channel">
-    <title lang="fr">X Games - Oslo (?)</title>
-    <category lang="fr">Sports extrêmes</category>
+  <programme start="20190125091300 +0100" stop="20190125092500 +0100" channel="Science &amp; Vie TV">
+    <title lang="fr">Les rendez-vous de l'Espace (?)</title>
+    <credits>
+      <presenter>Axel Villard</presenter>
+    </credits>
+    <category lang="fr">Magazine scientifique</category>
   </programme>
-  <programme start="20190123035000 +0100" stop="20190123041500 +0100" channel="Extreme Sports Channel">
-    <title lang="fr">World of X-Games (?)</title>
-    <category lang="fr">Sport</category>
+  <programme start="20190125092500 +0100" stop="20190125101100 +0100" channel="Science &amp; Vie TV">
+    <title lang="fr">Les mystères de l'univers (?)</title>
+    <credits>
+      <director>Erik Thompson</director>
+    </credits>
+    <category lang="fr">Sciences et technique</category>
   </programme>
-  <programme start="20190123041500 +0100" stop="20190123044500 +0100" channel="Extreme Sports Channel">
-    <title lang="fr">World of X-Games (?)</title>
-    <category lang="fr">Sport</category>
+  <programme start="20190125101100 +0100" stop="20190125103500 +0100" channel="Science &amp; Vie TV">
+    <title lang="fr">Exploration cosmique (?)</title>
+    <category lang="fr">Sciences et technique</category>
   </programme>
-  <programme start="20190123044500 +0100" stop="20190123051000 +0100" channel="Extreme Sports Channel">
-    <title lang="fr">Now Boarding (?)</title>
-    <category lang="fr">Skate-board</category>
+  <programme start="20190125103500 +0100" stop="20190125112100 +0100" channel="Science &amp; Vie TV">
+    <title lang="fr">Les mystères de l'univers (?)</title>
+    <credits>
+      <director>Erik Thompson</director>
+    </credits>
+    <category lang="fr">Sciences et technique</category>
   </programme>
-  <programme start="20190123051000 +0100" stop="20190123053500 +0100" channel="Extreme Sports Channel">
-    <title lang="fr">Now Boarding (?)</title>
-    <category lang="fr">Skate-board</category>
+  <programme start="20190125112100 +0100" stop="20190125115100 +0100" channel="Science &amp; Vie TV">
+    <title lang="fr">Le mag de la science : hebdo (?)</title>
+    <credits>
+      <presenter>Jérôme Bonaldi</presenter>
+    </credits>
+    <category lang="fr">Magazine scientifique</category>
   </programme>
-  <programme start="20190123053500 +0100" stop="20190123060000 +0100" channel="Extreme Sports Channel">
-    <title lang="fr">Drift All Stars : Burnouts &amp; Bust Ups (?)</title>
-    <category lang="fr">Automobilisme</category>
+  <programme start="20190125115100 +0100" stop="20190125124000 +0100" channel="Science &amp; Vie TV">
+    <title lang="fr">Construire l'impossible (?)</title>
+    <category lang="fr">Sciences et technique</category>
   </programme>
-  <programme start="20190123060000 +0100" stop="20190123065500 +0100" channel="Extreme Sports Channel">
-    <title lang="fr">X Games - Oslo (?)</title>
-    <category lang="fr">Sports extrêmes</category>
+  <programme start="20190125124000 +0100" stop="20190125133000 +0100" channel="Science &amp; Vie TV">
+    <title lang="fr">Construire l'impossible (?)</title>
+    <category lang="fr">Sciences et technique</category>
   </programme>
-  <programme start="20190123065500 +0100" stop="20190123072000 +0100" channel="Extreme Sports Channel">
-    <title lang="fr">Sports Adventure (?)</title>
-    <category lang="fr">Sports extrêmes</category>
+  <programme start="20190125133000 +0100" stop="20190125135700 +0100" channel="Science &amp; Vie TV">
+    <title lang="fr">Accro aux gadgets (?)</title>
+    <category lang="fr">Sciences et technique</category>
   </programme>
-  <programme start="20190123072000 +0100" stop="20190123074500 +0100" channel="Extreme Sports Channel">
-    <title lang="fr">Sports Adventure (?)</title>
-    <category lang="fr">Sports extrêmes</category>
+  <programme start="20190125135700 +0100" stop="20190125142300 +0100" channel="Science &amp; Vie TV">
+    <title lang="fr">Des bricoleurs de génie (?)</title>
+    <credits>
+      <director>Chris Triffo</director>
+    </credits>
+    <category lang="fr">Sciences et technique</category>
   </programme>
-  <programme start="20190123074500 +0100" stop="20190123084000 +0100" channel="Extreme Sports Channel">
-    <title lang="fr">AMA Motocross Series Highlights (?)</title>
-    <category lang="fr">Motocross</category>
+  <programme start="20190125142300 +0100" stop="20190125151900 +0100" channel="Science &amp; Vie TV">
+    <title lang="fr">Under the Pole (?)</title>
+    <credits>
+      <director>Jean-Gabriel Leynaud</director>
+    </credits>
+    <category lang="fr">Découvertes</category>
   </programme>
-  <programme start="20190123084000 +0100" stop="20190123093000 +0100" channel="Extreme Sports Channel">
-    <title lang="fr">Rumble &amp; Hum (?)</title>
-    <category lang="fr">Téléréalité</category>
+  <programme start="20190125151900 +0100" stop="20190125161600 +0100" channel="Science &amp; Vie TV">
+    <title lang="fr">Under the Pole (?)</title>
+    <credits>
+      <director>Jean-Gabriel Leynaud</director>
+    </credits>
+    <category lang="fr">Découvertes</category>
   </programme>
-  <programme start="20190123093000 +0100" stop="20190123095500 +0100" channel="Extreme Sports Channel">
-    <title lang="fr">Now Boarding (?)</title>
-    <category lang="fr">Skate-board</category>
+  <programme start="20190125161600 +0100" stop="20190125171400 +0100" channel="Science &amp; Vie TV">
+    <title lang="fr">Le Bitcoin (?)</title>
+    <category lang="fr">Sciences et technique</category>
   </programme>
-  <programme start="20190123095500 +0100" stop="20190123102000 +0100" channel="Extreme Sports Channel">
-    <title lang="fr">Now Boarding (?)</title>
-    <category lang="fr">Skate-board</category>
+  <programme start="20190125171400 +0100" stop="20190125181500 +0100" channel="Science &amp; Vie TV">
+    <title lang="fr">Vivre en 2040 (?)</title>
+    <credits>
+      <director>Aurine Crémieu</director>
+      <director>Elsa Le Peutrec</director>
+      <director>Philippe Baron</director>
+    </credits>
+    <category lang="fr">Sciences et technique</category>
   </programme>
-  <programme start="20190123102000 +0100" stop="20190123111000 +0100" channel="Extreme Sports Channel">
-    <title lang="fr">Rodéo</title>
-    <category lang="fr">Rodéo</category>
+  <programme start="20190125181500 +0100" stop="20190125185900 +0100" channel="Science &amp; Vie TV">
+    <title lang="fr">Accro aux gadgets (?)</title>
+    <category lang="fr">Sciences et technique</category>
   </programme>
-  <programme start="20190123111000 +0100" stop="20190123120000 +0100" channel="Extreme Sports Channel">
-    <title lang="fr">X Games - Oslo (?)</title>
-    <category lang="fr">Sports extrêmes</category>
+  <programme start="20190125185900 +0100" stop="20190125192600 +0100" channel="Science &amp; Vie TV">
+    <title lang="fr">Accro aux gadgets (?)</title>
+    <category lang="fr">Sciences et technique</category>
   </programme>
-  <programme start="20190123120000 +0100" stop="20190123125000 +0100" channel="Extreme Sports Channel">
-    <title lang="fr">World of X-Games (?)</title>
-    <category lang="fr">Sport</category>
+  <programme start="20190125192600 +0100" stop="20190125195600 +0100" channel="Science &amp; Vie TV">
+    <title lang="fr">Le mag de la science : hebdo (?)</title>
+    <credits>
+      <presenter>Jérôme Bonaldi</presenter>
+    </credits>
+    <category lang="fr">Magazine scientifique</category>
   </programme>
-  <programme start="20190123125000 +0100" stop="20190123134000 +0100" channel="Extreme Sports Channel">
-    <title lang="fr">AMA Motocross Series Highlights (?)</title>
-    <category lang="fr">Motocross</category>
+  <programme start="20190125195600 +0100" stop="20190125204500 +0100" channel="Science &amp; Vie TV">
+    <title lang="fr">Construire l'impossible (?)</title>
+    <category lang="fr">Sciences et technique</category>
   </programme>
-  <programme start="20190123134000 +0100" stop="20190123143000 +0100" channel="Extreme Sports Channel">
-    <title lang="fr">Rodéo</title>
-    <category lang="fr">Rodéo</category>
+  <programme start="20190125204500 +0100" stop="20190125205700 +0100" channel="Science &amp; Vie TV">
+    <title lang="fr">Les rendez-vous de l'Espace (?)</title>
+    <credits>
+      <presenter>Axel Villard</presenter>
+    </credits>
+    <category lang="fr">Magazine scientifique</category>
   </programme>
-  <programme start="20190123143000 +0100" stop="20190123145500 +0100" channel="Extreme Sports Channel">
-    <title lang="fr">Now Boarding (?)</title>
-    <category lang="fr">Skate-board</category>
+  <programme start="20190125205700 +0100" stop="20190125214600 +0100" channel="Science &amp; Vie TV">
+    <title lang="fr">La vie d'une étoile (?)</title>
+    <credits>
+      <director>Helen Thomas</director>
+    </credits>
+    <category lang="fr">Sciences et technique</category>
   </programme>
-  <programme start="20190123145500 +0100" stop="20190123152000 +0100" channel="Extreme Sports Channel">
-    <title lang="fr">Now Boarding (?)</title>
-    <category lang="fr">Skate-board</category>
+  <programme start="20190125214600 +0100" stop="20190125223600 +0100" channel="Science &amp; Vie TV">
+    <title lang="fr">La vie d'une étoile (?)</title>
+    <credits>
+      <director>Helen Thomas</director>
+    </credits>
+    <category lang="fr">Sciences et technique</category>
   </programme>
-  <programme start="20190123152000 +0100" stop="20190123161000 +0100" channel="Extreme Sports Channel">
-    <title lang="fr">X Games - Oslo (?)</title>
-    <category lang="fr">Sports extrêmes</category>
+  <programme start="20190125223600 +0100" stop="20190125230300 +0100" channel="Science &amp; Vie TV">
+    <title lang="fr">Les nouvelles frontières de l'espace (?)</title>
+    <credits>
+      <director>Andrew Thomson</director>
+    </credits>
+    <category lang="fr">Sciences et technique</category>
   </programme>
-  <programme start="20190123161000 +0100" stop="20190123170000 +0100" channel="Extreme Sports Channel">
-    <title lang="fr">World of X-Games (?)</title>
-    <category lang="fr">Sport</category>
+  <programme start="20190125230300 +0100" stop="20190125231500 +0100" channel="Science &amp; Vie TV">
+    <title lang="fr">Les rendez-vous de l'Espace (?)</title>
+    <credits>
+      <presenter>Axel Villard</presenter>
+    </credits>
+    <category lang="fr">Magazine scientifique</category>
   </programme>
-  <programme start="20190123170000 +0100" stop="20190123175000 +0100" channel="Extreme Sports Channel">
-    <title lang="fr">Rumble &amp; Hum (?)</title>
-    <category lang="fr">Téléréalité</category>
+  <programme start="20190125231500 +0100" stop="20190125234200 +0100" channel="Science &amp; Vie TV">
+    <title lang="fr">Les nouvelles frontières de l'espace (?)</title>
+    <credits>
+      <director>Andrew Thomson</director>
+    </credits>
+    <category lang="fr">Sciences et technique</category>
   </programme>
-  <programme start="20190123175000 +0100" stop="20190123184000 +0100" channel="Extreme Sports Channel">
-    <title lang="fr">Rodéo</title>
-    <category lang="fr">Rodéo</category>
+  <programme start="20190125234200 +0100" stop="20190126002800 +0100" channel="Science &amp; Vie TV">
+    <title lang="fr">Les mystères de l'univers (?)</title>
+    <credits>
+      <director>Erik Thompson</director>
+    </credits>
+    <category lang="fr">Sciences et technique</category>
   </programme>
-  <programme start="20190123184000 +0100" stop="20190123193000 +0100" channel="Extreme Sports Channel">
-    <title lang="fr">X Games - Oslo (?)</title>
-    <category lang="fr">Sports extrêmes</category>
+  <programme start="20190126002800 +0100" stop="20190126011400 +0100" channel="Science &amp; Vie TV">
+    <title lang="fr">Les mystères de l'univers (?)</title>
+    <credits>
+      <director>Erik Thompson</director>
+    </credits>
+    <category lang="fr">Sciences et technique</category>
   </programme>
-  <programme start="20190123193000 +0100" stop="20190123195500 +0100" channel="Extreme Sports Channel">
-    <title lang="fr">Sports Adventure (?)</title>
-    <category lang="fr">Sports extrêmes</category>
+  <programme start="20190126011400 +0100" stop="20190126020700 +0100" channel="Science &amp; Vie TV">
+    <title lang="fr">Agir pour le climat (?)</title>
+    <credits>
+      <director>Hayden Denman</director>
+    </credits>
+    <category lang="fr">Sciences et technique</category>
   </programme>
-  <programme start="20190123195500 +0100" stop="20190123202000 +0100" channel="Extreme Sports Channel">
-    <title lang="fr">Sports Adventure (?)</title>
-    <category lang="fr">Sports extrêmes</category>
+  <programme start="20190126020700 +0100" stop="20190126030000 +0100" channel="Science &amp; Vie TV">
+    <title lang="fr">Agir pour le climat (?)</title>
+    <credits>
+      <director>Hayden Denman</director>
+    </credits>
+    <category lang="fr">Sciences et technique</category>
   </programme>
-  <programme start="20190123202000 +0100" stop="20190123204500 +0100" channel="Extreme Sports Channel">
-    <title lang="fr">Now Boarding (?)</title>
-    <category lang="fr">Skate-board</category>
+  <programme start="20190126030000 +0100" stop="20190126045400 +0100" channel="Science &amp; Vie TV">
+    <title lang="fr">La biodiversité menacée (?)</title>
+    <credits>
+      <director>Bernard Guerrini</director>
+      <director>Mathias Schmitt</director>
+    </credits>
+    <category lang="fr">Nature</category>
   </programme>
-  <programme start="20190123204500 +0100" stop="20190123211000 +0100" channel="Extreme Sports Channel">
-    <title lang="fr">Now Boarding (?)</title>
-    <category lang="fr">Skate-board</category>
-  </programme>
-  <programme start="20190123211000 +0100" stop="20190123213500 +0100" channel="Extreme Sports Channel">
-    <title lang="fr">Fantasy Factory</title>
-    <category lang="fr">Téléréalité</category>
-  </programme>
-  <programme start="20190123213500 +0100" stop="20190123220000 +0100" channel="Extreme Sports Channel">
-    <title lang="fr">Fantasy Factory</title>
-    <category lang="fr">Téléréalité</category>
-  </programme>
-  <programme start="20190123220000 +0100" stop="20190123225000 +0100" channel="Extreme Sports Channel">
-    <title lang="fr">Extreme Fighting Championship Africa (?)</title>
-    <category lang="fr">Free Fight</category>
-  </programme>
-  <programme start="20190123225000 +0100" stop="20190123234000 +0100" channel="Extreme Sports Channel">
-    <title lang="fr">MMA (?)</title>
-    <category lang="fr">MMA</category>
-  </programme>
-  <programme start="20190123234000 +0100" stop="20190124003000 +0100" channel="Extreme Sports Channel">
-    <title lang="fr">World of X-Games (?)</title>
-    <category lang="fr">Sport</category>
+  <programme start="20190126045400 +0100" stop="20190126052200 +0100" channel="Science &amp; Vie TV">
+    <title lang="fr">Enquêtes en eaux profondes (?)</title>
+    <credits>
+      <director>Frédéric Lossignol</director>
+      <director>Guilain Depardieu</director>
+      <director>Philippe Allante</director>
+    </credits>
+    <category lang="fr">Sciences et technique</category>
   </programme>
   <programme start="20190124003000 +0100" stop="20190124005500 +0100" channel="Extreme Sports Channel">
     <title lang="fr">Now Boarding (?)</title>
@@ -2710,153 +2235,153 @@
     <title lang="fr">Jet Truck (?)</title>
     <category lang="fr">Téléréalité</category>
   </programme>
-  <programme start="20190123000000 +0100" stop="20190123010000 +0100" channel="Al Jazeera English">
-    <title lang="fr">Newshour</title>
-    <category lang="fr">Journal</category>
+  <programme start="20190125060000 +0100" stop="20190125065500 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">X Games - Oslo (?)</title>
+    <category lang="fr">Sports extrêmes</category>
   </programme>
-  <programme start="20190123010000 +0100" stop="20190123013000 +0100" channel="Al Jazeera English">
-    <title lang="fr">News Live</title>
-    <category lang="fr">Journal</category>
+  <programme start="20190125065500 +0100" stop="20190125072000 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">Selfmade (?)</title>
+    <category lang="fr">VTT</category>
   </programme>
-  <programme start="20190123013000 +0100" stop="20190123020000 +0100" channel="Al Jazeera English">
-    <title lang="fr">Inside Story</title>
-    <category lang="fr">Magazine d'actualité</category>
+  <programme start="20190125072000 +0100" stop="20190125074500 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">Selfmade (?)</title>
+    <category lang="fr">VTT</category>
   </programme>
-  <programme start="20190123020000 +0100" stop="20190123030000 +0100" channel="Al Jazeera English">
-    <title lang="fr">Unfair Game (?)</title>
-    <category lang="fr">Société</category>
+  <programme start="20190125074500 +0100" stop="20190125084000 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">AMA Motocross Series Highlights (?)</title>
+    <category lang="fr">Motocross</category>
   </programme>
-  <programme start="20190123030000 +0100" stop="20190123040000 +0100" channel="Al Jazeera English">
-    <title lang="fr">Newshour</title>
-    <category lang="fr">Journal</category>
+  <programme start="20190125084000 +0100" stop="20190125093000 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">Rumble &amp; Hum (?)</title>
+    <category lang="fr">Téléréalité</category>
   </programme>
-  <programme start="20190123040000 +0100" stop="20190123043000 +0100" channel="Al Jazeera English">
-    <title lang="fr">News Live</title>
-    <category lang="fr">Journal</category>
+  <programme start="20190125093000 +0100" stop="20190125095500 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">The Crew</title>
+    <category lang="fr">Surf</category>
   </programme>
-  <programme start="20190123043000 +0100" stop="20190123050000 +0100" channel="Al Jazeera English">
-    <title lang="fr">AJ Selects (?)</title>
-    <category lang="fr">Société</category>
+  <programme start="20190125095500 +0100" stop="20190125102000 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">The Crew</title>
+    <category lang="fr">Surf</category>
   </programme>
-  <programme start="20190123050000 +0100" stop="20190123053000 +0100" channel="Al Jazeera English">
-    <title lang="fr">News Live</title>
-    <category lang="fr">Journal</category>
+  <programme start="20190125102000 +0100" stop="20190125111000 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">L'aventurier alpin (?)</title>
+    <category lang="fr">Sports de glisse</category>
   </programme>
-  <programme start="20190123053000 +0100" stop="20190123060000 +0100" channel="Al Jazeera English">
-    <title lang="fr">The Stream</title>
-    <category lang="fr">Magazine de société</category>
+  <programme start="20190125111000 +0100" stop="20190125120000 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">X Games - Oslo (?)</title>
+    <category lang="fr">Sports extrêmes</category>
   </programme>
-  <programme start="20190123060000 +0100" stop="20190123063000 +0100" channel="Al Jazeera English">
-    <title lang="fr">News Live</title>
-    <category lang="fr">Journal</category>
+  <programme start="20190125120000 +0100" stop="20190125125000 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">World of X-Games (?)</title>
+    <category lang="fr">Sport</category>
   </programme>
-  <programme start="20190123063000 +0100" stop="20190123070000 +0100" channel="Al Jazeera English">
-    <title lang="fr">The Listening Post</title>
-    <category lang="fr">Magazine des médias</category>
+  <programme start="20190125125000 +0100" stop="20190125134000 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">AMA Motocross Series Highlights (?)</title>
+    <category lang="fr">Motocross</category>
   </programme>
-  <programme start="20190123070000 +0100" stop="20190123080000 +0100" channel="Al Jazeera English">
-    <title lang="fr">In Search of Putin's Russia (?)</title>
-    <category lang="fr">Histoire</category>
+  <programme start="20190125134000 +0100" stop="20190125143000 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">L'aventurier alpin (?)</title>
+    <category lang="fr">Sports de glisse</category>
   </programme>
-  <programme start="20190123080000 +0100" stop="20190123083000 +0100" channel="Al Jazeera English">
-    <title lang="fr">News Live</title>
-    <category lang="fr">Journal</category>
+  <programme start="20190125143000 +0100" stop="20190125145500 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">The Crew</title>
+    <category lang="fr">Surf</category>
   </programme>
-  <programme start="20190123083000 +0100" stop="20190123090000 +0100" channel="Al Jazeera English">
-    <title lang="fr">Inside Story</title>
-    <category lang="fr">Magazine d'actualité</category>
+  <programme start="20190125145500 +0100" stop="20190125152000 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">The Crew</title>
+    <category lang="fr">Surf</category>
   </programme>
-  <programme start="20190123090000 +0100" stop="20190123093000 +0100" channel="Al Jazeera English">
-    <title lang="fr">News Live</title>
-    <category lang="fr">Journal</category>
+  <programme start="20190125152000 +0100" stop="20190125161000 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">X Games - Oslo (?)</title>
+    <category lang="fr">Sports extrêmes</category>
   </programme>
-  <programme start="20190123093000 +0100" stop="20190123100000 +0100" channel="Al Jazeera English">
-    <title lang="fr">The Stream</title>
-    <category lang="fr">Magazine de société</category>
+  <programme start="20190125161000 +0100" stop="20190125170000 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">World of X-Games (?)</title>
+    <category lang="fr">Sport</category>
   </programme>
-  <programme start="20190123100000 +0100" stop="20190123103000 +0100" channel="Al Jazeera English">
-    <title lang="fr">News Live</title>
-    <category lang="fr">Journal</category>
+  <programme start="20190125170000 +0100" stop="20190125175000 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">Rumble &amp; Hum (?)</title>
+    <category lang="fr">Téléréalité</category>
   </programme>
-  <programme start="20190123103000 +0100" stop="20190123110000 +0100" channel="Al Jazeera English">
-    <title lang="fr">Science In A Golden Age (?)</title>
-    <category lang="fr">Sciences et technique</category>
+  <programme start="20190125175000 +0100" stop="20190125184000 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">L'aventurier alpin (?)</title>
+    <category lang="fr">Sports de glisse</category>
   </programme>
-  <programme start="20190123110000 +0100" stop="20190123120000 +0100" channel="Al Jazeera English">
-    <title lang="fr">Newshour</title>
-    <category lang="fr">Journal</category>
+  <programme start="20190125184000 +0100" stop="20190125193000 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">X Games - Oslo (?)</title>
+    <category lang="fr">Sports extrêmes</category>
   </programme>
-  <programme start="20190123120000 +0100" stop="20190123123000 +0100" channel="Al Jazeera English">
-    <title lang="fr">News Live</title>
-    <category lang="fr">Journal</category>
+  <programme start="20190125193000 +0100" stop="20190125195500 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">Selfmade (?)</title>
+    <category lang="fr">VTT</category>
   </programme>
-  <programme start="20190123123000 +0100" stop="20190123130000 +0100" channel="Al Jazeera English">
-    <title lang="fr">Inside Story</title>
-    <category lang="fr">Magazine d'actualité</category>
+  <programme start="20190125195500 +0100" stop="20190125202000 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">Selfmade (?)</title>
+    <category lang="fr">VTT</category>
   </programme>
-  <programme start="20190123130000 +0100" stop="20190123140000 +0100" channel="Al Jazeera English">
-    <title lang="fr">Al Jazeera World</title>
-    <category lang="fr">Magazine de société</category>
+  <programme start="20190125202000 +0100" stop="20190125204500 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">The Crew</title>
+    <category lang="fr">Surf</category>
   </programme>
-  <programme start="20190123140000 +0100" stop="20190123150000 +0100" channel="Al Jazeera English">
-    <title lang="fr">Newshour</title>
-    <category lang="fr">Journal</category>
+  <programme start="20190125204500 +0100" stop="20190125211000 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">The Crew</title>
+    <category lang="fr">Surf</category>
   </programme>
-  <programme start="20190123150000 +0100" stop="20190123153000 +0100" channel="Al Jazeera English">
-    <title lang="fr">News Live</title>
-    <category lang="fr">Journal</category>
+  <programme start="20190125211000 +0100" stop="20190125213500 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">Fantasy Factory</title>
+    <category lang="fr">Téléréalité</category>
   </programme>
-  <programme start="20190123153000 +0100" stop="20190123160000 +0100" channel="Al Jazeera English">
-    <title lang="fr">The Stream</title>
-    <category lang="fr">Magazine de société</category>
+  <programme start="20190125213500 +0100" stop="20190125220000 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">Fantasy Factory</title>
+    <category lang="fr">Téléréalité</category>
   </programme>
-  <programme start="20190123160000 +0100" stop="20190123170000 +0100" channel="Al Jazeera English">
-    <title lang="fr">Newsgrid</title>
-    <category lang="fr">Journal</category>
+  <programme start="20190125220000 +0100" stop="20190125225000 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">Extreme Fighting Championship Africa (?)</title>
+    <category lang="fr">Free Fight</category>
   </programme>
-  <programme start="20190123170000 +0100" stop="20190123173000 +0100" channel="Al Jazeera English">
-    <title lang="fr">News Live</title>
-    <category lang="fr">Journal</category>
+  <programme start="20190125225000 +0100" stop="20190125234000 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">MMA (?)</title>
+    <category lang="fr">MMA</category>
   </programme>
-  <programme start="20190123173000 +0100" stop="20190123180000 +0100" channel="Al Jazeera English">
-    <title lang="fr">Witness</title>
-    <category lang="fr">Magazine de société</category>
+  <programme start="20190125234000 +0100" stop="20190126003000 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">World of X-Games (?)</title>
+    <category lang="fr">Sport</category>
   </programme>
-  <programme start="20190123180000 +0100" stop="20190123183000 +0100" channel="Al Jazeera English">
-    <title lang="fr">News Live</title>
-    <category lang="fr">Journal</category>
+  <programme start="20190126003000 +0100" stop="20190126005500 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">The Crew</title>
+    <category lang="fr">Surf</category>
   </programme>
-  <programme start="20190123183000 +0100" stop="20190123190000 +0100" channel="Al Jazeera English">
-    <title lang="fr">Inside Story</title>
-    <category lang="fr">Magazine d'actualité</category>
+  <programme start="20190126005500 +0100" stop="20190126012000 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">The Crew</title>
+    <category lang="fr">Surf</category>
   </programme>
-  <programme start="20190123190000 +0100" stop="20190123200000 +0100" channel="Al Jazeera English">
-    <title lang="fr">Newshour</title>
-    <category lang="fr">Journal</category>
+  <programme start="20190126012000 +0100" stop="20190126021000 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">Extreme Fighting Championship Africa (?)</title>
+    <category lang="fr">Free Fight</category>
   </programme>
-  <programme start="20190123200000 +0100" stop="20190123203000 +0100" channel="Al Jazeera English">
-    <title lang="fr">News Live</title>
-    <category lang="fr">Journal</category>
+  <programme start="20190126021000 +0100" stop="20190126030000 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">MMA (?)</title>
+    <category lang="fr">MMA</category>
   </programme>
-  <programme start="20190123203000 +0100" stop="20190123210000 +0100" channel="Al Jazeera English">
-    <title lang="fr">The Stream</title>
-    <category lang="fr">Magazine de société</category>
+  <programme start="20190126030000 +0100" stop="20190126035000 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">X Games - Oslo (?)</title>
+    <category lang="fr">Sports extrêmes</category>
   </programme>
-  <programme start="20190123210000 +0100" stop="20190123220000 +0100" channel="Al Jazeera English">
-    <title lang="fr">Witness</title>
-    <category lang="fr">Magazine de société</category>
+  <programme start="20190126035000 +0100" stop="20190126044500 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">World of X-Games (?)</title>
+    <category lang="fr">Sport</category>
   </programme>
-  <programme start="20190123220000 +0100" stop="20190123230000 +0100" channel="Al Jazeera English">
-    <title lang="fr">Newshour</title>
-    <category lang="fr">Journal</category>
+  <programme start="20190126044500 +0100" stop="20190126051000 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">The Crew</title>
+    <category lang="fr">Surf</category>
   </programme>
-  <programme start="20190123230000 +0100" stop="20190123233000 +0100" channel="Al Jazeera English">
-    <title lang="fr">News Live</title>
-    <category lang="fr">Journal</category>
+  <programme start="20190126051000 +0100" stop="20190126053500 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">The Crew</title>
+    <category lang="fr">Surf</category>
   </programme>
-  <programme start="20190123233000 +0100" stop="20190124000000 +0100" channel="Al Jazeera English">
-    <title lang="fr">People and Power (?)</title>
-    <category lang="fr">Magazine de société</category>
+  <programme start="20190126053500 +0100" stop="20190126060000 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">Jet Truck (?)</title>
+    <category lang="fr">Téléréalité</category>
   </programme>
   <programme start="20190124000000 +0100" stop="20190124010000 +0100" channel="Al Jazeera English">
     <title lang="fr">Newshour</title>
@@ -3042,267 +2567,153 @@
     <title lang="fr">The Stream</title>
     <category lang="fr">Magazine de société</category>
   </programme>
-  <programme start="20190123000000 +0100" stop="20190123003000 +0100" channel="BBC World News">
-    <title lang="fr">Newsday (?)</title>
-    <category lang="fr">Magazine d'actualité</category>
-  </programme>
-  <programme start="20190123003000 +0100" stop="20190123004500 +0100" channel="BBC World News">
-    <title lang="fr">Asia Business Report (?)</title>
-    <category lang="fr">Magazine de l'économie</category>
-  </programme>
-  <programme start="20190123004500 +0100" stop="20190123010000 +0100" channel="BBC World News">
-    <title lang="fr">Sport Today (?)</title>
-    <category lang="fr">Magazine sportif</category>
-  </programme>
-  <programme start="20190123010000 +0100" stop="20190123013000 +0100" channel="BBC World News">
-    <title lang="fr">Newsday (?)</title>
-    <category lang="fr">Magazine d'actualité</category>
-  </programme>
-  <programme start="20190123013000 +0100" stop="20190123014500 +0100" channel="BBC World News">
-    <title lang="fr">Asia Business Report (?)</title>
-    <category lang="fr">Magazine de l'économie</category>
-  </programme>
-  <programme start="20190123014500 +0100" stop="20190123020000 +0100" channel="BBC World News">
-    <title lang="fr">Sport Today (?)</title>
-    <category lang="fr">Magazine sportif</category>
-  </programme>
-  <programme start="20190123020000 +0100" stop="20190123023000 +0100" channel="BBC World News">
-    <title lang="fr">Newsday (?)</title>
-    <category lang="fr">Magazine d'actualité</category>
-  </programme>
-  <programme start="20190123023000 +0100" stop="20190123024500 +0100" channel="BBC World News">
-    <title lang="fr">Asia Business Report (?)</title>
-    <category lang="fr">Magazine de l'économie</category>
-  </programme>
-  <programme start="20190123024500 +0100" stop="20190123030000 +0100" channel="BBC World News">
-    <title lang="fr">Sport Today (?)</title>
-    <category lang="fr">Magazine sportif</category>
-  </programme>
-  <programme start="20190123030000 +0100" stop="20190123033000 +0100" channel="BBC World News">
-    <title lang="fr">BBC World News (?)</title>
+  <programme start="20190125060000 +0100" stop="20190125063000 +0100" channel="Al Jazeera English">
+    <title lang="fr">News Live</title>
     <category lang="fr">Journal</category>
   </programme>
-  <programme start="20190123033000 +0100" stop="20190123034500 +0100" channel="BBC World News">
-    <title lang="fr">Asia Business Report (?)</title>
-    <category lang="fr">Magazine de l'économie</category>
+  <programme start="20190125063000 +0100" stop="20190125070000 +0100" channel="Al Jazeera English">
+    <title lang="fr">AJ Selects (?)</title>
+    <category lang="fr">Société</category>
   </programme>
-  <programme start="20190123034500 +0100" stop="20190123040000 +0100" channel="BBC World News">
-    <title lang="fr">Sport Today (?)</title>
-    <category lang="fr">Magazine sportif</category>
+  <programme start="20190125070000 +0100" stop="20190125080000 +0100" channel="Al Jazeera English">
+    <title lang="fr">Al Jazeera World</title>
+    <category lang="fr">Magazine de société</category>
   </programme>
-  <programme start="20190123040000 +0100" stop="20190123043000 +0100" channel="BBC World News">
-    <title lang="fr">BBC World News (?)</title>
+  <programme start="20190125080000 +0100" stop="20190125083000 +0100" channel="Al Jazeera English">
+    <title lang="fr">News Live</title>
     <category lang="fr">Journal</category>
   </programme>
-  <programme start="20190123043000 +0100" stop="20190123050000 +0100" channel="BBC World News">
-    <title lang="fr">The Travel Show (?)</title>
-    <category lang="fr">Magazine du tourisme</category>
+  <programme start="20190125083000 +0100" stop="20190125090000 +0100" channel="Al Jazeera English">
+    <title lang="fr">Inside Story</title>
+    <category lang="fr">Magazine d'actualité</category>
   </programme>
-  <programme start="20190123060000 +0100" stop="20190123063000 +0100" channel="BBC World News">
-    <title lang="fr">The Briefing (?)</title>
-    <category lang="fr">Magazine d'information</category>
-  </programme>
-  <programme start="20190123063000 +0100" stop="20190123064500 +0100" channel="BBC World News">
-    <title lang="fr">Business Briefing (?)</title>
-    <category lang="fr">Magazine de l'économie</category>
-  </programme>
-  <programme start="20190123064500 +0100" stop="20190123070000 +0100" channel="BBC World News">
-    <title lang="fr">The Briefing (?)</title>
-    <category lang="fr">Magazine d'information</category>
-  </programme>
-  <programme start="20190123070000 +0100" stop="20190123073000 +0100" channel="BBC World News">
-    <title lang="fr">The Briefing (?)</title>
-    <category lang="fr">Magazine d'information</category>
-  </programme>
-  <programme start="20190123073000 +0100" stop="20190123074500 +0100" channel="BBC World News">
-    <title lang="fr">Business Briefing (?)</title>
-    <category lang="fr">Magazine de l'économie</category>
-  </programme>
-  <programme start="20190123074500 +0100" stop="20190123080000 +0100" channel="BBC World News">
-    <title lang="fr">The Briefing (?)</title>
-    <category lang="fr">Magazine d'information</category>
-  </programme>
-  <programme start="20190123080000 +0100" stop="20190123083000 +0100" channel="BBC World News">
-    <title lang="fr">BBC World News (?)</title>
+  <programme start="20190125090000 +0100" stop="20190125093000 +0100" channel="Al Jazeera English">
+    <title lang="fr">News Live</title>
     <category lang="fr">Journal</category>
   </programme>
-  <programme start="20190123083000 +0100" stop="20190123084500 +0100" channel="BBC World News">
-    <title lang="fr">BBC World News (?)</title>
+  <programme start="20190125093000 +0100" stop="20190125100000 +0100" channel="Al Jazeera English">
+    <title lang="fr">The Stream</title>
+    <category lang="fr">Magazine de société</category>
+  </programme>
+  <programme start="20190125100000 +0100" stop="20190125103000 +0100" channel="Al Jazeera English">
+    <title lang="fr">News Live</title>
     <category lang="fr">Journal</category>
   </programme>
-  <programme start="20190123084500 +0100" stop="20190123090000 +0100" channel="BBC World News">
-    <title lang="fr">World Business Report (?)</title>
-    <category lang="fr">Magazine de l'économie</category>
+  <programme start="20190125103000 +0100" stop="20190125110000 +0100" channel="Al Jazeera English">
+    <title lang="fr">101 East</title>
+    <category lang="fr">Magazine de société</category>
   </programme>
-  <programme start="20190123090000 +0100" stop="20190123093000 +0100" channel="BBC World News">
-    <title lang="fr">BBC World News (?)</title>
+  <programme start="20190125110000 +0100" stop="20190125120000 +0100" channel="Al Jazeera English">
+    <title lang="fr">Newshour</title>
     <category lang="fr">Journal</category>
   </programme>
-  <programme start="20190123093000 +0100" stop="20190123100000 +0100" channel="BBC World News">
-    <title lang="fr">BBC Business Live (?)</title>
-    <category lang="fr">Magazine de l'économie</category>
+  <programme start="20190125120000 +0100" stop="20190125123000 +0100" channel="Al Jazeera English">
+    <title lang="fr">News Live</title>
+    <category lang="fr">Journal</category>
   </programme>
-  <programme start="20190123100000 +0100" stop="20190123103000 +0100" channel="BBC World News">
-    <title lang="fr">The Travel Show (?)</title>
-    <category lang="fr">Magazine du tourisme</category>
-  </programme>
-  <programme start="20190123103000 +0100" stop="20190123110000 +0100" channel="BBC World News">
-    <title lang="fr">HARDtalk (?)</title>
-    <credits>
-      <presenter>Kevin Connolly</presenter>
-      <presenter>Stephen Sackur</presenter>
-    </credits>
+  <programme start="20190125123000 +0100" stop="20190125130000 +0100" channel="Al Jazeera English">
+    <title lang="fr">Inside Story</title>
     <category lang="fr">Magazine d'actualité</category>
   </programme>
-  <programme start="20190123110000 +0100" stop="20190123113000 +0100" channel="BBC World News">
-    <title lang="fr">GMT (?)</title>
+  <programme start="20190125130000 +0100" stop="20190125140000 +0100" channel="Al Jazeera English">
+    <title lang="fr">Growing Pains</title>
+    <category lang="fr">Société</category>
+  </programme>
+  <programme start="20190125140000 +0100" stop="20190125150000 +0100" channel="Al Jazeera English">
+    <title lang="fr">Newshour</title>
+    <category lang="fr">Journal</category>
+  </programme>
+  <programme start="20190125150000 +0100" stop="20190125153000 +0100" channel="Al Jazeera English">
+    <title lang="fr">News Live</title>
+    <category lang="fr">Journal</category>
+  </programme>
+  <programme start="20190125153000 +0100" stop="20190125160000 +0100" channel="Al Jazeera English">
+    <title lang="fr">The Stream</title>
+    <category lang="fr">Magazine de société</category>
+  </programme>
+  <programme start="20190125160000 +0100" stop="20190125170000 +0100" channel="Al Jazeera English">
+    <title lang="fr">Newsgrid</title>
+    <category lang="fr">Journal</category>
+  </programme>
+  <programme start="20190125170000 +0100" stop="20190125173000 +0100" channel="Al Jazeera English">
+    <title lang="fr">News Live</title>
+    <category lang="fr">Journal</category>
+  </programme>
+  <programme start="20190125173000 +0100" stop="20190125180000 +0100" channel="Al Jazeera English">
+    <title lang="fr">Science In A Golden Age (?)</title>
+    <category lang="fr">Sciences et technique</category>
+  </programme>
+  <programme start="20190125180000 +0100" stop="20190125183000 +0100" channel="Al Jazeera English">
+    <title lang="fr">News Live</title>
+    <category lang="fr">Journal</category>
+  </programme>
+  <programme start="20190125183000 +0100" stop="20190125190000 +0100" channel="Al Jazeera English">
+    <title lang="fr">Inside Story</title>
     <category lang="fr">Magazine d'actualité</category>
   </programme>
-  <programme start="20190123113000 +0100" stop="20190123120000 +0100" channel="BBC World News">
-    <title lang="fr">Our World (?)</title>
+  <programme start="20190125190000 +0100" stop="20190125200000 +0100" channel="Al Jazeera English">
+    <title lang="fr">Newshour</title>
+    <category lang="fr">Journal</category>
+  </programme>
+  <programme start="20190125200000 +0100" stop="20190125203000 +0100" channel="Al Jazeera English">
+    <title lang="fr">News Live</title>
+    <category lang="fr">Journal</category>
+  </programme>
+  <programme start="20190125203000 +0100" stop="20190125210000 +0100" channel="Al Jazeera English">
+    <title lang="fr">TechKnow</title>
+    <category lang="fr">Magazine scientifique</category>
+  </programme>
+  <programme start="20190125210000 +0100" stop="20190125220000 +0100" channel="Al Jazeera English">
+    <title lang="fr">Hard Earned</title>
+    <category lang="fr">Société</category>
+  </programme>
+  <programme start="20190125220000 +0100" stop="20190125230000 +0100" channel="Al Jazeera English">
+    <title lang="fr">Newshour</title>
+    <category lang="fr">Journal</category>
+  </programme>
+  <programme start="20190125230000 +0100" stop="20190125233000 +0100" channel="Al Jazeera English">
+    <title lang="fr">News Live</title>
+    <category lang="fr">Journal</category>
+  </programme>
+  <programme start="20190125233000 +0100" stop="20190126000000 +0100" channel="Al Jazeera English">
+    <title lang="fr">Counting the Cost</title>
+    <category lang="fr">Société</category>
+  </programme>
+  <programme start="20190126000000 +0100" stop="20190126010000 +0100" channel="Al Jazeera English">
+    <title lang="fr">Newshour</title>
+    <category lang="fr">Journal</category>
+  </programme>
+  <programme start="20190126010000 +0100" stop="20190126013000 +0100" channel="Al Jazeera English">
+    <title lang="fr">News Live</title>
+    <category lang="fr">Journal</category>
+  </programme>
+  <programme start="20190126013000 +0100" stop="20190126020000 +0100" channel="Al Jazeera English">
+    <title lang="fr">Inside Story</title>
     <category lang="fr">Magazine d'actualité</category>
   </programme>
-  <programme start="20190123120000 +0100" stop="20190123123000 +0100" channel="BBC World News">
-    <title lang="fr">GMT (?)</title>
-    <category lang="fr">Magazine d'actualité</category>
+  <programme start="20190126020000 +0100" stop="20190126030000 +0100" channel="Al Jazeera English">
+    <title lang="fr">Growing Pains</title>
+    <category lang="fr">Société</category>
   </programme>
-  <programme start="20190123123000 +0100" stop="20190123124500 +0100" channel="BBC World News">
-    <title lang="fr">World Business Report (?)</title>
-    <category lang="fr">Magazine de l'économie</category>
+  <programme start="20190126030000 +0100" stop="20190126040000 +0100" channel="Al Jazeera English">
+    <title lang="fr">Newshour</title>
+    <category lang="fr">Journal</category>
   </programme>
-  <programme start="20190123124500 +0100" stop="20190123130000 +0100" channel="BBC World News">
-    <title lang="fr">Sport Today (?)</title>
-    <category lang="fr">Magazine sportif</category>
+  <programme start="20190126040000 +0100" stop="20190126043000 +0100" channel="Al Jazeera English">
+    <title lang="fr">News Live</title>
+    <category lang="fr">Journal</category>
   </programme>
-  <programme start="20190123130000 +0100" stop="20190123133000 +0100" channel="BBC World News">
-    <title lang="fr">GMT (?)</title>
-    <category lang="fr">Magazine d'actualité</category>
+  <programme start="20190126043000 +0100" stop="20190126050000 +0100" channel="Al Jazeera English">
+    <title lang="fr">101 East</title>
+    <category lang="fr">Magazine de société</category>
   </programme>
-  <programme start="20190123133000 +0100" stop="20190123140000 +0100" channel="BBC World News">
-    <title lang="fr">GMT (?)</title>
-    <category lang="fr">Magazine d'actualité</category>
+  <programme start="20190126050000 +0100" stop="20190126053000 +0100" channel="Al Jazeera English">
+    <title lang="fr">News Live</title>
+    <category lang="fr">Journal</category>
   </programme>
-  <programme start="20190123140000 +0100" stop="20190123143000 +0100" channel="BBC World News">
-    <title lang="fr">Impact (?)</title>
-    <credits>
-      <presenter>Mishal Husain</presenter>
-    </credits>
-    <category lang="fr">Magazine d'actualité</category>
-  </programme>
-  <programme start="20190123143000 +0100" stop="20190123150000 +0100" channel="BBC World News">
-    <title lang="fr">Impact (?)</title>
-    <credits>
-      <presenter>Mishal Husain</presenter>
-    </credits>
-    <category lang="fr">Magazine d'actualité</category>
-  </programme>
-  <programme start="20190123150000 +0100" stop="20190123153000 +0100" channel="BBC World News">
-    <title lang="fr">Impact (?)</title>
-    <credits>
-      <presenter>Mishal Husain</presenter>
-    </credits>
-    <category lang="fr">Magazine d'actualité</category>
-  </programme>
-  <programme start="20190123153000 +0100" stop="20190123160000 +0100" channel="BBC World News">
-    <title lang="fr">Talking Business with Aaron Heslehurst (?)</title>
-    <credits>
-      <presenter>Aaron Heslehurst</presenter>
-    </credits>
-    <category lang="fr">Magazine de l'économie</category>
-  </programme>
-  <programme start="20190123160000 +0100" stop="20190123163000 +0100" channel="BBC World News">
-    <title lang="fr">Impact (?)</title>
-    <credits>
-      <presenter>Mishal Husain</presenter>
-    </credits>
-    <category lang="fr">Magazine d'actualité</category>
-  </programme>
-  <programme start="20190123163000 +0100" stop="20190123170000 +0100" channel="BBC World News">
-    <title lang="fr">HARDtalk (?)</title>
-    <credits>
-      <presenter>Kevin Connolly</presenter>
-      <presenter>Stephen Sackur</presenter>
-    </credits>
-    <category lang="fr">Magazine d'actualité</category>
-  </programme>
-  <programme start="20190123170000 +0100" stop="20190123173000 +0100" channel="BBC World News">
-    <title lang="fr">Global with Matthew Amroliwala (?)</title>
-    <category lang="fr">Magazine d'information</category>
-  </programme>
-  <programme start="20190123173000 +0100" stop="20190123180000 +0100" channel="BBC World News">
-    <title lang="fr">Global with Matthew Amroliwala (?)</title>
-    <category lang="fr">Magazine d'information</category>
-  </programme>
-  <programme start="20190123180000 +0100" stop="20190123183000 +0100" channel="BBC World News">
-    <title lang="fr">Global with Matthew Amroliwala (?)</title>
-    <category lang="fr">Magazine d'information</category>
-  </programme>
-  <programme start="20190123183000 +0100" stop="20190123190000 +0100" channel="BBC World News">
-    <title lang="fr">BBC Focus on Africa (?)</title>
-    <category lang="fr">Magazine de découvertes</category>
-  </programme>
-  <programme start="20190123190000 +0100" stop="20190123191500 +0100" channel="BBC World News">
-    <title lang="fr">Global with Matthew Amroliwala (?)</title>
-    <category lang="fr">Magazine d'information</category>
-  </programme>
-  <programme start="20190123191500 +0100" stop="20190123193000 +0100" channel="BBC World News">
-    <title lang="fr">Global Business (?)</title>
-    <category lang="fr">Magazine de l'économie</category>
-  </programme>
-  <programme start="20190123193000 +0100" stop="20190123200000 +0100" channel="BBC World News">
-    <title lang="fr">HARDtalk (?)</title>
-    <credits>
-      <presenter>Kevin Connolly</presenter>
-      <presenter>Stephen Sackur</presenter>
-    </credits>
-    <category lang="fr">Magazine d'actualité</category>
-  </programme>
-  <programme start="20190123200000 +0100" stop="20190123203000 +0100" channel="BBC World News">
-    <title lang="fr">Beyond 100 Days (?)</title>
-    <category lang="fr">Magazine d'actualité</category>
-  </programme>
-  <programme start="20190123203000 +0100" stop="20190123210000 +0100" channel="BBC World News">
-    <title lang="fr">Beyond 100 Days (?)</title>
-    <category lang="fr">Magazine d'actualité</category>
-  </programme>
-  <programme start="20190123210000 +0100" stop="20190123213000 +0100" channel="BBC World News">
-    <title lang="fr">Outside Source (?)</title>
-    <credits>
-      <presenter>Ross Atkins</presenter>
-    </credits>
-    <category lang="fr">Magazine d'actualité</category>
-  </programme>
-  <programme start="20190123213000 +0100" stop="20190123220000 +0100" channel="BBC World News">
-    <title lang="fr">Sport Today (?)</title>
-    <category lang="fr">Magazine sportif</category>
-  </programme>
-  <programme start="20190123220000 +0100" stop="20190123223000 +0100" channel="BBC World News">
-    <title lang="fr">Outside Source (?)</title>
-    <credits>
-      <presenter>Ross Atkins</presenter>
-    </credits>
-    <category lang="fr">Magazine d'actualité</category>
-  </programme>
-  <programme start="20190123223000 +0100" stop="20190123230000 +0100" channel="BBC World News">
-    <title lang="fr">Outside Source (?)</title>
-    <credits>
-      <presenter>Ross Atkins</presenter>
-    </credits>
-    <category lang="fr">Magazine d'actualité</category>
-  </programme>
-  <programme start="20190123230000 +0100" stop="20190123233000 +0100" channel="BBC World News">
-    <title lang="fr">BBC World News America (?)</title>
-    <credits>
-      <presenter>Katty Kay</presenter>
-    </credits>
-    <category lang="fr">Magazine de l'économie</category>
-  </programme>
-  <programme start="20190123233000 +0100" stop="20190124000000 +0100" channel="BBC World News">
-    <title lang="fr">BBC World News America (?)</title>
-    <credits>
-      <presenter>Katty Kay</presenter>
-    </credits>
-    <category lang="fr">Magazine de l'économie</category>
+  <programme start="20190126053000 +0100" stop="20190126060000 +0100" channel="Al Jazeera English">
+    <title lang="fr">Talk to Al Jazeera</title>
+    <category lang="fr">Magazine de société</category>
   </programme>
   <programme start="20190124000000 +0100" stop="20190124003000 +0100" channel="BBC World News">
     <title lang="fr">Newsday (?)</title>
@@ -3648,5 +3059,273 @@
       <presenter>Stephen Sackur</presenter>
     </credits>
     <category lang="fr">Magazine d'actualité</category>
+  </programme>
+  <programme start="20190125060000 +0100" stop="20190125063000 +0100" channel="BBC World News">
+    <title lang="fr">The Briefing (?)</title>
+    <category lang="fr">Magazine d'information</category>
+  </programme>
+  <programme start="20190125063000 +0100" stop="20190125064500 +0100" channel="BBC World News">
+    <title lang="fr">Business Briefing (?)</title>
+    <category lang="fr">Magazine de l'économie</category>
+  </programme>
+  <programme start="20190125064500 +0100" stop="20190125070000 +0100" channel="BBC World News">
+    <title lang="fr">The Briefing (?)</title>
+    <category lang="fr">Magazine d'information</category>
+  </programme>
+  <programme start="20190125070000 +0100" stop="20190125073000 +0100" channel="BBC World News">
+    <title lang="fr">The Briefing (?)</title>
+    <category lang="fr">Magazine d'information</category>
+  </programme>
+  <programme start="20190125073000 +0100" stop="20190125074500 +0100" channel="BBC World News">
+    <title lang="fr">Business Briefing (?)</title>
+    <category lang="fr">Magazine de l'économie</category>
+  </programme>
+  <programme start="20190125074500 +0100" stop="20190125080000 +0100" channel="BBC World News">
+    <title lang="fr">The Briefing (?)</title>
+    <category lang="fr">Magazine d'information</category>
+  </programme>
+  <programme start="20190125080000 +0100" stop="20190125083000 +0100" channel="BBC World News">
+    <title lang="fr">BBC World News (?)</title>
+    <category lang="fr">Journal</category>
+  </programme>
+  <programme start="20190125083000 +0100" stop="20190125084500 +0100" channel="BBC World News">
+    <title lang="fr">BBC World News (?)</title>
+    <category lang="fr">Journal</category>
+  </programme>
+  <programme start="20190125084500 +0100" stop="20190125090000 +0100" channel="BBC World News">
+    <title lang="fr">World Business Report (?)</title>
+    <category lang="fr">Magazine de l'économie</category>
+  </programme>
+  <programme start="20190125090000 +0100" stop="20190125093000 +0100" channel="BBC World News">
+    <title lang="fr">BBC World News (?)</title>
+    <category lang="fr">Journal</category>
+  </programme>
+  <programme start="20190125093000 +0100" stop="20190125100000 +0100" channel="BBC World News">
+    <title lang="fr">BBC Business Live (?)</title>
+    <category lang="fr">Magazine de l'économie</category>
+  </programme>
+  <programme start="20190125100000 +0100" stop="20190125103000 +0100" channel="BBC World News">
+    <title lang="fr">100 Women (?)</title>
+    <category lang="fr">Découvertes</category>
+  </programme>
+  <programme start="20190125103000 +0100" stop="20190125110000 +0100" channel="BBC World News">
+    <title lang="fr">HARDtalk (?)</title>
+    <credits>
+      <presenter>Kevin Connolly</presenter>
+      <presenter>Stephen Sackur</presenter>
+    </credits>
+    <category lang="fr">Magazine d'actualité</category>
+  </programme>
+  <programme start="20190125110000 +0100" stop="20190125113000 +0100" channel="BBC World News">
+    <title lang="fr">GMT (?)</title>
+    <category lang="fr">Magazine d'actualité</category>
+  </programme>
+  <programme start="20190125113000 +0100" stop="20190125120000 +0100" channel="BBC World News">
+    <title lang="fr">Our World (?)</title>
+    <category lang="fr">Magazine d'actualité</category>
+  </programme>
+  <programme start="20190125120000 +0100" stop="20190125123000 +0100" channel="BBC World News">
+    <title lang="fr">GMT (?)</title>
+    <category lang="fr">Magazine d'actualité</category>
+  </programme>
+  <programme start="20190125123000 +0100" stop="20190125124500 +0100" channel="BBC World News">
+    <title lang="fr">World Business Report (?)</title>
+    <category lang="fr">Magazine de l'économie</category>
+  </programme>
+  <programme start="20190125124500 +0100" stop="20190125130000 +0100" channel="BBC World News">
+    <title lang="fr">Sport Today (?)</title>
+    <category lang="fr">Magazine sportif</category>
+  </programme>
+  <programme start="20190125130000 +0100" stop="20190125133000 +0100" channel="BBC World News">
+    <title lang="fr">GMT (?)</title>
+    <category lang="fr">Magazine d'actualité</category>
+  </programme>
+  <programme start="20190125133000 +0100" stop="20190125140000 +0100" channel="BBC World News">
+    <title lang="fr">GMT (?)</title>
+    <category lang="fr">Magazine d'actualité</category>
+  </programme>
+  <programme start="20190125140000 +0100" stop="20190125143000 +0100" channel="BBC World News">
+    <title lang="fr">Impact (?)</title>
+    <credits>
+      <presenter>Mishal Husain</presenter>
+    </credits>
+    <category lang="fr">Magazine d'actualité</category>
+  </programme>
+  <programme start="20190125143000 +0100" stop="20190125150000 +0100" channel="BBC World News">
+    <title lang="fr">Impact (?)</title>
+    <credits>
+      <presenter>Mishal Husain</presenter>
+    </credits>
+    <category lang="fr">Magazine d'actualité</category>
+  </programme>
+  <programme start="20190125150000 +0100" stop="20190125153000 +0100" channel="BBC World News">
+    <title lang="fr">Impact (?)</title>
+    <credits>
+      <presenter>Mishal Husain</presenter>
+    </credits>
+    <category lang="fr">Magazine d'actualité</category>
+  </programme>
+  <programme start="20190125153000 +0100" stop="20190125160000 +0100" channel="BBC World News">
+    <title lang="fr">Talking Business with Aaron Heslehurst (?)</title>
+    <credits>
+      <presenter>Aaron Heslehurst</presenter>
+    </credits>
+    <category lang="fr">Magazine de l'économie</category>
+  </programme>
+  <programme start="20190125160000 +0100" stop="20190125163000 +0100" channel="BBC World News">
+    <title lang="fr">Impact (?)</title>
+    <credits>
+      <presenter>Mishal Husain</presenter>
+    </credits>
+    <category lang="fr">Magazine d'actualité</category>
+  </programme>
+  <programme start="20190125163000 +0100" stop="20190125170000 +0100" channel="BBC World News">
+    <title lang="fr">Worklife India (?)</title>
+    <credits>
+      <presenter>Devina</presenter>
+      <presenter>Divya Arya</presenter>
+    </credits>
+    <category lang="fr">Débat</category>
+  </programme>
+  <programme start="20190125170000 +0100" stop="20190125173000 +0100" channel="BBC World News">
+    <title lang="fr">BBC World News (?)</title>
+    <category lang="fr">Journal</category>
+  </programme>
+  <programme start="20190125173000 +0100" stop="20190125174500 +0100" channel="BBC World News">
+    <title lang="fr">World Business Report (?)</title>
+    <category lang="fr">Magazine de l'économie</category>
+  </programme>
+  <programme start="20190125174500 +0100" stop="20190125180000 +0100" channel="BBC World News">
+    <title lang="fr">Sport Today (?)</title>
+    <category lang="fr">Magazine sportif</category>
+  </programme>
+  <programme start="20190125180000 +0100" stop="20190125183000 +0100" channel="BBC World News">
+    <title lang="fr">BBC World News (?)</title>
+    <category lang="fr">Journal</category>
+  </programme>
+  <programme start="20190125183000 +0100" stop="20190125190000 +0100" channel="BBC World News">
+    <title lang="fr">BBC Focus on Africa (?)</title>
+    <category lang="fr">Magazine de découvertes</category>
+  </programme>
+  <programme start="20190125190000 +0100" stop="20190125193000 +0100" channel="BBC World News">
+    <title lang="fr">BBC World News (?)</title>
+    <category lang="fr">Journal</category>
+  </programme>
+  <programme start="20190125193000 +0100" stop="20190125194000 +0100" channel="BBC World News">
+    <title lang="fr">BBC World News (?)</title>
+    <category lang="fr">Journal</category>
+  </programme>
+  <programme start="20190125194000 +0100" stop="20190125200000 +0100" channel="BBC World News">
+    <title lang="fr">Reporters (?)</title>
+    <credits>
+      <presenter>Antoine Cormery</presenter>
+      <presenter>Michaël Miraglia</presenter>
+      <presenter>Rebecca Fitoussi</presenter>
+    </credits>
+    <category lang="fr">Magazine de reportages</category>
+  </programme>
+  <programme start="20190125200000 +0100" stop="20190125203000 +0100" channel="BBC World News">
+    <title lang="fr">World News Today (?)</title>
+    <credits>
+      <presenter>Zeinab Badawi</presenter>
+    </credits>
+    <category lang="fr">Journal</category>
+  </programme>
+  <programme start="20190125203000 +0100" stop="20190125210000 +0100" channel="BBC World News">
+    <title lang="fr">The Travel Show (?)</title>
+    <category lang="fr">Magazine du tourisme</category>
+  </programme>
+  <programme start="20190125210000 +0100" stop="20190125213000 +0100" channel="BBC World News">
+    <title lang="fr">World News Today (?)</title>
+    <credits>
+      <presenter>Zeinab Badawi</presenter>
+    </credits>
+    <category lang="fr">Journal</category>
+  </programme>
+  <programme start="20190125213000 +0100" stop="20190125220000 +0100" channel="BBC World News">
+    <title lang="fr">Sport Today (?)</title>
+    <category lang="fr">Magazine sportif</category>
+  </programme>
+  <programme start="20190125220000 +0100" stop="20190125223000 +0100" channel="BBC World News">
+    <title lang="fr">World News Today (?)</title>
+    <credits>
+      <presenter>Zeinab Badawi</presenter>
+    </credits>
+    <category lang="fr">Journal</category>
+  </programme>
+  <programme start="20190125223000 +0100" stop="20190125230000 +0100" channel="BBC World News">
+    <title lang="fr">Our World (?)</title>
+    <category lang="fr">Magazine d'actualité</category>
+  </programme>
+  <programme start="20190125230000 +0100" stop="20190125233000 +0100" channel="BBC World News">
+    <title lang="fr">BBC World News America (?)</title>
+    <credits>
+      <presenter>Katty Kay</presenter>
+    </credits>
+    <category lang="fr">Magazine de l'économie</category>
+  </programme>
+  <programme start="20190125233000 +0100" stop="20190126000000 +0100" channel="BBC World News">
+    <title lang="fr">BBC World News America (?)</title>
+    <credits>
+      <presenter>Katty Kay</presenter>
+    </credits>
+    <category lang="fr">Magazine de l'économie</category>
+  </programme>
+  <programme start="20190126000000 +0100" stop="20190126003000 +0100" channel="BBC World News">
+    <title lang="fr">BBC World News (?)</title>
+    <category lang="fr">Journal</category>
+  </programme>
+  <programme start="20190126003000 +0100" stop="20190126010000 +0100" channel="BBC World News">
+    <title lang="fr">Newsnight (?)</title>
+    <credits>
+      <presenter>Emily Maitlis</presenter>
+      <presenter>Evan Davis</presenter>
+      <presenter>Kirsty Wark</presenter>
+    </credits>
+    <category lang="fr">Magazine d'information</category>
+  </programme>
+  <programme start="20190126010000 +0100" stop="20190126013000 +0100" channel="BBC World News">
+    <title lang="fr">BBC World News (?)</title>
+    <category lang="fr">Journal</category>
+  </programme>
+  <programme start="20190126013000 +0100" stop="20190126020000 +0100" channel="BBC World News">
+    <title lang="fr">Click (?)</title>
+    <credits>
+      <presenter>Gareth Mitchell</presenter>
+    </credits>
+    <category lang="fr">Magazine du multimédia</category>
+  </programme>
+  <programme start="20190126020000 +0100" stop="20190126021000 +0100" channel="BBC World News">
+    <title lang="fr">BBC World News (?)</title>
+    <category lang="fr">Journal</category>
+  </programme>
+  <programme start="20190126021000 +0100" stop="20190126023000 +0100" channel="BBC World News">
+    <title lang="fr">Reporters (?)</title>
+    <credits>
+      <presenter>Antoine Cormery</presenter>
+      <presenter>Michaël Miraglia</presenter>
+      <presenter>Rebecca Fitoussi</presenter>
+    </credits>
+    <category lang="fr">Magazine de reportages</category>
+  </programme>
+  <programme start="20190126023000 +0100" stop="20190126030000 +0100" channel="BBC World News">
+    <title lang="fr">Venezuela : El Helicoide (?)</title>
+    <category lang="fr">Société</category>
+  </programme>
+  <programme start="20190126030000 +0100" stop="20190126033000 +0100" channel="BBC World News">
+    <title lang="fr">BBC World News (?)</title>
+    <category lang="fr">Journal</category>
+  </programme>
+  <programme start="20190126033000 +0100" stop="20190126040000 +0100" channel="BBC World News">
+    <title lang="fr">What Happened to Brazil ? (?)</title>
+    <category lang="fr">Société</category>
+  </programme>
+  <programme start="20190126040000 +0100" stop="20190126043000 +0100" channel="BBC World News">
+    <title lang="fr">BBC World News (?)</title>
+    <category lang="fr">Journal</category>
+  </programme>
+  <programme start="20190126043000 +0100" stop="20190126050000 +0100" channel="BBC World News">
+    <title lang="fr">The Travel Show (?)</title>
+    <category lang="fr">Magazine du tourisme</category>
   </programme>
 </tv>
