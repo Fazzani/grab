@@ -118,32 +118,28 @@
   <programme start="20190124010000 +0100" stop="20190124013000 +0100" channel="almanar">
     <title lang="en">prayers and visits</title>
     <sub-title lang="en">أدعية وزيارات</sub-title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <date>0</date>
     <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_25593443eccc901769014a0e612aeb44a53da17e6eaa029b1cef8d3c27e7ab8c.jpg" />
   </programme>
   <programme start="20190124053000 +0100" stop="20190124060000 +0100" channel="almanar">
     <title lang="en">prayers and visits</title>
     <sub-title lang="en">أدعية وزيارات</sub-title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <date>0</date>
     <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_25593443eccc901769014a0e612aeb44a53da17e6eaa029b1cef8d3c27e7ab8c.jpg" />
   </programme>
   <programme start="20190124060000 +0100" stop="20190124070000 +0100" channel="almanar">
     <title lang="en">The Healthy Body</title>
     <sub-title lang="en">الجسم السليم</sub-title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <date>2014</date>
     <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_cc08b0b112865133986dd3ae1c630c6c3122eff21dde2d5e567daf03b10b1279.jpg" />
   </programme>
   <programme start="20190124070000 +0100" stop="20190124090000 +0100" channel="almanar">
     <title lang="en">New day</title>
     <sub-title lang="en">نهار جديد</sub-title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <credits>
       <director>Talal Mortada</director>
     </credits>
@@ -152,8 +148,7 @@
   </programme>
   <programme start="20190124133000 +0100" stop="20190124150000 +0100" channel="almanar">
     <title lang="en">Al-Ghalibon 2</title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <credits>
       <director>Radwan Shaheen</director>
       <director>Maged Kabrawe</director>
@@ -191,28 +186,32 @@
   <programme start="20190125010000 +0100" stop="20190125013000 +0100" channel="almanar">
     <title lang="en">prayers and visits</title>
     <sub-title lang="en">أدعية وزيارات</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <date>0</date>
     <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_25593443eccc901769014a0e612aeb44a53da17e6eaa029b1cef8d3c27e7ab8c.jpg" />
   </programme>
   <programme start="20190125053000 +0100" stop="20190125060000 +0100" channel="almanar">
     <title lang="en">prayers and visits</title>
     <sub-title lang="en">أدعية وزيارات</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <date>0</date>
     <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_25593443eccc901769014a0e612aeb44a53da17e6eaa029b1cef8d3c27e7ab8c.jpg" />
   </programme>
   <programme start="20190125060000 +0100" stop="20190125070000 +0100" channel="almanar">
     <title lang="en">The Healthy Body</title>
     <sub-title lang="en">الجسم السليم</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <date>2014</date>
     <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_cc08b0b112865133986dd3ae1c630c6c3122eff21dde2d5e567daf03b10b1279.jpg" />
   </programme>
   <programme start="20190125070000 +0100" stop="20190125090000 +0100" channel="almanar">
     <title lang="en">New day</title>
     <sub-title lang="en">نهار جديد</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Talal Mortada</director>
     </credits>
@@ -221,7 +220,8 @@
   </programme>
   <programme start="20190125133000 +0100" stop="20190125150000 +0100" channel="almanar">
     <title lang="en">Al-Ghalibon 2</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Radwan Shaheen</director>
       <director>Maged Kabrawe</director>
@@ -241,6 +241,18 @@
     <rating system="EG">
       <value>5.3</value>
     </rating>
+  </programme>
+  <programme start="20190124000000 +0100" stop="20190124000000 +0100" channel="Sada El Balad">
+    <title lang="en">الفيلم العربي
+            
+              12:00  AM
+              [120 minutes]</title>
+  </programme>
+  <programme start="20190124000000 +0100" stop="20190124000000 +0100" channel="Sada El Balad">
+    <title lang="en">طبيب البلد
+            
+              02:00  AM
+              [60 minutes]</title>
   </programme>
   <programme start="20190124000000 +0100" stop="20190124010000 +0100" channel="Sada El Balad">
     <title lang="en">3 Setat</title>
@@ -262,8 +274,7 @@
   <programme start="20190124030000 +0100" stop="20190124040000 +0100" channel="Sada El Balad">
     <title lang="en">Taken lives</title>
     <sub-title lang="en">قلوب تائهة</sub-title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <date>2008</date>
     <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
   </programme>
@@ -276,16 +287,14 @@
   <programme start="20190124060000 +0100" stop="20190124070000 +0100" channel="Sada El Balad">
     <title lang="en">3 Setat</title>
     <sub-title lang="en">3 ستات</sub-title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <date>2018</date>
     <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
   </programme>
   <programme start="20190124070000 +0100" stop="20190124090000 +0100" channel="Sada El Balad">
     <title lang="en">sabah el balad</title>
     <sub-title lang="en">صباح البلد</sub-title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <date>2012</date>
     <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_0210b72a6524a7d9f622e0545fee663f921d2831f6a8259f666018f4fc596b22.jpg" />
     <rating system="EG">
@@ -302,8 +311,7 @@
   <programme start="20190124150000 +0100" stop="20190124160000 +0100" channel="Sada El Balad">
     <title lang="en">3 Setat</title>
     <sub-title lang="en">3 ستات</sub-title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <date>2018</date>
     <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
   </programme>
@@ -318,7 +326,8 @@
   </programme>
   <programme start="20190125030000 +0100" stop="20190125043000 +0100" channel="Sada El Balad">
     <title lang="en">Haqaeq Wasrar</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <date>2014</date>
     <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_7f32d5db2a05fb5e87945233b15fe66859f188f0ddbc46688efde153478d3921.jpg" />
     <rating system="EG">
@@ -328,13 +337,15 @@
   <programme start="20190125150000 +0100" stop="20190125170000 +0100" channel="Sada El Balad">
     <title lang="en">3 Setat</title>
     <sub-title lang="en">3 ستات</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <date>2018</date>
     <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
   </programme>
   <programme start="20190125170000 +0100" stop="20190125180000 +0100" channel="Sada El Balad">
     <title lang="en">Haqaeq Wasrar</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <date>2014</date>
     <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_7f32d5db2a05fb5e87945233b15fe66859f188f0ddbc46688efde153478d3921.jpg" />
     <rating system="EG">
@@ -344,14 +355,16 @@
   <programme start="20190125180000 +0100" stop="20190125193000 +0100" channel="Sada El Balad">
     <title lang="en">Taken lives</title>
     <sub-title lang="en">قلوب تائهة</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <date>2008</date>
     <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
   </programme>
   <programme start="20190124070000 +0100" stop="20190124080000 +0100" channel="ON E">
     <title lang="en">every day</title>
     <sub-title lang="en">كل يوم</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>شريف السقا</director>
     </credits>
@@ -364,7 +377,8 @@
   <programme start="20190124080000 +0100" stop="20190124100000 +0100" channel="ON E">
     <title lang="en">Women talks</title>
     <sub-title lang="en">كلام ستات</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <date>2018</date>
     <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_5c30600b5007630a62ea065ca5a3f7fdfe416174334a9ccf26627a1932b29643.jpg" />
     <rating system="EG">
@@ -374,7 +388,8 @@
   <programme start="20190124100000 +0100" stop="20190124110000 +0100" channel="ON E">
     <title lang="en">Unstable Mind</title>
     <sub-title lang="en">هربانة منها</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Moataz El Tony</director>
       <director>Mohamed abd elrahman</director>
@@ -397,7 +412,8 @@
   </programme>
   <programme start="20190124110000 +0100" stop="20190124120000 +0100" channel="ON E">
     <title lang="en">Al Hakika w Al Sarab</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Magdy Abou Emira</director>
       <director>نهلة فاروق</director>
@@ -417,6 +433,18 @@
     <rating system="EG">
       <value>7.3</value>
     </rating>
+  </programme>
+  <programme start="20190124000000 +0100" stop="20190124000000 +0100" channel="Amman">
+    <title lang="en">برنامج
+            
+              12:00  AM
+              [150 minutes]</title>
+  </programme>
+  <programme start="20190124000000 +0100" stop="20190124000000 +0100" channel="Amman">
+    <title lang="en">برنامج
+            
+              02:30  AM
+              [180 minutes]</title>
   </programme>
   <programme start="20190124080000 +0100" stop="20190124110000 +0100" channel="Amman">
     <title lang="en">Your Concerns are M</title>
@@ -453,15 +481,13 @@
   <programme start="20190124140000 +0100" stop="20190124170000 +0100" channel="Amman">
     <title lang="en">Your Concerns are M</title>
     <sub-title lang="en">همك همي</sub-title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <date>2018</date>
     <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_903b12c9db5ea6a1c4480ba3819ca3fe8bdd37aa31f370a1f012c592b0e86241.jpg" />
   </programme>
   <programme start="20190124190000 +0100" stop="20190124200000 +0100" channel="Amman">
     <title lang="en">Ahmar</title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <credits>
       <director>Joud Said</director>
       <director>يارا جروج</director>
@@ -487,10 +513,39 @@
   <programme start="20190124200000 +0100" stop="20190124210000 +0100" channel="Amman">
     <title lang="en">What's Going on</title>
     <sub-title lang="en">شو في مافي</sub-title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <date>0</date>
     <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
+  </programme>
+  <programme start="20190124000000 +0100" stop="20190124000000 +0100" channel="MTV">
+    <title lang="en">برنامج
+            
+              12:00  AM
+              [120 minutes]</title>
+  </programme>
+  <programme start="20190124000000 +0100" stop="20190124000000 +0100" channel="MTV">
+    <title lang="en">برنامج
+            
+              02:00  AM
+              [120 minutes]</title>
+  </programme>
+  <programme start="20190124000000 +0100" stop="20190124000000 +0100" channel="MTV">
+    <title lang="en">برنامج
+            
+              04:00  AM
+              [120 minutes]</title>
+  </programme>
+  <programme start="20190124000000 +0100" stop="20190124000000 +0100" channel="MTV">
+    <title lang="en">برنامج
+            
+              06:00  AM
+              [60 minutes]</title>
+  </programme>
+  <programme start="20190124000000 +0100" stop="20190124000000 +0100" channel="MTV">
+    <title lang="en">نشرة الصباح
+            
+              07:00  AM
+              [35 minutes]</title>
   </programme>
   <programme start="20190124013500 +0100" stop="20190124015000 +0100" channel="MTV">
     <title lang="en">Up To Date</title>
@@ -516,74 +571,73 @@
   <programme start="20190124073500 +0100" stop="20190124075000 +0100" channel="MTV">
     <title lang="en">Up To Date</title>
     <sub-title lang="en">كل حديث</sub-title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <date>2014</date>
     <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_29b284566db909363dbb2d253ffd10c83b1cd8a245256f056d35e7f8d453004e.jpg" />
   </programme>
   <programme start="20190124075000 +0100" stop="20190124081000 +0100" channel="MTV">
     <title lang="en">Technology</title>
     <sub-title lang="en">تكنولوجيا</sub-title>
-    <desc lang="en">(g)</desc>
+    <desc lang="en">
+    </desc>
     <date>2014</date>
     <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_f07d03578a87cc2fc68c22d39790135c071446961a5c2fde66987fc79db53829.jpg" />
   </programme>
   <programme start="20190124081000 +0100" stop="20190124085000 +0100" channel="MTV">
     <title lang="en">Auto Focus</title>
     <sub-title lang="en">تركيز</sub-title>
-    <desc lang="en">(c)</desc>
+    <desc lang="en">
+    </desc>
     <date>2014</date>
     <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_21526d9937c82e27421388b42d085615a54d27464f5950c5027a41af3643c490.jpg" />
   </programme>
   <programme start="20190124085000 +0100" stop="20190124093000 +0100" channel="MTV">
     <title lang="en">Eat Smart</title>
     <sub-title lang="en">كل بذكاء</sub-title>
-    <desc lang="en">(c)</desc>
+    <desc lang="en">
+    </desc>
     <date>2014</date>
     <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_7efb3d7acf5e1e35185fa7fb9a665d62f0ee7dad4b4bd5bdedd6119232e9dc1c.jpg" />
   </programme>
   <programme start="20190124093000 +0100" stop="20190124094000 +0100" channel="MTV">
     <title lang="en">Whats On MTV</title>
     <sub-title lang="en">ما يعرض على إم تي في</sub-title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <date>2014</date>
     <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_74a7050da58f60ab76a1d0695eb65ccbbc7ecf8b4be305e4359019fb8d30fc86.jpg" />
   </programme>
   <programme start="20190124123000 +0100" stop="20190124140000 +0100" channel="MTV">
     <title lang="en">We Can Solve It</title>
     <sub-title lang="en">الحل عنا</sub-title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <date>0</date>
     <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_ef644b20b0062472798cddf6f7172c98cc4d1cb47dce087cd4928bff5ec2e873.jpg" />
   </programme>
   <programme start="20190124140000 +0100" stop="20190124151500 +0100" channel="MTV">
     <title lang="en">Beirut Today</title>
     <sub-title lang="en">بيروت اليوم</sub-title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <date>0</date>
     <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_b2902ef32a6de36727b83b9f73a4829a63fce5979e20254acf307f97cce8bdf5.jpg" />
   </programme>
   <programme start="20190124151500 +0100" stop="20190124170000 +0100" channel="MTV">
     <title lang="en">Hashtag</title>
     <sub-title lang="en">هاشتاج</sub-title>
-    <desc lang="en">(g)</desc>
+    <desc lang="en">
+    </desc>
     <date>10</date>
     <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_3c407df41fdbca535112c654bd20e1848dc67aa352e0fe73325e481066bd3943.jpg" />
   </programme>
   <programme start="20190124184000 +0100" stop="20190124194000 +0100" channel="MTV">
     <title lang="en">Who Said It</title>
     <sub-title lang="en">مين قال</sub-title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <date>2012</date>
     <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_7626fbaedabb3da204b8699f764b0e2a50c71e6ed1de625235811fce2c3642ca.jpg" />
   </programme>
   <programme start="20190124194000 +0100" stop="20190124204000 +0100" channel="MTV">
-    <title lang="en">ما فيي (?)</title>
-    <desc lang="en">(r)</desc>
+    <title lang="en">07:40  PM
+            [60 minutes] (?)</title>
     <credits>
       <director>Rasha Sharbatgy</director>
       <director>وسيم بدر</director>
@@ -607,48 +661,54 @@
   <programme start="20190125073500 +0100" stop="20190125075000 +0100" channel="MTV">
     <title lang="en">Up To Date</title>
     <sub-title lang="en">كل حديث</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <date>2014</date>
     <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_29b284566db909363dbb2d253ffd10c83b1cd8a245256f056d35e7f8d453004e.jpg" />
   </programme>
   <programme start="20190125081000 +0100" stop="20190125093000 +0100" channel="MTV">
     <title lang="en">Auto Focus</title>
     <sub-title lang="en">تركيز</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <date>2014</date>
     <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_21526d9937c82e27421388b42d085615a54d27464f5950c5027a41af3643c490.jpg" />
   </programme>
   <programme start="20190125093000 +0100" stop="20190125094000 +0100" channel="MTV">
     <title lang="en">Whats On MTV</title>
     <sub-title lang="en">ما يعرض على إم تي في</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <date>2014</date>
     <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_74a7050da58f60ab76a1d0695eb65ccbbc7ecf8b4be305e4359019fb8d30fc86.jpg" />
   </programme>
   <programme start="20190125123000 +0100" stop="20190125140000 +0100" channel="MTV">
     <title lang="en">We Can Solve It</title>
     <sub-title lang="en">الحل عنا</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <date>0</date>
     <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_ef644b20b0062472798cddf6f7172c98cc4d1cb47dce087cd4928bff5ec2e873.jpg" />
   </programme>
   <programme start="20190125140000 +0100" stop="20190125151500 +0100" channel="MTV">
     <title lang="en">Beirut Today</title>
     <sub-title lang="en">بيروت اليوم</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <date>0</date>
     <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_b2902ef32a6de36727b83b9f73a4829a63fce5979e20254acf307f97cce8bdf5.jpg" />
   </programme>
   <programme start="20190125184000 +0100" stop="20190125194000 +0100" channel="MTV">
     <title lang="en">Who Said It</title>
     <sub-title lang="en">مين قال</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <date>2012</date>
     <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_7626fbaedabb3da204b8699f764b0e2a50c71e6ed1de625235811fce2c3642ca.jpg" />
   </programme>
   <programme start="20190125194000 +0100" stop="20190125204000 +0100" channel="MTV">
-    <title lang="en">ما فيي (?)</title>
-    <desc lang="en">(n)</desc>
+    <title lang="en">07:40  PM
+            [60 minutes] (?)</title>
     <credits>
       <director>Rasha Sharbatgy</director>
       <director>وسيم بدر</director>
@@ -694,8 +754,7 @@
   <programme start="20190124013000 +0100" stop="20190124023000 +0100" channel="Al Nahar TV">
     <title lang="en">Tomorrow Is Better</title>
     <sub-title lang="en">وبكره أحلى</sub-title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <credits>
       <actor>لمياء فهمي عبد الحميد</actor>
     </credits>
@@ -708,8 +767,7 @@
   <programme start="20190124060000 +0100" stop="20190124080000 +0100" channel="Al Nahar TV">
     <title lang="en">Late Night</title>
     <sub-title lang="en">آخر النهار</sub-title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <credits>
       <director>أحمد جمعة</director>
     </credits>
@@ -786,8 +844,7 @@
   <programme start="20190124140000 +0100" stop="20190124150000 +0100" channel="Al Nahar TV">
     <title lang="en">Tomorrow Is Better</title>
     <sub-title lang="en">وبكره أحلى</sub-title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <credits>
       <actor>لمياء فهمي عبد الحميد</actor>
     </credits>
@@ -799,8 +856,7 @@
   </programme>
   <programme start="20190124150000 +0100" stop="20190124160000 +0100" channel="Al Nahar TV">
     <title lang="en">Al-bayt Al-kaber</title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <credits>
       <director>Mohamed Nukaly</director>
       <director>Orabi El Khamisi</director>
@@ -819,8 +875,8 @@
     </rating>
   </programme>
   <programme start="20190124160000 +0100" stop="20190124180000 +0100" channel="Al Nahar TV">
-    <title lang="en">شارع النهار (?)</title>
-    <desc lang="en">(r)</desc>
+    <title lang="en">04:00  PM
+            [120 minutes] (?)</title>
     <date>2018</date>
     <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
     <rating system="EG">
@@ -852,8 +908,7 @@
   <programme start="20190124220000 +0100" stop="20190124230000 +0100" channel="Al Nahar TV">
     <title lang="en">WASHWASHA</title>
     <sub-title lang="en">وشوشة</sub-title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <date>2018</date>
     <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
     <rating system="EG">
@@ -862,8 +917,7 @@
   </programme>
   <programme start="20190124230000 +0100" stop="20190125003000 +0100" channel="Al Nahar TV">
     <title lang="en">Al Farenja</title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <credits>
       <director>Hisham Fathy</director>
       <actor>Hesham Maged</actor>
@@ -879,7 +933,7 @@
   </programme>
   <programme start="20190125003000 +0100" stop="20190125013000 +0100" channel="Al Nahar TV">
     <title lang="en">Azmi W Ashgaan</title>
-    <desc lang="en">The show tells the comedic story of Azmy and Ashgan, two fraudulent criminals who get into funny situations while trying not to get arrested by the police.(n)</desc>
+    <desc lang="en">The show tells the comedic story of Azmy and Ashgan, two fraudulent criminals who get into funny situations while trying not to get arrested by the police.</desc>
     <credits>
       <director>Islam Khairy</director>
       <actor>Hasan Al-Raddad</actor>
@@ -902,7 +956,8 @@
   <programme start="20190125060000 +0100" stop="20190125080000 +0100" channel="Al Nahar TV">
     <title lang="en">Late Night</title>
     <sub-title lang="en">آخر النهار</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>أحمد جمعة</director>
     </credits>
@@ -915,20 +970,22 @@
   <programme start="20190125080000 +0100" stop="20190125090000 +0100" channel="Al Nahar TV">
     <title lang="en">ezay el seha</title>
     <sub-title lang="en">إزاي الصحة</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <date>2012</date>
     <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
   </programme>
   <programme start="20190125113000 +0100" stop="20190125140000 +0100" channel="Al Nahar TV">
     <title lang="en">It's Still Possible</title>
     <sub-title lang="en">ولسه ممكن</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <date>2016</date>
     <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
   </programme>
   <programme start="20190125180000 +0100" stop="20190125190000 +0100" channel="Al Nahar TV">
     <title lang="en">Azmi W Ashgaan</title>
-    <desc lang="en">The show tells the comedic story of Azmy and Ashgan, two fraudulent criminals who get into funny situations while trying not to get arrested by the police.(n)</desc>
+    <desc lang="en">The show tells the comedic story of Azmy and Ashgan, two fraudulent criminals who get into funny situations while trying not to get arrested by the police.</desc>
     <credits>
       <director>Islam Khairy</director>
       <actor>Hasan Al-Raddad</actor>
@@ -949,8 +1006,8 @@
     </rating>
   </programme>
   <programme start="20190125190000 +0100" stop="20190125210000 +0100" channel="Al Nahar TV">
-    <title lang="en">باب الخلق (?)</title>
-    <desc lang="en">(n)</desc>
+    <title lang="en">07:00  PM
+            [120 minutes] (?)</title>
     <date>2018</date>
     <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
     <rating system="EG">
@@ -960,8 +1017,7 @@
   <programme start="20190124003000 +0100" stop="20190124013000 +0100" channel="Al Jadeed TV">
     <title lang="en">Blind Love</title>
     <sub-title lang="en">حب اعمى</sub-title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <credits>
       <director>Hilal Saral</director>
       <actor>Burak Ozsovi</actor>
@@ -1042,8 +1098,7 @@
   <programme start="20190124120000 +0100" stop="20190124130000 +0100" channel="Al Jadeed TV">
     <title lang="en">Elkhrbh</title>
     <sub-title lang="en">الخربة</sub-title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <credits>
       <director>Nedal Segri</director>
       <director>Laith Hijo</director>
@@ -1083,8 +1138,8 @@
     <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_cffe276a92e21adc635232e5365651d5b855988266255c85e2e9cd6ddfae2b4b.jpg" />
   </programme>
   <programme start="20190124153000 +0100" stop="20190124170000 +0100" channel="Al Jadeed TV">
-    <title lang="en">أنا هيك (?)</title>
-    <desc lang="en">(r)</desc>
+    <title lang="en">03:30  PM
+            [90 minutes] (?)</title>
     <credits>
       <director>وليد ناصيف</director>
       <writer>Neshan</writer>
@@ -1120,8 +1175,7 @@
   <programme start="20190124175000 +0100" stop="20190124185000 +0100" channel="Al Jadeed TV">
     <title lang="en">Elkhrbh</title>
     <sub-title lang="en">الخربة</sub-title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <credits>
       <director>Nedal Segri</director>
       <director>Laith Hijo</director>
@@ -1145,8 +1199,7 @@
   <programme start="20190124204000 +0100" stop="20190124213000 +0100" channel="Al Jadeed TV">
     <title lang="en">The White House</title>
     <sub-title lang="en">البيت الأبيض</sub-title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <credits>
       <director>فانيا عون</director>
       <director>وليد فايد</director>
@@ -1164,8 +1217,7 @@
   <programme start="20190124213000 +0100" stop="20190125003000 +0100" channel="Al Jadeed TV">
     <title lang="en">Qadh and Gam</title>
     <sub-title lang="en">قدح وجم</sub-title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <credits>
       <actor>Joanna Karki</actor>
       <actor>عايدة صبرا</actor>
@@ -1177,7 +1229,8 @@
   <programme start="20190125003000 +0100" stop="20190125013000 +0100" channel="Al Jadeed TV">
     <title lang="en">Blind Love</title>
     <sub-title lang="en">حب اعمى</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Hilal Saral</director>
       <actor>Burak Ozsovi</actor>
@@ -1199,7 +1252,8 @@
   <programme start="20190125013000 +0100" stop="20190125040000 +0100" channel="Al Jadeed TV">
     <title lang="en">Elkhrbh</title>
     <sub-title lang="en">الخربة</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Nedal Segri</director>
       <director>Laith Hijo</director>
@@ -1221,8 +1275,8 @@
     </rating>
   </programme>
   <programme start="20190125040000 +0100" stop="20190125083000 +0100" channel="Al Jadeed TV">
-    <title lang="en">أنا هيك (?)</title>
-    <desc lang="en">(n)</desc>
+    <title lang="en">04:00  AM
+            [210 minutes] (?)</title>
     <credits>
       <director>وليد ناصيف</director>
       <writer>Neshan</writer>
@@ -1234,7 +1288,8 @@
   <programme start="20190125120000 +0100" stop="20190125130000 +0100" channel="Al Jadeed TV">
     <title lang="en">Elkhrbh</title>
     <sub-title lang="en">الخربة</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Nedal Segri</director>
       <director>Laith Hijo</director>
@@ -1258,7 +1313,8 @@
   <programme start="20190125130000 +0100" stop="20190125153000 +0100" channel="Al Jadeed TV">
     <title lang="en">Blind Love</title>
     <sub-title lang="en">حب اعمى</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Hilal Saral</director>
       <actor>Burak Ozsovi</actor>
@@ -1280,7 +1336,8 @@
   <programme start="20190125153000 +0100" stop="20190125170000 +0100" channel="Al Jadeed TV">
     <title lang="en">Qadh and Gam</title>
     <sub-title lang="en">قدح وجم</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <actor>Joanna Karki</actor>
       <actor>عايدة صبرا</actor>
@@ -1292,7 +1349,7 @@
   <programme start="20190125170000 +0100" stop="20190125175000 +0100" channel="Al Jadeed TV">
     <title lang="en">Warda Shamya</title>
     <sub-title lang="en">وردة شامية</sub-title>
-    <desc lang="en">Warda and Shamiaa are two sisters undergoing harsh circumstances which leads them to committing murder in their Damascene neighborhood.(n)</desc>
+    <desc lang="en">Warda and Shamiaa are two sisters undergoing harsh circumstances which leads them to committing murder in their Damascene neighborhood.</desc>
     <credits>
       <director>Tamer Ishak</director>
       <actor>Salloum Haddad</actor>
@@ -1316,7 +1373,8 @@
   <programme start="20190125175000 +0100" stop="20190125185000 +0100" channel="Al Jadeed TV">
     <title lang="en">Elkhrbh</title>
     <sub-title lang="en">الخربة</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Nedal Segri</director>
       <director>Laith Hijo</director>
@@ -1340,7 +1398,8 @@
   <programme start="20190125185000 +0100" stop="20190125204000 +0100" channel="Al Jadeed TV">
     <title lang="en">Blind Love</title>
     <sub-title lang="en">حب اعمى</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Hilal Saral</director>
       <actor>Burak Ozsovi</actor>
@@ -1359,9 +1418,57 @@
       <value>8.2</value>
     </rating>
   </programme>
+  <programme start="20190124000000 +0100" stop="20190124000000 +0100" channel="Al Kahera Wal Nas TV">
+    <title lang="en">برنامج
+            
+              01:00  AM
+              [60 minutes]</title>
+  </programme>
+  <programme start="20190124000000 +0100" stop="20190124000000 +0100" channel="Al Kahera Wal Nas TV">
+    <title lang="en">برنامج
+            
+              02:00  AM
+              [60 minutes]</title>
+  </programme>
+  <programme start="20190124000000 +0100" stop="20190124000000 +0100" channel="Al Kahera Wal Nas TV">
+    <title lang="en">برنامج
+            
+              03:00  AM
+              [60 minutes]</title>
+  </programme>
+  <programme start="20190124000000 +0100" stop="20190124000000 +0100" channel="Al Kahera Wal Nas TV">
+    <title lang="en">برنامج
+            
+              04:00  AM
+              [60 minutes]</title>
+  </programme>
+  <programme start="20190124000000 +0100" stop="20190124000000 +0100" channel="Al Kahera Wal Nas TV">
+    <title lang="en">برنامج
+            
+              05:00  AM
+              [60 minutes]</title>
+  </programme>
+  <programme start="20190124000000 +0100" stop="20190124000000 +0100" channel="Al Kahera Wal Nas TV">
+    <title lang="en">نشرة المصري اليوم
+            
+              06:00  AM
+              [60 minutes]</title>
+  </programme>
+  <programme start="20190124000000 +0100" stop="20190124000000 +0100" channel="Al Kahera Wal Nas TV">
+    <title lang="en">برنامج
+            
+              07:00  AM
+              [60 minutes]</title>
+  </programme>
+  <programme start="20190124000000 +0100" stop="20190124000000 +0100" channel="Al Kahera Wal Nas TV">
+    <title lang="en">برنامج
+            
+              08:00  AM
+              [90 minutes]</title>
+  </programme>
   <programme start="20190124093000 +0100" stop="20190124103000 +0100" channel="Al Kahera Wal Nas TV">
     <title lang="en">Nesr El-Saeed</title>
-    <desc lang="en">The show chronicles around a man called Zein, who is played by Mohamed Ramadan. Zein goes into a deadly dispute with Hitler (Sayed Ragab). Zein, living in Southern Egypt, is a businessman whose work is illegal. As their conflict develops, each strives to bring down his opponent. Meanwhile, Zein finds himself falling in love with two women, one of which is his cousin.(c)</desc>
+    <desc lang="en">The show chronicles around a man called Zein, who is played by Mohamed Ramadan. Zein goes into a deadly dispute with Hitler (Sayed Ragab). Zein, living in Southern Egypt, is a businessman whose work is illegal. As their conflict develops, each strives to bring down his opponent. Meanwhile, Zein finds himself falling in love with two women, one of which is his cousin.</desc>
     <credits>
       <director>Yasser Mohammed Samy</director>
       <director>karim madian</director>
@@ -1384,7 +1491,8 @@
   </programme>
   <programme start="20190124103000 +0100" stop="20190124113000 +0100" channel="Al Kahera Wal Nas TV">
     <title lang="en">El Ghorog</title>
-    <desc lang="en">(c)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Mohamed Gamal Al-Adl</director>
       <director>Omar Roushdy Hamed</director>
@@ -1411,7 +1519,8 @@
   <programme start="20190124113000 +0100" stop="20190124123000 +0100" channel="Al Kahera Wal Nas TV">
     <title lang="en">The Doctor</title>
     <sub-title lang="en">الدكتور</sub-title>
-    <desc lang="en">(c)</desc>
+    <desc lang="en">
+    </desc>
     <date>2013</date>
     <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_050d79c7fbc15258b9b29eb80f242a150d7f414b7452914882255cd703c5a322.jpg" />
     <rating system="EG">
@@ -1433,8 +1542,7 @@
   <programme start="20190124160000 +0100" stop="20190124173000 +0100" channel="Al Kahera Wal Nas TV">
     <title lang="en">Good People</title>
     <sub-title lang="en">الناس الحلوة</sub-title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <credits>
       <director>هلال السويدي</director>
     </credits>
@@ -1447,8 +1555,7 @@
   <programme start="20190124173000 +0100" stop="20190124190000 +0100" channel="Al Kahera Wal Nas TV">
     <title lang="en">The Prodigies</title>
     <sub-title lang="en">العباقرة</sub-title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <credits>
       <director>Melad Abi Raad</director>
     </credits>
@@ -1461,8 +1568,7 @@
   <programme start="20190124190000 +0100" stop="20190124220000 +0100" channel="Al Kahera Wal Nas TV">
     <title lang="en">Envy</title>
     <sub-title lang="en">نفسنة</sub-title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <date>2015</date>
     <category lang="en">Genre</category>
     <category lang="en">Comedy</category>
@@ -1474,7 +1580,8 @@
   <programme start="20190125130000 +0100" stop="20190125160000 +0100" channel="Al Kahera Wal Nas TV">
     <title lang="en">The Doctor</title>
     <sub-title lang="en">الدكتور</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <date>2013</date>
     <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_050d79c7fbc15258b9b29eb80f242a150d7f414b7452914882255cd703c5a322.jpg" />
     <rating system="EG">
@@ -1484,7 +1591,8 @@
   <programme start="20190125160000 +0100" stop="20190125173000 +0100" channel="Al Kahera Wal Nas TV">
     <title lang="en">Good People</title>
     <sub-title lang="en">الناس الحلوة</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>هلال السويدي</director>
     </credits>
@@ -1497,7 +1605,8 @@
   <programme start="20190125173000 +0100" stop="20190125190000 +0100" channel="Al Kahera Wal Nas TV">
     <title lang="en">The Prodigies</title>
     <sub-title lang="en">العباقرة</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Melad Abi Raad</director>
     </credits>
@@ -1510,7 +1619,8 @@
   <programme start="20190125190000 +0100" stop="20190125220000 +0100" channel="Al Kahera Wal Nas TV">
     <title lang="en">Envy</title>
     <sub-title lang="en">نفسنة</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <date>2015</date>
     <category lang="en">Genre</category>
     <category lang="en">Comedy</category>
@@ -1519,23 +1629,32 @@
       <value>5.1</value>
     </rating>
   </programme>
+  <programme start="20190125220000 +0100" stop="20190126093000 +0100" channel="Al Kahera Wal Nas TV">
+    <title lang="en">10:00  PM
+            [60 minutes] (?)</title>
+    <date>2019</date>
+    <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
+  </programme>
   <programme start="20190124170000 +0100" stop="20190124180000 +0100" channel="Al sharqya">
     <title lang="en">Moraselon</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <date>2014</date>
     <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_8e7d77dc032511fab8b85724c2bb0c1fa24023babb0387ed28820cabd5a9f237.jpg" />
   </programme>
   <programme start="20190124180000 +0100" stop="20190124190000 +0100" channel="Al sharqya">
     <title lang="en">kahrmana</title>
     <sub-title lang="en">كهرمانة</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <date>2017</date>
     <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
   </programme>
   <programme start="20190124230000 +0100" stop="20190125000000 +0100" channel="Al sharqya">
     <title lang="en">Alsharqiya Mourning</title>
     <sub-title lang="en">صباح الشرقية</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <date>0</date>
     <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
   </programme>
@@ -1693,8 +1812,7 @@
   </programme>
   <programme start="20190124040000 +0100" stop="20190124043000 +0100" channel="Zee alwan">
     <title lang="en">Qadari Bela Lawn</title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <credits>
       <director>Ramesh Pandey</director>
       <actor>Ruhana Khanna</actor>
@@ -1778,8 +1896,7 @@
   <programme start="20190124070000 +0100" stop="20190124073000 +0100" channel="Zee alwan">
     <title lang="en">Dilli Wali Thakur Gurls</title>
     <sub-title lang="en">قدري ونصيبي</sub-title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <credits>
       <director>Rakesh Kumar</director>
       <actor>Sukirti Kandpal</actor>
@@ -1795,8 +1912,7 @@
   <programme start="20190124073000 +0100" stop="20190124080000 +0100" channel="Zee alwan">
     <title lang="en">Dilli Wali Thakur Gurls</title>
     <sub-title lang="en">قدري ونصيبي</sub-title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <credits>
       <director>Rakesh Kumar</director>
       <actor>Sukirti Kandpal</actor>
@@ -2258,8 +2374,7 @@
   <programme start="20190124203000 +0100" stop="20190124210000 +0100" channel="Zee alwan">
     <title lang="en">Dilli Wali Thakur Gurls</title>
     <sub-title lang="en">قدري ونصيبي</sub-title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <credits>
       <director>Rakesh Kumar</director>
       <actor>Sukirti Kandpal</actor>
@@ -2275,8 +2390,7 @@
   <programme start="20190124210000 +0100" stop="20190124213000 +0100" channel="Zee alwan">
     <title lang="en">Ek Mutthi Aasmaan</title>
     <sub-title lang="en">مشوار عمري</sub-title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <credits>
       <director>Abhimanyu Chauhan</director>
       <actor>Shilpa Shirodkar</actor>
@@ -2292,8 +2406,7 @@
   <programme start="20190124213000 +0100" stop="20190124220000 +0100" channel="Zee alwan">
     <title lang="en">Ek Mutthi Aasmaan</title>
     <sub-title lang="en">مشوار عمري</sub-title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <credits>
       <director>Abhimanyu Chauhan</director>
       <actor>Shilpa Shirodkar</actor>
@@ -2388,7 +2501,8 @@
   </programme>
   <programme start="20190125000000 +0100" stop="20190125003000 +0100" channel="Zee alwan">
     <title lang="en">Al-bayt Al-kaber</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Mohamed Nukaly</director>
       <director>Orabi El Khamisi</director>
@@ -2408,7 +2522,8 @@
   </programme>
   <programme start="20190125003000 +0100" stop="20190125010000 +0100" channel="Zee alwan">
     <title lang="en">Al-bayt Al-kaber</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Mohamed Nukaly</director>
       <director>Orabi El Khamisi</director>
@@ -2429,7 +2544,8 @@
   <programme start="20190125010000 +0100" stop="20190125013000 +0100" channel="Zee alwan">
     <title lang="en">Dilli Wali Thakur Gurls</title>
     <sub-title lang="en">قدري ونصيبي</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Rakesh Kumar</director>
       <actor>Sukirti Kandpal</actor>
@@ -2445,7 +2561,8 @@
   <programme start="20190125013000 +0100" stop="20190125020000 +0100" channel="Zee alwan">
     <title lang="en">Dilli Wali Thakur Gurls</title>
     <sub-title lang="en">قدري ونصيبي</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Rakesh Kumar</director>
       <actor>Sukirti Kandpal</actor>
@@ -2461,7 +2578,8 @@
   <programme start="20190125020000 +0100" stop="20190125023000 +0100" channel="Zee alwan">
     <title lang="en">Ek Mutthi Aasmaan</title>
     <sub-title lang="en">مشوار عمري</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Abhimanyu Chauhan</director>
       <actor>Shilpa Shirodkar</actor>
@@ -2477,7 +2595,8 @@
   <programme start="20190125023000 +0100" stop="20190125030000 +0100" channel="Zee alwan">
     <title lang="en">Ek Mutthi Aasmaan</title>
     <sub-title lang="en">مشوار عمري</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Abhimanyu Chauhan</director>
       <actor>Shilpa Shirodkar</actor>
@@ -2493,7 +2612,7 @@
   <programme start="20190125030000 +0100" stop="20190125033000 +0100" channel="Zee alwan">
     <title lang="en">Julia</title>
     <sub-title lang="en">جوليا</sub-title>
-    <desc lang="en">'Julia' chronicles around the romantic life of a doctor, who has many problems because of his ex-wife, especially after she finds out about his relationship with another woman.(n)</desc>
+    <desc lang="en">'Julia' chronicles around the romantic life of a doctor, who has many problems because of his ex-wife, especially after she finds out about his relationship with another woman.</desc>
     <credits>
       <director>Elie F. Habib</director>
       <director>سالم الحدشيتي</director>
@@ -2518,7 +2637,7 @@
   <programme start="20190125033000 +0100" stop="20190125040000 +0100" channel="Zee alwan">
     <title lang="en">Julia</title>
     <sub-title lang="en">جوليا</sub-title>
-    <desc lang="en">'Julia' chronicles around the romantic life of a doctor, who has many problems because of his ex-wife, especially after she finds out about his relationship with another woman.(n)</desc>
+    <desc lang="en">'Julia' chronicles around the romantic life of a doctor, who has many problems because of his ex-wife, especially after she finds out about his relationship with another woman.</desc>
     <credits>
       <director>Elie F. Habib</director>
       <director>سالم الحدشيتي</director>
@@ -2542,7 +2661,8 @@
   </programme>
   <programme start="20190125040000 +0100" stop="20190125043000 +0100" channel="Zee alwan">
     <title lang="en">Qadari Bela Lawn</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Ramesh Pandey</director>
       <actor>Ruhana Khanna</actor>
@@ -2559,9 +2679,70 @@
       <value>5.3</value>
     </rating>
   </programme>
+  <programme start="20190125043000 +0100" stop="20190125050000 +0100" channel="Zee alwan">
+    <title lang="en">Qadari Bela Lawn</title>
+    <credits>
+      <director>Ramesh Pandey</director>
+      <actor>Ruhana Khanna</actor>
+      <actor>Aditi Sharma</actor>
+      <actor>Vishal Vashishtha</actor>
+      <writer>Zaman Habib</writer>
+      <writer>Rajita Sharma</writer>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Genre</category>
+    <category lang="en">Drama</category>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_473496663dc3e45deeef9bb2a43d49a36e267a70b7e8988448a2fe141480baae.jpg" />
+    <rating system="EG">
+      <value>5.3</value>
+    </rating>
+  </programme>
+  <programme start="20190125050000 +0100" stop="20190125053000 +0100" channel="Zee alwan">
+    <title lang="en">El-Waq Waq</title>
+    <desc lang="en">This show tells the story of three totally different people who, by pure coincidence, end up together on an island. Thus they have to set their differences aside in order to survive on this island, not to mention that they have to vote for one of them to be their leader.(g)</desc>
+    <credits>
+      <director>Laith Hijo</director>
+      <actor>Bassem Yakhour</actor>
+      <actor>Shukran Murtaja</actor>
+      <actor>Rashid Assaf</actor>
+      <actor>Mohamed Haddaki</actor>
+      <actor>Road Aliu</actor>
+      <actor>Ahmad AlAhmad</actor>
+      <writer>Mamdouh Hamada</writer>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Genre</category>
+    <category lang="en">Comedy</category>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_38a20c4585aa995940338f921ac23ed9a9ca7e8c52c19790aceeee54cda9a4ef.jpg" />
+    <rating system="EG">
+      <value>5.3</value>
+    </rating>
+  </programme>
+  <programme start="20190125053000 +0100" stop="20190125060000 +0100" channel="Zee alwan">
+    <title lang="en">El-Waq Waq</title>
+    <desc lang="en">This show tells the story of three totally different people who, by pure coincidence, end up together on an island. Thus they have to set their differences aside in order to survive on this island, not to mention that they have to vote for one of them to be their leader.(g)</desc>
+    <credits>
+      <director>Laith Hijo</director>
+      <actor>Bassem Yakhour</actor>
+      <actor>Shukran Murtaja</actor>
+      <actor>Rashid Assaf</actor>
+      <actor>Mohamed Haddaki</actor>
+      <actor>Road Aliu</actor>
+      <actor>Ahmad AlAhmad</actor>
+      <writer>Mamdouh Hamada</writer>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Genre</category>
+    <category lang="en">Comedy</category>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_38a20c4585aa995940338f921ac23ed9a9ca7e8c52c19790aceeee54cda9a4ef.jpg" />
+    <rating system="EG">
+      <value>5.3</value>
+    </rating>
+  </programme>
   <programme start="20190125060000 +0100" stop="20190125063000 +0100" channel="Zee alwan">
     <title lang="en">Al-bayt Al-kaber</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Mohamed Nukaly</director>
       <director>Orabi El Khamisi</director>
@@ -2581,7 +2762,8 @@
   </programme>
   <programme start="20190125063000 +0100" stop="20190125070000 +0100" channel="Zee alwan">
     <title lang="en">Al-bayt Al-kaber</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Mohamed Nukaly</director>
       <director>Orabi El Khamisi</director>
@@ -2602,7 +2784,8 @@
   <programme start="20190125070000 +0100" stop="20190125073000 +0100" channel="Zee alwan">
     <title lang="en">Dilli Wali Thakur Gurls</title>
     <sub-title lang="en">قدري ونصيبي</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Rakesh Kumar</director>
       <actor>Sukirti Kandpal</actor>
@@ -2618,7 +2801,8 @@
   <programme start="20190125073000 +0100" stop="20190125080000 +0100" channel="Zee alwan">
     <title lang="en">Dilli Wali Thakur Gurls</title>
     <sub-title lang="en">قدري ونصيبي</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Rakesh Kumar</director>
       <actor>Sukirti Kandpal</actor>
@@ -2633,7 +2817,8 @@
   </programme>
   <programme start="20190125080000 +0100" stop="20190125083000 +0100" channel="Zee alwan">
     <title lang="en">The Genesis of Healing</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Martin Spirit</director>
       <actor>Alastair Greener</actor>
@@ -2651,7 +2836,8 @@
   </programme>
   <programme start="20190125083000 +0100" stop="20190125090000 +0100" channel="Zee alwan">
     <title lang="en">The Genesis of Healing</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Martin Spirit</director>
       <actor>Alastair Greener</actor>
@@ -2669,7 +2855,26 @@
   </programme>
   <programme start="20190125090000 +0100" stop="20190125093000 +0100" channel="Zee alwan">
     <title lang="en">Qadari Bela Lawn</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
+    <credits>
+      <director>Ramesh Pandey</director>
+      <actor>Ruhana Khanna</actor>
+      <actor>Aditi Sharma</actor>
+      <actor>Vishal Vashishtha</actor>
+      <writer>Zaman Habib</writer>
+      <writer>Rajita Sharma</writer>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Genre</category>
+    <category lang="en">Drama</category>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_473496663dc3e45deeef9bb2a43d49a36e267a70b7e8988448a2fe141480baae.jpg" />
+    <rating system="EG">
+      <value>5.3</value>
+    </rating>
+  </programme>
+  <programme start="20190125093000 +0100" stop="20190125100000 +0100" channel="Zee alwan">
+    <title lang="en">Qadari Bela Lawn</title>
     <credits>
       <director>Ramesh Pandey</director>
       <actor>Ruhana Khanna</actor>
@@ -2689,7 +2894,8 @@
   <programme start="20190125110000 +0100" stop="20190125113000 +0100" channel="Zee alwan">
     <title lang="en">Dilli Wali Thakur Gurls</title>
     <sub-title lang="en">قدري ونصيبي</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Rakesh Kumar</director>
       <actor>Sukirti Kandpal</actor>
@@ -2705,7 +2911,8 @@
   <programme start="20190125113000 +0100" stop="20190125120000 +0100" channel="Zee alwan">
     <title lang="en">Dilli Wali Thakur Gurls</title>
     <sub-title lang="en">قدري ونصيبي</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Rakesh Kumar</director>
       <actor>Sukirti Kandpal</actor>
@@ -2721,7 +2928,8 @@
   <programme start="20190125120000 +0100" stop="20190125123000 +0100" channel="Zee alwan">
     <title lang="en">Ek Mutthi Aasmaan</title>
     <sub-title lang="en">مشوار عمري</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Abhimanyu Chauhan</director>
       <actor>Shilpa Shirodkar</actor>
@@ -2737,7 +2945,8 @@
   <programme start="20190125123000 +0100" stop="20190125130000 +0100" channel="Zee alwan">
     <title lang="en">Ek Mutthi Aasmaan</title>
     <sub-title lang="en">مشوار عمري</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Abhimanyu Chauhan</director>
       <actor>Shilpa Shirodkar</actor>
@@ -2751,8 +2960,8 @@
     <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_8a93d481a508061fc906bb1972ef16c42a58277bd50ca0c8c156af6b8a3b790e.jpg" />
   </programme>
   <programme start="20190125130000 +0100" stop="20190125133000 +0100" channel="Zee alwan">
-    <title lang="en">ثروة مع وقف التنفيذ (?)</title>
-    <desc lang="en">(n)</desc>
+    <title lang="en">01:00  PM
+            [30 minutes] (?)</title>
     <credits>
       <director>Robert Orhel</director>
       <director>Kristijan Milic</director>
@@ -2772,8 +2981,8 @@
     <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_26f7a59ba1ca867ab3bd9ef4e7bf5f7b7054922da5da2437623bfc61f3e31632.jpg" />
   </programme>
   <programme start="20190125133000 +0100" stop="20190125140000 +0100" channel="Zee alwan">
-    <title lang="en">ثروة مع وقف التنفيذ (?)</title>
-    <desc lang="en">(n)</desc>
+    <title lang="en">01:30  PM
+            [30 minutes] (?)</title>
     <credits>
       <director>Robert Orhel</director>
       <director>Kristijan Milic</director>
@@ -2794,7 +3003,8 @@
   </programme>
   <programme start="20190125140000 +0100" stop="20190125143000 +0100" channel="Zee alwan">
     <title lang="en">Al-bayt Al-kaber</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Mohamed Nukaly</director>
       <director>Orabi El Khamisi</director>
@@ -2814,7 +3024,8 @@
   </programme>
   <programme start="20190125143000 +0100" stop="20190125150000 +0100" channel="Zee alwan">
     <title lang="en">Al-bayt Al-kaber</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Mohamed Nukaly</director>
       <director>Orabi El Khamisi</director>
@@ -2835,7 +3046,8 @@
   <programme start="20190125150000 +0100" stop="20190125153000 +0100" channel="Zee alwan">
     <title lang="en">Maral</title>
     <sub-title lang="en">مارال</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Deniz Koloş</director>
       <actor>Aras Bulut Iynemli</actor>
@@ -2854,7 +3066,8 @@
   <programme start="20190125153000 +0100" stop="20190125160000 +0100" channel="Zee alwan">
     <title lang="en">Maral</title>
     <sub-title lang="en">مارال</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Deniz Koloş</director>
       <actor>Aras Bulut Iynemli</actor>
@@ -2873,7 +3086,7 @@
   <programme start="20190125160000 +0100" stop="20190125163000 +0100" channel="Zee alwan">
     <title lang="en">Julia</title>
     <sub-title lang="en">جوليا</sub-title>
-    <desc lang="en">'Julia' chronicles around the romantic life of a doctor, who has many problems because of his ex-wife, especially after she finds out about his relationship with another woman.(n)</desc>
+    <desc lang="en">'Julia' chronicles around the romantic life of a doctor, who has many problems because of his ex-wife, especially after she finds out about his relationship with another woman.</desc>
     <credits>
       <director>Elie F. Habib</director>
       <director>سالم الحدشيتي</director>
@@ -2898,7 +3111,7 @@
   <programme start="20190125163000 +0100" stop="20190125170000 +0100" channel="Zee alwan">
     <title lang="en">Julia</title>
     <sub-title lang="en">جوليا</sub-title>
-    <desc lang="en">'Julia' chronicles around the romantic life of a doctor, who has many problems because of his ex-wife, especially after she finds out about his relationship with another woman.(n)</desc>
+    <desc lang="en">'Julia' chronicles around the romantic life of a doctor, who has many problems because of his ex-wife, especially after she finds out about his relationship with another woman.</desc>
     <credits>
       <director>Elie F. Habib</director>
       <director>سالم الحدشيتي</director>
@@ -2922,7 +3135,8 @@
   </programme>
   <programme start="20190125170000 +0100" stop="20190125173000 +0100" channel="Zee alwan">
     <title lang="en">Qadari Bela Lawn</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Ramesh Pandey</director>
       <actor>Ruhana Khanna</actor>
@@ -2941,7 +3155,8 @@
   </programme>
   <programme start="20190125173000 +0100" stop="20190125180000 +0100" channel="Zee alwan">
     <title lang="en">Qadari Bela Lawn</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Ramesh Pandey</director>
       <actor>Ruhana Khanna</actor>
@@ -2960,7 +3175,8 @@
   </programme>
   <programme start="20190125180000 +0100" stop="20190125183000 +0100" channel="Zee alwan">
     <title lang="en">Al-bayt Al-kaber</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Mohamed Nukaly</director>
       <director>Orabi El Khamisi</director>
@@ -2980,7 +3196,8 @@
   </programme>
   <programme start="20190125183000 +0100" stop="20190125190000 +0100" channel="Zee alwan">
     <title lang="en">Al-bayt Al-kaber</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Mohamed Nukaly</director>
       <director>Orabi El Khamisi</director>
@@ -3001,7 +3218,8 @@
   <programme start="20190125190000 +0100" stop="20190125193000 +0100" channel="Zee alwan">
     <title lang="en">Maral</title>
     <sub-title lang="en">مارال</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Deniz Koloş</director>
       <actor>Aras Bulut Iynemli</actor>
@@ -3020,7 +3238,8 @@
   <programme start="20190125193000 +0100" stop="20190125200000 +0100" channel="Zee alwan">
     <title lang="en">Maral</title>
     <sub-title lang="en">مارال</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Deniz Koloş</director>
       <actor>Aras Bulut Iynemli</actor>
@@ -3039,7 +3258,8 @@
   <programme start="20190125200000 +0100" stop="20190125203000 +0100" channel="Zee alwan">
     <title lang="en">Dilli Wali Thakur Gurls</title>
     <sub-title lang="en">قدري ونصيبي</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Rakesh Kumar</director>
       <actor>Sukirti Kandpal</actor>
@@ -3055,7 +3275,8 @@
   <programme start="20190125203000 +0100" stop="20190125210000 +0100" channel="Zee alwan">
     <title lang="en">Dilli Wali Thakur Gurls</title>
     <sub-title lang="en">قدري ونصيبي</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Rakesh Kumar</director>
       <actor>Sukirti Kandpal</actor>
@@ -3071,7 +3292,8 @@
   <programme start="20190125210000 +0100" stop="20190125213000 +0100" channel="Zee alwan">
     <title lang="en">Ek Mutthi Aasmaan</title>
     <sub-title lang="en">مشوار عمري</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Abhimanyu Chauhan</director>
       <actor>Shilpa Shirodkar</actor>
@@ -3087,7 +3309,8 @@
   <programme start="20190125213000 +0100" stop="20190125220000 +0100" channel="Zee alwan">
     <title lang="en">Ek Mutthi Aasmaan</title>
     <sub-title lang="en">مشوار عمري</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Abhimanyu Chauhan</director>
       <actor>Shilpa Shirodkar</actor>
@@ -3102,7 +3325,8 @@
   </programme>
   <programme start="20190125220000 +0100" stop="20190125223000 +0100" channel="Zee alwan">
     <title lang="en">Qadari Bela Lawn</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Ramesh Pandey</director>
       <actor>Ruhana Khanna</actor>
@@ -3121,7 +3345,8 @@
   </programme>
   <programme start="20190125223000 +0100" stop="20190125230000 +0100" channel="Zee alwan">
     <title lang="en">Qadari Bela Lawn</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Ramesh Pandey</director>
       <actor>Ruhana Khanna</actor>
@@ -3141,7 +3366,8 @@
   <programme start="20190125230000 +0100" stop="20190125233000 +0100" channel="Zee alwan">
     <title lang="en">Bhabi Ji Ghar Par Hai</title>
     <sub-title lang="en">ايه جابك عند جارك</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <actor>Rima Salum</actor>
     </credits>
@@ -3154,7 +3380,8 @@
   <programme start="20190125233000 +0100" stop="20190126000000 +0100" channel="Zee alwan">
     <title lang="en">Bhabi Ji Ghar Par Hai</title>
     <sub-title lang="en">ايه جابك عند جارك</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <actor>Rima Salum</actor>
     </credits>
@@ -3164,18 +3391,24 @@
     <category lang="en">Drama</category>
     <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_e3578d2d19106a23c051c29c8ac8b786beadb8fb9f9b1a18640107946376ee74.jpg" />
   </programme>
+  <programme start="20190124000000 +0100" stop="20190124000000 +0100" channel="Fujairah">
+    <title lang="en">برنامج
+            
+              01:45  AM
+              [75 minutes]</title>
+  </programme>
   <programme start="20190124140000 +0100" stop="20190124160000 +0100" channel="Fujairah">
     <title lang="en">Rainbow</title>
     <sub-title lang="en">راينبو</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <date>2017</date>
     <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_63efd627822114f877ddbfde26ac58b60f8d76e80d96ab01c2f4608d8a6b8cad.jpg" />
   </programme>
   <programme start="20190124000000 +0100" stop="20190124023000 +0100" channel="Roya">
     <title lang="en">Donya Ya Donya</title>
     <sub-title lang="en">دنيا يا دنيا</sub-title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <date>0</date>
     <category lang="en">Genre</category>
     <category lang="en">Family</category>
@@ -3184,8 +3417,7 @@
   <programme start="20190124023000 +0100" stop="20190124040000 +0100" channel="Roya">
     <title lang="en">Roya Kitchen</title>
     <sub-title lang="en">مطبخ رؤيا</sub-title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <date>0</date>
     <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_dd401c4aa891c7595eef1e8d0948528f215f2586ce20f52f16f837e0c19747b5.jpg" />
   </programme>
@@ -3199,16 +3431,14 @@
   <programme start="20190124060000 +0100" stop="20190124073000 +0100" channel="Roya">
     <title lang="en">This Mourning</title>
     <sub-title lang="en">هذا الصباح</sub-title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <date>0</date>
     <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
   </programme>
   <programme start="20190124073000 +0100" stop="20190124100000 +0100" channel="Roya">
     <title lang="en">Donya Ya Donya</title>
     <sub-title lang="en">دنيا يا دنيا</sub-title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <date>0</date>
     <category lang="en">Genre</category>
     <category lang="en">Family</category>
@@ -3217,8 +3447,7 @@
   <programme start="20190124100000 +0100" stop="20190124113000 +0100" channel="Roya">
     <title lang="en">Roya Kitchen</title>
     <sub-title lang="en">مطبخ رؤيا</sub-title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <date>0</date>
     <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_dd401c4aa891c7595eef1e8d0948528f215f2586ce20f52f16f837e0c19747b5.jpg" />
   </programme>
@@ -3266,8 +3495,7 @@
   <programme start="20190124153000 +0100" stop="20190124160000 +0100" channel="Roya">
     <title lang="en">Clear confusion</title>
     <sub-title lang="en">تشويش واضح 9</sub-title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <date>2018</date>
     <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
   </programme>
@@ -3338,16 +3566,14 @@
   <programme start="20190124203000 +0100" stop="20190124210000 +0100" channel="Roya">
     <title lang="en">Clear confusion</title>
     <sub-title lang="en">تشويش واضح 9</sub-title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <date>2018</date>
     <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
   </programme>
   <programme start="20190124210000 +0100" stop="20190124213000 +0100" channel="Roya">
     <title lang="en">Girls' Night Out</title>
     <sub-title lang="en">سهرة بنات</sub-title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <credits>
       <writer>ثريا حمده</writer>
     </credits>
@@ -3355,9 +3581,8 @@
     <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_902b569fac1a7684eeb7bc1790e379af872ed6567f504bb7dbb4472e8b179e9f.jpg" />
   </programme>
   <programme start="20190124213000 +0100" stop="20190124220000 +0100" channel="Roya">
-    <title lang="en">رحالة سيلفي (?)</title>
-    <desc lang="en">
-    </desc>
+    <title lang="en">09:30  PM
+            [30 minutes] (?)</title>
     <date>2018</date>
     <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
   </programme>
@@ -3387,8 +3612,7 @@
   <programme start="20190124223000 +0100" stop="20190124230000 +0100" channel="Roya">
     <title lang="en">Asfoureyyeh</title>
     <sub-title lang="en">عصفورية</sub-title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <credits>
       <director>Rifqi Assaf</director>
       <director>Ahmad Alyaseer</director>
@@ -3404,17 +3628,29 @@
     <date>2015</date>
     <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_de1764eb0943a11ee5af646d5869d319e58999b4a77d4db7507e10d3ddb094ce.jpg" />
   </programme>
-  <programme start="20190124230000 +0100" stop="20190125000000 +0100" channel="Roya">
-    <title lang="en">State Pulse</title>
-    <sub-title lang="en">نبض البلد</sub-title>
-    <desc lang="en">(c)</desc>
+  <programme start="20190124230000 +0100" stop="20190124233000 +0100" channel="Roya">
+    <title lang="en">Girls' Night Out</title>
+    <sub-title lang="en">سهرة بنات</sub-title>
+    <credits>
+      <writer>ثريا حمده</writer>
+    </credits>
     <date>2018</date>
-    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_fae9e9aa130ac8c101998aeb9634a0cf14160609cc604d4688d8593adeb75c64.jpg" />
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_902b569fac1a7684eeb7bc1790e379af872ed6567f504bb7dbb4472e8b179e9f.jpg" />
+  </programme>
+  <programme start="20190124233000 +0100" stop="20190125000000 +0100" channel="Roya">
+    <title lang="en">Girls' Night Out</title>
+    <sub-title lang="en">سهرة بنات</sub-title>
+    <credits>
+      <writer>ثريا حمده</writer>
+    </credits>
+    <date>2018</date>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_902b569fac1a7684eeb7bc1790e379af872ed6567f504bb7dbb4472e8b179e9f.jpg" />
   </programme>
   <programme start="20190125000000 +0100" stop="20190125023000 +0100" channel="Roya">
     <title lang="en">Donya Ya Donya</title>
     <sub-title lang="en">دنيا يا دنيا</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <date>0</date>
     <category lang="en">Genre</category>
     <category lang="en">Family</category>
@@ -3423,21 +3659,24 @@
   <programme start="20190125023000 +0100" stop="20190125040000 +0100" channel="Roya">
     <title lang="en">Roya Kitchen</title>
     <sub-title lang="en">مطبخ رؤيا</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <date>0</date>
     <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_dd401c4aa891c7595eef1e8d0948528f215f2586ce20f52f16f837e0c19747b5.jpg" />
   </programme>
   <programme start="20190125060000 +0100" stop="20190125073000 +0100" channel="Roya">
     <title lang="en">This Mourning</title>
     <sub-title lang="en">هذا الصباح</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <date>0</date>
     <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
   </programme>
   <programme start="20190125073000 +0100" stop="20190125100000 +0100" channel="Roya">
     <title lang="en">Donya Ya Donya</title>
     <sub-title lang="en">دنيا يا دنيا</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <date>0</date>
     <category lang="en">Genre</category>
     <category lang="en">Family</category>
@@ -3446,13 +3685,14 @@
   <programme start="20190125100000 +0100" stop="20190125113000 +0100" channel="Roya">
     <title lang="en">Roya Kitchen</title>
     <sub-title lang="en">مطبخ رؤيا</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <date>0</date>
     <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_dd401c4aa891c7595eef1e8d0948528f215f2586ce20f52f16f837e0c19747b5.jpg" />
   </programme>
   <programme start="20190125113000 +0100" stop="20190125123000 +0100" channel="Roya">
     <title lang="en">Tareeq</title>
-    <desc lang="en">The show tells the story of two people from two different social classes who fall in love. Their unusual relationship develops and they eventually get married. Will their differences affect their marriage.(n)</desc>
+    <desc lang="en">The show tells the story of two people from two different social classes who fall in love. Their unusual relationship develops and they eventually get married. Will their differences affect their marriage.</desc>
     <credits>
       <director>Rasha Sharbatgy</director>
       <director>وسيم بدر</director>
@@ -3474,17 +3714,34 @@
       <value>6</value>
     </rating>
   </programme>
+  <programme start="20190125140000 +0100" stop="20190125143000 +0100" channel="Roya">
+    <title lang="en">Clear confusion</title>
+    <sub-title lang="en">تشويش واضح 9</sub-title>
+    <date>2018</date>
+    <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
+  </programme>
+  <programme start="20190125143000 +0100" stop="20190125150000 +0100" channel="Roya">
+    <title lang="en">Girls' Night Out</title>
+    <sub-title lang="en">سهرة بنات</sub-title>
+    <credits>
+      <writer>ثريا حمده</writer>
+    </credits>
+    <date>2018</date>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_902b569fac1a7684eeb7bc1790e379af872ed6567f504bb7dbb4472e8b179e9f.jpg" />
+  </programme>
   <programme start="20190125153000 +0100" stop="20190125160000 +0100" channel="Roya">
     <title lang="en">Clear confusion</title>
     <sub-title lang="en">تشويش واضح 9</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <date>2018</date>
     <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
   </programme>
   <programme start="20190125160000 +0100" stop="20190125163000 +0100" channel="Roya">
     <title lang="en">Girls' Night Out</title>
     <sub-title lang="en">سهرة بنات</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <writer>ثريا حمده</writer>
     </credits>
@@ -3493,7 +3750,7 @@
   </programme>
   <programme start="20190125163000 +0100" stop="20190125173000 +0100" channel="Roya">
     <title lang="en">Tareeq</title>
-    <desc lang="en">The show tells the story of two people from two different social classes who fall in love. Their unusual relationship develops and they eventually get married. Will their differences affect their marriage.(n)</desc>
+    <desc lang="en">The show tells the story of two people from two different social classes who fall in love. Their unusual relationship develops and they eventually get married. Will their differences affect their marriage.</desc>
     <credits>
       <director>Rasha Sharbatgy</director>
       <director>وسيم بدر</director>
@@ -3517,7 +3774,7 @@
   </programme>
   <programme start="20190125173000 +0100" stop="20190125180000 +0100" channel="Roya">
     <title lang="en">El Shreet el Ahmr</title>
-    <desc lang="en">A group of young people and children between the ages of 13 and 25, who have cancer, decide to form a band and call it 'Red Band' after the red tape they have around their wrists, as they are all lodgers in the oncology hospital. The series follows how these young people conquer their illness.(n)</desc>
+    <desc lang="en">A group of young people and children between the ages of 13 and 25, who have cancer, decide to form a band and call it 'Red Band' after the red tape they have around their wrists, as they are all lodgers in the oncology hospital. The series follows how these young people conquer their illness.</desc>
     <credits>
       <director>Mohamed Gomaa</director>
       <director>Mourad Mostafa</director>
@@ -3541,14 +3798,16 @@
   <programme start="20190125203000 +0100" stop="20190125210000 +0100" channel="Roya">
     <title lang="en">Clear confusion</title>
     <sub-title lang="en">تشويش واضح 9</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <date>2018</date>
     <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
   </programme>
   <programme start="20190125210000 +0100" stop="20190125213000 +0100" channel="Roya">
     <title lang="en">Girls' Night Out</title>
     <sub-title lang="en">سهرة بنات</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <writer>ثريا حمده</writer>
     </credits>
@@ -3557,13 +3816,14 @@
   </programme>
   <programme start="20190125213000 +0100" stop="20190125220000 +0100" channel="Roya">
     <title lang="en">رحالة سيلفي (?)</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <date>2018</date>
     <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
   </programme>
   <programme start="20190125220000 +0100" stop="20190125223000 +0100" channel="Roya">
     <title lang="en">El Shreet el Ahmr</title>
-    <desc lang="en">A group of young people and children between the ages of 13 and 25, who have cancer, decide to form a band and call it 'Red Band' after the red tape they have around their wrists, as they are all lodgers in the oncology hospital. The series follows how these young people conquer their illness.(n)</desc>
+    <desc lang="en">A group of young people and children between the ages of 13 and 25, who have cancer, decide to form a band and call it 'Red Band' after the red tape they have around their wrists, as they are all lodgers in the oncology hospital. The series follows how these young people conquer their illness.</desc>
     <credits>
       <director>Mohamed Gomaa</director>
       <director>Mourad Mostafa</director>
@@ -3587,7 +3847,8 @@
   <programme start="20190125223000 +0100" stop="20190125230000 +0100" channel="Roya">
     <title lang="en">Asfoureyyeh</title>
     <sub-title lang="en">عصفورية</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Rifqi Assaf</director>
       <director>Ahmad Alyaseer</director>
@@ -3603,30 +3864,17 @@
     <date>2015</date>
     <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_de1764eb0943a11ee5af646d5869d319e58999b4a77d4db7507e10d3ddb094ce.jpg" />
   </programme>
-  <programme start="20190125230000 +0100" stop="20190125233000 +0100" channel="Roya">
-    <title lang="en">Girls' Night Out</title>
-    <sub-title lang="en">سهرة بنات</sub-title>
-    <desc lang="en">(n)</desc>
-    <credits>
-      <writer>ثريا حمده</writer>
-    </credits>
+  <programme start="20190125230000 +0100" stop="20190126000000 +0100" channel="Roya">
+    <title lang="en">State Pulse</title>
+    <sub-title lang="en">نبض البلد</sub-title>
     <date>2018</date>
-    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_902b569fac1a7684eeb7bc1790e379af872ed6567f504bb7dbb4472e8b179e9f.jpg" />
-  </programme>
-  <programme start="20190125233000 +0100" stop="20190126000000 +0100" channel="Roya">
-    <title lang="en">Girls' Night Out</title>
-    <sub-title lang="en">سهرة بنات</sub-title>
-    <desc lang="en">(n)</desc>
-    <credits>
-      <writer>ثريا حمده</writer>
-    </credits>
-    <date>2018</date>
-    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_902b569fac1a7684eeb7bc1790e379af872ed6567f504bb7dbb4472e8b179e9f.jpg" />
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_fae9e9aa130ac8c101998aeb9634a0cf14160609cc604d4688d8593adeb75c64.jpg" />
   </programme>
   <programme start="20190124160000 +0100" stop="20190124180000 +0100" channel="Mehwar">
     <title lang="en">people's sound</title>
     <sub-title lang="en">صوت الناس</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Usama Eltabei</director>
     </credits>
@@ -3635,6 +3883,30 @@
     <rating system="EG">
       <value>4.3</value>
     </rating>
+  </programme>
+  <programme start="20190124000000 +0100" stop="20190124000000 +0100" channel="Alhayat TV">
+    <title lang="en">برنامج
+            
+              01:30  AM
+              [30 minutes]</title>
+  </programme>
+  <programme start="20190124000000 +0100" stop="20190124000000 +0100" channel="Alhayat TV">
+    <title lang="en">برنامج
+            
+              02:00  AM
+              [60 minutes]</title>
+  </programme>
+  <programme start="20190124000000 +0100" stop="20190124000000 +0100" channel="Alhayat TV">
+    <title lang="en">برنامج
+            
+              03:00  AM
+              [60 minutes]</title>
+  </programme>
+  <programme start="20190124000000 +0100" stop="20190124000000 +0100" channel="Alhayat TV">
+    <title lang="en">برنامج
+            
+              04:00  AM
+              [90 minutes]</title>
   </programme>
   <programme start="20190124150000 +0100" stop="20190124160000 +0100" channel="Alhayat TV">
     <title lang="en">Cocktail tape</title>
@@ -3653,8 +3925,7 @@
   <programme start="20190124210000 +0100" stop="20190124220000 +0100" channel="Alhayat TV">
     <title lang="en">Cocktail tape</title>
     <sub-title lang="en">شريط كوكتيل</sub-title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <credits>
       <director>أحمد جمعة</director>
       <writer>Eiad Saleh</writer>
@@ -3667,7 +3938,8 @@
   </programme>
   <programme start="20190124223000 +0100" stop="20190125000000 +0100" channel="Alhayat TV">
     <title lang="en">أبواب الشك (?)</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Ahmed Samir Farag</director>
       <director>وائل صبري</director>
@@ -3688,10 +3960,25 @@
       <value>6.6</value>
     </rating>
   </programme>
+  <programme start="20190125150000 +0100" stop="20190125160000 +0100" channel="Alhayat TV">
+    <title lang="en">Ashraf's Cafe</title>
+    <sub-title lang="en">قهوة أشرف</sub-title>
+    <credits>
+      <director>Amr Aziz</director>
+      <writer>Eiad Saleh</writer>
+      <writer>طارق الشورى</writer>
+    </credits>
+    <date>2018</date>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_8e093e2ad43006f5e0dbd3e8b34b003fa22e27128c14dd0bce870d45029cb8e9.jpg" />
+    <rating system="EG">
+      <value>5.8</value>
+    </rating>
+  </programme>
   <programme start="20190125210000 +0100" stop="20190125220000 +0100" channel="Alhayat TV">
     <title lang="en">Cocktail tape</title>
     <sub-title lang="en">شريط كوكتيل</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>أحمد جمعة</director>
       <writer>Eiad Saleh</writer>
@@ -3702,10 +3989,29 @@
     <category lang="en">Musical</category>
     <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_7f6b0856ffecb66bfb09c36038d59b99a3286d1f1f21a8f4c3d1367254b313a5.jpg" />
   </programme>
+  <programme start="20190124000000 +0100" stop="20190124000000 +0100" channel="Sharjah TV">
+    <title lang="en">برنامج
+            
+              01:00  AM
+              [120 minutes]</title>
+  </programme>
+  <programme start="20190124000000 +0100" stop="20190124000000 +0100" channel="Sharjah TV">
+    <title lang="en">برنامج
+            
+              03:00  AM
+              [120 minutes]</title>
+  </programme>
+  <programme start="20190124000000 +0100" stop="20190124000000 +0100" channel="Sharjah TV">
+    <title lang="en">برنامج
+            
+              05:00  AM
+              [90 minutes]</title>
+  </programme>
   <programme start="20190124063000 +0100" stop="20190124070000 +0100" channel="Sharjah TV">
     <title lang="en">Pioneers</title>
     <sub-title lang="en">رائدات</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <date>0</date>
     <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
   </programme>
@@ -3728,8 +4034,7 @@
   <programme start="20190124140000 +0100" stop="20190124163000 +0100" channel="Sharjah TV">
     <title lang="en">Opinion</title>
     <sub-title lang="en">فتاوي</sub-title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <date>2018</date>
     <category lang="en">Genre</category>
     <category lang="en">Documentary</category>
@@ -3738,22 +4043,23 @@
   <programme start="20190124163000 +0100" stop="20190124170000 +0100" channel="Sharjah TV">
     <title lang="en">akhbar al dar</title>
     <sub-title lang="en">أخبار الدار</sub-title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <date>2013</date>
     <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_efc00fd6b69e0ad37d6966b80acaada80321eadb2791a1c2615ada777a078b5f.jpg" />
   </programme>
   <programme start="20190124170000 +0100" stop="20190124183000 +0100" channel="Sharjah TV">
     <title lang="en">nights</title>
     <sub-title lang="en">أماسي</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <date>2013</date>
     <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_4d1068eb3413b7735f0f8992b95e1b1a0e14e9fb526b68b7457244a7990f44a1.jpg" />
   </programme>
   <programme start="20190125140000 +0100" stop="20190125163000 +0100" channel="Sharjah TV">
     <title lang="en">Opinion</title>
     <sub-title lang="en">فتاوي</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <date>2018</date>
     <category lang="en">Genre</category>
     <category lang="en">Documentary</category>
@@ -3762,14 +4068,14 @@
   <programme start="20190125163000 +0100" stop="20190125170000 +0100" channel="Sharjah TV">
     <title lang="en">akhbar al dar</title>
     <sub-title lang="en">أخبار الدار</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <date>2013</date>
     <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_efc00fd6b69e0ad37d6966b80acaada80321eadb2791a1c2615ada777a078b5f.jpg" />
   </programme>
   <programme start="20190124000000 +0100" stop="20190124010000 +0100" channel="Lana">
     <title lang="en">مشاريع صغيرة (?)</title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <credits>
       <director>AL-Mothanna Sobah</director>
       <actor>Salloum Haddad</actor>
@@ -3815,9 +4121,8 @@
     </rating>
   </programme>
   <programme start="20190124020000 +0100" stop="20190124030000 +0100" channel="Lana">
-    <title lang="en">فرصة العمر (?)</title>
-    <desc lang="en">
-    </desc>
+    <title lang="en">02:00  AM
+            [60 minutes] (?)</title>
     <credits>
       <director>Azzam Fauq El Ada</director>
       <actor>Abbas Al Nouri</actor>
@@ -3835,9 +4140,8 @@
     </rating>
   </programme>
   <programme start="20190124030000 +0100" stop="20190124040000 +0100" channel="Lana">
-    <title lang="en">أبناء القهر (?)</title>
-    <desc lang="en">
-    </desc>
+    <title lang="en">03:00  AM
+            [60 minutes] (?)</title>
     <credits>
       <director>Marwan Barakat</director>
       <director>غياث الجاجه</director>
@@ -3860,8 +4164,7 @@
   <programme start="20190124040000 +0100" stop="20190124050000 +0100" channel="Lana">
     <title lang="en">Hermanos</title>
     <sub-title lang="en">الأخوة</sub-title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <credits>
       <director>Joaquín Llamas</director>
       <director>Salvador Calvo</director>
@@ -3876,9 +4179,8 @@
     <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_9559d4820547ed9ae812dc2d0a93a451357c0b297a91563c6b66c33af3c255f0.jpg" />
   </programme>
   <programme start="20190124050000 +0100" stop="20190124060000 +0100" channel="Lana">
-    <title lang="en">أهل الراية (?)</title>
-    <desc lang="en">
-    </desc>
+    <title lang="en">05:00  AM
+            [60 minutes] (?)</title>
     <credits>
       <director>Alaa El Din Koksh</director>
       <director>منار حفار</director>
@@ -3917,8 +4219,7 @@
   </programme>
   <programme start="20190124070000 +0100" stop="20190124080000 +0100" channel="Lana">
     <title lang="en">Ahmar</title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <credits>
       <director>Joud Said</director>
       <director>يارا جروج</director>
@@ -3942,9 +4243,8 @@
     </rating>
   </programme>
   <programme start="20190124080000 +0100" stop="20190124090000 +0100" channel="Lana">
-    <title lang="en">أشواك ناعمة (?)</title>
-    <desc lang="en">
-    </desc>
+    <title lang="en">08:00  AM
+            [60 minutes] (?)</title>
     <credits>
       <director>Rasha Sharbatgy</director>
       <actor>Salma El Masry</actor>
@@ -3962,9 +4262,8 @@
     </rating>
   </programme>
   <programme start="20190124090000 +0100" stop="20190124100000 +0100" channel="Lana">
-    <title lang="en">ما ملكت أيمانكم (?)</title>
-    <desc lang="en">
-    </desc>
+    <title lang="en">09:00  AM
+            [60 minutes] (?)</title>
     <credits>
       <director>Nagdat Ismail Anzour</director>
       <director>Ayham Arsan</director>
@@ -3985,9 +4284,8 @@
     </rating>
   </programme>
   <programme start="20190124100000 +0100" stop="20190124110000 +0100" channel="Lana">
-    <title lang="en">أهل الراية (?)</title>
-    <desc lang="en">
-    </desc>
+    <title lang="en">10:00  AM
+            [60 minutes] (?)</title>
     <credits>
       <director>Alaa El Din Koksh</director>
       <director>منار حفار</director>
@@ -4008,9 +4306,8 @@
     </rating>
   </programme>
   <programme start="20190124110000 +0100" stop="20190124120000 +0100" channel="Lana">
-    <title lang="en">مرايا 97 (?)</title>
-    <desc lang="en">
-    </desc>
+    <title lang="en">11:00  AM
+            [60 minutes] (?)</title>
     <credits>
       <director>مأمون البني</director>
       <director>فتحي مراد</director>
@@ -4057,9 +4354,8 @@
     </rating>
   </programme>
   <programme start="20190124130000 +0100" stop="20190124140000 +0100" channel="Lana">
-    <title lang="en">أبناء القهر (?)</title>
-    <desc lang="en">
-    </desc>
+    <title lang="en">01:00  PM
+            [60 minutes] (?)</title>
     <credits>
       <director>Marwan Barakat</director>
       <director>غياث الجاجه</director>
@@ -4080,9 +4376,8 @@
     </rating>
   </programme>
   <programme start="20190124140000 +0100" stop="20190124150000 +0100" channel="Lana">
-    <title lang="en">فرصة العمر (?)</title>
-    <desc lang="en">
-    </desc>
+    <title lang="en">02:00  PM
+            [60 minutes] (?)</title>
     <credits>
       <director>Azzam Fauq El Ada</director>
       <actor>Abbas Al Nouri</actor>
@@ -4100,9 +4395,8 @@
     </rating>
   </programme>
   <programme start="20190124150000 +0100" stop="20190124160000 +0100" channel="Lana">
-    <title lang="en">مشاريع صغيرة (?)</title>
-    <desc lang="en">
-    </desc>
+    <title lang="en">03:00  PM
+            [60 minutes] (?)</title>
     <credits>
       <director>AL-Mothanna Sobah</director>
       <actor>Salloum Haddad</actor>
@@ -4140,9 +4434,8 @@
     <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_9559d4820547ed9ae812dc2d0a93a451357c0b297a91563c6b66c33af3c255f0.jpg" />
   </programme>
   <programme start="20190124170000 +0100" stop="20190124180000 +0100" channel="Lana">
-    <title lang="en">أشواك ناعمة (?)</title>
-    <desc lang="en">
-    </desc>
+    <title lang="en">05:00  PM
+            [60 minutes] (?)</title>
     <credits>
       <director>Rasha Sharbatgy</director>
       <actor>Salma El Masry</actor>
@@ -4161,8 +4454,7 @@
   </programme>
   <programme start="20190124180000 +0100" stop="20190124190000 +0100" channel="Lana">
     <title lang="en">Ahmar</title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <credits>
       <director>Joud Said</director>
       <director>يارا جروج</director>
@@ -4186,9 +4478,8 @@
     </rating>
   </programme>
   <programme start="20190124190000 +0100" stop="20190124200000 +0100" channel="Lana">
-    <title lang="en">مرايا 97 (?)</title>
-    <desc lang="en">
-    </desc>
+    <title lang="en">07:00  PM
+            [60 minutes] (?)</title>
     <credits>
       <director>مأمون البني</director>
       <director>فتحي مراد</director>
@@ -4210,9 +4501,8 @@
     </rating>
   </programme>
   <programme start="20190124200000 +0100" stop="20190124210000 +0100" channel="Lana">
-    <title lang="en">فيه أمل (?)</title>
-    <desc lang="en">
-    </desc>
+    <title lang="en">08:00  PM
+            [60 minutes] (?)</title>
     <credits>
       <director>جان الحداد</director>
       <writer>Amal Arafa</writer>
@@ -4222,9 +4512,8 @@
     <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_0d855d7898cd3899f85b8eac50e44cef15fa3c3964af6f932b47bd6439003088.jpg" />
   </programme>
   <programme start="20190124210000 +0100" stop="20190124220000 +0100" channel="Lana">
-    <title lang="en">أبناء القهر (?)</title>
-    <desc lang="en">
-    </desc>
+    <title lang="en">09:00  PM
+            [60 minutes] (?)</title>
     <credits>
       <director>Marwan Barakat</director>
       <director>غياث الجاجه</director>
@@ -4262,8 +4551,8 @@
     <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_9559d4820547ed9ae812dc2d0a93a451357c0b297a91563c6b66c33af3c255f0.jpg" />
   </programme>
   <programme start="20190124230000 +0100" stop="20190125000000 +0100" channel="Lana">
-    <title lang="en">ما ملكت أيمانكم (?)</title>
-    <desc lang="en">(r)</desc>
+    <title lang="en">11:00  PM
+            [60 minutes] (?)</title>
     <credits>
       <director>Nagdat Ismail Anzour</director>
       <director>Ayham Arsan</director>
@@ -4284,8 +4573,8 @@
     </rating>
   </programme>
   <programme start="20190125000000 +0100" stop="20190125010000 +0100" channel="Lana">
-    <title lang="en">مشاريع صغيرة (?)</title>
-    <desc lang="en">(n)</desc>
+    <title lang="en">12:00  AM
+            [60 minutes] (?)</title>
     <credits>
       <director>AL-Mothanna Sobah</director>
       <actor>Salloum Haddad</actor>
@@ -4306,8 +4595,8 @@
     </rating>
   </programme>
   <programme start="20190125010000 +0100" stop="20190125020000 +0100" channel="Lana">
-    <title lang="en">مرايا 97 (?)</title>
-    <desc lang="en">(n)</desc>
+    <title lang="en">01:00  AM
+            [60 minutes] (?)</title>
     <credits>
       <director>مأمون البني</director>
       <director>فتحي مراد</director>
@@ -4329,8 +4618,8 @@
     </rating>
   </programme>
   <programme start="20190125020000 +0100" stop="20190125030000 +0100" channel="Lana">
-    <title lang="en">فرصة العمر (?)</title>
-    <desc lang="en">(n)</desc>
+    <title lang="en">02:00  AM
+            [60 minutes] (?)</title>
     <credits>
       <director>Azzam Fauq El Ada</director>
       <actor>Abbas Al Nouri</actor>
@@ -4348,8 +4637,8 @@
     </rating>
   </programme>
   <programme start="20190125030000 +0100" stop="20190125040000 +0100" channel="Lana">
-    <title lang="en">أبناء القهر (?)</title>
-    <desc lang="en">(n)</desc>
+    <title lang="en">03:00  AM
+            [60 minutes] (?)</title>
     <credits>
       <director>Marwan Barakat</director>
       <director>غياث الجاجه</director>
@@ -4372,7 +4661,8 @@
   <programme start="20190125040000 +0100" stop="20190125050000 +0100" channel="Lana">
     <title lang="en">Hermanos</title>
     <sub-title lang="en">الأخوة</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Joaquín Llamas</director>
       <director>Salvador Calvo</director>
@@ -4387,8 +4677,8 @@
     <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_9559d4820547ed9ae812dc2d0a93a451357c0b297a91563c6b66c33af3c255f0.jpg" />
   </programme>
   <programme start="20190125050000 +0100" stop="20190125060000 +0100" channel="Lana">
-    <title lang="en">أهل الراية (?)</title>
-    <desc lang="en">(n)</desc>
+    <title lang="en">05:00  AM
+            [60 minutes] (?)</title>
     <credits>
       <director>Alaa El Din Koksh</director>
       <director>منار حفار</director>
@@ -4409,8 +4699,8 @@
     </rating>
   </programme>
   <programme start="20190125060000 +0100" stop="20190125070000 +0100" channel="Lana">
-    <title lang="en">مشاريع صغيرة (?)</title>
-    <desc lang="en">(n)</desc>
+    <title lang="en">06:00  AM
+            [60 minutes] (?)</title>
     <credits>
       <director>AL-Mothanna Sobah</director>
       <actor>Salloum Haddad</actor>
@@ -4432,7 +4722,8 @@
   </programme>
   <programme start="20190125070000 +0100" stop="20190125080000 +0100" channel="Lana">
     <title lang="en">Ahmar</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Joud Said</director>
       <director>يارا جروج</director>
@@ -4456,8 +4747,8 @@
     </rating>
   </programme>
   <programme start="20190125080000 +0100" stop="20190125090000 +0100" channel="Lana">
-    <title lang="en">أشواك ناعمة (?)</title>
-    <desc lang="en">(n)</desc>
+    <title lang="en">08:00  AM
+            [60 minutes] (?)</title>
     <credits>
       <director>Rasha Sharbatgy</director>
       <actor>Salma El Masry</actor>
@@ -4475,8 +4766,8 @@
     </rating>
   </programme>
   <programme start="20190125090000 +0100" stop="20190125100000 +0100" channel="Lana">
-    <title lang="en">ما ملكت أيمانكم (?)</title>
-    <desc lang="en">(n)</desc>
+    <title lang="en">09:00  AM
+            [60 minutes] (?)</title>
     <credits>
       <director>Nagdat Ismail Anzour</director>
       <director>Ayham Arsan</director>
@@ -4497,8 +4788,8 @@
     </rating>
   </programme>
   <programme start="20190125100000 +0100" stop="20190125110000 +0100" channel="Lana">
-    <title lang="en">أهل الراية (?)</title>
-    <desc lang="en">(n)</desc>
+    <title lang="en">10:00  AM
+            [60 minutes] (?)</title>
     <credits>
       <director>Alaa El Din Koksh</director>
       <director>منار حفار</director>
@@ -4519,8 +4810,8 @@
     </rating>
   </programme>
   <programme start="20190125110000 +0100" stop="20190125120000 +0100" channel="Lana">
-    <title lang="en">مرايا 97 (?)</title>
-    <desc lang="en">(n)</desc>
+    <title lang="en">11:00  AM
+            [60 minutes] (?)</title>
     <credits>
       <director>مأمون البني</director>
       <director>فتحي مراد</director>
@@ -4541,10 +4832,25 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20190125120000 +0100" stop="20190125130000 +0100" channel="Lana">
+  <programme start="20190125120000 +0100" stop="20190125123000 +0100" channel="Lana">
     <title lang="en">Hermanos</title>
     <sub-title lang="en">الأخوة</sub-title>
-    <desc lang="en">(n)</desc>
+    <credits>
+      <director>Joaquín Llamas</director>
+      <director>Salvador Calvo</director>
+      <actor>Antonio Velázquez</actor>
+      <actor>María Valverde</actor>
+      <actor>Alvaro Cervantes</actor>
+      <actor>Sonia Almarcha</actor>
+      <writer>Adela Gutiérrez</writer>
+      <writer>Antonio Hernández Centeno</writer>
+    </credits>
+    <date>2014</date>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_9559d4820547ed9ae812dc2d0a93a451357c0b297a91563c6b66c33af3c255f0.jpg" />
+  </programme>
+  <programme start="20190125123000 +0100" stop="20190125130000 +0100" channel="Lana">
+    <title lang="en">Hermanos</title>
+    <sub-title lang="en">الأخوة</sub-title>
     <credits>
       <director>Joaquín Llamas</director>
       <director>Salvador Calvo</director>
@@ -4559,8 +4865,8 @@
     <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_9559d4820547ed9ae812dc2d0a93a451357c0b297a91563c6b66c33af3c255f0.jpg" />
   </programme>
   <programme start="20190125130000 +0100" stop="20190125140000 +0100" channel="Lana">
-    <title lang="en">أبناء القهر (?)</title>
-    <desc lang="en">(n)</desc>
+    <title lang="en">01:00  PM
+            [60 minutes] (?)</title>
     <credits>
       <director>Marwan Barakat</director>
       <director>غياث الجاجه</director>
@@ -4581,8 +4887,8 @@
     </rating>
   </programme>
   <programme start="20190125140000 +0100" stop="20190125150000 +0100" channel="Lana">
-    <title lang="en">فرصة العمر (?)</title>
-    <desc lang="en">(n)</desc>
+    <title lang="en">02:00  PM
+            [60 minutes] (?)</title>
     <credits>
       <director>Azzam Fauq El Ada</director>
       <actor>Abbas Al Nouri</actor>
@@ -4600,8 +4906,8 @@
     </rating>
   </programme>
   <programme start="20190125150000 +0100" stop="20190125160000 +0100" channel="Lana">
-    <title lang="en">مشاريع صغيرة (?)</title>
-    <desc lang="en">(n)</desc>
+    <title lang="en">03:00  PM
+            [60 minutes] (?)</title>
     <credits>
       <director>AL-Mothanna Sobah</director>
       <actor>Salloum Haddad</actor>
@@ -4622,8 +4928,8 @@
     </rating>
   </programme>
   <programme start="20190125160000 +0100" stop="20190125170000 +0100" channel="Lana">
-    <title lang="en">أهل الراية (?)</title>
-    <desc lang="en">(n)</desc>
+    <title lang="en">04:00  PM
+            [60 minutes] (?)</title>
     <credits>
       <director>Alaa El Din Koksh</director>
       <director>منار حفار</director>
@@ -4644,8 +4950,8 @@
     </rating>
   </programme>
   <programme start="20190125170000 +0100" stop="20190125180000 +0100" channel="Lana">
-    <title lang="en">أشواك ناعمة (?)</title>
-    <desc lang="en">(n)</desc>
+    <title lang="en">05:00  PM
+            [60 minutes] (?)</title>
     <credits>
       <director>Rasha Sharbatgy</director>
       <actor>Salma El Masry</actor>
@@ -4664,7 +4970,8 @@
   </programme>
   <programme start="20190125180000 +0100" stop="20190125190000 +0100" channel="Lana">
     <title lang="en">Ahmar</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Joud Said</director>
       <director>يارا جروج</director>
@@ -4688,8 +4995,8 @@
     </rating>
   </programme>
   <programme start="20190125190000 +0100" stop="20190125200000 +0100" channel="Lana">
-    <title lang="en">مرايا 97 (?)</title>
-    <desc lang="en">(n)</desc>
+    <title lang="en">07:00  PM
+            [60 minutes] (?)</title>
     <credits>
       <director>مأمون البني</director>
       <director>فتحي مراد</director>
@@ -4711,19 +5018,18 @@
     </rating>
   </programme>
   <programme start="20190125200000 +0100" stop="20190125210000 +0100" channel="Lana">
-    <title lang="en">فيه أمل (?)</title>
-    <desc lang="en">(n)</desc>
+    <title lang="en">08:00  PM
+            [60 minutes] (?)</title>
     <credits>
-      <director>جان الحداد</director>
-      <writer>Amal Arafa</writer>
-      <writer>أحمد رمضان</writer>
+      <actor>Rabia Zayyat</actor>
+      <actor>Nassif Zeytoun</actor>
     </credits>
     <date>2018</date>
-    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_0d855d7898cd3899f85b8eac50e44cef15fa3c3964af6f932b47bd6439003088.jpg" />
+    <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
   </programme>
   <programme start="20190125210000 +0100" stop="20190125220000 +0100" channel="Lana">
-    <title lang="en">أبناء القهر (?)</title>
-    <desc lang="en">(n)</desc>
+    <title lang="en">09:00  PM
+            [60 minutes] (?)</title>
     <credits>
       <director>Marwan Barakat</director>
       <director>غياث الجاجه</director>
@@ -4746,7 +5052,8 @@
   <programme start="20190125220000 +0100" stop="20190125230000 +0100" channel="Lana">
     <title lang="en">Hermanos</title>
     <sub-title lang="en">الأخوة</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Joaquín Llamas</director>
       <director>Salvador Calvo</director>
@@ -4761,8 +5068,8 @@
     <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_9559d4820547ed9ae812dc2d0a93a451357c0b297a91563c6b66c33af3c255f0.jpg" />
   </programme>
   <programme start="20190125230000 +0100" stop="20190126000000 +0100" channel="Lana">
-    <title lang="en">ما ملكت أيمانكم (?)</title>
-    <desc lang="en">(n)</desc>
+    <title lang="en">11:00  PM
+            [60 minutes] (?)</title>
     <credits>
       <director>Nagdat Ismail Anzour</director>
       <director>Ayham Arsan</director>
@@ -5236,15 +5543,13 @@
   <programme start="20190124220000 +0100" stop="20190124230000 +0100" channel="Sada El Balad Drama">
     <title lang="en">Taken lives</title>
     <sub-title lang="en">قلوب تائهة</sub-title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <date>2008</date>
     <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
   </programme>
   <programme start="20190124230000 +0100" stop="20190125000000 +0100" channel="Sada El Balad Drama">
     <title lang="en">Seqout Hor</title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <credits>
       <director>Chaouki Mejeri</director>
       <director>Mahmoud Selim</director>
@@ -5270,7 +5575,7 @@
   </programme>
   <programme start="20190125000000 +0100" stop="20190125010000 +0100" channel="Sada El Balad Drama">
     <title lang="en">A'd Tanazoly</title>
-    <desc lang="en">This police television drama revolves around Salim (Amaro Youssef) and his wife (Kinda Alloush) who live an average, stable life. However, their lives are disrupted when Salim ends up in a situation that forces him to commit numerous crimes. This is when Lieutenant Hamza (Tareq Lotfy) enters the scene to chase down Salim, setting the events in motion.(n)</desc>
+    <desc lang="en">This police television drama revolves around Salim (Amaro Youssef) and his wife (Kinda Alloush) who live an average, stable life. However, their lives are disrupted when Salim ends up in a situation that forces him to commit numerous crimes. This is when Lieutenant Hamza (Tareq Lotfy) enters the scene to chase down Salim, setting the events in motion.</desc>
     <credits>
       <director>Hussien El Menbawy</director>
       <actor>Tarek Lotfy</actor>
@@ -5292,7 +5597,7 @@
   </programme>
   <programme start="20190125010000 +0100" stop="20190125020000 +0100" channel="Sada El Balad Drama">
     <title lang="en">Elsabaa Wasaya</title>
-    <desc lang="en">The storyline of this series revolves around seven brothers who have been estranged for years, each having followed his own path. After the death of their father, the brothers are reunited and uncover a commandment left to them by their late father. Before long, all of their lives are turned upside down as they work to carry out the commandment in the face of numerous obstacles. The events that unfold reveal the true nature of the brothers and those around them.(n)</desc>
+    <desc lang="en">The storyline of this series revolves around seven brothers who have been estranged for years, each having followed his own path. After the death of their father, the brothers are reunited and uncover a commandment left to them by their late father. Before long, all of their lives are turned upside down as they work to carry out the commandment in the face of numerous obstacles. The events that unfold reveal the true nature of the brothers and those around them.</desc>
     <credits>
       <director>Essam Abdel Hamid</director>
       <director>Khaled Marei</director>
@@ -5314,7 +5619,7 @@
   </programme>
   <programme start="20190125020000 +0100" stop="20190125030000 +0100" channel="Sada El Balad Drama">
     <title lang="en">Al Sa'look</title>
-    <desc lang="en">The series follows a poor bagger living in a slum, who moves to work inside the mansion of a wealthy businessman. There, the businessman's daughter falls for the bagger, and events get complicated.(n)</desc>
+    <desc lang="en">The series follows a poor bagger living in a slum, who moves to work inside the mansion of a wealthy businessman. There, the businessman's daughter falls for the bagger, and events get complicated.</desc>
     <credits>
       <director>Hassan Alqenawy</director>
       <director>Ahmad Saleh</director>
@@ -5336,7 +5641,8 @@
   </programme>
   <programme start="20190125030000 +0100" stop="20190125040000 +0100" channel="Sada El Balad Drama">
     <title lang="en">Al Mizan</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Ahmed Khaled Mousa</director>
       <director>طارق زهران</director>
@@ -5357,16 +5663,38 @@
       <value>7.6</value>
     </rating>
   </programme>
+  <programme start="20190125040000 +0100" stop="20190125060000 +0100" channel="Sada El Balad Drama">
+    <title lang="en">Ittiham</title>
+    <desc lang="en">Reem (Mariam Fares) suffers from extreme poverty. A hustler chases her down in order to recruit her to work for him. The man succeeds in capturing her and escapes with Reem to Cairo, where becomes part the pimp’s network and undertake numerous relationships with businessmen across the city.(g)</desc>
+    <credits>
+      <director>Philip Asmar</director>
+      <actor>Myriam Fares</actor>
+      <actor>Hasan Al-Raddad</actor>
+      <actor>Ahmed Khalil</actor>
+      <actor>Ezzat Abu Ouf</actor>
+      <actor>Rania Mahmoud Yassin</actor>
+      <actor>أمير عبدالمنعم</actor>
+      <writer>Claudia Marshalian</writer>
+    </credits>
+    <date>2014</date>
+    <category lang="en">Genre</category>
+    <category lang="en">Drama</category>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_94f8d2f94198a2cd397d09609ebd8ce6ed6bb87f3bf02ecc78422dd578159b8e.jpg" />
+    <rating system="EG">
+      <value>7.5</value>
+    </rating>
+  </programme>
   <programme start="20190125060000 +0100" stop="20190125070000 +0100" channel="Sada El Balad Drama">
     <title lang="en">Taken lives</title>
     <sub-title lang="en">قلوب تائهة</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <date>2008</date>
     <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
   </programme>
   <programme start="20190125070000 +0100" stop="20190125080000 +0100" channel="Sada El Balad Drama">
     <title lang="en">A'd Tanazoly</title>
-    <desc lang="en">This police television drama revolves around Salim (Amaro Youssef) and his wife (Kinda Alloush) who live an average, stable life. However, their lives are disrupted when Salim ends up in a situation that forces him to commit numerous crimes. This is when Lieutenant Hamza (Tareq Lotfy) enters the scene to chase down Salim, setting the events in motion.(n)</desc>
+    <desc lang="en">This police television drama revolves around Salim (Amaro Youssef) and his wife (Kinda Alloush) who live an average, stable life. However, their lives are disrupted when Salim ends up in a situation that forces him to commit numerous crimes. This is when Lieutenant Hamza (Tareq Lotfy) enters the scene to chase down Salim, setting the events in motion.</desc>
     <credits>
       <director>Hussien El Menbawy</director>
       <actor>Tarek Lotfy</actor>
@@ -5388,7 +5716,7 @@
   </programme>
   <programme start="20190125080000 +0100" stop="20190125090000 +0100" channel="Sada El Balad Drama">
     <title lang="en">Elsabaa Wasaya</title>
-    <desc lang="en">The storyline of this series revolves around seven brothers who have been estranged for years, each having followed his own path. After the death of their father, the brothers are reunited and uncover a commandment left to them by their late father. Before long, all of their lives are turned upside down as they work to carry out the commandment in the face of numerous obstacles. The events that unfold reveal the true nature of the brothers and those around them.(n)</desc>
+    <desc lang="en">The storyline of this series revolves around seven brothers who have been estranged for years, each having followed his own path. After the death of their father, the brothers are reunited and uncover a commandment left to them by their late father. Before long, all of their lives are turned upside down as they work to carry out the commandment in the face of numerous obstacles. The events that unfold reveal the true nature of the brothers and those around them.</desc>
     <credits>
       <director>Essam Abdel Hamid</director>
       <director>Khaled Marei</director>
@@ -5410,7 +5738,7 @@
   </programme>
   <programme start="20190125090000 +0100" stop="20190125100000 +0100" channel="Sada El Balad Drama">
     <title lang="en">Al Sa'look</title>
-    <desc lang="en">The series follows a poor bagger living in a slum, who moves to work inside the mansion of a wealthy businessman. There, the businessman's daughter falls for the bagger, and events get complicated.(n)</desc>
+    <desc lang="en">The series follows a poor bagger living in a slum, who moves to work inside the mansion of a wealthy businessman. There, the businessman's daughter falls for the bagger, and events get complicated.</desc>
     <credits>
       <director>Hassan Alqenawy</director>
       <director>Ahmad Saleh</director>
@@ -5432,7 +5760,7 @@
   </programme>
   <programme start="20190125100000 +0100" stop="20190125110000 +0100" channel="Sada El Balad Drama">
     <title lang="en">Ittiham</title>
-    <desc lang="en">Reem (Mariam Fares) suffers from extreme poverty. A hustler chases her down in order to recruit her to work for him. The man succeeds in capturing her and escapes with Reem to Cairo, where becomes part the pimp’s network and undertake numerous relationships with businessmen across the city.(n)</desc>
+    <desc lang="en">Reem (Mariam Fares) suffers from extreme poverty. A hustler chases her down in order to recruit her to work for him. The man succeeds in capturing her and escapes with Reem to Cairo, where becomes part the pimp’s network and undertake numerous relationships with businessmen across the city.</desc>
     <credits>
       <director>Philip Asmar</director>
       <actor>Myriam Fares</actor>
@@ -5453,7 +5781,8 @@
   </programme>
   <programme start="20190125110000 +0100" stop="20190125120000 +0100" channel="Sada El Balad Drama">
     <title lang="en">Seqout Hor</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Chaouki Mejeri</director>
       <director>Mahmoud Selim</director>
@@ -5480,13 +5809,14 @@
   <programme start="20190125120000 +0100" stop="20190125130000 +0100" channel="Sada El Balad Drama">
     <title lang="en">Taken lives</title>
     <sub-title lang="en">قلوب تائهة</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <date>2008</date>
     <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
   </programme>
   <programme start="20190125130000 +0100" stop="20190125140000 +0100" channel="Sada El Balad Drama">
     <title lang="en">A'd Tanazoly</title>
-    <desc lang="en">This police television drama revolves around Salim (Amaro Youssef) and his wife (Kinda Alloush) who live an average, stable life. However, their lives are disrupted when Salim ends up in a situation that forces him to commit numerous crimes. This is when Lieutenant Hamza (Tareq Lotfy) enters the scene to chase down Salim, setting the events in motion.(n)</desc>
+    <desc lang="en">This police television drama revolves around Salim (Amaro Youssef) and his wife (Kinda Alloush) who live an average, stable life. However, their lives are disrupted when Salim ends up in a situation that forces him to commit numerous crimes. This is when Lieutenant Hamza (Tareq Lotfy) enters the scene to chase down Salim, setting the events in motion.</desc>
     <credits>
       <director>Hussien El Menbawy</director>
       <actor>Tarek Lotfy</actor>
@@ -5508,7 +5838,8 @@
   </programme>
   <programme start="20190125140000 +0100" stop="20190125150000 +0100" channel="Sada El Balad Drama">
     <title lang="en">Seqout Hor</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Chaouki Mejeri</director>
       <director>Mahmoud Selim</director>
@@ -5534,7 +5865,8 @@
   </programme>
   <programme start="20190125150000 +0100" stop="20190125160000 +0100" channel="Sada El Balad Drama">
     <title lang="en">Al Mizan</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Ahmed Khaled Mousa</director>
       <director>طارق زهران</director>
@@ -5557,7 +5889,7 @@
   </programme>
   <programme start="20190125160000 +0100" stop="20190125170000 +0100" channel="Sada El Balad Drama">
     <title lang="en">Ittiham</title>
-    <desc lang="en">Reem (Mariam Fares) suffers from extreme poverty. A hustler chases her down in order to recruit her to work for him. The man succeeds in capturing her and escapes with Reem to Cairo, where becomes part the pimp’s network and undertake numerous relationships with businessmen across the city.(n)</desc>
+    <desc lang="en">Reem (Mariam Fares) suffers from extreme poverty. A hustler chases her down in order to recruit her to work for him. The man succeeds in capturing her and escapes with Reem to Cairo, where becomes part the pimp’s network and undertake numerous relationships with businessmen across the city.</desc>
     <credits>
       <director>Philip Asmar</director>
       <actor>Myriam Fares</actor>
@@ -5578,7 +5910,7 @@
   </programme>
   <programme start="20190125170000 +0100" stop="20190125180000 +0100" channel="Sada El Balad Drama">
     <title lang="en">A'd Tanazoly</title>
-    <desc lang="en">This police television drama revolves around Salim (Amaro Youssef) and his wife (Kinda Alloush) who live an average, stable life. However, their lives are disrupted when Salim ends up in a situation that forces him to commit numerous crimes. This is when Lieutenant Hamza (Tareq Lotfy) enters the scene to chase down Salim, setting the events in motion.(n)</desc>
+    <desc lang="en">This police television drama revolves around Salim (Amaro Youssef) and his wife (Kinda Alloush) who live an average, stable life. However, their lives are disrupted when Salim ends up in a situation that forces him to commit numerous crimes. This is when Lieutenant Hamza (Tareq Lotfy) enters the scene to chase down Salim, setting the events in motion.</desc>
     <credits>
       <director>Hussien El Menbawy</director>
       <actor>Tarek Lotfy</actor>
@@ -5600,7 +5932,7 @@
   </programme>
   <programme start="20190125180000 +0100" stop="20190125190000 +0100" channel="Sada El Balad Drama">
     <title lang="en">Elsabaa Wasaya</title>
-    <desc lang="en">The storyline of this series revolves around seven brothers who have been estranged for years, each having followed his own path. After the death of their father, the brothers are reunited and uncover a commandment left to them by their late father. Before long, all of their lives are turned upside down as they work to carry out the commandment in the face of numerous obstacles. The events that unfold reveal the true nature of the brothers and those around them.(n)</desc>
+    <desc lang="en">The storyline of this series revolves around seven brothers who have been estranged for years, each having followed his own path. After the death of their father, the brothers are reunited and uncover a commandment left to them by their late father. Before long, all of their lives are turned upside down as they work to carry out the commandment in the face of numerous obstacles. The events that unfold reveal the true nature of the brothers and those around them.</desc>
     <credits>
       <director>Essam Abdel Hamid</director>
       <director>Khaled Marei</director>
@@ -5622,7 +5954,7 @@
   </programme>
   <programme start="20190125190000 +0100" stop="20190125200000 +0100" channel="Sada El Balad Drama">
     <title lang="en">Al Sa'look</title>
-    <desc lang="en">The series follows a poor bagger living in a slum, who moves to work inside the mansion of a wealthy businessman. There, the businessman's daughter falls for the bagger, and events get complicated.(n)</desc>
+    <desc lang="en">The series follows a poor bagger living in a slum, who moves to work inside the mansion of a wealthy businessman. There, the businessman's daughter falls for the bagger, and events get complicated.</desc>
     <credits>
       <director>Hassan Alqenawy</director>
       <director>Ahmad Saleh</director>
@@ -5644,7 +5976,8 @@
   </programme>
   <programme start="20190125200000 +0100" stop="20190125210000 +0100" channel="Sada El Balad Drama">
     <title lang="en">Al Mizan</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Ahmed Khaled Mousa</director>
       <director>طارق زهران</director>
@@ -5667,7 +6000,7 @@
   </programme>
   <programme start="20190125210000 +0100" stop="20190125220000 +0100" channel="Sada El Balad Drama">
     <title lang="en">Ittiham</title>
-    <desc lang="en">Reem (Mariam Fares) suffers from extreme poverty. A hustler chases her down in order to recruit her to work for him. The man succeeds in capturing her and escapes with Reem to Cairo, where becomes part the pimp’s network and undertake numerous relationships with businessmen across the city.(n)</desc>
+    <desc lang="en">Reem (Mariam Fares) suffers from extreme poverty. A hustler chases her down in order to recruit her to work for him. The man succeeds in capturing her and escapes with Reem to Cairo, where becomes part the pimp’s network and undertake numerous relationships with businessmen across the city.</desc>
     <credits>
       <director>Philip Asmar</director>
       <actor>Myriam Fares</actor>
@@ -5689,13 +6022,15 @@
   <programme start="20190125220000 +0100" stop="20190125230000 +0100" channel="Sada El Balad Drama">
     <title lang="en">Taken lives</title>
     <sub-title lang="en">قلوب تائهة</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <date>2008</date>
     <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
   </programme>
   <programme start="20190125230000 +0100" stop="20190126000000 +0100" channel="Sada El Balad Drama">
     <title lang="en">Seqout Hor</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Chaouki Mejeri</director>
       <director>Mahmoud Selim</director>
@@ -5721,8 +6056,7 @@
   </programme>
   <programme start="20190124000000 +0100" stop="20190124010000 +0100" channel="ON Drama">
     <title lang="en">العصيان (ج1) (?)</title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <credits>
       <director>Ahmed AL-Sabaawi</director>
       <actor>Mahmoud Yassine</actor>
@@ -5859,9 +6193,8 @@
     </rating>
   </programme>
   <programme start="20190124060000 +0100" stop="20190124070000 +0100" channel="ON Drama">
-    <title lang="en">العصيان (ج1) (?)</title>
-    <desc lang="en">
-    </desc>
+    <title lang="en">06:00  AM
+            [60 minutes] (?)</title>
     <credits>
       <director>Ahmed AL-Sabaawi</director>
       <actor>Mahmoud Yassine</actor>
@@ -5998,9 +6331,8 @@
     </rating>
   </programme>
   <programme start="20190124120000 +0100" stop="20190124130000 +0100" channel="ON Drama">
-    <title lang="en">العصيان (ج1) (?)</title>
-    <desc lang="en">
-    </desc>
+    <title lang="en">12:00  PM
+            [60 minutes] (?)</title>
     <credits>
       <director>Ahmed AL-Sabaawi</director>
       <actor>Mahmoud Yassine</actor>
@@ -6137,9 +6469,8 @@
     </rating>
   </programme>
   <programme start="20190124180000 +0100" stop="20190124190000 +0100" channel="ON Drama">
-    <title lang="en">العصيان (ج1) (?)</title>
-    <desc lang="en">
-    </desc>
+    <title lang="en">06:00  PM
+            [60 minutes] (?)</title>
     <credits>
       <director>Ahmed AL-Sabaawi</director>
       <actor>Mahmoud Yassine</actor>
@@ -6276,8 +6607,8 @@
     </rating>
   </programme>
   <programme start="20190125000000 +0100" stop="20190125010000 +0100" channel="ON Drama">
-    <title lang="en">العصيان (ج1) (?)</title>
-    <desc lang="en">(n)</desc>
+    <title lang="en">12:00  AM
+            [60 minutes] (?)</title>
     <credits>
       <director>Ahmed AL-Sabaawi</director>
       <actor>Mahmoud Yassine</actor>
@@ -6298,7 +6629,7 @@
   </programme>
   <programme start="20190125010000 +0100" stop="20190125020000 +0100" channel="ON Drama">
     <title lang="en">Gabal Al Halal</title>
-    <desc lang="en">This series revolves around a man who is known for his promiscuous behavior with women and his many marriages. He is involved in a various illegal activities involving weapons and antiquities, until he is shocked by a traumatic change in his life. This show captures the dramatic shifts that have occurred in Egypt over the last three years.(n)</desc>
+    <desc lang="en">This series revolves around a man who is known for his promiscuous behavior with women and his many marriages. He is involved in a various illegal activities involving weapons and antiquities, until he is shocked by a traumatic change in his life. This show captures the dramatic shifts that have occurred in Egypt over the last three years.</desc>
     <credits>
       <director>Adel Adeeb</director>
       <director>Hassan Alqenawy</director>
@@ -6321,7 +6652,8 @@
   <programme start="20190125020000 +0100" stop="20190125030000 +0100" channel="ON Drama">
     <title lang="en">The Trader of Happiness</title>
     <sub-title lang="en">تاجر السعادة</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Shereen Adel</director>
       <director>Ashraf Nar</director>
@@ -6346,7 +6678,8 @@
   <programme start="20190125030000 +0100" stop="20190125040000 +0100" channel="ON Drama">
     <title lang="en">Unstable Mind</title>
     <sub-title lang="en">هربانة منها</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Moataz El Tony</director>
       <director>Mohamed abd elrahman</director>
@@ -6369,7 +6702,8 @@
   </programme>
   <programme start="20190125040000 +0100" stop="20190125050000 +0100" channel="ON Drama">
     <title lang="en">Al Tabbal</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Ahmed Khaled Amin</director>
       <director>ناصر زيدان</director>
@@ -6392,7 +6726,8 @@
   </programme>
   <programme start="20190125050000 +0100" stop="20190125060000 +0100" channel="ON Drama">
     <title lang="en">Bwabit alhalwani</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Ibrahim El Shan</director>
       <director>Mohammad Helmy</director>
@@ -6414,8 +6749,8 @@
     </rating>
   </programme>
   <programme start="20190125060000 +0100" stop="20190125070000 +0100" channel="ON Drama">
-    <title lang="en">العصيان (ج1) (?)</title>
-    <desc lang="en">(n)</desc>
+    <title lang="en">06:00  AM
+            [60 minutes] (?)</title>
     <credits>
       <director>Ahmed AL-Sabaawi</director>
       <actor>Mahmoud Yassine</actor>
@@ -6436,7 +6771,7 @@
   </programme>
   <programme start="20190125070000 +0100" stop="20190125080000 +0100" channel="ON Drama">
     <title lang="en">Gabal Al Halal</title>
-    <desc lang="en">This series revolves around a man who is known for his promiscuous behavior with women and his many marriages. He is involved in a various illegal activities involving weapons and antiquities, until he is shocked by a traumatic change in his life. This show captures the dramatic shifts that have occurred in Egypt over the last three years.(n)</desc>
+    <desc lang="en">This series revolves around a man who is known for his promiscuous behavior with women and his many marriages. He is involved in a various illegal activities involving weapons and antiquities, until he is shocked by a traumatic change in his life. This show captures the dramatic shifts that have occurred in Egypt over the last three years.</desc>
     <credits>
       <director>Adel Adeeb</director>
       <director>Hassan Alqenawy</director>
@@ -6459,7 +6794,8 @@
   <programme start="20190125080000 +0100" stop="20190125090000 +0100" channel="ON Drama">
     <title lang="en">The Trader of Happiness</title>
     <sub-title lang="en">تاجر السعادة</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Shereen Adel</director>
       <director>Ashraf Nar</director>
@@ -6484,7 +6820,8 @@
   <programme start="20190125090000 +0100" stop="20190125100000 +0100" channel="ON Drama">
     <title lang="en">Unstable Mind</title>
     <sub-title lang="en">هربانة منها</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Moataz El Tony</director>
       <director>Mohamed abd elrahman</director>
@@ -6507,7 +6844,8 @@
   </programme>
   <programme start="20190125100000 +0100" stop="20190125110000 +0100" channel="ON Drama">
     <title lang="en">Al Tabbal</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Ahmed Khaled Amin</director>
       <director>ناصر زيدان</director>
@@ -6530,7 +6868,8 @@
   </programme>
   <programme start="20190125110000 +0100" stop="20190125120000 +0100" channel="ON Drama">
     <title lang="en">Bwabit alhalwani</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Ibrahim El Shan</director>
       <director>Mohammad Helmy</director>
@@ -6552,8 +6891,8 @@
     </rating>
   </programme>
   <programme start="20190125120000 +0100" stop="20190125130000 +0100" channel="ON Drama">
-    <title lang="en">العصيان (ج1) (?)</title>
-    <desc lang="en">(n)</desc>
+    <title lang="en">12:00  PM
+            [60 minutes] (?)</title>
     <credits>
       <director>Ahmed AL-Sabaawi</director>
       <actor>Mahmoud Yassine</actor>
@@ -6574,7 +6913,7 @@
   </programme>
   <programme start="20190125130000 +0100" stop="20190125140000 +0100" channel="ON Drama">
     <title lang="en">Gabal Al Halal</title>
-    <desc lang="en">This series revolves around a man who is known for his promiscuous behavior with women and his many marriages. He is involved in a various illegal activities involving weapons and antiquities, until he is shocked by a traumatic change in his life. This show captures the dramatic shifts that have occurred in Egypt over the last three years.(n)</desc>
+    <desc lang="en">This series revolves around a man who is known for his promiscuous behavior with women and his many marriages. He is involved in a various illegal activities involving weapons and antiquities, until he is shocked by a traumatic change in his life. This show captures the dramatic shifts that have occurred in Egypt over the last three years.</desc>
     <credits>
       <director>Adel Adeeb</director>
       <director>Hassan Alqenawy</director>
@@ -6597,7 +6936,8 @@
   <programme start="20190125140000 +0100" stop="20190125150000 +0100" channel="ON Drama">
     <title lang="en">The Trader of Happiness</title>
     <sub-title lang="en">تاجر السعادة</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Shereen Adel</director>
       <director>Ashraf Nar</director>
@@ -6622,7 +6962,8 @@
   <programme start="20190125150000 +0100" stop="20190125160000 +0100" channel="ON Drama">
     <title lang="en">Unstable Mind</title>
     <sub-title lang="en">هربانة منها</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Moataz El Tony</director>
       <director>Mohamed abd elrahman</director>
@@ -6645,7 +6986,8 @@
   </programme>
   <programme start="20190125160000 +0100" stop="20190125170000 +0100" channel="ON Drama">
     <title lang="en">Al Tabbal</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Ahmed Khaled Amin</director>
       <director>ناصر زيدان</director>
@@ -6668,7 +7010,8 @@
   </programme>
   <programme start="20190125170000 +0100" stop="20190125180000 +0100" channel="ON Drama">
     <title lang="en">Bwabit alhalwani</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Ibrahim El Shan</director>
       <director>Mohammad Helmy</director>
@@ -6690,8 +7033,8 @@
     </rating>
   </programme>
   <programme start="20190125180000 +0100" stop="20190125190000 +0100" channel="ON Drama">
-    <title lang="en">العصيان (ج1) (?)</title>
-    <desc lang="en">(n)</desc>
+    <title lang="en">06:00  PM
+            [60 minutes] (?)</title>
     <credits>
       <director>Ahmed AL-Sabaawi</director>
       <actor>Mahmoud Yassine</actor>
@@ -6712,7 +7055,7 @@
   </programme>
   <programme start="20190125190000 +0100" stop="20190125200000 +0100" channel="ON Drama">
     <title lang="en">Gabal Al Halal</title>
-    <desc lang="en">This series revolves around a man who is known for his promiscuous behavior with women and his many marriages. He is involved in a various illegal activities involving weapons and antiquities, until he is shocked by a traumatic change in his life. This show captures the dramatic shifts that have occurred in Egypt over the last three years.(n)</desc>
+    <desc lang="en">This series revolves around a man who is known for his promiscuous behavior with women and his many marriages. He is involved in a various illegal activities involving weapons and antiquities, until he is shocked by a traumatic change in his life. This show captures the dramatic shifts that have occurred in Egypt over the last three years.</desc>
     <credits>
       <director>Adel Adeeb</director>
       <director>Hassan Alqenawy</director>
@@ -6735,7 +7078,8 @@
   <programme start="20190125200000 +0100" stop="20190125210000 +0100" channel="ON Drama">
     <title lang="en">The Trader of Happiness</title>
     <sub-title lang="en">تاجر السعادة</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Shereen Adel</director>
       <director>Ashraf Nar</director>
@@ -6760,7 +7104,8 @@
   <programme start="20190125210000 +0100" stop="20190125220000 +0100" channel="ON Drama">
     <title lang="en">Unstable Mind</title>
     <sub-title lang="en">هربانة منها</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Moataz El Tony</director>
       <director>Mohamed abd elrahman</director>
@@ -6783,7 +7128,8 @@
   </programme>
   <programme start="20190125220000 +0100" stop="20190125230000 +0100" channel="ON Drama">
     <title lang="en">Al Tabbal</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Ahmed Khaled Amin</director>
       <director>ناصر زيدان</director>
@@ -6806,7 +7152,8 @@
   </programme>
   <programme start="20190125230000 +0100" stop="20190126000000 +0100" channel="ON Drama">
     <title lang="en">Bwabit alhalwani</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Ibrahim El Shan</director>
       <director>Mohammad Helmy</director>
@@ -6974,16 +7321,14 @@
   <programme start="20190124100000 +0100" stop="20190124113000 +0100" channel="iFILM TV">
     <title lang="en">Zero orbit</title>
     <sub-title lang="en">المدار الصفر</sub-title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <date>2009</date>
     <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
   </programme>
   <programme start="20190124113000 +0100" stop="20190124120000 +0100" channel="iFILM TV">
     <title lang="en">Evening with an artist</title>
     <sub-title lang="en">سهرة مع فنان</sub-title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <credits>
       <director>Mehran Madiry</director>
     </credits>
@@ -7051,8 +7396,7 @@
   <programme start="20190124150000 +0100" stop="20190124160000 +0100" channel="iFILM TV">
     <title lang="en">Memories of an incomplete man</title>
     <sub-title lang="en">ذكريات رجل غير مكتمل</sub-title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <date>2012</date>
     <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
   </programme>
@@ -7114,23 +7458,22 @@
   <programme start="20190124210000 +0100" stop="20190124213000 +0100" channel="iFILM TV">
     <title lang="en">Memories of an incomplete man</title>
     <sub-title lang="en">ذكريات رجل غير مكتمل</sub-title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <date>2012</date>
     <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
   </programme>
   <programme start="20190124213000 +0100" stop="20190124220000 +0100" channel="iFILM TV">
     <title lang="en">Cinematic Tricks</title>
     <sub-title lang="en">الخدع السينمائية</sub-title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <date>2018</date>
     <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
   </programme>
   <programme start="20190124233000 +0100" stop="20190125000000 +0100" channel="iFILM TV">
     <title lang="en">Evening with an artist</title>
     <sub-title lang="en">سهرة مع فنان</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Mehran Madiry</director>
     </credits>
@@ -7143,7 +7486,8 @@
   <programme start="20190125000000 +0100" stop="20190125010000 +0100" channel="iFILM TV">
     <title lang="en">Al zaafrany</title>
     <sub-title lang="en">الزعفراني</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Hamed Mohammadi</director>
       <actor>Mehran Ahmadi</actor>
@@ -7159,7 +7503,8 @@
   <programme start="20190125010000 +0100" stop="20190125020000 +0100" channel="iFILM TV">
     <title lang="en">Constitutional years</title>
     <sub-title lang="en">السنوات الدستورية</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Mohammad Reza Varzi</director>
       <actor>Irag Rad</actor>
@@ -7175,7 +7520,8 @@
   <programme start="20190125020000 +0100" stop="20190125030000 +0100" channel="iFILM TV">
     <title lang="en">Side by side</title>
     <sub-title lang="en">جنبا الى جنب</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Saman Moghadam</director>
       <actor>Hassan Zarei</actor>
@@ -7198,21 +7544,24 @@
   <programme start="20190125030000 +0100" stop="20190125040000 +0100" channel="iFILM TV">
     <title lang="en">Memories of an incomplete man</title>
     <sub-title lang="en">ذكريات رجل غير مكتمل</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <date>2012</date>
     <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
   </programme>
   <programme start="20190125040000 +0100" stop="20190125053000 +0100" channel="iFILM TV">
     <title lang="en">Zero orbit</title>
     <sub-title lang="en">المدار الصفر</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <date>2009</date>
     <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
   </programme>
   <programme start="20190125053000 +0100" stop="20190125060000 +0100" channel="iFILM TV">
     <title lang="en">Evening with an artist</title>
     <sub-title lang="en">سهرة مع فنان</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Mehran Madiry</director>
     </credits>
@@ -7225,7 +7574,8 @@
   <programme start="20190125060000 +0100" stop="20190125070000 +0100" channel="iFILM TV">
     <title lang="en">Al zaafrany</title>
     <sub-title lang="en">الزعفراني</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Hamed Mohammadi</director>
       <actor>Mehran Ahmadi</actor>
@@ -7241,7 +7591,8 @@
   <programme start="20190125070000 +0100" stop="20190125080000 +0100" channel="iFILM TV">
     <title lang="en">Constitutional years</title>
     <sub-title lang="en">السنوات الدستورية</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Mohammad Reza Varzi</director>
       <actor>Irag Rad</actor>
@@ -7257,7 +7608,8 @@
   <programme start="20190125080000 +0100" stop="20190125090000 +0100" channel="iFILM TV">
     <title lang="en">Side by side</title>
     <sub-title lang="en">جنبا الى جنب</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Saman Moghadam</director>
       <actor>Hassan Zarei</actor>
@@ -7280,21 +7632,24 @@
   <programme start="20190125090000 +0100" stop="20190125100000 +0100" channel="iFILM TV">
     <title lang="en">Memories of an incomplete man</title>
     <sub-title lang="en">ذكريات رجل غير مكتمل</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <date>2012</date>
     <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
   </programme>
   <programme start="20190125100000 +0100" stop="20190125113000 +0100" channel="iFILM TV">
     <title lang="en">Zero orbit</title>
     <sub-title lang="en">المدار الصفر</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <date>2009</date>
     <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
   </programme>
   <programme start="20190125113000 +0100" stop="20190125120000 +0100" channel="iFILM TV">
     <title lang="en">Evening with an artist</title>
     <sub-title lang="en">سهرة مع فنان</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Mehran Madiry</director>
     </credits>
@@ -7307,7 +7662,8 @@
   <programme start="20190125120000 +0100" stop="20190125130000 +0100" channel="iFILM TV">
     <title lang="en">Al zaafrany</title>
     <sub-title lang="en">الزعفراني</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Hamed Mohammadi</director>
       <actor>Mehran Ahmadi</actor>
@@ -7323,7 +7679,8 @@
   <programme start="20190125130000 +0100" stop="20190125140000 +0100" channel="iFILM TV">
     <title lang="en">Constitutional years</title>
     <sub-title lang="en">السنوات الدستورية</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Mohammad Reza Varzi</director>
       <actor>Irag Rad</actor>
@@ -7339,7 +7696,8 @@
   <programme start="20190125140000 +0100" stop="20190125150000 +0100" channel="iFILM TV">
     <title lang="en">Side by side</title>
     <sub-title lang="en">جنبا الى جنب</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Saman Moghadam</director>
       <actor>Hassan Zarei</actor>
@@ -7362,77 +7720,27 @@
   <programme start="20190125150000 +0100" stop="20190125160000 +0100" channel="iFILM TV">
     <title lang="en">Memories of an incomplete man</title>
     <sub-title lang="en">ذكريات رجل غير مكتمل</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <date>2012</date>
     <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
   </programme>
-  <programme start="20190125180000 +0100" stop="20190125190000 +0100" channel="iFILM TV">
-    <title lang="en">Al zaafrany</title>
-    <sub-title lang="en">الزعفراني</sub-title>
-    <desc lang="en">(n)</desc>
-    <credits>
-      <director>Hamed Mohammadi</director>
-      <actor>Mehran Ahmadi</actor>
-      <actor>نرجس محمدي</actor>
-      <actor>Mahdi Hashm</actor>
-      <actor>Setareh Eskandari</actor>
-      <actor>Hesam Mahmoudi</actor>
-      <actor>Hadis Miramini</actor>
-    </credits>
-    <date>2016</date>
+  <programme start="20190125180000 +0100" stop="20190125193000 +0100" channel="iFILM TV">
+    <title lang="en">A piece of sugar</title>
+    <sub-title lang="en">قطعة سكّر</sub-title>
+    <date>2011</date>
     <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
   </programme>
-  <programme start="20190125190000 +0100" stop="20190125200000 +0100" channel="iFILM TV">
-    <title lang="en">Constitutional years</title>
-    <sub-title lang="en">السنوات الدستورية</sub-title>
-    <desc lang="en">(n)</desc>
-    <credits>
-      <director>Mohammad Reza Varzi</director>
-      <actor>Irag Rad</actor>
-      <actor>Hesam Navab Safavi</actor>
-      <actor>Mohammad-Reza Sharifinia</actor>
-      <actor>Jamshid Mashayekhi</actor>
-      <actor>Reza Rooygari</actor>
-      <actor>Mohammad Sadeghi</actor>
-    </credits>
-    <date>2009</date>
-    <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
-  </programme>
-  <programme start="20190125200000 +0100" stop="20190125210000 +0100" channel="iFILM TV">
-    <title lang="en">Side by side</title>
-    <sub-title lang="en">جنبا الى جنب</sub-title>
-    <desc lang="en">(n)</desc>
-    <credits>
-      <director>Saman Moghadam</director>
-      <actor>Hassan Zarei</actor>
-      <actor>Azadeh Samadi</actor>
-      <actor>رؤيا تيموريان</actor>
-      <actor>Farhad Aeesh</actor>
-      <actor>Vishka Asayesh</actor>
-      <actor>جوهر خيرانديش</actor>
-    </credits>
-    <date>2017</date>
-    <category lang="en">Genre</category>
-    <category lang="en">Family</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Drama</category>
-    <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
-    <rating system="EG">
-      <value>5.8</value>
-    </rating>
-  </programme>
-  <programme start="20190125210000 +0100" stop="20190125213000 +0100" channel="iFILM TV">
-    <title lang="en">Memories of an incomplete man</title>
-    <sub-title lang="en">ذكريات رجل غير مكتمل</sub-title>
-    <desc lang="en">(n)</desc>
-    <date>2012</date>
-    <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
-  </programme>
-  <programme start="20190125213000 +0100" stop="20190125220000 +0100" channel="iFILM TV">
-    <title lang="en">Cinematic Tricks</title>
-    <sub-title lang="en">الخدع السينمائية</sub-title>
-    <desc lang="en">(n)</desc>
+  <programme start="20190125193000 +0100" stop="20190125200000 +0100" channel="iFILM TV">
+    <title lang="en">Cafe Film</title>
+    <sub-title lang="en">كافيه فيلم</sub-title>
     <date>2018</date>
+    <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
+  </programme>
+  <programme start="20190125200000 +0100" stop="20190125220000 +0100" channel="iFILM TV">
+    <title lang="en">Very far very close</title>
+    <sub-title lang="en">بعيد جدا قريب جدا</sub-title>
+    <date>2004</date>
     <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
   </programme>
   <programme start="20190124000000 +0100" stop="20190124010000 +0100" channel="DMC DRAMA">
@@ -7556,8 +7864,7 @@
   </programme>
   <programme start="20190124050000 +0100" stop="20190124060000 +0100" channel="DMC DRAMA">
     <title lang="en">Al-Mal Walbanon 1</title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <credits>
       <director>Magdy Abou Emira</director>
       <director>ثابت محمد ثابت</director>
@@ -7767,8 +8074,7 @@
   </programme>
   <programme start="20190124140000 +0100" stop="20190124150000 +0100" channel="DMC DRAMA">
     <title lang="en">2ayn qalby</title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <credits>
       <director>Magdy Abou Emira</director>
       <director>أمير شاكر</director>
@@ -7888,8 +8194,7 @@
   </programme>
   <programme start="20190124190000 +0100" stop="20190124200000 +0100" channel="DMC DRAMA">
     <title lang="en">2ayn qalby</title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <credits>
       <director>Magdy Abou Emira</director>
       <director>أمير شاكر</director>
@@ -7911,9 +8216,8 @@
     </rating>
   </programme>
   <programme start="20190124200000 +0100" stop="20190124210000 +0100" channel="DMC DRAMA">
-    <title lang="en">سكة الهلالي (?)</title>
-    <desc lang="en">
-    </desc>
+    <title lang="en">08:00  PM
+            [60 minutes] (?)</title>
     <credits>
       <director>Mohamed Fadel</director>
       <director>Ahmed Shafik</director>
@@ -8001,7 +8305,8 @@
   </programme>
   <programme start="20190125000000 +0100" stop="20190125010000 +0100" channel="DMC DRAMA">
     <title lang="en">Al Do' El Shared</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Magdy Abou Emira</director>
       <director>Shereen Adel</director>
@@ -8022,9 +8327,31 @@
       <value>8.7</value>
     </rating>
   </programme>
+  <programme start="20190125010000 +0100" stop="20190125030000 +0100" channel="DMC DRAMA">
+    <title lang="en">Al-Mal Walbanon 1</title>
+    <credits>
+      <director>Magdy Abou Emira</director>
+      <director>ثابت محمد ثابت</director>
+      <actor>Abdallah Gheith</actor>
+      <actor>Youssef Shabaan</actor>
+      <actor>Ahmed Abdelaziz</actor>
+      <actor>Sherif Mounir</actor>
+      <actor>Fayza Kamal</actor>
+      <actor>Aaidah Riyadh</actor>
+      <writer>Mohammed Galal Abdel Kawy</writer>
+    </credits>
+    <date>1992</date>
+    <category lang="en">Genre</category>
+    <category lang="en">Drama</category>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_ab0b351cdf1bc9bec02cc7075bacb379cf8373271b703fd96d82fe64e916223d.jpg" />
+    <rating system="EG">
+      <value>9.1</value>
+    </rating>
+  </programme>
   <programme start="20190125030000 +0100" stop="20190125040000 +0100" channel="DMC DRAMA">
     <title lang="en">2ayn qalby</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Magdy Abou Emira</director>
       <director>أمير شاكر</director>
@@ -8047,7 +8374,8 @@
   </programme>
   <programme start="20190125040000 +0100" stop="20190125050000 +0100" channel="DMC DRAMA">
     <title lang="en">Al Do' El Shared</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Magdy Abou Emira</director>
       <director>Shereen Adel</director>
@@ -8070,7 +8398,8 @@
   </programme>
   <programme start="20190125050000 +0100" stop="20190125060000 +0100" channel="DMC DRAMA">
     <title lang="en">Al-Mal Walbanon 1</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Magdy Abou Emira</director>
       <director>ثابت محمد ثابت</director>
@@ -8093,7 +8422,7 @@
   <programme start="20190125060000 +0100" stop="20190125070000 +0100" channel="DMC DRAMA">
     <title lang="en">Rahim</title>
     <sub-title lang="en">رحيم</sub-title>
-    <desc lang="en">The show deals with Rahim, a rich businessman, who works in money laundry and currency smuggling. After he gets out of a long prison sentence, he finds out that his men took all his money and drove his family away. He goes on a journey to find them and get his belongings back.(n)</desc>
+    <desc lang="en">The show deals with Rahim, a rich businessman, who works in money laundry and currency smuggling. After he gets out of a long prison sentence, he finds out that his men took all his money and drove his family away. He goes on a journey to find them and get his belongings back.</desc>
     <credits>
       <director>Mohamed Salama</director>
       <director>مها إمام</director>
@@ -8118,7 +8447,7 @@
   </programme>
   <programme start="20190125070000 +0100" stop="20190125080000 +0100" channel="DMC DRAMA">
     <title lang="en">Baad El Bedaya</title>
-    <desc lang="en">Omar works in the press, all the time in reporting cases related to corruption, which leads to him being the subject of a failed murder attempt. One day, as Omar is reading the newspapers, he finds a piece of news reporting his death, and finds out that this piece of news has also reached other publications, so he enters a series of endless chases and plots to understand what happened.(n)</desc>
+    <desc lang="en">Omar works in the press, all the time in reporting cases related to corruption, which leads to him being the subject of a failed murder attempt. One day, as Omar is reading the newspapers, he finds a piece of news reporting his death, and finds out that this piece of news has also reached other publications, so he enters a series of endless chases and plots to understand what happened.</desc>
     <credits>
       <director>Ahmed Khaled Mousa</director>
       <director>Shady Mostafa</director>
@@ -8143,7 +8472,8 @@
   <programme start="20190125080000 +0100" stop="20190125090000 +0100" channel="DMC DRAMA">
     <title lang="en">Father Of The Bride (S2)</title>
     <sub-title lang="en">أبو العروسة (ج2)</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Kamal Mansour</director>
       <director>Ahmed Anwar</director>
@@ -8166,7 +8496,8 @@
   </programme>
   <programme start="20190125090000 +0100" stop="20190125100000 +0100" channel="DMC DRAMA">
     <title lang="en">2ayn qalby</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Magdy Abou Emira</director>
       <director>أمير شاكر</director>
@@ -8189,7 +8520,8 @@
   </programme>
   <programme start="20190125100000 +0100" stop="20190125110000 +0100" channel="DMC DRAMA">
     <title lang="en">Al-Mal Walbanon 1</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Magdy Abou Emira</director>
       <director>ثابت محمد ثابت</director>
@@ -8210,8 +8542,8 @@
     </rating>
   </programme>
   <programme start="20190125110000 +0100" stop="20190125120000 +0100" channel="DMC DRAMA">
-    <title lang="en">سكة الهلالي (?)</title>
-    <desc lang="en">(n)</desc>
+    <title lang="en">11:00  AM
+            [60 minutes] (?)</title>
     <credits>
       <director>Mohamed Fadel</director>
       <director>Ahmed Shafik</director>
@@ -8232,7 +8564,7 @@
   <programme start="20190125120000 +0100" stop="20190125130000 +0100" channel="DMC DRAMA">
     <title lang="en">Rahim</title>
     <sub-title lang="en">رحيم</sub-title>
-    <desc lang="en">The show deals with Rahim, a rich businessman, who works in money laundry and currency smuggling. After he gets out of a long prison sentence, he finds out that his men took all his money and drove his family away. He goes on a journey to find them and get his belongings back.(n)</desc>
+    <desc lang="en">The show deals with Rahim, a rich businessman, who works in money laundry and currency smuggling. After he gets out of a long prison sentence, he finds out that his men took all his money and drove his family away. He goes on a journey to find them and get his belongings back.</desc>
     <credits>
       <director>Mohamed Salama</director>
       <director>مها إمام</director>
@@ -8257,7 +8589,8 @@
   </programme>
   <programme start="20190125130000 +0100" stop="20190125140000 +0100" channel="DMC DRAMA">
     <title lang="en">Al Do' El Shared</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Magdy Abou Emira</director>
       <director>Shereen Adel</director>
@@ -8280,7 +8613,8 @@
   </programme>
   <programme start="20190125140000 +0100" stop="20190125150000 +0100" channel="DMC DRAMA">
     <title lang="en">2ayn qalby</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Magdy Abou Emira</director>
       <director>أمير شاكر</director>
@@ -8303,7 +8637,7 @@
   </programme>
   <programme start="20190125150000 +0100" stop="20190125160000 +0100" channel="DMC DRAMA">
     <title lang="en">Baad El Bedaya</title>
-    <desc lang="en">Omar works in the press, all the time in reporting cases related to corruption, which leads to him being the subject of a failed murder attempt. One day, as Omar is reading the newspapers, he finds a piece of news reporting his death, and finds out that this piece of news has also reached other publications, so he enters a series of endless chases and plots to understand what happened.(n)</desc>
+    <desc lang="en">Omar works in the press, all the time in reporting cases related to corruption, which leads to him being the subject of a failed murder attempt. One day, as Omar is reading the newspapers, he finds a piece of news reporting his death, and finds out that this piece of news has also reached other publications, so he enters a series of endless chases and plots to understand what happened.</desc>
     <credits>
       <director>Ahmed Khaled Mousa</director>
       <director>Shady Mostafa</director>
@@ -8328,7 +8662,8 @@
   <programme start="20190125160000 +0100" stop="20190125170000 +0100" channel="DMC DRAMA">
     <title lang="en">Father Of The Bride (S2)</title>
     <sub-title lang="en">أبو العروسة (ج2)</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Kamal Mansour</director>
       <director>Ahmed Anwar</director>
@@ -8351,7 +8686,8 @@
   </programme>
   <programme start="20190125170000 +0100" stop="20190125180000 +0100" channel="DMC DRAMA">
     <title lang="en">Al-Mal Walbanon 1</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Magdy Abou Emira</director>
       <director>ثابت محمد ثابت</director>
@@ -8373,7 +8709,8 @@
   </programme>
   <programme start="20190125180000 +0100" stop="20190125190000 +0100" channel="DMC DRAMA">
     <title lang="en">Al Do' El Shared</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Magdy Abou Emira</director>
       <director>Shereen Adel</director>
@@ -8396,7 +8733,8 @@
   </programme>
   <programme start="20190125190000 +0100" stop="20190125200000 +0100" channel="DMC DRAMA">
     <title lang="en">2ayn qalby</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Magdy Abou Emira</director>
       <director>أمير شاكر</director>
@@ -8418,8 +8756,8 @@
     </rating>
   </programme>
   <programme start="20190125200000 +0100" stop="20190125210000 +0100" channel="DMC DRAMA">
-    <title lang="en">سكة الهلالي (?)</title>
-    <desc lang="en">(n)</desc>
+    <title lang="en">08:00  PM
+            [60 minutes] (?)</title>
     <credits>
       <director>Mohamed Fadel</director>
       <director>Ahmed Shafik</director>
@@ -8439,7 +8777,7 @@
   </programme>
   <programme start="20190125210000 +0100" stop="20190125220000 +0100" channel="DMC DRAMA">
     <title lang="en">Baad El Bedaya</title>
-    <desc lang="en">Omar works in the press, all the time in reporting cases related to corruption, which leads to him being the subject of a failed murder attempt. One day, as Omar is reading the newspapers, he finds a piece of news reporting his death, and finds out that this piece of news has also reached other publications, so he enters a series of endless chases and plots to understand what happened.(n)</desc>
+    <desc lang="en">Omar works in the press, all the time in reporting cases related to corruption, which leads to him being the subject of a failed murder attempt. One day, as Omar is reading the newspapers, he finds a piece of news reporting his death, and finds out that this piece of news has also reached other publications, so he enters a series of endless chases and plots to understand what happened.</desc>
     <credits>
       <director>Ahmed Khaled Mousa</director>
       <director>Shady Mostafa</director>
@@ -8464,7 +8802,8 @@
   <programme start="20190125220000 +0100" stop="20190125230000 +0100" channel="DMC DRAMA">
     <title lang="en">Father Of The Bride (S2)</title>
     <sub-title lang="en">أبو العروسة (ج2)</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Kamal Mansour</director>
       <director>Ahmed Anwar</director>
@@ -8488,7 +8827,7 @@
   <programme start="20190125230000 +0100" stop="20190126000000 +0100" channel="DMC DRAMA">
     <title lang="en">Rahim</title>
     <sub-title lang="en">رحيم</sub-title>
-    <desc lang="en">The show deals with Rahim, a rich businessman, who works in money laundry and currency smuggling. After he gets out of a long prison sentence, he finds out that his men took all his money and drove his family away. He goes on a journey to find them and get his belongings back.(n)</desc>
+    <desc lang="en">The show deals with Rahim, a rich businessman, who works in money laundry and currency smuggling. After he gets out of a long prison sentence, he finds out that his men took all his money and drove his family away. He goes on a journey to find them and get his belongings back.</desc>
     <credits>
       <director>Mohamed Salama</director>
       <director>مها إمام</director>
@@ -8513,8 +8852,7 @@
   </programme>
   <programme start="20190124000000 +0100" stop="20190124010000 +0100" channel="Alhayat Series">
     <title lang="en">محمود المصري (?)</title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <credits>
       <director>Magdy Abou Emira</director>
       <director>Mohammed El-Rasheedy</director>
@@ -8627,9 +8965,8 @@
     </rating>
   </programme>
   <programme start="20190124050000 +0100" stop="20190124060000 +0100" channel="Alhayat Series">
-    <title lang="en">قلب ميت (?)</title>
-    <desc lang="en">
-    </desc>
+    <title lang="en">05:00  AM
+            [60 minutes] (?)</title>
     <credits>
       <director>Magdy Abou Emira</director>
       <actor>Sherif Mounir</actor>
@@ -8647,9 +8984,8 @@
     </rating>
   </programme>
   <programme start="20190124060000 +0100" stop="20190124070000 +0100" channel="Alhayat Series">
-    <title lang="en">محمود المصري (?)</title>
-    <desc lang="en">
-    </desc>
+    <title lang="en">06:00  AM
+            [60 minutes] (?)</title>
     <credits>
       <director>Magdy Abou Emira</director>
       <director>Mohammed El-Rasheedy</director>
@@ -8762,9 +9098,8 @@
     </rating>
   </programme>
   <programme start="20190124110000 +0100" stop="20190124120000 +0100" channel="Alhayat Series">
-    <title lang="en">قلب ميت (?)</title>
-    <desc lang="en">
-    </desc>
+    <title lang="en">11:00  AM
+            [60 minutes] (?)</title>
     <credits>
       <director>Magdy Abou Emira</director>
       <actor>Sherif Mounir</actor>
@@ -8782,9 +9117,8 @@
     </rating>
   </programme>
   <programme start="20190124120000 +0100" stop="20190124130000 +0100" channel="Alhayat Series">
-    <title lang="en">محمود المصري (?)</title>
-    <desc lang="en">
-    </desc>
+    <title lang="en">12:00  PM
+            [60 minutes] (?)</title>
     <credits>
       <director>Magdy Abou Emira</director>
       <director>Mohammed El-Rasheedy</director>
@@ -8897,9 +9231,8 @@
     </rating>
   </programme>
   <programme start="20190124170000 +0100" stop="20190124180000 +0100" channel="Alhayat Series">
-    <title lang="en">قلب ميت (?)</title>
-    <desc lang="en">
-    </desc>
+    <title lang="en">05:00  PM
+            [60 minutes] (?)</title>
     <credits>
       <director>Magdy Abou Emira</director>
       <actor>Sherif Mounir</actor>
@@ -8917,9 +9250,8 @@
     </rating>
   </programme>
   <programme start="20190124180000 +0100" stop="20190124190000 +0100" channel="Alhayat Series">
-    <title lang="en">محمود المصري (?)</title>
-    <desc lang="en">
-    </desc>
+    <title lang="en">06:00  PM
+            [60 minutes] (?)</title>
     <credits>
       <director>Magdy Abou Emira</director>
       <director>Mohammed El-Rasheedy</director>
@@ -9032,8 +9364,8 @@
     </rating>
   </programme>
   <programme start="20190124230000 +0100" stop="20190125000000 +0100" channel="Alhayat Series">
-    <title lang="en">قلب ميت (?)</title>
-    <desc lang="en">(r)</desc>
+    <title lang="en">11:00  PM
+            [60 minutes] (?)</title>
     <credits>
       <director>Magdy Abou Emira</director>
       <actor>Sherif Mounir</actor>
@@ -9051,8 +9383,8 @@
     </rating>
   </programme>
   <programme start="20190125000000 +0100" stop="20190125010000 +0100" channel="Alhayat Series">
-    <title lang="en">محمود المصري (?)</title>
-    <desc lang="en">(n)</desc>
+    <title lang="en">12:00  AM
+            [60 minutes] (?)</title>
     <credits>
       <director>Magdy Abou Emira</director>
       <director>Mohammed El-Rasheedy</director>
@@ -9076,7 +9408,8 @@
   <programme start="20190125010000 +0100" stop="20190125020000 +0100" channel="Alhayat Series">
     <title lang="en">Capable Women</title>
     <sub-title lang="en">ستات قادرة</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Ahmed Atef</director>
       <director>Ehab Amr</director>
@@ -9099,7 +9432,7 @@
   </programme>
   <programme start="20190125020000 +0100" stop="20190125030000 +0100" channel="Alhayat Series">
     <title lang="en">Zay El Ward</title>
-    <desc lang="en">The series revolves around "Ali"(actor Youssef El Sherif). He gets Unjustly imprisoned and after going out of jail he finds the woman of his dreams married to another man. He starts over and searches for a job. Afterwards he works for a businessman (Actor Salah Abdallah) and falls in love again with a girl but his social conditions prevents him from marrying her. He gets exposed to many problems and conflicts.(n)</desc>
+    <desc lang="en">The series revolves around "Ali"(actor Youssef El Sherif). He gets Unjustly imprisoned and after going out of jail he finds the woman of his dreams married to another man. He starts over and searches for a job. Afterwards he works for a businessman (Actor Salah Abdallah) and falls in love again with a girl but his social conditions prevents him from marrying her. He gets exposed to many problems and conflicts.</desc>
     <credits>
       <director>Saad Hendawy</director>
       <director>Ahmed Esaa</director>
@@ -9122,7 +9455,8 @@
   </programme>
   <programme start="20190125030000 +0100" stop="20190125040000 +0100" channel="Alhayat Series">
     <title lang="en">Ada el Nahar</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Ismail Abdel-Hafez</director>
       <director>Hossam El Nabawy</director>
@@ -9144,7 +9478,7 @@
   </programme>
   <programme start="20190125040000 +0100" stop="20190125050000 +0100" channel="Alhayat Series">
     <title lang="en">Halet Eshq</title>
-    <desc lang="en">The series follows a love story between a radio show hostess from an aristocratic family who now lives in a slum, and her work mate in the radio channel. But after her mother gets married to a wealthy man who moves the family once again to a high social level, the relationship gets complicated.(n)</desc>
+    <desc lang="en">The series follows a love story between a radio show hostess from an aristocratic family who now lives in a slum, and her work mate in the radio channel. But after her mother gets married to a wealthy man who moves the family once again to a high social level, the relationship gets complicated.</desc>
     <credits>
       <director>Ibrahim Fakhr</director>
       <actor>Mai Ezz-eldin</actor>
@@ -9165,8 +9499,8 @@
     </rating>
   </programme>
   <programme start="20190125050000 +0100" stop="20190125060000 +0100" channel="Alhayat Series">
-    <title lang="en">قلب ميت (?)</title>
-    <desc lang="en">(n)</desc>
+    <title lang="en">05:00  AM
+            [60 minutes] (?)</title>
     <credits>
       <director>Magdy Abou Emira</director>
       <actor>Sherif Mounir</actor>
@@ -9184,8 +9518,8 @@
     </rating>
   </programme>
   <programme start="20190125060000 +0100" stop="20190125070000 +0100" channel="Alhayat Series">
-    <title lang="en">محمود المصري (?)</title>
-    <desc lang="en">(n)</desc>
+    <title lang="en">06:00  AM
+            [60 minutes] (?)</title>
     <credits>
       <director>Magdy Abou Emira</director>
       <director>Mohammed El-Rasheedy</director>
@@ -9209,7 +9543,8 @@
   <programme start="20190125070000 +0100" stop="20190125080000 +0100" channel="Alhayat Series">
     <title lang="en">Capable Women</title>
     <sub-title lang="en">ستات قادرة</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Ahmed Atef</director>
       <director>Ehab Amr</director>
@@ -9232,7 +9567,7 @@
   </programme>
   <programme start="20190125080000 +0100" stop="20190125090000 +0100" channel="Alhayat Series">
     <title lang="en">Zay El Ward</title>
-    <desc lang="en">The series revolves around "Ali"(actor Youssef El Sherif). He gets Unjustly imprisoned and after going out of jail he finds the woman of his dreams married to another man. He starts over and searches for a job. Afterwards he works for a businessman (Actor Salah Abdallah) and falls in love again with a girl but his social conditions prevents him from marrying her. He gets exposed to many problems and conflicts.(n)</desc>
+    <desc lang="en">The series revolves around "Ali"(actor Youssef El Sherif). He gets Unjustly imprisoned and after going out of jail he finds the woman of his dreams married to another man. He starts over and searches for a job. Afterwards he works for a businessman (Actor Salah Abdallah) and falls in love again with a girl but his social conditions prevents him from marrying her. He gets exposed to many problems and conflicts.</desc>
     <credits>
       <director>Saad Hendawy</director>
       <director>Ahmed Esaa</director>
@@ -9255,7 +9590,8 @@
   </programme>
   <programme start="20190125090000 +0100" stop="20190125100000 +0100" channel="Alhayat Series">
     <title lang="en">Ada el Nahar</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Ismail Abdel-Hafez</director>
       <director>Hossam El Nabawy</director>
@@ -9277,7 +9613,7 @@
   </programme>
   <programme start="20190125100000 +0100" stop="20190125110000 +0100" channel="Alhayat Series">
     <title lang="en">Halet Eshq</title>
-    <desc lang="en">The series follows a love story between a radio show hostess from an aristocratic family who now lives in a slum, and her work mate in the radio channel. But after her mother gets married to a wealthy man who moves the family once again to a high social level, the relationship gets complicated.(n)</desc>
+    <desc lang="en">The series follows a love story between a radio show hostess from an aristocratic family who now lives in a slum, and her work mate in the radio channel. But after her mother gets married to a wealthy man who moves the family once again to a high social level, the relationship gets complicated.</desc>
     <credits>
       <director>Ibrahim Fakhr</director>
       <actor>Mai Ezz-eldin</actor>
@@ -9298,8 +9634,8 @@
     </rating>
   </programme>
   <programme start="20190125110000 +0100" stop="20190125120000 +0100" channel="Alhayat Series">
-    <title lang="en">قلب ميت (?)</title>
-    <desc lang="en">(n)</desc>
+    <title lang="en">11:00  AM
+            [60 minutes] (?)</title>
     <credits>
       <director>Magdy Abou Emira</director>
       <actor>Sherif Mounir</actor>
@@ -9317,8 +9653,8 @@
     </rating>
   </programme>
   <programme start="20190125120000 +0100" stop="20190125130000 +0100" channel="Alhayat Series">
-    <title lang="en">محمود المصري (?)</title>
-    <desc lang="en">(n)</desc>
+    <title lang="en">12:00  PM
+            [60 minutes] (?)</title>
     <credits>
       <director>Magdy Abou Emira</director>
       <director>Mohammed El-Rasheedy</director>
@@ -9342,7 +9678,8 @@
   <programme start="20190125130000 +0100" stop="20190125140000 +0100" channel="Alhayat Series">
     <title lang="en">Capable Women</title>
     <sub-title lang="en">ستات قادرة</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Ahmed Atef</director>
       <director>Ehab Amr</director>
@@ -9365,7 +9702,7 @@
   </programme>
   <programme start="20190125140000 +0100" stop="20190125150000 +0100" channel="Alhayat Series">
     <title lang="en">Zay El Ward</title>
-    <desc lang="en">The series revolves around "Ali"(actor Youssef El Sherif). He gets Unjustly imprisoned and after going out of jail he finds the woman of his dreams married to another man. He starts over and searches for a job. Afterwards he works for a businessman (Actor Salah Abdallah) and falls in love again with a girl but his social conditions prevents him from marrying her. He gets exposed to many problems and conflicts.(n)</desc>
+    <desc lang="en">The series revolves around "Ali"(actor Youssef El Sherif). He gets Unjustly imprisoned and after going out of jail he finds the woman of his dreams married to another man. He starts over and searches for a job. Afterwards he works for a businessman (Actor Salah Abdallah) and falls in love again with a girl but his social conditions prevents him from marrying her. He gets exposed to many problems and conflicts.</desc>
     <credits>
       <director>Saad Hendawy</director>
       <director>Ahmed Esaa</director>
@@ -9388,7 +9725,8 @@
   </programme>
   <programme start="20190125150000 +0100" stop="20190125160000 +0100" channel="Alhayat Series">
     <title lang="en">Ada el Nahar</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Ismail Abdel-Hafez</director>
       <director>Hossam El Nabawy</director>
@@ -9410,7 +9748,7 @@
   </programme>
   <programme start="20190125160000 +0100" stop="20190125170000 +0100" channel="Alhayat Series">
     <title lang="en">Halet Eshq</title>
-    <desc lang="en">The series follows a love story between a radio show hostess from an aristocratic family who now lives in a slum, and her work mate in the radio channel. But after her mother gets married to a wealthy man who moves the family once again to a high social level, the relationship gets complicated.(n)</desc>
+    <desc lang="en">The series follows a love story between a radio show hostess from an aristocratic family who now lives in a slum, and her work mate in the radio channel. But after her mother gets married to a wealthy man who moves the family once again to a high social level, the relationship gets complicated.</desc>
     <credits>
       <director>Ibrahim Fakhr</director>
       <actor>Mai Ezz-eldin</actor>
@@ -9431,8 +9769,8 @@
     </rating>
   </programme>
   <programme start="20190125170000 +0100" stop="20190125180000 +0100" channel="Alhayat Series">
-    <title lang="en">قلب ميت (?)</title>
-    <desc lang="en">(n)</desc>
+    <title lang="en">05:00  PM
+            [60 minutes] (?)</title>
     <credits>
       <director>Magdy Abou Emira</director>
       <actor>Sherif Mounir</actor>
@@ -9450,8 +9788,8 @@
     </rating>
   </programme>
   <programme start="20190125180000 +0100" stop="20190125190000 +0100" channel="Alhayat Series">
-    <title lang="en">محمود المصري (?)</title>
-    <desc lang="en">(n)</desc>
+    <title lang="en">06:00  PM
+            [60 minutes] (?)</title>
     <credits>
       <director>Magdy Abou Emira</director>
       <director>Mohammed El-Rasheedy</director>
@@ -9475,7 +9813,8 @@
   <programme start="20190125190000 +0100" stop="20190125200000 +0100" channel="Alhayat Series">
     <title lang="en">Capable Women</title>
     <sub-title lang="en">ستات قادرة</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Ahmed Atef</director>
       <director>Ehab Amr</director>
@@ -9498,7 +9837,7 @@
   </programme>
   <programme start="20190125200000 +0100" stop="20190125210000 +0100" channel="Alhayat Series">
     <title lang="en">Zay El Ward</title>
-    <desc lang="en">The series revolves around "Ali"(actor Youssef El Sherif). He gets Unjustly imprisoned and after going out of jail he finds the woman of his dreams married to another man. He starts over and searches for a job. Afterwards he works for a businessman (Actor Salah Abdallah) and falls in love again with a girl but his social conditions prevents him from marrying her. He gets exposed to many problems and conflicts.(n)</desc>
+    <desc lang="en">The series revolves around "Ali"(actor Youssef El Sherif). He gets Unjustly imprisoned and after going out of jail he finds the woman of his dreams married to another man. He starts over and searches for a job. Afterwards he works for a businessman (Actor Salah Abdallah) and falls in love again with a girl but his social conditions prevents him from marrying her. He gets exposed to many problems and conflicts.</desc>
     <credits>
       <director>Saad Hendawy</director>
       <director>Ahmed Esaa</director>
@@ -9521,7 +9860,8 @@
   </programme>
   <programme start="20190125210000 +0100" stop="20190125220000 +0100" channel="Alhayat Series">
     <title lang="en">Ada el Nahar</title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <director>Ismail Abdel-Hafez</director>
       <director>Hossam El Nabawy</director>
@@ -9543,7 +9883,7 @@
   </programme>
   <programme start="20190125220000 +0100" stop="20190125230000 +0100" channel="Alhayat Series">
     <title lang="en">Halet Eshq</title>
-    <desc lang="en">The series follows a love story between a radio show hostess from an aristocratic family who now lives in a slum, and her work mate in the radio channel. But after her mother gets married to a wealthy man who moves the family once again to a high social level, the relationship gets complicated.(n)</desc>
+    <desc lang="en">The series follows a love story between a radio show hostess from an aristocratic family who now lives in a slum, and her work mate in the radio channel. But after her mother gets married to a wealthy man who moves the family once again to a high social level, the relationship gets complicated.</desc>
     <credits>
       <director>Ibrahim Fakhr</director>
       <actor>Mai Ezz-eldin</actor>
@@ -9564,8 +9904,8 @@
     </rating>
   </programme>
   <programme start="20190125230000 +0100" stop="20190126000000 +0100" channel="Alhayat Series">
-    <title lang="en">قلب ميت (?)</title>
-    <desc lang="en">(n)</desc>
+    <title lang="en">11:00  PM
+            [60 minutes] (?)</title>
     <credits>
       <director>Magdy Abou Emira</director>
       <actor>Sherif Mounir</actor>
@@ -9585,8 +9925,7 @@
   <programme start="20190124003000 +0100" stop="20190124020000 +0100" channel="TeN TV">
     <title lang="en">By Paper and Pen</title>
     <sub-title lang="en">بالورقة والقلم</sub-title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <credits>
       <actor>Nash'at Aldehy</actor>
     </credits>
@@ -9599,8 +9938,7 @@
   <programme start="20190124020000 +0100" stop="20190124023000 +0100" channel="TeN TV">
     <title lang="en">Al Bousla</title>
     <sub-title lang="en">البوصلة</sub-title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <date>2018</date>
     <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
     <rating system="EG">
@@ -9608,8 +9946,8 @@
     </rating>
   </programme>
   <programme start="20190124023000 +0100" stop="20190124033000 +0100" channel="TeN TV">
-    <title lang="en">ِAfrah El-qwba (?)</title>
-    <desc lang="en">(r)</desc>
+    <title lang="en">02:30  AM
+            [60 minutes] (?)</title>
     <credits>
       <director>Mohamed Yasine</director>
       <director>Mohamed abd elrahman</director>
@@ -9633,16 +9971,14 @@
   <programme start="20190124033000 +0100" stop="20190124050000 +0100" channel="TeN TV">
     <title lang="en">Girly Talk</title>
     <sub-title lang="en">كلام بنات</sub-title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <date>2018</date>
     <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
   </programme>
   <programme start="20190124050000 +0100" stop="20190124060000 +0100" channel="TeN TV">
     <title lang="en">Your Kitchen and Home</title>
     <sub-title lang="en">بيتك ومطبخك</sub-title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <date>2017</date>
     <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
     <rating system="EG">
@@ -9685,8 +10021,7 @@
   <programme start="20190124100000 +0100" stop="20190124120000 +0100" channel="TeN TV">
     <title lang="en">Public Opinion</title>
     <sub-title lang="en">رأي عام</sub-title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <credits>
       <actor>عمرو عبدالحميد</actor>
     </credits>
@@ -9722,8 +10057,7 @@
   <programme start="20190124130000 +0100" stop="20190124140000 +0100" channel="TeN TV">
     <title lang="en">Your Kitchen and Home</title>
     <sub-title lang="en">بيتك ومطبخك</sub-title>
-    <desc lang="en">
-    </desc>
+    <desc lang="en" />
     <date>2017</date>
     <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
     <rating system="EG">
@@ -9731,8 +10065,8 @@
     </rating>
   </programme>
   <programme start="20190124180000 +0100" stop="20190124190000 +0100" channel="TeN TV">
-    <title lang="en">ِAfrah El-qwba (?)</title>
-    <desc lang="en">(r)</desc>
+    <title lang="en">06:00  PM
+            [60 minutes] (?)</title>
     <credits>
       <director>Mohamed Yasine</director>
       <director>Mohamed abd elrahman</director>
@@ -9794,8 +10128,8 @@
     </rating>
   </programme>
   <programme start="20190125020000 +0100" stop="20190125033000 +0100" channel="TeN TV">
-    <title lang="en">ِAfrah El-qwba (?)</title>
-    <desc lang="en">(n)</desc>
+    <title lang="en">02:00  AM
+            [90 minutes] (?)</title>
     <credits>
       <director>Mohamed Yasine</director>
       <director>Mohamed abd elrahman</director>
@@ -9819,14 +10153,16 @@
   <programme start="20190125033000 +0100" stop="20190125050000 +0100" channel="TeN TV">
     <title lang="en">Girly Talk</title>
     <sub-title lang="en">كلام بنات</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <date>2018</date>
     <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
   </programme>
   <programme start="20190125050000 +0100" stop="20190125060000 +0100" channel="TeN TV">
     <title lang="en">Your Kitchen and Home</title>
     <sub-title lang="en">بيتك ومطبخك</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <date>2017</date>
     <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
     <rating system="EG">
@@ -9835,7 +10171,7 @@
   </programme>
   <programme start="20190125060000 +0100" stop="20190125070000 +0100" channel="TeN TV">
     <title lang="en">Segn el Nisaa</title>
-    <desc lang="en">This series was inspired by the true events surrounding the lives of three Egyptian women. The women, who have suffered various hardships and injustices throughout their lives, are driven to carry out a few sporadic crimes and end up in prison. This marks the start of a new phase for the women, one that differs significantly from what they experienced in college, particularly in the wake of the January 25 revolution which changed everything in the country.(n)</desc>
+    <desc lang="en">This series was inspired by the true events surrounding the lives of three Egyptian women. The women, who have suffered various hardships and injustices throughout their lives, are driven to carry out a few sporadic crimes and end up in prison. This marks the start of a new phase for the women, one that differs significantly from what they experienced in college, particularly in the wake of the January 25 revolution which changed everything in the country.</desc>
     <credits>
       <director>Kamla Abou Zekri</director>
       <director>Mohamed abd elsalam</director>
@@ -9859,7 +10195,8 @@
   <programme start="20190125100000 +0100" stop="20190125120000 +0100" channel="TeN TV">
     <title lang="en">Public Opinion</title>
     <sub-title lang="en">رأي عام</sub-title>
-    <desc lang="en">(n)</desc>
+    <desc lang="en">
+    </desc>
     <credits>
       <actor>عمرو عبدالحميد</actor>
     </credits>
@@ -9871,7 +10208,7 @@
   </programme>
   <programme start="20190125120000 +0100" stop="20190125130000 +0100" channel="TeN TV">
     <title lang="en">Segn el Nisaa</title>
-    <desc lang="en">This series was inspired by the true events surrounding the lives of three Egyptian women. The women, who have suffered various hardships and injustices throughout their lives, are driven to carry out a few sporadic crimes and end up in prison. This marks the start of a new phase for the women, one that differs significantly from what they experienced in college, particularly in the wake of the January 25 revolution which changed everything in the country.(n)</desc>
+    <desc lang="en">This series was inspired by the true events surrounding the lives of three Egyptian women. The women, who have suffered various hardships and injustices throughout their lives, are driven to carry out a few sporadic crimes and end up in prison. This marks the start of a new phase for the women, one that differs significantly from what they experienced in college, particularly in the wake of the January 25 revolution which changed everything in the country.</desc>
     <credits>
       <director>Kamla Abou Zekri</director>
       <director>Mohamed abd elsalam</director>
@@ -9891,5 +10228,95 @@
     <rating system="EG">
       <value>7.6</value>
     </rating>
+  </programme>
+  <programme start="20190124000000 +0100" stop="20190124000000 +0100" channel="Fan">
+    <title lang="en">مقتطفات من حفلات محمد عبدو
+            
+              01:00  AM
+              [60 minutes]</title>
+  </programme>
+  <programme start="20190124000000 +0100" stop="20190124000000 +0100" channel="Fan">
+    <title lang="en">منوعات عربية
+            
+              02:00  AM
+              [120 minutes]</title>
+  </programme>
+  <programme start="20190124000000 +0100" stop="20190124000000 +0100" channel="Fan">
+    <title lang="en">من أغانيهم
+            
+              04:00  AM
+              [60 minutes]</title>
+  </programme>
+  <programme start="20190124000000 +0100" stop="20190124000000 +0100" channel="Fan">
+    <title lang="en">أغاني عربية
+            
+              05:00  AM
+              [300 minutes]</title>
+  </programme>
+  <programme start="20190124000000 +0100" stop="20190124000000 +0100" channel="Fan">
+    <title lang="en">من أغانيهم
+            
+              10:00  AM
+              [60 minutes]</title>
+  </programme>
+  <programme start="20190124000000 +0100" stop="20190124000000 +0100" channel="Fan">
+    <title lang="en">أغاني من الخليج العربي
+            
+              11:00  AM
+              [150 minutes]</title>
+  </programme>
+  <programme start="20190124000000 +0100" stop="20190124000000 +0100" channel="Fan">
+    <title lang="en">أغاني عربية
+            
+              01:30  PM
+              [120 minutes]</title>
+  </programme>
+  <programme start="20190124000000 +0100" stop="20190124000000 +0100" channel="Fan">
+    <title lang="en">مختارات من حفلات موسيقية
+            
+              03:30  PM
+              [180 minutes]</title>
+  </programme>
+  <programme start="20190124000000 +0100" stop="20190124000000 +0100" channel="Fan">
+    <title lang="en">أغاني عربية
+            
+              06:30  PM
+              [90 minutes]</title>
+  </programme>
+  <programme start="20190124000000 +0100" stop="20190124000000 +0100" channel="Fan">
+    <title lang="en">أغاني من الخليج العربي
+            
+              08:00  PM
+              [120 minutes]</title>
+  </programme>
+  <programme start="20190124000000 +0100" stop="20190124000000 +0100" channel="Fan">
+    <title lang="en">أغاني طربية
+            
+              10:00  PM
+              [90 minutes]</title>
+  </programme>
+  <programme start="20190124000000 +0100" stop="20190124000000 +0100" channel="Fan">
+    <title lang="en">حفلة موسيقية - عبد الحليم حافظ
+            
+              11:30  PM
+              [90 minutes]</title>
+  </programme>
+  <programme start="20190124000000 +0100" stop="20190124000000 +0100" channel="Fan">
+    <title lang="en">أغاني طربية
+            
+              10:00  PM
+              [90 minutes]</title>
+  </programme>
+  <programme start="20190124000000 +0100" stop="20190124000000 +0100" channel="Fan">
+    <title lang="en">حفلة موسيقية - أم كلثوم
+            
+              11:30  PM
+              [90 minutes]</title>
+  </programme>
+  <programme start="20190124000000 +0100" stop="20190124000000 +0100" channel="Fan">
+    <title lang="en">أغاني من الخليج العربي
+            
+              11:00  AM
+              [150 minutes]</title>
   </programme>
 </tv>
