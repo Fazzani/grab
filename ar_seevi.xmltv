@@ -1,5 +1,40 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.5 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <programme start="20190126220000 +0000" stop="20190126230000 +0000" channel="MBC 1">
+    <title lang="ar">معالى المواطن</title>
+    <desc lang="ar">اضاءة مختلفة على مختلف القضايا يتم التطرق اليها بمشاركة ضيوف مختصين لمواكبة الأحداث بموضوعية وجرأة، بالاضافة الى تصحيح بعض المفاهيم الشائعة الخاطئة. ويتسم البرنامج بمزج الفن بالواقع من خلال عرض اغاني تفاعلية، فضلا عن دوره بتغيير حياة بعض الأشخاص.(n)</desc>
+    <credits>
+      <actor>علي العلياني</actor>
+    </credits>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/178764456.1234567890-.jpg" />
+  </programme>
+  <programme start="20190126230000 +0000" stop="20190127000000 +0000" channel="MBC 1">
+    <title lang="ar">سامحني خطيت</title>
+    <desc lang="ar">فقدت (ميسم) والدتها في عمر مبكر، فترعرعت في كنف والدها مما جعله كل ما تملك، ولكن بعد رفض والدها لزواجها من رجل بسيط تحبه، تنقلب حياتها رأساً على عقب.(n)</desc>
+    <credits>
+      <actor>جاسم النبهان</actor>
+      <actor>شجون</actor>
+    </credits>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/198694841.7.jpg" />
+  </programme>
+  <programme start="20190126215900 +0000" stop="20190126230100 +0000" channel="MBC Bollywood">
+    <title lang="ar">مدهوبالا: منتهى العشق 3</title>
+    <desc lang="ar">تدور أحداث المسلسل حول معاناة الطبقة البسيطة في تحقيق أحلامها أملاً في مستقبل أفضل، وذلك من خلال قصة فتاة تدعى (مدهوبالا) التي ولدت لأسرة فقيرة عانت والدتها قهر والدها وتسلطه مما اضطر الزوجة للهرب والبحث عن حياة أفضل مع ابنتها.(n)</desc>
+    <credits>
+      <actor>بابيندر سينغ</actor>
+      <actor>دراتشي دهامي</actor>
+    </credits>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/198224966.9.jpg" />
+  </programme>
+  <programme start="20190126230100 +0000" stop="20190127000000 +0000" channel="MBC Bollywood">
+    <title lang="ar">هوَس مايا</title>
+    <desc lang="ar">(مايا) سيدة أعمال شابة كانت دائماً ما تتجنب العلاقات العاطفية وتحرص بشدة على حياتها. ولكن الأمور تتغير عندما تلتقي بمصور طموح ليس لديه الكثير من الهموم يدعى (أرجون) والذي تحبه أقرب صديقه له منذ الطفوله سراً.(n)</desc>
+    <credits>
+      <actor>كوشال تاندون</actor>
+      <actor>جينيفر وينجت</actor>
+    </credits>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/195930853.6756747.jpg" />
+  </programme>
   <channel id="Panorama Food">
     <display-name lang="ar">Panorama Food</display-name>
     <url>http://www.seevii.com</url>
@@ -364,106 +399,6 @@
     <display-name lang="ar">MBC Drama + HD</display-name>
     <url>http://www.seevii.com</url>
   </channel>
-  <programme start="20190125000000 +0000" stop="20190125020000 +0000" channel="Abu Dhabi Sport 1">
-    <title lang="ar">Program : Asia Fe Darena 2019</title>
-    <desc lang="ar">Program : Asia Fe Darena 2019: Ep 21</desc>
-    <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
-  </programme>
-  <programme start="20190125020000 +0000" stop="20190125025500 +0000" channel="Abu Dhabi Sport 1">
-    <title lang="ar">Trans World Sport</title>
-    <desc lang="ar">A roundup of sports news and action from around the world.</desc>
-    <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
-  </programme>
-  <programme start="20190125025500 +0000" stop="20190125051000 +0000" channel="Abu Dhabi Sport 1">
-    <title lang="ar">Camel Race 2018-2019</title>
-    <desc lang="ar">Camel Race 2018-2019: Ep 93.(c)</desc>
-    <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
-  </programme>
-  <programme start="20190125051000 +0000" stop="20190125052500 +0000" channel="Abu Dhabi Sport 1">
-    <title lang="ar">The Fame (Ar)</title>
-    <desc lang="ar">The Fame (Ar): Ep 20.(c)</desc>
-    <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
-  </programme>
-  <programme start="20190125052500 +0000" stop="20190125055500 +0000" channel="Abu Dhabi Sport 1">
-    <title lang="ar">Deuce (Ar)</title>
-    <desc lang="ar">Deuce (Ar) : Ep 92.(c)</desc>
-    <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
-  </programme>
-  <programme start="20190125055500 +0000" stop="20190125062500 +0000" channel="Abu Dhabi Sport 1">
-    <title lang="ar">Football Review 2019 (Arabic)</title>
-    <desc lang="ar">Football Review 2019 (Arabic): Ep 8.(c)</desc>
-    <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
-  </programme>
-  <programme start="20190125062500 +0000" stop="20190125082500 +0000" channel="Abu Dhabi Sport 1">
-    <title lang="ar">Program : Asia Fe Darena 2019</title>
-    <desc lang="ar">Program : Asia Fe Darena 2019: Ep 21.</desc>
-    <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
-  </programme>
-  <programme start="20190125082500 +0000" stop="20190125085500 +0000" channel="Abu Dhabi Sport 1">
-    <title lang="ar">Program: Special Interviews (ASIAN Cup 2019)</title>
-    <desc lang="ar">Program: Special Interviews (ASIAN Cup 201: Ep 5.(c)</desc>
-    <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
-  </programme>
-  <programme start="20190125085500 +0000" stop="20190125092500 +0000" channel="Abu Dhabi Sport 1">
-    <title lang="ar">The Outdoor Sports Show (Ar) 2018</title>
-    <desc lang="ar">The Outdoor Sports Show (Ar) 2018: Ep 8.</desc>
-    <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
-  </programme>
-  <programme start="20190125092500 +0000" stop="20190125095500 +0000" channel="Abu Dhabi Sport 1">
-    <title lang="ar">Program : AL Majalah AL Arabyah 2018-2019</title>
-    <desc lang="ar">Program : AL Majalah AL Arabyah 2018-2019: Ep 4.</desc>
-    <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
-  </programme>
-  <programme start="20190125095500 +0000" stop="20190125120000 +0000" channel="Abu Dhabi Sport 1">
-    <title lang="ar">Camel Race 2018-2019</title>
-    <desc lang="ar">Camel Race 2018-2019: Ep 94.</desc>
-    <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
-  </programme>
-  <programme start="20190125120000 +0000" stop="20190125140000 +0000" channel="Abu Dhabi Sport 1">
-    <title lang="ar">Program : Hona Al Emarart 2019</title>
-    <desc lang="ar">Program : Hona Al Emarart 2019: Ep 21.</desc>
-    <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
-  </programme>
-  <programme start="20190125140000 +0000" stop="20190125160000 +0000" channel="Abu Dhabi Sport 1">
-    <title lang="ar">Program : Asia Fe Darena 2019</title>
-    <desc lang="ar">Program : Asia Fe Darena 2019: Ep 21</desc>
-    <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
-  </programme>
-  <programme start="20190125160000 +0000" stop="20190125163000 +0000" channel="Abu Dhabi Sport 1">
-    <title lang="ar">FIBA World Basketball (Ar)</title>
-    <desc lang="ar">FIBA World Basketball (Ar): Ep 92.</desc>
-    <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
-  </programme>
-  <programme start="20190125163000 +0000" stop="20190125170000 +0000" channel="Abu Dhabi Sport 1">
-    <title lang="ar">Extra Time (Ar) 2019</title>
-    <desc lang="ar">Extra Time (Ar) 2019: Ep 4.</desc>
-    <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
-  </programme>
-  <programme start="20190125170000 +0000" stop="20190125190000 +0000" channel="Abu Dhabi Sport 1">
-    <title lang="ar">Program : Hona Al Emarart 2019</title>
-    <desc lang="ar">Program : Hona Al Emarart 2019: Ep 21</desc>
-    <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
-  </programme>
-  <programme start="20190125190000 +0000" stop="20190125210000 +0000" channel="Abu Dhabi Sport 1">
-    <title lang="ar">Program : Asia Fe Darena 2019</title>
-    <desc lang="ar">Program : Asia Fe Darena 2019: Ep 22.</desc>
-    <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
-  </programme>
-  <programme start="20190125210000 +0000" stop="20190125230000 +0000" channel="Abu Dhabi Sport 1">
-    <title lang="ar">Program : Hona Al Emarart 2019</title>
-    <desc lang="ar">Program : Hona Al Emarart 2019: Ep 21.</desc>
-    <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
-  </programme>
-  <programme start="20190125230000 +0000" stop="20190125233000 +0000" channel="Abu Dhabi Sport 1">
-    <title lang="ar">The Outdoor Sports Show (Ar) 2018</title>
-    <desc lang="ar">The Outdoor Sports Show (Ar) 2018: Ep 8.</desc>
-    <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
-  </programme>
-  <programme start="20190125233000 +0000" stop="20190126000000 +0000" channel="Abu Dhabi Sport 1">
-    <title lang="ar">Football Review 2019 (Arabic)</title>
-    <desc lang="ar">Football Review 2019 (Arabic): Ep 8.</desc>
-    <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
-  </programme>
   <programme start="20190126000000 +0000" stop="20190126020000 +0000" channel="Abu Dhabi Sport 1">
     <title lang="ar">Program : Asia Fe Darena 2019</title>
     <desc lang="ar">Program : Asia Fe Darena 2019: Ep 22.</desc>
@@ -506,7 +441,7 @@
   </programme>
   <programme start="20190126120000 +0000" stop="20190126123000 +0000" channel="Abu Dhabi Sport 1">
     <title lang="ar">Program: Special Interviews (ASIAN Cup 2019)</title>
-    <desc lang="ar">Program: Special Interviews (ASIAN Cup 201: Ep 5.(c)</desc>
+    <desc lang="ar">Program: Special Interviews (ASIAN Cup 201: Ep 5.</desc>
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
   </programme>
   <programme start="20190126123000 +0000" stop="20190126130000 +0000" channel="Abu Dhabi Sport 1">
@@ -571,217 +506,172 @@
   </programme>
   <programme start="20190127014500 +0000" stop="20190127021500 +0000" channel="Abu Dhabi Sport 1">
     <title lang="ar">Studio: Zayed Champions Cup 2018</title>
-    <desc lang="ar">Studio: Zayed Champions Cup 2018: Ep 34.(n)</desc>
+    <desc lang="ar">Studio: Zayed Champions Cup 2018: Ep 34.</desc>
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
   </programme>
   <programme start="20190127021500 +0000" stop="20190127041500 +0000" channel="Abu Dhabi Sport 1">
     <title lang="ar">Arabian Gulf League 2018-2019</title>
-    <desc lang="ar">AGL 2018\/2019: Shabab Al Ahli vs Itthad Kalbaa.(n)</desc>
+    <desc lang="ar">AGL 2018\/2019: Shabab Al Ahli vs Itthad Kalbaa.</desc>
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
   </programme>
   <programme start="20190127041500 +0000" stop="20190127043000 +0000" channel="Abu Dhabi Sport 1">
     <title lang="ar">The Fame (Ar)</title>
-    <desc lang="ar">The Fame (Ar): Ep 20.(n)</desc>
+    <desc lang="ar">The Fame (Ar): Ep 20.</desc>
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
   </programme>
   <programme start="20190127043000 +0000" stop="20190127050000 +0000" channel="Abu Dhabi Sport 1">
     <title lang="ar">Lifes A Pitch (Ar) 2019</title>
-    <desc lang="ar">Lifes A Pitch (Ar) 2019: Ep 3.(n)</desc>
+    <desc lang="ar">Lifes A Pitch (Ar) 2019: Ep 3.</desc>
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
   </programme>
   <programme start="20190127050000 +0000" stop="20190127060000 +0000" channel="Abu Dhabi Sport 1">
     <title lang="ar">Trans World Sport</title>
-    <desc lang="ar">A roundup of sports news and action from around the world.(n)</desc>
+    <desc lang="ar">A roundup of sports news and action from around the world.</desc>
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
   </programme>
   <programme start="20190127060000 +0000" stop="20190127080000 +0000" channel="Abu Dhabi Sport 1">
     <title lang="ar">Program : Asia Fe Darena 2019</title>
-    <desc lang="ar">Program : Asia Fe Darena 2019: Ep 23.(n)</desc>
+    <desc lang="ar">Program : Asia Fe Darena 2019: Ep 23.</desc>
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
   </programme>
   <programme start="20190127080000 +0000" stop="20190127100000 +0000" channel="Abu Dhabi Sport 1">
     <title lang="ar">Program : Hona Al Emarart 2019</title>
-    <desc lang="ar">Program : Hona Al Emarart 2019: Ep 23.(n)</desc>
+    <desc lang="ar">Program : Hona Al Emarart 2019: Ep 23.</desc>
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
   </programme>
   <programme start="20190127100000 +0000" stop="20190127120000 +0000" channel="Abu Dhabi Sport 1">
     <title lang="ar">Zayed Champions Cup 2018</title>
-    <desc lang="ar">Zayed Champions Cup 2018 : Ep 49.(n)</desc>
+    <desc lang="ar">Zayed Champions Cup 2018 : Ep 49.</desc>
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
   </programme>
   <programme start="20190127120000 +0000" stop="20190127130000 +0000" channel="Abu Dhabi Sport 1">
     <title lang="ar">The Game 365</title>
-    <desc lang="ar">The Game 365 : Ep 25.(n)</desc>
+    <desc lang="ar">The Game 365 : Ep 25.</desc>
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
   </programme>
   <programme start="20190127130000 +0000" stop="20190127133000 +0000" channel="Abu Dhabi Sport 1">
     <title lang="ar">Deuce (Ar)</title>
-    <desc lang="ar">Deuce (Ar) : Ep 92.(n)</desc>
+    <desc lang="ar">Deuce (Ar) : Ep 92.</desc>
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
   </programme>
   <programme start="20190127133000 +0000" stop="20190127140000 +0000" channel="Abu Dhabi Sport 1">
     <title lang="ar">Club land (Ar)</title>
-    <desc lang="ar">Club land (Ar): Ep 21.(n)</desc>
+    <desc lang="ar">Club land (Ar): Ep 21.</desc>
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
   </programme>
   <programme start="20190127140000 +0000" stop="20190127160000 +0000" channel="Abu Dhabi Sport 1">
     <title lang="ar">Program : Asia Fe Darena 2019</title>
-    <desc lang="ar">Program : Asia Fe Darena 2019: Ep 23.(n)</desc>
+    <desc lang="ar">Program : Asia Fe Darena 2019: Ep 23.</desc>
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
   </programme>
   <programme start="20190127160000 +0000" stop="20190127163000 +0000" channel="Abu Dhabi Sport 1">
     <title lang="ar">FIBA World Basketball (Ar)</title>
-    <desc lang="ar">FIBA World Basketball (Ar): Ep 92.(n)</desc>
+    <desc lang="ar">FIBA World Basketball (Ar): Ep 92.</desc>
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
   </programme>
   <programme start="20190127163000 +0000" stop="20190127170000 +0000" channel="Abu Dhabi Sport 1">
     <title lang="ar">Football Stars (Ar)</title>
-    <desc lang="ar">Football Stars (Ar): Ep 21.(n)</desc>
+    <desc lang="ar">Football Stars (Ar): Ep 21.</desc>
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
   </programme>
   <programme start="20190127170000 +0000" stop="20190127190000 +0000" channel="Abu Dhabi Sport 1">
     <title lang="ar">Program : Hona Al Emarart 2019</title>
-    <desc lang="ar">Program : Hona Al Emarart 2019: Ep 23.(n)</desc>
+    <desc lang="ar">Program : Hona Al Emarart 2019: Ep 23.</desc>
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
   </programme>
   <programme start="20190127190000 +0000" stop="20190127210000 +0000" channel="Abu Dhabi Sport 1">
     <title lang="ar">Program : Asia Fe Darena 2019</title>
-    <desc lang="ar">Program : Asia Fe Darena 2019: Ep 24.(n)</desc>
+    <desc lang="ar">Program : Asia Fe Darena 2019: Ep 24.</desc>
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
   </programme>
   <programme start="20190127210000 +0000" stop="20190127230000 +0000" channel="Abu Dhabi Sport 1">
     <title lang="ar">Program : Hona Al Emarart 2019</title>
-    <desc lang="ar">Program : Hona Al Emarart 2019: Ep 23.(n)</desc>
+    <desc lang="ar">Program : Hona Al Emarart 2019: Ep 23.</desc>
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
   </programme>
   <programme start="20190127230000 +0000" stop="20190128000000 +0000" channel="Abu Dhabi Sport 1">
     <title lang="ar">The Game 365</title>
-    <desc lang="ar">The Game 365 : Ep 25.(n)</desc>
+    <desc lang="ar">The Game 365 : Ep 25.</desc>
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
   </programme>
-  <programme start="20190125003000 +0000" stop="20190125010000 +0000" channel="Abu Dhabi Sport 2">
-    <title lang="ar">Shakhsiyyat Fi Mi\\'awiyyat Zayed</title>
-    <desc lang="ar">A talk show portraying the biography of late Sheikh Zayed Bin Sultan Al Nahyan via dignitaries who accompanied His Highness during the various stages of his life</desc>
+  <programme start="20190128000000 +0000" stop="20190128020000 +0000" channel="Abu Dhabi Sport 1">
+    <title lang="ar">Program : Asia Fe Darena 2019</title>
+    <desc lang="ar">Program : Asia Fe Darena 2019: Ep 24.(n)</desc>
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
   </programme>
-  <programme start="20190125010000 +0000" stop="20190125023000 +0000" channel="Abu Dhabi Sport 2">
-    <title lang="ar">Program : Oloum Swehan 2019</title>
-    <desc lang="ar">Program : Oloum Swehan 2019: Ep 5</desc>
+  <programme start="20190128020000 +0000" stop="20190128040000 +0000" channel="Abu Dhabi Sport 1">
+    <title lang="ar">Arabian Gulf League 2018-2019</title>
+    <desc lang="ar">AGL 2018\/2019: Ajman vs Bani Yas.(n)</desc>
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
   </programme>
-  <programme start="20190125023000 +0000" stop="20190125030000 +0000" channel="Abu Dhabi Sport 2">
-    <title lang="ar">Sultan Bin Zayed Heritage Festival 2019 (H\/L)</title>
-    <desc lang="ar">Sultan Bin Zayed Heritage Festival 2019 (H: Ep 5</desc>
+  <programme start="20190128040000 +0000" stop="20190128043000 +0000" channel="Abu Dhabi Sport 1">
+    <title lang="ar">Sport Confidential 2019 (Arabic)</title>
+    <desc lang="ar">Sport Confidential 2019 (Arabic): Ep 3.(n)</desc>
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
   </programme>
-  <programme start="20190125030000 +0000" stop="20190125040000 +0000" channel="Abu Dhabi Sport 2">
-    <title lang="ar">Program: Dewan Zayed 2019</title>
-    <desc lang="ar">Program: Dewan Zayed 2019: Ep 5.</desc>
+  <programme start="20190128043000 +0000" stop="20190128060000 +0000" channel="Abu Dhabi Sport 1">
+    <title lang="ar">UAE Handball Vice President Cup 2018-2019</title>
+    <desc lang="ar">UAE Handball Vice President Cup 2018-2019: Ep 3.(n)</desc>
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
   </programme>
-  <programme start="20190125040000 +0000" stop="20190125043000 +0000" channel="Abu Dhabi Sport 2">
-    <title lang="ar">Shakhsiyyat Fi Mi\\'awiyyat Zayed</title>
-    <desc lang="ar">A talk show portraying the biography of late Sheikh Zayed Bin Sultan Al Nahyan via dignitaries who accompanied His Highness during the various stages of his life.</desc>
+  <programme start="20190128060000 +0000" stop="20190128080000 +0000" channel="Abu Dhabi Sport 1">
+    <title lang="ar">Program : Asia Fe Darena 2019</title>
+    <desc lang="ar">Program : Asia Fe Darena 2019: Ep 24.(n)</desc>
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
   </programme>
-  <programme start="20190125043000 +0000" stop="20190125050000 +0000" channel="Abu Dhabi Sport 2">
-    <title lang="ar">Turathuna Al-Taleed</title>
-    <desc lang="ar">An informative depiction exploring the history and beauty of Emirati folklore handicrafts, arts, heritage and aspects of folklife.</desc>
+  <programme start="20190128080000 +0000" stop="20190128100000 +0000" channel="Abu Dhabi Sport 1">
+    <title lang="ar">Program : Hona Al Emarart 2019</title>
+    <desc lang="ar">Program : Hona Al Emarart 2019: Ep 24.(n)</desc>
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
   </programme>
-  <programme start="20190125050000 +0000" stop="20190125060000 +0000" channel="Abu Dhabi Sport 2">
-    <title lang="ar">Program: Rufaqaa AL Darb 2019</title>
-    <desc lang="ar">Program: Rufaqaa AL Darb 2019: Ep 5.</desc>
+  <programme start="20190128100000 +0000" stop="20190128110000 +0000" channel="Abu Dhabi Sport 1">
+    <title lang="ar">Max Power (Ar) 2017</title>
+    <desc lang="ar">Max Power (Ar) 2017: Ep 100.(n)</desc>
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
   </programme>
-  <programme start="20190125060000 +0000" stop="20190125082500 +0000" channel="Abu Dhabi Sport 2">
-    <title lang="ar">Program : Sabah Swehan 2019</title>
-    <desc lang="ar">Program : Sabah Swehan 2019: Ep 6.</desc>
+  <programme start="20190128110000 +0000" stop="20190128113000 +0000" channel="Abu Dhabi Sport 1">
+    <title lang="ar">Football Stars (Ar)</title>
+    <desc lang="ar">Football Stars (Ar): Ep 21.(n)</desc>
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
   </programme>
-  <programme start="20190125082500 +0000" stop="20190125090000 +0000" channel="Abu Dhabi Sport 2">
-    <title lang="ar">Friday Prayer 2019</title>
-    <desc lang="ar">Friday Prayer 2019: Ep 1.</desc>
+  <programme start="20190128113000 +0000" stop="20190128120000 +0000" channel="Abu Dhabi Sport 1">
+    <title lang="ar">The Outdoor Sports Show (Ar) 2018</title>
+    <desc lang="ar">The Outdoor Sports Show (Ar) 2018: Ep 8.(n)</desc>
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
   </programme>
-  <programme start="20190125090000 +0000" stop="20190125093000 +0000" channel="Abu Dhabi Sport 2">
-    <title lang="ar">Shakhsiyyat Fi Mi\\'awiyyat Zayed</title>
-    <desc lang="ar">A talk show portraying the biography of late Sheikh Zayed Bin Sultan Al Nahyan via dignitaries who accompanied His Highness during the various stages of his life.</desc>
+  <programme start="20190128120000 +0000" stop="20190128140000 +0000" channel="Abu Dhabi Sport 1">
+    <title lang="ar">Zayed Champions Cup 2018</title>
+    <desc lang="ar">Zayed Champions Cup 2018 : Ep 49.(n)</desc>
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
   </programme>
-  <programme start="20190125093000 +0000" stop="20190125100000 +0000" channel="Abu Dhabi Sport 2">
-    <title lang="ar">Turathuna Al-Taleed</title>
-    <desc lang="ar">An informative depiction exploring the history and beauty of Emirati folklore handicrafts, arts, heritage and aspects of folklife.</desc>
+  <programme start="20190128140000 +0000" stop="20190128160000 +0000" channel="Abu Dhabi Sport 1">
+    <title lang="ar">Program : Asia Fe Darena 2019</title>
+    <desc lang="ar">Program : Asia Fe Darena 2019: Ep 24.(n)</desc>
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
   </programme>
-  <programme start="20190125100000 +0000" stop="20190125120000 +0000" channel="Abu Dhabi Sport 2">
-    <title lang="ar">Evening Studio: Swehan 2019</title>
-    <desc lang="ar">Evening Studio: Swehan 2019: Ep 6.</desc>
+  <programme start="20190128160000 +0000" stop="20190128170000 +0000" channel="Abu Dhabi Sport 1">
+    <title lang="ar">Trans World Sport</title>
+    <desc lang="ar">A roundup of sports news and action from around the world.(n)</desc>
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
   </programme>
-  <programme start="20190125120000 +0000" stop="20190125124500 +0000" channel="Abu Dhabi Sport 2">
-    <title lang="ar">Shakhsiyyat Fi Mi\\'awiyyat Zayed</title>
-    <desc lang="ar">A talk show portraying the biography of late Sheikh Zayed Bin Sultan Al Nahyan via dignitaries who accompanied His Highness during the various stages of his life.</desc>
+  <programme start="20190128170000 +0000" stop="20190128190000 +0000" channel="Abu Dhabi Sport 1">
+    <title lang="ar">Program : Hona Al Emarart 2019</title>
+    <desc lang="ar">Program : Hona Al Emarart 2019: Ep 24.(n)</desc>
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
   </programme>
-  <programme start="20190125124500 +0000" stop="20190125133000 +0000" channel="Abu Dhabi Sport 2">
-    <title lang="ar">Turathuna Al-Taleed</title>
-    <desc lang="ar">An informative depiction exploring the history and beauty of Emirati folklore handicrafts, arts, heritage and aspects of folklife.</desc>
+  <programme start="20190128190000 +0000" stop="20190128210000 +0000" channel="Abu Dhabi Sport 1">
+    <title lang="ar">Program : Asia Fe Darena 2019</title>
+    <desc lang="ar">Program : Asia Fe Darena 2019: Ep 25.(n)</desc>
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
   </programme>
-  <programme start="20190125133000 +0000" stop="20190125143000 +0000" channel="Abu Dhabi Sport 2">
-    <title lang="ar">Program: Dewan Zayed 2019</title>
-    <desc lang="ar">Program: Dewan Zayed 2019: Ep 6</desc>
+  <programme start="20190128210000 +0000" stop="20190128230000 +0000" channel="Abu Dhabi Sport 1">
+    <title lang="ar">Program : Hona Al Emarart 2019</title>
+    <desc lang="ar">Program : Hona Al Emarart 2019: Ep 24.(n)</desc>
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
   </programme>
-  <programme start="20190125143000 +0000" stop="20190125153000 +0000" channel="Abu Dhabi Sport 2">
-    <title lang="ar">AL Souq AL Shabee Swehan2019</title>
-    <desc lang="ar">AL Souq AL Shabee Swehan2019: Ep 6</desc>
-    <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
-  </programme>
-  <programme start="20190125153000 +0000" stop="20190125163000 +0000" channel="Abu Dhabi Sport 2">
-    <title lang="ar">Program: Rufaqaa AL Darb 2019</title>
-    <desc lang="ar">Program: Rufaqaa AL Darb 2019: Ep 6</desc>
-    <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
-  </programme>
-  <programme start="20190125163000 +0000" stop="20190125170000 +0000" channel="Abu Dhabi Sport 2">
-    <title lang="ar">Shakhsiyyat Fi Mi\\'awiyyat Zayed</title>
-    <desc lang="ar">A talk show portraying the biography of late Sheikh Zayed Bin Sultan Al Nahyan via dignitaries who accompanied His Highness during the various stages of his life.</desc>
-    <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
-  </programme>
-  <programme start="20190125170000 +0000" stop="20190125190000 +0000" channel="Abu Dhabi Sport 2">
-    <title lang="ar">Hafalat Swehan 2019</title>
-    <desc lang="ar">Hafalat Swehan 2019: Ep 1.</desc>
-    <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
-  </programme>
-  <programme start="20190125190000 +0000" stop="20190125193000 +0000" channel="Abu Dhabi Sport 2">
-    <title lang="ar">Turathuna Al-Taleed</title>
-    <desc lang="ar">An informative depiction exploring the history and beauty of Emirati folklore handicrafts, arts, heritage and aspects of folklife.</desc>
-    <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
-  </programme>
-  <programme start="20190125193000 +0000" stop="20190125200000 +0000" channel="Abu Dhabi Sport 2">
-    <title lang="ar">Shakhsiyyat Fi Mi\\'awiyyat Zayed</title>
-    <desc lang="ar">A talk show portraying the biography of late Sheikh Zayed Bin Sultan Al Nahyan via dignitaries who accompanied His Highness during the various stages of his life.</desc>
-    <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
-  </programme>
-  <programme start="20190125200000 +0000" stop="20190125220000 +0000" channel="Abu Dhabi Sport 2">
-    <title lang="ar">Evening Studio: Swehan 2019</title>
-    <desc lang="ar">Evening Studio: Swehan 2019: Ep 6.</desc>
-    <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
-  </programme>
-  <programme start="20190125220000 +0000" stop="20190125224500 +0000" channel="Abu Dhabi Sport 2">
-    <title lang="ar">Turathuna Al-Taleed</title>
-    <desc lang="ar">An informative depiction exploring the history and beauty of Emirati folklore handicrafts, arts, heritage and aspects of folklife.</desc>
-    <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
-  </programme>
-  <programme start="20190125224500 +0000" stop="20190125233000 +0000" channel="Abu Dhabi Sport 2">
-    <title lang="ar">Shakhsiyyat Fi Mi\\'awiyyat Zayed</title>
-    <desc lang="ar">A talk show portraying the biography of late Sheikh Zayed Bin Sultan Al Nahyan via dignitaries who accompanied His Highness during the various stages of his life.</desc>
-    <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
-  </programme>
-  <programme start="20190125233000 +0000" stop="20190126003000 +0000" channel="Abu Dhabi Sport 2">
-    <title lang="ar">Program: Dewan Zayed 2019</title>
-    <desc lang="ar">Program: Dewan Zayed 2019: Ep 6.</desc>
+  <programme start="20190128230000 +0000" stop="20190129000000 +0000" channel="Abu Dhabi Sport 1">
+    <title lang="ar">Max Power (Ar) 2017</title>
+    <desc lang="ar">Max Power (Ar) 2017: Ep 100.(n)</desc>
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
   </programme>
   <programme start="20190126003000 +0000" stop="20190126013000 +0000" channel="Abu Dhabi Sport 2">
@@ -806,17 +696,17 @@
   </programme>
   <programme start="20190126050000 +0000" stop="20190126090000 +0000" channel="Abu Dhabi Sport 2">
     <title lang="ar">Morning Studio: Swehan 2019</title>
-    <desc lang="ar">Morning Studio: Swehan 2019: Ep 7.(c)</desc>
+    <desc lang="ar">Morning Studio: Swehan 2019: Ep 7.</desc>
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
   </programme>
   <programme start="20190126090000 +0000" stop="20190126093000 +0000" channel="Abu Dhabi Sport 2">
     <title lang="ar">Sultan Bin Zayed Heritage Festival 2019 - Event</title>
-    <desc lang="ar">Sultan Bin Zayed Heritage Festival 2019 -: Ep 2.(c)</desc>
+    <desc lang="ar">Sultan Bin Zayed Heritage Festival 2019 -: Ep 2.</desc>
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
   </programme>
   <programme start="20190126093000 +0000" stop="20190126100000 +0000" channel="Abu Dhabi Sport 2">
     <title lang="ar">Morning Studio: Swehan 2019</title>
-    <desc lang="ar">Morning Studio: Swehan 2019: Ep 7.(c)</desc>
+    <desc lang="ar">Morning Studio: Swehan 2019: Ep 7.</desc>
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
   </programme>
   <programme start="20190126100000 +0000" stop="20190126103000 +0000" channel="Abu Dhabi Sport 2">
@@ -836,7 +726,7 @@
   </programme>
   <programme start="20190126123000 +0000" stop="20190126130000 +0000" channel="Abu Dhabi Sport 2">
     <title lang="ar">Sultan Bin Zayed Heritage Festival 2019 - Event</title>
-    <desc lang="ar">Sultan Bin Zayed Heritage Festival 2019 -: Ep 2.(c)</desc>
+    <desc lang="ar">Sultan Bin Zayed Heritage Festival 2019 -: Ep 2.</desc>
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
   </programme>
   <programme start="20190126130000 +0000" stop="20190126133000 +0000" channel="Abu Dhabi Sport 2">
@@ -871,17 +761,17 @@
   </programme>
   <programme start="20190126183000 +0000" stop="20190126190000 +0000" channel="Abu Dhabi Sport 2">
     <title lang="ar">Shakhsiyyat Fi Mi\\'awiyyat Zayed</title>
-    <desc lang="ar">A talk show portraying the biography of late Sheikh Zayed Bin Sultan Al Nahyan via dignitaries who accompanied His Highness during the various stages of his life.(c)</desc>
+    <desc lang="ar">A talk show portraying the biography of late Sheikh Zayed Bin Sultan Al Nahyan via dignitaries who accompanied His Highness during the various stages of his life.</desc>
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
   </programme>
   <programme start="20190126190000 +0000" stop="20190126193000 +0000" channel="Abu Dhabi Sport 2">
     <title lang="ar">Sultan Bin Zayed Heritage Festival 2019 - Event</title>
-    <desc lang="ar">Sultan Bin Zayed Heritage Festival 2019 -: Ep 2.(c)</desc>
+    <desc lang="ar">Sultan Bin Zayed Heritage Festival 2019 -: Ep 2.</desc>
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
   </programme>
   <programme start="20190126193000 +0000" stop="20190126200000 +0000" channel="Abu Dhabi Sport 2">
     <title lang="ar">Turathuna Al-Taleed</title>
-    <desc lang="ar">An informative depiction exploring the history and beauty of Emirati folklore handicrafts, arts, heritage and aspects of folklife.(c)</desc>
+    <desc lang="ar">An informative depiction exploring the history and beauty of Emirati folklore handicrafts, arts, heritage and aspects of folklife.</desc>
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
   </programme>
   <programme start="20190126200000 +0000" stop="20190126213000 +0000" channel="Abu Dhabi Sport 2">
@@ -906,107 +796,229 @@
   </programme>
   <programme start="20190127003000 +0000" stop="20190127010000 +0000" channel="Abu Dhabi Sport 2">
     <title lang="ar">Shakhsiyyat Fi Mi\\'awiyyat Zayed</title>
-    <desc lang="ar">A talk show portraying the biography of late Sheikh Zayed Bin Sultan Al Nahyan via dignitaries who accompanied His Highness during the various stages of his life.(n)</desc>
+    <desc lang="ar">A talk show portraying the biography of late Sheikh Zayed Bin Sultan Al Nahyan via dignitaries who accompanied His Highness during the various stages of his life.</desc>
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
   </programme>
   <programme start="20190127010000 +0000" stop="20190127023000 +0000" channel="Abu Dhabi Sport 2">
     <title lang="ar">Program : Oloum Swehan 2019</title>
-    <desc lang="ar">Program : Oloum Swehan 2019: Ep 7.(n)</desc>
+    <desc lang="ar">Program : Oloum Swehan 2019: Ep 7.</desc>
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
   </programme>
   <programme start="20190127023000 +0000" stop="20190127030000 +0000" channel="Abu Dhabi Sport 2">
     <title lang="ar">Sultan Bin Zayed Heritage Festival 2019 (H\/L)</title>
-    <desc lang="ar">Sultan Bin Zayed Heritage Festival 2019 (H: Ep 7.(n)</desc>
+    <desc lang="ar">Sultan Bin Zayed Heritage Festival 2019 (H: Ep 7.</desc>
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
   </programme>
   <programme start="20190127030000 +0000" stop="20190127050000 +0000" channel="Abu Dhabi Sport 2">
     <title lang="ar">Program : Sabah Swehan 2019</title>
-    <desc lang="ar">Program : Sabah Swehan 2019: Ep 8.(n)</desc>
+    <desc lang="ar">Program : Sabah Swehan 2019: Ep 8.</desc>
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
   </programme>
   <programme start="20190127050000 +0000" stop="20190127100000 +0000" channel="Abu Dhabi Sport 2">
     <title lang="ar">Morning Studio: Swehan 2019</title>
-    <desc lang="ar">Morning Studio: Swehan 2019: Ep 8.(n)</desc>
+    <desc lang="ar">Morning Studio: Swehan 2019: Ep 8.</desc>
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
   </programme>
   <programme start="20190127100000 +0000" stop="20190127103000 +0000" channel="Abu Dhabi Sport 2">
     <title lang="ar">Shakhsiyyat Fi Mi\\'awiyyat Zayed</title>
-    <desc lang="ar">A talk show portraying the biography of late Sheikh Zayed Bin Sultan Al Nahyan via dignitaries who accompanied His Highness during the various stages of his life.(n)</desc>
+    <desc lang="ar">A talk show portraying the biography of late Sheikh Zayed Bin Sultan Al Nahyan via dignitaries who accompanied His Highness during the various stages of his life.</desc>
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
   </programme>
   <programme start="20190127103000 +0000" stop="20190127110000 +0000" channel="Abu Dhabi Sport 2">
     <title lang="ar">Turathuna Al-Taleed</title>
-    <desc lang="ar">An informative depiction exploring the history and beauty of Emirati folklore handicrafts, arts, heritage and aspects of folklife.(n)</desc>
+    <desc lang="ar">An informative depiction exploring the history and beauty of Emirati folklore handicrafts, arts, heritage and aspects of folklife.</desc>
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
   </programme>
   <programme start="20190127110000 +0000" stop="20190127123000 +0000" channel="Abu Dhabi Sport 2">
     <title lang="ar">Evening Studio: Swehan 2019</title>
-    <desc lang="ar">Evening Studio: Swehan 2019: Ep 8.(n)</desc>
+    <desc lang="ar">Evening Studio: Swehan 2019: Ep 8.</desc>
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
   </programme>
   <programme start="20190127123000 +0000" stop="20190127130000 +0000" channel="Abu Dhabi Sport 2">
     <title lang="ar">Shakhsiyyat Fi Mi\\'awiyyat Zayed</title>
-    <desc lang="ar">A talk show portraying the biography of late Sheikh Zayed Bin Sultan Al Nahyan via dignitaries who accompanied His Highness during the various stages of his life.(n)</desc>
+    <desc lang="ar">A talk show portraying the biography of late Sheikh Zayed Bin Sultan Al Nahyan via dignitaries who accompanied His Highness during the various stages of his life.</desc>
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
   </programme>
   <programme start="20190127130000 +0000" stop="20190127133000 +0000" channel="Abu Dhabi Sport 2">
     <title lang="ar">Turathuna Al-Taleed</title>
-    <desc lang="ar">An informative depiction exploring the history and beauty of Emirati folklore handicrafts, arts, heritage and aspects of folklife.(n)</desc>
+    <desc lang="ar">An informative depiction exploring the history and beauty of Emirati folklore handicrafts, arts, heritage and aspects of folklife.</desc>
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
   </programme>
   <programme start="20190127133000 +0000" stop="20190127143000 +0000" channel="Abu Dhabi Sport 2">
     <title lang="ar">Program: Dewan Zayed 2019</title>
-    <desc lang="ar">Program: Dewan Zayed 2019: Ep 8.(n)</desc>
+    <desc lang="ar">Program: Dewan Zayed 2019: Ep 8.</desc>
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
   </programme>
   <programme start="20190127143000 +0000" stop="20190127153000 +0000" channel="Abu Dhabi Sport 2">
     <title lang="ar">AL Souq AL Shabee Swehan2019</title>
-    <desc lang="ar">AL Souq AL Shabee Swehan2019: Ep 8.(n)</desc>
+    <desc lang="ar">AL Souq AL Shabee Swehan2019: Ep 8.</desc>
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
   </programme>
   <programme start="20190127153000 +0000" stop="20190127163000 +0000" channel="Abu Dhabi Sport 2">
     <title lang="ar">Program: Rufaqaa AL Darb 2019</title>
-    <desc lang="ar">Program: Rufaqaa AL Darb 2019: Ep 8.(n)</desc>
+    <desc lang="ar">Program: Rufaqaa AL Darb 2019: Ep 8.</desc>
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
   </programme>
   <programme start="20190127163000 +0000" stop="20190127180000 +0000" channel="Abu Dhabi Sport 2">
     <title lang="ar">Program : Oloum Swehan 2019</title>
-    <desc lang="ar">Program : Oloum Swehan 2019: Ep 8.(n)</desc>
+    <desc lang="ar">Program : Oloum Swehan 2019: Ep 8.</desc>
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
   </programme>
   <programme start="20190127180000 +0000" stop="20190127183000 +0000" channel="Abu Dhabi Sport 2">
     <title lang="ar">Sultan Bin Zayed Heritage Festival 2019 (H\/L)</title>
-    <desc lang="ar">Sultan Bin Zayed Heritage Festival 2019 (H: Ep 8.(n)</desc>
+    <desc lang="ar">Sultan Bin Zayed Heritage Festival 2019 (H: Ep 8.</desc>
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
   </programme>
   <programme start="20190127183000 +0000" stop="20190127191500 +0000" channel="Abu Dhabi Sport 2">
     <title lang="ar">Shakhsiyyat Fi Mi\\'awiyyat Zayed</title>
-    <desc lang="ar">A talk show portraying the biography of late Sheikh Zayed Bin Sultan Al Nahyan via dignitaries who accompanied His Highness during the various stages of his life.(n)</desc>
+    <desc lang="ar">A talk show portraying the biography of late Sheikh Zayed Bin Sultan Al Nahyan via dignitaries who accompanied His Highness during the various stages of his life.</desc>
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
   </programme>
   <programme start="20190127191500 +0000" stop="20190127200000 +0000" channel="Abu Dhabi Sport 2">
     <title lang="ar">Turathuna Al-Taleed</title>
-    <desc lang="ar">An informative depiction exploring the history and beauty of Emirati folklore handicrafts, arts, heritage and aspects of folklife.(n)</desc>
+    <desc lang="ar">An informative depiction exploring the history and beauty of Emirati folklore handicrafts, arts, heritage and aspects of folklife.</desc>
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
   </programme>
   <programme start="20190127200000 +0000" stop="20190127213000 +0000" channel="Abu Dhabi Sport 2">
     <title lang="ar">Evening Studio: Swehan 2019</title>
-    <desc lang="ar">Evening Studio: Swehan 2019: Ep 8.(n)</desc>
+    <desc lang="ar">Evening Studio: Swehan 2019: Ep 8.</desc>
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
   </programme>
   <programme start="20190127213000 +0000" stop="20190127223000 +0000" channel="Abu Dhabi Sport 2">
     <title lang="ar">Program: Dewan Zayed 2019</title>
-    <desc lang="ar">Program: Dewan Zayed 2019: Ep 8.(n)</desc>
+    <desc lang="ar">Program: Dewan Zayed 2019: Ep 8.</desc>
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
   </programme>
   <programme start="20190127223000 +0000" stop="20190127233000 +0000" channel="Abu Dhabi Sport 2">
     <title lang="ar">AL Souq AL Shabee Swehan2019</title>
-    <desc lang="ar">AL Souq AL Shabee Swehan2019: Ep 8.(n)</desc>
+    <desc lang="ar">AL Souq AL Shabee Swehan2019: Ep 8.</desc>
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
   </programme>
   <programme start="20190127233000 +0000" stop="20190128003000 +0000" channel="Abu Dhabi Sport 2">
     <title lang="ar">Program: Rufaqaa AL Darb 2019</title>
-    <desc lang="ar">Program: Rufaqaa AL Darb 2019: Ep 8.(n)</desc>
+    <desc lang="ar">Program: Rufaqaa AL Darb 2019: Ep 8.</desc>
     <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
+  </programme>
+  <programme start="20190128003000 +0000" stop="20190128010000 +0000" channel="Abu Dhabi Sport 2">
+    <title lang="ar">Shakhsiyyat Fi Mi\\'awiyyat Zayed</title>
+    <desc lang="ar">A talk show portraying the biography of late Sheikh Zayed Bin Sultan Al Nahyan via dignitaries who accompanied His Highness during the various stages of his life.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
+  </programme>
+  <programme start="20190128010000 +0000" stop="20190128023000 +0000" channel="Abu Dhabi Sport 2">
+    <title lang="ar">Program : Oloum Swehan 2019</title>
+    <desc lang="ar">Program : Oloum Swehan 2019: Ep 8.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
+  </programme>
+  <programme start="20190128023000 +0000" stop="20190128030000 +0000" channel="Abu Dhabi Sport 2">
+    <title lang="ar">Sultan Bin Zayed Heritage Festival 2019 (H\/L)</title>
+    <desc lang="ar">Sultan Bin Zayed Heritage Festival 2019 (H: Ep 8.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
+  </programme>
+  <programme start="20190128030000 +0000" stop="20190128050000 +0000" channel="Abu Dhabi Sport 2">
+    <title lang="ar">Program : Sabah Swehan 2019</title>
+    <desc lang="ar">Program : Sabah Swehan 2019: Ep 9.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
+  </programme>
+  <programme start="20190128050000 +0000" stop="20190128100000 +0000" channel="Abu Dhabi Sport 2">
+    <title lang="ar">Morning Studio: Swehan 2019</title>
+    <desc lang="ar">Morning Studio: Swehan 2019: Ep 9.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
+  </programme>
+  <programme start="20190128100000 +0000" stop="20190128103000 +0000" channel="Abu Dhabi Sport 2">
+    <title lang="ar">Shakhsiyyat Fi Mi\\'awiyyat Zayed</title>
+    <desc lang="ar">A talk show portraying the biography of late Sheikh Zayed Bin Sultan Al Nahyan via dignitaries who accompanied His Highness during the various stages of his life.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
+  </programme>
+  <programme start="20190128103000 +0000" stop="20190128110000 +0000" channel="Abu Dhabi Sport 2">
+    <title lang="ar">Turathuna Al-Taleed</title>
+    <desc lang="ar">An informative depiction exploring the history and beauty of Emirati folklore handicrafts, arts, heritage and aspects of folklife.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
+  </programme>
+  <programme start="20190128110000 +0000" stop="20190128123000 +0000" channel="Abu Dhabi Sport 2">
+    <title lang="ar">Evening Studio: Swehan 2019</title>
+    <desc lang="ar">Evening Studio: Swehan 2019: Ep 9.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
+  </programme>
+  <programme start="20190128123000 +0000" stop="20190128130000 +0000" channel="Abu Dhabi Sport 2">
+    <title lang="ar">Shakhsiyyat Fi Mi\\'awiyyat Zayed</title>
+    <desc lang="ar">A talk show portraying the biography of late Sheikh Zayed Bin Sultan Al Nahyan via dignitaries who accompanied His Highness during the various stages of his life.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
+  </programme>
+  <programme start="20190128130000 +0000" stop="20190128133000 +0000" channel="Abu Dhabi Sport 2">
+    <title lang="ar">Turathuna Al-Taleed</title>
+    <desc lang="ar">An informative depiction exploring the history and beauty of Emirati folklore handicrafts, arts, heritage and aspects of folklife.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
+  </programme>
+  <programme start="20190128133000 +0000" stop="20190128143000 +0000" channel="Abu Dhabi Sport 2">
+    <title lang="ar">Program: Dewan Zayed 2019</title>
+    <desc lang="ar">Program: Dewan Zayed 2019: Ep 9.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
+  </programme>
+  <programme start="20190128143000 +0000" stop="20190128153000 +0000" channel="Abu Dhabi Sport 2">
+    <title lang="ar">AL Souq AL Shabee Swehan2019</title>
+    <desc lang="ar">AL Souq AL Shabee Swehan2019: Ep 9.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
+  </programme>
+  <programme start="20190128153000 +0000" stop="20190128163000 +0000" channel="Abu Dhabi Sport 2">
+    <title lang="ar">Program: Rufaqaa AL Darb 2019</title>
+    <desc lang="ar">Program: Rufaqaa AL Darb 2019: Ep 9.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
+  </programme>
+  <programme start="20190128163000 +0000" stop="20190128180000 +0000" channel="Abu Dhabi Sport 2">
+    <title lang="ar">Program : Oloum Swehan 2019</title>
+    <desc lang="ar">Program : Oloum Swehan 2019: Ep 9.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
+  </programme>
+  <programme start="20190128180000 +0000" stop="20190128183000 +0000" channel="Abu Dhabi Sport 2">
+    <title lang="ar">Sultan Bin Zayed Heritage Festival 2019 (H\/L)</title>
+    <desc lang="ar">Sultan Bin Zayed Heritage Festival 2019 (H: Ep 9.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
+  </programme>
+  <programme start="20190128183000 +0000" stop="20190128191500 +0000" channel="Abu Dhabi Sport 2">
+    <title lang="ar">Shakhsiyyat Fi Mi\\'awiyyat Zayed</title>
+    <desc lang="ar">A talk show portraying the biography of late Sheikh Zayed Bin Sultan Al Nahyan via dignitaries who accompanied His Highness during the various stages of his life.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
+  </programme>
+  <programme start="20190128191500 +0000" stop="20190128200000 +0000" channel="Abu Dhabi Sport 2">
+    <title lang="ar">Turathuna Al-Taleed</title>
+    <desc lang="ar">An informative depiction exploring the history and beauty of Emirati folklore handicrafts, arts, heritage and aspects of folklife.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
+  </programme>
+  <programme start="20190128200000 +0000" stop="20190128213000 +0000" channel="Abu Dhabi Sport 2">
+    <title lang="ar">Evening Studio: Swehan 2019</title>
+    <desc lang="ar">Evening Studio: Swehan 2019: Ep 9.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
+  </programme>
+  <programme start="20190128213000 +0000" stop="20190128223000 +0000" channel="Abu Dhabi Sport 2">
+    <title lang="ar">Program: Dewan Zayed 2019</title>
+    <desc lang="ar">Program: Dewan Zayed 2019: Ep 9.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
+  </programme>
+  <programme start="20190128223000 +0000" stop="20190128233000 +0000" channel="Abu Dhabi Sport 2">
+    <title lang="ar">AL Souq AL Shabee Swehan2019</title>
+    <desc lang="ar">AL Souq AL Shabee Swehan2019: Ep 9.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
+  </programme>
+  <programme start="20190128233000 +0000" stop="20190129003000 +0000" channel="Abu Dhabi Sport 2">
+    <title lang="ar">Program: Rufaqaa AL Darb 2019</title>
+    <desc lang="ar">Program: Rufaqaa AL Darb 2019: Ep 9.(n)</desc>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/" />
+  </programme>
+  <programme start="20190126220000 +0000" stop="20190126230000 +0000" channel="MBC 1 HD">
+    <title lang="ar">معالى المواطن</title>
+    <desc lang="ar">اضاءة مختلفة على مختلف القضايا يتم التطرق اليها بمشاركة ضيوف مختصين لمواكبة الأحداث بموضوعية وجرأة، بالاضافة الى تصحيح بعض المفاهيم الشائعة الخاطئة. ويتسم البرنامج بمزج الفن بالواقع من خلال عرض اغاني تفاعلية، فضلا عن دوره بتغيير حياة بعض الأشخاص.(n)</desc>
+    <credits>
+      <actor>علي العلياني</actor>
+    </credits>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/178764456.1234567890-.jpg" />
+  </programme>
+  <programme start="20190126230000 +0000" stop="20190127000000 +0000" channel="MBC 1 HD">
+    <title lang="ar">سامحني خطيت</title>
+    <desc lang="ar">فقدت (ميسم) والدتها في عمر مبكر، فترعرعت في كنف والدها مما جعله كل ما تملك، ولكن بعد رفض والدها لزواجها من رجل بسيط تحبه، تنقلب حياتها رأساً على عقب.(n)</desc>
+    <credits>
+      <actor>جاسم النبهان</actor>
+      <actor>شجون</actor>
+    </credits>
+    <icon src="http://stream.minisat.net/epg.data/upload/pictures/198694841.7.jpg" />
   </programme>
 </tv>
