@@ -231,10 +231,7 @@
 |![icon](http://content.osn.com/logo/channel/cropped/GEO.png)|GEO TV|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/MAS.png)|Masala TV|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/KIR.png)|Kiran TV|http://www.osn.com|
-|![icon](http://content.osn.com/logo/channel/cropped/URD.png)|Urdu 1|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/STV.png)|Sun TV|http://www.osn.com|
-|![icon](http://content.osn.com/logo/channel/cropped/SVI.png)|Star Vijay International|http://www.osn.com|
-|![icon](http://content.osn.com/logo/channel/cropped/ASN.png)|Asianet|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/SUR.png)|Surya TV|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/UDA.png)|Udaya TV|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/STJ.png)|Star Jalsha|http://www.osn.com|
