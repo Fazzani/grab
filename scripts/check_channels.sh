@@ -7,6 +7,7 @@
 #______________________________________________________________________________
 
 source $(dirname $0)/utils.sh
+OLDIFS=$IFS
 
 # Check if command installed
 command -v xmllint >/dev/null 2>&1 || { echoError "libxml2-utils required but it's not installed.  Aborting." >&2; exit 1; }
@@ -23,7 +24,7 @@ function checkChannels {
     if [ ! -z "$1" ]; then
 	  fileInput="$1"
     else
-	  echoError "no fileinput detected"
+	  echoError "input file arg required!"
 	  fileInput="guide.xmltv"
     fi
 
@@ -55,9 +56,24 @@ function checkChannels {
     if [ $countErrors -ne 0 ];then
       echoError "Channels without programs count : $countErrors"
       echo
+      declare -a listchannelsWithUrl=()
+
+      # save and change IFS
+      IFS=$'\n'
+
+      for mp in $listChannels; 
+      do
+        url=$(xmlstarlet sel -t -v "//channel[@id=${mp}]/url" $fileInput)
+        listchannelsWithUrl+=($(echo "{\"name\":$mp, \"url\":\"$url\"},"))
+      done
+
+      # restore it
+      IFS=$OLDIFS
+      listchannelsWithUrl=$(echo "${listchannelsWithUrl[@]}" | sed -e '$s/,$//')
+      echo ${listchannelsWithUrl}
 
       echo "{\"filename\":\"$fileInput\",\"total\":$total,\"missed\":$countErrors,\"missedlist\":" >> $4
-      res=$(echo "[${listChannels}]}," | sed -e 's/\"$/",/g')
+      res=$(echo "[${listchannelsWithUrl}]},")
       echo $res | column
       echo "${res}" >> $4
      # mes="<h4>Cheacking file $fileInput </h4><br/> $countErrors channels without programmes was detected : <br/>"
@@ -94,7 +110,7 @@ outputfile_missing_prog="out/check_missing_programs.json"
 
 #vider les fichiers output
 echo "" > $outputfile > $outputfile_json
-echo "{\"created_date\":\"$now\",\"id\":\"${2:-1}\",\"sources\":[" > $outputfile_missing_prog
+echo "{\"created_date\":\"$now\",\"id\":\"1\",\"sources\":[" > $outputfile_missing_prog
 #convert encoding to utf-8
 echo -ne '\xEF\xBB\xBF' > $outputfile
 #file -i $outputfile
@@ -125,12 +141,12 @@ echo -e "\r\n" >> readme.md
 cat $outputfile_json | jq -r '.tv.channel[] | [ .id, .url, .icon.src ] | @csv' | tr -d \" | \
 awk -v FS="," 'BEGIN{printf "|Icon|Channel|Site|\n";printf "|:----|:---:|:---:|\n"}{printf "|![icon](%s)|%s|%s|\n",$3,$1,$2}' >>  readme.md
 
-#curl \
-#-H "Accept: application/json" \
-#-H "Content-Type:application/json" \
-#-X POST --data @<( cat $outputfile_json ) https://api.myjson.com/bins 
+# curl \
+# -H "Accept: application/json" \
+# -H "Content-Type:application/json" \
+# -X POST --data @<( cat $outputfile_json ) https://api.myjson.com/bins 
 
-# Push to Git
+#Push to Git
 push_to_git $outputfile $outputfile_json $outputfile_missing_prog readme.md
 
 echo -e  "The End.${NC}"
