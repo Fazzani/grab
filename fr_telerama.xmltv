@@ -336,6 +336,11 @@
   </programme>
   <programme start="20190203224000 +0100" stop="20190203234000 +0100" channel="AB 3">
     <title lang="fr">Reporters (?)</title>
+    <credits>
+      <presenter>Antoine Cormery</presenter>
+      <presenter>Michaël Miraglia</presenter>
+      <presenter>Rebecca Fitoussi</presenter>
+    </credits>
     <category lang="fr">Magazine de reportages</category>
   </programme>
   <programme start="20190203234000 +0100" stop="20190204003500 +0100" channel="AB 3">
@@ -349,6 +354,9 @@
   </programme>
   <programme start="20190204003500 +0100" stop="20190204020000 +0100" channel="AB 3">
     <title lang="fr">Crimes (?)</title>
+    <credits>
+      <presenter>Jean-Marc Morandini</presenter>
+    </credits>
     <category lang="fr">Magazine de société</category>
   </programme>
   <programme start="20190204101000 +0100" stop="20190204111000 +0100" channel="AB 3">
@@ -361,15 +369,41 @@
   </programme>
   <programme start="20190204133000 +0100" stop="20190204145500 +0100" channel="AB 3">
     <title lang="fr">Divorce sous surveillance (?)</title>
+    <credits>
+      <director>Kevin L Powers</director>
+      <actor>Bianca Lawson 
+ 
+ Julie</actor>
+      <actor>Brendan Fehr 
+ 
+ Tyler</actor>
+      <actor>Costas Mandylor 
+ 
+ l'inspecteur Morrison</actor>
+      <actor>Michael Patrick McGill 
+ 
+ l'inspecteur Baker</actor>
+      <actor>Neil Jackson 
+ 
+ Sam</actor>
+      <actor>Paul Johansson 
+ 
+ Rick</actor>
+      <actor>Stephany Jacobsen 
+ 
+ Allison</actor>
+    </credits>
     <category lang="fr">Téléfilm de suspense</category>
   </programme>
   <programme start="20190204215500 +0100" stop="20190204233500 +0100" channel="AB 3">
-    <title lang="fr">Dangereuse séduction (?)</title>
+    <title lang="fr">Dangereuse séduction</title>
+    <desc lang="fr">Rowena est une journaliste d'investigation. Lorsqu'elle découvre que Harrison Hill, le très puissant publicitaire, est peut-être lié au meurtre de son amie, elle décide de mener son enquête. Pour ce faire et pour l'approcher, elle va endosser deux identités, celle de Katherine, une intérimaire employée dans sa société et celle de Veronica, une jeune femme avec laquelle Hill flirte sur internet.(r)</desc>
     <category lang="fr">Film</category>
+    <icon src="https://www.telerama.fr/sites/tr_master/files/6ae8e09e-df01-433a-bc11-f1f1aa67dd5c_2.jpg" />
   </programme>
   <programme start="20190204233500 +0100" stop="20190205014500 +0100" channel="AB 3">
     <title lang="fr">Terminator 2 : le jugement dernier</title>
-    <desc lang="fr">Après l'immense embrasement nucléaire du 29 août 1997, les rares humains survivants, menés par John Connor, luttent sans relâche contre l'armée de robots dirigée par Skynet, un ordinateur surpuissant. Skynet tente d'abord d'éliminer Sarah Connor, la mère de John, grâce à un cyborg projeté en 1984, mais en vain. Il transfère alors dans le passé un deuxième robot, T1000, et l'envoie à l'époque où John Connor n'était encore qu'un enfant. T1000, machine meurtrière constituée de métal liquide, peut se métamorphoser à volonté. En réponse, les humains envoient dans le passé un modèle plus ancien de Terminator, qui doit désormais assurer la protection de John...(n)</desc>
+    <desc lang="fr">Après l'immense embrasement nucléaire du 29 août 1997, les rares humains survivants, menés par John Connor, luttent sans relâche contre l'armée de robots dirigée par Skynet, un ordinateur surpuissant. Skynet tente d'abord d'éliminer Sarah Connor, la mère de John, grâce à un cyborg projeté en 1984, mais en vain. Il transfère alors dans le passé un deuxième robot, T1000, et l'envoie à l'époque où John Connor n'était encore qu'un enfant. T1000, machine meurtrière constituée de métal liquide, peut se métamorphoser à volonté. En réponse, les humains envoient dans le passé un modèle plus ancien de Terminator, qui doit désormais assurer la protection de John...</desc>
     <category lang="fr">Film</category>
     <icon src="https://www.telerama.fr/sites/tr_master/files/a8032881-ebfe-473b-9247-46851ed95315_2.jpg" />
   </programme>
