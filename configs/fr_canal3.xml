@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<settings>
+  <filename>/data/fr_canal2.xmltv</filename>
+  <mode>m</mode>
+  <postprocess run="n" grab="y">mdb</postprocess>
+  <proxy>automatic</proxy>
+  <user-agent>Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; yie9)</user-agent>
+  <logging>on</logging>
+  <retry time-out="15">1</retry>
+  <skip>12,1</skip>
+  <timespan>2</timespan>
+  <update>i</update>
+  
+  <channel update="i" site="canalsat.fr" site_id="274" xmltv_id="DISNEY JUNIOR">DISNEY JUNIOR</channel>
+  <channel update="i" site="canalsat.fr" site_id="576" xmltv_id="PIWI+">PIWI+</channel>
+  <channel update="i" site="canalsat.fr" site_id="593" xmltv_id="NICKELODEON JUNIOR">NICKELODEON JUNIOR</channel>
+  <channel update="i" site="canalsat.fr" site_id="583" xmltv_id="TIJI">TIJI</channel>
+  <channel update="i" site="canalsat.fr" site_id="530" xmltv_id="BOOMERANG">BOOMERANG</channel>
+  <channel update="i" site="canalsat.fr" site_id="502" xmltv_id="CARTOON NETWORK">CARTOON NETWORK</channel>
+  <channel update="i" site="canalsat.fr" site_id="591" xmltv_id="NICKELODEON">NICKELODEON</channel>
+  <channel update="i" site="canalsat.fr" site_id="581" xmltv_id="TELETOON+">TELETOON+</channel>
+  <channel update="i" site="canalsat.fr" site_id="284" xmltv_id="DISNEY XD">DISNEY XD</channel>
+  <channel update="i" site="canalsat.fr" site_id="525" xmltv_id="CANAL J">CANAL J</channel>
+  <channel update="i" site="canalsat.fr" site_id="529" xmltv_id="BOING">BOING</channel>
+  <channel update="i" site="canalsat.fr" site_id="683" xmltv_id="TOONAMI">TOONAMI</channel>
+  <channel update="i" site="canalsat.fr" site_id="518" xmltv_id="NICKELODEON TEEN">NICKELODEON TEEN</channel>
+  <channel update="i" site="canalsat.fr" site_id="282" xmltv_id="DISNEY CHANNEL">DISNEY CHANNEL</channel>
+  <channel update="i" site="canalsat.fr" site_id="549" xmltv_id="GULLI">GULLI</channel>
+  <channel update="i" site="canalsat.fr" site_id="629" xmltv_id="MTV HITS">MTV HITS</channel>
+  <channel update="i" site="canalsat.fr" site_id="534" xmltv_id="COMEDIE+">COMEDIE+</channel>
+  <channel update="i" site="canalsat.fr" site_id="692" xmltv_id="POLAR+">POLAR+</channel>
+  <channel update="i" site="canalsat.fr" site_id="694" xmltv_id="WARNER TV">WARNER TV</channel>
+  <channel update="i" site="canalsat.fr" site_id="356" xmltv_id="SERIE CLUB">SERIE CLUB</channel>
+  <channel update="i" site="canalsat.fr" site_id="524" xmltv_id="ELLE GIRL">ELLE GIRL</channel>
+  <channel update="i" site="canalsat.fr" site_id="434" xmltv_id="NON STOP PEOPLE">NON STOP PEOPLE</channel>
+  <channel update="i" site="canalsat.fr" site_id="693" xmltv_id="NOVELAS TV">NOVELAS TV</channel>
+  <channel update="i" site="canalsat.fr" site_id="484" xmltv_id="J-ONE">J-ONE</channel>
+  <channel update="i" site="canalsat.fr" site_id="611" xmltv_id="AB1">AB1</channel>
+  <channel update="i" site="canalsat.fr" site_id="586" xmltv_id="TV BREIZH">TV BREIZH</channel>
+  <channel update="i" site="canalsat.fr" site_id="292" xmltv_id="TEVA">TEVA</channel>
+  <channel update="i" site="canalsat.fr" site_id="294" xmltv_id="PARIS PREMIERE">PARIS PREMIERE</channel>
+  <channel update="i" site="canalsat.fr" site_id="505" xmltv_id="RTL9">RTL9</channel>
+  <channel update="i" site="canalsat.fr" site_id="628" xmltv_id="BET">BET</channel>
+  <channel update="i" site="canalsat.fr" site_id="450" xmltv_id="C8">C8</channel>
+  <channel update="i" site="canalsat.fr" site_id="296" xmltv_id="W9">W9</channel>
+  <channel update="i" site="canalsat.fr" site_id="584" xmltv_id="TMC">TMC</channel>
+  <channel update="i" site="canalsat.fr" site_id="570" xmltv_id="TFX">TFX</channel>
+  <channel update="i" site="canalsat.fr" site_id="568" xmltv_id="NRJ 12">NRJ 12</channel>
+  <channel update="i" site="canalsat.fr" site_id="544" xmltv_id="FRANCE 4">FRANCE 4</channel>
+  <channel update="i" site="canalsat.fr" site_id="513" xmltv_id="CSTAR">CSTAR</channel>
+  
+</settings>
