@@ -161,8 +161,8 @@
 |![icon](http://content.osn.com/logo/channel/cropped/ARH.png)|Alarabiya|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/FRA.png)|France 24|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/CTA.png)|CCTV Arabic|http://www.osn.com|
-|![icon]()|Discovery HD|http://www.osn.com|
-|![icon]()|Discovery Family HD|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/DSC.png)|Discovery HD|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/DCF.png)|Discovery Family HD|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/OM1.png)|OSN Movies HD|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/OM1.png)|OSN Movies First HD|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/OMX.png)|OSN Movies First HD +2h|http://www.osn.com|
