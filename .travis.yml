@@ -43,7 +43,7 @@ jobs:
     - git remote add origin2 https://${GITHUB_API_TOKEN}@github.com/fazzani/grab.git > /dev/null 2>&1
     - git add merge.tar.gz && git add merge.zip && git commit -m "compression and merging xmltv files and pushing them to GITHUB. Triggred by $TRAVIS_EVENT_TYPE"
     - git pull origin2 HEAD:master
-    - git merge -X theirs HEAD:master && git push origin2 HEAD:master
+    - git merge -X ours HEAD:master && git push origin2 HEAD:master
   - stage: Update readme
     name: Update readme
     before_script:
