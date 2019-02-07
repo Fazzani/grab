@@ -261,6 +261,36 @@
     <date>2008</date>
     <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
   </programme>
+  <programme start="20190208160000 +0100" stop="20190208170000 +0100" channel="Sada El Balad">
+    <title lang="en">Al Mizan</title>
+    <credits>
+      <director>Ahmed Khaled Mousa</director>
+      <director>طارق زهران</director>
+      <actor>Ghada Adel</actor>
+      <actor>Basel Khayat</actor>
+      <actor>Mohamed Farrag</actor>
+      <actor>Ahmed Fahmy</actor>
+      <actor>Nahed Elsebai</actor>
+      <actor>Sabry Fawaz</actor>
+      <writer>Baher Dewidar</writer>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Genre</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Mystery</category>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_652d109b9084afba8e916a01a9dd7adbfecfd70bac9d74608f9df1d0f998beb6.jpg" />
+    <rating system="EG">
+      <value>7.6</value>
+    </rating>
+  </programme>
+  <programme start="20190208170000 +0100" stop="20190208180000 +0100" channel="Sada El Balad">
+    <title lang="en">news room</title>
+    <date>2013</date>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_fba38c88db430b3b65d3b55463f85b667406a673dbb5a078f8fd17c7e38c62c9.jpg" />
+    <rating system="EG">
+      <value>4.3</value>
+    </rating>
+  </programme>
   <programme start="20190207000000 +0100" stop="20190207000000 +0100" channel="ON E">
     <title lang="en">برنامج
             
@@ -345,6 +375,44 @@
     <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_c66ba0d75a79c48168ad33c8597f7e35c38b243e75bf344d308df2eb47f204de.jpg" />
     <rating system="EG">
       <value>7.3</value>
+    </rating>
+  </programme>
+  <programme start="20190207140000 +0100" stop="20190207150000 +0100" channel="ON E">
+    <title lang="en">Al Hakika w Al Sarab</title>
+    <credits>
+      <director>Magdy Abou Emira</director>
+      <director>نهلة فاروق</director>
+      <actor>Fify Abdo</actor>
+      <actor>Youssef Shabaan</actor>
+      <actor>Mai Ezz-eldin</actor>
+      <actor>Khayria Ahmed</actor>
+      <actor>Ahmed Said Abdel Ghany</actor>
+      <actor>Riham Abdul Ghafour</actor>
+      <writer>Samah El Hariry</writer>
+    </credits>
+    <date>2003</date>
+    <category lang="en">Genre</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Family</category>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_c66ba0d75a79c48168ad33c8597f7e35c38b243e75bf344d308df2eb47f204de.jpg" />
+    <rating system="EG">
+      <value>7.3</value>
+    </rating>
+  </programme>
+  <programme start="20190207150000 +0100" stop="20190207160000 +0100" channel="ON E">
+    <title lang="en">Good hearts</title>
+    <date>0</date>
+    <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
+    <rating system="EG">
+      <value>4.3</value>
+    </rating>
+  </programme>
+  <programme start="20190207160000 +0100" stop="20190207180000 +0100" channel="ON E">
+    <title lang="en">Women talks</title>
+    <date>2018</date>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_5c30600b5007630a62ea065ca5a3f7fdfe416174334a9ccf26627a1932b29643.jpg" />
+    <rating system="EG">
+      <value>5.8</value>
     </rating>
   </programme>
   <programme start="20190207070000 +0100" stop="20190207083000 +0100" channel="Amman">
@@ -1259,7 +1327,7 @@
   </programme>
   <programme start="20190208170000 +0100" stop="20190208175000 +0100" channel="Al Jadeed TV">
     <title lang="en">Enaya Moshadada</title>
-    <desc lang="en">The series follows a group of social and romantic stories that took place between 2013 and 2014 in Syria, during the political turmoil that followed the revolution.(n)</desc>
+    <desc lang="en">The series follows a group of social and romantic stories that took place between 2013 and 2014 in Syria, during the political turmoil that followed the revolution.</desc>
     <credits>
       <director>نضال عبيد</director>
       <director>Ahmed Ibrahim Ahmed</director>
@@ -1322,60 +1390,6 @@
     <rating system="EG">
       <value>8.2</value>
     </rating>
-  </programme>
-  <programme start="20190207000000 +0100" stop="20190207000000 +0100" channel="Al Kahera Wal Nas TV">
-    <title lang="en">برنامج
-            
-              11:00  PM
-              [60 minutes]</title>
-  </programme>
-  <programme start="20190207000000 +0100" stop="20190207000000 +0100" channel="Al Kahera Wal Nas TV">
-    <title lang="en">برنامج
-            
-              12:00  AM
-              [60 minutes]</title>
-  </programme>
-  <programme start="20190207000000 +0100" stop="20190207000000 +0100" channel="Al Kahera Wal Nas TV">
-    <title lang="en">برنامج
-            
-              01:00  AM
-              [60 minutes]</title>
-  </programme>
-  <programme start="20190207000000 +0100" stop="20190207000000 +0100" channel="Al Kahera Wal Nas TV">
-    <title lang="en">برنامج
-            
-              02:00  AM
-              [60 minutes]</title>
-  </programme>
-  <programme start="20190207000000 +0100" stop="20190207000000 +0100" channel="Al Kahera Wal Nas TV">
-    <title lang="en">برنامج
-            
-              03:00  AM
-              [60 minutes]</title>
-  </programme>
-  <programme start="20190207000000 +0100" stop="20190207000000 +0100" channel="Al Kahera Wal Nas TV">
-    <title lang="en">برنامج
-            
-              04:00  AM
-              [60 minutes]</title>
-  </programme>
-  <programme start="20190207000000 +0100" stop="20190207000000 +0100" channel="Al Kahera Wal Nas TV">
-    <title lang="en">برنامج
-            
-              05:00  AM
-              [60 minutes]</title>
-  </programme>
-  <programme start="20190207000000 +0100" stop="20190207000000 +0100" channel="Al Kahera Wal Nas TV">
-    <title lang="en">نشرة المصري اليوم
-            
-              06:00  AM
-              [60 minutes]</title>
-  </programme>
-  <programme start="20190207000000 +0100" stop="20190207000000 +0100" channel="Al Kahera Wal Nas TV">
-    <title lang="en">برنامج
-            
-              07:00  AM
-              [60 minutes]</title>
   </programme>
   <programme start="20190207000000 +0100" stop="20190207000000 +0100" channel="Al Kahera Wal Nas TV">
     <title lang="en">برنامج
@@ -1543,6 +1557,17 @@
     </credits>
     <date>0</date>
     <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_abbc34cdd47700283b19036778152ad5da9913c2ed436601ef27c1ec32011719.jpg" />
+  </programme>
+  <programme start="20190208161500 +0100" stop="20190208170000 +0100" channel="Al sharqya">
+    <title lang="en">kahrmana</title>
+    <date>2017</date>
+    <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
+  </programme>
+  <programme start="20190207000000 +0100" stop="20190207000000 +0100" channel="Zee alwan">
+    <title lang="en">Simply Beautiful S1 EP 10
+            
+              08:30  AM
+              [30 minutes]</title>
   </programme>
   <programme start="20190207000000 +0100" stop="20190207003000 +0100" channel="Zee alwan">
     <title lang="en">Al-bayt Al-kaber</title>
@@ -2387,7 +2412,7 @@
   </programme>
   <programme start="20190208030000 +0100" stop="20190208033000 +0100" channel="Zee alwan">
     <title lang="en">Julia</title>
-    <desc lang="en">'Julia' chronicles around the romantic life of a doctor, who has many problems because of his ex-wife, especially after she finds out about his relationship with another woman.(n)</desc>
+    <desc lang="en">'Julia' chronicles around the romantic life of a doctor, who has many problems because of his ex-wife, especially after she finds out about his relationship with another woman.</desc>
     <credits>
       <director>Elie F. Habib</director>
       <director>سالم الحدشيتي</director>
@@ -2411,7 +2436,7 @@
   </programme>
   <programme start="20190208033000 +0100" stop="20190208040000 +0100" channel="Zee alwan">
     <title lang="en">Julia</title>
-    <desc lang="en">'Julia' chronicles around the romantic life of a doctor, who has many problems because of his ex-wife, especially after she finds out about his relationship with another woman.(n)</desc>
+    <desc lang="en">'Julia' chronicles around the romantic life of a doctor, who has many problems because of his ex-wife, especially after she finds out about his relationship with another woman.</desc>
     <credits>
       <director>Elie F. Habib</director>
       <director>سالم الحدشيتي</director>
@@ -2449,6 +2474,66 @@
     <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_473496663dc3e45deeef9bb2a43d49a36e267a70b7e8988448a2fe141480baae.jpg" />
     <rating system="EG">
       <value>4.8</value>
+    </rating>
+  </programme>
+  <programme start="20190208043000 +0100" stop="20190208050000 +0100" channel="Zee alwan">
+    <title lang="en">Qadari Bela Lawn</title>
+    <credits>
+      <director>Ramesh Pandey</director>
+      <actor>Ruhana Khanna</actor>
+      <actor>Aditi Sharma</actor>
+      <actor>Vishal Vashishtha</actor>
+      <writer>Zaman Habib</writer>
+      <writer>Rajita Sharma</writer>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Genre</category>
+    <category lang="en">Drama</category>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_473496663dc3e45deeef9bb2a43d49a36e267a70b7e8988448a2fe141480baae.jpg" />
+    <rating system="EG">
+      <value>4.8</value>
+    </rating>
+  </programme>
+  <programme start="20190208050000 +0100" stop="20190208053000 +0100" channel="Zee alwan">
+    <title lang="en">El-Waq Waq</title>
+    <desc lang="en">This show tells the story of three totally different people who, by pure coincidence, end up together on an island. Thus they have to set their differences aside in order to survive on this island, not to mention that they have to vote for one of them to be their leader.(g)</desc>
+    <credits>
+      <director>Laith Hijo</director>
+      <actor>Bassem Yakhour</actor>
+      <actor>Shukran Murtaja</actor>
+      <actor>Rashid Assaf</actor>
+      <actor>Mohamed Haddaki</actor>
+      <actor>Road Aliu</actor>
+      <actor>Ahmad AlAhmad</actor>
+      <writer>Mamdouh Hamada</writer>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Genre</category>
+    <category lang="en">Comedy</category>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_38a20c4585aa995940338f921ac23ed9a9ca7e8c52c19790aceeee54cda9a4ef.jpg" />
+    <rating system="EG">
+      <value>5.3</value>
+    </rating>
+  </programme>
+  <programme start="20190208053000 +0100" stop="20190208060000 +0100" channel="Zee alwan">
+    <title lang="en">El-Waq Waq</title>
+    <desc lang="en">This show tells the story of three totally different people who, by pure coincidence, end up together on an island. Thus they have to set their differences aside in order to survive on this island, not to mention that they have to vote for one of them to be their leader.(g)</desc>
+    <credits>
+      <director>Laith Hijo</director>
+      <actor>Bassem Yakhour</actor>
+      <actor>Shukran Murtaja</actor>
+      <actor>Rashid Assaf</actor>
+      <actor>Mohamed Haddaki</actor>
+      <actor>Road Aliu</actor>
+      <actor>Ahmad AlAhmad</actor>
+      <writer>Mamdouh Hamada</writer>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Genre</category>
+    <category lang="en">Comedy</category>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_38a20c4585aa995940338f921ac23ed9a9ca7e8c52c19790aceeee54cda9a4ef.jpg" />
+    <rating system="EG">
+      <value>5.3</value>
     </rating>
   </programme>
   <programme start="20190208060000 +0100" stop="20190208063000 +0100" channel="Zee alwan">
@@ -2507,6 +2592,24 @@
     </rating>
   </programme>
   <programme start="20190208090000 +0100" stop="20190208093000 +0100" channel="Zee alwan">
+    <title lang="en">Qadari Bela Lawn</title>
+    <credits>
+      <director>Ramesh Pandey</director>
+      <actor>Ruhana Khanna</actor>
+      <actor>Aditi Sharma</actor>
+      <actor>Vishal Vashishtha</actor>
+      <writer>Zaman Habib</writer>
+      <writer>Rajita Sharma</writer>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Genre</category>
+    <category lang="en">Drama</category>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_473496663dc3e45deeef9bb2a43d49a36e267a70b7e8988448a2fe141480baae.jpg" />
+    <rating system="EG">
+      <value>4.8</value>
+    </rating>
+  </programme>
+  <programme start="20190208093000 +0100" stop="20190208100000 +0100" channel="Zee alwan">
     <title lang="en">Qadari Bela Lawn</title>
     <credits>
       <director>Ramesh Pandey</director>
@@ -2712,7 +2815,7 @@
   </programme>
   <programme start="20190208160000 +0100" stop="20190208163000 +0100" channel="Zee alwan">
     <title lang="en">Julia</title>
-    <desc lang="en">'Julia' chronicles around the romantic life of a doctor, who has many problems because of his ex-wife, especially after she finds out about his relationship with another woman.(n)</desc>
+    <desc lang="en">'Julia' chronicles around the romantic life of a doctor, who has many problems because of his ex-wife, especially after she finds out about his relationship with another woman.</desc>
     <credits>
       <director>Elie F. Habib</director>
       <director>سالم الحدشيتي</director>
@@ -2736,7 +2839,7 @@
   </programme>
   <programme start="20190208163000 +0100" stop="20190208170000 +0100" channel="Zee alwan">
     <title lang="en">Julia</title>
-    <desc lang="en">'Julia' chronicles around the romantic life of a doctor, who has many problems because of his ex-wife, especially after she finds out about his relationship with another woman.(n)</desc>
+    <desc lang="en">'Julia' chronicles around the romantic life of a doctor, who has many problems because of his ex-wife, especially after she finds out about his relationship with another woman.</desc>
     <credits>
       <director>Elie F. Habib</director>
       <director>سالم الحدشيتي</director>
@@ -3149,6 +3252,26 @@
     <date>2018</date>
     <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_fae9e9aa130ac8c101998aeb9634a0cf14160609cc604d4688d8593adeb75c64.jpg" />
   </programme>
+  <programme start="20190207203000 +0100" stop="20190207210000 +0100" channel="Roya">
+    <title lang="en">Clear confusion</title>
+    <credits>
+      <director>Nasser Ja'roun</director>
+    </credits>
+    <date>2018</date>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_ea33926463b06db59c38411ba03c33758edefd7b52ba083956799845f6f9a83b.jpg" />
+  </programme>
+  <programme start="20190207210000 +0100" stop="20190207213000 +0100" channel="Roya">
+    <title lang="en">09:00  PM
+            [30 minutes] (?)</title>
+    <date>2017</date>
+    <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
+  </programme>
+  <programme start="20190207213000 +0100" stop="20190207220000 +0100" channel="Roya">
+    <title lang="en">09:30  PM
+            [30 minutes] (?)</title>
+    <date>2018</date>
+    <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
+  </programme>
   <programme start="20190207230000 +0100" stop="20190208000000 +0100" channel="Roya">
     <title lang="en">State Pulse</title>
     <date>2018</date>
@@ -3185,7 +3308,7 @@
   </programme>
   <programme start="20190208113000 +0100" stop="20190208123000 +0100" channel="Roya">
     <title lang="en">Tareeq</title>
-    <desc lang="en">The show tells the story of two people from two different social classes who fall in love. Their unusual relationship develops and they eventually get married. Will their differences affect their marriage.(n)</desc>
+    <desc lang="en">The show tells the story of two people from two different social classes who fall in love. Their unusual relationship develops and they eventually get married. Will their differences affect their marriage.</desc>
     <credits>
       <director>Rasha Sharbatgy</director>
       <director>وسيم بدر</director>
@@ -3209,7 +3332,7 @@
   </programme>
   <programme start="20190208163000 +0100" stop="20190208173000 +0100" channel="Roya">
     <title lang="en">Tareeq</title>
-    <desc lang="en">The show tells the story of two people from two different social classes who fall in love. Their unusual relationship develops and they eventually get married. Will their differences affect their marriage.(n)</desc>
+    <desc lang="en">The show tells the story of two people from two different social classes who fall in love. Their unusual relationship develops and they eventually get married. Will their differences affect their marriage.</desc>
     <credits>
       <director>Rasha Sharbatgy</director>
       <director>وسيم بدر</director>
@@ -3251,17 +3374,13 @@
     <date>2018</date>
     <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/blank_photos/315x420.jpg" />
   </programme>
-  <programme start="20190207000000 +0100" stop="20190207000000 +0100" channel="Mehwar">
-    <title lang="en">برنامج
-            
-              11:00  PM
-              [60 minutes]</title>
-  </programme>
-  <programme start="20190207000000 +0100" stop="20190207000000 +0100" channel="Mehwar">
-    <title lang="en">برنامج
-            
-              12:00  AM
-              [60 minutes]</title>
+  <programme start="20190208233000 +0100" stop="20190209000000 +0100" channel="Roya">
+    <title lang="en">Girls' Night Out</title>
+    <credits>
+      <writer>ثريا حمده</writer>
+    </credits>
+    <date>2018</date>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_902b569fac1a7684eeb7bc1790e379af872ed6567f504bb7dbb4472e8b179e9f.jpg" />
   </programme>
   <programme start="20190207053000 +0100" stop="20190207073000 +0100" channel="Alhayat TV">
     <title lang="en">05:30  AM
@@ -3381,6 +3500,19 @@
       <value>4.3</value>
     </rating>
   </programme>
+  <programme start="20190208150000 +0100" stop="20190208160000 +0100" channel="Alhayat TV">
+    <title lang="en">Ashraf's Cafe</title>
+    <credits>
+      <director>Amr Aziz</director>
+      <writer>Eiad Saleh</writer>
+      <writer>طارق الشورى</writer>
+    </credits>
+    <date>2018</date>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_8e093e2ad43006f5e0dbd3e8b34b003fa22e27128c14dd0bce870d45029cb8e9.jpg" />
+    <rating system="EG">
+      <value>5.8</value>
+    </rating>
+  </programme>
   <programme start="20190208210000 +0100" stop="20190208220000 +0100" channel="Alhayat TV">
     <title lang="en">Cocktail tape</title>
     <credits>
@@ -3392,30 +3524,6 @@
     <category lang="en">Genre</category>
     <category lang="en">Musical</category>
     <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_7f6b0856ffecb66bfb09c36038d59b99a3286d1f1f21a8f4c3d1367254b313a5.jpg" />
-  </programme>
-  <programme start="20190207000000 +0100" stop="20190207000000 +0100" channel="Sharjah TV">
-    <title lang="en">برنامج
-            
-              11:00  PM
-              [120 minutes]</title>
-  </programme>
-  <programme start="20190207000000 +0100" stop="20190207000000 +0100" channel="Sharjah TV">
-    <title lang="en">برنامج
-            
-              01:00  AM
-              [120 minutes]</title>
-  </programme>
-  <programme start="20190207000000 +0100" stop="20190207000000 +0100" channel="Sharjah TV">
-    <title lang="en">برنامج
-            
-              03:00  AM
-              [120 minutes]</title>
-  </programme>
-  <programme start="20190207000000 +0100" stop="20190207000000 +0100" channel="Sharjah TV">
-    <title lang="en">برنامج
-            
-              05:00  AM
-              [90 minutes]</title>
   </programme>
   <programme start="20190207063000 +0100" stop="20190207070000 +0100" channel="Sharjah TV">
     <title lang="en">Pioneers</title>
@@ -4235,7 +4343,22 @@
       <value>7</value>
     </rating>
   </programme>
-  <programme start="20190208120000 +0100" stop="20190208130000 +0100" channel="Lana">
+  <programme start="20190208120000 +0100" stop="20190208123000 +0100" channel="Lana">
+    <title lang="en">Hermanos</title>
+    <credits>
+      <director>Joaquín Llamas</director>
+      <director>Salvador Calvo</director>
+      <actor>Antonio Velázquez</actor>
+      <actor>María Valverde</actor>
+      <actor>Alvaro Cervantes</actor>
+      <actor>Sonia Almarcha</actor>
+      <writer>Adela Gutiérrez</writer>
+      <writer>Antonio Hernández Centeno</writer>
+    </credits>
+    <date>2014</date>
+    <icon src="http://photo.elcinema.com.s3.amazonaws.com/uploads/_315x420_9559d4820547ed9ae812dc2d0a93a451357c0b297a91563c6b66c33af3c255f0.jpg" />
+  </programme>
+  <programme start="20190208123000 +0100" stop="20190208130000 +0100" channel="Lana">
     <title lang="en">Hermanos</title>
     <credits>
       <director>Joaquín Llamas</director>
@@ -4958,7 +5081,7 @@
   </programme>
   <programme start="20190208000000 +0100" stop="20190208010000 +0100" channel="Sada El Balad Drama">
     <title lang="en">A'd Tanazoly</title>
-    <desc lang="en">This police television drama revolves around Salim (Amaro Youssef) and his wife (Kinda Alloush) who live an average, stable life. However, their lives are disrupted when Salim ends up in a situation that forces him to commit numerous crimes. This is when Lieutenant Hamza (Tareq Lotfy) enters the scene to chase down Salim, setting the events in motion.(n)</desc>
+    <desc lang="en">This police television drama revolves around Salim (Amaro Youssef) and his wife (Kinda Alloush) who live an average, stable life. However, their lives are disrupted when Salim ends up in a situation that forces him to commit numerous crimes. This is when Lieutenant Hamza (Tareq Lotfy) enters the scene to chase down Salim, setting the events in motion.</desc>
     <credits>
       <director>Hussien El Menbawy</director>
       <actor>Tarek Lotfy</actor>
@@ -4980,7 +5103,7 @@
   </programme>
   <programme start="20190208010000 +0100" stop="20190208020000 +0100" channel="Sada El Balad Drama">
     <title lang="en">Elsabaa Wasaya</title>
-    <desc lang="en">The storyline of this series revolves around seven brothers who have been estranged for years, each having followed his own path. After the death of their father, the brothers are reunited and uncover a commandment left to them by their late father. Before long, all of their lives are turned upside down as they work to carry out the commandment in the face of numerous obstacles. The events that unfold reveal the true nature of the brothers and those around them.(n)</desc>
+    <desc lang="en">The storyline of this series revolves around seven brothers who have been estranged for years, each having followed his own path. After the death of their father, the brothers are reunited and uncover a commandment left to them by their late father. Before long, all of their lives are turned upside down as they work to carry out the commandment in the face of numerous obstacles. The events that unfold reveal the true nature of the brothers and those around them.</desc>
     <credits>
       <director>Essam Abdel Hamid</director>
       <director>Khaled Marei</director>
@@ -5002,7 +5125,7 @@
   </programme>
   <programme start="20190208020000 +0100" stop="20190208030000 +0100" channel="Sada El Balad Drama">
     <title lang="en">Al Sa'look</title>
-    <desc lang="en">The series follows a poor bagger living in a slum, who moves to work inside the mansion of a wealthy businessman. There, the businessman's daughter falls for the bagger, and events get complicated.(n)</desc>
+    <desc lang="en">The series follows a poor bagger living in a slum, who moves to work inside the mansion of a wealthy businessman. There, the businessman's daughter falls for the bagger, and events get complicated.</desc>
     <credits>
       <director>Hassan Alqenawy</director>
       <director>Ahmad Saleh</director>
@@ -5046,7 +5169,7 @@
   </programme>
   <programme start="20190208040000 +0100" stop="20190208050000 +0100" channel="Sada El Balad Drama">
     <title lang="en">Ittiham</title>
-    <desc lang="en">Reem (Mariam Fares) suffers from extreme poverty. A hustler chases her down in order to recruit her to work for him. The man succeeds in capturing her and escapes with Reem to Cairo, where becomes part the pimp’s network and undertake numerous relationships with businessmen across the city.(n)</desc>
+    <desc lang="en">Reem (Mariam Fares) suffers from extreme poverty. A hustler chases her down in order to recruit her to work for him. The man succeeds in capturing her and escapes with Reem to Cairo, where becomes part the pimp’s network and undertake numerous relationships with businessmen across the city.</desc>
     <credits>
       <director>Philip Asmar</director>
       <actor>Myriam Fares</actor>
@@ -5067,7 +5190,7 @@
   </programme>
   <programme start="20190208050000 +0100" stop="20190208060000 +0100" channel="Sada El Balad Drama">
     <title lang="en">Taht El-saytara</title>
-    <desc lang="en">An action drama following the lives of drug addicts through two friends in a relationship with a girl, who helps them overcome their addiction.(n)</desc>
+    <desc lang="en">An action drama following the lives of drug addicts through two friends in a relationship with a girl, who helps them overcome their addiction.</desc>
     <credits>
       <director>Tamer Mohsen</director>
       <director>Eslam Wifky</director>
@@ -5095,7 +5218,7 @@
   </programme>
   <programme start="20190208070000 +0100" stop="20190208080000 +0100" channel="Sada El Balad Drama">
     <title lang="en">A'd Tanazoly</title>
-    <desc lang="en">This police television drama revolves around Salim (Amaro Youssef) and his wife (Kinda Alloush) who live an average, stable life. However, their lives are disrupted when Salim ends up in a situation that forces him to commit numerous crimes. This is when Lieutenant Hamza (Tareq Lotfy) enters the scene to chase down Salim, setting the events in motion.(n)</desc>
+    <desc lang="en">This police television drama revolves around Salim (Amaro Youssef) and his wife (Kinda Alloush) who live an average, stable life. However, their lives are disrupted when Salim ends up in a situation that forces him to commit numerous crimes. This is when Lieutenant Hamza (Tareq Lotfy) enters the scene to chase down Salim, setting the events in motion.</desc>
     <credits>
       <director>Hussien El Menbawy</director>
       <actor>Tarek Lotfy</actor>
@@ -5117,7 +5240,7 @@
   </programme>
   <programme start="20190208080000 +0100" stop="20190208090000 +0100" channel="Sada El Balad Drama">
     <title lang="en">Elsabaa Wasaya</title>
-    <desc lang="en">The storyline of this series revolves around seven brothers who have been estranged for years, each having followed his own path. After the death of their father, the brothers are reunited and uncover a commandment left to them by their late father. Before long, all of their lives are turned upside down as they work to carry out the commandment in the face of numerous obstacles. The events that unfold reveal the true nature of the brothers and those around them.(n)</desc>
+    <desc lang="en">The storyline of this series revolves around seven brothers who have been estranged for years, each having followed his own path. After the death of their father, the brothers are reunited and uncover a commandment left to them by their late father. Before long, all of their lives are turned upside down as they work to carry out the commandment in the face of numerous obstacles. The events that unfold reveal the true nature of the brothers and those around them.</desc>
     <credits>
       <director>Essam Abdel Hamid</director>
       <director>Khaled Marei</director>
@@ -5139,7 +5262,7 @@
   </programme>
   <programme start="20190208090000 +0100" stop="20190208100000 +0100" channel="Sada El Balad Drama">
     <title lang="en">Al Sa'look</title>
-    <desc lang="en">The series follows a poor bagger living in a slum, who moves to work inside the mansion of a wealthy businessman. There, the businessman's daughter falls for the bagger, and events get complicated.(n)</desc>
+    <desc lang="en">The series follows a poor bagger living in a slum, who moves to work inside the mansion of a wealthy businessman. There, the businessman's daughter falls for the bagger, and events get complicated.</desc>
     <credits>
       <director>Hassan Alqenawy</director>
       <director>Ahmad Saleh</director>
@@ -5161,7 +5284,7 @@
   </programme>
   <programme start="20190208100000 +0100" stop="20190208110000 +0100" channel="Sada El Balad Drama">
     <title lang="en">Ittiham</title>
-    <desc lang="en">Reem (Mariam Fares) suffers from extreme poverty. A hustler chases her down in order to recruit her to work for him. The man succeeds in capturing her and escapes with Reem to Cairo, where becomes part the pimp’s network and undertake numerous relationships with businessmen across the city.(n)</desc>
+    <desc lang="en">Reem (Mariam Fares) suffers from extreme poverty. A hustler chases her down in order to recruit her to work for him. The man succeeds in capturing her and escapes with Reem to Cairo, where becomes part the pimp’s network and undertake numerous relationships with businessmen across the city.</desc>
     <credits>
       <director>Philip Asmar</director>
       <actor>Myriam Fares</actor>
@@ -5182,7 +5305,7 @@
   </programme>
   <programme start="20190208110000 +0100" stop="20190208120000 +0100" channel="Sada El Balad Drama">
     <title lang="en">Taht El-saytara</title>
-    <desc lang="en">An action drama following the lives of drug addicts through two friends in a relationship with a girl, who helps them overcome their addiction.(n)</desc>
+    <desc lang="en">An action drama following the lives of drug addicts through two friends in a relationship with a girl, who helps them overcome their addiction.</desc>
     <credits>
       <director>Tamer Mohsen</director>
       <director>Eslam Wifky</director>
@@ -5210,7 +5333,7 @@
   </programme>
   <programme start="20190208130000 +0100" stop="20190208140000 +0100" channel="Sada El Balad Drama">
     <title lang="en">A'd Tanazoly</title>
-    <desc lang="en">This police television drama revolves around Salim (Amaro Youssef) and his wife (Kinda Alloush) who live an average, stable life. However, their lives are disrupted when Salim ends up in a situation that forces him to commit numerous crimes. This is when Lieutenant Hamza (Tareq Lotfy) enters the scene to chase down Salim, setting the events in motion.(n)</desc>
+    <desc lang="en">This police television drama revolves around Salim (Amaro Youssef) and his wife (Kinda Alloush) who live an average, stable life. However, their lives are disrupted when Salim ends up in a situation that forces him to commit numerous crimes. This is when Lieutenant Hamza (Tareq Lotfy) enters the scene to chase down Salim, setting the events in motion.</desc>
     <credits>
       <director>Hussien El Menbawy</director>
       <actor>Tarek Lotfy</actor>
@@ -5232,7 +5355,7 @@
   </programme>
   <programme start="20190208140000 +0100" stop="20190208150000 +0100" channel="Sada El Balad Drama">
     <title lang="en">Taht El-saytara</title>
-    <desc lang="en">An action drama following the lives of drug addicts through two friends in a relationship with a girl, who helps them overcome their addiction.(n)</desc>
+    <desc lang="en">An action drama following the lives of drug addicts through two friends in a relationship with a girl, who helps them overcome their addiction.</desc>
     <credits>
       <director>Tamer Mohsen</director>
       <director>Eslam Wifky</director>
@@ -5277,7 +5400,7 @@
   </programme>
   <programme start="20190208160000 +0100" stop="20190208170000 +0100" channel="Sada El Balad Drama">
     <title lang="en">Ittiham</title>
-    <desc lang="en">Reem (Mariam Fares) suffers from extreme poverty. A hustler chases her down in order to recruit her to work for him. The man succeeds in capturing her and escapes with Reem to Cairo, where becomes part the pimp’s network and undertake numerous relationships with businessmen across the city.(n)</desc>
+    <desc lang="en">Reem (Mariam Fares) suffers from extreme poverty. A hustler chases her down in order to recruit her to work for him. The man succeeds in capturing her and escapes with Reem to Cairo, where becomes part the pimp’s network and undertake numerous relationships with businessmen across the city.</desc>
     <credits>
       <director>Philip Asmar</director>
       <actor>Myriam Fares</actor>
@@ -5298,7 +5421,7 @@
   </programme>
   <programme start="20190208170000 +0100" stop="20190208180000 +0100" channel="Sada El Balad Drama">
     <title lang="en">A'd Tanazoly</title>
-    <desc lang="en">This police television drama revolves around Salim (Amaro Youssef) and his wife (Kinda Alloush) who live an average, stable life. However, their lives are disrupted when Salim ends up in a situation that forces him to commit numerous crimes. This is when Lieutenant Hamza (Tareq Lotfy) enters the scene to chase down Salim, setting the events in motion.(n)</desc>
+    <desc lang="en">This police television drama revolves around Salim (Amaro Youssef) and his wife (Kinda Alloush) who live an average, stable life. However, their lives are disrupted when Salim ends up in a situation that forces him to commit numerous crimes. This is when Lieutenant Hamza (Tareq Lotfy) enters the scene to chase down Salim, setting the events in motion.</desc>
     <credits>
       <director>Hussien El Menbawy</director>
       <actor>Tarek Lotfy</actor>
@@ -5320,7 +5443,7 @@
   </programme>
   <programme start="20190208180000 +0100" stop="20190208190000 +0100" channel="Sada El Balad Drama">
     <title lang="en">Elsabaa Wasaya</title>
-    <desc lang="en">The storyline of this series revolves around seven brothers who have been estranged for years, each having followed his own path. After the death of their father, the brothers are reunited and uncover a commandment left to them by their late father. Before long, all of their lives are turned upside down as they work to carry out the commandment in the face of numerous obstacles. The events that unfold reveal the true nature of the brothers and those around them.(n)</desc>
+    <desc lang="en">The storyline of this series revolves around seven brothers who have been estranged for years, each having followed his own path. After the death of their father, the brothers are reunited and uncover a commandment left to them by their late father. Before long, all of their lives are turned upside down as they work to carry out the commandment in the face of numerous obstacles. The events that unfold reveal the true nature of the brothers and those around them.</desc>
     <credits>
       <director>Essam Abdel Hamid</director>
       <director>Khaled Marei</director>
@@ -5342,7 +5465,7 @@
   </programme>
   <programme start="20190208190000 +0100" stop="20190208200000 +0100" channel="Sada El Balad Drama">
     <title lang="en">Al Sa'look</title>
-    <desc lang="en">The series follows a poor bagger living in a slum, who moves to work inside the mansion of a wealthy businessman. There, the businessman's daughter falls for the bagger, and events get complicated.(n)</desc>
+    <desc lang="en">The series follows a poor bagger living in a slum, who moves to work inside the mansion of a wealthy businessman. There, the businessman's daughter falls for the bagger, and events get complicated.</desc>
     <credits>
       <director>Hassan Alqenawy</director>
       <director>Ahmad Saleh</director>
@@ -5386,7 +5509,7 @@
   </programme>
   <programme start="20190208210000 +0100" stop="20190208220000 +0100" channel="Sada El Balad Drama">
     <title lang="en">Ittiham</title>
-    <desc lang="en">Reem (Mariam Fares) suffers from extreme poverty. A hustler chases her down in order to recruit her to work for him. The man succeeds in capturing her and escapes with Reem to Cairo, where becomes part the pimp’s network and undertake numerous relationships with businessmen across the city.(n)</desc>
+    <desc lang="en">Reem (Mariam Fares) suffers from extreme poverty. A hustler chases her down in order to recruit her to work for him. The man succeeds in capturing her and escapes with Reem to Cairo, where becomes part the pimp’s network and undertake numerous relationships with businessmen across the city.</desc>
     <credits>
       <director>Philip Asmar</director>
       <actor>Myriam Fares</actor>
@@ -5412,7 +5535,7 @@
   </programme>
   <programme start="20190208230000 +0100" stop="20190209000000 +0100" channel="Sada El Balad Drama">
     <title lang="en">Taht El-saytara</title>
-    <desc lang="en">An action drama following the lives of drug addicts through two friends in a relationship with a girl, who helps them overcome their addiction.(n)</desc>
+    <desc lang="en">An action drama following the lives of drug addicts through two friends in a relationship with a girl, who helps them overcome their addiction.</desc>
     <credits>
       <director>Tamer Mohsen</director>
       <director>Eslam Wifky</director>
@@ -5984,7 +6107,7 @@
   </programme>
   <programme start="20190208010000 +0100" stop="20190208020000 +0100" channel="ON Drama">
     <title lang="en">Gabal Al Halal</title>
-    <desc lang="en">This series revolves around a man who is known for his promiscuous behavior with women and his many marriages. He is involved in a various illegal activities involving weapons and antiquities, until he is shocked by a traumatic change in his life. This show captures the dramatic shifts that have occurred in Egypt over the last three years.(n)</desc>
+    <desc lang="en">This series revolves around a man who is known for his promiscuous behavior with women and his many marriages. He is involved in a various illegal activities involving weapons and antiquities, until he is shocked by a traumatic change in his life. This show captures the dramatic shifts that have occurred in Egypt over the last three years.</desc>
     <credits>
       <director>Adel Adeeb</director>
       <director>Hassan Alqenawy</director>
@@ -6116,7 +6239,7 @@
   </programme>
   <programme start="20190208070000 +0100" stop="20190208080000 +0100" channel="ON Drama">
     <title lang="en">Gabal Al Halal</title>
-    <desc lang="en">This series revolves around a man who is known for his promiscuous behavior with women and his many marriages. He is involved in a various illegal activities involving weapons and antiquities, until he is shocked by a traumatic change in his life. This show captures the dramatic shifts that have occurred in Egypt over the last three years.(n)</desc>
+    <desc lang="en">This series revolves around a man who is known for his promiscuous behavior with women and his many marriages. He is involved in a various illegal activities involving weapons and antiquities, until he is shocked by a traumatic change in his life. This show captures the dramatic shifts that have occurred in Egypt over the last three years.</desc>
     <credits>
       <director>Adel Adeeb</director>
       <director>Hassan Alqenawy</director>
@@ -6248,7 +6371,7 @@
   </programme>
   <programme start="20190208130000 +0100" stop="20190208140000 +0100" channel="ON Drama">
     <title lang="en">Gabal Al Halal</title>
-    <desc lang="en">This series revolves around a man who is known for his promiscuous behavior with women and his many marriages. He is involved in a various illegal activities involving weapons and antiquities, until he is shocked by a traumatic change in his life. This show captures the dramatic shifts that have occurred in Egypt over the last three years.(n)</desc>
+    <desc lang="en">This series revolves around a man who is known for his promiscuous behavior with women and his many marriages. He is involved in a various illegal activities involving weapons and antiquities, until he is shocked by a traumatic change in his life. This show captures the dramatic shifts that have occurred in Egypt over the last three years.</desc>
     <credits>
       <director>Adel Adeeb</director>
       <director>Hassan Alqenawy</director>
@@ -6380,7 +6503,7 @@
   </programme>
   <programme start="20190208190000 +0100" stop="20190208200000 +0100" channel="ON Drama">
     <title lang="en">Gabal Al Halal</title>
-    <desc lang="en">This series revolves around a man who is known for his promiscuous behavior with women and his many marriages. He is involved in a various illegal activities involving weapons and antiquities, until he is shocked by a traumatic change in his life. This show captures the dramatic shifts that have occurred in Egypt over the last three years.(n)</desc>
+    <desc lang="en">This series revolves around a man who is known for his promiscuous behavior with women and his many marriages. He is involved in a various illegal activities involving weapons and antiquities, until he is shocked by a traumatic change in his life. This show captures the dramatic shifts that have occurred in Egypt over the last three years.</desc>
     <credits>
       <director>Adel Adeeb</director>
       <director>Hassan Alqenawy</director>
@@ -7508,7 +7631,7 @@
   </programme>
   <programme start="20190208060000 +0100" stop="20190208070000 +0100" channel="DMC DRAMA">
     <title lang="en">Rahim</title>
-    <desc lang="en">The show deals with Rahim, a rich businessman, who works in money laundry and currency smuggling. After he gets out of a long prison sentence, he finds out that his men took all his money and drove his family away. He goes on a journey to find them and get his belongings back.(n)</desc>
+    <desc lang="en">The show deals with Rahim, a rich businessman, who works in money laundry and currency smuggling. After he gets out of a long prison sentence, he finds out that his men took all his money and drove his family away. He goes on a journey to find them and get his belongings back.</desc>
     <credits>
       <director>Mohamed Salama</director>
       <director>مها إمام</director>
@@ -7644,7 +7767,7 @@
   </programme>
   <programme start="20190208120000 +0100" stop="20190208130000 +0100" channel="DMC DRAMA">
     <title lang="en">Rahim</title>
-    <desc lang="en">The show deals with Rahim, a rich businessman, who works in money laundry and currency smuggling. After he gets out of a long prison sentence, he finds out that his men took all his money and drove his family away. He goes on a journey to find them and get his belongings back.(n)</desc>
+    <desc lang="en">The show deals with Rahim, a rich businessman, who works in money laundry and currency smuggling. After he gets out of a long prison sentence, he finds out that his men took all his money and drove his family away. He goes on a journey to find them and get his belongings back.</desc>
     <credits>
       <director>Mohamed Salama</director>
       <director>مها إمام</director>
@@ -7886,7 +8009,7 @@
   </programme>
   <programme start="20190208230000 +0100" stop="20190209000000 +0100" channel="DMC DRAMA">
     <title lang="en">Rahim</title>
-    <desc lang="en">The show deals with Rahim, a rich businessman, who works in money laundry and currency smuggling. After he gets out of a long prison sentence, he finds out that his men took all his money and drove his family away. He goes on a journey to find them and get his belongings back.(n)</desc>
+    <desc lang="en">The show deals with Rahim, a rich businessman, who works in money laundry and currency smuggling. After he gets out of a long prison sentence, he finds out that his men took all his money and drove his family away. He goes on a journey to find them and get his belongings back.</desc>
     <credits>
       <director>Mohamed Salama</director>
       <director>مها إمام</director>
@@ -8476,7 +8599,7 @@
   </programme>
   <programme start="20190208020000 +0100" stop="20190208030000 +0100" channel="Alhayat Series">
     <title lang="en">Zay El Ward</title>
-    <desc lang="en">The series revolves around "Ali"(actor Youssef El Sherif). He gets Unjustly imprisoned and after going out of jail he finds the woman of his dreams married to another man. He starts over and searches for a job. Afterwards he works for a businessman (Actor Salah Abdallah) and falls in love again with a girl but his social conditions prevents him from marrying her. He gets exposed to many problems and conflicts.(n)</desc>
+    <desc lang="en">The series revolves around "Ali"(actor Youssef El Sherif). He gets Unjustly imprisoned and after going out of jail he finds the woman of his dreams married to another man. He starts over and searches for a job. Afterwards he works for a businessman (Actor Salah Abdallah) and falls in love again with a girl but his social conditions prevents him from marrying her. He gets exposed to many problems and conflicts.</desc>
     <credits>
       <director>Saad Hendawy</director>
       <director>Ahmed Esaa</director>
@@ -8520,7 +8643,7 @@
   </programme>
   <programme start="20190208040000 +0100" stop="20190208050000 +0100" channel="Alhayat Series">
     <title lang="en">Bein AL Sarayat</title>
-    <desc lang="en">The series depicts the relationship between the University of Cairo, and education in general, with the town of Bein El Sarayat, where it stands.(n)</desc>
+    <desc lang="en">The series depicts the relationship between the University of Cairo, and education in general, with the town of Bein El Sarayat, where it stands.</desc>
     <credits>
       <director>SHaDY YouSSrY</director>
       <director>Sameh Abdelaziz</director>
@@ -8606,7 +8729,7 @@
   </programme>
   <programme start="20190208080000 +0100" stop="20190208090000 +0100" channel="Alhayat Series">
     <title lang="en">Zay El Ward</title>
-    <desc lang="en">The series revolves around "Ali"(actor Youssef El Sherif). He gets Unjustly imprisoned and after going out of jail he finds the woman of his dreams married to another man. He starts over and searches for a job. Afterwards he works for a businessman (Actor Salah Abdallah) and falls in love again with a girl but his social conditions prevents him from marrying her. He gets exposed to many problems and conflicts.(n)</desc>
+    <desc lang="en">The series revolves around "Ali"(actor Youssef El Sherif). He gets Unjustly imprisoned and after going out of jail he finds the woman of his dreams married to another man. He starts over and searches for a job. Afterwards he works for a businessman (Actor Salah Abdallah) and falls in love again with a girl but his social conditions prevents him from marrying her. He gets exposed to many problems and conflicts.</desc>
     <credits>
       <director>Saad Hendawy</director>
       <director>Ahmed Esaa</director>
@@ -8650,7 +8773,7 @@
   </programme>
   <programme start="20190208100000 +0100" stop="20190208110000 +0100" channel="Alhayat Series">
     <title lang="en">Bein AL Sarayat</title>
-    <desc lang="en">The series depicts the relationship between the University of Cairo, and education in general, with the town of Bein El Sarayat, where it stands.(n)</desc>
+    <desc lang="en">The series depicts the relationship between the University of Cairo, and education in general, with the town of Bein El Sarayat, where it stands.</desc>
     <credits>
       <director>SHaDY YouSSrY</director>
       <director>Sameh Abdelaziz</director>
@@ -8736,7 +8859,7 @@
   </programme>
   <programme start="20190208140000 +0100" stop="20190208150000 +0100" channel="Alhayat Series">
     <title lang="en">Zay El Ward</title>
-    <desc lang="en">The series revolves around "Ali"(actor Youssef El Sherif). He gets Unjustly imprisoned and after going out of jail he finds the woman of his dreams married to another man. He starts over and searches for a job. Afterwards he works for a businessman (Actor Salah Abdallah) and falls in love again with a girl but his social conditions prevents him from marrying her. He gets exposed to many problems and conflicts.(n)</desc>
+    <desc lang="en">The series revolves around "Ali"(actor Youssef El Sherif). He gets Unjustly imprisoned and after going out of jail he finds the woman of his dreams married to another man. He starts over and searches for a job. Afterwards he works for a businessman (Actor Salah Abdallah) and falls in love again with a girl but his social conditions prevents him from marrying her. He gets exposed to many problems and conflicts.</desc>
     <credits>
       <director>Saad Hendawy</director>
       <director>Ahmed Esaa</director>
@@ -8780,7 +8903,7 @@
   </programme>
   <programme start="20190208160000 +0100" stop="20190208170000 +0100" channel="Alhayat Series">
     <title lang="en">Bein AL Sarayat</title>
-    <desc lang="en">The series depicts the relationship between the University of Cairo, and education in general, with the town of Bein El Sarayat, where it stands.(n)</desc>
+    <desc lang="en">The series depicts the relationship between the University of Cairo, and education in general, with the town of Bein El Sarayat, where it stands.</desc>
     <credits>
       <director>SHaDY YouSSrY</director>
       <director>Sameh Abdelaziz</director>
@@ -8866,7 +8989,7 @@
   </programme>
   <programme start="20190208200000 +0100" stop="20190208210000 +0100" channel="Alhayat Series">
     <title lang="en">Zay El Ward</title>
-    <desc lang="en">The series revolves around "Ali"(actor Youssef El Sherif). He gets Unjustly imprisoned and after going out of jail he finds the woman of his dreams married to another man. He starts over and searches for a job. Afterwards he works for a businessman (Actor Salah Abdallah) and falls in love again with a girl but his social conditions prevents him from marrying her. He gets exposed to many problems and conflicts.(n)</desc>
+    <desc lang="en">The series revolves around "Ali"(actor Youssef El Sherif). He gets Unjustly imprisoned and after going out of jail he finds the woman of his dreams married to another man. He starts over and searches for a job. Afterwards he works for a businessman (Actor Salah Abdallah) and falls in love again with a girl but his social conditions prevents him from marrying her. He gets exposed to many problems and conflicts.</desc>
     <credits>
       <director>Saad Hendawy</director>
       <director>Ahmed Esaa</director>
@@ -8910,7 +9033,7 @@
   </programme>
   <programme start="20190208220000 +0100" stop="20190208230000 +0100" channel="Alhayat Series">
     <title lang="en">Bein AL Sarayat</title>
-    <desc lang="en">The series depicts the relationship between the University of Cairo, and education in general, with the town of Bein El Sarayat, where it stands.(n)</desc>
+    <desc lang="en">The series depicts the relationship between the University of Cairo, and education in general, with the town of Bein El Sarayat, where it stands.</desc>
     <credits>
       <director>SHaDY YouSSrY</director>
       <director>Sameh Abdelaziz</director>
@@ -8948,6 +9071,18 @@
     <rating system="EG">
       <value>7.5</value>
     </rating>
+  </programme>
+  <programme start="20190207000000 +0100" stop="20190207000000 +0100" channel="TeN TV">
+    <title lang="en">فيلم عربي
+            
+              08:00  AM
+              [105 minutes]</title>
+  </programme>
+  <programme start="20190207000000 +0100" stop="20190207000000 +0100" channel="TeN TV">
+    <title lang="en">ted x
+            
+              09:45  AM
+              [15 minutes]</title>
   </programme>
   <programme start="20190207003000 +0100" stop="20190207020000 +0100" channel="TeN TV">
     <title lang="en">By Paper and Pen</title>
@@ -9163,7 +9298,7 @@
   </programme>
   <programme start="20190208060000 +0100" stop="20190208070000 +0100" channel="TeN TV">
     <title lang="en">Tofahet Adam</title>
-    <desc lang="en">This series tells the story of a professional con artist who knows exactly how to get what he wants. His incredible conning skills leave the security agencies that are after him totally dumfounded at every turn. But the con artist’s life changes completely when he meets a woman who specializes in computer hacking, and she becomes a great asset to him.(n)</desc>
+    <desc lang="en">This series tells the story of a professional con artist who knows exactly how to get what he wants. His incredible conning skills leave the security agencies that are after him totally dumfounded at every turn. But the con artist’s life changes completely when he meets a woman who specializes in computer hacking, and she becomes a great asset to him.</desc>
     <credits>
       <director>Ali Idris</director>
       <director>Karious Wadie</director>
@@ -9197,7 +9332,7 @@
   </programme>
   <programme start="20190208120000 +0100" stop="20190208130000 +0100" channel="TeN TV">
     <title lang="en">Tofahet Adam</title>
-    <desc lang="en">This series tells the story of a professional con artist who knows exactly how to get what he wants. His incredible conning skills leave the security agencies that are after him totally dumfounded at every turn. But the con artist’s life changes completely when he meets a woman who specializes in computer hacking, and she becomes a great asset to him.(n)</desc>
+    <desc lang="en">This series tells the story of a professional con artist who knows exactly how to get what he wants. His incredible conning skills leave the security agencies that are after him totally dumfounded at every turn. But the con artist’s life changes completely when he meets a woman who specializes in computer hacking, and she becomes a great asset to him.</desc>
     <credits>
       <director>Ali Idris</director>
       <director>Karious Wadie</director>
@@ -9217,101 +9352,5 @@
     <rating system="EG">
       <value>8</value>
     </rating>
-  </programme>
-  <programme start="20190207000000 +0100" stop="20190207000000 +0100" channel="Fan">
-    <title lang="en">أغاني طربية
-            
-              10:00  PM
-              [180 minutes]</title>
-  </programme>
-  <programme start="20190207000000 +0100" stop="20190207000000 +0100" channel="Fan">
-    <title lang="en">مقتطفات من حفلات محمد عبدو
-            
-              01:00  AM
-              [60 minutes]</title>
-  </programme>
-  <programme start="20190207000000 +0100" stop="20190207000000 +0100" channel="Fan">
-    <title lang="en">منوعات عربية
-            
-              02:00  AM
-              [120 minutes]</title>
-  </programme>
-  <programme start="20190207000000 +0100" stop="20190207000000 +0100" channel="Fan">
-    <title lang="en">من أغانيهم
-            
-              04:00  AM
-              [60 minutes]</title>
-  </programme>
-  <programme start="20190207000000 +0100" stop="20190207000000 +0100" channel="Fan">
-    <title lang="en">منوعات عربية
-            
-              05:00  AM
-              [300 minutes]</title>
-  </programme>
-  <programme start="20190207000000 +0100" stop="20190207000000 +0100" channel="Fan">
-    <title lang="en">من أغانيهم
-            
-              10:00  AM
-              [60 minutes]</title>
-  </programme>
-  <programme start="20190207000000 +0100" stop="20190207000000 +0100" channel="Fan">
-    <title lang="en">أغاني من الخليج العربي
-            
-              11:00  AM
-              [150 minutes]</title>
-  </programme>
-  <programme start="20190207000000 +0100" stop="20190207000000 +0100" channel="Fan">
-    <title lang="en">منوعات عربية
-            
-              01:30  PM
-              [120 minutes]</title>
-  </programme>
-  <programme start="20190207000000 +0100" stop="20190207000000 +0100" channel="Fan">
-    <title lang="en">مختارات من حفلات موسيقية
-            
-              03:30  PM
-              [180 minutes]</title>
-  </programme>
-  <programme start="20190207000000 +0100" stop="20190207000000 +0100" channel="Fan">
-    <title lang="en">منوعات عربية
-            
-              06:30  PM
-              [90 minutes]</title>
-  </programme>
-  <programme start="20190207000000 +0100" stop="20190207000000 +0100" channel="Fan">
-    <title lang="en">أغاني من الخليج العربي
-            
-              08:00  PM
-              [120 minutes]</title>
-  </programme>
-  <programme start="20190207000000 +0100" stop="20190207000000 +0100" channel="Fan">
-    <title lang="en">أغاني طربية
-            
-              10:00  PM
-              [90 minutes]</title>
-  </programme>
-  <programme start="20190207000000 +0100" stop="20190207000000 +0100" channel="Fan">
-    <title lang="en">حفلة موسيقية - عبد الحليم حافظ
-            
-              11:30  PM
-              [90 minutes]</title>
-  </programme>
-  <programme start="20190207000000 +0100" stop="20190207000000 +0100" channel="Fan">
-    <title lang="en">أغاني طربية
-            
-              10:00  PM
-              [90 minutes]</title>
-  </programme>
-  <programme start="20190207000000 +0100" stop="20190207000000 +0100" channel="Fan">
-    <title lang="en">حفلة موسيقية - أم كلثوم
-            
-              11:30  PM
-              [90 minutes]</title>
-  </programme>
-  <programme start="20190207000000 +0100" stop="20190207000000 +0100" channel="Fan">
-    <title lang="en">منوعات عربية
-            
-              05:00  AM
-              [300 minutes]</title>
   </programme>
 </tv>
