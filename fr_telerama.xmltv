@@ -463,7 +463,7 @@
   </programme>
   <programme start="20190209203000 +0100" stop="20190209222000 +0100" channel="AB 3">
     <title lang="fr">Un mariage de princesse</title>
-    <desc lang="fr">Alors qu'elle est enfin prête à assumer son rôle de princesse, Mia apprend qu'elle doit se marier avant d'être couronnée. Débute la quête du parfait mari.(n)</desc>
+    <desc lang="fr">Alors qu'elle est enfin prête à assumer son rôle de princesse, Mia apprend qu'elle doit se marier avant d'être couronnée. Débute la quête du parfait mari.</desc>
     <category lang="fr">Film</category>
   </programme>
   <programme start="20190208060000 +0100" stop="20190208062500 +0100" channel="E !">
@@ -1281,6 +1281,10 @@
     <category lang="fr">Téléréalité</category>
   </programme>
   <programme start="20190209042000 +0100" stop="20190209051000 +0100" channel="Discovery Channel">
+    <title lang="fr">Into The Wild : Alaska (?)</title>
+    <category lang="fr">Aventures</category>
+  </programme>
+  <programme start="20190209051000 +0100" stop="20190209060000 +0100" channel="Discovery Channel">
     <title lang="fr">Into The Wild : Alaska (?)</title>
     <category lang="fr">Aventures</category>
   </programme>
@@ -3347,8 +3351,8 @@
     <category lang="fr">Journal</category>
   </programme>
   <programme start="20190209081000 +0100" stop="20190209083000 +0100" channel="BBC World News">
-    <title lang="fr">World Features (?)</title>
-    <category lang="fr">Magazine d'actualité</category>
+    <title lang="fr">Brexit Reporters</title>
+    <category lang="fr">Politique</category>
   </programme>
   <programme start="20190209083000 +0100" stop="20190209090000 +0100" channel="BBC World News">
     <title lang="fr">HARDtalk (?)</title>
@@ -3363,27 +3367,27 @@
     <category lang="fr">Journal</category>
   </programme>
   <programme start="20190209091000 +0100" stop="20190209093000 +0100" channel="BBC World News">
-    <title lang="fr">World Features (?)</title>
-    <category lang="fr">Magazine d'actualité</category>
+    <title lang="fr">India's Tech Titans (?)</title>
+    <category lang="fr">Economie</category>
   </programme>
   <programme start="20190209093000 +0100" stop="20190209100000 +0100" channel="BBC World News">
-    <title lang="fr">To Be Announced</title>
-    <category lang="fr">Programme indéterminé</category>
+    <title lang="fr">Leading Cities (?)</title>
+    <category lang="fr">Découvertes</category>
   </programme>
   <programme start="20190209100000 +0100" stop="20190209101000 +0100" channel="BBC World News">
     <title lang="fr">BBC World News (?)</title>
     <category lang="fr">Journal</category>
   </programme>
   <programme start="20190209101000 +0100" stop="20190209110000 +0100" channel="BBC World News">
-    <title lang="fr">To Be Announced</title>
-    <category lang="fr">Programme indéterminé</category>
+    <title lang="fr">Global Questions (?)</title>
+    <category lang="fr">Magazine d'actualité</category>
   </programme>
   <programme start="20190209110000 +0100" stop="20190209111000 +0100" channel="BBC World News">
     <title lang="fr">BBC World News (?)</title>
     <category lang="fr">Journal</category>
   </programme>
   <programme start="20190209111000 +0100" stop="20190209113000 +0100" channel="BBC World News">
-    <title lang="fr">World Features (?)</title>
+    <title lang="fr">Inside Syria (?)</title>
     <category lang="fr">Magazine d'actualité</category>
   </programme>
   <programme start="20190209113000 +0100" stop="20190209120000 +0100" channel="BBC World News">
@@ -3400,8 +3404,13 @@
     <category lang="fr">Journal</category>
   </programme>
   <programme start="20190209121000 +0100" stop="20190209123000 +0100" channel="BBC World News">
-    <title lang="fr">World Features (?)</title>
-    <category lang="fr">Magazine d'actualité</category>
+    <title lang="fr">Reporters (?)</title>
+    <credits>
+      <presenter>Antoine Cormery</presenter>
+      <presenter>Michaël Miraglia</presenter>
+      <presenter>Rebecca Fitoussi</presenter>
+    </credits>
+    <category lang="fr">Magazine de reportages</category>
   </programme>
   <programme start="20190209123000 +0100" stop="20190209130000 +0100" channel="BBC World News">
     <title lang="fr">Our World (?)</title>
@@ -3416,8 +3425,8 @@
     <category lang="fr">Magazine sportif</category>
   </programme>
   <programme start="20190209133000 +0100" stop="20190209140000 +0100" channel="BBC World News">
-    <title lang="fr">To Be Announced</title>
-    <category lang="fr">Programme indéterminé</category>
+    <title lang="fr">Inside Syria (?)</title>
+    <category lang="fr">Société</category>
   </programme>
   <programme start="20190209140000 +0100" stop="20190209143000 +0100" channel="BBC World News">
     <title lang="fr">BBC World News (?)</title>
@@ -3464,16 +3473,16 @@
     <category lang="fr">Journal</category>
   </programme>
   <programme start="20190209183000 +0100" stop="20190209190000 +0100" channel="BBC World News">
-    <title lang="fr">To Be Announced</title>
-    <category lang="fr">Programme indéterminé</category>
+    <title lang="fr">Panorama (?)</title>
+    <category lang="fr">Magazine d'actualité</category>
   </programme>
   <programme start="20190209190000 +0100" stop="20190209191000 +0100" channel="BBC World News">
     <title lang="fr">BBC World News (?)</title>
     <category lang="fr">Journal</category>
   </programme>
   <programme start="20190209191000 +0100" stop="20190209193000 +0100" channel="BBC World News">
-    <title lang="fr">World Features (?)</title>
-    <category lang="fr">Magazine d'actualité</category>
+    <title lang="fr">Brexit Reporters</title>
+    <category lang="fr">Politique</category>
   </programme>
   <programme start="20190209193000 +0100" stop="20190209200000 +0100" channel="BBC World News">
     <title lang="fr">The Travel Show (?)</title>
@@ -3499,8 +3508,8 @@
     <category lang="fr">Journal</category>
   </programme>
   <programme start="20190209211000 +0100" stop="20190209220000 +0100" channel="BBC World News">
-    <title lang="fr">To Be Announced</title>
-    <category lang="fr">Programme indéterminé</category>
+    <title lang="fr">Global Questions (?)</title>
+    <category lang="fr">Magazine d'actualité</category>
   </programme>
   <programme start="20190209220000 +0100" stop="20190209223000 +0100" channel="BBC World News">
     <title lang="fr">World News Today (?)</title>
@@ -3518,12 +3527,12 @@
     <category lang="fr">Journal</category>
   </programme>
   <programme start="20190209231000 +0100" stop="20190209233000 +0100" channel="BBC World News">
-    <title lang="fr">World Features (?)</title>
-    <category lang="fr">Magazine d'actualité</category>
+    <title lang="fr">India's Tech Titans (?)</title>
+    <category lang="fr">Economie</category>
   </programme>
   <programme start="20190209233000 +0100" stop="20190210000000 +0100" channel="BBC World News">
-    <title lang="fr">To Be Announced</title>
-    <category lang="fr">Programme indéterminé</category>
+    <title lang="fr">Panorama (?)</title>
+    <category lang="fr">Magazine d'actualité</category>
   </programme>
   <programme start="20190210000000 +0100" stop="20190210003000 +0100" channel="BBC World News">
     <title lang="fr">BBC World News (?)</title>
@@ -3538,16 +3547,16 @@
     <category lang="fr">Journal</category>
   </programme>
   <programme start="20190210013000 +0100" stop="20190210020000 +0100" channel="BBC World News">
-    <title lang="fr">To Be Announced</title>
-    <category lang="fr">Programme indéterminé</category>
+    <title lang="fr">Inside Syria (?)</title>
+    <category lang="fr">Société</category>
   </programme>
   <programme start="20190210020000 +0100" stop="20190210021000 +0100" channel="BBC World News">
     <title lang="fr">BBC World News (?)</title>
     <category lang="fr">Journal</category>
   </programme>
   <programme start="20190210021000 +0100" stop="20190210023000 +0100" channel="BBC World News">
-    <title lang="fr">World Features (?)</title>
-    <category lang="fr">Magazine d'actualité</category>
+    <title lang="fr">Brexit Reporters</title>
+    <category lang="fr">Politique</category>
   </programme>
   <programme start="20190210023000 +0100" stop="20190210030000 +0100" channel="BBC World News">
     <title lang="fr">Dateline London (?)</title>
@@ -3558,8 +3567,8 @@
     <category lang="fr">Journal</category>
   </programme>
   <programme start="20190210031000 +0100" stop="20190210040000 +0100" channel="BBC World News">
-    <title lang="fr">To Be Announced</title>
-    <category lang="fr">Programme indéterminé</category>
+    <title lang="fr">Global Questions (?)</title>
+    <category lang="fr">Magazine d'actualité</category>
   </programme>
   <programme start="20190210040000 +0100" stop="20190210043000 +0100" channel="BBC World News">
     <title lang="fr">BBC World News (?)</title>
@@ -3577,7 +3586,7 @@
     <category lang="fr">Journal</category>
   </programme>
   <programme start="20190210053000 +0100" stop="20190210060000 +0100" channel="BBC World News">
-    <title lang="fr">To Be Announced</title>
-    <category lang="fr">Programme indéterminé</category>
+    <title lang="fr">Panorama (?)</title>
+    <category lang="fr">Magazine d'actualité</category>
   </programme>
 </tv>
