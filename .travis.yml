@@ -37,11 +37,12 @@ jobs:
   - stage: merging
     name: Merging xmltv files
     script:
-    - chmod +x docker/merge.sh
+    - git clone --depth 1 https://${GITHUB_API_TOKEN}@github.com/fazzani/grab.git > /dev/null 2>&1 && cd grab
+    - chmod +x ./docker/merge.sh
     - docker run -it -v "${PWD}:/work" -e GITHUB_API_TOKEN=${GITHUB_API_TOKEN} synker/xmltv_merge:latest /bin/bash -c "dos2unix docker/merge.sh && chmod +x docker/merge.sh && docker/merge.sh '*.xmltv'"
-    - git remote add origin2 https://${GITHUB_API_TOKEN}@github.com/fazzani/grab.git > /dev/null 2>&1
-    - git add merge.tar.gz && git add merge.zip && git commit -m "compression and merging xmltv files and pushing them to GITHUB. Triggred by $TRAVIS_EVENT_TYPE"
-    - git pull -X ours origin2 HEAD:master && git push origin2 HEAD:master
+    - git add merge.tar.gz && git add merge.zip && git commit -m "compression, merging xmltv files and pushing them to GITHUB. Triggred by $TRAVIS_EVENT_TYPE"
+    - git pull -X ours > /dev/null 2>&1 
+    - git push
   - stage: Update readme
     name: Update readme
     before_script:
@@ -49,12 +50,13 @@ jobs:
       - sudo apt-get install libxml2-utils xmlstarlet -y
       - npm install -g xml2json-cli
     script:
+      - git clone --depth 1 https://${GITHUB_API_TOKEN}@github.com/fazzani/grab.git > /dev/null 2>&1 && cd grab
       - chmod +x ./scripts/*.sh
       - ./scripts/check_channels.sh *.xmltv ${TRAVIS_BUILD_NUMBER}
-      - curl -s -H 'Content-Type:application/json' -H 'Accept:application/json' -XPOST elastic.synker.ovh/missingepgchannels/report -d @./out/check_missing_programs.json
+      - curl -s -H "Content-Type:application/json" -XPOST elastic.synker.ovh/missingepgchannels/report -d @./out/check_missing_programs.json
       - ./scripts/update_missed_channels.sh ./out/check_channels.json ./out/check_missing_programs.json
       - git add ./out/*.json && git commit -m "Updating missed programs"
-      - git pull -X ours origin2 HEAD:master && git push origin2 HEAD:master
+      - git push origin2 HEAD:master
 
 notifications:
   email:
