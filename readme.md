@@ -48,7 +48,6 @@
 |![icon](http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg)|SportsGlobalHD|http://www.bein.net|
 |![icon](http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg)|BS NBA|http://www.bein.net|
 |![icon](http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg)|4K|http://www.bein.net|
-|![icon](http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg)|OlympicChannel|http://www.bein.net|
 |![icon](http://epg.beinsports.com/us_sports/Global.svg)|Global|http://www.bein.net|
 |![icon](http://epg.beinsports.com/us_sports/Global.svg)|Spanish|http://www.bein.net|
 |![icon](http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|MoviesHD1|http://www.bein.net|
