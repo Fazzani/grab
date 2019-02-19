@@ -129,12 +129,12 @@
 |![icon](http://content.osn.com/logo/channel/cropped/BRO.png)|ABS-CBN Sports+Action|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/COG.png)|Cinema One Global|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/ANC.png)|ANC|http://www.osn.com|
-|![icon]()|DZMM Teleradyo|http://www.osn.com|
-|![icon]()|DWRR 101.9|http://www.osn.com|
-|![icon]()|Viva TV|http://www.osn.com|
-|![icon]()|Kapatid TV5|http://www.osn.com|
-|![icon]()|Aksyon TV|http://www.osn.com|
-|![icon]()|Disney Junior|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/DZM.png)|DZMM Teleradyo|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/DWR.png)|DWRR 101.9|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/VIV.png)|Viva TV|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/TV5.png)|Kapatid TV5|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/AKS.png)|Aksyon TV|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/DJR.png)|Disney Junior|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/SCI.png)|Discovery Science HD|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/DCX.png)|IDX HD|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/CAI.png)|Crime \\u0026 Investigation Network|http://www.osn.com|
@@ -161,8 +161,8 @@
 |![icon](http://content.osn.com/logo/channel/cropped/SNH.png)|Sky News Arabia HD|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/SNA.png)|Sky News Arabia|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/ARH.png)|Alarabiya|http://www.osn.com|
-|![icon](http://content.osn.com/logo/channel/cropped/FRA.png)|France 24|http://www.osn.com|
-|![icon](http://content.osn.com/logo/channel/cropped/CTA.png)|CCTV Arabic|http://www.osn.com|
+|![icon]()|France 24|http://www.osn.com|
+|![icon]()|CCTV Arabic|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/OM1.png)|OSN Movies HD|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/OM1.png)|OSN Movies First HD|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/OMX.png)|OSN Movies First HD +2h|http://www.osn.com|
