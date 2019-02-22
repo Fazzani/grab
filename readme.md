@@ -244,7 +244,7 @@
 |![icon](http://content.osn.com/logo/channel/cropped/UTV.png)|Bindaas|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/DIS.png)|Disney HD|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/DXD.png)|Disney XD|http://www.osn.com|
-|![icon]()|Gemini TV|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/GEM.png)|Gemini TV|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/BTV.png)|Bloomberg|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/CT9.png)|CCTV News|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/FRE.png)|France 24 English|http://www.osn.com|
