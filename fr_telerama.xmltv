@@ -378,7 +378,7 @@
   </programme>
   <programme start="20190301200000 +0100" stop="20190301224000 +0100" channel="AB 3">
     <title lang="fr">Le Hobbit : un voyage inattendu</title>
-    <desc lang="fr">Tranquillement installé dans son logis, Bilbon le hobbit coule des jours paisibles, à fumer la pipe et à profiter du calme de la Comté. Un jour, sa routine est bouleversée par l'arrivée de Gandalf le magicien, accompagné d'un groupe de treize nains, menés par Thorin Ecu-de-Chêne. Ils sont à la recherche d'un habile voleur qui pourra les aider à accomplir leur mission : reprendre le trésor gardé par Smaug, un terrifiant dragon, caché au coeur d'une montagne dans l'ancien royaume des nains. Bilbon n'a jamais quitté sa province natale, mais l'appel de l'aventure, l'exotisme des guerriers nains et la persuasion de Gandalf le poussent à se joindre à cette quête. Assaillis par des trolls, poursuivis par des êtres malfaisants, menacés par des géants de pierre, les conquérants de l'impossible se rapprochent peu à peu de l'antre de la bête...(n)</desc>
+    <desc lang="fr">Tranquillement installé dans son logis, Bilbon le hobbit coule des jours paisibles, à fumer la pipe et à profiter du calme de la Comté. Un jour, sa routine est bouleversée par l'arrivée de Gandalf le magicien, accompagné d'un groupe de treize nains, menés par Thorin Ecu-de-Chêne. Ils sont à la recherche d'un habile voleur qui pourra les aider à accomplir leur mission : reprendre le trésor gardé par Smaug, un terrifiant dragon, caché au coeur d'une montagne dans l'ancien royaume des nains. Bilbon n'a jamais quitté sa province natale, mais l'appel de l'aventure, l'exotisme des guerriers nains et la persuasion de Gandalf le poussent à se joindre à cette quête. Assaillis par des trolls, poursuivis par des êtres malfaisants, menacés par des géants de pierre, les conquérants de l'impossible se rapprochent peu à peu de l'antre de la bête...</desc>
     <category lang="fr">Film</category>
     <icon src="https://www.telerama.fr/sites/tr_master/files/910db6d4-8fd3-4584-84cd-6a4111cd5db9_2.jpg" />
   </programme>
@@ -1528,11 +1528,11 @@
   </programme>
   <programme start="20190228144000 +0100" stop="20190228153500 +0100" channel="Discovery Science">
     <title lang="fr">Cooper's Treasure (?)</title>
-    <category lang="fr">Documentaire</category>
+    <category lang="fr">Découvertes</category>
   </programme>
   <programme start="20190228153500 +0100" stop="20190228163000 +0100" channel="Discovery Science">
     <title lang="fr">Cooper's Treasure (?)</title>
-    <category lang="fr">Documentaire</category>
+    <category lang="fr">Découvertes</category>
   </programme>
   <programme start="20190228163000 +0100" stop="20190228172500 +0100" channel="Discovery Science">
     <title lang="fr">A la conquête de l'univers (?)</title>
@@ -1619,14 +1619,14 @@
     <credits>
       <director>Patrick Reams</director>
     </credits>
-    <category lang="fr">Documentaire</category>
+    <category lang="fr">Découvertes</category>
   </programme>
   <programme start="20190301011500 +0100" stop="20190301020000 +0100" channel="Discovery Science">
     <title lang="fr">Ils ont fait l'Amérique (?)</title>
     <credits>
       <director>Patrick Reams</director>
     </credits>
-    <category lang="fr">Documentaire</category>
+    <category lang="fr">Découvertes</category>
   </programme>
   <programme start="20190301020000 +0100" stop="20190301025000 +0100" channel="Discovery Science">
     <title lang="fr">Da Vinci Reloaded (?)</title>
@@ -1646,7 +1646,7 @@
   </programme>
   <programme start="20190301051500 +0100" stop="20190301060000 +0100" channel="Discovery Science">
     <title lang="fr">Man vs Expert (?)</title>
-    <category lang="fr">Documentaire</category>
+    <category lang="fr">Découvertes</category>
   </programme>
   <programme start="20190301060000 +0100" stop="20190301062500 +0100" channel="Discovery Science">
     <title lang="fr">Comment c'est fait (?)</title>
@@ -2442,9 +2442,193 @@
     <title lang="fr">IMMAF European Open</title>
     <category lang="fr">MMA</category>
   </programme>
-  <programme start="20190228234000 +0100" stop="20190228235000 +0100" channel="Extreme Sports Channel">
+  <programme start="20190228234000 +0100" stop="20190301000500 +0100" channel="Extreme Sports Channel">
     <title lang="fr">Sports Adventure (?)</title>
     <category lang="fr">Sports extrêmes</category>
+  </programme>
+  <programme start="20190301000500 +0100" stop="20190301003000 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">Sports Adventure (?)</title>
+    <category lang="fr">Sports extrêmes</category>
+  </programme>
+  <programme start="20190301003000 +0100" stop="20190301012000 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">Sport de force (?)</title>
+    <category lang="fr">Sport de force</category>
+  </programme>
+  <programme start="20190301012000 +0100" stop="20190301021000 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">Extreme Fighting Championship Africa (?)</title>
+    <category lang="fr">Free Fight</category>
+  </programme>
+  <programme start="20190301021000 +0100" stop="20190301030000 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">IMMAF European Open</title>
+    <category lang="fr">MMA</category>
+  </programme>
+  <programme start="20190301030000 +0100" stop="20190301035000 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">X Games Austin (?)</title>
+    <category lang="fr">Sports extrêmes</category>
+  </programme>
+  <programme start="20190301035000 +0100" stop="20190301041500 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">Sports Adventure (?)</title>
+    <category lang="fr">Sports extrêmes</category>
+  </programme>
+  <programme start="20190301041500 +0100" stop="20190301044500 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">Sports Adventure (?)</title>
+    <category lang="fr">Sports extrêmes</category>
+  </programme>
+  <programme start="20190301044500 +0100" stop="20190301053500 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">Sport de force (?)</title>
+    <category lang="fr">Sport de force</category>
+  </programme>
+  <programme start="20190301053500 +0100" stop="20190301060000 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">Now Boarding (?)</title>
+    <category lang="fr">Skate-board</category>
+  </programme>
+  <programme start="20190301060000 +0100" stop="20190301065500 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">X Games Austin (?)</title>
+    <category lang="fr">Sports extrêmes</category>
+  </programme>
+  <programme start="20190301065500 +0100" stop="20190301072000 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">Wild Ride</title>
+    <category lang="fr">Téléréalité</category>
+  </programme>
+  <programme start="20190301072000 +0100" stop="20190301074500 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">Wild Ride</title>
+    <category lang="fr">Téléréalité</category>
+  </programme>
+  <programme start="20190301074500 +0100" stop="20190301084000 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">Voies féminines (?)</title>
+    <credits>
+      <director>Francisco Taranto Jr</director>
+      <director>Sandra Ducasse</director>
+    </credits>
+    <category lang="fr">Sport</category>
+  </programme>
+  <programme start="20190301084000 +0100" stop="20190301093000 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">Liquid Edge</title>
+    <category lang="fr">Sports nautiques</category>
+  </programme>
+  <programme start="20190301093000 +0100" stop="20190301102000 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">Sport de force (?)</title>
+    <category lang="fr">Sport de force</category>
+  </programme>
+  <programme start="20190301102000 +0100" stop="20190301111000 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">Rodéo</title>
+    <category lang="fr">Rodéo</category>
+  </programme>
+  <programme start="20190301111000 +0100" stop="20190301120000 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">X Games Austin (?)</title>
+    <category lang="fr">Sports extrêmes</category>
+  </programme>
+  <programme start="20190301120000 +0100" stop="20190301122500 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">Sports Adventure (?)</title>
+    <category lang="fr">Sports extrêmes</category>
+  </programme>
+  <programme start="20190301122500 +0100" stop="20190301125000 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">Sports Adventure (?)</title>
+    <category lang="fr">Sports extrêmes</category>
+  </programme>
+  <programme start="20190301125000 +0100" stop="20190301134000 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">Voies féminines (?)</title>
+    <credits>
+      <director>Francisco Taranto Jr</director>
+      <director>Sandra Ducasse</director>
+    </credits>
+    <category lang="fr">Sport</category>
+  </programme>
+  <programme start="20190301134000 +0100" stop="20190301143000 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">Rodéo</title>
+    <category lang="fr">Rodéo</category>
+  </programme>
+  <programme start="20190301143000 +0100" stop="20190301152000 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">Sport de force (?)</title>
+    <category lang="fr">Sport de force</category>
+  </programme>
+  <programme start="20190301152000 +0100" stop="20190301161000 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">X Games Austin (?)</title>
+    <category lang="fr">Sports extrêmes</category>
+  </programme>
+  <programme start="20190301161000 +0100" stop="20190301163500 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">Sports Adventure (?)</title>
+    <category lang="fr">Sports extrêmes</category>
+  </programme>
+  <programme start="20190301163500 +0100" stop="20190301170000 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">Sports Adventure (?)</title>
+    <category lang="fr">Sports extrêmes</category>
+  </programme>
+  <programme start="20190301170000 +0100" stop="20190301175000 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">Liquid Edge</title>
+    <category lang="fr">Sports nautiques</category>
+  </programme>
+  <programme start="20190301175000 +0100" stop="20190301184000 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">Rodéo</title>
+    <category lang="fr">Rodéo</category>
+  </programme>
+  <programme start="20190301184000 +0100" stop="20190301193000 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">X Games Austin (?)</title>
+    <category lang="fr">Sports extrêmes</category>
+  </programme>
+  <programme start="20190301193000 +0100" stop="20190301195500 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">Wild Ride</title>
+    <category lang="fr">Téléréalité</category>
+  </programme>
+  <programme start="20190301195500 +0100" stop="20190301202000 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">Wild Ride</title>
+    <category lang="fr">Téléréalité</category>
+  </programme>
+  <programme start="20190301202000 +0100" stop="20190301211000 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">Sport de force (?)</title>
+    <category lang="fr">Sport de force</category>
+  </programme>
+  <programme start="20190301211000 +0100" stop="20190301213500 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">Wild Ride (?)</title>
+    <category lang="fr">Téléréalité</category>
+  </programme>
+  <programme start="20190301213500 +0100" stop="20190301220000 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">Wild Ride</title>
+    <category lang="fr">Téléréalité</category>
+  </programme>
+  <programme start="20190301220000 +0100" stop="20190301225000 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">Extreme Fighting Championship Africa (?)</title>
+    <category lang="fr">Free Fight</category>
+  </programme>
+  <programme start="20190301225000 +0100" stop="20190301234000 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">MMA</title>
+    <category lang="fr">MMA</category>
+  </programme>
+  <programme start="20190301234000 +0100" stop="20190302000500 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">Sports Adventure (?)</title>
+    <category lang="fr">Sports extrêmes</category>
+  </programme>
+  <programme start="20190302000500 +0100" stop="20190302003000 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">Sports Adventure (?)</title>
+    <category lang="fr">Sports extrêmes</category>
+  </programme>
+  <programme start="20190302003000 +0100" stop="20190302012000 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">Sport de force (?)</title>
+    <category lang="fr">Sport de force</category>
+  </programme>
+  <programme start="20190302012000 +0100" stop="20190302021000 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">Extreme Fighting Championship Africa (?)</title>
+    <category lang="fr">Free Fight</category>
+  </programme>
+  <programme start="20190302021000 +0100" stop="20190302030000 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">MMA</title>
+    <category lang="fr">MMA</category>
+  </programme>
+  <programme start="20190302030000 +0100" stop="20190302035000 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">X Games Austin (?)</title>
+    <category lang="fr">Sports extrêmes</category>
+  </programme>
+  <programme start="20190302035000 +0100" stop="20190302041500 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">Sports Adventure (?)</title>
+    <category lang="fr">Sports extrêmes</category>
+  </programme>
+  <programme start="20190302041500 +0100" stop="20190302044500 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">Sports Adventure (?)</title>
+    <category lang="fr">Sports extrêmes</category>
+  </programme>
+  <programme start="20190302044500 +0100" stop="20190302053500 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">Sport de force (?)</title>
+    <category lang="fr">Sport de force</category>
   </programme>
   <programme start="20190228000000 +0100" stop="20190228010000 +0100" channel="Al Jazeera English">
     <title lang="fr">Newshour</title>
@@ -2938,16 +3122,10 @@
   </programme>
   <programme start="20190228140000 +0100" stop="20190228143000 +0100" channel="BBC World News">
     <title lang="fr">Impact (?)</title>
-    <credits>
-      <presenter>Mishal Husain</presenter>
-    </credits>
     <category lang="fr">Magazine d'actualité</category>
   </programme>
   <programme start="20190228143000 +0100" stop="20190228144500 +0100" channel="BBC World News">
     <title lang="fr">Impact (?)</title>
-    <credits>
-      <presenter>Mishal Husain</presenter>
-    </credits>
     <category lang="fr">Magazine d'actualité</category>
   </programme>
   <programme start="20190228144500 +0100" stop="20190228150000 +0100" channel="BBC World News">
@@ -2956,9 +3134,6 @@
   </programme>
   <programme start="20190228150000 +0100" stop="20190228153000 +0100" channel="BBC World News">
     <title lang="fr">Impact (?)</title>
-    <credits>
-      <presenter>Mishal Husain</presenter>
-    </credits>
     <category lang="fr">Magazine d'actualité</category>
   </programme>
   <programme start="20190228153000 +0100" stop="20190228160000 +0100" channel="BBC World News">
@@ -2970,9 +3145,6 @@
   </programme>
   <programme start="20190228160000 +0100" stop="20190228163000 +0100" channel="BBC World News">
     <title lang="fr">Impact (?)</title>
-    <credits>
-      <presenter>Mishal Husain</presenter>
-    </credits>
     <category lang="fr">Magazine d'actualité</category>
   </programme>
   <programme start="20190228163000 +0100" stop="20190228170000 +0100" channel="BBC World News">
@@ -3050,16 +3222,10 @@
   </programme>
   <programme start="20190228230000 +0100" stop="20190228233000 +0100" channel="BBC World News">
     <title lang="fr">BBC World News America (?)</title>
-    <credits>
-      <presenter>Katty Kay</presenter>
-    </credits>
     <category lang="fr">Magazine de l'économie</category>
   </programme>
   <programme start="20190228233000 +0100" stop="20190301000000 +0100" channel="BBC World News">
     <title lang="fr">BBC World News America (?)</title>
-    <credits>
-      <presenter>Katty Kay</presenter>
-    </credits>
     <category lang="fr">Magazine de l'économie</category>
   </programme>
   <programme start="20190301000000 +0100" stop="20190301003000 +0100" channel="BBC World News">
@@ -3216,16 +3382,10 @@
   </programme>
   <programme start="20190301140000 +0100" stop="20190301143000 +0100" channel="BBC World News">
     <title lang="fr">Impact (?)</title>
-    <credits>
-      <presenter>Mishal Husain</presenter>
-    </credits>
     <category lang="fr">Magazine d'actualité</category>
   </programme>
   <programme start="20190301143000 +0100" stop="20190301144500 +0100" channel="BBC World News">
     <title lang="fr">Impact (?)</title>
-    <credits>
-      <presenter>Mishal Husain</presenter>
-    </credits>
     <category lang="fr">Magazine d'actualité</category>
   </programme>
   <programme start="20190301144500 +0100" stop="20190301150000 +0100" channel="BBC World News">
@@ -3234,9 +3394,6 @@
   </programme>
   <programme start="20190301150000 +0100" stop="20190301153000 +0100" channel="BBC World News">
     <title lang="fr">Impact (?)</title>
-    <credits>
-      <presenter>Mishal Husain</presenter>
-    </credits>
     <category lang="fr">Magazine d'actualité</category>
   </programme>
   <programme start="20190301153000 +0100" stop="20190301160000 +0100" channel="BBC World News">
@@ -3248,9 +3405,6 @@
   </programme>
   <programme start="20190301160000 +0100" stop="20190301163000 +0100" channel="BBC World News">
     <title lang="fr">Impact (?)</title>
-    <credits>
-      <presenter>Mishal Husain</presenter>
-    </credits>
     <category lang="fr">Magazine d'actualité</category>
   </programme>
   <programme start="20190301163000 +0100" stop="20190301170000 +0100" channel="BBC World News">
@@ -3323,21 +3477,15 @@
     <category lang="fr">Journal</category>
   </programme>
   <programme start="20190301223000 +0100" stop="20190301230000 +0100" channel="BBC World News">
-    <title lang="fr">Our World (?)</title>
+    <title lang="fr">Our World</title>
     <category lang="fr">Magazine d'actualité</category>
   </programme>
   <programme start="20190301230000 +0100" stop="20190301233000 +0100" channel="BBC World News">
     <title lang="fr">BBC World News America (?)</title>
-    <credits>
-      <presenter>Katty Kay</presenter>
-    </credits>
     <category lang="fr">Magazine de l'économie</category>
   </programme>
   <programme start="20190301233000 +0100" stop="20190302000000 +0100" channel="BBC World News">
     <title lang="fr">BBC World News America (?)</title>
-    <credits>
-      <presenter>Katty Kay</presenter>
-    </credits>
     <category lang="fr">Magazine de l'économie</category>
   </programme>
   <programme start="20190302000000 +0100" stop="20190302003000 +0100" channel="BBC World News">
@@ -3346,11 +3494,6 @@
   </programme>
   <programme start="20190302003000 +0100" stop="20190302010000 +0100" channel="BBC World News">
     <title lang="fr">Newsnight (?)</title>
-    <credits>
-      <presenter>Emily Maitlis</presenter>
-      <presenter>Evan Davis</presenter>
-      <presenter>Kirsty Wark</presenter>
-    </credits>
     <category lang="fr">Magazine d'information</category>
   </programme>
   <programme start="20190302010000 +0100" stop="20190302013000 +0100" channel="BBC World News">
@@ -3377,8 +3520,8 @@
     <category lang="fr">Journal</category>
   </programme>
   <programme start="20190302033000 +0100" stop="20190302040000 +0100" channel="BBC World News">
-    <title lang="fr">To Be Announced</title>
-    <category lang="fr">Programme indéterminé</category>
+    <title lang="fr">Botswana : Trouble in the Elephant Sanctuary (?)</title>
+    <category lang="fr">Découvertes</category>
   </programme>
   <programme start="20190302040000 +0100" stop="20190302043000 +0100" channel="BBC World News">
     <title lang="fr">BBC World News (?)</title>
@@ -3393,7 +3536,7 @@
     <category lang="fr">Journal</category>
   </programme>
   <programme start="20190302053000 +0100" stop="20190302060000 +0100" channel="BBC World News">
-    <title lang="fr">Our World (?)</title>
+    <title lang="fr">Our World</title>
     <category lang="fr">Magazine d'actualité</category>
   </programme>
 </tv>
