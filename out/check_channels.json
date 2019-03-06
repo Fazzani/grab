@@ -1444,7 +1444,7 @@
           "src": "https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1233_1.png"
         },
         "url": "http://www.elcinema.com",
-        "active": false
+        "active": true
       },
       {
         "id": "AD Sports 3 HD",
@@ -3493,6 +3493,9 @@
         "display-name": {
           "lang": "en",
           "$t": "MBC Action"
+        },
+        "icon": {
+          "src": "http://content.osn.com/logo/channel/cropped/MHA.png"
         },
         "url": "http://www.osn.com",
         "active": true
