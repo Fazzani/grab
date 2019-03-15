@@ -55,6 +55,10 @@
     <display-name lang="en">Dubai TV</display-name>
     <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1169_1.png"/>
     <url>http://www.elcinema.com</url>
+  </channel><channel id="Dubai One" country="arab">
+    <display-name lang="en">Dubai One</display-name>
+    <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1173_1.png"/>
+    <url>http://www.elcinema.com</url>
   </channel><channel id="Future TV" country="arab">
     <display-name lang="en">Future TV</display-name>
     <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1171_1.png"/>
@@ -70,6 +74,50 @@
   </channel><channel id="LBCI" country="arab">
     <display-name lang="en">LBCI</display-name>
     <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1168_1.png"/>
+    <url>http://www.elcinema.com</url>
+  </channel><channel id="CBC sofra" country="arab">
+    <display-name lang="en">CBC sofra</display-name>
+    <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1260_1.png"/>
+    <url>http://www.elcinema.com</url>
+  </channel><channel id="Cima" country="arab">
+    <display-name lang="en">Cima</display-name>
+    <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1176_1.png"/>
+    <url>http://www.elcinema.com</url>
+  </channel><channel id="ART Cinema" country="arab">
+    <display-name lang="en">ART Cinema</display-name>
+    <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1195_1.png"/>
+    <url>http://www.elcinema.com</url>
+  </channel><channel id="ART Aflam 1" country="arab">
+    <display-name lang="en">ART Aflam 1</display-name>
+    <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1120_1.png"/>
+    <url>http://www.elcinema.com</url>
+  </channel><channel id="ART Aflam 2" country="arab">
+    <display-name lang="en">ART Aflam 2</display-name>
+    <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1121_1.png"/>
+    <url>http://www.elcinema.com</url>
+  </channel><channel id="Rotana Drama" country="arab">
+    <display-name lang="en">Rotana Drama</display-name>
+    <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1147_1.png"/>
+    <url>http://www.elcinema.com</url>
+  </channel><channel id="Rotana Khalijiah" country="arab">
+    <display-name lang="en">Rotana Khalijiah</display-name>
+    <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1149_1.png"/>
+    <url>http://www.elcinema.com</url>
+  </channel><channel id="Al Saeedah" country="arab">
+    <display-name lang="en">Al Saeedah</display-name>
+    <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1339_1.png"/>
+    <url>http://www.elcinema.com</url>
+  </channel><channel id="Al Nahar Drama" country="arab">
+    <display-name lang="en">Al Nahar Drama</display-name>
+    <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1223_1.png"/>
+    <url>http://www.elcinema.com</url>
+  </channel><channel id="Abu Dhabi Drama" country="arab">
+    <display-name lang="en">Abu Dhabi Drama</display-name>
+    <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1178_1.png"/>
+    <url>http://www.elcinema.com</url>
+  </channel><channel id="Alhayat Series" country="arab">
+    <display-name lang="en">Alhayat Series</display-name>
+    <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1138_1.png"/>
     <url>http://www.elcinema.com</url>
   </channel><channel id="Watania 1" country="bein">
     <display-name lang="ar">Watania 1</display-name>
@@ -442,6 +490,30 @@
   </channel><channel id="Fan" country="el_cinema">
     <display-name lang="en">Fan</display-name>
     <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1233_1.png"/>
+    <url>http://www.elcinema.com</url>
+  </channel><channel id="Oman" country="el_cinema">
+    <display-name lang="en">Oman</display-name>
+    <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1317_1.png"/>
+    <url>http://www.elcinema.com</url>
+  </channel><channel id="Al Aoula Morocco" country="el_cinema">
+    <display-name lang="en">Al Aoula Morocco</display-name>
+    <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1312_1.png"/>
+    <url>http://www.elcinema.com</url>
+  </channel><channel id="Aflam TV 7 Maroc" country="el_cinema">
+    <display-name lang="en">Aflam TV 7 Maroc</display-name>
+    <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1207_1.png"/>
+    <url>http://www.elcinema.com</url>
+  </channel><channel id="CBC Drama" country="el_cinema">
+    <display-name lang="en">CBC Drama</display-name>
+    <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1199_1.png"/>
+    <url>http://www.elcinema.com</url>
+  </channel><channel id="Nile Drama" country="el_cinema">
+    <display-name lang="en">Nile Drama</display-name>
+    <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1156_1.png"/>
+    <url>http://www.elcinema.com</url>
+  </channel><channel id="Series" country="el_cinema">
+    <display-name lang="en">Series</display-name>
+    <icon src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1161_1.png"/>
     <url>http://www.elcinema.com</url>
   </channel><channel id="AD Sports 3 HD" country="osn10">
     <display-name lang="en">AD Sports 3 HD</display-name>

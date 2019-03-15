@@ -21,10 +21,22 @@
 |![icon](https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1135_1.png)|Emirates|http://www.elcinema.com|
 |![icon](https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1265_1.png)|Hawass|http://www.elcinema.com|
 |![icon](https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1169_1.png)|Dubai TV|http://www.elcinema.com|
+|![icon](https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1173_1.png)|Dubai One|http://www.elcinema.com|
 |![icon](https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1171_1.png)|Future TV|http://www.elcinema.com|
 |![icon](https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1225_1.png)|LBC Europe|http://www.elcinema.com|
 |![icon](https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1301_1.png)|Alsumaria|http://www.elcinema.com|
 |![icon](https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1168_1.png)|LBCI|http://www.elcinema.com|
+|![icon](https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1260_1.png)|CBC sofra|http://www.elcinema.com|
+|![icon](https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1176_1.png)|Cima|http://www.elcinema.com|
+|![icon](https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1195_1.png)|ART Cinema|http://www.elcinema.com|
+|![icon](https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1120_1.png)|ART Aflam 1|http://www.elcinema.com|
+|![icon](https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1121_1.png)|ART Aflam 2|http://www.elcinema.com|
+|![icon](https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1147_1.png)|Rotana Drama|http://www.elcinema.com|
+|![icon](https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1149_1.png)|Rotana Khalijiah|http://www.elcinema.com|
+|![icon](https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1339_1.png)|Al Saeedah|http://www.elcinema.com|
+|![icon](https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1223_1.png)|Al Nahar Drama|http://www.elcinema.com|
+|![icon](https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1178_1.png)|Abu Dhabi Drama|http://www.elcinema.com|
+|![icon](https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1138_1.png)|Alhayat Series|http://www.elcinema.com|
 |![icon](http://www.watania1.tn/sites/default/files/main_logo_watania1_0.png)|Watania 1|http://www.watania.tn|
 |![icon](http://www.watania2.tn/sites/default/files/main_logo_watania2_0.png)|Watania 2|http://www.watania.tn|
 |![icon](http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg)|HD1|http://www.bein.net|
@@ -118,6 +130,12 @@
 |![icon](https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1138_1.png)|Alhayat Series|http://www.elcinema.com|
 |![icon](https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1280_1.png)|TeN TV|http://www.elcinema.com|
 |![icon](https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1233_1.png)|Fan|http://www.elcinema.com|
+|![icon](https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1317_1.png)|Oman|http://www.elcinema.com|
+|![icon](https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1312_1.png)|Al Aoula Morocco|http://www.elcinema.com|
+|![icon](https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1207_1.png)|Aflam TV 7 Maroc|http://www.elcinema.com|
+|![icon](https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1199_1.png)|CBC Drama|http://www.elcinema.com|
+|![icon](https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1156_1.png)|Nile Drama|http://www.elcinema.com|
+|![icon](https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1161_1.png)|Series|http://www.elcinema.com|
 |![icon](http://content.osn.com/logo/channel/cropped/AD3.png)|AD Sports 3 HD|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/AD4.png)|AD Sports 4 HD|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/AD5.png)|AD Sports 5 HD|http://www.osn.com|
