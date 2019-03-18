@@ -246,12 +246,12 @@
 |![icon](http://content.osn.com/logo/channel/cropped/LIF.png)|Life OK Middle East|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/SAB.png)|Sab TV|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/ARY.png)|Ary Digital TV|http://www.osn.com|
-|![icon](http://content.osn.com/logo/channel/cropped/GEO.png)|GEO TV|http://www.osn.com|
-|![icon](http://content.osn.com/logo/channel/cropped/MAS.png)|Masala TV|http://www.osn.com|
-|![icon](http://content.osn.com/logo/channel/cropped/KIR.png)|Kiran TV|http://www.osn.com|
-|![icon](http://content.osn.com/logo/channel/cropped/STV.png)|Sun TV|http://www.osn.com|
-|![icon](http://content.osn.com/logo/channel/cropped/SUR.png)|Surya TV|http://www.osn.com|
-|![icon](http://content.osn.com/logo/channel/cropped/UDA.png)|Udaya TV|http://www.osn.com|
+|![icon]()|GEO TV|http://www.osn.com|
+|![icon]()|Masala TV|http://www.osn.com|
+|![icon]()|Kiran TV|http://www.osn.com|
+|![icon]()|Sun TV|http://www.osn.com|
+|![icon]()|Surya TV|http://www.osn.com|
+|![icon]()|Udaya TV|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/STJ.png)|Star Jalsha|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/SPR.png)|Star Pravah|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/MTL.png)|MTV Live HD|http://www.osn.com|
