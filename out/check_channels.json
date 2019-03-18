@@ -3199,7 +3199,7 @@
           "src": "http://content.osn.com/logo/channel/cropped/STJ.png"
         },
         "url": "http://www.osn.com",
-        "active": false
+        "active": true
       },
       {
         "id": "Star Pravah",
@@ -3351,6 +3351,9 @@
           "lang": "en",
           "$t": "CCTV News"
         },
+        "icon": {
+          "src": "http://content.osn.com/logo/channel/cropped/CT9.png"
+        },
         "url": "http://www.osn.com",
         "active": true
       },
@@ -3360,6 +3363,9 @@
         "display-name": {
           "lang": "en",
           "$t": "France 24 English"
+        },
+        "icon": {
+          "src": "http://content.osn.com/logo/channel/cropped/FRE.png"
         },
         "url": "http://www.osn.com",
         "active": true
@@ -3371,6 +3377,9 @@
           "lang": "en",
           "$t": "NHK World TV"
         },
+        "icon": {
+          "src": "http://content.osn.com/logo/channel/cropped/NHK.png"
+        },
         "url": "http://www.osn.com",
         "active": true
       },
@@ -3380,6 +3389,9 @@
         "display-name": {
           "lang": "en",
           "$t": "Dunya News"
+        },
+        "icon": {
+          "src": "http://content.osn.com/logo/channel/cropped/DUN.png"
         },
         "url": "http://www.osn.com",
         "active": true
@@ -3391,6 +3403,9 @@
           "lang": "en",
           "$t": "ARY News"
         },
+        "icon": {
+          "src": "http://content.osn.com/logo/channel/cropped/AYN.png"
+        },
         "url": "http://www.osn.com",
         "active": true
       },
@@ -3400,6 +3415,9 @@
         "display-name": {
           "lang": "en",
           "$t": "Geo News"
+        },
+        "icon": {
+          "src": "http://content.osn.com/logo/channel/cropped/GON.png"
         },
         "url": "http://www.osn.com",
         "active": true
@@ -3411,6 +3429,9 @@
           "lang": "en",
           "$t": "ABP News India"
         },
+        "icon": {
+          "src": "http://content.osn.com/logo/channel/cropped/ABP.png"
+        },
         "url": "http://www.osn.com",
         "active": true
       },
@@ -3420,6 +3441,9 @@
         "display-name": {
           "lang": "en",
           "$t": "Aaj Tak"
+        },
+        "icon": {
+          "src": "http://content.osn.com/logo/channel/cropped/ZEN.png"
         },
         "url": "http://www.osn.com",
         "active": true
