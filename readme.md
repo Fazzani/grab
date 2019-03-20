@@ -228,18 +228,18 @@
 |![icon](http://content.osn.com/logo/channel/cropped/OFS.png)|OSN First HBO HD|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/OFX.png)|OSN Series HD|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/OCO.png)|OSN Series Comedy HD|http://www.osn.com|
-|![icon](http://content.osn.com/logo/channel/cropped/OCX.png)|OSN Series Comedy HD +2h|http://www.osn.com|
-|![icon](http://content.osn.com/logo/channel/cropped/CCE.png)|Comedy Central|http://www.osn.com|
-|![icon](http://content.osn.com/logo/channel/cropped/SFY.png)|Syfy HD|http://www.osn.com|
-|![icon](http://content.osn.com/logo/channel/cropped/STW.png)|Star World HD|http://www.osn.com|
-|![icon](http://content.osn.com/logo/channel/cropped/TLC.png)|TLC HD|http://www.osn.com|
-|![icon](http://content.osn.com/logo/channel/cropped/FNH.png)|Food Network HD|http://www.osn.com|
-|![icon](http://content.osn.com/logo/channel/cropped/FIN.png)|Fine Living|http://www.osn.com|
-|![icon](http://content.osn.com/logo/channel/cropped/FTH.png)|Fashion TV HD|http://www.osn.com|
-|![icon](http://content.osn.com/logo/channel/cropped/TRA.png)|Travel Channel|http://www.osn.com|
-|![icon](http://content.osn.com/logo/channel/cropped/ATV.png)|\\u0026 TV|http://www.osn.com|
-|![icon](http://content.osn.com/logo/channel/cropped/STP.png)|Star Plus Middle East|http://www.osn.com|
-|![icon](http://content.osn.com/logo/channel/cropped/ZET.png)|Zee TV|http://www.osn.com|
+|![icon]()|OSN Series Comedy HD +2h|http://www.osn.com|
+|![icon]()|Comedy Central|http://www.osn.com|
+|![icon]()|Syfy HD|http://www.osn.com|
+|![icon]()|Star World HD|http://www.osn.com|
+|![icon]()|TLC HD|http://www.osn.com|
+|![icon]()|Food Network HD|http://www.osn.com|
+|![icon]()|Fine Living|http://www.osn.com|
+|![icon]()|Fashion TV HD|http://www.osn.com|
+|![icon]()|Travel Channel|http://www.osn.com|
+|![icon]()|\\u0026 TV|http://www.osn.com|
+|![icon]()|Star Plus Middle East|http://www.osn.com|
+|![icon]()|Zee TV|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/COL.png)|Colors|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/HUM.png)|Hum TV Middle East|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/RIS.png)|Rishtey TV|http://www.osn.com|
