@@ -729,7 +729,7 @@
           "src": "http://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"
         },
         "url": "http://www.bein.net",
-        "active": false
+        "active": true
       },
       {
         "id": "MoviesHD2",
@@ -2246,6 +2246,9 @@
           "lang": "en",
           "$t": "France 24"
         },
+        "icon": {
+          "src": "http://content.osn.com/logo/channel/cropped/FRA.png"
+        },
         "url": "http://www.osn.com",
         "active": true
       },
@@ -2255,6 +2258,9 @@
         "display-name": {
           "lang": "en",
           "$t": "CCTV Arabic"
+        },
+        "icon": {
+          "src": "http://content.osn.com/logo/channel/cropped/CTA.png"
         },
         "url": "http://www.osn.com",
         "active": true
