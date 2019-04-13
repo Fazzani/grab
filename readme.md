@@ -265,13 +265,13 @@
 |![icon](http://content.osn.com/logo/channel/cropped/GEM.png)|Gemini TV|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/BTV.png)|Bloomberg|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/CT9.png)|CCTV News|http://www.osn.com|
-|![icon](http://content.osn.com/logo/channel/cropped/FRE.png)|France 24 English|http://www.osn.com|
-|![icon](http://content.osn.com/logo/channel/cropped/NHK.png)|NHK World TV|http://www.osn.com|
-|![icon](http://content.osn.com/logo/channel/cropped/DUN.png)|Dunya News|http://www.osn.com|
-|![icon](http://content.osn.com/logo/channel/cropped/AYN.png)|ARY News|http://www.osn.com|
-|![icon](http://content.osn.com/logo/channel/cropped/GON.png)|Geo News|http://www.osn.com|
-|![icon](http://content.osn.com/logo/channel/cropped/ABP.png)|ABP News India|http://www.osn.com|
-|![icon](http://content.osn.com/logo/channel/cropped/ZEN.png)|Aaj Tak|http://www.osn.com|
+|![icon]()|France 24 English|http://www.osn.com|
+|![icon]()|NHK World TV|http://www.osn.com|
+|![icon]()|Dunya News|http://www.osn.com|
+|![icon]()|ARY News|http://www.osn.com|
+|![icon]()|Geo News|http://www.osn.com|
+|![icon]()|ABP News India|http://www.osn.com|
+|![icon]()|Aaj Tak|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/SPH.png)|OSN Sports Action 1 HD|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/SP2.png)|OSN Sports Action 2 HD|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/SP3.png)|OSN Sports 3 HD|http://www.osn.com|
