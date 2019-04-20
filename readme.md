@@ -168,11 +168,11 @@
 |![icon](http://content.osn.com/logo/channel/cropped/KDZ.png)|OSN Kid Zone TV|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/ONS.png)|OSN News|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/SKH.png)|Sky News HD|http://www.osn.com|
-|![icon]()|BBC World|http://www.osn.com|
-|![icon]()|SET Middle East|http://www.osn.com|
-|![icon]()|Discovery HD|http://www.osn.com|
-|![icon]()|Discovery Family HD|http://www.osn.com|
-|![icon]()|NickToons|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/BBW.png)|BBC World|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/SET.png)|SET Middle East|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/DSC.png)|Discovery HD|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/DCF.png)|Discovery Family HD|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/NKT.png)|NickToons|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/TIM.png)|Times Now|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/NDT.png)|NDTV 24x7|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/ANN.png)|Asianet News|http://www.osn.com|
