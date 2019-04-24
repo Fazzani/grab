@@ -292,8 +292,8 @@
 |![icon](http://content.osn.com/logo/channel/cropped/MH4.png)|MBC 4|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/MHD.png)|MBC Drama|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/MH2.png)|MBC 2|http://www.osn.com|
-|![icon]()|MBC MAX|http://www.osn.com|
-|![icon]()|MBC Action|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/MHM.png)|MBC MAX|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/MHA.png)|MBC Action|http://www.osn.com|
 |![icon]()|Panorama Food|http://www.seevii.com|
 |![icon]()|Al Thakafeyia|http://www.seevii.com|
 |![icon]()|National Geographic Abu  Dhabi|http://www.seevii.com|
