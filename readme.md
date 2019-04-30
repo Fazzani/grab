@@ -178,8 +178,8 @@
 |![icon](http://content.osn.com/logo/channel/cropped/ANN.png)|Asianet News|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/SNH.png)|Sky News Arabia HD|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/SNA.png)|Sky News Arabia|http://www.osn.com|
-|![icon]()|Alarabiya|http://www.osn.com|
-|![icon]()|France 24|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/ARH.png)|Alarabiya|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/FRA.png)|France 24|http://www.osn.com|
 |![icon]()|CCTV Arabic|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/OM1.png)|OSN Movies HD|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/OM1.png)|OSN Movies First HD|http://www.osn.com|
