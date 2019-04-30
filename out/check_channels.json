@@ -2055,7 +2055,7 @@
           "src": "http://content.osn.com/logo/channel/cropped/NJR.png"
         },
         "url": "http://www.osn.com",
-        "active": true
+        "active": false
       },
       {
         "id": "OSN Kid Zone TV",
@@ -2233,6 +2233,9 @@
           "lang": "en",
           "$t": "Alarabiya"
         },
+        "icon": {
+          "src": "http://content.osn.com/logo/channel/cropped/ARH.png"
+        },
         "url": "http://www.osn.com",
         "active": false
       },
@@ -2243,8 +2246,11 @@
           "lang": "en",
           "$t": "France 24"
         },
+        "icon": {
+          "src": "http://content.osn.com/logo/channel/cropped/FRA.png"
+        },
         "url": "http://www.osn.com",
-        "active": false
+        "active": true
       },
       {
         "id": "CCTV Arabic",
