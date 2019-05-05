@@ -70,22 +70,6 @@
     <icon src="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/80x80/192.png" />
     <url>http://www.telerama.fr</url>
   </channel>
-  <programme start="20190504080000 +0200" stop="20190504160000 +0200" channel="MTV Rocks">
-    <title lang="fr">Biggest ! Hottest ! Loudest !</title>
-    <category lang="fr">Clips</category>
-  </programme>
-  <programme start="20190504160000 +0200" stop="20190504180000 +0200" channel="MTV Rocks">
-    <title lang="fr">100% Anthems !</title>
-    <category lang="fr">Clips</category>
-  </programme>
-  <programme start="20190504180000 +0200" stop="20190504230000 +0200" channel="MTV Rocks">
-    <title lang="fr">Saturday Night Rocks !</title>
-    <category lang="fr">Clips</category>
-  </programme>
-  <programme start="20190504230000 +0200" stop="20190505050000 +0200" channel="MTV Rocks">
-    <title lang="fr">All Night Session</title>
-    <category lang="fr">Clips</category>
-  </programme>
   <programme start="20190505080000 +0200" stop="20190505160000 +0200" channel="MTV Rocks">
     <title lang="fr">Biggest ! Hottest ! Loudest !</title>
     <category lang="fr">Clips</category>
@@ -102,40 +86,20 @@
     <title lang="fr">All Night Session</title>
     <category lang="fr">Clips</category>
   </programme>
-  <programme start="20190504010000 +0200" stop="20190504030000 +0200" channel="MTV Base">
-    <title lang="fr">Gimme Da Light ! Sizzling Dancehall Anthems</title>
+  <programme start="20190506080000 +0200" stop="20190506160000 +0200" channel="MTV Rocks">
+    <title lang="fr">Biggest ! Hottest ! Loudest !</title>
     <category lang="fr">Clips</category>
   </programme>
-  <programme start="20190504030000 +0200" stop="20190504050000 +0200" channel="MTV Base">
-    <title lang="fr">Super Base Beats</title>
+  <programme start="20190506160000 +0200" stop="20190506180000 +0200" channel="MTV Rocks">
+    <title lang="fr">100% Anthems !</title>
     <category lang="fr">Clips</category>
   </programme>
-  <programme start="20190504070000 +0200" stop="20190504100000 +0200" channel="MTV Base">
-    <title lang="fr">Super Base Beats</title>
+  <programme start="20190506180000 +0200" stop="20190506230000 +0200" channel="MTV Rocks">
+    <title lang="fr">Rocks Rated !</title>
     <category lang="fr">Clips</category>
   </programme>
-  <programme start="20190504100000 +0200" stop="20190504110000 +0200" channel="MTV Base">
-    <title lang="fr">Rewind ! 2000-2005</title>
-    <category lang="fr">Clips</category>
-  </programme>
-  <programme start="20190504110000 +0200" stop="20190504140000 +0200" channel="MTV Base">
-    <title lang="fr">In My Feelings : 90s Mix</title>
-    <category lang="fr">Clips</category>
-  </programme>
-  <programme start="20190504140000 +0200" stop="20190504160000 +0200" channel="MTV Base">
-    <title lang="fr">Ella Mai's R+B Anthems</title>
-    <category lang="fr">Clips</category>
-  </programme>
-  <programme start="20190504160000 +0200" stop="20190504180000 +0200" channel="MTV Base">
-    <title lang="fr">The Official UK Urban Chart</title>
-    <category lang="fr">Clips</category>
-  </programme>
-  <programme start="20190504180000 +0200" stop="20190504200000 +0200" channel="MTV Base">
-    <title lang="fr">Hot Right Now !</title>
-    <category lang="fr">Clips</category>
-  </programme>
-  <programme start="20190504200000 +0200" stop="20190505010000 +0200" channel="MTV Base">
-    <title lang="fr">This Is How We Do A 90s Houseparty</title>
+  <programme start="20190506230000 +0200" stop="20190507050000 +0200" channel="MTV Rocks">
+    <title lang="fr">All Night Session</title>
     <category lang="fr">Clips</category>
   </programme>
   <programme start="20190505010000 +0200" stop="20190505030000 +0200" channel="MTV Base">
@@ -190,263 +154,76 @@
     <title lang="fr">Super Base Beats</title>
     <category lang="fr">Clips</category>
   </programme>
-  <programme start="20190504000000 +0200" stop="20190504020000 +0200" channel="NRJ Hits">
+  <programme start="20190505060000 +0200" stop="20190505090000 +0200" channel="NRJ Hits">
+    <title lang="fr">La tête dans le clip</title>
+    <category lang="fr">Clips</category>
+  </programme>
+  <programme start="20190505090000 +0200" stop="20190505120000 +0200" channel="NRJ Hits">
+    <title lang="fr">NRJ Morning Hits (?)</title>
+    <category lang="fr">Clips</category>
+  </programme>
+  <programme start="20190505120000 +0200" stop="20190505150000 +0200" channel="NRJ Hits">
+    <title lang="fr">NRJ Week End (?)</title>
+    <category lang="fr">Clips</category>
+  </programme>
+  <programme start="20190505150000 +0200" stop="20190505180000 +0200" channel="NRJ Hits">
+    <title lang="fr">NRJ Week End (?)</title>
+    <category lang="fr">Clips</category>
+  </programme>
+  <programme start="20190505180000 +0200" stop="20190505200000 +0200" channel="NRJ Hits">
+    <title lang="fr">NRJ Hit Music Only (?)</title>
+    <category lang="fr">Clips</category>
+  </programme>
+  <programme start="20190505200000 +0200" stop="20190505220000 +0200" channel="NRJ Hits">
+    <title lang="fr">Billboard Music Awards 2019</title>
+    <category lang="fr">Cérémonie</category>
+  </programme>
+  <programme start="20190505220000 +0200" stop="20190506000000 +0200" channel="NRJ Hits">
     <title lang="fr">NRJ Hits Mix (?)</title>
     <category lang="fr">Clips</category>
   </programme>
-  <programme start="20190504020000 +0200" stop="20190504060000 +0200" channel="NRJ Hits">
+  <programme start="20190506000000 +0200" stop="20190506020000 +0200" channel="NRJ Hits">
+    <title lang="fr">NRJ Hits Mix (?)</title>
+    <category lang="fr">Clips</category>
+  </programme>
+  <programme start="20190506020000 +0200" stop="20190506060000 +0200" channel="NRJ Hits">
     <title lang="fr">French Music Only (?)</title>
     <category lang="fr">Clips</category>
   </programme>
-  <programme start="20190504043000 +0200" stop="20190504051500 +0200" channel="E !">
-    <title lang="fr">C'est mon mariage ! (?)</title>
-    <category lang="fr">Téléréalité</category>
+  <programme start="20190506060000 +0200" stop="20190506090000 +0200" channel="NRJ Hits">
+    <title lang="fr">La tête dans le clip</title>
+    <category lang="fr">Clips</category>
   </programme>
-  <programme start="20190504051500 +0200" stop="20190504060000 +0200" channel="E !">
-    <title lang="fr">C'est mon mariage ! (?)</title>
-    <category lang="fr">Téléréalité</category>
+  <programme start="20190506090000 +0200" stop="20190506120000 +0200" channel="NRJ Hits">
+    <title lang="fr">NRJ Morning Hits (?)</title>
+    <category lang="fr">Clips</category>
   </programme>
-  <programme start="20190504000100 +0200" stop="20190504005500 +0200" channel="Chasse et pêche">
-    <title lang="fr">Les nouvelles amazones (?)</title>
-    <credits>
-      <director>Julien Pot</director>
-    </credits>
-    <category lang="fr">Chasse</category>
+  <programme start="20190506120000 +0200" stop="20190506150000 +0200" channel="NRJ Hits">
+    <title lang="fr">Hit Music Only</title>
+    <category lang="fr">Clips</category>
   </programme>
-  <programme start="20190504005500 +0200" stop="20190504051300 +0200" channel="Chasse et pêche">
-    <title lang="fr">Programmes de la nuit</title>
-    <category lang="fr">Programme indéterminé</category>
+  <programme start="20190506150000 +0200" stop="20190506170000 +0200" channel="NRJ Hits">
+    <title lang="fr">Hit Music Only</title>
+    <category lang="fr">Clips</category>
   </programme>
-  <programme start="20190504001000 +0200" stop="20190504010000 +0200" channel="Discovery Channel">
-    <title lang="fr">American Guns (?)</title>
-    <category lang="fr">Découvertes</category>
+  <programme start="20190506170000 +0200" stop="20190506200000 +0200" channel="NRJ Hits">
+    <title lang="fr">NRJ After School</title>
+    <category lang="fr">Clips</category>
   </programme>
-  <programme start="20190504010000 +0200" stop="20190504015000 +0200" channel="Discovery Channel">
-    <title lang="fr">Occasions à saisir (?)</title>
-    <category lang="fr">Découvertes</category>
+  <programme start="20190506200000 +0200" stop="20190506220000 +0200" channel="NRJ Hits">
+    <title lang="fr">NRJ Hit Music Only (?)</title>
+    <category lang="fr">Clips</category>
   </programme>
-  <programme start="20190504015000 +0200" stop="20190504024000 +0200" channel="Discovery Channel">
-    <title lang="fr">Occasions à saisir (?)</title>
-    <category lang="fr">Découvertes</category>
+  <programme start="20190506220000 +0200" stop="20190507000000 +0200" channel="NRJ Hits">
+    <title lang="fr">NRJ Hit Music Only (?)</title>
+    <category lang="fr">Clips</category>
   </programme>
-  <programme start="20190504024000 +0200" stop="20190504030500 +0200" channel="Discovery Channel">
-    <title lang="fr">Au coeur des douanes (?)</title>
-    <category lang="fr">Société</category>
+  <programme start="20190507000000 +0200" stop="20190507020000 +0200" channel="NRJ Hits">
+    <title lang="fr">NRJ Hits Mix (?)</title>
+    <category lang="fr">Clips</category>
   </programme>
-  <programme start="20190504030500 +0200" stop="20190504033000 +0200" channel="Discovery Channel">
-    <title lang="fr">Au coeur des douanes (?)</title>
-    <category lang="fr">Société</category>
-  </programme>
-  <programme start="20190504033000 +0200" stop="20190504035500 +0200" channel="Discovery Channel">
-    <title lang="fr">Au coeur des douanes (?)</title>
-    <category lang="fr">Société</category>
-  </programme>
-  <programme start="20190504035500 +0200" stop="20190504042000 +0200" channel="Discovery Channel">
-    <title lang="fr">Au coeur des douanes (?)</title>
-    <category lang="fr">Société</category>
-  </programme>
-  <programme start="20190504042000 +0200" stop="20190504051000 +0200" channel="Discovery Channel">
-    <title lang="fr">Ice Lake Rebels (?)</title>
-    <category lang="fr">Téléréalité</category>
-  </programme>
-  <programme start="20190504051000 +0200" stop="20190504060000 +0200" channel="Discovery Channel">
-    <title lang="fr">Ice Lake Rebels (?)</title>
-    <category lang="fr">Téléréalité</category>
-  </programme>
-  <programme start="20190504002500 +0200" stop="20190504011500 +0200" channel="Discovery Science">
-    <title lang="fr">Treasure Quest (?)</title>
-    <credits>
-      <director>Brendan Goeckel</director>
-      <director>Chris Sondreal</director>
-      <director>William Gardner</director>
-    </credits>
-    <category lang="fr">Aventures</category>
-  </programme>
-  <programme start="20190504011500 +0200" stop="20190504020000 +0200" channel="Discovery Science">
-    <title lang="fr">Treasure Quest (?)</title>
-    <credits>
-      <director>Brendan Goeckel</director>
-      <director>Chris Sondreal</director>
-      <director>William Gardner</director>
-    </credits>
-    <category lang="fr">Aventures</category>
-  </programme>
-  <programme start="20190504020000 +0200" stop="20190504025000 +0200" channel="Discovery Science">
-    <title lang="fr">Chantier naval XXL (?)</title>
-    <category lang="fr">Sciences et technique</category>
-  </programme>
-  <programme start="20190504025000 +0200" stop="20190504034000 +0200" channel="Discovery Science">
-    <title lang="fr">Chantier naval XXL (?)</title>
-    <category lang="fr">Sciences et technique</category>
-  </programme>
-  <programme start="20190504034000 +0200" stop="20190504042500 +0200" channel="Discovery Science">
-    <title lang="fr">Chantier naval XXL (?)</title>
-    <category lang="fr">Sciences et technique</category>
-  </programme>
-  <programme start="20190504042500 +0200" stop="20190504051500 +0200" channel="Discovery Science">
-    <title lang="fr">Machines de titan (?)</title>
-    <category lang="fr">Découvertes</category>
-  </programme>
-  <programme start="20190504051500 +0200" stop="20190504060000 +0200" channel="Discovery Science">
-    <title lang="fr">Construire l'impossible (?)</title>
-    <credits>
-      <director>Suzanne Carvin</director>
-      <director>Tim Williams</director>
-      <director>Todd Eckerson Wendel</director>
-    </credits>
-    <category lang="fr">Sciences et technique</category>
-  </programme>
-  <programme start="20190504000400 +0200" stop="20190504005700 +0200" channel="Science &amp; Vie TV">
-    <title lang="fr">Code rouge (?)</title>
-    <category lang="fr">Sciences et technique</category>
-  </programme>
-  <programme start="20190504005700 +0200" stop="20190504015000 +0200" channel="Science &amp; Vie TV">
-    <title lang="fr">Code rouge (?)</title>
-    <category lang="fr">Sciences et technique</category>
-  </programme>
-  <programme start="20190504015000 +0200" stop="20190504022000 +0200" channel="Science &amp; Vie TV">
-    <title lang="fr">Le mag de la science : hebdo (?)</title>
-    <credits>
-      <presenter>Jérôme Bonaldi</presenter>
-    </credits>
-    <category lang="fr">Magazine scientifique</category>
-  </programme>
-  <programme start="20190504022000 +0200" stop="20190504030800 +0200" channel="Science &amp; Vie TV">
-    <title lang="fr">Les trains de l'extrême *2016 (?)</title>
-    <credits>
-      <director>Michael Davidson</director>
-    </credits>
-    <category lang="fr">Découvertes</category>
-  </programme>
-  <programme start="20190504030800 +0200" stop="20190504045200 +0200" channel="Science &amp; Vie TV">
-    <title lang="fr">Ebola au grand jour (?)</title>
-    <credits>
-      <director>Mark Dyson</director>
-    </credits>
-    <category lang="fr">Sciences et technique</category>
-  </programme>
-  <programme start="20190504003000 +0200" stop="20190504012000 +0200" channel="Extreme Sports Channel">
-    <title lang="fr">Rodéo</title>
-    <category lang="fr">Rodéo</category>
-  </programme>
-  <programme start="20190504012000 +0200" stop="20190504021000 +0200" channel="Extreme Sports Channel">
-    <title lang="fr">IMMAF European Open</title>
-    <category lang="fr">MMA</category>
-  </programme>
-  <programme start="20190504021000 +0200" stop="20190504030000 +0200" channel="Extreme Sports Channel">
-    <title lang="fr">Voies féminines (?)</title>
-    <credits>
-      <director>Francisco Taranto Jr</director>
-      <director>Sandra Ducasse</director>
-    </credits>
-    <category lang="fr">Sport</category>
-  </programme>
-  <programme start="20190504030000 +0200" stop="20190504032500 +0200" channel="Extreme Sports Channel">
-    <title lang="fr">BMX</title>
-    <category lang="fr">BMX</category>
-  </programme>
-  <programme start="20190504032500 +0200" stop="20190504035000 +0200" channel="Extreme Sports Channel">
-    <title lang="fr">BMX</title>
-    <category lang="fr">BMX</category>
-  </programme>
-  <programme start="20190504035000 +0200" stop="20190504044500 +0200" channel="Extreme Sports Channel">
-    <title lang="fr">Sport de force (?)</title>
-    <category lang="fr">Sport de force</category>
-  </programme>
-  <programme start="20190504044500 +0200" stop="20190504053500 +0200" channel="Extreme Sports Channel">
-    <title lang="fr">Rodéo</title>
-    <category lang="fr">Rodéo</category>
-  </programme>
-  <programme start="20190504000000 +0200" stop="20190504003000 +0200" channel="Al Jazeera English">
-    <title lang="fr">News Live</title>
-    <category lang="fr">Journal</category>
-  </programme>
-  <programme start="20190504003000 +0200" stop="20190504010000 +0200" channel="Al Jazeera English">
-    <title lang="fr">Counting the Cost</title>
-    <category lang="fr">Société</category>
-  </programme>
-  <programme start="20190504010000 +0200" stop="20190504020000 +0200" channel="Al Jazeera English">
-    <title lang="fr">Newshour</title>
-    <category lang="fr">Journal</category>
-  </programme>
-  <programme start="20190504020000 +0200" stop="20190504023000 +0200" channel="Al Jazeera English">
-    <title lang="fr">News Live</title>
-    <category lang="fr">Journal</category>
-  </programme>
-  <programme start="20190504023000 +0200" stop="20190504030000 +0200" channel="Al Jazeera English">
-    <title lang="fr">Inside Story</title>
-    <category lang="fr">Magazine d'actualité</category>
-  </programme>
-  <programme start="20190504030000 +0200" stop="20190504040000 +0200" channel="Al Jazeera English">
-    <title lang="fr">28 Up South Africa (?)</title>
-    <category lang="fr">Histoire</category>
-  </programme>
-  <programme start="20190504040000 +0200" stop="20190504050000 +0200" channel="Al Jazeera English">
-    <title lang="fr">Newshour</title>
-    <category lang="fr">Journal</category>
-  </programme>
-  <programme start="20190504050000 +0200" stop="20190504053000 +0200" channel="Al Jazeera English">
-    <title lang="fr">News Live</title>
-    <category lang="fr">Journal</category>
-  </programme>
-  <programme start="20190504053000 +0200" stop="20190504060000 +0200" channel="Al Jazeera English">
-    <title lang="fr">101 East</title>
-    <category lang="fr">Magazine de société</category>
-  </programme>
-  <programme start="20190504000000 +0200" stop="20190504003000 +0200" channel="BBC World News">
-    <title lang="fr">BBC World News (?)</title>
-    <category lang="fr">Journal</category>
-  </programme>
-  <programme start="20190504003000 +0200" stop="20190504010000 +0200" channel="BBC World News">
-    <title lang="fr">Newsnight (?)</title>
-    <credits>
-      <presenter>Emily Maitlis</presenter>
-      <presenter>Evan Davis</presenter>
-      <presenter>Kirsty Wark</presenter>
-    </credits>
-    <category lang="fr">Magazine d'information</category>
-  </programme>
-  <programme start="20190504010000 +0200" stop="20190504013000 +0200" channel="BBC World News">
-    <title lang="fr">BBC World News (?)</title>
-    <category lang="fr">Journal</category>
-  </programme>
-  <programme start="20190504013000 +0200" stop="20190504020000 +0200" channel="BBC World News">
-    <title lang="fr">Witness History (?)</title>
-    <category lang="fr">Société</category>
-  </programme>
-  <programme start="20190504020000 +0200" stop="20190504023000 +0200" channel="BBC World News">
-    <title lang="fr">BBC World News (?)</title>
-    <category lang="fr">Journal</category>
-  </programme>
-  <programme start="20190504023000 +0200" stop="20190504030000 +0200" channel="BBC World News">
-    <title lang="fr">Click (?)</title>
-    <credits>
-      <presenter>Gareth Mitchell</presenter>
-    </credits>
-    <category lang="fr">Magazine du multimédia</category>
-  </programme>
-  <programme start="20190504030000 +0200" stop="20190504033000 +0200" channel="BBC World News">
-    <title lang="fr">BBC World News (?)</title>
-    <category lang="fr">Journal</category>
-  </programme>
-  <programme start="20190504033000 +0200" stop="20190504040000 +0200" channel="BBC World News">
-    <title lang="fr">Exposed : The Hidden World Of Neo Nazi Recruiters (?)</title>
-    <category lang="fr">Histoire</category>
-  </programme>
-  <programme start="20190504040000 +0200" stop="20190504041000 +0200" channel="BBC World News">
-    <title lang="fr">BBC World News (?)</title>
-    <category lang="fr">Journal</category>
-  </programme>
-  <programme start="20190504041000 +0200" stop="20190504050000 +0200" channel="BBC World News">
-    <title lang="fr">Imagine (?)</title>
-    <category lang="fr">Culture</category>
-  </programme>
-  <programme start="20190504050000 +0200" stop="20190504053000 +0200" channel="BBC World News">
-    <title lang="fr">BBC World News</title>
-    <category lang="fr">Journal</category>
-  </programme>
-  <programme start="20190504053000 +0200" stop="20190504060000 +0200" channel="BBC World News">
-    <title lang="fr">The Travel Show</title>
-    <category lang="fr">Magazine du tourisme</category>
+  <programme start="20190507020000 +0200" stop="20190507060000 +0200" channel="NRJ Hits">
+    <title lang="fr">French Music Only (?)</title>
+    <category lang="fr">Clips</category>
   </programme>
 </tv>
