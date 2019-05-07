@@ -281,8 +281,8 @@
 |![icon](http://content.osn.com/logo/channel/cropped/CRI.png)|OSN Sports Cricket HD|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/TCR.png)|Ten Cricket International|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/FNW.png)|OSN Fight Network HD|http://www.osn.com|
-|![icon](http://content.osn.com/logo/channel/cropped/FUE.png)|Fuel TV|http://www.osn.com|
-|![icon](http://content.osn.com/logo/channel/cropped/GNX.png)|Ginx Esports TV HD|http://www.osn.com|
+|![icon]()|Fuel TV|http://www.osn.com|
+|![icon]()|Ginx Esports TV HD|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/CIN.png)|Cine Mo|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/LSN.png)|Lifestyle Network|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/GMA.png)|GMA Pinoy TV|http://www.osn.com|
