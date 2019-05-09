@@ -150,9 +150,9 @@
 |![icon](http://content.osn.com/logo/channel/cropped/DZM.png)|DZMM Teleradyo|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/DWR.png)|DWRR 101.9|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/VIV.png)|Viva TV|http://www.osn.com|
-|![icon](http://content.osn.com/logo/channel/cropped/TV5.png)|Kapatid TV5|http://www.osn.com|
-|![icon](http://content.osn.com/logo/channel/cropped/AKS.png)|Aksyon TV|http://www.osn.com|
-|![icon](http://content.osn.com/logo/channel/cropped/DJR.png)|Disney Junior|http://www.osn.com|
+|![icon]()|Kapatid TV5|http://www.osn.com|
+|![icon]()|Aksyon TV|http://www.osn.com|
+|![icon]()|Disney Junior|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/SCI.png)|Discovery Science HD|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/DCX.png)|IDX HD|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/CAI.png)|Crime \\u0026 Investigation Network|http://www.osn.com|
