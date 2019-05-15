@@ -163,7 +163,7 @@
 |![icon](http://content.osn.com/logo/channel/cropped/NHD.png)|Nat Geo Wild HD|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/NAH.png)|Nat Geo People HD|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/CNB.png)|CNBC|http://www.osn.com|
-|![icon](http://content.osn.com/logo/channel/cropped/FXN.png)|Fox News|http://www.osn.com|
+|![icon]()|Fox News|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/NJR.png)|Nick Jr|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/KDZ.png)|OSN Kid Zone TV|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/ONS.png)|OSN News|http://www.osn.com|
