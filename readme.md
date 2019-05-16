@@ -163,7 +163,7 @@
 |![icon](http://content.osn.com/logo/channel/cropped/NHD.png)|Nat Geo Wild HD|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/NAH.png)|Nat Geo People HD|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/CNB.png)|CNBC|http://www.osn.com|
-|![icon]()|Fox News|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/FXN.png)|Fox News|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/NJR.png)|Nick Jr|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/KDZ.png)|OSN Kid Zone TV|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/ONS.png)|OSN News|http://www.osn.com|
@@ -262,7 +262,7 @@
 |![icon](http://content.osn.com/logo/channel/cropped/UTV.png)|Bindaas|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/DIS.png)|Disney HD|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/DXD.png)|Disney XD|http://www.osn.com|
-|![icon]()|Gemini TV|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/GEM.png)|Gemini TV|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/BTV.png)|Bloomberg|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/CT9.png)|CCTV News|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/FRE.png)|France 24 English|http://www.osn.com|
