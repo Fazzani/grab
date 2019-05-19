@@ -157,13 +157,13 @@
 |![icon](http://content.osn.com/logo/channel/cropped/DCX.png)|IDX HD|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/CAI.png)|Crime \\u0026 Investigation Network|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/HIS.png)|History HD|http://www.osn.com|
-|![icon](http://content.osn.com/logo/channel/cropped/HI2.png)|H2 HD|http://www.osn.com|
-|![icon](http://content.osn.com/logo/channel/cropped/APL.png)|Animal Planet HD|http://www.osn.com|
-|![icon](http://content.osn.com/logo/channel/cropped/NGO.png)|Nat Geo HD|http://www.osn.com|
-|![icon](http://content.osn.com/logo/channel/cropped/NHD.png)|Nat Geo Wild HD|http://www.osn.com|
-|![icon](http://content.osn.com/logo/channel/cropped/NAH.png)|Nat Geo People HD|http://www.osn.com|
-|![icon](http://content.osn.com/logo/channel/cropped/CNB.png)|CNBC|http://www.osn.com|
-|![icon](http://content.osn.com/logo/channel/cropped/FXN.png)|Fox News|http://www.osn.com|
+|![icon]()|H2 HD|http://www.osn.com|
+|![icon]()|Animal Planet HD|http://www.osn.com|
+|![icon]()|Nat Geo HD|http://www.osn.com|
+|![icon]()|Nat Geo Wild HD|http://www.osn.com|
+|![icon]()|Nat Geo People HD|http://www.osn.com|
+|![icon]()|CNBC|http://www.osn.com|
+|![icon]()|Fox News|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/NJR.png)|Nick Jr|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/KDZ.png)|OSN Kid Zone TV|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/ONS.png)|OSN News|http://www.osn.com|
@@ -268,10 +268,10 @@
 |![icon](http://content.osn.com/logo/channel/cropped/FRE.png)|France 24 English|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/NHK.png)|NHK World TV|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/DUN.png)|Dunya News|http://www.osn.com|
-|![icon](http://content.osn.com/logo/channel/cropped/AYN.png)|ARY News|http://www.osn.com|
-|![icon](http://content.osn.com/logo/channel/cropped/GON.png)|Geo News|http://www.osn.com|
-|![icon](http://content.osn.com/logo/channel/cropped/ABP.png)|ABP News India|http://www.osn.com|
-|![icon](http://content.osn.com/logo/channel/cropped/ZEN.png)|Aaj Tak|http://www.osn.com|
+|![icon]()|ARY News|http://www.osn.com|
+|![icon]()|Geo News|http://www.osn.com|
+|![icon]()|ABP News India|http://www.osn.com|
+|![icon]()|Aaj Tak|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/SPH.png)|OSN Sports Action 1 HD|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/SP2.png)|OSN Sports Action 2 HD|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/SP3.png)|OSN Sports 3 HD|http://www.osn.com|
