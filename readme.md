@@ -161,7 +161,7 @@
 |![icon](http://content.osn.com/logo/channel/cropped/APL.png)|Animal Planet HD|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/NGO.png)|Nat Geo HD|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/NHD.png)|Nat Geo Wild HD|http://www.osn.com|
-|![icon](http://content.osn.com/logo/channel/cropped/NAH.png)|Nat Geo People HD|http://www.osn.com|
+|![icon]()|Nat Geo People HD|http://www.osn.com|
 |![icon]()|CNBC|http://www.osn.com|
 |![icon]()|Fox News|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/NJR.png)|Nick Jr|http://www.osn.com|
@@ -257,12 +257,12 @@
 |![icon](http://content.osn.com/logo/channel/cropped/MTL.png)|MTV Live HD|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/VH1.png)|VH1|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/TRM.png)|Trace Urban|http://www.osn.com|
-|![icon]()|Sony MIX|http://www.osn.com|
-|![icon]()|MTV India|http://www.osn.com|
-|![icon]()|Bindaas|http://www.osn.com|
-|![icon]()|Disney HD|http://www.osn.com|
-|![icon]()|Disney XD|http://www.osn.com|
-|![icon]()|Gemini TV|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/SMX.png)|Sony MIX|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/MIN.png)|MTV India|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/UTV.png)|Bindaas|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/DIS.png)|Disney HD|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/DXD.png)|Disney XD|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/GEM.png)|Gemini TV|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/BTV.png)|Bloomberg|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/CT9.png)|CCTV News|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/FRE.png)|France 24 English|http://www.osn.com|
