@@ -140,22 +140,22 @@
 |![icon](http://content.osn.com/logo/channel/cropped/AD4.png)|AD Sports 4 HD|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/AD5.png)|AD Sports 5 HD|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/AD6.png)|AD Sports 6 HD|http://www.osn.com|
-|![icon]()|Edge Sport HD|http://www.osn.com|
-|![icon]()|Dubai Sports 4 HD|http://www.osn.com|
-|![icon]()|Dubai Sports 2 HD|http://www.osn.com|
-|![icon]()|TFC|http://www.osn.com|
-|![icon]()|ABS-CBN Sports+Action|http://www.osn.com|
-|![icon]()|Cinema One Global|http://www.osn.com|
-|![icon]()|ANC|http://www.osn.com|
-|![icon]()|DZMM Teleradyo|http://www.osn.com|
-|![icon]()|DWRR 101.9|http://www.osn.com|
-|![icon]()|Viva TV|http://www.osn.com|
-|![icon]()|Kapatid TV5|http://www.osn.com|
-|![icon]()|Aksyon TV|http://www.osn.com|
-|![icon]()|Disney Junior|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/AD7.png)|Edge Sport HD|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/DS5.png)|Dubai Sports 4 HD|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/DH2.png)|Dubai Sports 2 HD|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/TFC.png)|TFC|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/BRO.png)|ABS-CBN Sports+Action|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/COG.png)|Cinema One Global|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/ANC.png)|ANC|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/DZM.png)|DZMM Teleradyo|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/DWR.png)|DWRR 101.9|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/VIV.png)|Viva TV|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/TV5.png)|Kapatid TV5|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/AKS.png)|Aksyon TV|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/DJR.png)|Disney Junior|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/SCI.png)|Discovery Science HD|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/DCX.png)|IDX HD|http://www.osn.com|
-|![icon](http://content.osn.com/logo/channel/cropped/CAI.png)|Crime \\u0026 Investigation Network|http://www.osn.com|
+|![icon]()|Crime \\u0026 Investigation Network|http://www.osn.com|
 |![icon]()|History HD|http://www.osn.com|
 |![icon]()|H2 HD|http://www.osn.com|
 |![icon]()|Animal Planet HD|http://www.osn.com|
