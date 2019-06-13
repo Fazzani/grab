@@ -271,7 +271,7 @@
 |![icon](http://content.osn.com/logo/channel/cropped/AYN.png)|ARY News|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/GON.png)|Geo News|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/ABP.png)|ABP News India|http://www.osn.com|
-|![icon]()|Aaj Tak|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/ZEN.png)|Aaj Tak|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/SPH.png)|OSN Sports Action 1 HD|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/SP2.png)|OSN Sports Action 2 HD|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/SP3.png)|OSN Sports 3 HD|http://www.osn.com|
