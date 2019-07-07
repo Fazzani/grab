@@ -185,15 +185,15 @@
 |![icon](http://content.osn.com/logo/channel/cropped/OM1.png)|OSN Movies First HD|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/OMX.png)|OSN Movies First HD +2h|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/AHD.png)|OSN Movies Action HD|http://www.osn.com|
-|![icon]()|OSN Movies Action +2|http://www.osn.com|
-|![icon]()|OSN Movies HD Premier|http://www.osn.com|
-|![icon]()|OSN Movies +2h|http://www.osn.com|
-|![icon]()|OSN Movies Thriller HD|http://www.osn.com|
-|![icon]()|OSN Movies Thriller +2h|http://www.osn.com|
-|![icon]()|OSN Movies Festival HD|http://www.osn.com|
-|![icon]()|OSN Movies Kids HD|http://www.osn.com|
-|![icon]()|OSN Movies Family HD|http://www.osn.com|
-|![icon]()|OSN Movies Comedy HD|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/OMA.png)|OSN Movies Action +2|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/OPR.png)|OSN Movies HD Premier|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/OPX.png)|OSN Movies +2h|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/OCM.png)|OSN Movies Thriller HD|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/OC2.png)|OSN Movies Thriller +2h|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/OMF.png)|OSN Movies Festival HD|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/OMK.png)|OSN Movies Kids HD|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/OFM.png)|OSN Movies Family HD|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/OMC.png)|OSN Movies Comedy HD|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/BO1.png)|OSN Movies Box Office 1 HD|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/BO2.png)|OSN Movies Box Office 2|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/BO3.png)|OSN Movies Box Office 3|http://www.osn.com|
@@ -226,7 +226,7 @@
 |![icon](http://content.osn.com/logo/channel/cropped/ADH.png)|AD Drama + HD|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/OFH.png)|OSN Series First HD|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/OFS.png)|OSN First HBO HD|http://www.osn.com|
-|![icon]()|OSN Series HD|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/OFX.png)|OSN Series HD|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/OCO.png)|OSN Series Comedy HD|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/OCX.png)|OSN Series Comedy HD +2h|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/CCE.png)|Comedy Central|http://www.osn.com|
