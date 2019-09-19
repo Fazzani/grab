@@ -7,36 +7,6 @@
 
 |Icon|Channel|Site|
 |:----|:---:|:---:|
-|![icon](https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1241_1.png)|MBC 3|http://www.elcinema.com|
-|![icon](https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1127_1.png)|MBC|http://www.elcinema.com|
-|![icon](https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1132_1.png)|MBC MAX|http://www.elcinema.com|
-|![icon](https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1130_1.png)|MBC Action|http://www.elcinema.com|
-|![icon](https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1128_1.png)|MBC 2|http://www.elcinema.com|
-|![icon](https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1129_1.png)|MBC 4|http://www.elcinema.com|
-|![icon](https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1259_1.png)|MBC Bollywood|http://www.elcinema.com|
-|![icon](https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1131_1.png)|MBC Drama +|http://www.elcinema.com|
-|![icon](https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1278_1.png)|MBC MASR 2|http://www.elcinema.com|
-|![icon](https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1194_1.png)|MBC Drama|http://www.elcinema.com|
-|![icon](https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1239_1.png)|MBC Egypt|http://www.elcinema.com|
-|![icon](https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1135_1.png)|Emirates|http://www.elcinema.com|
-|![icon](https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1265_1.png)|Hawass|http://www.elcinema.com|
-|![icon](https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1169_1.png)|Dubai TV|http://www.elcinema.com|
-|![icon](https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1173_1.png)|Dubai One|http://www.elcinema.com|
-|![icon](https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1171_1.png)|Future TV|http://www.elcinema.com|
-|![icon](https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1225_1.png)|LBC Europe|http://www.elcinema.com|
-|![icon](https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1301_1.png)|Alsumaria|http://www.elcinema.com|
-|![icon](https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1168_1.png)|LBCI|http://www.elcinema.com|
-|![icon](https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1260_1.png)|CBC sofra|http://www.elcinema.com|
-|![icon](https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1176_1.png)|Cima|http://www.elcinema.com|
-|![icon](https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1195_1.png)|ART Cinema|http://www.elcinema.com|
-|![icon](https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1120_1.png)|ART Aflam 1|http://www.elcinema.com|
-|![icon](https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1121_1.png)|ART Aflam 2|http://www.elcinema.com|
-|![icon](https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1147_1.png)|Rotana Drama|http://www.elcinema.com|
-|![icon](https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1149_1.png)|Rotana Khalijiah|http://www.elcinema.com|
-|![icon](https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1339_1.png)|Al Saeedah|http://www.elcinema.com|
-|![icon](https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1223_1.png)|Al Nahar Drama|http://www.elcinema.com|
-|![icon](https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1178_1.png)|Abu Dhabi Drama|http://www.elcinema.com|
-|![icon](https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1138_1.png)|Alhayat Series|http://www.elcinema.com|
 |![icon](http://www.watania1.tn/sites/default/files/main_logo_watania1_0.png)|Watania 1|http://www.watania.tn|
 |![icon](http://www.watania2.tn/sites/default/files/main_logo_watania2_0.png)|Watania 2|http://www.watania.tn|
 |![icon](http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg)|HD1|http://www.bein.net|
@@ -149,10 +119,10 @@
 |![icon](http://content.osn.com/logo/channel/cropped/ANC.png)|ANC|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/DZM.png)|DZMM Teleradyo|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/DWR.png)|DWRR 101.9|http://www.osn.com|
-|![icon]()|Viva TV|http://www.osn.com|
-|![icon]()|Kapatid TV5|http://www.osn.com|
-|![icon]()|Aksyon TV|http://www.osn.com|
-|![icon]()|Disney Junior|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/VIV.png)|Viva TV|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/TV5.png)|Kapatid TV5|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/AKS.png)|Aksyon TV|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/DJR.png)|Disney Junior|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/SCI.png)|Discovery Science HD|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/DCX.png)|IDX HD|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/CAI.png)|Crime \\u0026 Investigation Network|http://www.osn.com|
@@ -222,24 +192,24 @@
 |![icon](http://content.osn.com/logo/channel/cropped/HK2.png)|Hekayat 2|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/AF1.png)|ART Aflam 1|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/AF2.png)|ART Aflam 2|http://www.osn.com|
-|![icon]()|ART Cinema|http://www.osn.com|
-|![icon]()|AD Drama + HD|http://www.osn.com|
-|![icon]()|OSN Series First HD|http://www.osn.com|
-|![icon]()|OSN First HBO HD|http://www.osn.com|
-|![icon]()|OSN Series HD|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/ACM.png)|ART Cinema|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/ADH.png)|AD Drama + HD|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/OFH.png)|OSN Series First HD|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/OFS.png)|OSN First HBO HD|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/OFX.png)|OSN Series HD|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/OCO.png)|OSN Series Comedy HD|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/OCX.png)|OSN Series Comedy HD +2h|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/CCE.png)|Comedy Central|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/SFY.png)|Syfy HD|http://www.osn.com|
-|![icon]()|Star World HD|http://www.osn.com|
-|![icon]()|TLC HD|http://www.osn.com|
-|![icon]()|Food Network HD|http://www.osn.com|
-|![icon]()|Fine Living|http://www.osn.com|
-|![icon]()|Fashion TV HD|http://www.osn.com|
-|![icon]()|Travel Channel|http://www.osn.com|
-|![icon]()|\\u0026 TV|http://www.osn.com|
-|![icon]()|Star Plus Middle East|http://www.osn.com|
-|![icon]()|Zee TV|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/STW.png)|Star World HD|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/TLC.png)|TLC HD|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/FNH.png)|Food Network HD|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/FIN.png)|Fine Living|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/FTH.png)|Fashion TV HD|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/TRA.png)|Travel Channel|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/ATV.png)|\\u0026 TV|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/STP.png)|Star Plus Middle East|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/ZET.png)|Zee TV|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/COL.png)|Colors|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/HUM.png)|Hum TV Middle East|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/RIS.png)|Rishtey TV|http://www.osn.com|
@@ -412,13 +382,13 @@
 |![icon](http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_489.PNG)|PARAMOUNT CHANNEL|http://www.canalsat.fr|
 |![icon](http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_504.PNG)|ACTION|http://www.canalsat.fr|
 |![icon](http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_641.PNG)|SUNDANCE TV|http://www.canalsat.fr|
-|![icon](http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_527.PNG)|NOLLYWOOD TV|http://www.canalsat.fr|
-|![icon](http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_639.PNG)|A+|http://www.canalsat.fr|
+|![icon](http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_.PNG)|NOLLYWOOD TV|http://www.canalsat.fr|
+|![icon](http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_.PNG)|A+|http://www.canalsat.fr|
 |![icon](http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_340.PNG)|DISNEY CINEMA|http://www.canalsat.fr|
 |![icon](http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_526.PNG)|TF1 SERIES FILMS|http://www.canalsat.fr|
-|![icon](http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_196.PNG)|BOB TV|http://www.canalsat.fr|
-|![icon](http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_184.PNG)|DIEGO TV|http://www.canalsat.fr|
-|![icon](http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_185.PNG)|DORA TV|http://www.canalsat.fr|
+|![icon](http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_.PNG)|BOB TV|http://www.canalsat.fr|
+|![icon](http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_.PNG)|DIEGO TV|http://www.canalsat.fr|
+|![icon](http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_.PNG)|DORA TV|http://www.canalsat.fr|
 |![icon](http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_274.PNG)|DISNEY JUNIOR|http://www.canalsat.fr|
 |![icon](http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_576.PNG)|PIWI+|http://www.canalsat.fr|
 |![icon](http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_593.PNG)|NICKELODEON JUNIOR|http://www.canalsat.fr|
@@ -439,7 +409,7 @@
 |![icon](http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_692.PNG)|POLAR+|http://www.canalsat.fr|
 |![icon](http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_694.PNG)|WARNER TV|http://www.canalsat.fr|
 |![icon](http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_356.PNG)|SERIE CLUB|http://www.canalsat.fr|
-|![icon](http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_524.PNG)|ELLE GIRL|http://www.canalsat.fr|
+|![icon](http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_.PNG)|ELLE GIRL|http://www.canalsat.fr|
 |![icon](http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_434.PNG)|NON STOP PEOPLE|http://www.canalsat.fr|
 |![icon](http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_693.PNG)|NOVELAS TV|http://www.canalsat.fr|
 |![icon](http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_484.PNG)|J-ONE|http://www.canalsat.fr|
@@ -466,19 +436,19 @@
 |![icon](http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_352.PNG)|M6 MUSIC|http://www.canalsat.fr|
 |![icon](http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_569.PNG)|NRJ HITS|http://www.canalsat.fr|
 |![icon](http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_585.PNG)|TRACE URBAN|http://www.canalsat.fr|
-|![icon](http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_558.PNG)|MCM TOP|http://www.canalsat.fr|
+|![icon](http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_.PNG)|MCM TOP|http://www.canalsat.fr|
 |![icon](http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_557.PNG)|RFM TV|http://www.canalsat.fr|
 |![icon](http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_580.PNG)|MELODY|http://www.canalsat.fr|
 |![icon](http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_560.PNG)|MEZZO|http://www.canalsat.fr|
 |![icon](http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_268.PNG)|MEZZO LIVE|http://www.canalsat.fr|
 |![icon](http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_165.PNG)|BRAVA|http://www.canalsat.fr|
 |![icon](http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_404.PNG)|DJAZZ|http://www.canalsat.fr|
-|![icon](http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_674.PNG)|TRACE AFRICA|http://www.canalsat.fr|
+|![icon](http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_.PNG)|TRACE AFRICA|http://www.canalsat.fr|
 |![icon](http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_546.PNG)|FRANCE O|http://www.canalsat.fr|
 |![icon](http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_521.PNG)|6TER|http://www.canalsat.fr|
 |![icon](http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_571.PNG)|NUMERO 23|http://www.canalsat.fr|
 |![icon](http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_520.PNG)|TV5 MONDE|http://www.canalsat.fr|
-|![icon](http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_619.PNG)|QVC|http://www.canalsat.fr|
+|![icon](http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_.PNG)|QVC|http://www.canalsat.fr|
 |![icon](http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_632.PNG)|ASTROCENTER TV|http://www.canalsat.fr|
 |![icon](http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_678.PNG)|MUSEUM|http://www.canalsat.fr|
 |![icon](http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_552.PNG)|LA CHAINE METEO|http://www.canalsat.fr|
@@ -512,7 +482,7 @@
 |![icon](http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_101.PNG)|EUROSPORT 1|http://www.canalsat.fr|
 |![icon](http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_436.PNG)|EUROSPORT 2|http://www.canalsat.fr|
 |![icon](http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_572.PNG)|OL TV|http://www.canalsat.fr|
-|![icon](http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_574.PNG)|ONZEO|http://www.canalsat.fr|
+|![icon](http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_.PNG)|ONZEO|http://www.canalsat.fr|
 |![icon](http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_.PNG)|GIRONDINS TV|http://www.canalsat.fr|
 |![icon](http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_612.PNG)|AB MOTEURS|http://www.canalsat.fr|
 |![icon](http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_540.PNG)|EQUIDIA|http://www.canalsat.fr|
