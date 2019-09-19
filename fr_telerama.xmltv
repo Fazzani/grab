@@ -361,13 +361,13 @@
   </programme>
   <programme start="20190920200000 +0200" stop="20190920215500 +0200" channel="AB 3">
     <title lang="fr">Warcraft : le commencement</title>
-    <desc lang="fr">Des forces obscures s'abattent sur le pacifique royaume d'Azeroth. Les orcs, qui fuient Draenor, leur monde dévasté, veulent prendre possession de ce nouveau territoire. Un mystérieux portail s’ouvre et déverse une armée déchaînée, aidée par de puissants sorciers et prête à tout raser sur son passage. L'invasion provoque la chute d'Azeroth, les Humains fuyant alors par la mer en direction du Royaume de Lordaeron. Après la destruction de la forteresse de Stormwind, le roi Anduin Lothar conduit les survivants jusqu'au Royaume de Lordaeron. Ils rallient alors les différentes nations et races peuplant la région — les Hauts-Elfes, les Nains et les Gnomes...(n)</desc>
+    <desc lang="fr">Des forces obscures s'abattent sur le pacifique royaume d'Azeroth. Les orcs, qui fuient Draenor, leur monde dévasté, veulent prendre possession de ce nouveau territoire. Un mystérieux portail s’ouvre et déverse une armée déchaînée, aidée par de puissants sorciers et prête à tout raser sur son passage. L'invasion provoque la chute d'Azeroth, les Humains fuyant alors par la mer en direction du Royaume de Lordaeron. Après la destruction de la forteresse de Stormwind, le roi Anduin Lothar conduit les survivants jusqu'au Royaume de Lordaeron. Ils rallient alors les différentes nations et races peuplant la région — les Hauts-Elfes, les Nains et les Gnomes...</desc>
     <category lang="fr">Film</category>
     <icon src="https://www.telerama.fr/sites/tr_master/files/77b66d90-eb34-4421-a60d-e382aa7104f8_2.jpg" />
   </programme>
   <programme start="20190920215500 +0200" stop="20190920234500 +0200" channel="AB 3">
     <title lang="fr">47 Ronin</title>
-    <desc lang="fr">Kai, un étranger qui a été initié à l'art des samouraïs, est chassé et réduit en esclavage. On fait de lui un combattant qui doit chèrement gagner sa vie. Il est bientôt de retour dans le pays qui l'a formé, désormais en proie à la redoutable sorcière Mizuki. 47 ronin - des samouraïs autrefois menés par leur chef Oishi assassiné, veulent se venger du perfide seigneur Kira qui a assassiné leur maître et les a bannis. Pour restaurer l'honneur de leur patrie, ces valeureux guerriers font appel à Kai. Ensemble ils doivent affronter une série d'épreuves contre des monstres, dragons et autres créatures extraordinaires avant leur combat final avec Mizuki...(n)</desc>
+    <desc lang="fr">Kai, un étranger qui a été initié à l'art des samouraïs, est chassé et réduit en esclavage. On fait de lui un combattant qui doit chèrement gagner sa vie. Il est bientôt de retour dans le pays qui l'a formé, désormais en proie à la redoutable sorcière Mizuki. 47 ronin - des samouraïs autrefois menés par leur chef Oishi assassiné, veulent se venger du perfide seigneur Kira qui a assassiné leur maître et les a bannis. Pour restaurer l'honneur de leur patrie, ces valeureux guerriers font appel à Kai. Ensemble ils doivent affronter une série d'épreuves contre des monstres, dragons et autres créatures extraordinaires avant leur combat final avec Mizuki...</desc>
     <category lang="fr">Film</category>
     <icon src="https://www.telerama.fr/sites/tr_master/files/sheet_media/movie/489952/75280120_490682.jpg" />
   </programme>
@@ -1475,10 +1475,20 @@
   </programme>
   <programme start="20190920042500 +0200" stop="20190920051500 +0200" channel="Discovery Science">
     <title lang="fr">Construire l'impossible (?)</title>
+    <credits>
+      <director>Suzanne Carvin</director>
+      <director>Tim Williams</director>
+      <director>Todd Eckerson Wendel</director>
+    </credits>
     <category lang="fr">Sciences et technique</category>
   </programme>
   <programme start="20190920051500 +0200" stop="20190920060000 +0200" channel="Discovery Science">
     <title lang="fr">Construire l'impossible (?)</title>
+    <credits>
+      <director>Suzanne Carvin</director>
+      <director>Tim Williams</director>
+      <director>Todd Eckerson Wendel</director>
+    </credits>
     <category lang="fr">Sciences et technique</category>
   </programme>
   <programme start="20190920060000 +0200" stop="20190920065000 +0200" channel="Discovery Science">
