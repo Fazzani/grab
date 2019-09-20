@@ -7,8 +7,20 @@ LABEL maintainer="fazzani.heni@outlook.com" \
 
 WORKDIR /work
 
-RUN apt-get -qq update \
-    && apt-get -y upgrade \
-    && apt-get -y install xmltv-util dos2unix zip
+RUN set -ex
+RUN apt-get update -yqq \
+    && apt-get upgrade -yqq \
+    && apt-get install -yqq --no-install-recommends \
+       xmltv-util \
+       dos2unix zip \
+    && apt-get autoremove -yqq --purge \
+    && apt-get clean \
+    && rm -rf \
+       /var/lib/apt/lists/* \
+       /tmp/* \
+       /var/tmp/* \
+       /usr/share/man \
+       /usr/share/doc \
+       /usr/share/doc-base
 
 CMD [ "/bin/bash" ]
