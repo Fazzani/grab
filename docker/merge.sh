@@ -27,11 +27,13 @@ do
 
   [[ $(grep -c "<programme" $second) -eq 0 ]] && continue
 
-   echo -e "merge ${filename} $second"
-   /usr/bin/tv_merge -i $filename -m $second -o $output
-   i=$((i+1))
+  echo -e "merge ${filename} $second"
+  /usr/bin/tv_merge -i $filename -m $second -o $output
+  i=$((i+1))
 
 done;
+
+[[ ! -f ./merge.xmltv ]] && echo "merge.xmltv file not generated!" && exit 0
 
 mv ./merge.xmltv ./merge.xml && tar zcvf merge.tar.gz merge.xml && zip -r merge.zip merge.xml && rm merge.xml
 
