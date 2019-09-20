@@ -25,6 +25,8 @@ do
     second=$output
   fi
 
+  [[ $(grep -c "<programme" $filename) -eq 0 ]] || [[ $(grep -c "<programme" $second) -eq 0 ]] && continue
+
    echo -e "merge ${filename} $second"
    /usr/bin/tv_merge -i $filename -m $second -o $output
    i=$((i+1))
