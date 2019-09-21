@@ -31,7 +31,7 @@ jobs:
   - stage: merging
     name: Merging xmltv files
     script: |
-       git clone --depth 1 https://${GITHUB_API_TOKEN}@github.com/fazzani/grab.git > /dev/null 2>&1 \
+      git clone --depth 1 https://${GITHUB_API_TOKEN}@github.com/fazzani/grab.git > /dev/null 2>&1 \
       && cd grab \
       && chmod +x ./docker/merge.sh
       
