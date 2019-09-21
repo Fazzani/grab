@@ -44,7 +44,7 @@ jobs:
       
       git pull -X ours > /dev/null 2>&1 \
       && git push
-      && git push
+      
   - stage: Update readme
     name: Update readme
     before_script: |
