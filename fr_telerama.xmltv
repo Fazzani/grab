@@ -367,18 +367,18 @@
   </programme>
   <programme start="20190922131500 +0200" stop="20190922144500 +0200" channel="AB 3">
     <title lang="fr">LOL USA</title>
-    <desc lang="fr">Brillante lycéenne vivant à Detroit, dans le Michigan, Lola passe son temps sur le Net. Grâce aux réseaux sociaux, elle demeure en contact permanent avec ses amies. Elle peut donc se consacrer à maintes histoires d'amitié et d'amour même en dehors des journées passées au lycée. Pour elle, c'est un moyen simple et efficace d'échapper à la surveillance de ses parents. Et pour tous ses camarades, c'est un espace de totale liberté leur permettant de s'exprimer sans craindre les remontrances de parents qu'ils estiment dépassés. Tout bascule lorsque Anne, la mère de Lola, tombe sur le journal intime de sa fille. Elle comprend alors qu'elle a besoin se mettre à la page et de comprendre ce que permet l'Internet...(n)</desc>
+    <desc lang="fr">Brillante lycéenne vivant à Detroit, dans le Michigan, Lola passe son temps sur le Net. Grâce aux réseaux sociaux, elle demeure en contact permanent avec ses amies. Elle peut donc se consacrer à maintes histoires d'amitié et d'amour même en dehors des journées passées au lycée. Pour elle, c'est un moyen simple et efficace d'échapper à la surveillance de ses parents. Et pour tous ses camarades, c'est un espace de totale liberté leur permettant de s'exprimer sans craindre les remontrances de parents qu'ils estiment dépassés. Tout bascule lorsque Anne, la mère de Lola, tombe sur le journal intime de sa fille. Elle comprend alors qu'elle a besoin se mettre à la page et de comprendre ce que permet l'Internet...</desc>
     <category lang="fr">Film</category>
     <icon src="https://www.telerama.fr/sites/tr_master/files/36ac52b2-685b-4d3e-9d94-11b1540c3fbf_2.jpg" />
   </programme>
   <programme start="20190922144500 +0200" stop="20190922164500 +0200" channel="AB 3">
     <title lang="fr">Pretty Woman</title>
-    <desc lang="fr">Edward Lewis, un homme d'affaires désabusé qui porte avec une suprême élégance ses cheveux gris et ses yeux tristes, s'occupe du rachat d'entreprises en faillite et de leur revente. De passage à Los Angeles, il quitte une soirée mondaine où il s'ennuie à mourir et se perd dans un quartier chaud en se rendant à son hôtel. Il fait alors la connaissance de Vivian, une jeune et ravissante prostituée qui opère sur Hollywood Boulevard. La belle aux sublimes jambes raccompagne le milliardaire à son hôtel et passe la nuit avec lui, non sans monnayer ses charmes au prix fort. Séduit par la spontanéité, le charme et la fraîcheur de la jeune femme, Lewis l'engage comme accompagnatrice pour le reste de son séjour...(n)</desc>
+    <desc lang="fr">Edward Lewis, un homme d'affaires désabusé qui porte avec une suprême élégance ses cheveux gris et ses yeux tristes, s'occupe du rachat d'entreprises en faillite et de leur revente. De passage à Los Angeles, il quitte une soirée mondaine où il s'ennuie à mourir et se perd dans un quartier chaud en se rendant à son hôtel. Il fait alors la connaissance de Vivian, une jeune et ravissante prostituée qui opère sur Hollywood Boulevard. La belle aux sublimes jambes raccompagne le milliardaire à son hôtel et passe la nuit avec lui, non sans monnayer ses charmes au prix fort. Séduit par la spontanéité, le charme et la fraîcheur de la jeune femme, Lewis l'engage comme accompagnatrice pour le reste de son séjour...</desc>
     <category lang="fr">Film</category>
   </programme>
   <programme start="20190922164500 +0200" stop="20190922181500 +0200" channel="AB 3">
     <title lang="fr">The Full Monty, le grand jeu</title>
-    <desc lang="fr">Dans le Nord de l'Angleterre, la ville de Sheffield a subi de plein fouet la crise de la métallurgie des années 80. Gaz est l'une des victimes de la morosité économique. Son horizon se limite aux usines désaffectées et aux friches industrielles. Séparé de sa femme, chômeur, Gaz se débrouille comme il peut pour conserver l'affection de son fils. Dans ce quotidien plutôt terne, la venue des Chippendales, un groupe de stripteaseurs, crée l'événement. Le succès phénoménal de ces messieurs inspire à Gaz une idée des plus saugrenues : monter son propre spectacle de déshabillage progressif. Aidé de son corpulent ami Dave, Gaz lance un casting pour recruter les membres de la fine équipe et organiser les premières répétitions dans un hangar...(n)</desc>
+    <desc lang="fr">Dans le Nord de l'Angleterre, la ville de Sheffield a subi de plein fouet la crise de la métallurgie des années 80. Gaz est l'une des victimes de la morosité économique. Son horizon se limite aux usines désaffectées et aux friches industrielles. Séparé de sa femme, chômeur, Gaz se débrouille comme il peut pour conserver l'affection de son fils. Dans ce quotidien plutôt terne, la venue des Chippendales, un groupe de stripteaseurs, crée l'événement. Le succès phénoménal de ces messieurs inspire à Gaz une idée des plus saugrenues : monter son propre spectacle de déshabillage progressif. Aidé de son corpulent ami Dave, Gaz lance un casting pour recruter les membres de la fine équipe et organiser les premières répétitions dans un hangar...(c)</desc>
     <category lang="fr">Film</category>
     <icon src="https://www.telerama.fr/sites/tr_master/files/321df474-6da3-42c3-b0ad-a460194331ab_2.jpg" />
   </programme>
@@ -1660,6 +1660,10 @@
   </programme>
   <programme start="20190922083500 +0200" stop="20190922092500 +0200" channel="Discovery Science">
     <title lang="fr">Mythbusters (?)</title>
+    <credits>
+      <director>Lauren Gray Williams</director>
+      <director>Steve Christiansen</director>
+    </credits>
     <category lang="fr">Sciences et technique</category>
   </programme>
   <programme start="20190922092500 +0200" stop="20190922102000 +0200" channel="Discovery Science">
@@ -2096,7 +2100,7 @@
       <director>Baya Bellanger</director>
       <director>Charlotte Riesi</director>
     </credits>
-    <category lang="fr">Autre</category>
+    <category lang="fr">Environnement</category>
   </programme>
   <programme start="20190922074000 +0200" stop="20190922084200 +0200" channel="Science &amp; Vie TV">
     <title lang="fr">Ordre et chaos : le secret de la création (?)</title>
