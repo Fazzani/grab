@@ -7,6 +7,36 @@
 
 |Icon|Channel|Site|
 |:----|:---:|:---:|
+|![icon]()|MBC 3|http://www.elcinema.en.com|
+|![icon]()|MBC|http://www.elcinema.en.com|
+|![icon]()|MBC MAX|http://www.elcinema.en.com|
+|![icon]()|MBC Action|http://www.elcinema.en.com|
+|![icon]()|MBC 2|http://www.elcinema.en.com|
+|![icon]()|MBC 4|http://www.elcinema.en.com|
+|![icon]()|MBC Bollywood|http://www.elcinema.en.com|
+|![icon]()|MBC Drama +|http://www.elcinema.en.com|
+|![icon]()|MBC MASR 2|http://www.elcinema.en.com|
+|![icon]()|MBC Drama|http://www.elcinema.en.com|
+|![icon]()|MBC Egypt|http://www.elcinema.en.com|
+|![icon]()|Emirates|http://www.elcinema.en.com|
+|![icon]()|Hawass|http://www.elcinema.en.com|
+|![icon]()|Dubai TV|http://www.elcinema.en.com|
+|![icon]()|Dubai One|http://www.elcinema.en.com|
+|![icon]()|Future TV|http://www.elcinema.en.com|
+|![icon]()|LBC Europe|http://www.elcinema.en.com|
+|![icon]()|Alsumaria|http://www.elcinema.en.com|
+|![icon]()|LBCI|http://www.elcinema.en.com|
+|![icon]()|CBC sofra|http://www.elcinema.en.com|
+|![icon]()|Cima|http://www.elcinema.en.com|
+|![icon]()|ART Cinema|http://www.elcinema.en.com|
+|![icon]()|ART Aflam 1|http://www.elcinema.en.com|
+|![icon]()|ART Aflam 2|http://www.elcinema.en.com|
+|![icon]()|Rotana Drama|http://www.elcinema.en.com|
+|![icon]()|Rotana Khalijiah|http://www.elcinema.en.com|
+|![icon]()|Al Saeedah|http://www.elcinema.en.com|
+|![icon]()|Al Nahar Drama|http://www.elcinema.en.com|
+|![icon]()|Abu Dhabi Drama|http://www.elcinema.en.com|
+|![icon]()|Alhayat Series|http://www.elcinema.en.com|
 |![icon](http://www.watania1.tn/sites/default/files/main_logo_watania1_0.png)|Watania 1|http://www.watania.tn|
 |![icon](http://www.watania2.tn/sites/default/files/main_logo_watania2_0.png)|Watania 2|http://www.watania.tn|
 |![icon](http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg)|HD1|http://www.bein.net|
