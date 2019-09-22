@@ -156,23 +156,23 @@
 |![icon](http://content.osn.com/logo/channel/cropped/SCI.png)|Discovery Science HD|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/DCX.png)|IDX HD|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/CAI.png)|Crime \\u0026 Investigation Network|http://www.osn.com|
-|![icon]()|History HD|http://www.osn.com|
-|![icon]()|H2 HD|http://www.osn.com|
-|![icon]()|Animal Planet HD|http://www.osn.com|
-|![icon]()|Nat Geo HD|http://www.osn.com|
-|![icon]()|Nat Geo Wild HD|http://www.osn.com|
-|![icon]()|Nat Geo People HD|http://www.osn.com|
-|![icon]()|CNBC|http://www.osn.com|
-|![icon]()|Fox News|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/HIS.png)|History HD|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/HI2.png)|H2 HD|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/APL.png)|Animal Planet HD|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/NGO.png)|Nat Geo HD|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/NHD.png)|Nat Geo Wild HD|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/NAH.png)|Nat Geo People HD|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/CNB.png)|CNBC|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/FXN.png)|Fox News|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/NJR.png)|Nick Jr|http://www.osn.com|
-|![icon]()|OSN Kid Zone TV|http://www.osn.com|
-|![icon]()|OSN News|http://www.osn.com|
-|![icon]()|Sky News HD|http://www.osn.com|
-|![icon]()|BBC World|http://www.osn.com|
-|![icon]()|SET Middle East|http://www.osn.com|
-|![icon]()|Discovery HD|http://www.osn.com|
-|![icon]()|Discovery Family HD|http://www.osn.com|
-|![icon]()|NickToons|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/KDZ.png)|OSN Kid Zone TV|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/ONS.png)|OSN News|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/SKH.png)|Sky News HD|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/BBW.png)|BBC World|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/SET.png)|SET Middle East|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/DSC.png)|Discovery HD|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/DCF.png)|Discovery Family HD|http://www.osn.com|
+|![icon](http://content.osn.com/logo/channel/cropped/NKT.png)|NickToons|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/TIM.png)|Times Now|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/NDT.png)|NDTV 24x7|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/ANN.png)|Asianet News|http://www.osn.com|
