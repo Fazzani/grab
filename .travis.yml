@@ -48,8 +48,8 @@ jobs:
   - stage: Update readme
     name: Update readme
     before_script: |
-      sudo apt-get update -qq
-      && sudo apt-get install libxml2-utils xmlstarlet -y
+      sudo apt-get update -yqq \
+      && sudo apt-get install libxml2-utils xmlstarlet -yqq \
       && npm install -g xml2json-cli
     script: |
       git clone --depth 1 https://${GITHUB_API_TOKEN}@github.com/fazzani/grab.git > /dev/null 2>&1 \
