@@ -35,7 +35,7 @@ jobs:
       && cd grab \
       && chmod +x ./docker/merge.sh
       
-      docker run -it -v "${PWD}:/work" -e GITHUB_API_TOKEN=${GITHUB_API_TOKEN} synker/xmltv_merge:latest /bin/bash -c "dos2unix docker/merge.sh && chmod +x docker/merge.sh && docker/merge.sh '*.xmltv'"
+      docker run -it -v "${PWD}:/work" -e GITHUB_API_TOKEN=${GITHUB_API_TOKEN} synker/xmltv_merge:latest /bin/bash -c "dos2unix docker/merge.sh && chmod +x docker/merge.sh && docker/merge.sh *.xmltv"
       
       [[ ! -z $(git status -uno --porcelain) ]] \
       && git status \

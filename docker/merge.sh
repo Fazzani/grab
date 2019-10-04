@@ -10,11 +10,11 @@ output="merge.xmltv"
 i=0
 verbose=${VERBOSE:-false}
 
-[[ $verbose ]] && echo "pattern to match $1"
+[[ $verbose = true ]] && echo "pattern to match $1"
 
 for filename in "$@";do
 
-  [[ $verbose ]] && echo "filename => $filename" 
+  [[ $verbose = true ]] && echo "filename => $filename" 
 
   [[ $(grep -c "<programme" "$filename") -eq 0 ]] && continue
 
@@ -32,7 +32,7 @@ for filename in "$@";do
     second=$output
   fi
 
-  [[ $verbose ]] && echo "filename => $filename will be merged with $second" 
+  [[ $verbose = true ]] && echo "filename => $filename will be merged with $second" 
 
   echo -e "merge ${filename} $second"
   /usr/bin/tv_merge -i "$filename" -m $second -o $output
