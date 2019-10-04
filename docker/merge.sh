@@ -8,9 +8,16 @@ command -v zip >/dev/null 2>&1 || { echo >&2 "I require zip but it's not install
 
 output="merge.xmltv"
 i=0
+verbose=${VERBOSE:-false}
 
-for filename in $1
-do
+[[ $verbose ]] && echo "pattern to match $1"
+
+for filename in "$@";do
+
+  [[ $verbose ]] && echo "filename => $filename" 
+
+  [[ $(grep -c "<programme" "$filename") -eq 0 ]] && continue
+
   if [[ "$filename" = "merge.xmltv" ]]; then
     continue
   fi
@@ -25,10 +32,10 @@ do
     second=$output
   fi
 
-  [[ $(grep -c "<programme" $second) -eq 0 ]] && continue
+  [[ $verbose ]] && echo "filename => $filename will be merged with $second" 
 
   echo -e "merge ${filename} $second"
-  /usr/bin/tv_merge -i $filename -m $second -o $output
+  /usr/bin/tv_merge -i "$filename" -m $second -o $output
   i=$((i+1))
 
 done;
