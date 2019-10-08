@@ -397,7 +397,7 @@
 |![icon](http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_481.PNG)|CANAL+ SERIES|http://www.canalsat.fr|
 |![icon](http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_259.PNG)|CANAL+ FAMILY|http://www.canalsat.fr|
 |![icon](http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_257.PNG)|CANAL+ DECALE|http://www.canalsat.fr|
-|![icon](http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_289.PNG)|EVENEMENT|http://www.canalsat.fr|
+|![icon](http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_.PNG)|EVENEMENT|http://www.canalsat.fr|
 |![icon](http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_322.PNG)|CINE+ PREMIER|http://www.canalsat.fr|
 |![icon](http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_398.PNG)|CINE+ FRISSON|http://www.canalsat.fr|
 |![icon](http://epg.canal-plus.com/mycanal/img/CHN43FB/PNG/87X64/CHN43FB_396.PNG)|CINE+ EMOTION|http://www.canalsat.fr|
