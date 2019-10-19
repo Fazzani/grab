@@ -24,7 +24,7 @@ jq -r '.sources[].missedlist[] |[.name, .url] | @tsv' $missed_channels_file |
   while IFS=$'\t' read -r name url; do
     echoInfo "$name $url"
     #echo "$(jq -r --arg name $name --arg url $url '(.tv.channel[] | select((.id == $name) and (.url == $url)))' $input_file)"
-    jq -r --arg name $name --arg url $url '(.tv.channel[] | select((.id == $name) and (.url == $url)) | .active) |= "false"' $input_file > $tmpfile && mv $tmpfile $input_file
+    jq -r --arg name $name --arg url $url '(.tv.channel[] | select((.id == $name) and (.url == $url)) | .active) |= "False"' $input_file > $tmpfile && mv $tmpfile $input_file
   done
 
 IFS=$OLDIFS
