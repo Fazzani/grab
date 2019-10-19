@@ -14,7 +14,7 @@ missed_channels_file=$2
 tmpfile="tmpppp.json"
 
 # adding the filed active with true as default value
-jq '.tv.channel[] += {"active": true}' $input_file > $tmpfile && mv $tmpfile $input_file
+jq '.tv.channel[] += {"active": "True"}' $input_file > $tmpfile && mv $tmpfile $input_file
 
 # make newlines the only separator
 OLDIFS=$IFS
