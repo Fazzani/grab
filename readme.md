@@ -239,7 +239,7 @@
 |![icon](http://content.osn.com/logo/channel/cropped/TRA.png)|Travel Channel|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/ATV.png)|\\u0026 TV|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/STP.png)|Star Plus Middle East|http://www.osn.com|
-|![icon](http://content.osn.com/logo/channel/cropped/ZET.png)|Zee TV|http://www.osn.com|
+|![icon]()|Zee TV|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/COL.png)|Colors|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/HUM.png)|Hum TV Middle East|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/RIS.png)|Rishtey TV|http://www.osn.com|
