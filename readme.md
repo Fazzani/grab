@@ -225,8 +225,8 @@
 |![icon](http://content.osn.com/logo/channel/cropped/ACM.png)|ART Cinema|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/ADH.png)|AD Drama + HD|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/OFH.png)|OSN Series First HD|http://www.osn.com|
-|![icon](http://content.osn.com/logo/channel/cropped/OFS.png)|OSN First HBO HD|http://www.osn.com|
-|![icon](http://content.osn.com/logo/channel/cropped/OFX.png)|OSN Series HD|http://www.osn.com|
+|![icon]()|OSN First HBO HD|http://www.osn.com|
+|![icon]()|OSN Series HD|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/OCO.png)|OSN Series Comedy HD|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/OCX.png)|OSN Series Comedy HD +2h|http://www.osn.com|
 |![icon](http://content.osn.com/logo/channel/cropped/CCE.png)|Comedy Central|http://www.osn.com|
