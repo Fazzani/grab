@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<settings>
+  <filename>/data/fr_canal2.xmltv</filename>
+  <mode>m</mode>
+  <postprocess run="n" grab="y">mdb</postprocess>
+  <proxy>automatic</proxy>
+  <user-agent>Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; yie9)</user-agent>
+  <logging>on</logging>
+  <retry time-out="15">1</retry>
+  <skip>12,1</skip>
+  <timespan>2</timespan>
+  <update>i</update>
+  <channel update="i" site="programme-tv.net" site_id="tf1-19" xmltv_id="TF1">TF1</channel>
+    <channel update="i" site="programme-tv.net" site_id="france-2-6" xmltv_id="France 2">France 2</channel>
+    <channel update="i" site="programme-tv.net" site_id="france-3-7" xmltv_id="France 3">France 3</channel>
+    <channel update="i" site="programme-tv.net" site_id="canalplus-2" xmltv_id="Canal+">Canal+</channel>
+    <channel update="i" site="programme-tv.net" site_id="france-5-9" xmltv_id="France 5">France 5</channel>
+    <channel update="i" site="programme-tv.net" site_id="m6-12" xmltv_id="M6">M6</channel>
+    <channel update="i" site="programme-tv.net" site_id="arte-337" xmltv_id="Arte">Arte</channel>
+    <channel update="i" site="programme-tv.net" site_id="c8-4" xmltv_id="C8">C8</channel>
+    <channel update="i" site="programme-tv.net" site_id="w9-24" xmltv_id="W9">W9</channel>
+    <channel update="i" site="programme-tv.net" site_id="tmc-21" xmltv_id="TMC">TMC</channel>
+    <channel update="i" site="programme-tv.net" site_id="tfx-14" xmltv_id="TFX">TFX</channel>
+    <channel update="i" site="programme-tv.net" site_id="nrj-12-13" xmltv_id="NRJ 12">NRJ 12</channel>
+    <channel update="i" site="programme-tv.net" site_id="la-chaine-parlementaire-11" xmltv_id="La Chaîne parlementaire">La Chaîne parlementaire</channel>
+    <channel update="i" site="programme-tv.net" site_id="france-4-8" xmltv_id="France 4">France 4</channel>
+    <channel update="i" site="programme-tv.net" site_id="bfmtv-25" xmltv_id="BFMTV">BFMTV</channel>
+    <channel update="i" site="programme-tv.net" site_id="cnews-30" xmltv_id="CNEWS">CNEWS</channel>
+    <channel update="i" site="programme-tv.net" site_id="cstar-28" xmltv_id="CSTAR">CSTAR</channel>
+    <channel update="i" site="programme-tv.net" site_id="gulli-29" xmltv_id="Gulli">Gulli</channel>
+    <channel update="i" site="programme-tv.net" site_id="france-o-69" xmltv_id="France Ô">France Ô</channel>
+    <channel update="i" site="programme-tv.net" site_id="tf1-series-films-201" xmltv_id="TF1 Séries Films">TF1 Séries Films</channel>
+    <channel update="i" site="programme-tv.net" site_id="lequipe-204" xmltv_id="L'Equipe">L'Equipe</channel>
+    <channel update="i" site="programme-tv.net" site_id="6ter-202" xmltv_id="6ter">6ter</channel>
+    <channel update="i" site="programme-tv.net" site_id="rmc-story-203" xmltv_id="RMC Story">RMC Story</channel>
+    <channel update="i" site="programme-tv.net" site_id="rmc-decouverte-205" xmltv_id="RMC Découverte">RMC Découverte</channel>
+    <channel update="i" site="programme-tv.net" site_id="cherie-25-206" xmltv_id="Chérie 25">Chérie 25</channel>
+    <channel update="i" site="programme-tv.net" site_id="lci-la-chaine-info-78" xmltv_id="LCI - La Chaîne Info">LCI - La Chaîne Info</channel>
+    <channel update="i" site="programme-tv.net" site_id="franceinfo-307" xmltv_id="Franceinfo">Franceinfo</channel>
+    <channel update="i" site="programme-tv.net" site_id="paris-premiere-15" xmltv_id="Paris Première">Paris Première</channel>
+    <channel update="i" site="programme-tv.net" site_id="canalplus-sport-37" xmltv_id="Canal+ Sport">Canal+ Sport</channel>
+    <channel update="i" site="programme-tv.net" site_id="canalplus-cinema-35" xmltv_id="Canal+ Cinéma">Canal+ Cinéma</channel>
+    <channel update="i" site="programme-tv.net" site_id="planeteplus-16" xmltv_id="Planète+">Planète+</channel>
+    <channel update="i" site="programme-tv.net" site_id="canalplus-series-227" xmltv_id="Canal+ Séries">Canal+ Séries</channel>
+    <channel update="i" site="programme-tv.net" site_id="canalplus-family-149" xmltv_id="Canal+ Family">Canal+ Family</channel>
+    <channel update="i" site="programme-tv.net" site_id="canalplus-decale-36" xmltv_id="Canal+ Décalé">Canal+ Décalé</channel>
+    <channel update="i" site="programme-tv.net" site_id="cineplus-premier-3" xmltv_id="Ciné+ Premier">Ciné+ Premier</channel>
+    <channel update="i" site="programme-tv.net" site_id="cineplus-frisson-47" xmltv_id="Ciné+ Frisson">Ciné+ Frisson</channel>
+    <channel update="i" site="programme-tv.net" site_id="cineplus-emotion-45" xmltv_id="Ciné+ Emotion">Ciné+ Emotion</channel>
+    <channel update="i" site="programme-tv.net" site_id="cineplus-famiz-46" xmltv_id="Ciné+ Famiz">Ciné+ Famiz</channel>
+    <channel update="i" site="programme-tv.net" site_id="cineplus-club-43" xmltv_id="Ciné+ Club">Ciné+ Club</channel>
+    <channel update="i" site="programme-tv.net" site_id="cineplus-classic-44" xmltv_id="Ciné+ Classic">Ciné+ Classic</channel>
+    <channel update="i" site="programme-tv.net" site_id="ocs-max-172" xmltv_id="OCS Max">OCS Max</channel>
+    <channel update="i" site="programme-tv.net" site_id="ocs-city-173" xmltv_id="OCS City">OCS City</channel>
+    <channel update="i" site="programme-tv.net" site_id="ocs-choc-169" xmltv_id="OCS Choc">OCS Choc</channel>
+    <channel update="i" site="programme-tv.net" site_id="ocs-geants-170" xmltv_id="OCS Géants">OCS Géants</channel>
+    <channel update="i" site="programme-tv.net" site_id="disney-cinema-153" xmltv_id="Disney Cinema">Disney Cinema</channel>
+    <channel update="i" site="programme-tv.net" site_id="tcm-cinema-113" xmltv_id="TCM Cinéma">TCM Cinéma</channel>
+    <channel update="i" site="programme-tv.net" site_id="paramount-channel-226" xmltv_id="Paramount Channel">Paramount Channel</channel>
+    <channel update="i" site="programme-tv.net" site_id="action-32" xmltv_id="Action">Action</channel>
+    <channel update="i" site="programme-tv.net" site_id="sundance-tv-195" xmltv_id="Sundance TV">Sundance TV</channel>
+    <channel update="i" site="programme-tv.net" site_id="comedieplus-27" xmltv_id="Comédie+">Comédie+</channel>
+    <channel update="i" site="programme-tv.net" site_id="polarplus-401" xmltv_id="Polar+">Polar+</channel>
+    <channel update="i" site="programme-tv.net" site_id="warner-tv-403" xmltv_id="Warner TV">Warner TV</channel>
+    <channel update="i" site="programme-tv.net" site_id="serieclub-18" xmltv_id="serieclub">serieclub</channel>
+    <channel update="i" site="programme-tv.net" site_id="mtv-96" xmltv_id="MTV">MTV</channel>
+    <channel update="i" site="programme-tv.net" site_id="ellegirl-66" xmltv_id="ElleGirl">ElleGirl</channel>
+    <channel update="i" site="programme-tv.net" site_id="non-stop-people-hd-241" xmltv_id="Non Stop People HD">Non Stop People HD</channel>
+    <channel update="i" site="programme-tv.net" site_id="novelas-tv-400" xmltv_id="Novelas TV">Novelas TV</channel>
+    <channel update="i" site="programme-tv.net" site_id="mcm-87" xmltv_id="MCM">MCM</channel>
+    <channel update="i" site="programme-tv.net" site_id="game-one-71" xmltv_id="Game One">Game One</channel>
+    <channel update="i" site="programme-tv.net" site_id="j-one-387" xmltv_id="J-One">J-One</channel>
+    <channel update="i" site="programme-tv.net" site_id="mangas-82" xmltv_id="Mangas">Mangas</channel>
+    <channel update="i" site="programme-tv.net" site_id="ab-1-31" xmltv_id="AB 1">AB 1</channel>
+    <channel update="i" site="programme-tv.net" site_id="tvbreizh-129" xmltv_id="TvBreizh">TvBreizh</channel>
+    <channel update="i" site="programme-tv.net" site_id="teva-23" xmltv_id="Téva">Téva</channel>
+    <channel update="i" site="programme-tv.net" site_id="rtl-9-17" xmltv_id="RTL 9">RTL 9</channel>
+    <channel update="i" site="programme-tv.net" site_id="bet-299" xmltv_id="BET">BET</channel>
+    <channel update="i" site="programme-tv.net" site_id="tv5monde-128" xmltv_id="TV5MONDE">TV5MONDE</channel>
+    <channel update="i" site="programme-tv.net" site_id="myzen-tv-381" xmltv_id="MyZen.tv">MyZen.tv</channel>
+    <channel update="i" site="programme-tv.net" site_id="qvc-371" xmltv_id="QVC">QVC</channel>
+    
+</settings>

@@ -1,0 +1,128 @@
+<?xml version="1.0"?>
+<settings>
+  <filename>/data/fr_canal2.xmltv</filename>
+  <mode>m</mode>
+  <postprocess run="n" grab="y">mdb</postprocess>
+  <proxy>automatic</proxy>
+  <user-agent>Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; yie9)</user-agent>
+  <logging>on</logging>
+  <retry time-out="15">1</retry>
+  <skip>12,1</skip>
+  <timespan>2</timespan>
+  <update>i</update>
+  <channel update="i" site="programme-tv.net" site_id="bein-sports-max-5-301" xmltv_id="beIN SPORTS MAX 5">beIN SPORTS MAX 5</channel>
+    <channel update="i" site="programme-tv.net" site_id="bein-sports-max-6-302" xmltv_id="beIN SPORTS MAX 6">beIN SPORTS MAX 6</channel>
+    <channel update="i" site="programme-tv.net" site_id="bein-sports-max-7-303" xmltv_id="beIN SPORTS MAX 7">beIN SPORTS MAX 7</channel>
+    <channel update="i" site="programme-tv.net" site_id="bein-sports-max-8-304" xmltv_id="beIN SPORTS MAX 8">beIN SPORTS MAX 8</channel>
+    <channel update="i" site="programme-tv.net" site_id="bein-sports-max-9-306" xmltv_id="beIN SPORTS MAX 9">beIN SPORTS MAX 9</channel>
+    <channel update="i" site="programme-tv.net" site_id="bein-sports-max-10-305" xmltv_id="beIN SPORTS MAX 10">beIN SPORTS MAX 10</channel>
+    <channel update="i" site="programme-tv.net" site_id="rmc-sport-live-5-464" xmltv_id="RMC Sport Live 5">RMC Sport Live 5</channel>
+    <channel update="i" site="programme-tv.net" site_id="rmc-sport-live-6-465" xmltv_id="RMC Sport Live 6">RMC Sport Live 6</channel>
+    <channel update="i" site="programme-tv.net" site_id="rmc-sport-live-7-457" xmltv_id="RMC Sport Live 7">RMC Sport Live 7</channel>
+    <channel update="i" site="programme-tv.net" site_id="rmc-sport-live-8-458" xmltv_id="RMC Sport Live 8">RMC Sport Live 8</channel>
+    <channel update="i" site="programme-tv.net" site_id="rmc-sport-live-9-460" xmltv_id="RMC Sport Live 9">RMC Sport Live 9</channel>
+    <channel update="i" site="programme-tv.net" site_id="rmc-sport-live-10-459" xmltv_id="RMC Sport Live 10">RMC Sport Live 10</channel>
+    <channel update="i" site="programme-tv.net" site_id="rmc-sport-live-11-455" xmltv_id="RMC Sport Live 11">RMC Sport Live 11</channel>
+    <channel update="i" site="programme-tv.net" site_id="rmc-sport-live-12-456" xmltv_id="RMC Sport Live 12">RMC Sport Live 12</channel>
+    <channel update="i" site="programme-tv.net" site_id="rmc-sport-live-13-466" xmltv_id="RMC Sport Live 13">RMC Sport Live 13</channel>
+    <channel update="i" site="programme-tv.net" site_id="rmc-sport-live-14-462" xmltv_id="RMC Sport Live 14">RMC Sport Live 14</channel>
+    <channel update="i" site="programme-tv.net" site_id="rmc-sport-live-15-463" xmltv_id="RMC Sport Live 15">RMC Sport Live 15</channel>
+    <channel update="i" site="programme-tv.net" site_id="rmc-sport-live-16-461" xmltv_id="RMC Sport Live 16">RMC Sport Live 16</channel>
+    <channel update="i" site="programme-tv.net" site_id="france-3-corse-via-stella-284" xmltv_id="France 3 Corse Via Stella">France 3 Corse Via Stella</channel>
+    <channel update="i" site="programme-tv.net" site_id="2m-monde-321" xmltv_id="2M Monde">2M Monde</channel>
+    <channel update="i" site="programme-tv.net" site_id="al-jazeera-english-196" xmltv_id="Al Jazeera English">Al Jazeera English</channel>
+    <channel update="i" site="programme-tv.net" site_id="rtpi-187" xmltv_id="RTPI">RTPI</channel>
+    <channel update="i" site="programme-tv.net" site_id="tve-186" xmltv_id="TVE">TVE</channel>
+    <channel update="i" site="programme-tv.net" site_id="rtl-television-198" xmltv_id="RTL Télévision">RTL Télévision</channel>
+    <channel update="i" site="programme-tv.net" site_id="ard-185" xmltv_id="ARD">ARD</channel>
+    <channel update="i" site="programme-tv.net" site_id="rmc-sport-1-uhd-334" xmltv_id="RMC Sport 1 UHD">RMC Sport 1 UHD</channel>
+    <channel update="i" site="programme-tv.net" site_id="altice-studio-398" xmltv_id="Altice Studio">Altice Studio</channel>
+    <channel update="i" site="programme-tv.net" site_id="bfm-paris-379" xmltv_id="BFM Paris">BFM Paris</channel>
+    <channel update="i" site="programme-tv.net" site_id="discovery-channel-54" xmltv_id="Discovery Channel">Discovery Channel</channel>
+    <channel update="i" site="programme-tv.net" site_id="discovery-science-200" xmltv_id="Discovery Science">Discovery Science</channel>
+    <channel update="i" site="programme-tv.net" site_id="discovery-family-399" xmltv_id="Discovery Family">Discovery Family</channel>
+    <channel update="i" site="programme-tv.net" site_id="my-cuisine-397" xmltv_id="My Cuisine">My Cuisine</channel>
+    <channel update="i" site="programme-tv.net" site_id="13eme-rue-26" xmltv_id="13eme RUE">13eme RUE</channel>
+    <channel update="i" site="programme-tv.net" site_id="syfy-110" xmltv_id="Syfy">Syfy</channel>
+    <channel update="i" site="programme-tv.net" site_id="e-141" xmltv_id="E !">E !</channel>
+    <channel update="i" site="programme-tv.net" site_id="vivolta-150" xmltv_id="Vivolta">Vivolta</channel>
+    <channel update="i" site="programme-tv.net" site_id="rmc-sport-access-1-336" xmltv_id="RMC Sport Access 1">RMC Sport Access 1</channel>
+    <channel update="i" site="programme-tv.net" site_id="rmc-sport-access-2-178" xmltv_id="RMC Sport Access 2">RMC Sport Access 2</channel>
+    <channel update="i" site="programme-tv.net" site_id="rmc-sport-access-3-404" xmltv_id="RMC Sport Access 3">RMC Sport Access 3</channel>
+    <channel update="i" site="programme-tv.net" site_id="golf-channel-354" xmltv_id="Golf Channel">Golf Channel</channel>
+    <channel update="i" site="programme-tv.net" site_id="trace-sport-stars-197" xmltv_id="TRACE Sport Stars">TRACE Sport Stars</channel>
+    <channel update="i" site="programme-tv.net" site_id="eurochannel-236" xmltv_id="Eurochannel">Eurochannel</channel>
+    <channel update="i" site="programme-tv.net" site_id="fashion-tv-358" xmltv_id="Fashion TV">Fashion TV</channel>
+    <channel update="i" site="programme-tv.net" site_id="baby-tv-229" xmltv_id="Baby TV">Baby TV</channel>
+    <channel update="i" site="programme-tv.net" site_id="gong-355" xmltv_id="Gong">Gong</channel>
+    <channel update="i" site="programme-tv.net" site_id="gong-max-350" xmltv_id="Gong Max">Gong Max</channel>
+    <channel update="i" site="programme-tv.net" site_id="ginx-352" xmltv_id="Ginx">Ginx</channel>
+    <channel update="i" site="programme-tv.net" site_id="mtv-hits-93" xmltv_id="MTV Hits">MTV Hits</channel>
+    <channel update="i" site="programme-tv.net" site_id="trace-tropical-395" xmltv_id="Trace Tropical">Trace Tropical</channel>
+    <channel update="i" site="programme-tv.net" site_id="bblack-359" xmltv_id="BBlack">BBlack</channel>
+    <channel update="i" site="programme-tv.net" site_id="vh1-133" xmltv_id="VH1">VH1</channel>
+    <channel update="i" site="programme-tv.net" site_id="vh1-classic-356" xmltv_id="VH1 Classic">VH1 Classic</channel>
+    <channel update="i" site="programme-tv.net" site_id="mtv-rocks-91" xmltv_id="MTV Rocks">MTV Rocks</channel>
+    <channel update="i" site="programme-tv.net" site_id="stingray-i-concerts-392" xmltv_id="Stingray i-Concerts">Stingray i-Concerts</channel>
+    <channel update="i" site="programme-tv.net" site_id="rai-uno-188" xmltv_id="Rai Uno">Rai Uno</channel>
+    <channel update="i" site="programme-tv.net" site_id="bbc-entertainment-194" xmltv_id="BBC Entertainment">BBC Entertainment</channel>
+    <channel update="i" site="programme-tv.net" site_id="swr-208" xmltv_id="SWR">SWR</channel>
+    <channel update="i" site="programme-tv.net" site_id="zdf-193" xmltv_id="ZDF">ZDF</channel>
+    <channel update="i" site="programme-tv.net" site_id="rts-un-147" xmltv_id="RTS Un">RTS Un</channel>
+    <channel update="i" site="programme-tv.net" site_id="rts-deux-148" xmltv_id="RTS Deux">RTS Deux</channel>
+    <channel update="i" site="programme-tv.net" site_id="b-one-339" xmltv_id="B.One">B.One</channel>
+    <channel update="i" site="programme-tv.net" site_id="gospel-music-tv-346" xmltv_id="Gospel Music TV">Gospel Music TV</channel>
+    <channel update="i" site="programme-tv.net" site_id="la-une-144" xmltv_id="La Une">La Une</channel>
+    <channel update="i" site="programme-tv.net" site_id="la-deux-143" xmltv_id="La Deux">La Deux</channel>
+    <channel update="i" site="programme-tv.net" site_id="la-trois-175" xmltv_id="La Trois">La Trois</channel>
+    <channel update="i" site="programme-tv.net" site_id="rtl-tvi-146" xmltv_id="RTL TVI">RTL TVI</channel>
+    <channel update="i" site="programme-tv.net" site_id="club-rtl-140" xmltv_id="Club RTL">Club RTL</channel>
+    <channel update="i" site="programme-tv.net" site_id="plug-rtl-145" xmltv_id="Plug RTL">Plug RTL</channel>
+    <channel update="i" site="programme-tv.net" site_id="arte-belgique-312" xmltv_id="Arte Belgique">Arte Belgique</channel>
+    <channel update="i" site="programme-tv.net" site_id="ab-3-138" xmltv_id="AB 3">AB 3</channel>
+    <channel update="i" site="programme-tv.net" site_id="be-series-253" xmltv_id="Be Séries">Be Séries</channel>
+    <channel update="i" site="programme-tv.net" site_id="be-cine-249" xmltv_id="Be Ciné">Be Ciné</channel>
+    <channel update="i" site="programme-tv.net" site_id="cineplus-premier-belgique-310" xmltv_id="Ciné+ Premier Belgique">Ciné+ Premier Belgique</channel>
+    <channel update="i" site="programme-tv.net" site_id="cineplus-frisson-belgique-320" xmltv_id="Ciné+ Frisson Belgique">Ciné+ Frisson Belgique</channel>
+    <channel update="i" site="programme-tv.net" site_id="cineplus-classic-belgique-315" xmltv_id="Ciné+ Classic Belgique">Ciné+ Classic Belgique</channel>
+    <channel update="i" site="programme-tv.net" site_id="voosport-world-2-252" xmltv_id="VOOsport World 2">VOOsport World 2</channel>
+    <channel update="i" site="programme-tv.net" site_id="voosport-world-3-319" xmltv_id="VOOsport World 3">VOOsport World 3</channel>
+    <channel update="i" site="programme-tv.net" site_id="eleven-sports-1-314" xmltv_id="Eleven Sports 1">Eleven Sports 1</channel>
+    <channel update="i" site="programme-tv.net" site_id="eleven-sports-2-309" xmltv_id="Eleven Sports 2">Eleven Sports 2</channel>
+    <channel update="i" site="programme-tv.net" site_id="nautical-channel-109" xmltv_id="Nautical Channel">Nautical Channel</channel>
+    <channel update="i" site="programme-tv.net" site_id="rtc-tele-liege-317" xmltv_id="RTC Télé Liège">RTC Télé Liège</channel>
+    <channel update="i" site="programme-tv.net" site_id="tele-sambre-316" xmltv_id="Télé Sambre">Télé Sambre</channel>
+    <channel update="i" site="programme-tv.net" site_id="tv-com-322" xmltv_id="TV COM">TV COM</channel>
+    <channel update="i" site="programme-tv.net" site_id="tv-lux-326" xmltv_id="TV Lux">TV Lux</channel>
+    <channel update="i" site="programme-tv.net" site_id="vedia-329" xmltv_id="Vedia">Vedia</channel>
+    <channel update="i" site="programme-tv.net" site_id="notele-325" xmltv_id="NoTélé">NoTélé</channel>
+    <channel update="i" site="programme-tv.net" site_id="canal-c-330" xmltv_id="Canal C">Canal C</channel>
+    <channel update="i" site="programme-tv.net" site_id="tele-mb-328" xmltv_id="Télé MB">Télé MB</channel>
+    <channel update="i" site="programme-tv.net" site_id="matele-327" xmltv_id="MAtélé">MAtélé</channel>
+    <channel update="i" site="programme-tv.net" site_id="canal-zoom-333" xmltv_id="Canal Zoom">Canal Zoom</channel>
+    <channel update="i" site="programme-tv.net" site_id="bx1-332" xmltv_id="BX1">BX1</channel>
+    <channel update="i" site="programme-tv.net" site_id="nickelodeon-wallonia-272" xmltv_id="Nickelodéon Wallonia">Nickelodéon Wallonia</channel>
+    <channel update="i" site="programme-tv.net" site_id="disney-channel-wallonia-271" xmltv_id="Disney Channel Wallonia">Disney Channel Wallonia</channel>
+    <channel update="i" site="programme-tv.net" site_id="stingray-festival-4k-357" xmltv_id="Stingray Festival 4K">Stingray Festival 4K</channel>
+    <channel update="i" site="programme-tv.net" site_id="abxplore-139" xmltv_id="ABXPLORE">ABXPLORE</channel>
+    <channel update="i" site="programme-tv.net" site_id="canal-z-254" xmltv_id="Canal Z">Canal Z</channel>
+    <channel update="i" site="programme-tv.net" site_id="een-264" xmltv_id="één">één</channel>
+    <channel update="i" site="programme-tv.net" site_id="canvas-234" xmltv_id="Canvas">Canvas</channel>
+    <channel update="i" site="programme-tv.net" site_id="vier-260" xmltv_id="Vier">Vier</channel>
+    <channel update="i" site="programme-tv.net" site_id="vijf-261" xmltv_id="Vijf">Vijf</channel>
+    <channel update="i" site="programme-tv.net" site_id="vitaya-262" xmltv_id="Vitaya">Vitaya</channel>
+    <channel update="i" site="programme-tv.net" site_id="vtm-263" xmltv_id="VTM">VTM</channel>
+    <channel update="i" site="programme-tv.net" site_id="q2-244" xmltv_id="Q2">Q2</channel>
+    <channel update="i" site="programme-tv.net" site_id="npo1-266" xmltv_id="NPO1">NPO1</channel>
+    <channel update="i" site="programme-tv.net" site_id="npo2-267" xmltv_id="NPO2">NPO2</channel>
+    <channel update="i" site="programme-tv.net" site_id="npo3-268" xmltv_id="NPO3">NPO3</channel>
+    <channel update="i" site="programme-tv.net" site_id="bbc-1-230" xmltv_id="BBC 1">BBC 1</channel>
+    <channel update="i" site="programme-tv.net" site_id="bbc-2-231" xmltv_id="BBC 2">BBC 2</channel>
+    <channel update="i" site="programme-tv.net" site_id="be-1-248" xmltv_id="BE 1">BE 1</channel>
+    <channel update="i" site="programme-tv.net" site_id="voosport-world-1-251" xmltv_id="VOOsport World 1">VOOsport World 1</channel>
+    <channel update="i" site="programme-tv.net" site_id="crime-district-363" xmltv_id="Crime District">Crime District</channel>
+    <channel update="i" site="programme-tv.net" site_id="demain-tv-53" xmltv_id="Demain TV">Demain TV</channel>
+    <channel update="i" site="programme-tv.net" site_id="lcp-100-377" xmltv_id="LCP 100%">LCP 100%</channel>
+    <channel update="i" site="programme-tv.net" site_id="acht-245" xmltv_id="Acht">Acht</channel>
+    <channel update="i" site="programme-tv.net" site_id="ketnet-255" xmltv_id="Ketnet">Ketnet</channel>
+</settings>
