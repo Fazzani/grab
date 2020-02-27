@@ -425,7 +425,7 @@
   </programme>
   <programme start="20200228200000 +0100" stop="20200228214000 +0100" channel="AB 3">
     <title lang="fr">The Passenger</title>
-    <desc lang="fr">Comme tous les jours après son travail, Michael MacCauley (Liam Neeson) prend le train de banlieue qui le ramène chez lui. Mais aujourd’hui, son trajet quotidien va prendre une toute autre tournure. Après avoir reçu l’appel d’un mystérieux inconnu, il est forcé d’identifier un passager caché dans le train, avant le dernier arrêt. Alors qu’il se bat contre la montre pour résoudre cette énigme, il se retrouve pris dans un terrible engrenage. Une conspiration qui devient une question de vie ou de mort, pour lui ainsi que pour tous les autres passagers !(n)</desc>
+    <desc lang="fr">Comme tous les jours après son travail, Michael MacCauley (Liam Neeson) prend le train de banlieue qui le ramène chez lui. Mais aujourd’hui, son trajet quotidien va prendre une toute autre tournure. Après avoir reçu l’appel d’un mystérieux inconnu, il est forcé d’identifier un passager caché dans le train, avant le dernier arrêt. Alors qu’il se bat contre la montre pour résoudre cette énigme, il se retrouve pris dans un terrible engrenage. Une conspiration qui devient une question de vie ou de mort, pour lui ainsi que pour tous les autres passagers !</desc>
     <category lang="fr">Film</category>
     <icon src="https://www.telerama.fr/sites/tr_master/files/sheet_media/movie/7_798945.jpg" />
   </programme>
@@ -1411,6 +1411,11 @@
   </programme>
   <programme start="20200227072000 +0100" stop="20200227074500 +0100" channel="Discovery Science">
     <title lang="fr">Comment ça marche ? (?)</title>
+    <credits>
+      <director>Emma Shaw</director>
+      <director>John Boam</director>
+      <director>Karen O'Donovan</director>
+    </credits>
     <category lang="fr">Sciences et technique</category>
   </programme>
   <programme start="20200227074500 +0100" stop="20200227081000 +0100" channel="Discovery Science">
@@ -1763,15 +1768,15 @@
   </programme>
   <programme start="20200228115500 +0100" stop="20200228122000 +0100" channel="Discovery Science">
     <title lang="fr">Abracadascience (?)</title>
-    <category lang="fr">Société</category>
+    <category lang="fr">Documentaire Société</category>
   </programme>
   <programme start="20200228122000 +0100" stop="20200228124500 +0100" channel="Discovery Science">
     <title lang="fr">Abracadascience (?)</title>
-    <category lang="fr">Société</category>
+    <category lang="fr">Documentaire Société</category>
   </programme>
   <programme start="20200228124500 +0100" stop="20200228131000 +0100" channel="Discovery Science">
     <title lang="fr">Abracadascience (?)</title>
-    <category lang="fr">Société</category>
+    <category lang="fr">Documentaire Société</category>
   </programme>
   <programme start="20200228131000 +0100" stop="20200228133500 +0100" channel="Discovery Science">
     <title lang="fr">Comment ça marche ? (?)</title>
