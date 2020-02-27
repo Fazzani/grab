@@ -1,4 +1,4 @@
-FROM debian 
+FROM debian
 ENV GITHUB_API_TOKEN xxxx
 ENV VERBOSE false
 LABEL maintainer="fazzani.heni@outlook.com" \
