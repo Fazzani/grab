@@ -70,22 +70,6 @@
     <icon src="https://television.telerama.fr/sites/tr_master/files/styles/channel_logo_80x80/public/sheet_media/tv/150x150/192.png?itok=LK8LTHrB" />
     <url>http://www.telerama.fr</url>
   </channel>
-  <programme start="20200313070000 +0100" stop="20200313150000 +0100" channel="MTV Rocks">
-    <title lang="fr">Biggest ! Hottest ! Loudest !</title>
-    <category lang="fr">Clips</category>
-  </programme>
-  <programme start="20200313150000 +0100" stop="20200313170000 +0100" channel="MTV Rocks">
-    <title lang="fr">100% Anthems !</title>
-    <category lang="fr">Clips</category>
-  </programme>
-  <programme start="20200313170000 +0100" stop="20200313220000 +0100" channel="MTV Rocks">
-    <title lang="fr">Rocks Rated !</title>
-    <category lang="fr">Clips</category>
-  </programme>
-  <programme start="20200313220000 +0100" stop="20200314040000 +0100" channel="MTV Rocks">
-    <title lang="fr">Supermassive Anthems !</title>
-    <category lang="fr">Clips</category>
-  </programme>
   <programme start="20200314070000 +0100" stop="20200314150000 +0100" channel="MTV Rocks">
     <title lang="fr">Biggest ! Hottest ! Loudest !</title>
     <category lang="fr">Clips</category>
@@ -102,36 +86,20 @@
     <title lang="fr">Supermassive Anthems !</title>
     <category lang="fr">Clips</category>
   </programme>
-  <programme start="20200313010000 +0100" stop="20200313050000 +0100" channel="MTV Base">
-    <title lang="fr">Super Base Beats</title>
+  <programme start="20200315070000 +0100" stop="20200315150000 +0100" channel="MTV Rocks">
+    <title lang="fr">Biggest ! Hottest ! Loudest !</title>
     <category lang="fr">Clips</category>
   </programme>
-  <programme start="20200313070000 +0100" stop="20200313110000 +0100" channel="MTV Base">
-    <title lang="fr">Super Base Beats</title>
+  <programme start="20200315150000 +0100" stop="20200315170000 +0100" channel="MTV Rocks">
+    <title lang="fr">100% Anthems !</title>
     <category lang="fr">Clips</category>
   </programme>
-  <programme start="20200313110000 +0100" stop="20200313130000 +0100" channel="MTV Base">
-    <title lang="fr">Sounds Like Soul ! Chilled Anthems</title>
+  <programme start="20200315170000 +0100" stop="20200315220000 +0100" channel="MTV Rocks">
+    <title lang="fr">Sunday Sessions</title>
     <category lang="fr">Clips</category>
   </programme>
-  <programme start="20200313130000 +0100" stop="20200313150000 +0100" channel="MTV Base">
-    <title lang="fr">00s Vs 10s : R &amp; B Battle</title>
-    <category lang="fr">Clips</category>
-  </programme>
-  <programme start="20200313150000 +0100" stop="20200313160000 +0100" channel="MTV Base">
-    <title lang="fr">Rewind ! 2015 : Now</title>
-    <category lang="fr">Clips</category>
-  </programme>
-  <programme start="20200313160000 +0100" stop="20200313180000 +0100" channel="MTV Base">
-    <title lang="fr">Big Beats &amp; Heavy Hits !</title>
-    <category lang="fr">Clips</category>
-  </programme>
-  <programme start="20200313180000 +0100" stop="20200313200000 +0100" channel="MTV Base">
-    <title lang="fr">Sounds Like Soul ! Chilled Anthems</title>
-    <category lang="fr">Clips</category>
-  </programme>
-  <programme start="20200313200000 +0100" stop="20200314010000 +0100" channel="MTV Base">
-    <title lang="fr">Dip It Low ! 00s Party Jamz That Are Lit AF</title>
+  <programme start="20200315220000 +0100" stop="20200316040000 +0100" channel="MTV Rocks">
+    <title lang="fr">Supermassive Anthems !</title>
     <category lang="fr">Clips</category>
   </programme>
   <programme start="20200314010000 +0100" stop="20200314030000 +0100" channel="MTV Base">
@@ -178,44 +146,48 @@
     <title lang="fr">Super Base Beats</title>
     <category lang="fr">Clips</category>
   </programme>
-  <programme start="20200313000000 +0100" stop="20200313020000 +0100" channel="NRJ Hits">
-    <title lang="fr">NRJ Hits Mix (?)</title>
+  <programme start="20200315070000 +0100" stop="20200315100000 +0100" channel="MTV Base">
+    <title lang="fr">Super Base Beats</title>
     <category lang="fr">Clips</category>
   </programme>
-  <programme start="20200313020000 +0100" stop="20200313060000 +0100" channel="NRJ Hits">
-    <title lang="fr">French Music Only (?)</title>
+  <programme start="20200315100000 +0100" stop="20200315120000 +0100" channel="MTV Base">
+    <title lang="fr">The Official UK Urban Chart</title>
     <category lang="fr">Clips</category>
   </programme>
-  <programme start="20200313060000 +0100" stop="20200313070000 +0100" channel="NRJ Hits">
-    <title lang="fr">La tête dans le clip</title>
+  <programme start="20200315120000 +0100" stop="20200315140000 +0100" channel="MTV Base">
+    <title lang="fr">Hottest Homegrown Throwbacks !</title>
     <category lang="fr">Clips</category>
   </programme>
-  <programme start="20200313070000 +0100" stop="20200313100000 +0100" channel="NRJ Hits">
-    <title lang="fr">NRJ Morning Hits (?)</title>
+  <programme start="20200315140000 +0100" stop="20200315170000 +0100" channel="MTV Base">
+    <title lang="fr">00s Vs 10s : The Guys</title>
     <category lang="fr">Clips</category>
   </programme>
-  <programme start="20200313100000 +0100" stop="20200313120000 +0100" channel="NRJ Hits">
-    <title lang="fr">NRJ Morning Hits (?)</title>
+  <programme start="20200315170000 +0100" stop="20200315190000 +0100" channel="MTV Base">
+    <title lang="fr">Most Played Videos Of The Week So Far</title>
     <category lang="fr">Clips</category>
   </programme>
-  <programme start="20200313120000 +0100" stop="20200313150000 +0100" channel="NRJ Hits">
-    <title lang="fr">Hit Music Only</title>
+  <programme start="20200315190000 +0100" stop="20200315210000 +0100" channel="MTV Base">
+    <title lang="fr">The Official UK Urban Chart</title>
     <category lang="fr">Clips</category>
   </programme>
-  <programme start="20200313150000 +0100" stop="20200313170000 +0100" channel="NRJ Hits">
-    <title lang="fr">Hit Music Only</title>
+  <programme start="20200315210000 +0100" stop="20200315220000 +0100" channel="MTV Base">
+    <title lang="fr">Rewind ! 2010-2015</title>
     <category lang="fr">Clips</category>
   </programme>
-  <programme start="20200313170000 +0100" stop="20200313200000 +0100" channel="NRJ Hits">
-    <title lang="fr">NRJ After School</title>
+  <programme start="20200315220000 +0100" stop="20200315223000 +0100" channel="MTV Base">
+    <title lang="fr">Big Beats &amp; Future Smashes !</title>
     <category lang="fr">Clips</category>
   </programme>
-  <programme start="20200313200000 +0100" stop="20200313230000 +0100" channel="NRJ Hits">
-    <title lang="fr">Spéciale M Pokora (?)</title>
+  <programme start="20200315223000 +0100" stop="20200315230000 +0100" channel="MTV Base">
+    <title lang="fr">Yo ! MTV Raps</title>
     <category lang="fr">Clips</category>
   </programme>
-  <programme start="20200313230000 +0100" stop="20200314020000 +0100" channel="NRJ Hits">
-    <title lang="fr">NRJ Hits Mix (?)</title>
+  <programme start="20200315230000 +0100" stop="20200316010000 +0100" channel="MTV Base">
+    <title lang="fr">The Official UK Urban Chart</title>
+    <category lang="fr">Clips</category>
+  </programme>
+  <programme start="20200316010000 +0100" stop="20200316050000 +0100" channel="MTV Base">
+    <title lang="fr">Super Base Beats</title>
     <category lang="fr">Clips</category>
   </programme>
   <programme start="20200314020000 +0100" stop="20200314060000 +0100" channel="NRJ Hits">
@@ -262,90 +234,45 @@
     <title lang="fr">French Music Only (?)</title>
     <category lang="fr">Clips</category>
   </programme>
-  <programme start="20200313003000 +0100" stop="20200313020000 +0100" channel="AB 3">
-    <title lang="fr">Reporters (?)</title>
-    <credits>
-      <presenter>Antoine Cormery</presenter>
-      <presenter>Michaël Miraglia</presenter>
-      <presenter>Rebecca Fitoussi</presenter>
-    </credits>
-    <category lang="fr">Magazine de reportages</category>
+  <programme start="20200315060000 +0100" stop="20200315070000 +0100" channel="NRJ Hits">
+    <title lang="fr">La tête dans le clip</title>
+    <category lang="fr">Clips</category>
   </programme>
-  <programme start="20200313100500 +0100" stop="20200313110000 +0100" channel="AB 3">
-    <title lang="fr">Télé-achat</title>
-    <category lang="fr">Magazine de télé-achat</category>
+  <programme start="20200315070000 +0100" stop="20200315100000 +0100" channel="NRJ Hits">
+    <title lang="fr">NRJ Morning Hits (?)</title>
+    <category lang="fr">Clips</category>
   </programme>
-  <programme start="20200313123500 +0100" stop="20200313124000 +0100" channel="AB 3">
-    <title lang="fr">Météo</title>
-    <category lang="fr">Météo</category>
+  <programme start="20200315100000 +0100" stop="20200315120000 +0100" channel="NRJ Hits">
+    <title lang="fr">NRJ Morning Hits (?)</title>
+    <category lang="fr">Clips</category>
   </programme>
-  <programme start="20200313124000 +0100" stop="20200313140000 +0100" channel="AB 3">
-    <title lang="fr">Le pire des mensonges (?)</title>
-    <credits>
-      <director>Brenton Spencer</director>
-      <actor>Chelah Horsdal 
- 
- Ann</actor>
-      <actor>Chelsey Reist 
- 
- la maîtresse de Barry</actor>
-      <actor>Christopher Jordan Lee 
- 
- Cam</actor>
-      <actor>Julie Benz 
- 
- Zoey</actor>
-      <actor>Matthew Kevin Anderson 
- 
- Fish</actor>
-      <actor>Maxwell Kovach 
- 
- Timmy</actor>
-      <actor>Rick Ravanello 
- 
- Barry</actor>
-    </credits>
-    <category lang="fr">Téléfilm de suspense</category>
+  <programme start="20200315120000 +0100" stop="20200315150000 +0100" channel="NRJ Hits">
+    <title lang="fr">NRJ Week End (?)</title>
+    <category lang="fr">Clips</category>
   </programme>
-  <programme start="20200313140000 +0100" stop="20200313153000 +0100" channel="AB 3">
-    <title lang="fr">Plus jamais victime ! (?)</title>
-    <credits>
-      <director>Damián Romay</director>
-      <actor>Bryan Lillis 
- 
- Max</actor>
-      <actor>Claire Blackwelder 
- 
- Dakota</actor>
-      <actor>Denise Johnson 
- 
- Ella</actor>
-      <actor>Jasmine Johnson 
- 
- Addie</actor>
-      <actor>Kelly Heyer 
- 
- Terri</actor>
-      <actor>Lacy Harstelle 
- 
- Sarah</actor>
-      <actor>Tim Bensch 
- 
- Beatty</actor>
-    </credits>
-    <category lang="fr">Téléfilm de suspense</category>
+  <programme start="20200315150000 +0100" stop="20200315180000 +0100" channel="NRJ Hits">
+    <title lang="fr">NRJ Week End (?)</title>
+    <category lang="fr">Clips</category>
   </programme>
-  <programme start="20200313200000 +0100" stop="20200313214500 +0100" channel="AB 3">
-    <title lang="fr">Nanny McPhee et le Big Bang</title>
-    <desc lang="fr">Dans ce second volet, Nanny McPhee fait un bond dans le temps pour venir en aide à une jeune mère tourmentée qui tente de gérer une ferme familiale tandis que son mari est parti à la guerre. Sur place, Nanny McPhee découvre que les enfants de Mme Green mènent de leur côté une guerre acharnée contre leurs méchants cousins qui viennent d'emménager dans le village. Entre des motos volantes, un cochon grimpant aux arbres, des statues vivantes, et un bébé éléphant qui apparaît dans d'étranges endroits, Nanny McPhee va devoir user de sa magie pour enseigner de nouvelles leçons à ses malicieux protégés !</desc>
-    <category lang="fr">Film</category>
-    <icon src="https://www.telerama.fr/sites/tr_master/files/styles/movie_cover_186x252/public/e4ae5ba5-6819-4f4c-85fd-1b7bc344f7f5_2.jpg?itok=kUL1Bvyw" />
+  <programme start="20200315180000 +0100" stop="20200315200000 +0100" channel="NRJ Hits">
+    <title lang="fr">NRJ Hit Music Only (?)</title>
+    <category lang="fr">Clips</category>
   </programme>
-  <programme start="20200313214500 +0100" stop="20200313232500 +0100" channel="AB 3">
-    <title lang="fr">The Passenger</title>
-    <desc lang="fr">Comme tous les jours après son travail, Michael MacCauley (Liam Neeson) prend le train de banlieue qui le ramène chez lui. Mais aujourd’hui, son trajet quotidien va prendre une toute autre tournure. Après avoir reçu l’appel d’un mystérieux inconnu, il est forcé d’identifier un passager caché dans le train, avant le dernier arrêt. Alors qu’il se bat contre la montre pour résoudre cette énigme, il se retrouve pris dans un terrible engrenage. Une conspiration qui devient une question de vie ou de mort, pour lui ainsi que pour tous les autres passagers !</desc>
-    <category lang="fr">Film</category>
-    <icon src="https://www.telerama.fr/sites/tr_master/files/sheet_media/movie/7_798945.jpg" />
+  <programme start="20200315200000 +0100" stop="20200315211500 +0100" channel="NRJ Hits">
+    <title lang="fr">Spéciale Christophe Maé (?)</title>
+    <category lang="fr">Clips</category>
+  </programme>
+  <programme start="20200315211500 +0100" stop="20200316000000 +0100" channel="NRJ Hits">
+    <title lang="fr">NRJ Hits Mix (?)</title>
+    <category lang="fr">Clips</category>
+  </programme>
+  <programme start="20200316000000 +0100" stop="20200316020000 +0100" channel="NRJ Hits">
+    <title lang="fr">NRJ Hits Mix (?)</title>
+    <category lang="fr">Clips</category>
+  </programme>
+  <programme start="20200316020000 +0100" stop="20200316060000 +0100" channel="NRJ Hits">
+    <title lang="fr">French Music Only (?)</title>
+    <category lang="fr">Clips</category>
   </programme>
   <programme start="20200314070500 +0100" stop="20200314084000 +0100" channel="AB 3">
     <title lang="fr">Super Nanny (?)</title>
@@ -394,368 +321,93 @@
   </programme>
   <programme start="20200314203000 +0100" stop="20200314220000 +0100" channel="AB 3">
     <title lang="fr">Kung Fu Panda 3</title>
-    <desc lang="fr">Maître Oogway est attaqué par le terrible Kai alors qu'il méditait dans le royaume des esprits. Kai, désormais tout-puissant, est capable de se rendre sur Terre. Pendant ce temps, en Chine, Po et ses amis apprennent que maître Shifu ne leur enseignera plus le kung-fu et qu'il confie cette tâche à Po. C'est alors que pendant un concours, Po fait la connaissance d'un grand panda, Li Shan, qui lui semble étrangement familier. Il comprend bientôt que Li Shan n'est autre son père, qui avait disparu pendant de nombreuses années. Pendant ce temps, Kai défait tous les maîtres du kung-fu qu'il croise sur son chemin...(n)</desc>
+    <desc lang="fr">Maître Oogway est attaqué par le terrible Kai alors qu'il méditait dans le royaume des esprits. Kai, désormais tout-puissant, est capable de se rendre sur Terre. Pendant ce temps, en Chine, Po et ses amis apprennent que maître Shifu ne leur enseignera plus le kung-fu et qu'il confie cette tâche à Po. C'est alors que pendant un concours, Po fait la connaissance d'un grand panda, Li Shan, qui lui semble étrangement familier. Il comprend bientôt que Li Shan n'est autre son père, qui avait disparu pendant de nombreuses années. Pendant ce temps, Kai défait tous les maîtres du kung-fu qu'il croise sur son chemin...</desc>
     <category lang="fr">Film</category>
     <icon src="https://www.telerama.fr/sites/tr_master/files/2e034458-3c50-4acb-a7a3-3abbbfa53724_2.jpg" />
   </programme>
   <programme start="20200314220000 +0100" stop="20200314233000 +0100" channel="AB 3">
     <title lang="fr">Baby Boss</title>
-    <desc lang="fr">Tim Templeton, un garçon de 7 ans très imaginatif, mène une vie très heureuse avec ses parents. Mais l’arrivée soudaine d’un petit frère chamboule complètement son quotidien. D’autant que ce bébé n’est pas comme les autres : il porte un costume, adore les sushi, ne se sépare jamais de sa mallette et surtout parle comme un adulte. Alors qu’il tente de reconquérir l’affection de ses parents, Tim découvre que son petit frère est le chef d’une organisation secrète dont la mission est de rétablir l’équilibre de l’amour dans le monde. Afin de contrecarrer les plans terribles de la société ToutouCo., les deux frères décident de s’unir...(n)</desc>
+    <desc lang="fr">Tim Templeton, un garçon de 7 ans très imaginatif, mène une vie très heureuse avec ses parents. Mais l’arrivée soudaine d’un petit frère chamboule complètement son quotidien. D’autant que ce bébé n’est pas comme les autres : il porte un costume, adore les sushi, ne se sépare jamais de sa mallette et surtout parle comme un adulte. Alors qu’il tente de reconquérir l’affection de ses parents, Tim découvre que son petit frère est le chef d’une organisation secrète dont la mission est de rétablir l’équilibre de l’amour dans le monde. Afin de contrecarrer les plans terribles de la société ToutouCo., les deux frères décident de s’unir...</desc>
     <category lang="fr">Film</category>
     <icon src="https://www.telerama.fr/sites/tr_master/files/sheet_media/movie/7_726787.jpg" />
   </programme>
   <programme start="20200314233000 +0100" stop="20200315010000 +0100" channel="AB 3">
     <title lang="fr">The Full Monty, le grand jeu</title>
-    <desc lang="fr">Dans le Nord de l'Angleterre, la ville de Sheffield a subi de plein fouet la crise de la métallurgie des années 80. Gaz est l'une des victimes de la morosité économique. Son horizon se limite aux usines désaffectées et aux friches industrielles. Séparé de sa femme, chômeur, Gaz se débrouille comme il peut pour conserver l'affection de son fils. Dans ce quotidien plutôt terne, la venue des Chippendales, un groupe de stripteaseurs, crée l'événement. Le succès phénoménal de ces messieurs inspire à Gaz une idée des plus saugrenues : monter son propre spectacle de déshabillage progressif. Aidé de son corpulent ami Dave, Gaz lance un casting pour recruter les membres de la fine équipe et organiser les premières répétitions dans un hangar...(n)</desc>
+    <desc lang="fr">Dans le Nord de l'Angleterre, la ville de Sheffield a subi de plein fouet la crise de la métallurgie des années 80. Gaz est l'une des victimes de la morosité économique. Son horizon se limite aux usines désaffectées et aux friches industrielles. Séparé de sa femme, chômeur, Gaz se débrouille comme il peut pour conserver l'affection de son fils. Dans ce quotidien plutôt terne, la venue des Chippendales, un groupe de stripteaseurs, crée l'événement. Le succès phénoménal de ces messieurs inspire à Gaz une idée des plus saugrenues : monter son propre spectacle de déshabillage progressif. Aidé de son corpulent ami Dave, Gaz lance un casting pour recruter les membres de la fine équipe et organiser les premières répétitions dans un hangar...(c)</desc>
     <category lang="fr">Film</category>
     <icon src="https://www.telerama.fr/sites/tr_master/files/321df474-6da3-42c3-b0ad-a460194331ab_2.jpg" />
   </programme>
-  <programme start="20200313002000 +0100" stop="20200313011000 +0100" channel="E !">
-    <title lang="fr">C'est mon mariage ! (?)</title>
+  <programme start="20200315101500 +0100" stop="20200315111500 +0100" channel="AB 3">
+    <title lang="fr">Télé-achat</title>
+    <category lang="fr">Magazine de télé-achat</category>
+  </programme>
+  <programme start="20200315114000 +0100" stop="20200315123500 +0100" channel="AB 3">
+    <title lang="fr">Tattoo Cover : Sauveurs de tatouages (?)</title>
     <category lang="fr">Documentaire Téléréalité</category>
   </programme>
-  <programme start="20200313011000 +0100" stop="20200313020000 +0100" channel="E !">
-    <title lang="fr">C'est mon mariage ! (?)</title>
+  <programme start="20200315123500 +0100" stop="20200315133000 +0100" channel="AB 3">
+    <title lang="fr">Tattoo Cover : Sauveurs de tatouages (?)</title>
     <category lang="fr">Documentaire Téléréalité</category>
   </programme>
-  <programme start="20200313020000 +0100" stop="20200313025000 +0100" channel="E !">
-    <title lang="fr">C'est mon mariage ! (?)</title>
-    <category lang="fr">Documentaire Téléréalité</category>
+  <programme start="20200315133000 +0100" stop="20200315133500 +0100" channel="AB 3">
+    <title lang="fr">Météo</title>
+    <category lang="fr">Météo</category>
   </programme>
-  <programme start="20200313025000 +0100" stop="20200313034000 +0100" channel="E !">
-    <title lang="fr">C'est mon mariage ! (?)</title>
-    <category lang="fr">Documentaire Téléréalité</category>
+  <programme start="20200315133500 +0100" stop="20200315152000 +0100" channel="AB 3">
+    <title lang="fr">Red</title>
+    <desc lang="fr">Retraité, Frank Moses s'ennuie dans son pavillon de banlieue. Les journées sont longues et il trompe parfois son inactivité grâce au coup de fil qu'il passe à une jolie standardiste de la gestion des fonds de retraite. Cette morne routine vole en éclats le jour où une bande de ninjas essaye de l'assassiner. Echappant à ses assaillants, Frank décide de mettre sur pied une équipe de choc constituée par ses anciens collègues de la CIA, Joe, Marvin et Victoria. Ensemble, ils rassemblent leurs talents afin de déjouer un vaste complot dont les commanditaires sont situés au plus haut niveau. Si les articulations craquent parfois, les armes à feu en couvrent le bruit. Car ces quatre retraités sont toujours aussi redoutables...(n)</desc>
+    <category lang="fr">Film</category>
+    <icon src="https://www.telerama.fr/sites/tr_master/files/bc65e858-ab58-4a00-a3ac-c9567d09b23a_2.jpg" />
   </programme>
-  <programme start="20200313034000 +0100" stop="20200313043000 +0100" channel="E !">
-    <title lang="fr">C'est mon mariage ! (?)</title>
-    <category lang="fr">Documentaire Téléréalité</category>
+  <programme start="20200315152000 +0100" stop="20200315171000 +0100" channel="AB 3">
+    <title lang="fr">Red 2</title>
+    <desc lang="fr">Avec sa compagne Sarah, Frank Moses, un agent de la CIA à la retraite, se rend aux obsèques de Marvin, son ancien partenaire. C'est le début des problèmes. Marvin, finalement bien vivant, le sort du pétrin alors qu'il est interrogé par le FBI concernant le Projet Nightshade, un engin nucléaire portatif. Franck réunit ses anciens amis et collègues afin de retrouver cette arme destructrice. La mission amène Frank et sa bande, à Paris, Londres et Moscou où ils affrontent de redoutables terroristes et des agents gouvernementaux assoiffés de pouvoir. Franck peut compter sur sa ruse, ses compétences, et ses coéquipiers pour s'en sortir et accessoirement sauver le monde ...(n)</desc>
+    <category lang="fr">Film</category>
+    <icon src="https://www.telerama.fr/sites/tr_master/files/sheet_media/movie/440729/53223107_444694.jpg" />
   </programme>
-  <programme start="20200313060000 +0100" stop="20200313065000 +0100" channel="E !">
-    <title lang="fr">Hollywood Medium (?)</title>
-    <category lang="fr">Documentaire Téléréalité</category>
+  <programme start="20200315171000 +0100" stop="20200315185000 +0100" channel="AB 3">
+    <title lang="fr">The Passenger</title>
+    <desc lang="fr">Comme tous les jours après son travail, Michael MacCauley (Liam Neeson) prend le train de banlieue qui le ramène chez lui. Mais aujourd’hui, son trajet quotidien va prendre une toute autre tournure. Après avoir reçu l’appel d’un mystérieux inconnu, il est forcé d’identifier un passager caché dans le train, avant le dernier arrêt. Alors qu’il se bat contre la montre pour résoudre cette énigme, il se retrouve pris dans un terrible engrenage. Une conspiration qui devient une question de vie ou de mort, pour lui ainsi que pour tous les autres passagers !(n)</desc>
+    <category lang="fr">Film</category>
+    <icon src="https://www.telerama.fr/sites/tr_master/files/sheet_media/movie/7_798945.jpg" />
   </programme>
-  <programme start="20200313065000 +0100" stop="20200313074000 +0100" channel="E !">
-    <title lang="fr">Hollywood Medium (?)</title>
-    <category lang="fr">Documentaire Téléréalité</category>
+  <programme start="20200315185000 +0100" stop="20200315203000 +0100" channel="AB 3">
+    <title lang="fr">Patron incognito (?)</title>
+    <category lang="fr">Magazine de société</category>
   </programme>
-  <programme start="20200313083000 +0100" stop="20200313092000 +0100" channel="E !">
-    <title lang="fr">Appelez-moi Caitlyn (?)</title>
-    <category lang="fr">Documentaire Téléréalité</category>
-  </programme>
-  <programme start="20200313092000 +0100" stop="20200313101000 +0100" channel="E !">
-    <title lang="fr">Appelez-moi Caitlyn (?)</title>
-    <category lang="fr">Documentaire Téléréalité</category>
-  </programme>
-  <programme start="20200313115000 +0100" stop="20200313124000 +0100" channel="E !">
-    <title lang="fr">Hollywood Medium (?)</title>
-    <category lang="fr">Documentaire Téléréalité</category>
-  </programme>
-  <programme start="20200313124000 +0100" stop="20200313133000 +0100" channel="E !">
-    <title lang="fr">Hollywood Medium (?)</title>
-    <category lang="fr">Documentaire Téléréalité</category>
-  </programme>
-  <programme start="20200313142000 +0100" stop="20200313151000 +0100" channel="E !">
-    <title lang="fr">Hollywood Medium (?)</title>
-    <category lang="fr">Documentaire Téléréalité</category>
-  </programme>
-  <programme start="20200313151000 +0100" stop="20200313160000 +0100" channel="E !">
-    <title lang="fr">Hollywood Medium (?)</title>
-    <category lang="fr">Documentaire Téléréalité</category>
-  </programme>
-  <programme start="20200313160000 +0100" stop="20200313165000 +0100" channel="E !">
-    <title lang="fr">Appelez-moi Caitlyn (?)</title>
-    <category lang="fr">Documentaire Téléréalité</category>
-  </programme>
-  <programme start="20200313165000 +0100" stop="20200313174000 +0100" channel="E !">
-    <title lang="fr">Appelez-moi Caitlyn (?)</title>
-    <category lang="fr">Documentaire Téléréalité</category>
-  </programme>
-  <programme start="20200313192000 +0100" stop="20200313201000 +0100" channel="E !">
-    <title lang="fr">Hollywood Medium (?)</title>
-    <category lang="fr">Documentaire Téléréalité</category>
-  </programme>
-  <programme start="20200313201000 +0100" stop="20200313210000 +0100" channel="E !">
-    <title lang="fr">Hollywood Medium (?)</title>
-    <category lang="fr">Documentaire Téléréalité</category>
-  </programme>
-  <programme start="20200313000000 +0100" stop="20200313010500 +0100" channel="Chasse et pêche">
-    <title lang="fr">Le bonheur de la chasse en famille (?)</title>
+  <programme start="20200315203000 +0100" stop="20200315215500 +0100" channel="AB 3">
+    <title lang="fr">Reporters (?)</title>
     <credits>
-      <director>Carlos Castillo</director>
+      <presenter>Antoine Cormery</presenter>
+      <presenter>Michaël Miraglia</presenter>
+      <presenter>Rebecca Fitoussi</presenter>
     </credits>
-    <category lang="fr">Chasse</category>
+    <category lang="fr">Magazine de reportages</category>
   </programme>
-  <programme start="20200313010500 +0100" stop="20200313023000 +0100" channel="Chasse et pêche">
-    <title lang="fr">Les globe-pêcheurs en Islande (?)</title>
+  <programme start="20200315215500 +0100" stop="20200315232500 +0100" channel="AB 3">
+    <title lang="fr">Reporters (?)</title>
     <credits>
-      <director>Bertrand Deveaud</director>
-      <director>Pascal Carron</director>
+      <presenter>Antoine Cormery</presenter>
+      <presenter>Michaël Miraglia</presenter>
+      <presenter>Rebecca Fitoussi</presenter>
     </credits>
-    <category lang="fr">Pêche</category>
+    <category lang="fr">Magazine de reportages</category>
   </programme>
-  <programme start="20200313023000 +0100" stop="20200313032500 +0100" channel="Chasse et pêche">
-    <title lang="fr">L'orignal en pourvoirie (?)</title>
+  <programme start="20200315232500 +0100" stop="20200316010000 +0100" channel="AB 3">
+    <title lang="fr">Reporters (?)</title>
     <credits>
-      <director>Bruno Mounier</director>
+      <presenter>Antoine Cormery</presenter>
+      <presenter>Michaël Miraglia</presenter>
+      <presenter>Rebecca Fitoussi</presenter>
     </credits>
-    <category lang="fr">Chasse</category>
+    <category lang="fr">Magazine de reportages</category>
   </programme>
-  <programme start="20200313032500 +0100" stop="20200313050600 +0100" channel="Chasse et pêche">
-    <title lang="fr">Programmes de la nuit</title>
-    <category lang="fr">Programme indéterminé</category>
-  </programme>
-  <programme start="20200313060100 +0100" stop="20200313061400 +0100" channel="Chasse et pêche">
-    <title lang="fr">Cap sur la pêche française (?)</title>
+  <programme start="20200316010000 +0100" stop="20200316015500 +0100" channel="AB 3">
+    <title lang="fr">Appels d'urgence (?)</title>
     <credits>
-      <director>Sophie Wahl</director>
+      <presenter>Hélène Mannarino</presenter>
     </credits>
-    <category lang="fr">Pêche</category>
-  </programme>
-  <programme start="20200313061400 +0100" stop="20200313062800 +0100" channel="Chasse et pêche">
-    <title lang="fr">Cap sur la pêche française (?)</title>
-    <credits>
-      <director>Sophie Wahl</director>
-    </credits>
-    <category lang="fr">Pêche</category>
-  </programme>
-  <programme start="20200313062800 +0100" stop="20200313064100 +0100" channel="Chasse et pêche">
-    <title lang="fr">Cap sur la pêche française (?)</title>
-    <credits>
-      <director>Sophie Wahl</director>
-    </credits>
-    <category lang="fr">Pêche</category>
-  </programme>
-  <programme start="20200313064100 +0100" stop="20200313065300 +0100" channel="Chasse et pêche">
-    <title lang="fr">Cap sur la pêche française (?)</title>
-    <credits>
-      <director>Sophie Wahl</director>
-    </credits>
-    <category lang="fr">Pêche</category>
-  </programme>
-  <programme start="20200313065300 +0100" stop="20200313074600 +0100" channel="Chasse et pêche">
-    <title lang="fr">L'orignal en pourvoirie (?)</title>
-    <credits>
-      <director>Bruno Mounier</director>
-    </credits>
-    <category lang="fr">Chasse</category>
-  </programme>
-  <programme start="20200313074600 +0100" stop="20200313085200 +0100" channel="Chasse et pêche">
-    <title lang="fr">Le bonheur de la chasse en famille (?)</title>
-    <credits>
-      <director>Carlos Castillo</director>
-    </credits>
-    <category lang="fr">Chasse</category>
-  </programme>
-  <programme start="20200313085200 +0100" stop="20200313094500 +0100" channel="Chasse et pêche">
-    <title lang="fr">Pêche mythique en Alaska sur la rivière Wulik (?)</title>
-    <category lang="fr">Pêche</category>
-  </programme>
-  <programme start="20200313094500 +0100" stop="20200313101100 +0100" channel="Chasse et pêche">
-    <title lang="fr">Outlanders (?)</title>
-    <category lang="fr">Chasse</category>
-  </programme>
-  <programme start="20200313101100 +0100" stop="20200313104100 +0100" channel="Chasse et pêche">
-    <title lang="fr">Outlanders (?)</title>
-    <category lang="fr">Chasse</category>
-  </programme>
-  <programme start="20200313104100 +0100" stop="20200313111000 +0100" channel="Chasse et pêche">
-    <title lang="fr">Au coeur de la nature (?)</title>
-    <credits>
-      <director>Teemu Hostikka</director>
-    </credits>
-    <category lang="fr">Chasse</category>
-  </programme>
-  <programme start="20200313111000 +0100" stop="20200313113900 +0100" channel="Chasse et pêche">
-    <title lang="fr">Au coeur de la nature (?)</title>
-    <credits>
-      <director>Teemu Hostikka</director>
-    </credits>
-    <category lang="fr">Chasse</category>
-  </programme>
-  <programme start="20200313113900 +0100" stop="20200313120900 +0100" channel="Chasse et pêche">
-    <title lang="fr">Au coeur de la nature (?)</title>
-    <credits>
-      <director>Teemu Hostikka</director>
-    </credits>
-    <category lang="fr">Chasse</category>
-  </programme>
-  <programme start="20200313120900 +0100" stop="20200313123900 +0100" channel="Chasse et pêche">
-    <title lang="fr">Au coeur de la nature (?)</title>
-    <credits>
-      <director>Teemu Hostikka</director>
-    </credits>
-    <category lang="fr">Chasse</category>
-  </programme>
-  <programme start="20200313123900 +0100" stop="20200313130700 +0100" channel="Chasse et pêche">
-    <title lang="fr">Traque du sanglier dans le Larzac (?)</title>
-    <credits>
-      <director>Gilbert Di Nino</director>
-    </credits>
-    <category lang="fr">Chasse</category>
-  </programme>
-  <programme start="20200313130700 +0100" stop="20200313133500 +0100" channel="Chasse et pêche">
-    <title lang="fr">Entraînement de chiens sur sangliers (?)</title>
-    <credits>
-      <director>Gilbert Di Nino</director>
-    </credits>
-    <category lang="fr">Chasse</category>
-  </programme>
-  <programme start="20200313133500 +0100" stop="20200313140200 +0100" channel="Chasse et pêche">
-    <title lang="fr">Chasse aux sangliers aux chiens courants (?)</title>
-    <credits>
-      <director>Gilbert Di Nino</director>
-    </credits>
-    <category lang="fr">Chasse</category>
-  </programme>
-  <programme start="20200313140200 +0100" stop="20200313142800 +0100" channel="Chasse et pêche">
-    <title lang="fr">Chasse à l'approche du chamois dans le Cantal (?)</title>
-    <credits>
-      <director>Gilbert Di Nino</director>
-    </credits>
-    <category lang="fr">Chasse</category>
-  </programme>
-  <programme start="20200313142800 +0100" stop="20200313145400 +0100" channel="Chasse et pêche">
-    <title lang="fr">Carp Wars (?)</title>
-    <credits>
-      <director>Paul Cooper</director>
-    </credits>
-    <category lang="fr">Pêche</category>
-  </programme>
-  <programme start="20200313145400 +0100" stop="20200313152000 +0100" channel="Chasse et pêche">
-    <title lang="fr">Carp Wars (?)</title>
-    <credits>
-      <director>Paul Cooper</director>
-    </credits>
-    <category lang="fr">Pêche</category>
-  </programme>
-  <programme start="20200313152000 +0100" stop="20200313154600 +0100" channel="Chasse et pêche">
-    <title lang="fr">Québec à vol d'oiseau (?)</title>
-    <credits>
-      <director>Frédéric Laroche</director>
-      <director>Joël Tremblay</director>
-    </credits>
-    <category lang="fr">Chasse</category>
-  </programme>
-  <programme start="20200313154600 +0100" stop="20200313161200 +0100" channel="Chasse et pêche">
-    <title lang="fr">Québec à vol d'oiseau (?)</title>
-    <credits>
-      <director>Frédéric Laroche</director>
-      <director>Joël Tremblay</director>
-    </credits>
-    <category lang="fr">Chasse</category>
-  </programme>
-  <programme start="20200313161200 +0100" stop="20200313164200 +0100" channel="Chasse et pêche">
-    <title lang="fr">Le chasseur français (?)</title>
-    <credits>
-      <presenter>Antoine Berton</presenter>
-    </credits>
-    <category lang="fr">Magazine de la chasse</category>
-  </programme>
-  <programme start="20200313164200 +0100" stop="20200313170600 +0100" channel="Chasse et pêche">
-    <title lang="fr">Québec à vol d'oiseau (?)</title>
-    <credits>
-      <director>Frédéric Laroche</director>
-      <director>Joël Tremblay</director>
-    </credits>
-    <category lang="fr">Chasse</category>
-  </programme>
-  <programme start="20200313170600 +0100" stop="20200313173000 +0100" channel="Chasse et pêche">
-    <title lang="fr">Québec à vol d'oiseau (?)</title>
-    <credits>
-      <director>Frédéric Laroche</director>
-      <director>Joël Tremblay</director>
-    </credits>
-    <category lang="fr">Chasse</category>
-  </programme>
-  <programme start="20200313173000 +0100" stop="20200313173800 +0100" channel="Chasse et pêche">
-    <title lang="fr">Les tutos (?)</title>
-    <credits>
-      <director>Pierre Marceau</director>
-      <director>Stéphane Garnier</director>
-      <director>Virginie Vinet</director>
-    </credits>
-    <category lang="fr">Nature</category>
-  </programme>
-  <programme start="20200313173800 +0100" stop="20200313174600 +0100" channel="Chasse et pêche">
-    <title lang="fr">Les tutos (?)</title>
-    <credits>
-      <director>Pierre Marceau</director>
-      <director>Stéphane Garnier</director>
-      <director>Virginie Vinet</director>
-    </credits>
-    <category lang="fr">Nature</category>
-  </programme>
-  <programme start="20200313174600 +0100" stop="20200313180000 +0100" channel="Chasse et pêche">
-    <title lang="fr">Les tutos (?)</title>
-    <credits>
-      <director>Pierre Marceau</director>
-      <director>Stéphane Garnier</director>
-      <director>Virginie Vinet</director>
-    </credits>
-    <category lang="fr">Nature</category>
-  </programme>
-  <programme start="20200313180000 +0100" stop="20200313183000 +0100" channel="Chasse et pêche">
-    <title lang="fr">Hooké (?)</title>
-    <credits>
-      <presenter>Alexis Pageau</presenter>
-      <presenter>Charles-Alexandre Cloutier</presenter>
-      <presenter>Derek Martin</presenter>
-    </credits>
-    <category lang="fr">Magazine de découvertes</category>
-  </programme>
-  <programme start="20200313183000 +0100" stop="20200313190000 +0100" channel="Chasse et pêche">
-    <title lang="fr">Hooké (?)</title>
-    <credits>
-      <presenter>Alexis Pageau</presenter>
-      <presenter>Charles-Alexandre Cloutier</presenter>
-      <presenter>Derek Martin</presenter>
-    </credits>
-    <category lang="fr">Magazine de découvertes</category>
-  </programme>
-  <programme start="20200313190000 +0100" stop="20200313193000 +0100" channel="Chasse et pêche">
-    <title lang="fr">Destination H2O (?)</title>
-    <credits>
-      <director>Jocelyn Dupré</director>
-    </credits>
-    <category lang="fr">Pêche</category>
-  </programme>
-  <programme start="20200313193000 +0100" stop="20200313200000 +0100" channel="Chasse et pêche">
-    <title lang="fr">Destination H2O (?)</title>
-    <credits>
-      <director>Jocelyn Dupré</director>
-    </credits>
-    <category lang="fr">Pêche</category>
-  </programme>
-  <programme start="20200313200000 +0100" stop="20200313204700 +0100" channel="Chasse et pêche">
-    <title lang="fr">River Monsters (?)</title>
-    <credits>
-      <director>Dominic Weston</director>
-      <director>Alex Parkinson</director>
-    </credits>
-    <category lang="fr">Découvertes</category>
-  </programme>
-  <programme start="20200313204700 +0100" stop="20200313211300 +0100" channel="Chasse et pêche">
-    <title lang="fr">Outlanders (?)</title>
-    <category lang="fr">Chasse</category>
-  </programme>
-  <programme start="20200313211300 +0100" stop="20200313213900 +0100" channel="Chasse et pêche">
-    <title lang="fr">Outlanders (?)</title>
-    <category lang="fr">Chasse</category>
-  </programme>
-  <programme start="20200313213900 +0100" stop="20200313223200 +0100" channel="Chasse et pêche">
-    <title lang="fr">L'orignal en pourvoirie (?)</title>
-    <credits>
-      <director>Bruno Mounier</director>
-    </credits>
-    <category lang="fr">Chasse</category>
-  </programme>
-  <programme start="20200313223200 +0100" stop="20200313233000 +0100" channel="Chasse et pêche">
-    <title lang="fr">Au fil du Rhône (?)</title>
-    <category lang="fr">Chasse</category>
-  </programme>
-  <programme start="20200313233000 +0100" stop="20200314002300 +0100" channel="Chasse et pêche">
-    <title lang="fr">Chasse au sanglier en terre de Provence (?)</title>
-    <category lang="fr">Chasse</category>
+    <category lang="fr">Magazine de société</category>
   </programme>
   <programme start="20200314002300 +0100" stop="20200314023000 +0100" channel="Chasse et pêche">
     <title lang="fr">A la poursuite du petit prince de la forêt (?)</title>
@@ -1039,169 +691,245 @@
     <title lang="fr">Programmes de la nuit</title>
     <category lang="fr">Programme indéterminé</category>
   </programme>
-  <programme start="20200313001000 +0100" stop="20200313010000 +0100" channel="Discovery Channel">
-    <title lang="fr">Pompiers sous haute tension (?)</title>
-    <category lang="fr">Société</category>
-  </programme>
-  <programme start="20200313010000 +0100" stop="20200313015000 +0100" channel="Discovery Channel">
-    <title lang="fr">Occasions à saisir (?)</title>
+  <programme start="20200315061900 +0100" stop="20200315063900 +0100" channel="Chasse et pêche">
+    <title lang="fr">Addiction pêche (?)</title>
     <credits>
-      <director>Tim Green</director>
-      <director>Henric Nieminen</director>
+      <director>Chris Mansfield</director>
     </credits>
-    <category lang="fr">Découvertes</category>
+    <category lang="fr">Pêche</category>
   </programme>
-  <programme start="20200313015000 +0100" stop="20200313024000 +0100" channel="Discovery Channel">
-    <title lang="fr">Occasions à saisir (?)</title>
+  <programme start="20200315063900 +0100" stop="20200315065900 +0100" channel="Chasse et pêche">
+    <title lang="fr">Addiction pêche (?)</title>
     <credits>
-      <director>Tim Green</director>
-      <director>Henric Nieminen</director>
+      <director>Chris Mansfield</director>
     </credits>
-    <category lang="fr">Découvertes</category>
+    <category lang="fr">Pêche</category>
   </programme>
-  <programme start="20200313024000 +0100" stop="20200313033000 +0100" channel="Discovery Channel">
-    <title lang="fr">Police sous haute tension (?)</title>
-    <category lang="fr">Société</category>
-  </programme>
-  <programme start="20200313033000 +0100" stop="20200313042000 +0100" channel="Discovery Channel">
-    <title lang="fr">Police sous haute tension (?)</title>
-    <category lang="fr">Société</category>
-  </programme>
-  <programme start="20200313042000 +0100" stop="20200313051000 +0100" channel="Discovery Channel">
-    <title lang="fr">Les Brown : génération Alaska (?)</title>
+  <programme start="20200315065900 +0100" stop="20200315071900 +0100" channel="Chasse et pêche">
+    <title lang="fr">Addiction pêche (?)</title>
     <credits>
-      <director>TJ Shanks</director>
+      <director>Chris Mansfield</director>
     </credits>
-    <category lang="fr">Documentaire Téléréalité</category>
+    <category lang="fr">Pêche</category>
   </programme>
-  <programme start="20200313051000 +0100" stop="20200313060000 +0100" channel="Discovery Channel">
-    <title lang="fr">Les Brown : génération Alaska (?)</title>
+  <programme start="20200315071900 +0100" stop="20200315081200 +0100" channel="Chasse et pêche">
+    <title lang="fr">Street Fishing (?)</title>
     <credits>
-      <director>TJ Shanks</director>
+      <director>Julien Pot</director>
     </credits>
-    <category lang="fr">Documentaire Téléréalité</category>
+    <category lang="fr">Pêche</category>
   </programme>
-  <programme start="20200313060000 +0100" stop="20200313064500 +0100" channel="Discovery Channel">
-    <title lang="fr">Les Brown : génération Alaska (?)</title>
+  <programme start="20200315081200 +0100" stop="20200315090300 +0100" channel="Chasse et pêche">
+    <title lang="fr">A la poursuite du petit prince de la forêt (?)</title>
     <credits>
-      <director>TJ Shanks</director>
+      <director>Lyonel Chocat</director>
     </credits>
-    <category lang="fr">Documentaire Téléréalité</category>
-  </programme>
-  <programme start="20200313064500 +0100" stop="20200313073000 +0100" channel="Discovery Channel">
-    <title lang="fr">Sauveurs de trésors (?)</title>
-    <category lang="fr">Découvertes</category>
-  </programme>
-  <programme start="20200313073000 +0100" stop="20200313082000 +0100" channel="Discovery Channel">
-    <title lang="fr">Sauveurs de trésors (?)</title>
-    <category lang="fr">Découvertes</category>
-  </programme>
-  <programme start="20200313082000 +0100" stop="20200313091000 +0100" channel="Discovery Channel">
-    <title lang="fr">Sauveurs de trésors (?)</title>
-    <category lang="fr">Découvertes</category>
-  </programme>
-  <programme start="20200313091000 +0100" stop="20200313100500 +0100" channel="Discovery Channel">
-    <title lang="fr">Sauveurs de trésors (?)</title>
-    <category lang="fr">Découvertes</category>
-  </programme>
-  <programme start="20200313100500 +0100" stop="20200313105500 +0100" channel="Discovery Channel">
-    <title lang="fr">Occasions à saisir (?)</title>
-    <credits>
-      <director>Tim Green</director>
-      <director>Henric Nieminen</director>
-    </credits>
-    <category lang="fr">Découvertes</category>
-  </programme>
-  <programme start="20200313105500 +0100" stop="20200313115000 +0100" channel="Discovery Channel">
-    <title lang="fr">Occasions à saisir (?)</title>
-    <credits>
-      <director>Tim Green</director>
-      <director>Henric Nieminen</director>
-    </credits>
-    <category lang="fr">Découvertes</category>
-  </programme>
-  <programme start="20200313115000 +0100" stop="20200313124000 +0100" channel="Discovery Channel">
-    <title lang="fr">La loi du Texas (?)</title>
-    <category lang="fr">Société</category>
-  </programme>
-  <programme start="20200313124000 +0100" stop="20200313133500 +0100" channel="Discovery Channel">
-    <title lang="fr">La loi du Texas (?)</title>
-    <category lang="fr">Société</category>
-  </programme>
-  <programme start="20200313133500 +0100" stop="20200313142500 +0100" channel="Discovery Channel">
-    <title lang="fr">Les Brown : génération Alaska (?)</title>
-    <credits>
-      <director>TJ Shanks</director>
-    </credits>
-    <category lang="fr">Documentaire Téléréalité</category>
-  </programme>
-  <programme start="20200313142500 +0100" stop="20200313152000 +0100" channel="Discovery Channel">
-    <title lang="fr">Les Brown : génération Alaska (?)</title>
-    <credits>
-      <director>TJ Shanks</director>
-    </credits>
-    <category lang="fr">Documentaire Téléréalité</category>
-  </programme>
-  <programme start="20200313152000 +0100" stop="20200313161500 +0100" channel="Discovery Channel">
-    <title lang="fr">Les Brown : génération Alaska (?)</title>
-    <credits>
-      <director>TJ Shanks</director>
-    </credits>
-    <category lang="fr">Documentaire Téléréalité</category>
-  </programme>
-  <programme start="20200313161500 +0100" stop="20200313171000 +0100" channel="Discovery Channel">
-    <title lang="fr">Americars (?)</title>
-    <credits>
-      <director>Aaron Krummel</director>
-      <director>Aaron Schurman</director>
-    </credits>
-    <category lang="fr">Téléréalité</category>
-  </programme>
-  <programme start="20200313171000 +0100" stop="20200313180000 +0100" channel="Discovery Channel">
-    <title lang="fr">Americars (?)</title>
-    <credits>
-      <director>Aaron Krummel</director>
-      <director>Aaron Schurman</director>
-    </credits>
-    <category lang="fr">Téléréalité</category>
-  </programme>
-  <programme start="20200313180000 +0100" stop="20200313185500 +0100" channel="Discovery Channel">
-    <title lang="fr">Americars : pièces détachées (?)</title>
-    <category lang="fr">Documentaire Téléréalité</category>
-  </programme>
-  <programme start="20200313185500 +0100" stop="20200313195000 +0100" channel="Discovery Channel">
-    <title lang="fr">Americars : pièces détachées (?)</title>
-    <category lang="fr">Documentaire Téléréalité</category>
-  </programme>
-  <programme start="20200313195000 +0100" stop="20200313204500 +0100" channel="Discovery Channel">
-    <title lang="fr">Americars : pièces détachées (?)</title>
-    <category lang="fr">Documentaire Téléréalité</category>
-  </programme>
-  <programme start="20200313204500 +0100" stop="20200313213500 +0100" channel="Discovery Channel">
-    <title lang="fr">Une autre histoire de l'Amérique (?)</title>
-    <credits>
-      <director>Oliver Stone</director>
-      <director>Andy Awes</director>
-      <director>Ben Krueger</director>
-    </credits>
-    <category lang="fr">Civilisations</category>
-  </programme>
-  <programme start="20200313213500 +0100" stop="20200313222500 +0100" channel="Discovery Channel">
-    <title lang="fr">Une autre histoire de l'Amérique (?)</title>
-    <credits>
-      <director>Oliver Stone</director>
-      <director>Andy Awes</director>
-      <director>Ben Krueger</director>
-    </credits>
-    <category lang="fr">Civilisations</category>
-  </programme>
-  <programme start="20200313222500 +0100" stop="20200313232000 +0100" channel="Discovery Channel">
-    <title lang="fr">Phénomènes vus de l'espace (?)</title>
     <category lang="fr">Nature</category>
   </programme>
-  <programme start="20200313232000 +0100" stop="20200314001000 +0100" channel="Discovery Channel">
-    <title lang="fr">Phénomènes vus de l'espace (?)</title>
+  <programme start="20200315090300 +0100" stop="20200315100300 +0100" channel="Chasse et pêche">
+    <title lang="fr">Au fil du Rhône (?)</title>
+    <category lang="fr">Chasse</category>
+  </programme>
+  <programme start="20200315100300 +0100" stop="20200315103300 +0100" channel="Chasse et pêche">
+    <title lang="fr">Outlanders (?)</title>
+    <category lang="fr">Chasse</category>
+  </programme>
+  <programme start="20200315103300 +0100" stop="20200315110300 +0100" channel="Chasse et pêche">
+    <title lang="fr">Outlanders (?)</title>
+    <category lang="fr">Chasse</category>
+  </programme>
+  <programme start="20200315110300 +0100" stop="20200315112900 +0100" channel="Chasse et pêche">
+    <title lang="fr">Québec à vol d'oiseau (?)</title>
+    <credits>
+      <director>Frédéric Laroche</director>
+      <director>Joël Tremblay</director>
+    </credits>
+    <category lang="fr">Chasse</category>
+  </programme>
+  <programme start="20200315112900 +0100" stop="20200315115500 +0100" channel="Chasse et pêche">
+    <title lang="fr">Québec à vol d'oiseau (?)</title>
+    <credits>
+      <director>Frédéric Laroche</director>
+      <director>Joël Tremblay</director>
+    </credits>
+    <category lang="fr">Chasse</category>
+  </programme>
+  <programme start="20200315115500 +0100" stop="20200315122300 +0100" channel="Chasse et pêche">
+    <title lang="fr">Traque du sanglier dans le Larzac (?)</title>
+    <credits>
+      <director>Gilbert Di Nino</director>
+    </credits>
+    <category lang="fr">Chasse</category>
+  </programme>
+  <programme start="20200315122300 +0100" stop="20200315125100 +0100" channel="Chasse et pêche">
+    <title lang="fr">Entraînement de chiens sur sangliers (?)</title>
+    <credits>
+      <director>Gilbert Di Nino</director>
+    </credits>
+    <category lang="fr">Chasse</category>
+  </programme>
+  <programme start="20200315125100 +0100" stop="20200315132100 +0100" channel="Chasse et pêche">
+    <title lang="fr">Le chasseur français (?)</title>
+    <credits>
+      <presenter>Antoine Berton</presenter>
+    </credits>
+    <category lang="fr">Magazine de la chasse</category>
+  </programme>
+  <programme start="20200315132100 +0100" stop="20200315135100 +0100" channel="Chasse et pêche">
+    <title lang="fr">Chasse de l'ibex espagnol (?)</title>
+    <credits>
+      <director>Carlos Castillo</director>
+    </credits>
+    <category lang="fr">Chasse</category>
+  </programme>
+  <programme start="20200315135100 +0100" stop="20200315142100 +0100" channel="Chasse et pêche">
+    <title lang="fr">Chasse extrême du cerf (?)</title>
+    <credits>
+      <director>Carlos Castillo</director>
+    </credits>
+    <category lang="fr">Chasse</category>
+  </programme>
+  <programme start="20200315142100 +0100" stop="20200315145000 +0100" channel="Chasse et pêche">
+    <title lang="fr">Au coeur de la nature (?)</title>
+    <credits>
+      <director>Teemu Hostikka</director>
+    </credits>
+    <category lang="fr">Chasse</category>
+  </programme>
+  <programme start="20200315145000 +0100" stop="20200315151900 +0100" channel="Chasse et pêche">
+    <title lang="fr">Au coeur de la nature (?)</title>
+    <credits>
+      <director>Teemu Hostikka</director>
+    </credits>
+    <category lang="fr">Chasse</category>
+  </programme>
+  <programme start="20200315151900 +0100" stop="20200315154800 +0100" channel="Chasse et pêche">
+    <title lang="fr">Au coeur de la nature (?)</title>
+    <credits>
+      <director>Teemu Hostikka</director>
+    </credits>
+    <category lang="fr">Chasse</category>
+  </programme>
+  <programme start="20200315154800 +0100" stop="20200315161700 +0100" channel="Chasse et pêche">
+    <title lang="fr">Au coeur de la nature (?)</title>
+    <credits>
+      <director>Teemu Hostikka</director>
+    </credits>
+    <category lang="fr">Chasse</category>
+  </programme>
+  <programme start="20200315161700 +0100" stop="20200315164300 +0100" channel="Chasse et pêche">
+    <title lang="fr">Hooké (?)</title>
+    <credits>
+      <presenter>Alexis Pageau</presenter>
+      <presenter>Charles-Alexandre Cloutier</presenter>
+      <presenter>Derek Martin</presenter>
+    </credits>
+    <category lang="fr">Magazine de découvertes</category>
+  </programme>
+  <programme start="20200315164300 +0100" stop="20200315170800 +0100" channel="Chasse et pêche">
+    <title lang="fr">Hooké (?)</title>
+    <credits>
+      <presenter>Alexis Pageau</presenter>
+      <presenter>Charles-Alexandre Cloutier</presenter>
+      <presenter>Derek Martin</presenter>
+    </credits>
+    <category lang="fr">Magazine de découvertes</category>
+  </programme>
+  <programme start="20200315170800 +0100" stop="20200315173400 +0100" channel="Chasse et pêche">
+    <title lang="fr">Hooké (?)</title>
+    <credits>
+      <presenter>Alexis Pageau</presenter>
+      <presenter>Charles-Alexandre Cloutier</presenter>
+      <presenter>Derek Martin</presenter>
+    </credits>
+    <category lang="fr">Magazine de découvertes</category>
+  </programme>
+  <programme start="20200315173400 +0100" stop="20200315180000 +0100" channel="Chasse et pêche">
+    <title lang="fr">Hooké (?)</title>
+    <credits>
+      <presenter>Alexis Pageau</presenter>
+      <presenter>Charles-Alexandre Cloutier</presenter>
+      <presenter>Derek Martin</presenter>
+    </credits>
+    <category lang="fr">Magazine de découvertes</category>
+  </programme>
+  <programme start="20200315180000 +0100" stop="20200315183000 +0100" channel="Chasse et pêche">
+    <title lang="fr">Outlanders (?)</title>
+    <category lang="fr">Chasse</category>
+  </programme>
+  <programme start="20200315183000 +0100" stop="20200315190000 +0100" channel="Chasse et pêche">
+    <title lang="fr">Outlanders (?)</title>
+    <category lang="fr">Chasse</category>
+  </programme>
+  <programme start="20200315190000 +0100" stop="20200315193000 +0100" channel="Chasse et pêche">
+    <title lang="fr">Outlanders (?)</title>
+    <category lang="fr">Chasse</category>
+  </programme>
+  <programme start="20200315193000 +0100" stop="20200315200000 +0100" channel="Chasse et pêche">
+    <title lang="fr">Outlanders (?)</title>
+    <category lang="fr">Chasse</category>
+  </programme>
+  <programme start="20200315200000 +0100" stop="20200315203000 +0100" channel="Chasse et pêche">
+    <title lang="fr">Au coeur de la nature (?)</title>
+    <credits>
+      <director>Teemu Hostikka</director>
+    </credits>
+    <category lang="fr">Chasse</category>
+  </programme>
+  <programme start="20200315203000 +0100" stop="20200315210000 +0100" channel="Chasse et pêche">
+    <title lang="fr">Au coeur de la nature (?)</title>
+    <credits>
+      <director>Teemu Hostikka</director>
+    </credits>
+    <category lang="fr">Chasse</category>
+  </programme>
+  <programme start="20200315210000 +0100" stop="20200315212500 +0100" channel="Chasse et pêche">
+    <title lang="fr">Carp Wars (?)</title>
+    <credits>
+      <director>Paul Cooper</director>
+    </credits>
+    <category lang="fr">Pêche</category>
+  </programme>
+  <programme start="20200315212500 +0100" stop="20200315215000 +0100" channel="Chasse et pêche">
+    <title lang="fr">Carp Wars (?)</title>
+    <credits>
+      <director>Paul Cooper</director>
+    </credits>
+    <category lang="fr">Pêche</category>
+  </programme>
+  <programme start="20200315215000 +0100" stop="20200315223500 +0100" channel="Chasse et pêche">
+    <title lang="fr">Carp Academy (?)</title>
+    <category lang="fr">Pêche</category>
+  </programme>
+  <programme start="20200315223500 +0100" stop="20200315232600 +0100" channel="Chasse et pêche">
+    <title lang="fr">A la poursuite du petit prince de la forêt (?)</title>
+    <credits>
+      <director>Lyonel Chocat</director>
+    </credits>
     <category lang="fr">Nature</category>
+  </programme>
+  <programme start="20200315232600 +0100" stop="20200316002600 +0100" channel="Chasse et pêche">
+    <title lang="fr">Au fil du Rhône (?)</title>
+    <category lang="fr">Chasse</category>
+  </programme>
+  <programme start="20200316002600 +0100" stop="20200316023000 +0100" channel="Chasse et pêche">
+    <title lang="fr">L'orignal en pourvoirie (?)</title>
+    <credits>
+      <director>Bruno Mounier</director>
+    </credits>
+    <category lang="fr">Chasse</category>
+  </programme>
+  <programme start="20200316023000 +0100" stop="20200316034000 +0100" channel="Chasse et pêche">
+    <title lang="fr">Globe-pêcheurs au Groenland (?)</title>
+    <credits>
+      <director>Bertrand Deveaud</director>
+      <director>Pascal Carron</director>
+    </credits>
+    <category lang="fr">Pêche</category>
+  </programme>
+  <programme start="20200316034000 +0100" stop="20200316054800 +0100" channel="Chasse et pêche">
+    <title lang="fr">Programmes de la nuit</title>
+    <category lang="fr">Programme indéterminé</category>
   </programme>
   <programme start="20200314001000 +0100" stop="20200314010000 +0100" channel="Discovery Channel">
     <title lang="fr">Phénomènes vus de l'espace (?)</title>
@@ -1257,19 +985,19 @@
   </programme>
   <programme start="20200314060000 +0100" stop="20200314062000 +0100" channel="Discovery Channel">
     <title lang="fr">Baggage Battles (?)</title>
-    <category lang="fr">Téléréalité</category>
+    <category lang="fr">Documentaire Téléréalité</category>
   </programme>
   <programme start="20200314062000 +0100" stop="20200314064500 +0100" channel="Discovery Channel">
     <title lang="fr">Baggage Battles (?)</title>
-    <category lang="fr">Téléréalité</category>
+    <category lang="fr">Documentaire Téléréalité</category>
   </programme>
   <programme start="20200314064500 +0100" stop="20200314070500 +0100" channel="Discovery Channel">
     <title lang="fr">Baggage Battles (?)</title>
-    <category lang="fr">Téléréalité</category>
+    <category lang="fr">Documentaire Téléréalité</category>
   </programme>
   <programme start="20200314070500 +0100" stop="20200314073000 +0100" channel="Discovery Channel">
     <title lang="fr">Toy Hunter (?)</title>
-    <category lang="fr">Téléréalité</category>
+    <category lang="fr">Documentaire Téléréalité</category>
   </programme>
   <programme start="20200314073000 +0100" stop="20200314082000 +0100" channel="Discovery Channel">
     <title lang="fr">Sauveurs de trésors (?)</title>
@@ -1307,19 +1035,19 @@
   </programme>
   <programme start="20200314124000 +0100" stop="20200314133500 +0100" channel="Discovery Channel">
     <title lang="fr">Pêcheurs d'or (?)</title>
-    <category lang="fr">Téléréalité</category>
+    <category lang="fr">Documentaire Téléréalité</category>
   </programme>
   <programme start="20200314133500 +0100" stop="20200314142500 +0100" channel="Discovery Channel">
     <title lang="fr">Pêcheurs d'or (?)</title>
-    <category lang="fr">Téléréalité</category>
+    <category lang="fr">Documentaire Téléréalité</category>
   </programme>
   <programme start="20200314142500 +0100" stop="20200314152000 +0100" channel="Discovery Channel">
     <title lang="fr">Alcool de contrebande (?)</title>
-    <category lang="fr">Téléréalité</category>
+    <category lang="fr">Documentaire Téléréalité</category>
   </programme>
   <programme start="20200314152000 +0100" stop="20200314161500 +0100" channel="Discovery Channel">
     <title lang="fr">Alcool de contrebande (?)</title>
-    <category lang="fr">Téléréalité</category>
+    <category lang="fr">Documentaire Téléréalité</category>
   </programme>
   <programme start="20200314161500 +0100" stop="20200314171000 +0100" channel="Discovery Channel">
     <title lang="fr">Une autre histoire de l'Amérique (?)</title>
@@ -1341,34 +1069,34 @@
   </programme>
   <programme start="20200314180000 +0100" stop="20200314182500 +0100" channel="Discovery Channel">
     <title lang="fr">Toy Hunter (?)</title>
-    <category lang="fr">Téléréalité</category>
+    <category lang="fr">Documentaire Téléréalité</category>
   </programme>
   <programme start="20200314182500 +0100" stop="20200314185500 +0100" channel="Discovery Channel">
     <title lang="fr">Toy Hunter (?)</title>
-    <category lang="fr">Téléréalité</category>
+    <category lang="fr">Documentaire Téléréalité</category>
   </programme>
   <programme start="20200314185500 +0100" stop="20200314192000 +0100" channel="Discovery Channel">
     <title lang="fr">Toy Hunter (?)</title>
-    <category lang="fr">Téléréalité</category>
+    <category lang="fr">Documentaire Téléréalité</category>
   </programme>
   <programme start="20200314192000 +0100" stop="20200314195000 +0100" channel="Discovery Channel">
     <title lang="fr">Toy Hunter (?)</title>
-    <category lang="fr">Téléréalité</category>
+    <category lang="fr">Documentaire Téléréalité</category>
   </programme>
   <programme start="20200314195000 +0100" stop="20200314201500 +0100" channel="Discovery Channel">
     <title lang="fr">Toy Hunter (?)</title>
-    <category lang="fr">Téléréalité</category>
+    <category lang="fr">Documentaire Téléréalité</category>
   </programme>
   <programme start="20200314201500 +0100" stop="20200314204500 +0100" channel="Discovery Channel">
     <title lang="fr">Toy Hunter (?)</title>
-    <category lang="fr">Téléréalité</category>
+    <category lang="fr">Documentaire Téléréalité</category>
   </programme>
   <programme start="20200314204500 +0100" stop="20200314213500 +0100" channel="Discovery Channel">
     <title lang="fr">Diesel Brothers (?)</title>
     <credits>
       <director>Eric G Duncan</director>
     </credits>
-    <category lang="fr">Téléréalité</category>
+    <category lang="fr">Documentaire Téléréalité</category>
   </programme>
   <programme start="20200314213500 +0100" stop="20200314222500 +0100" channel="Discovery Channel">
     <title lang="fr">Mégatrucks : qui sera le meilleur ? (?)</title>
@@ -1376,30 +1104,30 @@
   </programme>
   <programme start="20200314222500 +0100" stop="20200314232000 +0100" channel="Discovery Channel">
     <title lang="fr">Battle Machines Brothers (?)</title>
-    <category lang="fr">Téléréalité</category>
+    <category lang="fr">Documentaire Téléréalité</category>
   </programme>
   <programme start="20200314232000 +0100" stop="20200315001000 +0100" channel="Discovery Channel">
     <title lang="fr">Battle Machines Brothers (?)</title>
-    <category lang="fr">Téléréalité</category>
+    <category lang="fr">Documentaire Téléréalité</category>
   </programme>
   <programme start="20200315001000 +0100" stop="20200315010000 +0100" channel="Discovery Channel">
     <title lang="fr">Battle Machines Brothers (?)</title>
-    <category lang="fr">Téléréalité</category>
+    <category lang="fr">Documentaire Téléréalité</category>
   </programme>
   <programme start="20200315010000 +0100" stop="20200315015000 +0100" channel="Discovery Channel">
     <title lang="fr">Texas Metal (?)</title>
-    <category lang="fr">Téléréalité</category>
+    <category lang="fr">Documentaire Téléréalité</category>
   </programme>
   <programme start="20200315015000 +0100" stop="20200315024000 +0100" channel="Discovery Channel">
     <title lang="fr">Texas Metal (?)</title>
-    <category lang="fr">Téléréalité</category>
+    <category lang="fr">Documentaire Téléréalité</category>
   </programme>
   <programme start="20200315024000 +0100" stop="20200315033000 +0100" channel="Discovery Channel">
     <title lang="fr">Diesel Brothers (?)</title>
     <credits>
       <director>Eric G Duncan</director>
     </credits>
-    <category lang="fr">Téléréalité</category>
+    <category lang="fr">Documentaire Téléréalité</category>
   </programme>
   <programme start="20200315033000 +0100" stop="20200315042000 +0100" channel="Discovery Channel">
     <title lang="fr">Mégatrucks : qui sera le meilleur ? (?)</title>
@@ -1407,150 +1135,152 @@
   </programme>
   <programme start="20200315042000 +0100" stop="20200315051000 +0100" channel="Discovery Channel">
     <title lang="fr">Car Junkies (?)</title>
-    <category lang="fr">Téléréalité</category>
+    <category lang="fr">Documentaire Téléréalité</category>
   </programme>
   <programme start="20200315051000 +0100" stop="20200315060000 +0100" channel="Discovery Channel">
     <title lang="fr">Car Junkies (?)</title>
-    <category lang="fr">Téléréalité</category>
+    <category lang="fr">Documentaire Téléréalité</category>
   </programme>
-  <programme start="20200313000000 +0100" stop="20200313002500 +0100" channel="Discovery Science">
-    <title lang="fr">Comment c'est fait (?)</title>
+  <programme start="20200315060000 +0100" stop="20200315062000 +0100" channel="Discovery Channel">
+    <title lang="fr">Toy Hunter (?)</title>
+    <category lang="fr">Documentaire Téléréalité</category>
+  </programme>
+  <programme start="20200315062000 +0100" stop="20200315064500 +0100" channel="Discovery Channel">
+    <title lang="fr">Toy Hunter (?)</title>
+    <category lang="fr">Documentaire Téléréalité</category>
+  </programme>
+  <programme start="20200315064500 +0100" stop="20200315073000 +0100" channel="Discovery Channel">
+    <title lang="fr">Phénomènes vus de l'espace (?)</title>
+    <category lang="fr">Nature</category>
+  </programme>
+  <programme start="20200315073000 +0100" stop="20200315082000 +0100" channel="Discovery Channel">
+    <title lang="fr">Phénomènes vus de l'espace (?)</title>
+    <category lang="fr">Nature</category>
+  </programme>
+  <programme start="20200315082000 +0100" stop="20200315091000 +0100" channel="Discovery Channel">
+    <title lang="fr">Richard Hammond XXL (?)</title>
     <category lang="fr">Sciences et technique</category>
   </programme>
-  <programme start="20200313002500 +0100" stop="20200313011500 +0100" channel="Discovery Science">
-    <title lang="fr">Les défis de la construction (?)</title>
-    <credits>
-      <director>Kenny Scott</director>
-      <director>Mike Slee</director>
-      <director>Nick Metcalfe</director>
-    </credits>
-    <category lang="fr">Sciences et technique</category>
-  </programme>
-  <programme start="20200313011500 +0100" stop="20200313020000 +0100" channel="Discovery Science">
-    <title lang="fr">Les défis de la construction (?)</title>
-    <credits>
-      <director>Kenny Scott</director>
-      <director>Mike Slee</director>
-      <director>Nick Metcalfe</director>
-    </credits>
-    <category lang="fr">Sciences et technique</category>
-  </programme>
-  <programme start="20200313020000 +0100" stop="20200313025000 +0100" channel="Discovery Science">
-    <title lang="fr">Les défis de la construction (?)</title>
-    <credits>
-      <director>Kenny Scott</director>
-      <director>Mike Slee</director>
-      <director>Nick Metcalfe</director>
-    </credits>
-    <category lang="fr">Sciences et technique</category>
-  </programme>
-  <programme start="20200313025000 +0100" stop="20200313034000 +0100" channel="Discovery Science">
-    <title lang="fr">En territoire inconnu (?)</title>
+  <programme start="20200315091000 +0100" stop="20200315100500 +0100" channel="Discovery Channel">
+    <title lang="fr">Motormania (?)</title>
     <category lang="fr">Découvertes</category>
   </programme>
-  <programme start="20200313034000 +0100" stop="20200313042500 +0100" channel="Discovery Science">
-    <title lang="fr">En territoire inconnu (?)</title>
+  <programme start="20200315100500 +0100" stop="20200315105500 +0100" channel="Discovery Channel">
+    <title lang="fr">Sauveurs de trésors (?)</title>
     <category lang="fr">Découvertes</category>
   </programme>
-  <programme start="20200313042500 +0100" stop="20200313045000 +0100" channel="Discovery Science">
-    <title lang="fr">La deuxième vie des objets (?)</title>
+  <programme start="20200315105500 +0100" stop="20200315115000 +0100" channel="Discovery Channel">
+    <title lang="fr">Sauveurs de trésors (?)</title>
+    <category lang="fr">Découvertes</category>
+  </programme>
+  <programme start="20200315115000 +0100" stop="20200315124000 +0100" channel="Discovery Channel">
+    <title lang="fr">Alcool de contrebande (?)</title>
+    <category lang="fr">Documentaire Téléréalité</category>
+  </programme>
+  <programme start="20200315124000 +0100" stop="20200315133500 +0100" channel="Discovery Channel">
+    <title lang="fr">Alcool de contrebande (?)</title>
+    <category lang="fr">Documentaire Téléréalité</category>
+  </programme>
+  <programme start="20200315133500 +0100" stop="20200315142500 +0100" channel="Discovery Channel">
+    <title lang="fr">Battle Machines Brothers (?)</title>
+    <category lang="fr">Documentaire Téléréalité</category>
+  </programme>
+  <programme start="20200315142500 +0100" stop="20200315152000 +0100" channel="Discovery Channel">
+    <title lang="fr">Battle Machines Brothers (?)</title>
+    <category lang="fr">Documentaire Téléréalité</category>
+  </programme>
+  <programme start="20200315152000 +0100" stop="20200315161500 +0100" channel="Discovery Channel">
+    <title lang="fr">Battle Machines Brothers (?)</title>
+    <category lang="fr">Documentaire Téléréalité</category>
+  </programme>
+  <programme start="20200315161500 +0100" stop="20200315171000 +0100" channel="Discovery Channel">
+    <title lang="fr">Diesel Brothers (?)</title>
+    <credits>
+      <director>Eric G Duncan</director>
+    </credits>
+    <category lang="fr">Documentaire Téléréalité</category>
+  </programme>
+  <programme start="20200315171000 +0100" stop="20200315180000 +0100" channel="Discovery Channel">
+    <title lang="fr">Mégatrucks : qui sera le meilleur ? (?)</title>
+    <category lang="fr">Documentaire Téléréalité</category>
+  </programme>
+  <programme start="20200315180000 +0100" stop="20200315182500 +0100" channel="Discovery Channel">
+    <title lang="fr">Au coeur des douanes (?)</title>
     <category lang="fr">Société</category>
   </programme>
-  <programme start="20200313045000 +0100" stop="20200313051500 +0100" channel="Discovery Science">
-    <title lang="fr">La deuxième vie des objets (?)</title>
+  <programme start="20200315182500 +0100" stop="20200315185500 +0100" channel="Discovery Channel">
+    <title lang="fr">Au coeur des douanes (?)</title>
     <category lang="fr">Société</category>
   </programme>
-  <programme start="20200313060000 +0100" stop="20200313065000 +0100" channel="Discovery Science">
-    <title lang="fr">Secrets de fonctionnement (?)</title>
-    <category lang="fr">Sciences et technique</category>
-  </programme>
-  <programme start="20200313065000 +0100" stop="20200313074500 +0100" channel="Discovery Science">
-    <title lang="fr">Secrets de fonctionnement (?)</title>
-    <category lang="fr">Sciences et technique</category>
-  </programme>
-  <programme start="20200313074500 +0100" stop="20200313083500 +0100" channel="Discovery Science">
-    <title lang="fr">Mission Hubble (?)</title>
-    <category lang="fr">Sciences et technique</category>
-  </programme>
-  <programme start="20200313083500 +0100" stop="20200313092500 +0100" channel="Discovery Science">
-    <title lang="fr">Mission Hubble (?)</title>
-    <category lang="fr">Sciences et technique</category>
-  </programme>
-  <programme start="20200313092500 +0100" stop="20200313102000 +0100" channel="Discovery Science">
-    <title lang="fr">Mission Hubble (?)</title>
-    <category lang="fr">Sciences et technique</category>
-  </programme>
-  <programme start="20200313102000 +0100" stop="20200313111000 +0100" channel="Discovery Science">
-    <title lang="fr">Ingénieurs XXL (?)</title>
-    <category lang="fr">Sciences et technique</category>
-  </programme>
-  <programme start="20200313111000 +0100" stop="20200313120500 +0100" channel="Discovery Science">
-    <title lang="fr">Ingénieurs XXL (?)</title>
-    <category lang="fr">Sciences et technique</category>
-  </programme>
-  <programme start="20200313120500 +0100" stop="20200313125500 +0100" channel="Discovery Science">
-    <title lang="fr">Ingénieurs XXL (?)</title>
-    <category lang="fr">Sciences et technique</category>
-  </programme>
-  <programme start="20200313125500 +0100" stop="20200313132000 +0100" channel="Discovery Science">
-    <title lang="fr">La deuxième vie des objets (?)</title>
-    <category lang="fr">Documentaire Société</category>
-  </programme>
-  <programme start="20200313132000 +0100" stop="20200313135000 +0100" channel="Discovery Science">
-    <title lang="fr">La deuxième vie des objets (?)</title>
-    <category lang="fr">Documentaire Société</category>
-  </programme>
-  <programme start="20200313135000 +0100" stop="20200313141500 +0100" channel="Discovery Science">
-    <title lang="fr">La deuxième vie des objets (?)</title>
-    <category lang="fr">Documentaire Société</category>
-  </programme>
-  <programme start="20200313141500 +0100" stop="20200313144000 +0100" channel="Discovery Science">
-    <title lang="fr">La deuxième vie des objets (?)</title>
-    <category lang="fr">Documentaire Société</category>
-  </programme>
-  <programme start="20200313144000 +0100" stop="20200313153500 +0100" channel="Discovery Science">
-    <title lang="fr">Portés disparus (?)</title>
-    <category lang="fr">Documentaire Société</category>
-  </programme>
-  <programme start="20200313153500 +0100" stop="20200313163000 +0100" channel="Discovery Science">
-    <title lang="fr">Portés disparus (?)</title>
-    <category lang="fr">Documentaire Société</category>
-  </programme>
-  <programme start="20200313163000 +0100" stop="20200313172500 +0100" channel="Discovery Science">
-    <title lang="fr">Strip the Cosmos (?)</title>
-    <category lang="fr">Sciences et technique</category>
-  </programme>
-  <programme start="20200313172500 +0100" stop="20200313181500 +0100" channel="Discovery Science">
-    <title lang="fr">Strip the Cosmos (?)</title>
-    <category lang="fr">Sciences et technique</category>
-  </programme>
-  <programme start="20200313181500 +0100" stop="20200313191000 +0100" channel="Discovery Science">
-    <title lang="fr">Strip the Cosmos (?)</title>
-    <category lang="fr">Sciences et technique</category>
-  </programme>
-  <programme start="20200313191000 +0100" stop="20200313200500 +0100" channel="Discovery Science">
-    <title lang="fr">Secrets de fonctionnement (?)</title>
-    <category lang="fr">Sciences et technique</category>
-  </programme>
-  <programme start="20200313200500 +0100" stop="20200313210000 +0100" channel="Discovery Science">
-    <title lang="fr">Secrets de fonctionnement (?)</title>
-    <category lang="fr">Sciences et technique</category>
-  </programme>
-  <programme start="20200313210000 +0100" stop="20200313215000 +0100" channel="Discovery Science">
-    <title lang="fr">Dr Pimple Popper (?)</title>
+  <programme start="20200315185500 +0100" stop="20200315195000 +0100" channel="Discovery Channel">
+    <title lang="fr">Occasions à saisir (?)</title>
+    <credits>
+      <director>Tim Green</director>
+      <director>Henric Nieminen</director>
+    </credits>
     <category lang="fr">Découvertes</category>
   </programme>
-  <programme start="20200313215000 +0100" stop="20200313224000 +0100" channel="Discovery Science">
-    <title lang="fr">1000 nuits insolites (?)</title>
+  <programme start="20200315195000 +0100" stop="20200315204500 +0100" channel="Discovery Channel">
+    <title lang="fr">Occasions à saisir (?)</title>
+    <credits>
+      <director>Tim Green</director>
+      <director>Henric Nieminen</director>
+    </credits>
     <category lang="fr">Découvertes</category>
   </programme>
-  <programme start="20200313224000 +0100" stop="20200313233500 +0100" channel="Discovery Science">
-    <title lang="fr">Les monstres en moi (?)</title>
-    <category lang="fr">Découvertes</category>
+  <programme start="20200315204500 +0100" stop="20200315213500 +0100" channel="Discovery Channel">
+    <title lang="fr">Retour à l'instinct primaire : Restons groupés (?)</title>
+    <category lang="fr">Aventures</category>
   </programme>
-  <programme start="20200313233500 +0100" stop="20200314002500 +0100" channel="Discovery Science">
-    <title lang="fr">Les monstres en moi (?)</title>
-    <category lang="fr">Découvertes</category>
+  <programme start="20200315213500 +0100" stop="20200315222500 +0100" channel="Discovery Channel">
+    <title lang="fr">Retour à l'instinct primaire : Restons groupés (?)</title>
+    <category lang="fr">Aventures</category>
+  </programme>
+  <programme start="20200315222500 +0100" stop="20200315232000 +0100" channel="Discovery Channel">
+    <title lang="fr">Retour à l'instinct primaire (?)</title>
+    <category lang="fr">Aventures</category>
+  </programme>
+  <programme start="20200315232000 +0100" stop="20200316001000 +0100" channel="Discovery Channel">
+    <title lang="fr">Retour à l'instinct primaire *2018 (?)</title>
+    <category lang="fr">Aventures</category>
+  </programme>
+  <programme start="20200316001000 +0100" stop="20200316010000 +0100" channel="Discovery Channel">
+    <title lang="fr">Retour à l'instinct primaire *2018 (?)</title>
+    <category lang="fr">Aventures</category>
+  </programme>
+  <programme start="20200316010000 +0100" stop="20200316015000 +0100" channel="Discovery Channel">
+    <title lang="fr">Miami Customs (?)</title>
+    <category lang="fr">Documentaire Téléréalité</category>
+  </programme>
+  <programme start="20200316015000 +0100" stop="20200316024000 +0100" channel="Discovery Channel">
+    <title lang="fr">Miami Customs (?)</title>
+    <category lang="fr">Documentaire Téléréalité</category>
+  </programme>
+  <programme start="20200316024000 +0100" stop="20200316033000 +0100" channel="Discovery Channel">
+    <title lang="fr">Retour à l'instinct primaire : Restons groupés (?)</title>
+    <category lang="fr">Aventures</category>
+  </programme>
+  <programme start="20200316033000 +0100" stop="20200316042000 +0100" channel="Discovery Channel">
+    <title lang="fr">Retour à l'instinct primaire : Restons groupés (?)</title>
+    <category lang="fr">Aventures</category>
+  </programme>
+  <programme start="20200316042000 +0100" stop="20200316051000 +0100" channel="Discovery Channel">
+    <title lang="fr">Alaska : La ruée vers l'or (?)</title>
+    <credits>
+      <director>Nick Norman-Butler</director>
+      <director>Tim Dalby</director>
+      <director>Justin Kelly</director>
+    </credits>
+    <category lang="fr">Documentaire Téléréalité</category>
+  </programme>
+  <programme start="20200316051000 +0100" stop="20200316060000 +0100" channel="Discovery Channel">
+    <title lang="fr">Alaska : La ruée vers l'or (?)</title>
+    <credits>
+      <director>Nick Norman-Butler</director>
+      <director>Tim Dalby</director>
+      <director>Justin Kelly</director>
+    </credits>
+    <category lang="fr">Documentaire Téléréalité</category>
   </programme>
   <programme start="20200314002500 +0100" stop="20200314011500 +0100" channel="Discovery Science">
     <title lang="fr">Méga constructions (?)</title>
@@ -1811,244 +1541,258 @@
     </credits>
     <category lang="fr">Sciences et technique</category>
   </programme>
-  <programme start="20200313002000 +0100" stop="20200313003500 +0100" channel="Science &amp; Vie TV">
-    <title lang="fr">Les rendez-vous de l'Espace (?)</title>
+  <programme start="20200315060000 +0100" stop="20200315062500 +0100" channel="Discovery Science">
+    <title lang="fr">Comment ça marche ? (?)</title>
     <credits>
-      <presenter>Axel Villard</presenter>
-    </credits>
-    <category lang="fr">Magazine Magazine scientifique</category>
-  </programme>
-  <programme start="20200313003500 +0100" stop="20200313012000 +0100" channel="Science &amp; Vie TV">
-    <title lang="fr">Les mystères de l'univers (?)</title>
-    <credits>
-      <director>Bryan King</director>
-      <director>Erik Thompson</director>
-      <director>Louis C Tarantino</director>
+      <director>Emma Shaw</director>
+      <director>John Boam</director>
+      <director>Karen O'Donovan</director>
     </credits>
     <category lang="fr">Sciences et technique</category>
   </programme>
-  <programme start="20200313012000 +0100" stop="20200313020700 +0100" channel="Science &amp; Vie TV">
-    <title lang="fr">Les mystères de l'univers (?)</title>
+  <programme start="20200315062500 +0100" stop="20200315065000 +0100" channel="Discovery Science">
+    <title lang="fr">Comment ça marche ? (?)</title>
     <credits>
-      <director>Bryan King</director>
-      <director>Erik Thompson</director>
-      <director>Louis C Tarantino</director>
+      <director>Emma Shaw</director>
+      <director>John Boam</director>
+      <director>Karen O'Donovan</director>
     </credits>
     <category lang="fr">Sciences et technique</category>
   </programme>
-  <programme start="20200313020700 +0100" stop="20200313023700 +0100" channel="Science &amp; Vie TV">
-    <title lang="fr">Le mag de la science (?)</title>
+  <programme start="20200315065000 +0100" stop="20200315071500 +0100" channel="Discovery Science">
+    <title lang="fr">Comment ça marche ? (?)</title>
     <credits>
-      <presenter>Jérôme Bonaldi</presenter>
-    </credits>
-    <category lang="fr">Magazine Magazine scientifique</category>
-  </programme>
-  <programme start="20200313023700 +0100" stop="20200313033200 +0100" channel="Science &amp; Vie TV">
-    <title lang="fr">On n'est pas que des cobayes (?)</title>
-    <credits>
-      <director>Frédéric Febvre</director>
-      <director>Laurent Sbasnik</director>
-      <director>Pascal Richter</director>
+      <director>Emma Shaw</director>
+      <director>John Boam</director>
+      <director>Karen O'Donovan</director>
     </credits>
     <category lang="fr">Sciences et technique</category>
   </programme>
-  <programme start="20200313033200 +0100" stop="20200313045700 +0100" channel="Science &amp; Vie TV">
-    <title lang="fr">On n'est pas que des cobayes (?)</title>
+  <programme start="20200315071500 +0100" stop="20200315074500 +0100" channel="Discovery Science">
+    <title lang="fr">Comment ça marche ? (?)</title>
     <credits>
-      <director>Frédéric Febvre</director>
-      <director>Laurent Sbasnik</director>
-      <director>Pascal Richter</director>
+      <director>Emma Shaw</director>
+      <director>John Boam</director>
+      <director>Karen O'Donovan</director>
     </credits>
     <category lang="fr">Sciences et technique</category>
   </programme>
-  <programme start="20200313045700 +0100" stop="20200313052700 +0100" channel="Science &amp; Vie TV">
-    <title lang="fr">Le mag de la science (?)</title>
+  <programme start="20200315074500 +0100" stop="20200315081000 +0100" channel="Discovery Science">
+    <title lang="fr">Comment ça marche ? (?)</title>
     <credits>
-      <presenter>Jérôme Bonaldi</presenter>
-    </credits>
-    <category lang="fr">Magazine Magazine scientifique</category>
-  </programme>
-  <programme start="20200313062200 +0100" stop="20200313071800 +0100" channel="Science &amp; Vie TV">
-    <title lang="fr">On n'est pas que des cobayes (?)</title>
-    <credits>
-      <director>Frédéric Febvre</director>
-      <director>Laurent Sbasnik</director>
-      <director>Pascal Richter</director>
+      <director>Emma Shaw</director>
+      <director>John Boam</director>
+      <director>Karen O'Donovan</director>
     </credits>
     <category lang="fr">Sciences et technique</category>
   </programme>
-  <programme start="20200313071800 +0100" stop="20200313074700 +0100" channel="Science &amp; Vie TV">
-    <title lang="fr">C'est pas sorcier (?)</title>
+  <programme start="20200315081000 +0100" stop="20200315083500 +0100" channel="Discovery Science">
+    <title lang="fr">Comment ça marche ? (?)</title>
     <credits>
-      <presenter>Frédéric Courant</presenter>
-      <presenter>Jamy Gourmaud</presenter>
-      <presenter>Sabine Quindou</presenter>
-    </credits>
-    <category lang="fr">Magazine éducatif</category>
-  </programme>
-  <programme start="20200313074700 +0100" stop="20200313081600 +0100" channel="Science &amp; Vie TV">
-    <title lang="fr">C'est pas sorcier (?)</title>
-    <credits>
-      <presenter>Frédéric Courant</presenter>
-      <presenter>Jamy Gourmaud</presenter>
-      <presenter>Sabine Quindou</presenter>
-    </credits>
-    <category lang="fr">Magazine éducatif</category>
-  </programme>
-  <programme start="20200313081600 +0100" stop="20200313091000 +0100" channel="Science &amp; Vie TV">
-    <title lang="fr">On n'est pas que des cobayes (?)</title>
-    <credits>
-      <director>Frédéric Febvre</director>
-      <director>Laurent Sbasnik</director>
-      <director>Pascal Richter</director>
+      <director>Emma Shaw</director>
+      <director>John Boam</director>
+      <director>Karen O'Donovan</director>
     </credits>
     <category lang="fr">Sciences et technique</category>
   </programme>
-  <programme start="20200313091000 +0100" stop="20200313100500 +0100" channel="Science &amp; Vie TV">
-    <title lang="fr">On n'est pas que des cobayes (?)</title>
-    <credits>
-      <director>Frédéric Febvre</director>
-      <director>Laurent Sbasnik</director>
-      <director>Pascal Richter</director>
-    </credits>
-    <category lang="fr">Sciences et technique</category>
-  </programme>
-  <programme start="20200313100500 +0100" stop="20200313102000 +0100" channel="Science &amp; Vie TV">
-    <title lang="fr">Les rendez-vous de l'Espace (?)</title>
-    <credits>
-      <presenter>Axel Villard</presenter>
-    </credits>
-    <category lang="fr">Magazine Magazine scientifique</category>
-  </programme>
-  <programme start="20200313102000 +0100" stop="20200313110500 +0100" channel="Science &amp; Vie TV">
-    <title lang="fr">Les mystères de l'univers (?)</title>
-    <credits>
-      <director>Bryan King</director>
-      <director>Erik Thompson</director>
-      <director>Louis C Tarantino</director>
-    </credits>
-    <category lang="fr">Sciences et technique</category>
-  </programme>
-  <programme start="20200313110500 +0100" stop="20200313115200 +0100" channel="Science &amp; Vie TV">
-    <title lang="fr">Les mystères de l'univers (?)</title>
-    <credits>
-      <director>Bryan King</director>
-      <director>Erik Thompson</director>
-      <director>Louis C Tarantino</director>
-    </credits>
-    <category lang="fr">Sciences et technique</category>
-  </programme>
-  <programme start="20200313115200 +0100" stop="20200313122200 +0100" channel="Science &amp; Vie TV">
-    <title lang="fr">Le mag de la science (?)</title>
-    <credits>
-      <presenter>Jérôme Bonaldi</presenter>
-    </credits>
-    <category lang="fr">Magazine Magazine scientifique</category>
-  </programme>
-  <programme start="20200313122200 +0100" stop="20200313131700 +0100" channel="Science &amp; Vie TV">
-    <title lang="fr">Science et démolition (?)</title>
-    <credits>
-      <director>Adam Hopkins</director>
-    </credits>
-    <category lang="fr">Sciences et technique</category>
-  </programme>
-  <programme start="20200313131700 +0100" stop="20200313141100 +0100" channel="Science &amp; Vie TV">
-    <title lang="fr">Science et démolition (?)</title>
-    <credits>
-      <director>Adam Hopkins</director>
-    </credits>
-    <category lang="fr">Sciences et technique</category>
-  </programme>
-  <programme start="20200313141100 +0100" stop="20200313150000 +0100" channel="Science &amp; Vie TV">
-    <title lang="fr">Naufrages en haute mer (?)</title>
-    <category lang="fr">Sciences et technique</category>
-  </programme>
-  <programme start="20200313150000 +0100" stop="20200313154600 +0100" channel="Science &amp; Vie TV">
-    <title lang="fr">Terre : population zéro (?)</title>
-    <credits>
-      <director>James Grant Goldin</director>
-      <director>Gabriel Rotello</director>
-    </credits>
-    <category lang="fr">Sciences et technique</category>
-  </programme>
-  <programme start="20200313154600 +0100" stop="20200313164100 +0100" channel="Science &amp; Vie TV">
-    <title lang="fr">Astronaute : le plus dur métier au monde (?)</title>
-    <category lang="fr">Sciences et technique</category>
-  </programme>
-  <programme start="20200313164100 +0100" stop="20200313173500 +0100" channel="Science &amp; Vie TV">
-    <title lang="fr">Les nouveaux pionniers de l'espace (?)</title>
-    <credits>
-      <director>Matthias Weidner</director>
-      <director>Sascha Schnabe</director>
-    </credits>
-    <category lang="fr">Sciences et technique</category>
-  </programme>
-  <programme start="20200313173500 +0100" stop="20200313180000 +0100" channel="Science &amp; Vie TV">
-    <title lang="fr">Exploration cosmique (?)</title>
-    <category lang="fr">Sciences et technique</category>
-  </programme>
-  <programme start="20200313180000 +0100" stop="20200313183000 +0100" channel="Science &amp; Vie TV">
-    <title lang="fr">Exploration cosmique (?)</title>
-    <category lang="fr">Sciences et technique</category>
-  </programme>
-  <programme start="20200313183000 +0100" stop="20200313185500 +0100" channel="Science &amp; Vie TV">
-    <title lang="fr">Exploration cosmique (?)</title>
-    <category lang="fr">Sciences et technique</category>
-  </programme>
-  <programme start="20200313185500 +0100" stop="20200313193000 +0100" channel="Science &amp; Vie TV">
-    <title lang="fr">Exploration cosmique (?)</title>
-    <category lang="fr">Sciences et technique</category>
-  </programme>
-  <programme start="20200313193000 +0100" stop="20200313200000 +0100" channel="Science &amp; Vie TV">
-    <title lang="fr">Chasseurs d'ouragans (?)</title>
-    <credits>
-      <director>Christian d'Andrea</director>
-    </credits>
+  <programme start="20200315083500 +0100" stop="20200315092500 +0100" channel="Discovery Science">
+    <title lang="fr">Expériences tous risques (?)</title>
     <category lang="fr">Découvertes</category>
   </programme>
-  <programme start="20200313200000 +0100" stop="20200313203000 +0100" channel="Science &amp; Vie TV">
-    <title lang="fr">Chasseurs d'ouragans (?)</title>
-    <credits>
-      <director>Christian d'Andrea</director>
-    </credits>
+  <programme start="20200315092500 +0100" stop="20200315102000 +0100" channel="Discovery Science">
+    <title lang="fr">Expériences tous risques (?)</title>
     <category lang="fr">Découvertes</category>
   </programme>
-  <programme start="20200313203000 +0100" stop="20200313204500 +0100" channel="Science &amp; Vie TV">
-    <title lang="fr">Courts de science (?)</title>
-    <category lang="fr">Magazine Magazine scientifique</category>
+  <programme start="20200315102000 +0100" stop="20200315111000 +0100" channel="Discovery Science">
+    <title lang="fr">Expériences tous risques (?)</title>
+    <category lang="fr">Découvertes</category>
   </programme>
-  <programme start="20200313204500 +0100" stop="20200313214000 +0100" channel="Science &amp; Vie TV">
-    <title lang="fr">Les nouveaux pionniers de l'espace (?)</title>
+  <programme start="20200315111000 +0100" stop="20200315120500 +0100" channel="Discovery Science">
+    <title lang="fr">Expériences tous risques (?)</title>
+    <category lang="fr">Découvertes</category>
+  </programme>
+  <programme start="20200315120500 +0100" stop="20200315123000 +0100" channel="Discovery Science">
+    <title lang="fr">Comment c'est fait : Voitures de rêve (?)</title>
+    <category lang="fr">Sciences et technique</category>
+  </programme>
+  <programme start="20200315123000 +0100" stop="20200315125500 +0100" channel="Discovery Science">
+    <title lang="fr">Comment c'est fait : Voitures de rêve (?)</title>
+    <category lang="fr">Sciences et technique</category>
+  </programme>
+  <programme start="20200315125500 +0100" stop="20200315132000 +0100" channel="Discovery Science">
+    <title lang="fr">Comment c'est fait : Voitures de rêve (?)</title>
+    <category lang="fr">Sciences et technique</category>
+  </programme>
+  <programme start="20200315132000 +0100" stop="20200315135000 +0100" channel="Discovery Science">
+    <title lang="fr">Comment c'est fait : Voitures de rêve (?)</title>
+    <category lang="fr">Sciences et technique</category>
+  </programme>
+  <programme start="20200315135000 +0100" stop="20200315141500 +0100" channel="Discovery Science">
+    <title lang="fr">Comment c'est fait : Voitures de rêve (?)</title>
+    <category lang="fr">Sciences et technique</category>
+  </programme>
+  <programme start="20200315141500 +0100" stop="20200315144000 +0100" channel="Discovery Science">
+    <title lang="fr">Comment c'est fait : Voitures de rêve (?)</title>
+    <category lang="fr">Sciences et technique</category>
+  </programme>
+  <programme start="20200315144000 +0100" stop="20200315150500 +0100" channel="Discovery Science">
+    <title lang="fr">Comment ça marche ? (?)</title>
     <credits>
-      <director>Matthias Weidner</director>
-      <director>Sascha Schnabe</director>
+      <director>Emma Shaw</director>
+      <director>John Boam</director>
+      <director>Karen O'Donovan</director>
     </credits>
     <category lang="fr">Sciences et technique</category>
   </programme>
-  <programme start="20200313214000 +0100" stop="20200313223500 +0100" channel="Science &amp; Vie TV">
-    <title lang="fr">La fusée Ariane : le défi français (?)</title>
+  <programme start="20200315150500 +0100" stop="20200315153500 +0100" channel="Discovery Science">
+    <title lang="fr">Comment ça marche ? (?)</title>
     <credits>
-      <director>Laurent Mini</director>
+      <director>Emma Shaw</director>
+      <director>John Boam</director>
+      <director>Karen O'Donovan</director>
     </credits>
     <category lang="fr">Sciences et technique</category>
   </programme>
-  <programme start="20200313223500 +0100" stop="20200313232800 +0100" channel="Science &amp; Vie TV">
-    <title lang="fr">Les nouveaux pionniers de l'espace (?)</title>
+  <programme start="20200315153500 +0100" stop="20200315163000 +0100" channel="Discovery Science">
+    <title lang="fr">Voyage dans l'espace-temps avec Morgan Freeman (?)</title>
     <credits>
-      <director>Matthias Weidner</director>
-      <director>Sascha Schnabe</director>
+      <director>David LaMattina</director>
     </credits>
     <category lang="fr">Sciences et technique</category>
   </programme>
-  <programme start="20200313232800 +0100" stop="20200313235500 +0100" channel="Science &amp; Vie TV">
-    <title lang="fr">Les nouvelles frontières de l'espace (?)</title>
+  <programme start="20200315163000 +0100" stop="20200315172500 +0100" channel="Discovery Science">
+    <title lang="fr">Voyage dans l'espace-temps avec Morgan Freeman (?)</title>
     <credits>
-      <director>Andrew Thomson</director>
+      <director>David LaMattina</director>
     </credits>
     <category lang="fr">Sciences et technique</category>
   </programme>
-  <programme start="20200313235500 +0100" stop="20200314004400 +0100" channel="Science &amp; Vie TV">
-    <title lang="fr">Dolines (?)</title>
+  <programme start="20200315172500 +0100" stop="20200315181500 +0100" channel="Discovery Science">
+    <title lang="fr">Voyage dans l'espace-temps avec Morgan Freeman (?)</title>
+    <credits>
+      <director>David LaMattina</director>
+    </credits>
+    <category lang="fr">Sciences et technique</category>
+  </programme>
+  <programme start="20200315181500 +0100" stop="20200315191000 +0100" channel="Discovery Science">
+    <title lang="fr">Voyage dans l'espace-temps avec Morgan Freeman (?)</title>
+    <credits>
+      <director>David LaMattina</director>
+    </credits>
+    <category lang="fr">Sciences et technique</category>
+  </programme>
+  <programme start="20200315191000 +0100" stop="20200315200500 +0100" channel="Discovery Science">
+    <title lang="fr">Contact (?)</title>
+    <category lang="fr">Sciences et technique</category>
+  </programme>
+  <programme start="20200315200500 +0100" stop="20200315210000 +0100" channel="Discovery Science">
+    <title lang="fr">Contact (?)</title>
+    <category lang="fr">Sciences et technique</category>
+  </programme>
+  <programme start="20200315210000 +0100" stop="20200315215000 +0100" channel="Discovery Science">
+    <title lang="fr">L'Histoire en 3D (?)</title>
+    <category lang="fr">Histoire</category>
+  </programme>
+  <programme start="20200315215000 +0100" stop="20200315224000 +0100" channel="Discovery Science">
+    <title lang="fr">L'Histoire en 3D (?)</title>
+    <category lang="fr">Histoire</category>
+  </programme>
+  <programme start="20200315224000 +0100" stop="20200315233500 +0100" channel="Discovery Science">
+    <title lang="fr">Les derniers secrets d'Houdini (?)</title>
+    <category lang="fr">Documentaire Société</category>
+  </programme>
+  <programme start="20200315233500 +0100" stop="20200316000000 +0100" channel="Discovery Science">
+    <title lang="fr">Abracadascience (?)</title>
+    <category lang="fr">Documentaire Société</category>
+  </programme>
+  <programme start="20200316000000 +0100" stop="20200316002500 +0100" channel="Discovery Science">
+    <title lang="fr">Abracadascience (?)</title>
+    <category lang="fr">Documentaire Société</category>
+  </programme>
+  <programme start="20200316002500 +0100" stop="20200316011500 +0100" channel="Discovery Science">
+    <title lang="fr">Les clés de l'univers (?)</title>
+    <credits>
+      <director>Adam Warner</director>
+      <director>Alex Hearle</director>
+      <director>George Harris</director>
+    </credits>
+    <category lang="fr">Sciences et technique</category>
+  </programme>
+  <programme start="20200316011500 +0100" stop="20200316020000 +0100" channel="Discovery Science">
+    <title lang="fr">Les clés de l'univers (?)</title>
+    <credits>
+      <director>Adam Warner</director>
+      <director>Alex Hearle</director>
+      <director>George Harris</director>
+    </credits>
+    <category lang="fr">Sciences et technique</category>
+  </programme>
+  <programme start="20200316020000 +0100" stop="20200316025000 +0100" channel="Discovery Science">
+    <title lang="fr">Voyage dans l'espace-temps avec Morgan Freeman (?)</title>
+    <credits>
+      <director>David LaMattina</director>
+    </credits>
+    <category lang="fr">Sciences et technique</category>
+  </programme>
+  <programme start="20200316025000 +0100" stop="20200316034000 +0100" channel="Discovery Science">
+    <title lang="fr">Voyage dans l'espace-temps avec Morgan Freeman (?)</title>
+    <credits>
+      <director>David LaMattina</director>
+    </credits>
+    <category lang="fr">Sciences et technique</category>
+  </programme>
+  <programme start="20200316034000 +0100" stop="20200316040500 +0100" channel="Discovery Science">
+    <title lang="fr">Comment ça marche ? (?)</title>
+    <credits>
+      <director>Emma Shaw</director>
+      <director>John Boam</director>
+      <director>Karen O'Donovan</director>
+    </credits>
+    <category lang="fr">Sciences et technique</category>
+  </programme>
+  <programme start="20200316040500 +0100" stop="20200316042500 +0100" channel="Discovery Science">
+    <title lang="fr">Comment ça marche ? (?)</title>
+    <credits>
+      <director>Emma Shaw</director>
+      <director>John Boam</director>
+      <director>Karen O'Donovan</director>
+    </credits>
+    <category lang="fr">Sciences et technique</category>
+  </programme>
+  <programme start="20200316042500 +0100" stop="20200316045000 +0100" channel="Discovery Science">
+    <title lang="fr">Comment ça marche ? (?)</title>
+    <credits>
+      <director>Emma Shaw</director>
+      <director>John Boam</director>
+      <director>Karen O'Donovan</director>
+    </credits>
+    <category lang="fr">Sciences et technique</category>
+  </programme>
+  <programme start="20200316045000 +0100" stop="20200316051500 +0100" channel="Discovery Science">
+    <title lang="fr">Comment ça marche ? (?)</title>
+    <credits>
+      <director>Emma Shaw</director>
+      <director>John Boam</director>
+      <director>Karen O'Donovan</director>
+    </credits>
+    <category lang="fr">Sciences et technique</category>
+  </programme>
+  <programme start="20200316051500 +0100" stop="20200316054000 +0100" channel="Discovery Science">
+    <title lang="fr">Comment ça marche ? (?)</title>
+    <credits>
+      <director>Emma Shaw</director>
+      <director>John Boam</director>
+      <director>Karen O'Donovan</director>
+    </credits>
+    <category lang="fr">Sciences et technique</category>
+  </programme>
+  <programme start="20200316054000 +0100" stop="20200316060000 +0100" channel="Discovery Science">
+    <title lang="fr">Comment ça marche ? (?)</title>
+    <credits>
+      <director>Emma Shaw</director>
+      <director>John Boam</director>
+      <director>Karen O'Donovan</director>
+    </credits>
     <category lang="fr">Sciences et technique</category>
   </programme>
   <programme start="20200314004400 +0100" stop="20200314013300 +0100" channel="Science &amp; Vie TV">
@@ -2137,7 +1881,7 @@
   </programme>
   <programme start="20200314092500 +0100" stop="20200314094100 +0100" channel="Science &amp; Vie TV">
     <title lang="fr">L'esprit sorcier (?)</title>
-    <category lang="fr">Magazine Autre</category>
+    <category lang="fr">Magazine scientifique</category>
   </programme>
   <programme start="20200314094100 +0100" stop="20200314101200 +0100" channel="Science &amp; Vie TV">
     <title lang="fr">Les fureurs de la nature (?)</title>
@@ -2321,141 +2065,224 @@
     <title lang="fr">Combats de robots (?)</title>
     <category lang="fr">Sciences et technique</category>
   </programme>
-  <programme start="20200313002000 +0100" stop="20200313011500 +0100" channel="Extreme Sports Channel">
-    <title lang="fr">Rumble &amp; Hum (?)</title>
-    <category lang="fr">Téléréalité</category>
+  <programme start="20200315065300 +0100" stop="20200315074800 +0100" channel="Science &amp; Vie TV">
+    <title lang="fr">Astronaute : le plus dur métier au monde (?)</title>
+    <category lang="fr">Sciences et technique</category>
   </programme>
-  <programme start="20200313011500 +0100" stop="20200313014500 +0100" channel="Extreme Sports Channel">
-    <title lang="fr">Wild Surf (?)</title>
-    <category lang="fr">Surf</category>
+  <programme start="20200315074800 +0100" stop="20200315083700 +0100" channel="Science &amp; Vie TV">
+    <title lang="fr">Dolines (?)</title>
+    <category lang="fr">Sciences et technique</category>
   </programme>
-  <programme start="20200313014500 +0100" stop="20200313021500 +0100" channel="Extreme Sports Channel">
-    <title lang="fr">Sports Adventure (?)</title>
-    <category lang="fr">Sports extrêmes</category>
+  <programme start="20200315083700 +0100" stop="20200315090000 +0100" channel="Science &amp; Vie TV">
+    <title lang="fr">Science Max (?)</title>
+    <credits>
+      <director>Chilco Chris</director>
+      <director>Ryan Marley</director>
+    </credits>
+    <category lang="fr">Sciences et technique</category>
   </programme>
-  <programme start="20200313021500 +0100" stop="20200313040500 +0100" channel="Extreme Sports Channel">
-    <title lang="fr">Grid (?)</title>
-    <category lang="fr">Sport de force</category>
+  <programme start="20200315090000 +0100" stop="20200315092300 +0100" channel="Science &amp; Vie TV">
+    <title lang="fr">Science Max (?)</title>
+    <credits>
+      <director>Chilco Chris</director>
+      <director>Ryan Marley</director>
+    </credits>
+    <category lang="fr">Sciences et technique</category>
   </programme>
-  <programme start="20200313040500 +0100" stop="20200313050000 +0100" channel="Extreme Sports Channel">
-    <title lang="fr">Extreme Fighting Championship Africa (?)</title>
-    <category lang="fr">Free Fight</category>
+  <programme start="20200315092300 +0100" stop="20200315094600 +0100" channel="Science &amp; Vie TV">
+    <title lang="fr">Science Max (?)</title>
+    <credits>
+      <director>Chilco Chris</director>
+      <director>Ryan Marley</director>
+    </credits>
+    <category lang="fr">Sciences et technique</category>
   </programme>
-  <programme start="20200313060000 +0100" stop="20200313075000 +0100" channel="Extreme Sports Channel">
-    <title lang="fr">Grid (?)</title>
-    <category lang="fr">Sport de force</category>
+  <programme start="20200315094600 +0100" stop="20200315101100 +0100" channel="Science &amp; Vie TV">
+    <title lang="fr">Ah (?)</title>
+    <category lang="fr">Magazine jeunesse</category>
   </programme>
-  <programme start="20200313075000 +0100" stop="20200313084000 +0100" channel="Extreme Sports Channel">
-    <title lang="fr">X Games - Aspen (?)</title>
-    <category lang="fr">Sports extrêmes</category>
+  <programme start="20200315101100 +0100" stop="20200315102700 +0100" channel="Science &amp; Vie TV">
+    <title lang="fr">Ramène ta science ! (?)</title>
+    <credits>
+      <director>David Frecinaux</director>
+    </credits>
+    <category lang="fr">Sciences et technique</category>
   </programme>
-  <programme start="20200313084000 +0100" stop="20200313090500 +0100" channel="Extreme Sports Channel">
-    <title lang="fr">Nomads Seeking Adventure (?)</title>
-    <category lang="fr">Aventures</category>
+  <programme start="20200315102700 +0100" stop="20200315103400 +0100" channel="Science &amp; Vie TV">
+    <title lang="fr">Les expériences de Dr Nozman (?)</title>
+    <category lang="fr">Magazine de société</category>
   </programme>
-  <programme start="20200313090500 +0100" stop="20200313093000 +0100" channel="Extreme Sports Channel">
-    <title lang="fr">101 World Cups (?)</title>
-    <category lang="fr">Sport</category>
+  <programme start="20200315103400 +0100" stop="20200315105200 +0100" channel="Science &amp; Vie TV">
+    <title lang="fr">L'esprit sorcier (?)</title>
+    <category lang="fr">Magazine scientifique</category>
   </programme>
-  <programme start="20200313093000 +0100" stop="20200313100000 +0100" channel="Extreme Sports Channel">
-    <title lang="fr">Up Close With (?)</title>
-    <category lang="fr">Multisports</category>
+  <programme start="20200315105200 +0100" stop="20200315112200 +0100" channel="Science &amp; Vie TV">
+    <title lang="fr">Le mag de la science (?)</title>
+    <credits>
+      <presenter>Jérôme Bonaldi</presenter>
+    </credits>
+    <category lang="fr">Magazine scientifique</category>
   </programme>
-  <programme start="20200313100000 +0100" stop="20200313105000 +0100" channel="Extreme Sports Channel">
-    <title lang="fr">X Games - Aspen (?)</title>
-    <category lang="fr">Sports extrêmes</category>
+  <programme start="20200315112200 +0100" stop="20200315121300 +0100" channel="Science &amp; Vie TV">
+    <title lang="fr">Les nouveaux pionniers de l'espace (?)</title>
+    <credits>
+      <director>Matthias Weidner</director>
+      <director>Sascha Schnabe</director>
+    </credits>
+    <category lang="fr">Sciences et technique</category>
   </programme>
-  <programme start="20200313105000 +0100" stop="20200313111500 +0100" channel="Extreme Sports Channel">
-    <title lang="fr">Wild Surf (?)</title>
-    <category lang="fr">Surf</category>
+  <programme start="20200315121300 +0100" stop="20200315131200 +0100" channel="Science &amp; Vie TV">
+    <title lang="fr">La fusée Ariane : le défi français (?)</title>
+    <credits>
+      <director>Laurent Mini</director>
+    </credits>
+    <category lang="fr">Sciences et technique</category>
   </programme>
-  <programme start="20200313111500 +0100" stop="20200313120500 +0100" channel="Extreme Sports Channel">
-    <title lang="fr">Pro Bull Riders (?)</title>
-    <category lang="fr">Rodéo</category>
+  <programme start="20200315131200 +0100" stop="20200315132700 +0100" channel="Science &amp; Vie TV">
+    <title lang="fr">Les rendez-vous de l'Espace (?)</title>
+    <credits>
+      <presenter>Axel Villard</presenter>
+    </credits>
+    <category lang="fr">Magazine scientifique</category>
   </programme>
-  <programme start="20200313120500 +0100" stop="20200313123000 +0100" channel="Extreme Sports Channel">
-    <title lang="fr">Sports Adventure (?)</title>
-    <category lang="fr">Sports extrêmes</category>
+  <programme start="20200315132700 +0100" stop="20200315141200 +0100" channel="Science &amp; Vie TV">
+    <title lang="fr">Les mystères de l'univers (?)</title>
+    <credits>
+      <director>Bryan King</director>
+      <director>Erik Thompson</director>
+      <director>Louis C Tarantino</director>
+    </credits>
+    <category lang="fr">Sciences et technique</category>
   </programme>
-  <programme start="20200313123000 +0100" stop="20200313125500 +0100" channel="Extreme Sports Channel">
-    <title lang="fr">101 World Cups (?)</title>
-    <category lang="fr">Sport</category>
+  <programme start="20200315141200 +0100" stop="20200315145900 +0100" channel="Science &amp; Vie TV">
+    <title lang="fr">Les mystères de l'univers (?)</title>
+    <credits>
+      <director>Bryan King</director>
+      <director>Erik Thompson</director>
+      <director>Louis C Tarantino</director>
+    </credits>
+    <category lang="fr">Sciences et technique</category>
   </programme>
-  <programme start="20200313125500 +0100" stop="20200313132000 +0100" channel="Extreme Sports Channel">
-    <title lang="fr">Up Close With (?)</title>
-    <category lang="fr">Multisports</category>
+  <programme start="20200315145900 +0100" stop="20200315155200 +0100" channel="Science &amp; Vie TV">
+    <title lang="fr">Transport maritime (?)</title>
+    <category lang="fr">Sciences et technique</category>
   </programme>
-  <programme start="20200313132000 +0100" stop="20200313134500 +0100" channel="Extreme Sports Channel">
-    <title lang="fr">Up Close With (?)</title>
-    <category lang="fr">Multisports</category>
+  <programme start="20200315155200 +0100" stop="20200315165400 +0100" channel="Science &amp; Vie TV">
+    <title lang="fr">Combats de robots (?)</title>
+    <category lang="fr">Sciences et technique</category>
   </programme>
-  <programme start="20200313134500 +0100" stop="20200313140000 +0100" channel="Extreme Sports Channel">
-    <title lang="fr">The Very Best Of (?)</title>
-    <category lang="fr">Multisports</category>
+  <programme start="20200315165400 +0100" stop="20200315174200 +0100" channel="Science &amp; Vie TV">
+    <title lang="fr">Dolines (?)</title>
+    <category lang="fr">Sciences et technique</category>
   </programme>
-  <programme start="20200313140000 +0100" stop="20200313142500 +0100" channel="Extreme Sports Channel">
-    <title lang="fr">Fantasy Factory</title>
-    <category lang="fr">Téléréalité</category>
+  <programme start="20200315174200 +0100" stop="20200315183000 +0100" channel="Science &amp; Vie TV">
+    <title lang="fr">Dolines (?)</title>
+    <category lang="fr">Sciences et technique</category>
   </programme>
-  <programme start="20200313142500 +0100" stop="20200313151500 +0100" channel="Extreme Sports Channel">
-    <title lang="fr">Pro Bull Riders (?)</title>
-    <category lang="fr">Rodéo</category>
+  <programme start="20200315183000 +0100" stop="20200315183500 +0100" channel="Science &amp; Vie TV">
+    <title lang="fr">Prix L'Oréal-Unesco Women for Science (?)</title>
+    <category lang="fr">Emission spéciale</category>
   </programme>
-  <programme start="20200313151500 +0100" stop="20200313160500 +0100" channel="Extreme Sports Channel">
-    <title lang="fr">Strongman Champions League (?)</title>
-    <category lang="fr">Sport de force</category>
+  <programme start="20200315183500 +0100" stop="20200315184000 +0100" channel="Science &amp; Vie TV">
+    <title lang="fr">Prix L'Oréal-Unesco Women for Science (?)</title>
+    <category lang="fr">Emission spéciale</category>
   </programme>
-  <programme start="20200313160500 +0100" stop="20200313163000 +0100" channel="Extreme Sports Channel">
-    <title lang="fr">Nomads Seeking Adventure (?)</title>
-    <category lang="fr">Aventures</category>
+  <programme start="20200315184000 +0100" stop="20200315184500 +0100" channel="Science &amp; Vie TV">
+    <title lang="fr">Prix L'Oréal-Unesco Women for Science (?)</title>
+    <category lang="fr">Emission spéciale</category>
   </programme>
-  <programme start="20200313163000 +0100" stop="20200313170000 +0100" channel="Extreme Sports Channel">
-    <title lang="fr">MTB Heroes (?)</title>
-    <category lang="fr">VTT</category>
+  <programme start="20200315184500 +0100" stop="20200315185000 +0100" channel="Science &amp; Vie TV">
+    <title lang="fr">Prix L'Oréal-Unesco Women for Science (?)</title>
+    <category lang="fr">Emission spéciale</category>
   </programme>
-  <programme start="20200313170000 +0100" stop="20200313174500 +0100" channel="Extreme Sports Channel">
-    <title lang="fr">Beyond The Beaten Path</title>
-    <category lang="fr">Sports extrêmes</category>
+  <programme start="20200315185000 +0100" stop="20200315190000 +0100" channel="Science &amp; Vie TV">
+    <title lang="fr">Prix L'Oréal-Unesco Women for Science (?)</title>
+    <category lang="fr">Emission spéciale</category>
   </programme>
-  <programme start="20200313174500 +0100" stop="20200313181000 +0100" channel="Extreme Sports Channel">
-    <title lang="fr">Facing Waves</title>
-    <category lang="fr">Sports nautiques</category>
+  <programme start="20200315190000 +0100" stop="20200315193000 +0100" channel="Science &amp; Vie TV">
+    <title lang="fr">Le mag de la science (?)</title>
+    <credits>
+      <presenter>Jérôme Bonaldi</presenter>
+    </credits>
+    <category lang="fr">Magazine scientifique</category>
   </programme>
-  <programme start="20200313181000 +0100" stop="20200313185500 +0100" channel="Extreme Sports Channel">
-    <title lang="fr">Pro Bull Riders (?)</title>
-    <category lang="fr">Rodéo</category>
+  <programme start="20200315193000 +0100" stop="20200315200000 +0100" channel="Science &amp; Vie TV">
+    <title lang="fr">Le mag de la science (?)</title>
+    <credits>
+      <presenter>Jérôme Bonaldi</presenter>
+    </credits>
+    <category lang="fr">Magazine scientifique</category>
   </programme>
-  <programme start="20200313185500 +0100" stop="20200313192000 +0100" channel="Extreme Sports Channel">
-    <title lang="fr">Fantasy Factory</title>
-    <category lang="fr">Téléréalité</category>
+  <programme start="20200315200000 +0100" stop="20200315205300 +0100" channel="Science &amp; Vie TV">
+    <title lang="fr">Code rouge (?)</title>
+    <category lang="fr">Sciences et technique</category>
   </programme>
-  <programme start="20200313192000 +0100" stop="20200313201000 +0100" channel="Extreme Sports Channel">
-    <title lang="fr">X Games - Aspen (?)</title>
-    <category lang="fr">Sports extrêmes</category>
+  <programme start="20200315205300 +0100" stop="20200315205800 +0100" channel="Science &amp; Vie TV">
+    <title lang="fr">Planète détox (?)</title>
+    <credits>
+      <director>Léo Grasset</director>
+    </credits>
+    <category lang="fr">Sciences et technique</category>
   </programme>
-  <programme start="20200313201000 +0100" stop="20200313203500 +0100" channel="Extreme Sports Channel">
-    <title lang="fr">Wild Surf (?)</title>
-    <category lang="fr">Surf</category>
+  <programme start="20200315205800 +0100" stop="20200315214600 +0100" channel="Science &amp; Vie TV">
+    <title lang="fr">Dolines (?)</title>
+    <category lang="fr">Sciences et technique</category>
   </programme>
-  <programme start="20200313203500 +0100" stop="20200313210000 +0100" channel="Extreme Sports Channel">
-    <title lang="fr">Fantasy Factory</title>
-    <category lang="fr">Téléréalité</category>
+  <programme start="20200315214600 +0100" stop="20200315223400 +0100" channel="Science &amp; Vie TV">
+    <title lang="fr">Dolines (?)</title>
+    <category lang="fr">Sciences et technique</category>
   </programme>
-  <programme start="20200313210000 +0100" stop="20200313215000 +0100" channel="Extreme Sports Channel">
-    <title lang="fr">Extreme Fighting Championship Africa (?)</title>
-    <category lang="fr">Free Fight</category>
+  <programme start="20200315223400 +0100" stop="20200315232200 +0100" channel="Science &amp; Vie TV">
+    <title lang="fr">Dolines (?)</title>
+    <category lang="fr">Sciences et technique</category>
   </programme>
-  <programme start="20200313215000 +0100" stop="20200313224000 +0100" channel="Extreme Sports Channel">
-    <title lang="fr">Fighting Fit (?)</title>
-    <category lang="fr">Téléréalité</category>
+  <programme start="20200315232200 +0100" stop="20200316001000 +0100" channel="Science &amp; Vie TV">
+    <title lang="fr">Dolines (?)</title>
+    <category lang="fr">Sciences et technique</category>
   </programme>
-  <programme start="20200313224000 +0100" stop="20200313233000 +0100" channel="Extreme Sports Channel">
-    <title lang="fr">Extreme Fighting Championship Africa (?)</title>
-    <category lang="fr">Free Fight</category>
+  <programme start="20200316001000 +0100" stop="20200316010500 +0100" channel="Science &amp; Vie TV">
+    <title lang="fr">Astronaute : le plus dur métier au monde (?)</title>
+    <category lang="fr">Sciences et technique</category>
   </programme>
-  <programme start="20200313233000 +0100" stop="20200314002000 +0100" channel="Extreme Sports Channel">
-    <title lang="fr">X Games - Aspen (?)</title>
-    <category lang="fr">Sports extrêmes</category>
+  <programme start="20200316010500 +0100" stop="20200316015900 +0100" channel="Science &amp; Vie TV">
+    <title lang="fr">Les nouveaux pionniers de l'espace (?)</title>
+    <credits>
+      <director>Matthias Weidner</director>
+      <director>Sascha Schnabe</director>
+    </credits>
+    <category lang="fr">Sciences et technique</category>
+  </programme>
+  <programme start="20200316015900 +0100" stop="20200316025300 +0100" channel="Science &amp; Vie TV">
+    <title lang="fr">On n'est pas que des cobayes (?)</title>
+    <credits>
+      <director>Frédéric Febvre</director>
+      <director>Laurent Sbasnik</director>
+      <director>Pascal Richter</director>
+    </credits>
+    <category lang="fr">Sciences et technique</category>
+  </programme>
+  <programme start="20200316025300 +0100" stop="20200316034700 +0100" channel="Science &amp; Vie TV">
+    <title lang="fr">On n'est pas que des cobayes (?)</title>
+    <credits>
+      <director>Frédéric Febvre</director>
+      <director>Laurent Sbasnik</director>
+      <director>Pascal Richter</director>
+    </credits>
+    <category lang="fr">Sciences et technique</category>
+  </programme>
+  <programme start="20200316034700 +0100" stop="20200316044700 +0100" channel="Science &amp; Vie TV">
+    <title lang="fr">Le mag de la science (?)</title>
+    <credits>
+      <presenter>Jérôme Bonaldi</presenter>
+    </credits>
+    <category lang="fr">Magazine scientifique</category>
+  </programme>
+  <programme start="20200316044700 +0100" stop="20200316054200 +0100" channel="Science &amp; Vie TV">
+    <title lang="fr">Man 2.0 R-evolution (?)</title>
+    <credits>
+      <director>Massimo Brega</director>
+    </credits>
+    <category lang="fr">Sciences et technique</category>
   </programme>
   <programme start="20200314002000 +0100" stop="20200314011000 +0100" channel="Extreme Sports Channel">
     <title lang="fr">Rumble &amp; Hum (?)</title>
@@ -2641,149 +2468,167 @@
     <title lang="fr">Nitro Circus (?)</title>
     <category lang="fr">Magazine sportif</category>
   </programme>
-  <programme start="20200313000000 +0100" stop="20200313010000 +0100" channel="Al Jazeera English">
-    <title lang="fr">Newshour</title>
-    <category lang="fr">Journal</category>
+  <programme start="20200315060000 +0100" stop="20200315075000 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">Grid (?)</title>
+    <category lang="fr">Sport de force</category>
   </programme>
-  <programme start="20200313010000 +0100" stop="20200313013000 +0100" channel="Al Jazeera English">
-    <title lang="fr">News Live</title>
-    <category lang="fr">Journal</category>
+  <programme start="20200315075000 +0100" stop="20200315081500 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">101 World Cups (?)</title>
+    <category lang="fr">Sport</category>
   </programme>
-  <programme start="20200313013000 +0100" stop="20200313020000 +0100" channel="Al Jazeera English">
-    <title lang="fr">Inside Story</title>
-    <category lang="fr">Magazine d'actualité</category>
+  <programme start="20200315081500 +0100" stop="20200315084000 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">101 World Cups (?)</title>
+    <category lang="fr">Sport</category>
   </programme>
-  <programme start="20200313020000 +0100" stop="20200313030000 +0100" channel="Al Jazeera English">
-    <title lang="fr">Witness</title>
-    <category lang="fr">Magazine de société</category>
+  <programme start="20200315084000 +0100" stop="20200315090500 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">101 World Cups (?)</title>
+    <category lang="fr">Sport</category>
   </programme>
-  <programme start="20200313030000 +0100" stop="20200313040000 +0100" channel="Al Jazeera English">
-    <title lang="fr">Newshour</title>
-    <category lang="fr">Journal</category>
+  <programme start="20200315090500 +0100" stop="20200315093000 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">101 World Cups (?)</title>
+    <category lang="fr">Sport</category>
   </programme>
-  <programme start="20200313040000 +0100" stop="20200313043000 +0100" channel="Al Jazeera English">
-    <title lang="fr">News Live</title>
-    <category lang="fr">Journal</category>
+  <programme start="20200315093000 +0100" stop="20200315095500 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">101 World Cups (?)</title>
+    <category lang="fr">Sport</category>
   </programme>
-  <programme start="20200313043000 +0100" stop="20200313050000 +0100" channel="Al Jazeera English">
-    <title lang="fr">People and Power (?)</title>
-    <category lang="fr">Magazine de société</category>
+  <programme start="20200315095500 +0100" stop="20200315102000 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">101 World Cups (?)</title>
+    <category lang="fr">Sport</category>
   </programme>
-  <programme start="20200313050000 +0100" stop="20200313053000 +0100" channel="Al Jazeera English">
-    <title lang="fr">News Live (?)</title>
-    <category lang="fr">Journal</category>
+  <programme start="20200315102000 +0100" stop="20200315104500 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">101 World Cups (?)</title>
+    <category lang="fr">Sport</category>
   </programme>
-  <programme start="20200313060000 +0100" stop="20200313063000 +0100" channel="Al Jazeera English">
-    <title lang="fr">News Live</title>
-    <category lang="fr">Journal</category>
+  <programme start="20200315104500 +0100" stop="20200315111000 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">101 World Cups (?)</title>
+    <category lang="fr">Sport</category>
   </programme>
-  <programme start="20200313063000 +0100" stop="20200313070000 +0100" channel="Al Jazeera English">
-    <title lang="fr">Women Make Science (?)</title>
-    <category lang="fr">Découvertes</category>
+  <programme start="20200315111000 +0100" stop="20200315113500 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">101 World Cups (?)</title>
+    <category lang="fr">Sport</category>
   </programme>
-  <programme start="20200313070000 +0100" stop="20200313080000 +0100" channel="Al Jazeera English">
-    <title lang="fr">Al Jazeera World</title>
-    <category lang="fr">Magazine de société</category>
+  <programme start="20200315113500 +0100" stop="20200315120000 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">101 World Cups (?)</title>
+    <category lang="fr">Sport</category>
   </programme>
-  <programme start="20200313080000 +0100" stop="20200313083000 +0100" channel="Al Jazeera English">
-    <title lang="fr">News Live</title>
-    <category lang="fr">Journal</category>
+  <programme start="20200315120000 +0100" stop="20200315122500 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">Up Close With (?)</title>
+    <category lang="fr">Multisports</category>
   </programme>
-  <programme start="20200313083000 +0100" stop="20200313090000 +0100" channel="Al Jazeera English">
-    <title lang="fr">Inside Story</title>
-    <category lang="fr">Magazine d'actualité</category>
+  <programme start="20200315122500 +0100" stop="20200315125000 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">Up Close With (?)</title>
+    <category lang="fr">Multisports</category>
   </programme>
-  <programme start="20200313090000 +0100" stop="20200313093000 +0100" channel="Al Jazeera English">
-    <title lang="fr">News Live</title>
-    <category lang="fr">Journal</category>
+  <programme start="20200315125000 +0100" stop="20200315134000 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">X Games - Aspen (?)</title>
+    <category lang="fr">Sports extrêmes</category>
   </programme>
-  <programme start="20200313093000 +0100" stop="20200313100000 +0100" channel="Al Jazeera English">
-    <title lang="fr">The Stream</title>
-    <category lang="fr">Magazine de société</category>
+  <programme start="20200315134000 +0100" stop="20200315143000 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">X Games - Aspen (?)</title>
+    <category lang="fr">Sports extrêmes</category>
   </programme>
-  <programme start="20200313100000 +0100" stop="20200313103000 +0100" channel="Al Jazeera English">
-    <title lang="fr">News Live</title>
-    <category lang="fr">Journal</category>
+  <programme start="20200315143000 +0100" stop="20200315145500 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">Up Close With (?)</title>
+    <category lang="fr">Multisports</category>
   </programme>
-  <programme start="20200313103000 +0100" stop="20200313110000 +0100" channel="Al Jazeera English">
-    <title lang="fr">101 East</title>
-    <category lang="fr">Magazine de société</category>
+  <programme start="20200315145500 +0100" stop="20200315154500 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">X Games - Aspen (?)</title>
+    <category lang="fr">Sports extrêmes</category>
   </programme>
-  <programme start="20200313110000 +0100" stop="20200313120000 +0100" channel="Al Jazeera English">
-    <title lang="fr">Newshour</title>
-    <category lang="fr">Journal</category>
+  <programme start="20200315154500 +0100" stop="20200315163500 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">X Games - Aspen (?)</title>
+    <category lang="fr">Sports extrêmes</category>
   </programme>
-  <programme start="20200313120000 +0100" stop="20200313123000 +0100" channel="Al Jazeera English">
-    <title lang="fr">News Live</title>
-    <category lang="fr">Journal</category>
+  <programme start="20200315163500 +0100" stop="20200315170000 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">Up Close With (?)</title>
+    <category lang="fr">Multisports</category>
   </programme>
-  <programme start="20200313123000 +0100" stop="20200313130000 +0100" channel="Al Jazeera English">
-    <title lang="fr">Inside Story</title>
-    <category lang="fr">Magazine d'actualité</category>
+  <programme start="20200315170000 +0100" stop="20200315175000 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">X Games - Aspen (?)</title>
+    <category lang="fr">Sports extrêmes</category>
   </programme>
-  <programme start="20200313130000 +0100" stop="20200313140000 +0100" channel="Al Jazeera English">
-    <title lang="fr">Scent From Heaven (?)</title>
-    <category lang="fr">Découvertes</category>
+  <programme start="20200315175000 +0100" stop="20200315184000 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">La cour des grands (?)</title>
+    <credits>
+      <director>Guillaume Lion</director>
+    </credits>
+    <category lang="fr">Sport</category>
   </programme>
-  <programme start="20200313140000 +0100" stop="20200313150000 +0100" channel="Al Jazeera English">
-    <title lang="fr">Newshour</title>
-    <category lang="fr">Journal</category>
+  <programme start="20200315184000 +0100" stop="20200315193500 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">Lignes (?)</title>
+    <category lang="fr">Aventures</category>
   </programme>
-  <programme start="20200313150000 +0100" stop="20200313153000 +0100" channel="Al Jazeera English">
-    <title lang="fr">News Live</title>
-    <category lang="fr">Journal</category>
+  <programme start="20200315193500 +0100" stop="20200315200000 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">Près des cimes (?)</title>
+    <credits>
+      <director>Jean-Michel Ara-Somohano</director>
+    </credits>
+    <category lang="fr">Sport</category>
   </programme>
-  <programme start="20200313153000 +0100" stop="20200313160000 +0100" channel="Al Jazeera English">
-    <title lang="fr">The Stream</title>
-    <category lang="fr">Magazine de société</category>
+  <programme start="20200315200000 +0100" stop="20200315205000 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">Kite Family (?)</title>
+    <credits>
+      <director>François Carles</director>
+      <director>François Célérier</director>
+    </credits>
+    <category lang="fr">Sport</category>
   </programme>
-  <programme start="20200313160000 +0100" stop="20200313170000 +0100" channel="Al Jazeera English">
-    <title lang="fr">Newshour</title>
-    <category lang="fr">Journal</category>
+  <programme start="20200315205000 +0100" stop="20200315214000 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">Extreme Fighting Championship Africa (?)</title>
+    <category lang="fr">Free Fight</category>
   </programme>
-  <programme start="20200313170000 +0100" stop="20200313173000 +0100" channel="Al Jazeera English">
-    <title lang="fr">News Live</title>
-    <category lang="fr">Journal</category>
+  <programme start="20200315214000 +0100" stop="20200315223000 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">Extreme Fighting Championship Africa (?)</title>
+    <category lang="fr">Free Fight</category>
   </programme>
-  <programme start="20200313173000 +0100" stop="20200313180000 +0100" channel="Al Jazeera English">
-    <title lang="fr">My Cuba</title>
-    <category lang="fr">Société</category>
+  <programme start="20200315223000 +0100" stop="20200315232000 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">Extreme Fighting Championship Africa (?)</title>
+    <category lang="fr">Free Fight</category>
   </programme>
-  <programme start="20200313180000 +0100" stop="20200313183000 +0100" channel="Al Jazeera English">
-    <title lang="fr">News Live</title>
-    <category lang="fr">Journal</category>
+  <programme start="20200315232000 +0100" stop="20200316001000 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">Extreme Fighting Championship Africa (?)</title>
+    <category lang="fr">Free Fight</category>
   </programme>
-  <programme start="20200313183000 +0100" stop="20200313190000 +0100" channel="Al Jazeera English">
-    <title lang="fr">Inside Story</title>
-    <category lang="fr">Magazine d'actualité</category>
+  <programme start="20200316001000 +0100" stop="20200316005500 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">Extreme Fighting Championship Africa (?)</title>
+    <category lang="fr">Free Fight</category>
   </programme>
-  <programme start="20200313190000 +0100" stop="20200313200000 +0100" channel="Al Jazeera English">
-    <title lang="fr">Newshour</title>
-    <category lang="fr">Journal</category>
+  <programme start="20200316005500 +0100" stop="20200316012000 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">Fantasy Factory</title>
+    <category lang="fr">Téléréalité</category>
   </programme>
-  <programme start="20200313200000 +0100" stop="20200313203000 +0100" channel="Al Jazeera English">
-    <title lang="fr">News Live</title>
-    <category lang="fr">Journal</category>
+  <programme start="20200316012000 +0100" stop="20200316014500 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">Fantasy Factory</title>
+    <category lang="fr">Téléréalité</category>
   </programme>
-  <programme start="20200313203000 +0100" stop="20200313210000 +0100" channel="Al Jazeera English">
-    <title lang="fr">UpFront</title>
-    <category lang="fr">Société</category>
+  <programme start="20200316014500 +0100" stop="20200316021000 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">Fantasy Factory</title>
+    <category lang="fr">Téléréalité</category>
   </programme>
-  <programme start="20200313210000 +0100" stop="20200313220000 +0100" channel="Al Jazeera English">
-    <title lang="fr">The Coming War On China</title>
-    <category lang="fr">Géopolitique</category>
+  <programme start="20200316021000 +0100" stop="20200316025500 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">Fantasy Factory</title>
+    <category lang="fr">Téléréalité</category>
   </programme>
-  <programme start="20200313220000 +0100" stop="20200313230000 +0100" channel="Al Jazeera English">
-    <title lang="fr">Newshour</title>
-    <category lang="fr">Journal</category>
+  <programme start="20200316025500 +0100" stop="20200316032000 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">Fantasy Factory</title>
+    <category lang="fr">Téléréalité</category>
   </programme>
-  <programme start="20200313230000 +0100" stop="20200313233000 +0100" channel="Al Jazeera English">
-    <title lang="fr">News Live</title>
-    <category lang="fr">Journal</category>
+  <programme start="20200316032000 +0100" stop="20200316034500 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">Up Close With (?)</title>
+    <category lang="fr">Multisports</category>
   </programme>
-  <programme start="20200313233000 +0100" stop="20200314000000 +0100" channel="Al Jazeera English">
-    <title lang="fr">Counting the Cost</title>
-    <category lang="fr">Société</category>
+  <programme start="20200316034500 +0100" stop="20200316043000 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">Rumble &amp; Hum (?)</title>
+    <category lang="fr">Téléréalité</category>
+  </programme>
+  <programme start="20200316043000 +0100" stop="20200316051500 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">Rumble &amp; Hum (?)</title>
+    <category lang="fr">Téléréalité</category>
+  </programme>
+  <programme start="20200316051500 +0100" stop="20200316060000 +0100" channel="Extreme Sports Channel">
+    <title lang="fr">Rumble &amp; Hum (?)</title>
+    <category lang="fr">Téléréalité</category>
   </programme>
   <programme start="20200314000000 +0100" stop="20200314010000 +0100" channel="Al Jazeera English">
     <title lang="fr">Newshour</title>
@@ -2969,270 +2814,153 @@
     <title lang="fr">UpFront</title>
     <category lang="fr">Société</category>
   </programme>
-  <programme start="20200313000000 +0100" stop="20200313003000 +0100" channel="BBC World News">
-    <title lang="fr">Newsday (?)</title>
+  <programme start="20200315060000 +0100" stop="20200315063000 +0100" channel="Al Jazeera English">
+    <title lang="fr">News Live</title>
     <category lang="fr">Journal</category>
   </programme>
-  <programme start="20200313003000 +0100" stop="20200313004500 +0100" channel="BBC World News">
-    <title lang="fr">Asia Business Report (?)</title>
-    <category lang="fr">Magazine de l'économie</category>
+  <programme start="20200315063000 +0100" stop="20200315070000 +0100" channel="Al Jazeera English">
+    <title lang="fr">People and Power (?)</title>
+    <category lang="fr">Magazine de société</category>
   </programme>
-  <programme start="20200313004500 +0100" stop="20200313010000 +0100" channel="BBC World News">
-    <title lang="fr">Sport Today (?)</title>
-    <category lang="fr">Magazine sportif</category>
+  <programme start="20200315070000 +0100" stop="20200315080000 +0100" channel="Al Jazeera English">
+    <title lang="fr">Scent From Heaven (?)</title>
+    <category lang="fr">Découvertes</category>
   </programme>
-  <programme start="20200313010000 +0100" stop="20200313013000 +0100" channel="BBC World News">
-    <title lang="fr">Newsday (?)</title>
+  <programme start="20200315080000 +0100" stop="20200315083000 +0100" channel="Al Jazeera English">
+    <title lang="fr">News Live</title>
     <category lang="fr">Journal</category>
   </programme>
-  <programme start="20200313013000 +0100" stop="20200313014500 +0100" channel="BBC World News">
-    <title lang="fr">Asia Business Report (?)</title>
-    <category lang="fr">Magazine de l'économie</category>
-  </programme>
-  <programme start="20200313014500 +0100" stop="20200313020000 +0100" channel="BBC World News">
-    <title lang="fr">Sport Today (?)</title>
-    <category lang="fr">Magazine sportif</category>
-  </programme>
-  <programme start="20200313020000 +0100" stop="20200313023000 +0100" channel="BBC World News">
-    <title lang="fr">Newsday (?)</title>
-    <category lang="fr">Journal</category>
-  </programme>
-  <programme start="20200313023000 +0100" stop="20200313024500 +0100" channel="BBC World News">
-    <title lang="fr">Asia Business Report (?)</title>
-    <category lang="fr">Magazine de l'économie</category>
-  </programme>
-  <programme start="20200313024500 +0100" stop="20200313030000 +0100" channel="BBC World News">
-    <title lang="fr">Sport Today (?)</title>
-    <category lang="fr">Magazine sportif</category>
-  </programme>
-  <programme start="20200313030000 +0100" stop="20200313033000 +0100" channel="BBC World News">
-    <title lang="fr">BBC World News (?)</title>
-    <category lang="fr">Journal</category>
-  </programme>
-  <programme start="20200313033000 +0100" stop="20200313034500 +0100" channel="BBC World News">
-    <title lang="fr">Asia Business Report (?)</title>
-    <category lang="fr">Magazine de l'économie</category>
-  </programme>
-  <programme start="20200313034500 +0100" stop="20200313040000 +0100" channel="BBC World News">
-    <title lang="fr">Sport Today (?)</title>
-    <category lang="fr">Magazine sportif</category>
-  </programme>
-  <programme start="20200313040000 +0100" stop="20200313043000 +0100" channel="BBC World News">
-    <title lang="fr">BBC World News (?)</title>
-    <category lang="fr">Journal</category>
-  </programme>
-  <programme start="20200313043000 +0100" stop="20200313050000 +0100" channel="BBC World News">
-    <title lang="fr">Our World (?)</title>
+  <programme start="20200315083000 +0100" stop="20200315090000 +0100" channel="Al Jazeera English">
+    <title lang="fr">Inside Story</title>
     <category lang="fr">Magazine d'actualité</category>
   </programme>
-  <programme start="20200313050000 +0100" stop="20200313053000 +0100" channel="BBC World News">
-    <title lang="fr">BBC World News (?)</title>
+  <programme start="20200315090000 +0100" stop="20200315093000 +0100" channel="Al Jazeera English">
+    <title lang="fr">News Live</title>
     <category lang="fr">Journal</category>
   </programme>
-  <programme start="20200313053000 +0100" stop="20200313060000 +0100" channel="BBC World News">
-    <title lang="fr">HARDtalk (?)</title>
-    <category lang="fr">Débat</category>
+  <programme start="20200315093000 +0100" stop="20200315100000 +0100" channel="Al Jazeera English">
+    <title lang="fr">Talk to Al Jazeera</title>
+    <category lang="fr">Magazine de société</category>
   </programme>
-  <programme start="20200313060000 +0100" stop="20200313063000 +0100" channel="BBC World News">
-    <title lang="fr">The Briefing (?)</title>
-    <category lang="fr">Magazine d'information</category>
-  </programme>
-  <programme start="20200313063000 +0100" stop="20200313064500 +0100" channel="BBC World News">
-    <title lang="fr">Business Briefing (?)</title>
-    <category lang="fr">Magazine de l'économie</category>
-  </programme>
-  <programme start="20200313064500 +0100" stop="20200313070000 +0100" channel="BBC World News">
-    <title lang="fr">The Briefing (?)</title>
-    <category lang="fr">Magazine d'information</category>
-  </programme>
-  <programme start="20200313070000 +0100" stop="20200313073000 +0100" channel="BBC World News">
-    <title lang="fr">The Briefing (?)</title>
-    <category lang="fr">Magazine d'information</category>
-  </programme>
-  <programme start="20200313073000 +0100" stop="20200313074500 +0100" channel="BBC World News">
-    <title lang="fr">Business Briefing (?)</title>
-    <category lang="fr">Magazine de l'économie</category>
-  </programme>
-  <programme start="20200313074500 +0100" stop="20200313080000 +0100" channel="BBC World News">
-    <title lang="fr">The Briefing (?)</title>
-    <category lang="fr">Magazine d'information</category>
-  </programme>
-  <programme start="20200313080000 +0100" stop="20200313083000 +0100" channel="BBC World News">
-    <title lang="fr">BBC World News (?)</title>
+  <programme start="20200315100000 +0100" stop="20200315103000 +0100" channel="Al Jazeera English">
+    <title lang="fr">News Live</title>
     <category lang="fr">Journal</category>
   </programme>
-  <programme start="20200313083000 +0100" stop="20200313084500 +0100" channel="BBC World News">
-    <title lang="fr">BBC World News (?)</title>
+  <programme start="20200315103000 +0100" stop="20200315110000 +0100" channel="Al Jazeera English">
+    <title lang="fr">Rewind</title>
+    <category lang="fr">Documentaire Société</category>
+  </programme>
+  <programme start="20200315110000 +0100" stop="20200315120000 +0100" channel="Al Jazeera English">
+    <title lang="fr">Newshour</title>
     <category lang="fr">Journal</category>
   </programme>
-  <programme start="20200313084500 +0100" stop="20200313090000 +0100" channel="BBC World News">
-    <title lang="fr">World Business Report (?)</title>
-    <category lang="fr">Magazine de l'économie</category>
-  </programme>
-  <programme start="20200313090000 +0100" stop="20200313093000 +0100" channel="BBC World News">
-    <title lang="fr">BBC World News (?)</title>
+  <programme start="20200315120000 +0100" stop="20200315123000 +0100" channel="Al Jazeera English">
+    <title lang="fr">News Live</title>
     <category lang="fr">Journal</category>
   </programme>
-  <programme start="20200313093000 +0100" stop="20200313100000 +0100" channel="BBC World News">
-    <title lang="fr">Worklife (?)</title>
-    <category lang="fr">Magazine de l'économie</category>
-  </programme>
-  <programme start="20200313100000 +0100" stop="20200313103000 +0100" channel="BBC World News">
-    <title lang="fr">Live With Lucy Hockings (?)</title>
-    <category lang="fr">Journal</category>
-  </programme>
-  <programme start="20200313103000 +0100" stop="20200313110500 +0100" channel="BBC World News">
-    <title lang="fr">HARDtalk (?)</title>
-    <category lang="fr">Débat</category>
-  </programme>
-  <programme start="20200313110500 +0100" stop="20200313113000 +0100" channel="BBC World News">
-    <title lang="fr">The Capital City Sinking into the Sea</title>
+  <programme start="20200315123000 +0100" stop="20200315130000 +0100" channel="Al Jazeera English">
+    <title lang="fr">Inside Story</title>
     <category lang="fr">Magazine d'actualité</category>
   </programme>
-  <programme start="20200313113000 +0100" stop="20200313120000 +0100" channel="BBC World News">
-    <title lang="fr">Our World (?)</title>
+  <programme start="20200315130000 +0100" stop="20200315140000 +0100" channel="Al Jazeera English">
+    <title lang="fr">Al Jazeera World</title>
+    <category lang="fr">Magazine de société</category>
+  </programme>
+  <programme start="20200315140000 +0100" stop="20200315150000 +0100" channel="Al Jazeera English">
+    <title lang="fr">Newshour</title>
+    <category lang="fr">Journal</category>
+  </programme>
+  <programme start="20200315150000 +0100" stop="20200315153000 +0100" channel="Al Jazeera English">
+    <title lang="fr">News Live</title>
+    <category lang="fr">Journal</category>
+  </programme>
+  <programme start="20200315153000 +0100" stop="20200315160000 +0100" channel="Al Jazeera English">
+    <title lang="fr">The Listening Post</title>
+    <category lang="fr">Magazine des médias</category>
+  </programme>
+  <programme start="20200315160000 +0100" stop="20200315170000 +0100" channel="Al Jazeera English">
+    <title lang="fr">Newshour</title>
+    <category lang="fr">Journal</category>
+  </programme>
+  <programme start="20200315170000 +0100" stop="20200315173000 +0100" channel="Al Jazeera English">
+    <title lang="fr">News Live</title>
+    <category lang="fr">Journal</category>
+  </programme>
+  <programme start="20200315173000 +0100" stop="20200315180000 +0100" channel="Al Jazeera English">
+    <title lang="fr">101 East</title>
+    <category lang="fr">Magazine de société</category>
+  </programme>
+  <programme start="20200315180000 +0100" stop="20200315183000 +0100" channel="Al Jazeera English">
+    <title lang="fr">News Live</title>
+    <category lang="fr">Journal</category>
+  </programme>
+  <programme start="20200315183000 +0100" stop="20200315190000 +0100" channel="Al Jazeera English">
+    <title lang="fr">Inside Story</title>
     <category lang="fr">Magazine d'actualité</category>
   </programme>
-  <programme start="20200313120000 +0100" stop="20200313123000 +0100" channel="BBC World News">
-    <title lang="fr">Live With Lucy Hockings (?)</title>
+  <programme start="20200315190000 +0100" stop="20200315200000 +0100" channel="Al Jazeera English">
+    <title lang="fr">Newshour</title>
     <category lang="fr">Journal</category>
   </programme>
-  <programme start="20200313123000 +0100" stop="20200313124500 +0100" channel="BBC World News">
-    <title lang="fr">World Business Report (?)</title>
-    <category lang="fr">Magazine de l'économie</category>
-  </programme>
-  <programme start="20200313124500 +0100" stop="20200313130000 +0100" channel="BBC World News">
-    <title lang="fr">Sport Today (?)</title>
-    <category lang="fr">Magazine sportif</category>
-  </programme>
-  <programme start="20200313130000 +0100" stop="20200313133000 +0100" channel="BBC World News">
-    <title lang="fr">Live With Lucy Hockings (?)</title>
+  <programme start="20200315200000 +0100" stop="20200315203000 +0100" channel="Al Jazeera English">
+    <title lang="fr">News Live</title>
     <category lang="fr">Journal</category>
   </programme>
-  <programme start="20200313133000 +0100" stop="20200313140000 +0100" channel="BBC World News">
-    <title lang="fr">Live With Lucy Hockings (?)</title>
+  <programme start="20200315203000 +0100" stop="20200315210000 +0100" channel="Al Jazeera English">
+    <title lang="fr">Talk to Al Jazeera</title>
+    <category lang="fr">Magazine de société</category>
+  </programme>
+  <programme start="20200315210000 +0100" stop="20200315220000 +0100" channel="Al Jazeera English">
+    <title lang="fr">Ocean's Monopoly</title>
+    <category lang="fr">Géopolitique</category>
+  </programme>
+  <programme start="20200315220000 +0100" stop="20200315230000 +0100" channel="Al Jazeera English">
+    <title lang="fr">Newshour</title>
     <category lang="fr">Journal</category>
   </programme>
-  <programme start="20200313140000 +0100" stop="20200313143000 +0100" channel="BBC World News">
-    <title lang="fr">Impact (?)</title>
-    <credits>
-      <presenter>Mishal Husain</presenter>
-    </credits>
+  <programme start="20200315230000 +0100" stop="20200315233000 +0100" channel="Al Jazeera English">
+    <title lang="fr">News Live</title>
+    <category lang="fr">Journal</category>
+  </programme>
+  <programme start="20200315233000 +0100" stop="20200316000000 +0100" channel="Al Jazeera English">
+    <title lang="fr">Witness</title>
+    <category lang="fr">Magazine de société</category>
+  </programme>
+  <programme start="20200316000000 +0100" stop="20200316010000 +0100" channel="Al Jazeera English">
+    <title lang="fr">Newshour</title>
+    <category lang="fr">Journal</category>
+  </programme>
+  <programme start="20200316010000 +0100" stop="20200316013000 +0100" channel="Al Jazeera English">
+    <title lang="fr">News Live</title>
+    <category lang="fr">Journal</category>
+  </programme>
+  <programme start="20200316013000 +0100" stop="20200316020000 +0100" channel="Al Jazeera English">
+    <title lang="fr">Inside Story</title>
     <category lang="fr">Magazine d'actualité</category>
   </programme>
-  <programme start="20200313143000 +0100" stop="20200313144500 +0100" channel="BBC World News">
-    <title lang="fr">Impact (?)</title>
-    <credits>
-      <presenter>Mishal Husain</presenter>
-    </credits>
-    <category lang="fr">Magazine d'actualité</category>
+  <programme start="20200316020000 +0100" stop="20200316030000 +0100" channel="Al Jazeera English">
+    <title lang="fr">Al Jazeera World</title>
+    <category lang="fr">Magazine de société</category>
   </programme>
-  <programme start="20200313144500 +0100" stop="20200313150000 +0100" channel="BBC World News">
-    <title lang="fr">Sport Today (?)</title>
-    <category lang="fr">Magazine sportif</category>
-  </programme>
-  <programme start="20200313150000 +0100" stop="20200313153000 +0100" channel="BBC World News">
-    <title lang="fr">Impact (?)</title>
-    <credits>
-      <presenter>Mishal Husain</presenter>
-    </credits>
-    <category lang="fr">Magazine d'actualité</category>
-  </programme>
-  <programme start="20200313153000 +0100" stop="20200313160000 +0100" channel="BBC World News">
-    <title lang="fr">Talking Business with Aaron Heslehurst (?)</title>
-    <credits>
-      <presenter>Aaron Heslehurst</presenter>
-    </credits>
-    <category lang="fr">Magazine de l'économie</category>
-  </programme>
-  <programme start="20200313160000 +0100" stop="20200313163000 +0100" channel="BBC World News">
-    <title lang="fr">Impact (?)</title>
-    <credits>
-      <presenter>Mishal Husain</presenter>
-    </credits>
-    <category lang="fr">Magazine d'actualité</category>
-  </programme>
-  <programme start="20200313163000 +0100" stop="20200313170000 +0100" channel="BBC World News">
-    <title lang="fr">Worklife India (?)</title>
-    <category lang="fr">Histoire</category>
-  </programme>
-  <programme start="20200313170000 +0100" stop="20200313173000 +0100" channel="BBC World News">
-    <title lang="fr">BBC World News (?)</title>
+  <programme start="20200316030000 +0100" stop="20200316040000 +0100" channel="Al Jazeera English">
+    <title lang="fr">Newshour</title>
     <category lang="fr">Journal</category>
   </programme>
-  <programme start="20200313173000 +0100" stop="20200313174500 +0100" channel="BBC World News">
-    <title lang="fr">World Business Report (?)</title>
-    <category lang="fr">Magazine de l'économie</category>
-  </programme>
-  <programme start="20200313174500 +0100" stop="20200313180000 +0100" channel="BBC World News">
-    <title lang="fr">Sport Today (?)</title>
-    <category lang="fr">Magazine sportif</category>
-  </programme>
-  <programme start="20200313180000 +0100" stop="20200313183000 +0100" channel="BBC World News">
-    <title lang="fr">BBC World News (?)</title>
+  <programme start="20200316040000 +0100" stop="20200316043000 +0100" channel="Al Jazeera English">
+    <title lang="fr">News Live</title>
     <category lang="fr">Journal</category>
   </programme>
-  <programme start="20200313183000 +0100" stop="20200313190000 +0100" channel="BBC World News">
-    <title lang="fr">BBC Focus on Africa (?)</title>
-    <category lang="fr">Magazine de découvertes</category>
+  <programme start="20200316043000 +0100" stop="20200316050000 +0100" channel="Al Jazeera English">
+    <title lang="fr">Rewind</title>
+    <category lang="fr">Documentaire Société</category>
   </programme>
-  <programme start="20200313190000 +0100" stop="20200313193000 +0100" channel="BBC World News">
-    <title lang="fr">World News Today (?)</title>
-    <credits>
-      <presenter>Zeinab Badawi</presenter>
-    </credits>
+  <programme start="20200316050000 +0100" stop="20200316053000 +0100" channel="Al Jazeera English">
+    <title lang="fr">News Live</title>
     <category lang="fr">Journal</category>
   </programme>
-  <programme start="20200313193000 +0100" stop="20200313200000 +0100" channel="BBC World News">
-    <title lang="fr">In Business Africa (?)</title>
-    <credits>
-      <presenter>Lerato Mbele</presenter>
-      <presenter>Nancy Kacungira</presenter>
-    </credits>
-    <category lang="fr">Magazine d'information</category>
-  </programme>
-  <programme start="20200313200000 +0100" stop="20200313203000 +0100" channel="BBC World News">
-    <title lang="fr">World News Today (?)</title>
-    <credits>
-      <presenter>Zeinab Badawi</presenter>
-    </credits>
-    <category lang="fr">Journal</category>
-  </programme>
-  <programme start="20200313203000 +0100" stop="20200313210000 +0100" channel="BBC World News">
-    <title lang="fr">The Travel Show (?)</title>
-    <category lang="fr">Magazine du tourisme</category>
-  </programme>
-  <programme start="20200313210000 +0100" stop="20200313213000 +0100" channel="BBC World News">
-    <title lang="fr">World News Today (?)</title>
-    <credits>
-      <presenter>Zeinab Badawi</presenter>
-    </credits>
-    <category lang="fr">Journal</category>
-  </programme>
-  <programme start="20200313213000 +0100" stop="20200313220000 +0100" channel="BBC World News">
-    <title lang="fr">Sport Today (?)</title>
-    <category lang="fr">Magazine sportif</category>
-  </programme>
-  <programme start="20200313220000 +0100" stop="20200313223000 +0100" channel="BBC World News">
-    <title lang="fr">BBC World News America (?)</title>
-    <category lang="fr">Journal</category>
-  </programme>
-  <programme start="20200313223000 +0100" stop="20200313230000 +0100" channel="BBC World News">
-    <title lang="fr">BBC World News America (?)</title>
-    <category lang="fr">Journal</category>
-  </programme>
-  <programme start="20200313230000 +0100" stop="20200313233000 +0100" channel="BBC World News">
-    <title lang="fr">BBC World News (?)</title>
-    <category lang="fr">Journal</category>
-  </programme>
-  <programme start="20200313233000 +0100" stop="20200314000000 +0100" channel="BBC World News">
-    <title lang="fr">Newsnight (?)</title>
-    <credits>
-      <presenter>Emily Maitlis</presenter>
-      <presenter>Evan Davis</presenter>
-      <presenter>Jeremy Paxman</presenter>
-    </credits>
-    <category lang="fr">Journal</category>
+  <programme start="20200316053000 +0100" stop="20200316060000 +0100" channel="Al Jazeera English">
+    <title lang="fr">The Listening Post</title>
+    <category lang="fr">Magazine des médias</category>
   </programme>
   <programme start="20200314000000 +0100" stop="20200314010000 +0100" channel="BBC World News">
     <title lang="fr">BBC World News (?)</title>
@@ -3591,5 +3319,299 @@
       <presenter>Gareth Mitchell</presenter>
     </credits>
     <category lang="fr">Magazine du multimédia</category>
+  </programme>
+  <programme start="20200315060000 +0100" stop="20200315063000 +0100" channel="BBC World News">
+    <title lang="fr">BBC World News (?)</title>
+    <category lang="fr">Journal</category>
+  </programme>
+  <programme start="20200315063000 +0100" stop="20200315070000 +0100" channel="BBC World News">
+    <title lang="fr">In Business Africa (?)</title>
+    <credits>
+      <presenter>Lerato Mbele</presenter>
+      <presenter>Nancy Kacungira</presenter>
+    </credits>
+    <category lang="fr">Magazine d'information</category>
+  </programme>
+  <programme start="20200315070000 +0100" stop="20200315073000 +0100" channel="BBC World News">
+    <title lang="fr">BBC World News (?)</title>
+    <category lang="fr">Journal</category>
+  </programme>
+  <programme start="20200315073000 +0100" stop="20200315080000 +0100" channel="BBC World News">
+    <title lang="fr">The Travel Show (?)</title>
+    <category lang="fr">Magazine du tourisme</category>
+  </programme>
+  <programme start="20200315080000 +0100" stop="20200315081000 +0100" channel="BBC World News">
+    <title lang="fr">BBC World News (?)</title>
+    <category lang="fr">Journal</category>
+  </programme>
+  <programme start="20200315081000 +0100" stop="20200315083000 +0100" channel="BBC World News">
+    <title lang="fr">Witness to a Crime</title>
+    <category lang="fr">Magazine de société</category>
+  </programme>
+  <programme start="20200315083000 +0100" stop="20200315090000 +0100" channel="BBC World News">
+    <title lang="fr">Our World (?)</title>
+    <category lang="fr">Magazine d'actualité</category>
+  </programme>
+  <programme start="20200315090000 +0100" stop="20200315091000 +0100" channel="BBC World News">
+    <title lang="fr">BBC World News (?)</title>
+    <category lang="fr">Journal</category>
+  </programme>
+  <programme start="20200315091000 +0100" stop="20200315093000 +0100" channel="BBC World News">
+    <title lang="fr">Reporters (?)</title>
+    <credits>
+      <presenter>Antoine Cormery</presenter>
+      <presenter>Michaël Miraglia</presenter>
+      <presenter>Rebecca Fitoussi</presenter>
+    </credits>
+    <category lang="fr">Magazine historique</category>
+  </programme>
+  <programme start="20200315093000 +0100" stop="20200315100000 +0100" channel="BBC World News">
+    <title lang="fr">Dateline London (?)</title>
+    <category lang="fr">Magazine d'actualité</category>
+  </programme>
+  <programme start="20200315100000 +0100" stop="20200315101000 +0100" channel="BBC World News">
+    <title lang="fr">BBC World News (?)</title>
+    <category lang="fr">Journal</category>
+  </programme>
+  <programme start="20200315101000 +0100" stop="20200315103000 +0100" channel="BBC World News">
+    <title lang="fr">Witness to a Crime</title>
+    <category lang="fr">Magazine de société</category>
+  </programme>
+  <programme start="20200315103000 +0100" stop="20200315110000 +0100" channel="BBC World News">
+    <title lang="fr">Follow the Food (?)</title>
+    <category lang="fr">Magazine de la gastronomie</category>
+  </programme>
+  <programme start="20200315110000 +0100" stop="20200315111000 +0100" channel="BBC World News">
+    <title lang="fr">BBC World News (?)</title>
+    <category lang="fr">Journal</category>
+  </programme>
+  <programme start="20200315111000 +0100" stop="20200315113000 +0100" channel="BBC World News">
+    <title lang="fr">BBC News Special (?)</title>
+    <credits>
+      <presenter>Christian Fraser</presenter>
+      <presenter>Katty Kay</presenter>
+    </credits>
+    <category lang="fr">Journal</category>
+  </programme>
+  <programme start="20200315113000 +0100" stop="20200315120000 +0100" channel="BBC World News">
+    <title lang="fr">A Taste of the City (?)</title>
+    <category lang="fr">Magazine de la gastronomie</category>
+  </programme>
+  <programme start="20200315120000 +0100" stop="20200315121000 +0100" channel="BBC World News">
+    <title lang="fr">BBC World News (?)</title>
+    <category lang="fr">Journal</category>
+  </programme>
+  <programme start="20200315121000 +0100" stop="20200315123000 +0100" channel="BBC World News">
+    <title lang="fr">Reporters (?)</title>
+    <credits>
+      <presenter>Antoine Cormery</presenter>
+      <presenter>Michaël Miraglia</presenter>
+      <presenter>Rebecca Fitoussi</presenter>
+    </credits>
+    <category lang="fr">Magazine historique</category>
+  </programme>
+  <programme start="20200315123000 +0100" stop="20200315130000 +0100" channel="BBC World News">
+    <title lang="fr">Newsnight (?)</title>
+    <credits>
+      <presenter>Emily Maitlis</presenter>
+      <presenter>Evan Davis</presenter>
+      <presenter>Jeremy Paxman</presenter>
+    </credits>
+    <category lang="fr">Journal</category>
+  </programme>
+  <programme start="20200315130000 +0100" stop="20200315133000 +0100" channel="BBC World News">
+    <title lang="fr">BBC World News (?)</title>
+    <category lang="fr">Journal</category>
+  </programme>
+  <programme start="20200315133000 +0100" stop="20200315140000 +0100" channel="BBC World News">
+    <title lang="fr">The Travel Show (?)</title>
+    <category lang="fr">Magazine du tourisme</category>
+  </programme>
+  <programme start="20200315140000 +0100" stop="20200315143000 +0100" channel="BBC World News">
+    <title lang="fr">BBC World News (?)</title>
+    <category lang="fr">Journal</category>
+  </programme>
+  <programme start="20200315143000 +0100" stop="20200315150000 +0100" channel="BBC World News">
+    <title lang="fr">Click (?)</title>
+    <credits>
+      <presenter>Gareth Mitchell</presenter>
+    </credits>
+    <category lang="fr">Magazine du multimédia</category>
+  </programme>
+  <programme start="20200315150000 +0100" stop="20200315151500 +0100" channel="BBC World News">
+    <title lang="fr">BBC World News (?)</title>
+    <category lang="fr">Journal</category>
+  </programme>
+  <programme start="20200315151500 +0100" stop="20200315153000 +0100" channel="BBC World News">
+    <title lang="fr">Sport Today (?)</title>
+    <category lang="fr">Magazine sportif</category>
+  </programme>
+  <programme start="20200315153000 +0100" stop="20200315160000 +0100" channel="BBC World News">
+    <title lang="fr">100 Women (?)</title>
+    <category lang="fr">Débat</category>
+  </programme>
+  <programme start="20200315160000 +0100" stop="20200315161000 +0100" channel="BBC World News">
+    <title lang="fr">BBC World News (?)</title>
+    <category lang="fr">Journal</category>
+  </programme>
+  <programme start="20200315161000 +0100" stop="20200315163000 +0100" channel="BBC World News">
+    <title lang="fr">Witness to a Crime</title>
+    <category lang="fr">Magazine de société</category>
+  </programme>
+  <programme start="20200315163000 +0100" stop="20200315170000 +0100" channel="BBC World News">
+    <title lang="fr">BBC News Special (?)</title>
+    <credits>
+      <presenter>Christian Fraser</presenter>
+      <presenter>Katty Kay</presenter>
+    </credits>
+    <category lang="fr">Journal</category>
+  </programme>
+  <programme start="20200315170000 +0100" stop="20200315173000 +0100" channel="BBC World News">
+    <title lang="fr">BBC World News (?)</title>
+    <category lang="fr">Journal</category>
+  </programme>
+  <programme start="20200315173000 +0100" stop="20200315180000 +0100" channel="BBC World News">
+    <title lang="fr">My World (?)</title>
+    <category lang="fr">Documentaire Société</category>
+  </programme>
+  <programme start="20200315180000 +0100" stop="20200315183000 +0100" channel="BBC World News">
+    <title lang="fr">BBC World News (?)</title>
+    <category lang="fr">Journal</category>
+  </programme>
+  <programme start="20200315183000 +0100" stop="20200315190000 +0100" channel="BBC World News">
+    <title lang="fr">Our World (?)</title>
+    <category lang="fr">Magazine d'actualité</category>
+  </programme>
+  <programme start="20200315190000 +0100" stop="20200315191000 +0100" channel="BBC World News">
+    <title lang="fr">BBC World News (?)</title>
+    <category lang="fr">Journal</category>
+  </programme>
+  <programme start="20200315191000 +0100" stop="20200315193000 +0100" channel="BBC World News">
+    <title lang="fr">BBC News Special (?)</title>
+    <credits>
+      <presenter>Christian Fraser</presenter>
+      <presenter>Katty Kay</presenter>
+    </credits>
+    <category lang="fr">Journal</category>
+  </programme>
+  <programme start="20200315193000 +0100" stop="20200315200000 +0100" channel="BBC World News">
+    <title lang="fr">In Business Africa (?)</title>
+    <credits>
+      <presenter>Lerato Mbele</presenter>
+      <presenter>Nancy Kacungira</presenter>
+    </credits>
+    <category lang="fr">Magazine d'information</category>
+  </programme>
+  <programme start="20200315200000 +0100" stop="20200315201500 +0100" channel="BBC World News">
+    <title lang="fr">BBC World News (?)</title>
+    <category lang="fr">Journal</category>
+  </programme>
+  <programme start="20200315201500 +0100" stop="20200315203000 +0100" channel="BBC World News">
+    <title lang="fr">Sport Today (?)</title>
+    <category lang="fr">Magazine sportif</category>
+  </programme>
+  <programme start="20200315203000 +0100" stop="20200315210000 +0100" channel="BBC World News">
+    <title lang="fr">Our World (?)</title>
+    <category lang="fr">Magazine d'actualité</category>
+  </programme>
+  <programme start="20200315210000 +0100" stop="20200315211000 +0100" channel="BBC World News">
+    <title lang="fr">BBC World News (?)</title>
+    <category lang="fr">Journal</category>
+  </programme>
+  <programme start="20200315211000 +0100" stop="20200315213000 +0100" channel="BBC World News">
+    <title lang="fr">Reporters (?)</title>
+    <credits>
+      <presenter>Antoine Cormery</presenter>
+      <presenter>Michaël Miraglia</presenter>
+      <presenter>Rebecca Fitoussi</presenter>
+    </credits>
+    <category lang="fr">Magazine historique</category>
+  </programme>
+  <programme start="20200315213000 +0100" stop="20200315220000 +0100" channel="BBC World News">
+    <title lang="fr">Follow the Food (?)</title>
+    <category lang="fr">Magazine de la gastronomie</category>
+  </programme>
+  <programme start="20200315220000 +0100" stop="20200315223000 +0100" channel="BBC World News">
+    <title lang="fr">World News Today (?)</title>
+    <credits>
+      <presenter>Zeinab Badawi</presenter>
+    </credits>
+    <category lang="fr">Journal</category>
+  </programme>
+  <programme start="20200315223000 +0100" stop="20200315230000 +0100" channel="BBC World News">
+    <title lang="fr">100 Women (?)</title>
+    <category lang="fr">Débat</category>
+  </programme>
+  <programme start="20200315230000 +0100" stop="20200315231000 +0100" channel="BBC World News">
+    <title lang="fr">BBC World News (?)</title>
+    <category lang="fr">Journal</category>
+  </programme>
+  <programme start="20200315231000 +0100" stop="20200315233000 +0100" channel="BBC World News">
+    <title lang="fr">Witness to a Crime</title>
+    <category lang="fr">Magazine de société</category>
+  </programme>
+  <programme start="20200315233000 +0100" stop="20200315234500 +0100" channel="BBC World News">
+    <title lang="fr">Asia Business Report (?)</title>
+    <category lang="fr">Magazine de l'économie</category>
+  </programme>
+  <programme start="20200315234500 +0100" stop="20200316000000 +0100" channel="BBC World News">
+    <title lang="fr">Sport Today (?)</title>
+    <category lang="fr">Magazine sportif</category>
+  </programme>
+  <programme start="20200316000000 +0100" stop="20200316003000 +0100" channel="BBC World News">
+    <title lang="fr">Newsday (?)</title>
+    <category lang="fr">Journal</category>
+  </programme>
+  <programme start="20200316003000 +0100" stop="20200316004500 +0100" channel="BBC World News">
+    <title lang="fr">Asia Business Report (?)</title>
+    <category lang="fr">Magazine de l'économie</category>
+  </programme>
+  <programme start="20200316004500 +0100" stop="20200316010000 +0100" channel="BBC World News">
+    <title lang="fr">Sport Today (?)</title>
+    <category lang="fr">Magazine sportif</category>
+  </programme>
+  <programme start="20200316010000 +0100" stop="20200316013000 +0100" channel="BBC World News">
+    <title lang="fr">Newsday (?)</title>
+    <category lang="fr">Journal</category>
+  </programme>
+  <programme start="20200316013000 +0100" stop="20200316014500 +0100" channel="BBC World News">
+    <title lang="fr">Asia Business Report (?)</title>
+    <category lang="fr">Magazine de l'économie</category>
+  </programme>
+  <programme start="20200316014500 +0100" stop="20200316020000 +0100" channel="BBC World News">
+    <title lang="fr">Sport Today (?)</title>
+    <category lang="fr">Magazine sportif</category>
+  </programme>
+  <programme start="20200316020000 +0100" stop="20200316023000 +0100" channel="BBC World News">
+    <title lang="fr">Newsday (?)</title>
+    <category lang="fr">Journal</category>
+  </programme>
+  <programme start="20200316023000 +0100" stop="20200316024500 +0100" channel="BBC World News">
+    <title lang="fr">Asia Business Report (?)</title>
+    <category lang="fr">Magazine de l'économie</category>
+  </programme>
+  <programme start="20200316024500 +0100" stop="20200316030000 +0100" channel="BBC World News">
+    <title lang="fr">Sport Today (?)</title>
+    <category lang="fr">Magazine sportif</category>
+  </programme>
+  <programme start="20200316030000 +0100" stop="20200316033000 +0100" channel="BBC World News">
+    <title lang="fr">BBC World News (?)</title>
+    <category lang="fr">Journal</category>
+  </programme>
+  <programme start="20200316033000 +0100" stop="20200316034500 +0100" channel="BBC World News">
+    <title lang="fr">Asia Business Report (?)</title>
+    <category lang="fr">Magazine de l'économie</category>
+  </programme>
+  <programme start="20200316034500 +0100" stop="20200316040000 +0100" channel="BBC World News">
+    <title lang="fr">Sport Today (?)</title>
+    <category lang="fr">Magazine sportif</category>
+  </programme>
+  <programme start="20200316040000 +0100" stop="20200316043000 +0100" channel="BBC World News">
+    <title lang="fr">BBC World News (?)</title>
+    <category lang="fr">Journal</category>
+  </programme>
+  <programme start="20200316043000 +0100" stop="20200316050000 +0100" channel="BBC World News">
+    <title lang="fr">Our World (?)</title>
+    <category lang="fr">Magazine d'actualité</category>
   </programme>
 </tv>
