@@ -404,7 +404,7 @@
           "src": "http://www.watania1.tn/sites/default/files/main_logo_watania1_0.png"
         },
         "url": "http://www.watania.tn",
-        "active": "False"
+        "active": "True"
       },
       {
         "id": "Watania 2",
@@ -2081,7 +2081,7 @@
           "src": "http://content.osn.com/logo/channel/cropped/ONS.png"
         },
         "url": "http://www.osn.com",
-        "active": "True"
+        "active": "False"
       },
       {
         "id": "Sky News HD",
@@ -2090,8 +2090,11 @@
           "lang": "en",
           "$t": "Sky News HD"
         },
+        "icon": {
+          "src": "http://content.osn.com/logo/channel/cropped/SKH.png"
+        },
         "url": "http://www.osn.com",
-        "active": "False"
+        "active": "True"
       },
       {
         "id": "BBC World",
@@ -2100,8 +2103,11 @@
           "lang": "en",
           "$t": "BBC World"
         },
+        "icon": {
+          "src": "http://content.osn.com/logo/channel/cropped/BBW.png"
+        },
         "url": "http://www.osn.com",
-        "active": "False"
+        "active": "True"
       },
       {
         "id": "SET Middle East",
@@ -2109,6 +2115,9 @@
         "display-name": {
           "lang": "en",
           "$t": "SET Middle East"
+        },
+        "icon": {
+          "src": "http://content.osn.com/logo/channel/cropped/SET.png"
         },
         "url": "http://www.osn.com",
         "active": "False"
@@ -2120,8 +2129,11 @@
           "lang": "en",
           "$t": "Discovery HD"
         },
+        "icon": {
+          "src": "http://content.osn.com/logo/channel/cropped/DSC.png"
+        },
         "url": "http://www.osn.com",
-        "active": "False"
+        "active": "True"
       },
       {
         "id": "Discovery Family HD",
@@ -2129,6 +2141,9 @@
         "display-name": {
           "lang": "en",
           "$t": "Discovery Family HD"
+        },
+        "icon": {
+          "src": "http://content.osn.com/logo/channel/cropped/DCF.png"
         },
         "url": "http://www.osn.com",
         "active": "False"
@@ -2140,8 +2155,11 @@
           "lang": "en",
           "$t": "NickToons"
         },
+        "icon": {
+          "src": "http://content.osn.com/logo/channel/cropped/NKT.png"
+        },
         "url": "http://www.osn.com",
-        "active": "False"
+        "active": "True"
       },
       {
         "id": "Times Now",
