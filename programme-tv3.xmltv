@@ -480,18 +480,6 @@
     <display-name lang="fr">Ketnet</display-name>
     <url>http://www.m.programme-tv.net</url>
   </channel>
-  <programme start="20200403120000 +0200" stop="20200403181500 +0200" channel="beIN SPORTS MAX 5">
-    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-  </programme>
-  <programme start="20200403181500 +0200" stop="20200403203000 +0200" channel="beIN SPORTS MAX 5">
-    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-  </programme>
-  <programme start="20200403203000 +0200" stop="20200404030000 +0200" channel="beIN SPORTS MAX 5">
-    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-  </programme>
-  <programme start="20200404030000 +0200" stop="20200404050000 +0200" channel="beIN SPORTS MAX 5">
-    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
-  </programme>
   <programme start="20200404170000 +0200" stop="20200404220000 +0200" channel="beIN SPORTS MAX 5">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
   </programme>
@@ -504,16 +492,19 @@
   <programme start="20200405120000 +0200" stop="20200405190000 +0200" channel="beIN SPORTS MAX 5">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
   </programme>
-  <programme start="20200403120000 +0200" stop="20200403180000 +0200" channel="beIN SPORTS MAX 6">
+  <programme start="20200405190000 +0200" stop="20200406030000 +0200" channel="beIN SPORTS MAX 5">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
   </programme>
-  <programme start="20200403180000 +0200" stop="20200404030000 +0200" channel="beIN SPORTS MAX 6">
+  <programme start="20200406030000 +0200" stop="20200406050000 +0200" channel="beIN SPORTS MAX 5">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
   </programme>
-  <programme start="20200404030000 +0200" stop="20200404050000 +0200" channel="beIN SPORTS MAX 6">
+  <programme start="20200406050000 +0200" stop="20200406120000 +0200" channel="beIN SPORTS MAX 5">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
   </programme>
-  <programme start="20200404050000 +0200" stop="20200404120000 +0200" channel="beIN SPORTS MAX 6">
+  <programme start="20200406120000 +0200" stop="20200406181500 +0200" channel="beIN SPORTS MAX 5">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+  </programme>
+  <programme start="20200406181500 +0200" stop="20200406203000 +0200" channel="beIN SPORTS MAX 5">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
   </programme>
   <programme start="20200404120000 +0200" stop="20200404180000 +0200" channel="beIN SPORTS MAX 6">
@@ -531,10 +522,16 @@
   <programme start="20200405120000 +0200" stop="20200405180000 +0200" channel="beIN SPORTS MAX 6">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
   </programme>
-  <programme start="20200403210000 +0200" stop="20200404030000 +0200" channel="beIN SPORTS MAX 7">
+  <programme start="20200405180000 +0200" stop="20200406030000 +0200" channel="beIN SPORTS MAX 6">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
   </programme>
-  <programme start="20200404030000 +0200" stop="20200404050000 +0200" channel="beIN SPORTS MAX 7">
+  <programme start="20200406030000 +0200" stop="20200406050000 +0200" channel="beIN SPORTS MAX 6">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+  </programme>
+  <programme start="20200406050000 +0200" stop="20200406120000 +0200" channel="beIN SPORTS MAX 6">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+  </programme>
+  <programme start="20200406120000 +0200" stop="20200406180000 +0200" channel="beIN SPORTS MAX 6">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
   </programme>
   <programme start="20200404190000 +0200" stop="20200404220000 +0200" channel="beIN SPORTS MAX 7">
@@ -546,10 +543,13 @@
   <programme start="20200405050000 +0200" stop="20200405090000 +0200" channel="beIN SPORTS MAX 7">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
   </programme>
-  <programme start="20200403210000 +0200" stop="20200404030000 +0200" channel="beIN SPORTS MAX 8">
+  <programme start="20200405210000 +0200" stop="20200406030000 +0200" channel="beIN SPORTS MAX 7">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
   </programme>
-  <programme start="20200404030000 +0200" stop="20200404050000 +0200" channel="beIN SPORTS MAX 8">
+  <programme start="20200406030000 +0200" stop="20200406050000 +0200" channel="beIN SPORTS MAX 7">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
+  </programme>
+  <programme start="20200406050000 +0200" stop="20200406090000 +0200" channel="beIN SPORTS MAX 7">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
   </programme>
   <programme start="20200404173000 +0200" stop="20200405004500 +0200" channel="beIN SPORTS MAX 8">
@@ -558,13 +558,13 @@
   <programme start="20200405004500 +0200" stop="20200405050000 +0200" channel="beIN SPORTS MAX 8">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
   </programme>
-  <programme start="20200403210000 +0200" stop="20200404030000 +0200" channel="beIN SPORTS MAX 9">
+  <programme start="20200405170000 +0200" stop="20200406030000 +0200" channel="beIN SPORTS MAX 8">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
   </programme>
-  <programme start="20200404030000 +0200" stop="20200404050000 +0200" channel="beIN SPORTS MAX 9">
+  <programme start="20200406030000 +0200" stop="20200406050000 +0200" channel="beIN SPORTS MAX 8">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
   </programme>
-  <programme start="20200404050000 +0200" stop="20200404090000 +0200" channel="beIN SPORTS MAX 9">
+  <programme start="20200406050000 +0200" stop="20200406090000 +0200" channel="beIN SPORTS MAX 8">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
   </programme>
   <programme start="20200404090000 +0200" stop="20200404203000 +0200" channel="beIN SPORTS MAX 9">
@@ -579,13 +579,13 @@
   <programme start="20200405050000 +0200" stop="20200405090000 +0200" channel="beIN SPORTS MAX 9">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
   </programme>
-  <programme start="20200403210000 +0200" stop="20200404030000 +0200" channel="beIN SPORTS MAX 10">
+  <programme start="20200405210000 +0200" stop="20200406030000 +0200" channel="beIN SPORTS MAX 9">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
   </programme>
-  <programme start="20200404030000 +0200" stop="20200404050000 +0200" channel="beIN SPORTS MAX 10">
+  <programme start="20200406030000 +0200" stop="20200406050000 +0200" channel="beIN SPORTS MAX 9">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
   </programme>
-  <programme start="20200404050000 +0200" stop="20200404090000 +0200" channel="beIN SPORTS MAX 10">
+  <programme start="20200406050000 +0200" stop="20200406090000 +0200" channel="beIN SPORTS MAX 9">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
   </programme>
   <programme start="20200404090000 +0200" stop="20200404180000 +0200" channel="beIN SPORTS MAX 10">
@@ -600,29 +600,14 @@
   <programme start="20200405050000 +0200" stop="20200405090000 +0200" channel="beIN SPORTS MAX 10">
     <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
   </programme>
-  <programme start="20200403060000 +0200" stop="20200403090000 +0200" channel="RMC Sport Live 5">
-    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
+  <programme start="20200405210000 +0200" stop="20200406030000 +0200" channel="beIN SPORTS MAX 10">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
   </programme>
-  <programme start="20200403090000 +0200" stop="20200403120000 +0200" channel="RMC Sport Live 5">
-    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
+  <programme start="20200406030000 +0200" stop="20200406050000 +0200" channel="beIN SPORTS MAX 10">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
   </programme>
-  <programme start="20200403120000 +0200" stop="20200403150000 +0200" channel="RMC Sport Live 5">
-    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
-  </programme>
-  <programme start="20200403150000 +0200" stop="20200403180000 +0200" channel="RMC Sport Live 5">
-    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
-  </programme>
-  <programme start="20200403180000 +0200" stop="20200403210000 +0200" channel="RMC Sport Live 5">
-    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
-  </programme>
-  <programme start="20200403210000 +0200" stop="20200404000000 +0200" channel="RMC Sport Live 5">
-    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
-  </programme>
-  <programme start="20200404000000 +0200" stop="20200404030000 +0200" channel="RMC Sport Live 5">
-    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
-  </programme>
-  <programme start="20200404030000 +0200" stop="20200404060000 +0200" channel="RMC Sport Live 5">
-    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
+  <programme start="20200406050000 +0200" stop="20200406090000 +0200" channel="beIN SPORTS MAX 10">
+    <title lang="fr">beIN SPORTS, le plus grand des spectacles</title>
   </programme>
   <programme start="20200404060000 +0200" stop="20200404090000 +0200" channel="RMC Sport Live 5">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
@@ -663,28 +648,28 @@
   <programme start="20200405180000 +0200" stop="20200405210000 +0200" channel="RMC Sport Live 5">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200403060000 +0200" stop="20200403090000 +0200" channel="RMC Sport Live 6">
+  <programme start="20200405210000 +0200" stop="20200406000000 +0200" channel="RMC Sport Live 5">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200403090000 +0200" stop="20200403120000 +0200" channel="RMC Sport Live 6">
+  <programme start="20200406000000 +0200" stop="20200406030000 +0200" channel="RMC Sport Live 5">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200403120000 +0200" stop="20200403150000 +0200" channel="RMC Sport Live 6">
+  <programme start="20200406030000 +0200" stop="20200406060000 +0200" channel="RMC Sport Live 5">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200403150000 +0200" stop="20200403180000 +0200" channel="RMC Sport Live 6">
+  <programme start="20200406060000 +0200" stop="20200406090000 +0200" channel="RMC Sport Live 5">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200403180000 +0200" stop="20200403210000 +0200" channel="RMC Sport Live 6">
+  <programme start="20200406090000 +0200" stop="20200406120000 +0200" channel="RMC Sport Live 5">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200403210000 +0200" stop="20200404000000 +0200" channel="RMC Sport Live 6">
+  <programme start="20200406120000 +0200" stop="20200406150000 +0200" channel="RMC Sport Live 5">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200404000000 +0200" stop="20200404030000 +0200" channel="RMC Sport Live 6">
+  <programme start="20200406150000 +0200" stop="20200406180000 +0200" channel="RMC Sport Live 5">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200404030000 +0200" stop="20200404060000 +0200" channel="RMC Sport Live 6">
+  <programme start="20200406180000 +0200" stop="20200406210000 +0200" channel="RMC Sport Live 5">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
   <programme start="20200404060000 +0200" stop="20200404090000 +0200" channel="RMC Sport Live 6">
@@ -726,28 +711,28 @@
   <programme start="20200405180000 +0200" stop="20200405210000 +0200" channel="RMC Sport Live 6">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200403060000 +0200" stop="20200403090000 +0200" channel="RMC Sport Live 7">
+  <programme start="20200405210000 +0200" stop="20200406000000 +0200" channel="RMC Sport Live 6">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200403090000 +0200" stop="20200403120000 +0200" channel="RMC Sport Live 7">
+  <programme start="20200406000000 +0200" stop="20200406030000 +0200" channel="RMC Sport Live 6">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200403120000 +0200" stop="20200403150000 +0200" channel="RMC Sport Live 7">
+  <programme start="20200406030000 +0200" stop="20200406060000 +0200" channel="RMC Sport Live 6">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200403150000 +0200" stop="20200403180000 +0200" channel="RMC Sport Live 7">
+  <programme start="20200406060000 +0200" stop="20200406090000 +0200" channel="RMC Sport Live 6">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200403180000 +0200" stop="20200403210000 +0200" channel="RMC Sport Live 7">
+  <programme start="20200406090000 +0200" stop="20200406120000 +0200" channel="RMC Sport Live 6">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200403210000 +0200" stop="20200404000000 +0200" channel="RMC Sport Live 7">
+  <programme start="20200406120000 +0200" stop="20200406150000 +0200" channel="RMC Sport Live 6">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200404000000 +0200" stop="20200404030000 +0200" channel="RMC Sport Live 7">
+  <programme start="20200406150000 +0200" stop="20200406180000 +0200" channel="RMC Sport Live 6">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200404030000 +0200" stop="20200404060000 +0200" channel="RMC Sport Live 7">
+  <programme start="20200406180000 +0200" stop="20200406210000 +0200" channel="RMC Sport Live 6">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
   <programme start="20200404060000 +0200" stop="20200404090000 +0200" channel="RMC Sport Live 7">
@@ -789,28 +774,28 @@
   <programme start="20200405180000 +0200" stop="20200405210000 +0200" channel="RMC Sport Live 7">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200403060000 +0200" stop="20200403090000 +0200" channel="RMC Sport Live 8">
+  <programme start="20200405210000 +0200" stop="20200406000000 +0200" channel="RMC Sport Live 7">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200403090000 +0200" stop="20200403120000 +0200" channel="RMC Sport Live 8">
+  <programme start="20200406000000 +0200" stop="20200406030000 +0200" channel="RMC Sport Live 7">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200403120000 +0200" stop="20200403150000 +0200" channel="RMC Sport Live 8">
+  <programme start="20200406030000 +0200" stop="20200406060000 +0200" channel="RMC Sport Live 7">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200403150000 +0200" stop="20200403180000 +0200" channel="RMC Sport Live 8">
+  <programme start="20200406060000 +0200" stop="20200406090000 +0200" channel="RMC Sport Live 7">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200403180000 +0200" stop="20200403210000 +0200" channel="RMC Sport Live 8">
+  <programme start="20200406090000 +0200" stop="20200406120000 +0200" channel="RMC Sport Live 7">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200403210000 +0200" stop="20200404000000 +0200" channel="RMC Sport Live 8">
+  <programme start="20200406120000 +0200" stop="20200406150000 +0200" channel="RMC Sport Live 7">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200404000000 +0200" stop="20200404030000 +0200" channel="RMC Sport Live 8">
+  <programme start="20200406150000 +0200" stop="20200406180000 +0200" channel="RMC Sport Live 7">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200404030000 +0200" stop="20200404060000 +0200" channel="RMC Sport Live 8">
+  <programme start="20200406180000 +0200" stop="20200406210000 +0200" channel="RMC Sport Live 7">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
   <programme start="20200404060000 +0200" stop="20200404090000 +0200" channel="RMC Sport Live 8">
@@ -852,28 +837,28 @@
   <programme start="20200405180000 +0200" stop="20200405210000 +0200" channel="RMC Sport Live 8">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200403060000 +0200" stop="20200403090000 +0200" channel="RMC Sport Live 9">
+  <programme start="20200405210000 +0200" stop="20200406000000 +0200" channel="RMC Sport Live 8">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200403090000 +0200" stop="20200403120000 +0200" channel="RMC Sport Live 9">
+  <programme start="20200406000000 +0200" stop="20200406030000 +0200" channel="RMC Sport Live 8">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200403120000 +0200" stop="20200403150000 +0200" channel="RMC Sport Live 9">
+  <programme start="20200406030000 +0200" stop="20200406060000 +0200" channel="RMC Sport Live 8">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200403150000 +0200" stop="20200403180000 +0200" channel="RMC Sport Live 9">
+  <programme start="20200406060000 +0200" stop="20200406090000 +0200" channel="RMC Sport Live 8">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200403180000 +0200" stop="20200403210000 +0200" channel="RMC Sport Live 9">
+  <programme start="20200406090000 +0200" stop="20200406120000 +0200" channel="RMC Sport Live 8">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200403210000 +0200" stop="20200404000000 +0200" channel="RMC Sport Live 9">
+  <programme start="20200406120000 +0200" stop="20200406150000 +0200" channel="RMC Sport Live 8">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200404000000 +0200" stop="20200404030000 +0200" channel="RMC Sport Live 9">
+  <programme start="20200406150000 +0200" stop="20200406180000 +0200" channel="RMC Sport Live 8">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200404030000 +0200" stop="20200404060000 +0200" channel="RMC Sport Live 9">
+  <programme start="20200406180000 +0200" stop="20200406210000 +0200" channel="RMC Sport Live 8">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
   <programme start="20200404060000 +0200" stop="20200404090000 +0200" channel="RMC Sport Live 9">
@@ -915,28 +900,28 @@
   <programme start="20200405180000 +0200" stop="20200405210000 +0200" channel="RMC Sport Live 9">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200403060000 +0200" stop="20200403090000 +0200" channel="RMC Sport Live 10">
+  <programme start="20200405210000 +0200" stop="20200406000000 +0200" channel="RMC Sport Live 9">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200403090000 +0200" stop="20200403120000 +0200" channel="RMC Sport Live 10">
+  <programme start="20200406000000 +0200" stop="20200406030000 +0200" channel="RMC Sport Live 9">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200403120000 +0200" stop="20200403150000 +0200" channel="RMC Sport Live 10">
+  <programme start="20200406030000 +0200" stop="20200406060000 +0200" channel="RMC Sport Live 9">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200403150000 +0200" stop="20200403180000 +0200" channel="RMC Sport Live 10">
+  <programme start="20200406060000 +0200" stop="20200406090000 +0200" channel="RMC Sport Live 9">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200403180000 +0200" stop="20200403210000 +0200" channel="RMC Sport Live 10">
+  <programme start="20200406090000 +0200" stop="20200406120000 +0200" channel="RMC Sport Live 9">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200403210000 +0200" stop="20200404000000 +0200" channel="RMC Sport Live 10">
+  <programme start="20200406120000 +0200" stop="20200406150000 +0200" channel="RMC Sport Live 9">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200404000000 +0200" stop="20200404030000 +0200" channel="RMC Sport Live 10">
+  <programme start="20200406150000 +0200" stop="20200406180000 +0200" channel="RMC Sport Live 9">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200404030000 +0200" stop="20200404060000 +0200" channel="RMC Sport Live 10">
+  <programme start="20200406180000 +0200" stop="20200406210000 +0200" channel="RMC Sport Live 9">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
   <programme start="20200404060000 +0200" stop="20200404090000 +0200" channel="RMC Sport Live 10">
@@ -978,25 +963,28 @@
   <programme start="20200405180000 +0200" stop="20200405210000 +0200" channel="RMC Sport Live 10">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200403090000 +0200" stop="20200403120000 +0200" channel="RMC Sport Live 11">
+  <programme start="20200405210000 +0200" stop="20200406000000 +0200" channel="RMC Sport Live 10">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200403120000 +0200" stop="20200403150000 +0200" channel="RMC Sport Live 11">
+  <programme start="20200406000000 +0200" stop="20200406030000 +0200" channel="RMC Sport Live 10">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200403150000 +0200" stop="20200403180000 +0200" channel="RMC Sport Live 11">
+  <programme start="20200406030000 +0200" stop="20200406060000 +0200" channel="RMC Sport Live 10">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200403180000 +0200" stop="20200403210000 +0200" channel="RMC Sport Live 11">
+  <programme start="20200406060000 +0200" stop="20200406090000 +0200" channel="RMC Sport Live 10">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200403210000 +0200" stop="20200404000000 +0200" channel="RMC Sport Live 11">
+  <programme start="20200406090000 +0200" stop="20200406120000 +0200" channel="RMC Sport Live 10">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200404000000 +0200" stop="20200404030000 +0200" channel="RMC Sport Live 11">
+  <programme start="20200406120000 +0200" stop="20200406150000 +0200" channel="RMC Sport Live 10">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200404030000 +0200" stop="20200404060000 +0200" channel="RMC Sport Live 11">
+  <programme start="20200406150000 +0200" stop="20200406180000 +0200" channel="RMC Sport Live 10">
+    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
+  </programme>
+  <programme start="20200406180000 +0200" stop="20200406210000 +0200" channel="RMC Sport Live 10">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
   <programme start="20200404060000 +0200" stop="20200404090000 +0200" channel="RMC Sport Live 11">
@@ -1035,25 +1023,28 @@
   <programme start="20200405180000 +0200" stop="20200405210000 +0200" channel="RMC Sport Live 11">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200403090000 +0200" stop="20200403120000 +0200" channel="RMC Sport Live 12">
+  <programme start="20200405210000 +0200" stop="20200406000000 +0200" channel="RMC Sport Live 11">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200403120000 +0200" stop="20200403150000 +0200" channel="RMC Sport Live 12">
+  <programme start="20200406000000 +0200" stop="20200406030000 +0200" channel="RMC Sport Live 11">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200403150000 +0200" stop="20200403180000 +0200" channel="RMC Sport Live 12">
+  <programme start="20200406030000 +0200" stop="20200406060000 +0200" channel="RMC Sport Live 11">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200403180000 +0200" stop="20200403210000 +0200" channel="RMC Sport Live 12">
+  <programme start="20200406060000 +0200" stop="20200406090000 +0200" channel="RMC Sport Live 11">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200403210000 +0200" stop="20200404000000 +0200" channel="RMC Sport Live 12">
+  <programme start="20200406090000 +0200" stop="20200406120000 +0200" channel="RMC Sport Live 11">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200404000000 +0200" stop="20200404030000 +0200" channel="RMC Sport Live 12">
+  <programme start="20200406120000 +0200" stop="20200406150000 +0200" channel="RMC Sport Live 11">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200404030000 +0200" stop="20200404060000 +0200" channel="RMC Sport Live 12">
+  <programme start="20200406150000 +0200" stop="20200406180000 +0200" channel="RMC Sport Live 11">
+    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
+  </programme>
+  <programme start="20200406180000 +0200" stop="20200406210000 +0200" channel="RMC Sport Live 11">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
   <programme start="20200404060000 +0200" stop="20200404090000 +0200" channel="RMC Sport Live 12">
@@ -1092,25 +1083,28 @@
   <programme start="20200405180000 +0200" stop="20200405210000 +0200" channel="RMC Sport Live 12">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200403090000 +0200" stop="20200403120000 +0200" channel="RMC Sport Live 13">
+  <programme start="20200405210000 +0200" stop="20200406000000 +0200" channel="RMC Sport Live 12">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200403120000 +0200" stop="20200403150000 +0200" channel="RMC Sport Live 13">
+  <programme start="20200406000000 +0200" stop="20200406030000 +0200" channel="RMC Sport Live 12">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200403150000 +0200" stop="20200403180000 +0200" channel="RMC Sport Live 13">
+  <programme start="20200406030000 +0200" stop="20200406060000 +0200" channel="RMC Sport Live 12">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200403180000 +0200" stop="20200403210000 +0200" channel="RMC Sport Live 13">
+  <programme start="20200406060000 +0200" stop="20200406090000 +0200" channel="RMC Sport Live 12">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200403210000 +0200" stop="20200404000000 +0200" channel="RMC Sport Live 13">
+  <programme start="20200406090000 +0200" stop="20200406120000 +0200" channel="RMC Sport Live 12">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200404000000 +0200" stop="20200404030000 +0200" channel="RMC Sport Live 13">
+  <programme start="20200406120000 +0200" stop="20200406150000 +0200" channel="RMC Sport Live 12">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200404030000 +0200" stop="20200404060000 +0200" channel="RMC Sport Live 13">
+  <programme start="20200406150000 +0200" stop="20200406180000 +0200" channel="RMC Sport Live 12">
+    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
+  </programme>
+  <programme start="20200406180000 +0200" stop="20200406210000 +0200" channel="RMC Sport Live 12">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
   <programme start="20200404060000 +0200" stop="20200404090000 +0200" channel="RMC Sport Live 13">
@@ -1149,25 +1143,28 @@
   <programme start="20200405180000 +0200" stop="20200405210000 +0200" channel="RMC Sport Live 13">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200403090000 +0200" stop="20200403120000 +0200" channel="RMC Sport Live 14">
+  <programme start="20200405210000 +0200" stop="20200406000000 +0200" channel="RMC Sport Live 13">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200403120000 +0200" stop="20200403150000 +0200" channel="RMC Sport Live 14">
+  <programme start="20200406000000 +0200" stop="20200406030000 +0200" channel="RMC Sport Live 13">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200403150000 +0200" stop="20200403180000 +0200" channel="RMC Sport Live 14">
+  <programme start="20200406030000 +0200" stop="20200406060000 +0200" channel="RMC Sport Live 13">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200403180000 +0200" stop="20200403210000 +0200" channel="RMC Sport Live 14">
+  <programme start="20200406060000 +0200" stop="20200406090000 +0200" channel="RMC Sport Live 13">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200403210000 +0200" stop="20200404000000 +0200" channel="RMC Sport Live 14">
+  <programme start="20200406090000 +0200" stop="20200406120000 +0200" channel="RMC Sport Live 13">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200404000000 +0200" stop="20200404030000 +0200" channel="RMC Sport Live 14">
+  <programme start="20200406120000 +0200" stop="20200406150000 +0200" channel="RMC Sport Live 13">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200404030000 +0200" stop="20200404060000 +0200" channel="RMC Sport Live 14">
+  <programme start="20200406150000 +0200" stop="20200406180000 +0200" channel="RMC Sport Live 13">
+    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
+  </programme>
+  <programme start="20200406180000 +0200" stop="20200406210000 +0200" channel="RMC Sport Live 13">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
   <programme start="20200404060000 +0200" stop="20200404090000 +0200" channel="RMC Sport Live 14">
@@ -1206,28 +1203,28 @@
   <programme start="20200405180000 +0200" stop="20200405210000 +0200" channel="RMC Sport Live 14">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200403060000 +0200" stop="20200403090000 +0200" channel="RMC Sport Live 15">
+  <programme start="20200405210000 +0200" stop="20200406000000 +0200" channel="RMC Sport Live 14">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200403090000 +0200" stop="20200403120000 +0200" channel="RMC Sport Live 15">
+  <programme start="20200406000000 +0200" stop="20200406030000 +0200" channel="RMC Sport Live 14">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200403120000 +0200" stop="20200403150000 +0200" channel="RMC Sport Live 15">
+  <programme start="20200406030000 +0200" stop="20200406060000 +0200" channel="RMC Sport Live 14">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200403150000 +0200" stop="20200403180000 +0200" channel="RMC Sport Live 15">
+  <programme start="20200406060000 +0200" stop="20200406090000 +0200" channel="RMC Sport Live 14">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200403180000 +0200" stop="20200403210000 +0200" channel="RMC Sport Live 15">
+  <programme start="20200406090000 +0200" stop="20200406120000 +0200" channel="RMC Sport Live 14">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200403210000 +0200" stop="20200404000000 +0200" channel="RMC Sport Live 15">
+  <programme start="20200406120000 +0200" stop="20200406150000 +0200" channel="RMC Sport Live 14">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200404000000 +0200" stop="20200404030000 +0200" channel="RMC Sport Live 15">
+  <programme start="20200406150000 +0200" stop="20200406180000 +0200" channel="RMC Sport Live 14">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200404030000 +0200" stop="20200404060000 +0200" channel="RMC Sport Live 15">
+  <programme start="20200406180000 +0200" stop="20200406210000 +0200" channel="RMC Sport Live 14">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
   <programme start="20200404060000 +0200" stop="20200404090000 +0200" channel="RMC Sport Live 15">
@@ -1266,28 +1263,28 @@
   <programme start="20200405180000 +0200" stop="20200405210000 +0200" channel="RMC Sport Live 15">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200403060000 +0200" stop="20200403090000 +0200" channel="RMC Sport Live 16">
+  <programme start="20200405210000 +0200" stop="20200406000000 +0200" channel="RMC Sport Live 15">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200403090000 +0200" stop="20200403120000 +0200" channel="RMC Sport Live 16">
+  <programme start="20200406000000 +0200" stop="20200406030000 +0200" channel="RMC Sport Live 15">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200403120000 +0200" stop="20200403150000 +0200" channel="RMC Sport Live 16">
+  <programme start="20200406030000 +0200" stop="20200406060000 +0200" channel="RMC Sport Live 15">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200403150000 +0200" stop="20200403180000 +0200" channel="RMC Sport Live 16">
+  <programme start="20200406060000 +0200" stop="20200406090000 +0200" channel="RMC Sport Live 15">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200403180000 +0200" stop="20200403210000 +0200" channel="RMC Sport Live 16">
+  <programme start="20200406090000 +0200" stop="20200406120000 +0200" channel="RMC Sport Live 15">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200403210000 +0200" stop="20200404000000 +0200" channel="RMC Sport Live 16">
+  <programme start="20200406120000 +0200" stop="20200406150000 +0200" channel="RMC Sport Live 15">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200404000000 +0200" stop="20200404030000 +0200" channel="RMC Sport Live 16">
+  <programme start="20200406150000 +0200" stop="20200406180000 +0200" channel="RMC Sport Live 15">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200404030000 +0200" stop="20200404060000 +0200" channel="RMC Sport Live 16">
+  <programme start="20200406180000 +0200" stop="20200406210000 +0200" channel="RMC Sport Live 15">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
   <programme start="20200404060000 +0200" stop="20200404090000 +0200" channel="RMC Sport Live 16">
@@ -1326,158 +1323,29 @@
   <programme start="20200405180000 +0200" stop="20200405210000 +0200" channel="RMC Sport Live 16">
     <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200403004000 +0200" stop="20200403011000 +0200" channel="France 3 Corse Via Stella">
-    <title lang="fr">Sapientoni</title>
+  <programme start="20200405210000 +0200" stop="20200406000000 +0200" channel="RMC Sport Live 16">
+    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200403011000 +0200" stop="20200403011500 +0200" channel="France 3 Corse Via Stella">
-    <title lang="fr">Météo</title>
+  <programme start="20200406000000 +0200" stop="20200406030000 +0200" channel="RMC Sport Live 16">
+    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200403011500 +0200" stop="20200403014000 +0200" channel="France 3 Corse Via Stella">
-    <title lang="fr">Mediterraneo</title>
+  <programme start="20200406030000 +0200" stop="20200406060000 +0200" channel="RMC Sport Live 16">
+    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200403014000 +0200" stop="20200403060000 +0200" channel="France 3 Corse Via Stella">
-    <title lang="fr">Programmes de la nuit</title>
+  <programme start="20200406060000 +0200" stop="20200406090000 +0200" channel="RMC Sport Live 16">
+    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200403060000 +0200" stop="20200403070000 +0200" channel="France 3 Corse Via Stella">
-    <title lang="fr">franceinfo: et tout est plus clair</title>
+  <programme start="20200406090000 +0200" stop="20200406120000 +0200" channel="RMC Sport Live 16">
+    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200403070000 +0200" stop="20200403085500 +0200" channel="France 3 Corse Via Stella">
-    <title lang="fr">Programme jeunesse</title>
+  <programme start="20200406120000 +0200" stop="20200406150000 +0200" channel="RMC Sport Live 16">
+    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200403085500 +0200" stop="20200403090000 +0200" channel="France 3 Corse Via Stella">
-    <title lang="fr">Opera Casana</title>
+  <programme start="20200406150000 +0200" stop="20200406180000 +0200" channel="RMC Sport Live 16">
+    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
-  <programme start="20200403090000 +0200" stop="20200403092500 +0200" channel="France 3 Corse Via Stella">
-    <title lang="fr">Un jour en région</title>
-  </programme>
-  <programme start="20200403092500 +0200" stop="20200403094000 +0200" channel="France 3 Corse Via Stella">
-    <title lang="fr">Hôtel Paradisula</title>
-  </programme>
-  <programme start="20200403094000 +0200" stop="20200403095500 +0200" channel="France 3 Corse Via Stella">
-    <title lang="fr">Hôtel Paradisula</title>
-  </programme>
-  <programme start="20200403095500 +0200" stop="20200403102000 +0200" channel="France 3 Corse Via Stella">
-    <title lang="fr">Plus belle la vie</title>
-  </programme>
-  <programme start="20200403102000 +0200" stop="20200403105000 +0200" channel="France 3 Corse Via Stella">
-    <title lang="fr">Plus belle la vie</title>
-  </programme>
-  <programme start="20200403105000 +0200" stop="20200403111500 +0200" channel="France 3 Corse Via Stella">
-    <title lang="fr">Un jour en région</title>
-  </programme>
-  <programme start="20200403111500 +0200" stop="20200403114500 +0200" channel="France 3 Corse Via Stella">
-    <title lang="fr">Sapientoni</title>
-  </programme>
-  <programme start="20200403114500 +0200" stop="20200403115000 +0200" channel="France 3 Corse Via Stella">
-    <title lang="fr">Météo</title>
-  </programme>
-  <programme start="20200403115000 +0200" stop="20200403120000 +0200" channel="France 3 Corse Via Stella">
-    <title lang="fr">Opera Casana</title>
-  </programme>
-  <programme start="20200403120000 +0200" stop="20200403121000 +0200" channel="France 3 Corse Via Stella">
-    <title lang="fr">Corsica Prima</title>
-  </programme>
-  <programme start="20200403121000 +0200" stop="20200403122000 +0200" channel="France 3 Corse Via Stella">
-    <title lang="fr">Les recettes de «Mon grain de sel</title>
-  </programme>
-  <programme start="20200403122000 +0200" stop="20200403122500 +0200" channel="France 3 Corse Via Stella">
-    <title lang="fr">Météo</title>
-  </programme>
-  <programme start="20200403122500 +0200" stop="20200403125000 +0200" channel="France 3 Corse Via Stella">
-    <title lang="fr">12/13 : Journal national</title>
-  </programme>
-  <programme start="20200403125000 +0200" stop="20200403125500 +0200" channel="France 3 Corse Via Stella">
-    <title lang="fr">Météo</title>
-  </programme>
-  <programme start="20200403125500 +0200" stop="20200403130000 +0200" channel="France 3 Corse Via Stella">
-    <title lang="fr">Appelamanu</title>
-  </programme>
-  <programme start="20200403130000 +0200" stop="20200403132000 +0200" channel="France 3 Corse Via Stella">
-    <title lang="fr">Lume è sapè fà</title>
-  </programme>
-  <programme start="20200403132000 +0200" stop="20200403132500 +0200" channel="France 3 Corse Via Stella">
-    <title lang="fr">Clin d'oeil</title>
-  </programme>
-  <programme start="20200403132500 +0200" stop="20200403135500 +0200" channel="France 3 Corse Via Stella">
-    <title lang="fr">26 minutes en Méditerranée</title>
-  </programme>
-  <programme start="20200403135500 +0200" stop="20200403140500 +0200" channel="France 3 Corse Via Stella">
-    <title lang="fr">Corsica Prima</title>
-  </programme>
-  <programme start="20200403140500 +0200" stop="20200403141000 +0200" channel="France 3 Corse Via Stella">
-    <title lang="fr">Météo</title>
-  </programme>
-  <programme start="20200403141000 +0200" stop="20200403143500 +0200" channel="France 3 Corse Via Stella">
-    <title lang="fr">Un si grand soleil</title>
-  </programme>
-  <programme start="20200403143500 +0200" stop="20200403150500 +0200" channel="France 3 Corse Via Stella">
-    <title lang="fr">Un si grand soleil</title>
-  </programme>
-  <programme start="20200403150500 +0200" stop="20200403160000 +0200" channel="France 3 Corse Via Stella">
-    <title lang="fr">Fora di strada</title>
-  </programme>
-  <programme start="20200403160000 +0200" stop="20200403165500 +0200" channel="France 3 Corse Via Stella">
-    <title lang="fr">Génération Méditerranée</title>
-  </programme>
-  <programme start="20200403165500 +0200" stop="20200403175000 +0200" channel="France 3 Corse Via Stella">
-    <title lang="fr">Un jour en Méditerranée</title>
-  </programme>
-  <programme start="20200403175000 +0200" stop="20200403181500 +0200" channel="France 3 Corse Via Stella">
-    <title lang="fr">Les petits secrets des grands tableaux</title>
-  </programme>
-  <programme start="20200403181500 +0200" stop="20200403184500 +0200" channel="France 3 Corse Via Stella">
-    <title lang="fr">Sapientoni</title>
-  </programme>
-  <programme start="20200403184500 +0200" stop="20200403185000 +0200" channel="France 3 Corse Via Stella">
-    <title lang="fr">Météo</title>
-  </programme>
-  <programme start="20200403185000 +0200" stop="20200403190000 +0200" channel="France 3 Corse Via Stella">
-    <title lang="fr">Med in Arte</title>
-  </programme>
-  <programme start="20200403190000 +0200" stop="20200403192500 +0200" channel="France 3 Corse Via Stella">
-    <title lang="fr">Corsica Sera</title>
-  </programme>
-  <programme start="20200403192500 +0200" stop="20200403193000 +0200" channel="France 3 Corse Via Stella">
-    <title lang="fr">Météo</title>
-  </programme>
-  <programme start="20200403193000 +0200" stop="20200403195500 +0200" channel="France 3 Corse Via Stella">
-    <title lang="fr">19/20 : Journal national</title>
-  </programme>
-  <programme start="20200403195500 +0200" stop="20200403200000 +0200" channel="France 3 Corse Via Stella">
-    <title lang="fr">Météo</title>
-  </programme>
-  <programme start="20200403200000 +0200" stop="20200403201000 +0200" channel="France 3 Corse Via Stella">
-    <title lang="fr">Lume è sapè fà</title>
-  </programme>
-  <programme start="20200403201000 +0200" stop="20200403204000 +0200" channel="France 3 Corse Via Stella">
-    <title lang="fr">Mediterraneo</title>
-  </programme>
-  <programme start="20200403204000 +0200" stop="20200403204500 +0200" channel="France 3 Corse Via Stella">
-    <title lang="fr">Musica Live</title>
-  </programme>
-  <programme start="20200403204500 +0200" stop="20200403214500 +0200" channel="France 3 Corse Via Stella">
-    <title lang="fr">Corsi-Americani</title>
-  </programme>
-  <programme start="20200403214500 +0200" stop="20200403224000 +0200" channel="France 3 Corse Via Stella">
-    <title lang="fr">Leone Logar</title>
-  </programme>
-  <programme start="20200403224000 +0200" stop="20200403231000 +0200" channel="France 3 Corse Via Stella">
-    <title lang="fr">Corsica Sera</title>
-  </programme>
-  <programme start="20200403231000 +0200" stop="20200403231500 +0200" channel="France 3 Corse Via Stella">
-    <title lang="fr">Météo</title>
-  </programme>
-  <programme start="20200403231500 +0200" stop="20200403234500 +0200" channel="France 3 Corse Via Stella">
-    <title lang="fr">Mediterraneo OU Le grand entretien</title>
-  </programme>
-  <programme start="20200403234500 +0200" stop="20200404001000 +0200" channel="France 3 Corse Via Stella">
-    <title lang="fr">Maghreb-Orient Express</title>
-  </programme>
-  <programme start="20200404001000 +0200" stop="20200404004000 +0200" channel="France 3 Corse Via Stella">
-    <title lang="fr">Sapientoni</title>
-  </programme>
-  <programme start="20200404004000 +0200" stop="20200404004500 +0200" channel="France 3 Corse Via Stella">
-    <title lang="fr">Météo</title>
+  <programme start="20200406180000 +0200" stop="20200406210000 +0200" channel="RMC Sport Live 16">
+    <title lang="fr">Chaîne événementielle pour suivre tous les matches en direct</title>
   </programme>
   <programme start="20200404004500 +0200" stop="20200404010000 +0200" channel="France 3 Corse Via Stella">
     <title lang="fr">Documentaire</title>
@@ -1734,119 +1602,152 @@
   <programme start="20200405225500 +0200" stop="20200405230000 +0200" channel="France 3 Corse Via Stella">
     <title lang="fr">Météo</title>
   </programme>
-  <programme start="20200403010000 +0200" stop="20200403020000 +0200" channel="Al Jazeera English">
-    <title lang="fr">Newshour</title>
+  <programme start="20200405230000 +0200" stop="20200406004000 +0200" channel="France 3 Corse Via Stella">
+    <title lang="fr">Cela s'appelle l'aurore</title>
   </programme>
-  <programme start="20200403020000 +0200" stop="20200403023000 +0200" channel="Al Jazeera English">
-    <title lang="fr">News Live</title>
+  <programme start="20200406004000 +0200" stop="20200406014000 +0200" channel="France 3 Corse Via Stella">
+    <title lang="fr">A Veghja</title>
   </programme>
-  <programme start="20200403023000 +0200" stop="20200403030000 +0200" channel="Al Jazeera English">
-    <title lang="fr">Inside Story</title>
+  <programme start="20200406014000 +0200" stop="20200406060000 +0200" channel="France 3 Corse Via Stella">
+    <title lang="fr">Programmes de la nuit</title>
   </programme>
-  <programme start="20200403030000 +0200" stop="20200403040000 +0200" channel="Al Jazeera English">
-    <title lang="fr">Witness</title>
+  <programme start="20200406060000 +0200" stop="20200406070000 +0200" channel="France 3 Corse Via Stella">
+    <title lang="fr">franceinfo: et tout est plus clair</title>
   </programme>
-  <programme start="20200403040000 +0200" stop="20200403043000 +0200" channel="Al Jazeera English">
-    <title lang="fr">Newshour</title>
+  <programme start="20200406070000 +0200" stop="20200406085500 +0200" channel="France 3 Corse Via Stella">
+    <title lang="fr">Programme jeunesse</title>
   </programme>
-  <programme start="20200403043000 +0200" stop="20200403050000 +0200" channel="Al Jazeera English">
-    <title lang="fr">The Bottom Line</title>
+  <programme start="20200406085500 +0200" stop="20200406090000 +0200" channel="France 3 Corse Via Stella">
+    <title lang="fr">Les chemins de D'Umani</title>
   </programme>
-  <programme start="20200403050000 +0200" stop="20200403053000 +0200" channel="Al Jazeera English">
-    <title lang="fr">News Live</title>
+  <programme start="20200406090000 +0200" stop="20200406092500 +0200" channel="France 3 Corse Via Stella">
+    <title lang="fr">Un jour en région</title>
   </programme>
-  <programme start="20200403053000 +0200" stop="20200403060000 +0200" channel="Al Jazeera English">
-    <title lang="fr">People and Power</title>
+  <programme start="20200406092500 +0200" stop="20200406094000 +0200" channel="France 3 Corse Via Stella">
+    <title lang="fr">Hôtel Paradisula</title>
   </programme>
-  <programme start="20200403060000 +0200" stop="20200403063000 +0200" channel="Al Jazeera English">
-    <title lang="fr">News Live</title>
+  <programme start="20200406094000 +0200" stop="20200406095500 +0200" channel="France 3 Corse Via Stella">
+    <title lang="fr">Hôtel Paradisula</title>
   </programme>
-  <programme start="20200403063000 +0200" stop="20200403070000 +0200" channel="Al Jazeera English">
-    <title lang="fr">The Stream</title>
+  <programme start="20200406095500 +0200" stop="20200406102000 +0200" channel="France 3 Corse Via Stella">
+    <title lang="fr">Plus belle la vie</title>
   </programme>
-  <programme start="20200403070000 +0200" stop="20200403073000 +0200" channel="Al Jazeera English">
-    <title lang="fr">News Live</title>
+  <programme start="20200406102000 +0200" stop="20200406105000 +0200" channel="France 3 Corse Via Stella">
+    <title lang="fr">Plus belle la vie</title>
   </programme>
-  <programme start="20200403073000 +0200" stop="20200403080000 +0200" channel="Al Jazeera English">
-    <title lang="fr">Walls of Shame</title>
+  <programme start="20200406105000 +0200" stop="20200406111500 +0200" channel="France 3 Corse Via Stella">
+    <title lang="fr">Un jour en région</title>
   </programme>
-  <programme start="20200403080000 +0200" stop="20200403090000 +0200" channel="Al Jazeera English">
-    <title lang="fr">Al Jazeera World</title>
+  <programme start="20200406111500 +0200" stop="20200406114500 +0200" channel="France 3 Corse Via Stella">
+    <title lang="fr">Sapientoni</title>
   </programme>
-  <programme start="20200403090000 +0200" stop="20200403093000 +0200" channel="Al Jazeera English">
-    <title lang="fr">News Live</title>
+  <programme start="20200406114500 +0200" stop="20200406115000 +0200" channel="France 3 Corse Via Stella">
+    <title lang="fr">Météo</title>
   </programme>
-  <programme start="20200403093000 +0200" stop="20200403100000 +0200" channel="Al Jazeera English">
-    <title lang="fr">Inside Story</title>
+  <programme start="20200406115000 +0200" stop="20200406120000 +0200" channel="France 3 Corse Via Stella">
+    <title lang="fr">Opera Casana</title>
   </programme>
-  <programme start="20200403100000 +0200" stop="20200403103000 +0200" channel="Al Jazeera English">
-    <title lang="fr">News Live</title>
+  <programme start="20200406120000 +0200" stop="20200406120500 +0200" channel="France 3 Corse Via Stella">
+    <title lang="fr">Corsica Prima</title>
   </programme>
-  <programme start="20200403103000 +0200" stop="20200403110000 +0200" channel="Al Jazeera English">
-    <title lang="fr">The Stream</title>
+  <programme start="20200406120500 +0200" stop="20200406121000 +0200" channel="France 3 Corse Via Stella">
+    <title lang="fr">Météo</title>
   </programme>
-  <programme start="20200403110000 +0200" stop="20200403113000 +0200" channel="Al Jazeera English">
-    <title lang="fr">News Live</title>
+  <programme start="20200406121000 +0200" stop="20200406122000 +0200" channel="France 3 Corse Via Stella">
+    <title lang="fr">Les recettes de «Mon grain de sel</title>
   </programme>
-  <programme start="20200403113000 +0200" stop="20200403120000 +0200" channel="Al Jazeera English">
-    <title lang="fr">101 East</title>
+  <programme start="20200406122000 +0200" stop="20200406122500 +0200" channel="France 3 Corse Via Stella">
+    <title lang="fr">Météo</title>
   </programme>
-  <programme start="20200403120000 +0200" stop="20200403130000 +0200" channel="Al Jazeera English">
-    <title lang="fr">Newshour</title>
+  <programme start="20200406122500 +0200" stop="20200406125000 +0200" channel="France 3 Corse Via Stella">
+    <title lang="fr">12/13 : Journal national</title>
   </programme>
-  <programme start="20200403130000 +0200" stop="20200403133000 +0200" channel="Al Jazeera English">
-    <title lang="fr">News Live</title>
+  <programme start="20200406125000 +0200" stop="20200406125500 +0200" channel="France 3 Corse Via Stella">
+    <title lang="fr">Météo méditerranéenne</title>
   </programme>
-  <programme start="20200403133000 +0200" stop="20200403140000 +0200" channel="Al Jazeera English">
-    <title lang="fr">Inside Story</title>
+  <programme start="20200406125500 +0200" stop="20200406130000 +0200" channel="France 3 Corse Via Stella">
+    <title lang="fr">Clin d'oeil</title>
   </programme>
-  <programme start="20200403140000 +0200" stop="20200403150000 +0200" channel="Al Jazeera English">
-    <title lang="fr">Tell The World</title>
+  <programme start="20200406130000 +0200" stop="20200406130500 +0200" channel="France 3 Corse Via Stella">
+    <title lang="fr">Corsica Prima</title>
   </programme>
-  <programme start="20200403150000 +0200" stop="20200403160000 +0200" channel="Al Jazeera English">
-    <title lang="fr">Newshour</title>
+  <programme start="20200406130500 +0200" stop="20200406132000 +0200" channel="France 3 Corse Via Stella">
+    <title lang="fr">Lume è sapè fà</title>
   </programme>
-  <programme start="20200403160000 +0200" stop="20200403163000 +0200" channel="Al Jazeera English">
-    <title lang="fr">News Live</title>
+  <programme start="20200406132000 +0200" stop="20200406132500 +0200" channel="France 3 Corse Via Stella">
+    <title lang="fr">Opera Casana</title>
   </programme>
-  <programme start="20200403163000 +0200" stop="20200403170000 +0200" channel="Al Jazeera English">
-    <title lang="fr">The Stream</title>
+  <programme start="20200406132500 +0200" stop="20200406135500 +0200" channel="France 3 Corse Via Stella">
+    <title lang="fr">Agora</title>
   </programme>
-  <programme start="20200403170000 +0200" stop="20200403180000 +0200" channel="Al Jazeera English">
-    <title lang="fr">Newshour</title>
+  <programme start="20200406135500 +0200" stop="20200406140500 +0200" channel="France 3 Corse Via Stella">
+    <title lang="fr">Corsica Prima</title>
   </programme>
-  <programme start="20200403180000 +0200" stop="20200403183000 +0200" channel="Al Jazeera English">
-    <title lang="fr">News Live</title>
+  <programme start="20200406140500 +0200" stop="20200406141000 +0200" channel="France 3 Corse Via Stella">
+    <title lang="fr">Météo</title>
   </programme>
-  <programme start="20200403183000 +0200" stop="20200403190000 +0200" channel="Al Jazeera English">
-    <title lang="fr">My Cuba</title>
+  <programme start="20200406141000 +0200" stop="20200406144000 +0200" channel="France 3 Corse Via Stella">
+    <title lang="fr">Un si grand soleil</title>
   </programme>
-  <programme start="20200403190000 +0200" stop="20200403193000 +0200" channel="Al Jazeera English">
-    <title lang="fr">News Live</title>
+  <programme start="20200406144000 +0200" stop="20200406150000 +0200" channel="France 3 Corse Via Stella">
+    <title lang="fr">Un si grand soleil</title>
   </programme>
-  <programme start="20200403193000 +0200" stop="20200403200000 +0200" channel="Al Jazeera English">
-    <title lang="fr">Inside Story</title>
+  <programme start="20200406150000 +0200" stop="20200406150500 +0200" channel="France 3 Corse Via Stella">
+    <title lang="fr">Corsica Prima</title>
   </programme>
-  <programme start="20200403200000 +0200" stop="20200403210000 +0200" channel="Al Jazeera English">
-    <title lang="fr">Newshour</title>
+  <programme start="20200406150500 +0200" stop="20200406160000 +0200" channel="France 3 Corse Via Stella">
+    <title lang="fr">Fora di strada</title>
   </programme>
-  <programme start="20200403210000 +0200" stop="20200403213000 +0200" channel="Al Jazeera English">
-    <title lang="fr">News Live</title>
+  <programme start="20200406160000 +0200" stop="20200406165500 +0200" channel="France 3 Corse Via Stella">
+    <title lang="fr">Documentaire</title>
   </programme>
-  <programme start="20200403213000 +0200" stop="20200403220000 +0200" channel="Al Jazeera English">
-    <title lang="fr">UpFront</title>
+  <programme start="20200406165500 +0200" stop="20200406175000 +0200" channel="France 3 Corse Via Stella">
+    <title lang="fr">Documentaire</title>
   </programme>
-  <programme start="20200403220000 +0200" stop="20200403230000 +0200" channel="Al Jazeera English">
-    <title lang="fr">Studio B : Unscripted</title>
+  <programme start="20200406175000 +0200" stop="20200406181500 +0200" channel="France 3 Corse Via Stella">
+    <title lang="fr">Fora di strada</title>
   </programme>
-  <programme start="20200403230000 +0200" stop="20200404000000 +0200" channel="Al Jazeera English">
-    <title lang="fr">Newshour</title>
+  <programme start="20200406181500 +0200" stop="20200406184500 +0200" channel="France 3 Corse Via Stella">
+    <title lang="fr">Sapientoni</title>
   </programme>
-  <programme start="20200404000000 +0200" stop="20200404003000 +0200" channel="Al Jazeera English">
-    <title lang="fr">News Live</title>
+  <programme start="20200406184500 +0200" stop="20200406185000 +0200" channel="France 3 Corse Via Stella">
+    <title lang="fr">Météo</title>
   </programme>
-  <programme start="20200404003000 +0200" stop="20200404010000 +0200" channel="Al Jazeera English">
-    <title lang="fr">Counting the Cost</title>
+  <programme start="20200406185000 +0200" stop="20200406190000 +0200" channel="France 3 Corse Via Stella">
+    <title lang="fr">Med in Arte</title>
+  </programme>
+  <programme start="20200406190000 +0200" stop="20200406192500 +0200" channel="France 3 Corse Via Stella">
+    <title lang="fr">Corsica Sera</title>
+  </programme>
+  <programme start="20200406192500 +0200" stop="20200406193000 +0200" channel="France 3 Corse Via Stella">
+    <title lang="fr">Météo</title>
+  </programme>
+  <programme start="20200406193000 +0200" stop="20200406195500 +0200" channel="France 3 Corse Via Stella">
+    <title lang="fr">19/20 : Journal national</title>
+  </programme>
+  <programme start="20200406195500 +0200" stop="20200406200000 +0200" channel="France 3 Corse Via Stella">
+    <title lang="fr">Météo</title>
+  </programme>
+  <programme start="20200406200000 +0200" stop="20200406201000 +0200" channel="France 3 Corse Via Stella">
+    <title lang="fr">Lume è sapè fà</title>
+  </programme>
+  <programme start="20200406201000 +0200" stop="20200406204000 +0200" channel="France 3 Corse Via Stella">
+    <title lang="fr">Mediterraneo</title>
+  </programme>
+  <programme start="20200406204000 +0200" stop="20200406204500 +0200" channel="France 3 Corse Via Stella">
+    <title lang="fr">Les chemins de D'Umani</title>
+  </programme>
+  <programme start="20200406204500 +0200" stop="20200406214000 +0200" channel="France 3 Corse Via Stella">
+    <title lang="fr">Les gangsters et la République</title>
+  </programme>
+  <programme start="20200406214000 +0200" stop="20200406224000 +0200" channel="France 3 Corse Via Stella">
+    <title lang="fr">Aristote Onassis</title>
+  </programme>
+  <programme start="20200406224000 +0200" stop="20200406230000 +0200" channel="France 3 Corse Via Stella">
+    <title lang="fr">Corsica Sera</title>
+  </programme>
+  <programme start="20200406230000 +0200" stop="20200406230500 +0200" channel="France 3 Corse Via Stella">
+    <title lang="fr">Météo</title>
   </programme>
   <programme start="20200404010000 +0200" stop="20200404020000 +0200" channel="Al Jazeera English">
     <title lang="fr">Newshour</title>
@@ -2060,5 +1961,116 @@
   </programme>
   <programme start="20200405220000 +0200" stop="20200405230000 +0200" channel="Al Jazeera English">
     <title lang="fr">Unfair Game</title>
+  </programme>
+  <programme start="20200405230000 +0200" stop="20200406000000 +0200" channel="Al Jazeera English">
+    <title lang="fr">Newshour</title>
+  </programme>
+  <programme start="20200406000000 +0200" stop="20200406003000 +0200" channel="Al Jazeera English">
+    <title lang="fr">News Live</title>
+  </programme>
+  <programme start="20200406003000 +0200" stop="20200406010000 +0200" channel="Al Jazeera English">
+    <title lang="fr">Witness</title>
+  </programme>
+  <programme start="20200406010000 +0200" stop="20200406020000 +0200" channel="Al Jazeera English">
+    <title lang="fr">Newshour</title>
+  </programme>
+  <programme start="20200406020000 +0200" stop="20200406023000 +0200" channel="Al Jazeera English">
+    <title lang="fr">News Live</title>
+  </programme>
+  <programme start="20200406023000 +0200" stop="20200406030000 +0200" channel="Al Jazeera English">
+    <title lang="fr">Inside Story</title>
+  </programme>
+  <programme start="20200406030000 +0200" stop="20200406040000 +0200" channel="Al Jazeera English">
+    <title lang="fr">Al Jazeera World</title>
+  </programme>
+  <programme start="20200406040000 +0200" stop="20200406050000 +0200" channel="Al Jazeera English">
+    <title lang="fr">Newshour</title>
+  </programme>
+  <programme start="20200406050000 +0200" stop="20200406053000 +0200" channel="Al Jazeera English">
+    <title lang="fr">News Live</title>
+  </programme>
+  <programme start="20200406053000 +0200" stop="20200406060000 +0200" channel="Al Jazeera English">
+    <title lang="fr">Rewind</title>
+  </programme>
+  <programme start="20200406060000 +0200" stop="20200406063000 +0200" channel="Al Jazeera English">
+    <title lang="fr">News Live</title>
+  </programme>
+  <programme start="20200406063000 +0200" stop="20200406070000 +0200" channel="Al Jazeera English">
+    <title lang="fr">The Listening Post</title>
+  </programme>
+  <programme start="20200406070000 +0200" stop="20200406073000 +0200" channel="Al Jazeera English">
+    <title lang="fr">News Live</title>
+  </programme>
+  <programme start="20200406073000 +0200" stop="20200406080000 +0200" channel="Al Jazeera English">
+    <title lang="fr">101 East</title>
+  </programme>
+  <programme start="20200406080000 +0200" stop="20200406090000 +0200" channel="Al Jazeera English">
+    <title lang="fr">Studio B : Unscripted</title>
+  </programme>
+  <programme start="20200406090000 +0200" stop="20200406093000 +0200" channel="Al Jazeera English">
+    <title lang="fr">News Live</title>
+  </programme>
+  <programme start="20200406093000 +0200" stop="20200406100000 +0200" channel="Al Jazeera English">
+    <title lang="fr">Inside Story</title>
+  </programme>
+  <programme start="20200406100000 +0200" stop="20200406103000 +0200" channel="Al Jazeera English">
+    <title lang="fr">News Live</title>
+  </programme>
+  <programme start="20200406103000 +0200" stop="20200406110000 +0200" channel="Al Jazeera English">
+    <title lang="fr">UpFront</title>
+  </programme>
+  <programme start="20200406110000 +0200" stop="20200406113000 +0200" channel="Al Jazeera English">
+    <title lang="fr">News Live</title>
+  </programme>
+  <programme start="20200406113000 +0200" stop="20200406120000 +0200" channel="Al Jazeera English">
+    <title lang="fr">Witness</title>
+  </programme>
+  <programme start="20200406120000 +0200" stop="20200406130000 +0200" channel="Al Jazeera English">
+    <title lang="fr">Newshour</title>
+  </programme>
+  <programme start="20200406130000 +0200" stop="20200406133000 +0200" channel="Al Jazeera English">
+    <title lang="fr">News Live</title>
+  </programme>
+  <programme start="20200406133000 +0200" stop="20200406140000 +0200" channel="Al Jazeera English">
+    <title lang="fr">Inside Story</title>
+  </programme>
+  <programme start="20200406140000 +0200" stop="20200406150000 +0200" channel="Al Jazeera English">
+    <title lang="fr">Unfair Game</title>
+  </programme>
+  <programme start="20200406150000 +0200" stop="20200406160000 +0200" channel="Al Jazeera English">
+    <title lang="fr">Newshour</title>
+  </programme>
+  <programme start="20200406160000 +0200" stop="20200406163000 +0200" channel="Al Jazeera English">
+    <title lang="fr">News Live</title>
+  </programme>
+  <programme start="20200406163000 +0200" stop="20200406170000 +0200" channel="Al Jazeera English">
+    <title lang="fr">Talk to Al Jazeera</title>
+  </programme>
+  <programme start="20200406170000 +0200" stop="20200406180000 +0200" channel="Al Jazeera English">
+    <title lang="fr">Newshour</title>
+  </programme>
+  <programme start="20200406180000 +0200" stop="20200406183000 +0200" channel="Al Jazeera English">
+    <title lang="fr">News Live</title>
+  </programme>
+  <programme start="20200406183000 +0200" stop="20200406190000 +0200" channel="Al Jazeera English">
+    <title lang="fr">Counting the Cost</title>
+  </programme>
+  <programme start="20200406190000 +0200" stop="20200406193000 +0200" channel="Al Jazeera English">
+    <title lang="fr">News Live</title>
+  </programme>
+  <programme start="20200406193000 +0200" stop="20200406200000 +0200" channel="Al Jazeera English">
+    <title lang="fr">Inside Story</title>
+  </programme>
+  <programme start="20200406200000 +0200" stop="20200406210000 +0200" channel="Al Jazeera English">
+    <title lang="fr">Newshour</title>
+  </programme>
+  <programme start="20200406210000 +0200" stop="20200406213000 +0200" channel="Al Jazeera English">
+    <title lang="fr">News Live</title>
+  </programme>
+  <programme start="20200406213000 +0200" stop="20200406220000 +0200" channel="Al Jazeera English">
+    <title lang="fr">The Stream</title>
+  </programme>
+  <programme start="20200406220000 +0200" stop="20200406230000 +0200" channel="Al Jazeera English">
+    <title lang="fr">Tell The World</title>
   </programme>
 </tv>
