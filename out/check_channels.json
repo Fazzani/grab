@@ -387,7 +387,7 @@
           "src": "http://www.watania2.tn/sites/default/files/main_logo_watania2_0.png"
         },
         "url": "http://www.watania.tn",
-        "active": "False"
+        "active": "True"
       },
       {
         "id": "HD1",
@@ -630,8 +630,11 @@
           "lang": "en",
           "$t": "beIN global"
         },
+        "icon": {
+          "src": "http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg"
+        },
         "url": "http://www.bein.net",
-        "active": "False"
+        "active": "True"
       },
       {
         "id": "BS NBA",
