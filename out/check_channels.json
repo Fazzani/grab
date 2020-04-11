@@ -387,7 +387,7 @@
           "src": "http://www.watania2.tn/sites/default/files/main_logo_watania2_0.png"
         },
         "url": "http://www.watania.tn",
-        "active": "True"
+        "active": "False"
       },
       {
         "id": "HD1",
@@ -630,11 +630,8 @@
           "lang": "en",
           "$t": "beIN global"
         },
-        "icon": {
-          "src": "http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg"
-        },
         "url": "http://www.bein.net",
-        "active": "True"
+        "active": "False"
       },
       {
         "id": "BS NBA",
@@ -1877,7 +1874,7 @@
           "src": "http://content.osn.com/logo/channel/cropped/ONS.png"
         },
         "url": "http://www.osn.com",
-        "active": "False"
+        "active": "True"
       },
       {
         "id": "Sky News HD",

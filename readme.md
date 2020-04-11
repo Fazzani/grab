@@ -57,7 +57,7 @@
 |![icon](http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg)|SportsHD16|http://www.bein.net|
 |![icon](http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg)|SportsHD17|http://www.bein.net|
 |![icon](http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg)|News_ar|http://www.bein.net|
-|![icon](http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg)|SportsGlobalHD|http://www.bein.net|
+|![icon]()|SportsGlobalHD|http://www.bein.net|
 |![icon]()|BS NBA|http://www.bein.net|
 |![icon]()|4K|http://www.bein.net|
 |![icon]()|Global|http://www.bein.net|
