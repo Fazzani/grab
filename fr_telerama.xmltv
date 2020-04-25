@@ -70,18 +70,6 @@
     <icon src="https://television.telerama.fr/sites/tr_master/files/styles/channel_logo_80x80/public/sheet_media/tv/150x150/192.png?itok=LK8LTHrB" />
     <url>http://www.telerama.fr</url>
   </channel>
-  <programme start="20200424080000 +0200" stop="20200424160000 +0200" channel="MTV Rocks">
-    <title lang="fr">Biggest ! Hottest ! Loudest !</title>
-  </programme>
-  <programme start="20200424160000 +0200" stop="20200424180000 +0200" channel="MTV Rocks">
-    <title lang="fr">100% Anthems !</title>
-  </programme>
-  <programme start="20200424180000 +0200" stop="20200424230000 +0200" channel="MTV Rocks">
-    <title lang="fr">Rocks Rated !</title>
-  </programme>
-  <programme start="20200424230000 +0200" stop="20200425050000 +0200" channel="MTV Rocks">
-    <title lang="fr">Supermassive Anthems !</title>
-  </programme>
   <programme start="20200425080000 +0200" stop="20200425160000 +0200" channel="MTV Rocks">
     <title lang="fr">Biggest ! Hottest ! Loudest !</title>
   </programme>
@@ -94,50 +82,44 @@
   <programme start="20200425230000 +0200" stop="20200426050000 +0200" channel="MTV Rocks">
     <title lang="fr">Supermassive Anthems !</title>
   </programme>
-  <programme start="20200424070000 +0200" stop="20200424110000 +0200" channel="MTV Base">
-    <title lang="fr">Super Base Beats</title>
+  <programme start="20200426080000 +0200" stop="20200426160000 +0200" channel="MTV Rocks">
+    <title lang="fr">Biggest ! Hottest ! Loudest !</title>
   </programme>
-  <programme start="20200424110000 +0200" stop="20200424130000 +0200" channel="MTV Base">
-    <title lang="fr">Re-Rewind! Top 20 Ultimate Garage Anthems</title>
+  <programme start="20200426160000 +0200" stop="20200426180000 +0200" channel="MTV Rocks">
+    <title lang="fr">100% Anthems !</title>
   </programme>
-  <programme start="20200424130000 +0200" stop="20200424150000 +0200" channel="MTV Base">
-    <title lang="fr">Welcome To the Good Life! Best Of the US</title>
+  <programme start="20200426180000 +0200" stop="20200426230000 +0200" channel="MTV Rocks">
+    <title lang="fr">Rocks Rated !</title>
   </programme>
-  <programme start="20200424150000 +0200" stop="20200424160000 +0200" channel="MTV Base">
-    <title lang="fr">Drake: Official Top 10</title>
-  </programme>
-  <programme start="20200424160000 +0200" stop="20200424180000 +0200" channel="MTV Base">
-    <title lang="fr">Dappy's Baddest From Time</title>
-  </programme>
-  <programme start="20200424180000 +0200" stop="20200424200000 +0200" channel="MTV Base">
-    <title lang="fr">Re-Rewind! Top 20 Ultimate Garage Anthems</title>
-  </programme>
-  <programme start="20200424200000 +0200" stop="20200425010000 +0200" channel="MTV Base">
-    <title lang="fr">Grind With Me! Sexy Party Jams</title>
-  </programme>
-  <programme start="20200425010000 +0200" stop="20200425030000 +0200" channel="MTV Base">
-    <title lang="fr">Hottest Global Throwback Anthems!</title>
-  </programme>
-  <programme start="20200425030000 +0200" stop="20200425050000 +0200" channel="MTV Base">
-    <title lang="fr">Super Base Beats</title>
+  <programme start="20200426230000 +0200" stop="20200427050000 +0200" channel="MTV Rocks">
+    <title lang="fr">Supermassive Anthems !</title>
   </programme>
   <programme start="20200425070000 +0200" stop="20200425100000 +0200" channel="MTV Base">
     <title lang="fr">Super Base Beats</title>
   </programme>
-  <programme start="20200425100000 +0200" stop="20200425110000 +0200" channel="MTV Base">
+  <programme start="20200425100000 +0200" stop="20200425105500 +0200" channel="MTV Base">
     <title lang="fr">Sean Paul and Friends</title>
+  </programme>
+  <programme start="20200425105500 +0200" stop="20200425110000 +0200" channel="MTV Base">
+    <title lang="fr">20 In 2020!</title>
   </programme>
   <programme start="20200425110000 +0200" stop="20200425140000 +0200" channel="MTV Base">
     <title lang="fr">Welcome To the Good Life! Best Of the US</title>
   </programme>
-  <programme start="20200425140000 +0200" stop="20200425160000 +0200" channel="MTV Base">
+  <programme start="20200425140000 +0200" stop="20200425155000 +0200" channel="MTV Base">
     <title lang="fr">Dappy's Baddest From Time</title>
   </programme>
-  <programme start="20200425160000 +0200" stop="20200425170000 +0200" channel="MTV Base">
+  <programme start="20200425155000 +0200" stop="20200425161000 +0200" channel="MTV Base">
+    <title lang="fr">Canada's Finest Fellas!</title>
+  </programme>
+  <programme start="20200425161000 +0200" stop="20200425170000 +0200" channel="MTV Base">
     <title lang="fr">Yxng Bane: on Repeat</title>
   </programme>
-  <programme start="20200425170000 +0200" stop="20200425180000 +0200" channel="MTV Base">
+  <programme start="20200425170000 +0200" stop="20200425175000 +0200" channel="MTV Base">
     <title lang="fr">Most Played Videos Of the Week So Far</title>
+  </programme>
+  <programme start="20200425175000 +0200" stop="20200425180000 +0200" channel="MTV Base">
+    <title lang="fr">Khalid x Jason</title>
   </programme>
   <programme start="20200425180000 +0200" stop="20200425200000 +0200" channel="MTV Base">
     <title lang="fr">In My Feelings: 00s Mix</title>
@@ -151,35 +133,47 @@
   <programme start="20200426030000 +0200" stop="20200426050000 +0200" channel="MTV Base">
     <title lang="fr">Super Base Beats</title>
   </programme>
-  <programme start="20200424060000 +0200" stop="20200424070000 +0200" channel="NRJ Hits">
-    <title lang="fr">La tête dans le clip</title>
+  <programme start="20200426070000 +0200" stop="20200426100000 +0200" channel="MTV Base">
+    <title lang="fr">Super Base Beats</title>
   </programme>
-  <programme start="20200424070000 +0200" stop="20200424100000 +0200" channel="NRJ Hits">
-    <title lang="fr">NRJ Morning Hits</title>
+  <programme start="20200426100000 +0200" stop="20200426114000 +0200" channel="MTV Base">
+    <title lang="fr">Re-Rewind! Top 20 Ultimate Garage Anthems</title>
   </programme>
-  <programme start="20200424100000 +0200" stop="20200424120000 +0200" channel="NRJ Hits">
-    <title lang="fr">NRJ Morning Hits</title>
+  <programme start="20200426114000 +0200" stop="20200426120000 +0200" channel="MTV Base">
+    <title lang="fr">Big Beats &amp; Future Smashes!</title>
   </programme>
-  <programme start="20200424120000 +0200" stop="20200424150000 +0200" channel="NRJ Hits">
-    <title lang="fr">Hit Music Only</title>
+  <programme start="20200426120000 +0200" stop="20200426135000 +0200" channel="MTV Base">
+    <title lang="fr">Dappy's Baddest From Time</title>
   </programme>
-  <programme start="20200424150000 +0200" stop="20200424170000 +0200" channel="NRJ Hits">
-    <title lang="fr">Hit Music Only</title>
+  <programme start="20200426135000 +0200" stop="20200426140000 +0200" channel="MTV Base">
+    <title lang="fr">Girls With Motivation!</title>
   </programme>
-  <programme start="20200424170000 +0200" stop="20200424200000 +0200" channel="NRJ Hits">
-    <title lang="fr">NRJ After School</title>
+  <programme start="20200426140000 +0200" stop="20200426150000 +0200" channel="MTV Base">
+    <title lang="fr">Eminem &amp; Friends</title>
   </programme>
-  <programme start="20200424200000 +0200" stop="20200424220000 +0200" channel="NRJ Hits">
-    <title lang="fr">NRJ Hit Music Only</title>
+  <programme start="20200426150000 +0200" stop="20200426155000 +0200" channel="MTV Base">
+    <title lang="fr">10 Biggest R&amp;B &amp; Rap Anthems RN!</title>
   </programme>
-  <programme start="20200424220000 +0200" stop="20200425000000 +0200" channel="NRJ Hits">
-    <title lang="fr">Spéciale The Weeknd</title>
+  <programme start="20200426155000 +0200" stop="20200426160000 +0200" channel="MTV Base">
+    <title lang="fr">Hottest Worldwide Hits!</title>
   </programme>
-  <programme start="20200425000000 +0200" stop="20200425020000 +0200" channel="NRJ Hits">
-    <title lang="fr">NRJ Hits Mix</title>
+  <programme start="20200426160000 +0200" stop="20200426210000 +0200" channel="MTV Base">
+    <title lang="fr">Turn Up the Base! 10s Party Anthems</title>
   </programme>
-  <programme start="20200425020000 +0200" stop="20200425060000 +0200" channel="NRJ Hits">
-    <title lang="fr">French Music Only</title>
+  <programme start="20200426210000 +0200" stop="20200426220000 +0200" channel="MTV Base">
+    <title lang="fr">Beyonce: Reloaded</title>
+  </programme>
+  <programme start="20200426220000 +0200" stop="20200426225000 +0200" channel="MTV Base">
+    <title lang="fr">10 Biggest R&amp;B &amp; Rap Anthems RN!</title>
+  </programme>
+  <programme start="20200426225000 +0200" stop="20200426230000 +0200" channel="MTV Base">
+    <title lang="fr">Twerk From Home!</title>
+  </programme>
+  <programme start="20200426230000 +0200" stop="20200427010000 +0200" channel="MTV Base">
+    <title lang="fr">Big Beats &amp; Future Smashes!</title>
+  </programme>
+  <programme start="20200427010000 +0200" stop="20200427050000 +0200" channel="MTV Base">
+    <title lang="fr">Super Base Beats</title>
   </programme>
   <programme start="20200425060000 +0200" stop="20200425070000 +0200" channel="NRJ Hits">
     <title lang="fr">La tête dans le clip</title>
@@ -211,23 +205,35 @@
   <programme start="20200426020000 +0200" stop="20200426060000 +0200" channel="NRJ Hits">
     <title lang="fr">French Music Only</title>
   </programme>
-  <programme start="20200424100500 +0200" stop="20200424110500 +0200" channel="AB 3">
-    <title lang="fr">Télé-achat</title>
+  <programme start="20200426060000 +0200" stop="20200426070000 +0200" channel="NRJ Hits">
+    <title lang="fr">La tête dans le clip</title>
   </programme>
-  <programme start="20200424121500 +0200" stop="20200424122000 +0200" channel="AB 3">
-    <title lang="fr">Météo</title>
+  <programme start="20200426070000 +0200" stop="20200426100000 +0200" channel="NRJ Hits">
+    <title lang="fr">NRJ Morning Hits</title>
   </programme>
-  <programme start="20200424122000 +0200" stop="20200424134500 +0200" channel="AB 3">
-    <title lang="fr">La maison sur la plage</title>
+  <programme start="20200426100000 +0200" stop="20200426120000 +0200" channel="NRJ Hits">
+    <title lang="fr">NRJ Morning Hits</title>
   </programme>
-  <programme start="20200424134500 +0200" stop="20200424151000 +0200" channel="AB 3">
-    <title lang="fr">Dangereuse attirance</title>
+  <programme start="20200426120000 +0200" stop="20200426150000 +0200" channel="NRJ Hits">
+    <title lang="fr">NRJ Week End</title>
   </programme>
-  <programme start="20200424200000 +0200" stop="20200424221000 +0200" channel="AB 3">
-    <title lang="fr">Jason Bourne : l'héritage</title>
+  <programme start="20200426150000 +0200" stop="20200426180000 +0200" channel="NRJ Hits">
+    <title lang="fr">NRJ Week End</title>
   </programme>
-  <programme start="20200424221000 +0200" stop="20200425001500 +0200" channel="AB 3">
-    <title lang="fr">Jack Reacher</title>
+  <programme start="20200426180000 +0200" stop="20200426200000 +0200" channel="NRJ Hits">
+    <title lang="fr">NRJ Hit Music Only</title>
+  </programme>
+  <programme start="20200426200000 +0200" stop="20200426220000 +0200" channel="NRJ Hits">
+    <title lang="fr">NRJ Hits Mix</title>
+  </programme>
+  <programme start="20200426220000 +0200" stop="20200427000000 +0200" channel="NRJ Hits">
+    <title lang="fr">NRJ Hits Mix</title>
+  </programme>
+  <programme start="20200427000000 +0200" stop="20200427020000 +0200" channel="NRJ Hits">
+    <title lang="fr">NRJ Hits Mix</title>
+  </programme>
+  <programme start="20200427020000 +0200" stop="20200427060000 +0200" channel="NRJ Hits">
+    <title lang="fr">French Music Only</title>
   </programme>
   <programme start="20200425085500 +0200" stop="20200425101500 +0200" channel="AB 3">
     <title lang="fr">Baby boom</title>
@@ -247,26 +253,41 @@
   <programme start="20200425215000 +0200" stop="20200425231000 +0200" channel="AB 3">
     <title lang="fr">Astérix et les Indiens</title>
   </programme>
-  <programme start="20200424060000 +0200" stop="20200424065000 +0200" channel="E !">
-    <title lang="fr">Hollywood Medium</title>
+  <programme start="20200426100500 +0200" stop="20200426105500 +0200" channel="AB 3">
+    <title lang="fr">Télé-achat</title>
   </programme>
-  <programme start="20200424133000 +0200" stop="20200424152500 +0200" channel="E !">
-    <title lang="fr">One World : Together at Home</title>
+  <programme start="20200426112000 +0200" stop="20200426125500 +0200" channel="AB 3">
+    <title lang="fr">Patron incognito</title>
   </programme>
-  <programme start="20200424224000 +0200" stop="20200424233000 +0200" channel="E !">
-    <title lang="fr">The Funny Dance Show</title>
+  <programme start="20200426125500 +0200" stop="20200426130000 +0200" channel="AB 3">
+    <title lang="fr">Météo</title>
   </programme>
-  <programme start="20200424233000 +0200" stop="20200424235500 +0200" channel="E !">
-    <title lang="fr">Dating #No Filter</title>
+  <programme start="20200426130000 +0200" stop="20200426145500 +0200" channel="AB 3">
+    <title lang="fr">La mémoire dans la peau</title>
   </programme>
-  <programme start="20200424235500 +0200" stop="20200425002000 +0200" channel="E !">
-    <title lang="fr">Dating #No Filter</title>
+  <programme start="20200426145500 +0200" stop="20200426163500 +0200" channel="AB 3">
+    <title lang="fr">La mort dans la peau</title>
   </programme>
-  <programme start="20200425025000 +0200" stop="20200425034000 +0200" channel="E !">
-    <title lang="fr">Appelez-moi Caitlyn</title>
+  <programme start="20200426163500 +0200" stop="20200426182000 +0200" channel="AB 3">
+    <title lang="fr">La vengeance dans la peau</title>
   </programme>
-  <programme start="20200425034000 +0200" stop="20200425043000 +0200" channel="E !">
-    <title lang="fr">Appelez-moi Caitlyn</title>
+  <programme start="20200426182000 +0200" stop="20200426203000 +0200" channel="AB 3">
+    <title lang="fr">Jason Bourne : l'héritage</title>
+  </programme>
+  <programme start="20200426203000 +0200" stop="20200426214000 +0200" channel="AB 3">
+    <title lang="fr">90' Enquêtes</title>
+  </programme>
+  <programme start="20200426214000 +0200" stop="20200426224000 +0200" channel="AB 3">
+    <title lang="fr">Appels d'urgence</title>
+  </programme>
+  <programme start="20200426224000 +0200" stop="20200426234000 +0200" channel="AB 3">
+    <title lang="fr">Appels d'urgence</title>
+  </programme>
+  <programme start="20200426234000 +0200" stop="20200427005500 +0200" channel="AB 3">
+    <title lang="fr">90' Enquêtes</title>
+  </programme>
+  <programme start="20200427005500 +0200" stop="20200427014500 +0200" channel="AB 3">
+    <title lang="fr">Appels d'urgence</title>
   </programme>
   <programme start="20200425110000 +0200" stop="20200425125500 +0200" channel="E !">
     <title lang="fr">One World : Together at Home</title>
@@ -301,104 +322,23 @@
   <programme start="20200426034000 +0200" stop="20200426043000 +0200" channel="E !">
     <title lang="fr">The Bi Life</title>
   </programme>
-  <programme start="20200424065800 +0200" stop="20200424075700 +0200" channel="Chasse et pêche">
-    <title lang="fr">Le sanglier en solitaire</title>
+  <programme start="20200426133000 +0200" stop="20200426135500 +0200" channel="E !">
+    <title lang="fr">Dating #No Filter</title>
   </programme>
-  <programme start="20200424075700 +0200" stop="20200424085600 +0200" channel="Chasse et pêche">
-    <title lang="fr">Au fil du Rhône</title>
+  <programme start="20200426135500 +0200" stop="20200426142000 +0200" channel="E !">
+    <title lang="fr">Dating #No Filter</title>
   </programme>
-  <programme start="20200424085600 +0200" stop="20200424100200 +0200" channel="Chasse et pêche">
-    <title lang="fr">Le bonheur de la chasse en famille</title>
+  <programme start="20200426165000 +0200" stop="20200426174000 +0200" channel="E !">
+    <title lang="fr">Appelez-moi Caitlyn</title>
   </programme>
-  <programme start="20200424100200 +0200" stop="20200424105300 +0200" channel="Chasse et pêche">
-    <title lang="fr">A la poursuite du petit prince de la forêt</title>
+  <programme start="20200426174000 +0200" stop="20200426183000 +0200" channel="E !">
+    <title lang="fr">Appelez-moi Caitlyn</title>
   </programme>
-  <programme start="20200424105300 +0200" stop="20200424112300 +0200" channel="Chasse et pêche">
-    <title lang="fr">Outlanders</title>
+  <programme start="20200426201000 +0200" stop="20200426210000 +0200" channel="E !">
+    <title lang="fr">The Funny Dance Show</title>
   </programme>
-  <programme start="20200424112300 +0200" stop="20200424114700 +0200" channel="Chasse et pêche">
-    <title lang="fr">La globe-trotteuse Chasse &amp; Pêche</title>
-  </programme>
-  <programme start="20200424114700 +0200" stop="20200424121100 +0200" channel="Chasse et pêche">
-    <title lang="fr">Expédition : pêche en Amazonie</title>
-  </programme>
-  <programme start="20200424121100 +0200" stop="20200424123500 +0200" channel="Chasse et pêche">
-    <title lang="fr">Expédition : pêche en Amazonie</title>
-  </programme>
-  <programme start="20200424123500 +0200" stop="20200424130400 +0200" channel="Chasse et pêche">
-    <title lang="fr">Au coeur de la nature</title>
-  </programme>
-  <programme start="20200424130400 +0200" stop="20200424133300 +0200" channel="Chasse et pêche">
-    <title lang="fr">Au coeur de la nature</title>
-  </programme>
-  <programme start="20200424133300 +0200" stop="20200424143000 +0200" channel="Chasse et pêche">
-    <title lang="fr">Approches du cerf et changement climatique</title>
-  </programme>
-  <programme start="20200424143000 +0200" stop="20200424153000 +0200" channel="Chasse et pêche">
-    <title lang="fr">Battue dans le Montseny</title>
-  </programme>
-  <programme start="20200424153000 +0200" stop="20200424155500 +0200" channel="Chasse et pêche">
-    <title lang="fr">Carp Wars</title>
-  </programme>
-  <programme start="20200424155500 +0200" stop="20200424162000 +0200" channel="Chasse et pêche">
-    <title lang="fr">Carp Wars</title>
-  </programme>
-  <programme start="20200424162000 +0200" stop="20200424164400 +0200" channel="Chasse et pêche">
-    <title lang="fr">Québec à vol d'oiseau</title>
-  </programme>
-  <programme start="20200424164400 +0200" stop="20200424170800 +0200" channel="Chasse et pêche">
-    <title lang="fr">Québec à vol d'oiseau</title>
-  </programme>
-  <programme start="20200424170800 +0200" stop="20200424173400 +0200" channel="Chasse et pêche">
-    <title lang="fr">Québec à vol d'oiseau</title>
-  </programme>
-  <programme start="20200424173400 +0200" stop="20200424180000 +0200" channel="Chasse et pêche">
-    <title lang="fr">Québec à vol d'oiseau</title>
-  </programme>
-  <programme start="20200424180000 +0200" stop="20200424183000 +0200" channel="Chasse et pêche">
-    <title lang="fr">Hooké</title>
-  </programme>
-  <programme start="20200424183000 +0200" stop="20200424190000 +0200" channel="Chasse et pêche">
-    <title lang="fr">Hooké</title>
-  </programme>
-  <programme start="20200424190000 +0200" stop="20200424193000 +0200" channel="Chasse et pêche">
-    <title lang="fr">Hooké</title>
-  </programme>
-  <programme start="20200424193000 +0200" stop="20200424200000 +0200" channel="Chasse et pêche">
-    <title lang="fr">Hooké</title>
-  </programme>
-  <programme start="20200424200000 +0200" stop="20200424210000 +0200" channel="Chasse et pêche">
-    <title lang="fr">River Monsters</title>
-  </programme>
-  <programme start="20200424210000 +0200" stop="20200424213000 +0200" channel="Chasse et pêche">
-    <title lang="fr">River Monsters</title>
-  </programme>
-  <programme start="20200424213000 +0200" stop="20200424215200 +0200" channel="Chasse et pêche">
-    <title lang="fr">La globe-trotteuse Chasse &amp; Pêche</title>
-  </programme>
-  <programme start="20200424215200 +0200" stop="20200424221400 +0200" channel="Chasse et pêche">
-    <title lang="fr">La globe-trotteuse Chasse &amp; Pêche</title>
-  </programme>
-  <programme start="20200424221400 +0200" stop="20200424224400 +0200" channel="Chasse et pêche">
-    <title lang="fr">Le chasseur français</title>
-  </programme>
-  <programme start="20200424224400 +0200" stop="20200424234200 +0200" channel="Chasse et pêche">
-    <title lang="fr">Au fil du Rhône</title>
-  </programme>
-  <programme start="20200424234200 +0200" stop="20200425004100 +0200" channel="Chasse et pêche">
-    <title lang="fr">Bars et lieus autour de Bréhat</title>
-  </programme>
-  <programme start="20200425004100 +0200" stop="20200425013400 +0200" channel="Chasse et pêche">
-    <title lang="fr">Une forêt pour 100 000 chasseurs</title>
-  </programme>
-  <programme start="20200425013400 +0200" stop="20200425023000 +0200" channel="Chasse et pêche">
-    <title lang="fr">Chasseur des villes</title>
-  </programme>
-  <programme start="20200425023000 +0200" stop="20200425032500 +0200" channel="Chasse et pêche">
-    <title lang="fr">Mission à risque pour directeur de chasse</title>
-  </programme>
-  <programme start="20200425032500 +0200" stop="20200425051500 +0200" channel="Chasse et pêche">
-    <title lang="fr">Programmes de la nuit</title>
+  <programme start="20200426224000 +0200" stop="20200426233000 +0200" channel="E !">
+    <title lang="fr">The Funny Dance Show</title>
   </programme>
   <programme start="20200425061200 +0200" stop="20200425070700 +0200" channel="Chasse et pêche">
     <title lang="fr">Mission à risque pour directeur de chasse</title>
@@ -499,104 +439,107 @@
   <programme start="20200426023000 +0200" stop="20200426033000 +0200" channel="Chasse et pêche">
     <title lang="fr">Du grand gibier... sans dégâts ?</title>
   </programme>
-  <programme start="20200424060000 +0200" stop="20200424064500 +0200" channel="Discovery Channel">
-    <title lang="fr">Into The Wild : Alaska</title>
+  <programme start="20200426063600 +0200" stop="20200426073800 +0200" channel="Chasse et pêche">
+    <title lang="fr">Des chasseurs et des pièges</title>
   </programme>
-  <programme start="20200424064500 +0200" stop="20200424073000 +0200" channel="Discovery Channel">
-    <title lang="fr">Sauveurs de trésors</title>
+  <programme start="20200426073800 +0200" stop="20200426083200 +0200" channel="Chasse et pêche">
+    <title lang="fr">Andorja</title>
   </programme>
-  <programme start="20200424073000 +0200" stop="20200424081500 +0200" channel="Discovery Channel">
-    <title lang="fr">Sauveurs de trésors</title>
+  <programme start="20200426083200 +0200" stop="20200426092400 +0200" channel="Chasse et pêche">
+    <title lang="fr">Pêcher le maigre en Atlantique</title>
   </programme>
-  <programme start="20200424081500 +0200" stop="20200424090500 +0200" channel="Discovery Channel">
-    <title lang="fr">Sauveurs de trésors</title>
+  <programme start="20200426092400 +0200" stop="20200426103000 +0200" channel="Chasse et pêche">
+    <title lang="fr">Le bonheur de la chasse en famille</title>
   </programme>
-  <programme start="20200424090500 +0200" stop="20200424095500 +0200" channel="Discovery Channel">
-    <title lang="fr">Sauveurs de trésors</title>
+  <programme start="20200426103000 +0200" stop="20200426105200 +0200" channel="Chasse et pêche">
+    <title lang="fr">La globe-trotteuse Chasse &amp; Pêche</title>
   </programme>
-  <programme start="20200424095500 +0200" stop="20200424104500 +0200" channel="Discovery Channel">
-    <title lang="fr">Sauveurs de trésors</title>
+  <programme start="20200426105200 +0200" stop="20200426111400 +0200" channel="Chasse et pêche">
+    <title lang="fr">La globe-trotteuse Chasse &amp; Pêche</title>
   </programme>
-  <programme start="20200424104500 +0200" stop="20200424113500 +0200" channel="Discovery Channel">
-    <title lang="fr">Bad Chad Customs</title>
+  <programme start="20200426111400 +0200" stop="20200426113800 +0200" channel="Chasse et pêche">
+    <title lang="fr">Québec à vol d'oiseau</title>
   </programme>
-  <programme start="20200424113500 +0200" stop="20200424122500 +0200" channel="Discovery Channel">
-    <title lang="fr">Bad Chad Customs</title>
+  <programme start="20200426113800 +0200" stop="20200426120200 +0200" channel="Chasse et pêche">
+    <title lang="fr">Québec à vol d'oiseau</title>
   </programme>
-  <programme start="20200424122500 +0200" stop="20200424131500 +0200" channel="Discovery Channel">
-    <title lang="fr">Alcool de contrebande</title>
+  <programme start="20200426120200 +0200" stop="20200426123200 +0200" channel="Chasse et pêche">
+    <title lang="fr">Le chasseur français</title>
   </programme>
-  <programme start="20200424131500 +0200" stop="20200424140500 +0200" channel="Discovery Channel">
-    <title lang="fr">Alcool de contrebande</title>
+  <programme start="20200426123200 +0200" stop="20200426132900 +0200" channel="Chasse et pêche">
+    <title lang="fr">Approches du cerf et changement climatique</title>
   </programme>
-  <programme start="20200424140500 +0200" stop="20200424145500 +0200" channel="Discovery Channel">
-    <title lang="fr">Into The Wild : Alaska</title>
+  <programme start="20200426132900 +0200" stop="20200426135500 +0200" channel="Chasse et pêche">
+    <title lang="fr">Traques aux sangliers dans le Cantal</title>
   </programme>
-  <programme start="20200424145500 +0200" stop="20200424154500 +0200" channel="Discovery Channel">
-    <title lang="fr">Into The Wild : Alaska</title>
+  <programme start="20200426135500 +0200" stop="20200426142200 +0200" channel="Chasse et pêche">
+    <title lang="fr">Chasse au gros gibier dans la forêt de Fontainebleau</title>
   </programme>
-  <programme start="20200424154500 +0200" stop="20200424163500 +0200" channel="Discovery Channel">
-    <title lang="fr">Into The Wild : Alaska</title>
+  <programme start="20200426142200 +0200" stop="20200426145100 +0200" channel="Chasse et pêche">
+    <title lang="fr">Au coeur de la nature</title>
   </programme>
-  <programme start="20200424163500 +0200" stop="20200424170000 +0200" channel="Discovery Channel">
-    <title lang="fr">Bear Grylls : survivez</title>
+  <programme start="20200426145100 +0200" stop="20200426152000 +0200" channel="Chasse et pêche">
+    <title lang="fr">Au coeur de la nature</title>
   </programme>
-  <programme start="20200424170000 +0200" stop="20200424172500 +0200" channel="Discovery Channel">
-    <title lang="fr">Bear Grylls : survivez</title>
+  <programme start="20200426152000 +0200" stop="20200426154900 +0200" channel="Chasse et pêche">
+    <title lang="fr">Au coeur de la nature</title>
   </programme>
-  <programme start="20200424172500 +0200" stop="20200424175000 +0200" channel="Discovery Channel">
-    <title lang="fr">Bear Grylls : survivez</title>
+  <programme start="20200426154900 +0200" stop="20200426161800 +0200" channel="Chasse et pêche">
+    <title lang="fr">Au coeur de la nature</title>
   </programme>
-  <programme start="20200424175000 +0200" stop="20200424181500 +0200" channel="Discovery Channel">
-    <title lang="fr">Bear Grylls : survivez</title>
+  <programme start="20200426161800 +0200" stop="20200426164300 +0200" channel="Chasse et pêche">
+    <title lang="fr">Hooké</title>
   </programme>
-  <programme start="20200424181500 +0200" stop="20200424184000 +0200" channel="Discovery Channel">
-    <title lang="fr">Bear Grylls : survivez</title>
+  <programme start="20200426164300 +0200" stop="20200426170800 +0200" channel="Chasse et pêche">
+    <title lang="fr">Hooké</title>
   </programme>
-  <programme start="20200424184000 +0200" stop="20200424190500 +0200" channel="Discovery Channel">
-    <title lang="fr">Bear Grylls : survivez</title>
+  <programme start="20200426170800 +0200" stop="20200426173400 +0200" channel="Chasse et pêche">
+    <title lang="fr">Hooké</title>
   </programme>
-  <programme start="20200424190500 +0200" stop="20200424193000 +0200" channel="Discovery Channel">
-    <title lang="fr">Bear Grylls : survivez</title>
+  <programme start="20200426173400 +0200" stop="20200426180000 +0200" channel="Chasse et pêche">
+    <title lang="fr">Hooké</title>
   </programme>
-  <programme start="20200424193000 +0200" stop="20200424195500 +0200" channel="Discovery Channel">
-    <title lang="fr">Bear Grylls : survivez</title>
+  <programme start="20200426180000 +0200" stop="20200426183000 +0200" channel="Chasse et pêche">
+    <title lang="fr">Québec à vol d'oiseau</title>
   </programme>
-  <programme start="20200424195500 +0200" stop="20200424204500 +0200" channel="Discovery Channel">
-    <title lang="fr">Bear Grylls : Breaking Point</title>
+  <programme start="20200426183000 +0200" stop="20200426190000 +0200" channel="Chasse et pêche">
+    <title lang="fr">Québec à vol d'oiseau</title>
   </programme>
-  <programme start="20200424204500 +0200" stop="20200424213500 +0200" channel="Discovery Channel">
-    <title lang="fr">Josh Gates et les trésors perdus</title>
+  <programme start="20200426190000 +0200" stop="20200426193000 +0200" channel="Chasse et pêche">
+    <title lang="fr">Outlanders</title>
   </programme>
-  <programme start="20200424213500 +0200" stop="20200424222500 +0200" channel="Discovery Channel">
-    <title lang="fr">Josh Gates et les trésors perdus</title>
+  <programme start="20200426193000 +0200" stop="20200426200000 +0200" channel="Chasse et pêche">
+    <title lang="fr">La globe-trotteuse Chasse &amp; Pêche</title>
   </programme>
-  <programme start="20200424222500 +0200" stop="20200424231500 +0200" channel="Discovery Channel">
-    <title lang="fr">Traqueurs de mystères</title>
+  <programme start="20200426200000 +0200" stop="20200426202900 +0200" channel="Chasse et pêche">
+    <title lang="fr">Au coeur de la nature</title>
   </programme>
-  <programme start="20200424231500 +0200" stop="20200425000500 +0200" channel="Discovery Channel">
-    <title lang="fr">Traqueurs de mystères</title>
+  <programme start="20200426202900 +0200" stop="20200426205800 +0200" channel="Chasse et pêche">
+    <title lang="fr">Au coeur de la nature</title>
   </programme>
-  <programme start="20200425000500 +0200" stop="20200425005000 +0200" channel="Discovery Channel">
-    <title lang="fr">Traqueurs de mystères</title>
+  <programme start="20200426205800 +0200" stop="20200426212300 +0200" channel="Chasse et pêche">
+    <title lang="fr">Carp Wars</title>
   </programme>
-  <programme start="20200425005000 +0200" stop="20200425014000 +0200" channel="Discovery Channel">
-    <title lang="fr">Bad Chad Customs</title>
+  <programme start="20200426212300 +0200" stop="20200426214800 +0200" channel="Chasse et pêche">
+    <title lang="fr">Carp Wars</title>
   </programme>
-  <programme start="20200425014000 +0200" stop="20200425022500 +0200" channel="Discovery Channel">
-    <title lang="fr">Bad Chad Customs</title>
+  <programme start="20200426214800 +0200" stop="20200426221300 +0200" channel="Chasse et pêche">
+    <title lang="fr">Carp Wars</title>
   </programme>
-  <programme start="20200425022500 +0200" stop="20200425031500 +0200" channel="Discovery Channel">
-    <title lang="fr">Josh Gates et les trésors perdus</title>
+  <programme start="20200426221300 +0200" stop="20200426223800 +0200" channel="Chasse et pêche">
+    <title lang="fr">Carp Wars</title>
   </programme>
-  <programme start="20200425031500 +0200" stop="20200425040000 +0200" channel="Discovery Channel">
-    <title lang="fr">Josh Gates et les trésors perdus</title>
+  <programme start="20200426223800 +0200" stop="20200426233200 +0200" channel="Chasse et pêche">
+    <title lang="fr">Andorja</title>
   </programme>
-  <programme start="20200425040000 +0200" stop="20200425042500 +0200" channel="Discovery Channel">
-    <title lang="fr">Au coeur des douanes</title>
+  <programme start="20200426233200 +0200" stop="20200427003800 +0200" channel="Chasse et pêche">
+    <title lang="fr">Le bonheur de la chasse en famille</title>
   </programme>
-  <programme start="20200425042500 +0200" stop="20200425051000 +0200" channel="Discovery Channel">
-    <title lang="fr">Into The Wild : Alaska</title>
+  <programme start="20200427003800 +0200" stop="20200427023000 +0200" channel="Chasse et pêche">
+    <title lang="fr">Au fil du Rhône</title>
+  </programme>
+  <programme start="20200427023000 +0200" stop="20200427032500 +0200" channel="Chasse et pêche">
+    <title lang="fr">Le sanglier en solitaire</title>
   </programme>
   <programme start="20200425060000 +0200" stop="20200425062000 +0200" channel="Discovery Channel">
     <title lang="fr">Toy Hunter</title>
@@ -694,125 +637,98 @@
   <programme start="20200426042500 +0200" stop="20200426051000 +0200" channel="Discovery Channel">
     <title lang="fr">Casse-cash</title>
   </programme>
-  <programme start="20200426051000 +0200" stop="20200426060000 +0200" channel="Discovery Channel">
-    <title lang="fr">Casse-cash</title>
+  <programme start="20200426060000 +0200" stop="20200426064500 +0200" channel="Discovery Channel">
+    <title lang="fr">Sauveurs de trésors</title>
   </programme>
-  <programme start="20200424060000 +0200" stop="20200424062500 +0200" channel="Discovery Science">
-    <title lang="fr">Comment ça marche ?</title>
+  <programme start="20200426064500 +0200" stop="20200426073000 +0200" channel="Discovery Channel">
+    <title lang="fr">Sauveurs de trésors</title>
   </programme>
-  <programme start="20200424062500 +0200" stop="20200424065000 +0200" channel="Discovery Science">
-    <title lang="fr">Comment ça marche ?</title>
+  <programme start="20200426073000 +0200" stop="20200426081500 +0200" channel="Discovery Channel">
+    <title lang="fr">Occasions à saisir : du Japon à Dubai</title>
   </programme>
-  <programme start="20200424065000 +0200" stop="20200424071500 +0200" channel="Discovery Science">
-    <title lang="fr">Comment c'est fait</title>
+  <programme start="20200426081500 +0200" stop="20200426090500 +0200" channel="Discovery Channel">
+    <title lang="fr">Occasions à saisir : du Japon à Dubai</title>
   </programme>
-  <programme start="20200424071500 +0200" stop="20200424074000 +0200" channel="Discovery Science">
-    <title lang="fr">Comment c'est fait</title>
+  <programme start="20200426090500 +0200" stop="20200426095500 +0200" channel="Discovery Channel">
+    <title lang="fr">Wheeler Dealers : Rêves à saisir</title>
   </programme>
-  <programme start="20200424074000 +0200" stop="20200424080500 +0200" channel="Discovery Science">
-    <title lang="fr">Comment c'est fait</title>
+  <programme start="20200426095500 +0200" stop="20200426104500 +0200" channel="Discovery Channel">
+    <title lang="fr">Wheeler Dealers : Rêves à saisir</title>
   </programme>
-  <programme start="20200424080500 +0200" stop="20200424083000 +0200" channel="Discovery Science">
-    <title lang="fr">Comment c'est fait</title>
+  <programme start="20200426104500 +0200" stop="20200426113500 +0200" channel="Discovery Channel">
+    <title lang="fr">Sauveurs de trésors</title>
   </programme>
-  <programme start="20200424083000 +0200" stop="20200424092000 +0200" channel="Discovery Science">
-    <title lang="fr">Les dossiers de la NASA</title>
+  <programme start="20200426113500 +0200" stop="20200426122500 +0200" channel="Discovery Channel">
+    <title lang="fr">Sauveurs de trésors</title>
   </programme>
-  <programme start="20200424092000 +0200" stop="20200424101000 +0200" channel="Discovery Science">
-    <title lang="fr">Les dossiers de la NASA</title>
+  <programme start="20200426122500 +0200" stop="20200426131500 +0200" channel="Discovery Channel">
+    <title lang="fr">Alcool de contrebande</title>
   </programme>
-  <programme start="20200424101000 +0200" stop="20200424110000 +0200" channel="Discovery Science">
-    <title lang="fr">Les dossiers de la NASA</title>
+  <programme start="20200426131500 +0200" stop="20200426140500 +0200" channel="Discovery Channel">
+    <title lang="fr">Alcool de contrebande</title>
   </programme>
-  <programme start="20200424110000 +0200" stop="20200424115000 +0200" channel="Discovery Science">
-    <title lang="fr">L'âge des machines</title>
+  <programme start="20200426140500 +0200" stop="20200426145500 +0200" channel="Discovery Channel">
+    <title lang="fr">Speed Garage</title>
   </programme>
-  <programme start="20200424115000 +0200" stop="20200424124000 +0200" channel="Discovery Science">
-    <title lang="fr">L'âge des machines</title>
+  <programme start="20200426145500 +0200" stop="20200426154500 +0200" channel="Discovery Channel">
+    <title lang="fr">Speed Garage</title>
   </programme>
-  <programme start="20200424124000 +0200" stop="20200424133000 +0200" channel="Discovery Science">
-    <title lang="fr">L'énergie du futur</title>
+  <programme start="20200426154500 +0200" stop="20200426163500 +0200" channel="Discovery Channel">
+    <title lang="fr">Speed Garage</title>
   </programme>
-  <programme start="20200424133000 +0200" stop="20200424135500 +0200" channel="Discovery Science">
-    <title lang="fr">Comment c'est fait</title>
+  <programme start="20200426163500 +0200" stop="20200426172500 +0200" channel="Discovery Channel">
+    <title lang="fr">Goblin Garage</title>
   </programme>
-  <programme start="20200424135500 +0200" stop="20200424142000 +0200" channel="Discovery Science">
-    <title lang="fr">Comment c'est fait</title>
+  <programme start="20200426172500 +0200" stop="20200426181500 +0200" channel="Discovery Channel">
+    <title lang="fr">Goblin Garage</title>
   </programme>
-  <programme start="20200424142000 +0200" stop="20200424144500 +0200" channel="Discovery Science">
-    <title lang="fr">Comment c'est fait</title>
+  <programme start="20200426181500 +0200" stop="20200426184000 +0200" channel="Discovery Channel">
+    <title lang="fr">Au coeur des douanes</title>
   </programme>
-  <programme start="20200424144500 +0200" stop="20200424151000 +0200" channel="Discovery Science">
-    <title lang="fr">Comment c'est fait</title>
+  <programme start="20200426184000 +0200" stop="20200426190500 +0200" channel="Discovery Channel">
+    <title lang="fr">Au coeur des douanes</title>
   </programme>
-  <programme start="20200424151000 +0200" stop="20200424160000 +0200" channel="Discovery Science">
-    <title lang="fr">Les grands mythes de l'Histoire</title>
+  <programme start="20200426190500 +0200" stop="20200426195500 +0200" channel="Discovery Channel">
+    <title lang="fr">Wheeler Dealers : Rêves à saisir</title>
   </programme>
-  <programme start="20200424160000 +0200" stop="20200424165000 +0200" channel="Discovery Science">
-    <title lang="fr">Derrière les portes du Vatican</title>
+  <programme start="20200426195500 +0200" stop="20200426204500 +0200" channel="Discovery Channel">
+    <title lang="fr">Wheeler Dealers : Rêves à saisir</title>
   </programme>
-  <programme start="20200424165000 +0200" stop="20200424174000 +0200" channel="Discovery Science">
-    <title lang="fr">A la conquête de l'univers</title>
+  <programme start="20200426204500 +0200" stop="20200426213500 +0200" channel="Discovery Channel">
+    <title lang="fr">Retour à l'instinct primaire : Seul au monde</title>
   </programme>
-  <programme start="20200424174000 +0200" stop="20200424183000 +0200" channel="Discovery Science">
-    <title lang="fr">A la conquête de l'univers</title>
+  <programme start="20200426213500 +0200" stop="20200426222500 +0200" channel="Discovery Channel">
+    <title lang="fr">Retour à l'instinct primaire : Seul au monde</title>
   </programme>
-  <programme start="20200424183000 +0200" stop="20200424192000 +0200" channel="Discovery Science">
-    <title lang="fr">A la conquête de l'univers</title>
+  <programme start="20200426222500 +0200" stop="20200426231500 +0200" channel="Discovery Channel">
+    <title lang="fr">The Colony</title>
   </programme>
-  <programme start="20200424192000 +0200" stop="20200424194500 +0200" channel="Discovery Science">
-    <title lang="fr">Comment c'est fait</title>
+  <programme start="20200426231500 +0200" stop="20200427000500 +0200" channel="Discovery Channel">
+    <title lang="fr">The Colony</title>
   </programme>
-  <programme start="20200424194500 +0200" stop="20200424201000 +0200" channel="Discovery Science">
-    <title lang="fr">Comment c'est fait</title>
+  <programme start="20200427000500 +0200" stop="20200427005000 +0200" channel="Discovery Channel">
+    <title lang="fr">Habitations en péril</title>
   </programme>
-  <programme start="20200424201000 +0200" stop="20200424203500 +0200" channel="Discovery Science">
-    <title lang="fr">Comment c'est fait</title>
+  <programme start="20200427005000 +0200" stop="20200427014000 +0200" channel="Discovery Channel">
+    <title lang="fr">Street Customs *2011</title>
   </programme>
-  <programme start="20200424203500 +0200" stop="20200424210000 +0200" channel="Discovery Science">
-    <title lang="fr">Comment c'est fait</title>
+  <programme start="20200427014000 +0200" stop="20200427022500 +0200" channel="Discovery Channel">
+    <title lang="fr">Street Customs *2011</title>
   </programme>
-  <programme start="20200424210000 +0200" stop="20200424215000 +0200" channel="Discovery Science">
-    <title lang="fr">1000 nuits insolites</title>
+  <programme start="20200427022500 +0200" stop="20200427031500 +0200" channel="Discovery Channel">
+    <title lang="fr">Retour à l'instinct primaire : Seul au monde</title>
   </programme>
-  <programme start="20200424215000 +0200" stop="20200424224000 +0200" channel="Discovery Science">
-    <title lang="fr">1000 nuits insolites</title>
+  <programme start="20200427031500 +0200" stop="20200427040000 +0200" channel="Discovery Channel">
+    <title lang="fr">Retour à l'instinct primaire : Seul au monde</title>
   </programme>
-  <programme start="20200424224000 +0200" stop="20200424233000 +0200" channel="Discovery Science">
-    <title lang="fr">Body Bizarre</title>
+  <programme start="20200427040000 +0200" stop="20200427042500 +0200" channel="Discovery Channel">
+    <title lang="fr">Au coeur des douanes</title>
   </programme>
-  <programme start="20200424233000 +0200" stop="20200425002000 +0200" channel="Discovery Science">
-    <title lang="fr">Body Bizarre</title>
+  <programme start="20200427042500 +0200" stop="20200427051000 +0200" channel="Discovery Channel">
+    <title lang="fr">Parker Schnabel : un destin en or</title>
   </programme>
-  <programme start="20200425002000 +0200" stop="20200425011000 +0200" channel="Discovery Science">
-    <title lang="fr">Da Vinci Reloaded</title>
-  </programme>
-  <programme start="20200425011000 +0200" stop="20200425015500 +0200" channel="Discovery Science">
-    <title lang="fr">Da Vinci Reloaded</title>
-  </programme>
-  <programme start="20200425015500 +0200" stop="20200425024000 +0200" channel="Discovery Science">
-    <title lang="fr">Da Vinci Reloaded</title>
-  </programme>
-  <programme start="20200425024000 +0200" stop="20200425032500 +0200" channel="Discovery Science">
-    <title lang="fr">Secrets enfouis</title>
-  </programme>
-  <programme start="20200425032500 +0200" stop="20200425041000 +0200" channel="Discovery Science">
-    <title lang="fr">Secrets enfouis</title>
-  </programme>
-  <programme start="20200425041000 +0200" stop="20200425043500 +0200" channel="Discovery Science">
-    <title lang="fr">Comment c'est fait</title>
-  </programme>
-  <programme start="20200425043500 +0200" stop="20200425045500 +0200" channel="Discovery Science">
-    <title lang="fr">Comment c'est fait</title>
-  </programme>
-  <programme start="20200425045500 +0200" stop="20200425052000 +0200" channel="Discovery Science">
-    <title lang="fr">Comment c'est fait</title>
-  </programme>
-  <programme start="20200425052000 +0200" stop="20200425054000 +0200" channel="Discovery Science">
-    <title lang="fr">Comment c'est fait</title>
-  </programme>
-  <programme start="20200425054000 +0200" stop="20200425060000 +0200" channel="Discovery Science">
-    <title lang="fr">Comment ça marche ?</title>
+  <programme start="20200427051000 +0200" stop="20200427060000 +0200" channel="Discovery Channel">
+    <title lang="fr">Parker Schnabel : un destin en or</title>
   </programme>
   <programme start="20200425060000 +0200" stop="20200425062500 +0200" channel="Discovery Science">
     <title lang="fr">Comment c'est fait</title>
@@ -946,101 +862,137 @@
   <programme start="20200426045500 +0200" stop="20200426052000 +0200" channel="Discovery Science">
     <title lang="fr">Comment ça marche ?</title>
   </programme>
-  <programme start="20200424062100 +0200" stop="20200424071200 +0200" channel="Science &amp; Vie TV">
-    <title lang="fr">Man 2.0 R-evolution</title>
+  <programme start="20200426052000 +0200" stop="20200426054000 +0200" channel="Discovery Science">
+    <title lang="fr">Comment ça marche ?</title>
   </programme>
-  <programme start="20200424071200 +0200" stop="20200424074100 +0200" channel="Science &amp; Vie TV">
-    <title lang="fr">C'est pas sorcier</title>
+  <programme start="20200426054000 +0200" stop="20200426060000 +0200" channel="Discovery Science">
+    <title lang="fr">Comment c'est fait</title>
   </programme>
-  <programme start="20200424074100 +0200" stop="20200424081000 +0200" channel="Science &amp; Vie TV">
-    <title lang="fr">C'est pas sorcier</title>
+  <programme start="20200426060000 +0200" stop="20200426062500 +0200" channel="Discovery Science">
+    <title lang="fr">Comment c'est fait</title>
   </programme>
-  <programme start="20200424081000 +0200" stop="20200424090100 +0200" channel="Science &amp; Vie TV">
-    <title lang="fr">On n'est pas que des cobayes</title>
+  <programme start="20200426062500 +0200" stop="20200426065000 +0200" channel="Discovery Science">
+    <title lang="fr">Comment c'est fait</title>
   </programme>
-  <programme start="20200424090100 +0200" stop="20200424095200 +0200" channel="Science &amp; Vie TV">
-    <title lang="fr">On n'est pas que des cobayes</title>
+  <programme start="20200426065000 +0200" stop="20200426071500 +0200" channel="Discovery Science">
+    <title lang="fr">Comment ça marche ?</title>
   </programme>
-  <programme start="20200424095200 +0200" stop="20200424104400 +0200" channel="Science &amp; Vie TV">
-    <title lang="fr">Les débris spatiaux : un désastre annoncé ?</title>
+  <programme start="20200426071500 +0200" stop="20200426074000 +0200" channel="Discovery Science">
+    <title lang="fr">Comment ça marche ?</title>
   </programme>
-  <programme start="20200424104400 +0200" stop="20200424113600 +0200" channel="Science &amp; Vie TV">
-    <title lang="fr">Les nouveaux pionniers de l'espace</title>
+  <programme start="20200426074000 +0200" stop="20200426080500 +0200" channel="Discovery Science">
+    <title lang="fr">Comment ça marche ?</title>
   </programme>
-  <programme start="20200424113600 +0200" stop="20200424120600 +0200" channel="Science &amp; Vie TV">
-    <title lang="fr">Le mag de la science</title>
+  <programme start="20200426080500 +0200" stop="20200426083000 +0200" channel="Discovery Science">
+    <title lang="fr">Comment ça marche ?</title>
   </programme>
-  <programme start="20200424120600 +0200" stop="20200424125400 +0200" channel="Science &amp; Vie TV">
-    <title lang="fr">Les déménageurs de l'extrême</title>
+  <programme start="20200426083000 +0200" stop="20200426085500 +0200" channel="Discovery Science">
+    <title lang="fr">Comment ça marche ?</title>
   </programme>
-  <programme start="20200424125400 +0200" stop="20200424134200 +0200" channel="Science &amp; Vie TV">
-    <title lang="fr">Les déménageurs de l'extrême</title>
+  <programme start="20200426085500 +0200" stop="20200426092000 +0200" channel="Discovery Science">
+    <title lang="fr">Comment ça marche ?</title>
   </programme>
-  <programme start="20200424134200 +0200" stop="20200424143300 +0200" channel="Science &amp; Vie TV">
-    <title lang="fr">Panique dans le ciel : ces avions qui font le buzz</title>
+  <programme start="20200426092000 +0200" stop="20200426094500 +0200" channel="Discovery Science">
+    <title lang="fr">Quand tout bascule</title>
   </programme>
-  <programme start="20200424143300 +0200" stop="20200424144500 +0200" channel="Science &amp; Vie TV">
-    <title lang="fr">Volcano</title>
+  <programme start="20200426094500 +0200" stop="20200426101000 +0200" channel="Discovery Science">
+    <title lang="fr">Quand tout bascule</title>
   </programme>
-  <programme start="20200424144500 +0200" stop="20200424153200 +0200" channel="Science &amp; Vie TV">
-    <title lang="fr">Terre : population zéro</title>
+  <programme start="20200426101000 +0200" stop="20200426103500 +0200" channel="Discovery Science">
+    <title lang="fr">Quand tout bascule</title>
   </programme>
-  <programme start="20200424153200 +0200" stop="20200424155100 +0200" channel="Science &amp; Vie TV">
-    <title lang="fr">Les rendez-vous de l'Espace</title>
+  <programme start="20200426103500 +0200" stop="20200426110000 +0200" channel="Discovery Science">
+    <title lang="fr">Quand tout bascule</title>
   </programme>
-  <programme start="20200424155100 +0200" stop="20200424164700 +0200" channel="Science &amp; Vie TV">
-    <title lang="fr">Objectif Lune : le rêve d'une nation lunaire</title>
+  <programme start="20200426110000 +0200" stop="20200426112500 +0200" channel="Discovery Science">
+    <title lang="fr">Quand tout bascule</title>
   </programme>
-  <programme start="20200424164700 +0200" stop="20200424173500 +0200" channel="Science &amp; Vie TV">
-    <title lang="fr">Le premier homme sur la Lune : l'histoire en marche</title>
+  <programme start="20200426112500 +0200" stop="20200426115000 +0200" channel="Discovery Science">
+    <title lang="fr">Quand tout bascule</title>
   </programme>
-  <programme start="20200424173500 +0200" stop="20200424180000 +0200" channel="Science &amp; Vie TV">
-    <title lang="fr">Les nouvelles frontières de l'espace</title>
+  <programme start="20200426115000 +0200" stop="20200426124000 +0200" channel="Discovery Science">
+    <title lang="fr">Ouragans dévastateurs : Harvey &amp; Irma</title>
   </programme>
-  <programme start="20200424180000 +0200" stop="20200424183000 +0200" channel="Science &amp; Vie TV">
-    <title lang="fr">Les nouvelles frontières de l'espace</title>
+  <programme start="20200426124000 +0200" stop="20200426130500 +0200" channel="Discovery Science">
+    <title lang="fr">Comment ça marche ?</title>
   </programme>
-  <programme start="20200424183000 +0200" stop="20200424185500 +0200" channel="Science &amp; Vie TV">
-    <title lang="fr">Les nouvelles frontières de l'espace</title>
+  <programme start="20200426130500 +0200" stop="20200426133000 +0200" channel="Discovery Science">
+    <title lang="fr">Comment ça marche ?</title>
   </programme>
-  <programme start="20200424185500 +0200" stop="20200424193000 +0200" channel="Science &amp; Vie TV">
-    <title lang="fr">Les nouvelles frontières de l'espace</title>
+  <programme start="20200426133000 +0200" stop="20200426135500 +0200" channel="Discovery Science">
+    <title lang="fr">Comment ça marche ?</title>
   </programme>
-  <programme start="20200424193000 +0200" stop="20200424203000 +0200" channel="Science &amp; Vie TV">
-    <title lang="fr">Terre en furie</title>
+  <programme start="20200426135500 +0200" stop="20200426142000 +0200" channel="Discovery Science">
+    <title lang="fr">Comment ça marche ?</title>
   </programme>
-  <programme start="20200424203000 +0200" stop="20200424204500 +0200" channel="Science &amp; Vie TV">
-    <title lang="fr">Courts de science</title>
+  <programme start="20200426142000 +0200" stop="20200426144500 +0200" channel="Discovery Science">
+    <title lang="fr">Comment ça marche ?</title>
   </programme>
-  <programme start="20200424204500 +0200" stop="20200424214000 +0200" channel="Science &amp; Vie TV">
-    <title lang="fr">Les télescopes les plus puissants du monde</title>
+  <programme start="20200426144500 +0200" stop="20200426151000 +0200" channel="Discovery Science">
+    <title lang="fr">Comment ça marche ?</title>
   </programme>
-  <programme start="20200424214000 +0200" stop="20200424222500 +0200" channel="Science &amp; Vie TV">
-    <title lang="fr">Les mystères de l'univers</title>
+  <programme start="20200426151000 +0200" stop="20200426153500 +0200" channel="Discovery Science">
+    <title lang="fr">Comment c'est fait</title>
   </programme>
-  <programme start="20200424222500 +0200" stop="20200424231900 +0200" channel="Science &amp; Vie TV">
-    <title lang="fr">Projet Greenglow : le contrôle de la pesanteur</title>
+  <programme start="20200426153500 +0200" stop="20200426162500 +0200" channel="Discovery Science">
+    <title lang="fr">Space Escapes</title>
   </programme>
-  <programme start="20200424231900 +0200" stop="20200425000600 +0200" channel="Science &amp; Vie TV">
-    <title lang="fr">Les mystères de l'univers</title>
+  <programme start="20200426162500 +0200" stop="20200426171500 +0200" channel="Discovery Science">
+    <title lang="fr">Space Escapes</title>
   </programme>
-  <programme start="20200425000600 +0200" stop="20200425005700 +0200" channel="Science &amp; Vie TV">
-    <title lang="fr">Nature meurtrière</title>
+  <programme start="20200426171500 +0200" stop="20200426180500 +0200" channel="Discovery Science">
+    <title lang="fr">Space Escapes</title>
   </programme>
-  <programme start="20200425005700 +0200" stop="20200425014800 +0200" channel="Science &amp; Vie TV">
-    <title lang="fr">Nature meurtrière</title>
+  <programme start="20200426180500 +0200" stop="20200426192000 +0200" channel="Discovery Science">
+    <title lang="fr">Biodiesel</title>
   </programme>
-  <programme start="20200425014800 +0200" stop="20200425021800 +0200" channel="Science &amp; Vie TV">
-    <title lang="fr">Le mag de la science</title>
+  <programme start="20200426192000 +0200" stop="20200426210000 +0200" channel="Discovery Science">
+    <title lang="fr">Planète plastique</title>
   </programme>
-  <programme start="20200425021800 +0200" stop="20200425030900 +0200" channel="Science &amp; Vie TV">
-    <title lang="fr">Sur les routes de la science</title>
+  <programme start="20200426210000 +0200" stop="20200426215000 +0200" channel="Discovery Science">
+    <title lang="fr">L'Histoire en 3D</title>
   </programme>
-  <programme start="20200425030900 +0200" stop="20200425044600 +0200" channel="Science &amp; Vie TV">
-    <title lang="fr">On n'est pas que des cobayes</title>
+  <programme start="20200426215000 +0200" stop="20200426224000 +0200" channel="Discovery Science">
+    <title lang="fr">L'Histoire en 3D</title>
   </programme>
-  <programme start="20200425044600 +0200" stop="20200425053900 +0200" channel="Science &amp; Vie TV">
-    <title lang="fr">Megastadium : le tour d'Europe</title>
+  <programme start="20200426224000 +0200" stop="20200426233000 +0200" channel="Discovery Science">
+    <title lang="fr">Les grands mythes de l'Histoire</title>
+  </programme>
+  <programme start="20200426233000 +0200" stop="20200427002000 +0200" channel="Discovery Science">
+    <title lang="fr">Les grands mythes de l'Histoire</title>
+  </programme>
+  <programme start="20200427002000 +0200" stop="20200427011000 +0200" channel="Discovery Science">
+    <title lang="fr">Les clés de l'univers</title>
+  </programme>
+  <programme start="20200427011000 +0200" stop="20200427015500 +0200" channel="Discovery Science">
+    <title lang="fr">Les clés de l'univers</title>
+  </programme>
+  <programme start="20200427015500 +0200" stop="20200427024000 +0200" channel="Discovery Science">
+    <title lang="fr">Space Escapes</title>
+  </programme>
+  <programme start="20200427024000 +0200" stop="20200427032500 +0200" channel="Discovery Science">
+    <title lang="fr">Space Escapes</title>
+  </programme>
+  <programme start="20200427032500 +0200" stop="20200427035000 +0200" channel="Discovery Science">
+    <title lang="fr">Comment ça marche ?</title>
+  </programme>
+  <programme start="20200427035000 +0200" stop="20200427041000 +0200" channel="Discovery Science">
+    <title lang="fr">Comment ça marche ?</title>
+  </programme>
+  <programme start="20200427041000 +0200" stop="20200427043500 +0200" channel="Discovery Science">
+    <title lang="fr">Comment ça marche ?</title>
+  </programme>
+  <programme start="20200427043500 +0200" stop="20200427045500 +0200" channel="Discovery Science">
+    <title lang="fr">Comment ça marche ?</title>
+  </programme>
+  <programme start="20200427045500 +0200" stop="20200427052000 +0200" channel="Discovery Science">
+    <title lang="fr">Comment ça marche ?</title>
+  </programme>
+  <programme start="20200427052000 +0200" stop="20200427054000 +0200" channel="Discovery Science">
+    <title lang="fr">Comment ça marche ?</title>
+  </programme>
+  <programme start="20200427054000 +0200" stop="20200427060000 +0200" channel="Discovery Science">
+    <title lang="fr">Comment c'est fait</title>
   </programme>
   <programme start="20200425063400 +0200" stop="20200425072900 +0200" channel="Science &amp; Vie TV">
     <title lang="fr">Les télescopes les plus puissants du monde</title>
@@ -1159,116 +1111,128 @@
   <programme start="20200426044700 +0200" stop="20200426055000 +0200" channel="Science &amp; Vie TV">
     <title lang="fr">Combats de robots</title>
   </programme>
-  <programme start="20200424060000 +0200" stop="20200424063000 +0200" channel="Al Jazeera English">
-    <title lang="fr">News Live</title>
+  <programme start="20200426063900 +0200" stop="20200426073500 +0200" channel="Science &amp; Vie TV">
+    <title lang="fr">Objectif Lune : le rêve d'une nation lunaire</title>
   </programme>
-  <programme start="20200424063000 +0200" stop="20200424070000 +0200" channel="Al Jazeera English">
-    <title lang="fr">The Stream</title>
+  <programme start="20200426073500 +0200" stop="20200426082600 +0200" channel="Science &amp; Vie TV">
+    <title lang="fr">Nature meurtrière</title>
   </programme>
-  <programme start="20200424070000 +0200" stop="20200424073000 +0200" channel="Al Jazeera English">
-    <title lang="fr">News Live</title>
+  <programme start="20200426082600 +0200" stop="20200426085600 +0200" channel="Science &amp; Vie TV">
+    <title lang="fr">Le mag de la science</title>
   </programme>
-  <programme start="20200424073000 +0200" stop="20200424080000 +0200" channel="Al Jazeera English">
-    <title lang="fr">TechKnow</title>
+  <programme start="20200426085600 +0200" stop="20200426090000 +0200" channel="Science &amp; Vie TV">
+    <title lang="fr">CQFD</title>
   </programme>
-  <programme start="20200424080000 +0200" stop="20200424090000 +0200" channel="Al Jazeera English">
-    <title lang="fr">Al Jazeera World</title>
+  <programme start="20200426090000 +0200" stop="20200426090300 +0200" channel="Science &amp; Vie TV">
+    <title lang="fr">CQFD</title>
   </programme>
-  <programme start="20200424090000 +0200" stop="20200424093000 +0200" channel="Al Jazeera English">
-    <title lang="fr">News Live</title>
+  <programme start="20200426091100 +0200" stop="20200426091900 +0200" channel="Science &amp; Vie TV">
+    <title lang="fr">Science Gossip</title>
   </programme>
-  <programme start="20200424093000 +0200" stop="20200424100000 +0200" channel="Al Jazeera English">
-    <title lang="fr">Inside Story</title>
+  <programme start="20200426091900 +0200" stop="20200426092700 +0200" channel="Science &amp; Vie TV">
+    <title lang="fr">Science Gossip</title>
   </programme>
-  <programme start="20200424100000 +0200" stop="20200424103000 +0200" channel="Al Jazeera English">
-    <title lang="fr">News Live</title>
+  <programme start="20200426092700 +0200" stop="20200426095500 +0200" channel="Science &amp; Vie TV">
+    <title lang="fr">Il était une fois... l'espace</title>
   </programme>
-  <programme start="20200424103000 +0200" stop="20200424110000 +0200" channel="Al Jazeera English">
-    <title lang="fr">The Stream</title>
+  <programme start="20200426095500 +0200" stop="20200426102300 +0200" channel="Science &amp; Vie TV">
+    <title lang="fr">Il était une fois... l'espace</title>
   </programme>
-  <programme start="20200424110000 +0200" stop="20200424113000 +0200" channel="Al Jazeera English">
-    <title lang="fr">News Live</title>
+  <programme start="20200426102300 +0200" stop="20200426104800 +0200" channel="Science &amp; Vie TV">
+    <title lang="fr">Ah</title>
   </programme>
-  <programme start="20200424113000 +0200" stop="20200424120000 +0200" channel="Al Jazeera English">
-    <title lang="fr">101 East</title>
+  <programme start="20200426104800 +0200" stop="20200426105300 +0200" channel="Science &amp; Vie TV">
+    <title lang="fr">Cap'taine Snap</title>
   </programme>
-  <programme start="20200424120000 +0200" stop="20200424130000 +0200" channel="Al Jazeera English">
-    <title lang="fr">Newshour</title>
+  <programme start="20200426105300 +0200" stop="20200426110900 +0200" channel="Science &amp; Vie TV">
+    <title lang="fr">Ramène ta science !</title>
   </programme>
-  <programme start="20200424130000 +0200" stop="20200424133000 +0200" channel="Al Jazeera English">
-    <title lang="fr">News Live</title>
+  <programme start="20200426110900 +0200" stop="20200426111700 +0200" channel="Science &amp; Vie TV">
+    <title lang="fr">Les expériences de Dr Nozman</title>
   </programme>
-  <programme start="20200424133000 +0200" stop="20200424140000 +0200" channel="Al Jazeera English">
-    <title lang="fr">Inside Story</title>
+  <programme start="20200426111700 +0200" stop="20200426113300 +0200" channel="Science &amp; Vie TV">
+    <title lang="fr">L'esprit sorcier</title>
   </programme>
-  <programme start="20200424140000 +0200" stop="20200424150000 +0200" channel="Al Jazeera English">
-    <title lang="fr">Exiled</title>
+  <programme start="20200426113300 +0200" stop="20200426122800 +0200" channel="Science &amp; Vie TV">
+    <title lang="fr">Les télescopes les plus puissants du monde</title>
   </programme>
-  <programme start="20200424150000 +0200" stop="20200424160000 +0200" channel="Al Jazeera English">
-    <title lang="fr">Newshour</title>
+  <programme start="20200426122800 +0200" stop="20200426131300 +0200" channel="Science &amp; Vie TV">
+    <title lang="fr">Les mystères de l'univers</title>
   </programme>
-  <programme start="20200424160000 +0200" stop="20200424163000 +0200" channel="Al Jazeera English">
-    <title lang="fr">News Live</title>
+  <programme start="20200426131300 +0200" stop="20200426140500 +0200" channel="Science &amp; Vie TV">
+    <title lang="fr">Les débris spatiaux : un désastre annoncé ?</title>
   </programme>
-  <programme start="20200424163000 +0200" stop="20200424170000 +0200" channel="Al Jazeera English">
-    <title lang="fr">The Stream</title>
+  <programme start="20200426140500 +0200" stop="20200426145700 +0200" channel="Science &amp; Vie TV">
+    <title lang="fr">Les nouveaux pionniers de l'espace</title>
   </programme>
-  <programme start="20200424170000 +0200" stop="20200424180000 +0200" channel="Al Jazeera English">
-    <title lang="fr">Newshour</title>
+  <programme start="20200426145700 +0200" stop="20200426154500 +0200" channel="Science &amp; Vie TV">
+    <title lang="fr">Les déménageurs de l'extrême</title>
   </programme>
-  <programme start="20200424180000 +0200" stop="20200424183000 +0200" channel="Al Jazeera English">
-    <title lang="fr">News Live</title>
+  <programme start="20200426154500 +0200" stop="20200426164800 +0200" channel="Science &amp; Vie TV">
+    <title lang="fr">Combats de robots</title>
   </programme>
-  <programme start="20200424183000 +0200" stop="20200424190000 +0200" channel="Al Jazeera English">
-    <title lang="fr">PLO : History of a Revolution</title>
+  <programme start="20200426164800 +0200" stop="20200426173900 +0200" channel="Science &amp; Vie TV">
+    <title lang="fr">Nature meurtrière</title>
   </programme>
-  <programme start="20200424190000 +0200" stop="20200424193000 +0200" channel="Al Jazeera English">
-    <title lang="fr">News Live</title>
+  <programme start="20200426173900 +0200" stop="20200426183000 +0200" channel="Science &amp; Vie TV">
+    <title lang="fr">Nature meurtrière</title>
   </programme>
-  <programme start="20200424193000 +0200" stop="20200424200000 +0200" channel="Al Jazeera English">
-    <title lang="fr">Inside Story</title>
+  <programme start="20200426183000 +0200" stop="20200426183500 +0200" channel="Science &amp; Vie TV">
+    <title lang="fr">Planète détox</title>
   </programme>
-  <programme start="20200424200000 +0200" stop="20200424210000 +0200" channel="Al Jazeera English">
-    <title lang="fr">Newshour</title>
+  <programme start="20200426183500 +0200" stop="20200426184000 +0200" channel="Science &amp; Vie TV">
+    <title lang="fr">Planète détox</title>
   </programme>
-  <programme start="20200424210000 +0200" stop="20200424213000 +0200" channel="Al Jazeera English">
-    <title lang="fr">News Live</title>
+  <programme start="20200426184000 +0200" stop="20200426184500 +0200" channel="Science &amp; Vie TV">
+    <title lang="fr">Planète détox</title>
   </programme>
-  <programme start="20200424213000 +0200" stop="20200424220000 +0200" channel="Al Jazeera English">
-    <title lang="fr">Risking it All</title>
+  <programme start="20200426184500 +0200" stop="20200426185000 +0200" channel="Science &amp; Vie TV">
+    <title lang="fr">Planète détox</title>
   </programme>
-  <programme start="20200424220000 +0200" stop="20200424230000 +0200" channel="Al Jazeera English">
-    <title lang="fr">Balfour : Seeds Of Discord</title>
+  <programme start="20200426185000 +0200" stop="20200426190000 +0200" channel="Science &amp; Vie TV">
+    <title lang="fr">Planète détox</title>
   </programme>
-  <programme start="20200424230000 +0200" stop="20200425000000 +0200" channel="Al Jazeera English">
-    <title lang="fr">Newshour</title>
+  <programme start="20200426190000 +0200" stop="20200426193000 +0200" channel="Science &amp; Vie TV">
+    <title lang="fr">Le mag de la science</title>
   </programme>
-  <programme start="20200425000000 +0200" stop="20200425003000 +0200" channel="Al Jazeera English">
-    <title lang="fr">News Live</title>
+  <programme start="20200426193000 +0200" stop="20200426200000 +0200" channel="Science &amp; Vie TV">
+    <title lang="fr">Le mag de la science</title>
   </programme>
-  <programme start="20200425003000 +0200" stop="20200425010000 +0200" channel="Al Jazeera English">
-    <title lang="fr">Counting the Cost</title>
+  <programme start="20200426200000 +0200" stop="20200426201200 +0200" channel="Science &amp; Vie TV">
+    <title lang="fr">Volcano</title>
   </programme>
-  <programme start="20200425010000 +0200" stop="20200425020000 +0200" channel="Al Jazeera English">
-    <title lang="fr">Newshour</title>
+  <programme start="20200426201200 +0200" stop="20200426205800 +0200" channel="Science &amp; Vie TV">
+    <title lang="fr">Terre : population zéro</title>
   </programme>
-  <programme start="20200425020000 +0200" stop="20200425023000 +0200" channel="Al Jazeera English">
-    <title lang="fr">News Live</title>
+  <programme start="20200426205800 +0200" stop="20200426214900 +0200" channel="Science &amp; Vie TV">
+    <title lang="fr">Nature meurtrière</title>
   </programme>
-  <programme start="20200425023000 +0200" stop="20200425030000 +0200" channel="Al Jazeera English">
-    <title lang="fr">Inside Story</title>
+  <programme start="20200426214900 +0200" stop="20200426224000 +0200" channel="Science &amp; Vie TV">
+    <title lang="fr">Nature meurtrière</title>
   </programme>
-  <programme start="20200425030000 +0200" stop="20200425040000 +0200" channel="Al Jazeera English">
-    <title lang="fr">Exiled</title>
+  <programme start="20200426224000 +0200" stop="20200426233100 +0200" channel="Science &amp; Vie TV">
+    <title lang="fr">Nature meurtrière</title>
   </programme>
-  <programme start="20200425040000 +0200" stop="20200425050000 +0200" channel="Al Jazeera English">
-    <title lang="fr">Newshour</title>
+  <programme start="20200426233100 +0200" stop="20200427002200 +0200" channel="Science &amp; Vie TV">
+    <title lang="fr">Nature meurtrière</title>
   </programme>
-  <programme start="20200425050000 +0200" stop="20200425053000 +0200" channel="Al Jazeera English">
-    <title lang="fr">News Live</title>
+  <programme start="20200427002200 +0200" stop="20200427004100 +0200" channel="Science &amp; Vie TV">
+    <title lang="fr">Les rendez-vous de l'Espace</title>
   </programme>
-  <programme start="20200425053000 +0200" stop="20200425060000 +0200" channel="Al Jazeera English">
-    <title lang="fr">101 East</title>
+  <programme start="20200427004100 +0200" stop="20200427013700 +0200" channel="Science &amp; Vie TV">
+    <title lang="fr">Objectif Lune : le rêve d'une nation lunaire</title>
+  </programme>
+  <programme start="20200427013700 +0200" stop="20200427023000 +0200" channel="Science &amp; Vie TV">
+    <title lang="fr">Sur les routes de la science</title>
+  </programme>
+  <programme start="20200427023000 +0200" stop="20200427032100 +0200" channel="Science &amp; Vie TV">
+    <title lang="fr">On n'est pas que des cobayes</title>
+  </programme>
+  <programme start="20200427032100 +0200" stop="20200427045400 +0200" channel="Science &amp; Vie TV">
+    <title lang="fr">On n'est pas que des cobayes</title>
+  </programme>
+  <programme start="20200427045400 +0200" stop="20200427050600 +0200" channel="Science &amp; Vie TV">
+    <title lang="fr">Volcano</title>
   </programme>
   <programme start="20200425060000 +0200" stop="20200425063000 +0200" channel="Al Jazeera English">
     <title lang="fr">News Live</title>
@@ -1381,134 +1345,116 @@
   <programme start="20200426053000 +0200" stop="20200426060000 +0200" channel="Al Jazeera English">
     <title lang="fr">Counting the Cost</title>
   </programme>
-  <programme start="20200424060000 +0200" stop="20200424063000 +0200" channel="BBC World News">
-    <title lang="fr">BBC World News</title>
+  <programme start="20200426060000 +0200" stop="20200426063000 +0200" channel="Al Jazeera English">
+    <title lang="fr">News Live</title>
   </programme>
-  <programme start="20200424063000 +0200" stop="20200424070000 +0200" channel="BBC World News">
-    <title lang="fr">BBC World News</title>
+  <programme start="20200426063000 +0200" stop="20200426070000 +0200" channel="Al Jazeera English">
+    <title lang="fr">Risking it All</title>
   </programme>
-  <programme start="20200424070000 +0200" stop="20200424073000 +0200" channel="BBC World News">
-    <title lang="fr">BBC World News</title>
+  <programme start="20200426070000 +0200" stop="20200426073000 +0200" channel="Al Jazeera English">
+    <title lang="fr">News Live</title>
   </programme>
-  <programme start="20200424073000 +0200" stop="20200424080000 +0200" channel="BBC World News">
-    <title lang="fr">Outliers</title>
+  <programme start="20200426073000 +0200" stop="20200426080000 +0200" channel="Al Jazeera English">
+    <title lang="fr">People and Power</title>
   </programme>
-  <programme start="20200424080000 +0200" stop="20200424083000 +0200" channel="BBC World News">
-    <title lang="fr">BBC World News</title>
+  <programme start="20200426080000 +0200" stop="20200426090000 +0200" channel="Al Jazeera English">
+    <title lang="fr">Exiled</title>
   </programme>
-  <programme start="20200424083000 +0200" stop="20200424090000 +0200" channel="BBC World News">
-    <title lang="fr">Our World</title>
+  <programme start="20200426090000 +0200" stop="20200426093000 +0200" channel="Al Jazeera English">
+    <title lang="fr">News Live</title>
   </programme>
-  <programme start="20200424090000 +0200" stop="20200424093000 +0200" channel="BBC World News">
-    <title lang="fr">BBC World News</title>
+  <programme start="20200426093000 +0200" stop="20200426100000 +0200" channel="Al Jazeera English">
+    <title lang="fr">Inside Story</title>
   </programme>
-  <programme start="20200424093000 +0200" stop="20200424100000 +0200" channel="BBC World News">
-    <title lang="fr">Click</title>
+  <programme start="20200426100000 +0200" stop="20200426103000 +0200" channel="Al Jazeera English">
+    <title lang="fr">News Live</title>
   </programme>
-  <programme start="20200424100000 +0200" stop="20200424103000 +0200" channel="BBC World News">
-    <title lang="fr">BBC World News</title>
+  <programme start="20200426103000 +0200" stop="20200426110000 +0200" channel="Al Jazeera English">
+    <title lang="fr">Talk to Al Jazeera</title>
   </programme>
-  <programme start="20200424103000 +0200" stop="20200424110000 +0200" channel="BBC World News">
-    <title lang="fr">HARDtalk</title>
+  <programme start="20200426110000 +0200" stop="20200426113000 +0200" channel="Al Jazeera English">
+    <title lang="fr">News Live</title>
   </programme>
-  <programme start="20200424110000 +0200" stop="20200424133000 +0200" channel="BBC World News">
-    <title lang="fr">BBC News</title>
+  <programme start="20200426113000 +0200" stop="20200426120000 +0200" channel="Al Jazeera English">
+    <title lang="fr">Rewind</title>
   </programme>
-  <programme start="20200424133000 +0200" stop="20200424140000 +0200" channel="BBC World News">
-    <title lang="fr">Click</title>
+  <programme start="20200426120000 +0200" stop="20200426130000 +0200" channel="Al Jazeera English">
+    <title lang="fr">Newshour</title>
   </programme>
-  <programme start="20200424140000 +0200" stop="20200424143000 +0200" channel="BBC World News">
-    <title lang="fr">BBC World News</title>
+  <programme start="20200426130000 +0200" stop="20200426133000 +0200" channel="Al Jazeera English">
+    <title lang="fr">News Live</title>
   </programme>
-  <programme start="20200424143000 +0200" stop="20200424150000 +0200" channel="BBC World News">
-    <title lang="fr">Our World</title>
+  <programme start="20200426133000 +0200" stop="20200426140000 +0200" channel="Al Jazeera English">
+    <title lang="fr">Inside Story</title>
   </programme>
-  <programme start="20200424150000 +0200" stop="20200424153000 +0200" channel="BBC World News">
-    <title lang="fr">BBC World News</title>
+  <programme start="20200426140000 +0200" stop="20200426150000 +0200" channel="Al Jazeera English">
+    <title lang="fr">Al Jazeera World</title>
   </programme>
-  <programme start="20200424153000 +0200" stop="20200424160000 +0200" channel="BBC World News">
-    <title lang="fr">BBC News Special</title>
+  <programme start="20200426150000 +0200" stop="20200426160100 +0200" channel="Al Jazeera English">
+    <title lang="fr">Newshour</title>
   </programme>
-  <programme start="20200424160000 +0200" stop="20200424163000 +0200" channel="BBC World News">
-    <title lang="fr">BBC World News</title>
+  <programme start="20200426160100 +0200" stop="20200426163000 +0200" channel="Al Jazeera English">
+    <title lang="fr">News Live</title>
   </programme>
-  <programme start="20200424163000 +0200" stop="20200424170000 +0200" channel="BBC World News">
-    <title lang="fr">HARDtalk</title>
+  <programme start="20200426163000 +0200" stop="20200426170000 +0200" channel="Al Jazeera English">
+    <title lang="fr">The Listening Post</title>
   </programme>
-  <programme start="20200424170000 +0200" stop="20200424173000 +0200" channel="BBC World News">
-    <title lang="fr">BBC World News</title>
+  <programme start="20200426170000 +0200" stop="20200426180000 +0200" channel="Al Jazeera English">
+    <title lang="fr">Newshour</title>
   </programme>
-  <programme start="20200424173000 +0200" stop="20200424180000 +0200" channel="BBC World News">
-    <title lang="fr">Outliers</title>
+  <programme start="20200426180000 +0200" stop="20200426183000 +0200" channel="Al Jazeera English">
+    <title lang="fr">News Live</title>
   </programme>
-  <programme start="20200424180000 +0200" stop="20200424183000 +0200" channel="BBC World News">
-    <title lang="fr">BBC World News</title>
+  <programme start="20200426183000 +0200" stop="20200426190000 +0200" channel="Al Jazeera English">
+    <title lang="fr">101 East</title>
   </programme>
-  <programme start="20200424183000 +0200" stop="20200424190000 +0200" channel="BBC World News">
-    <title lang="fr">A Taste of the City</title>
+  <programme start="20200426190000 +0200" stop="20200426193000 +0200" channel="Al Jazeera English">
+    <title lang="fr">News Live</title>
   </programme>
-  <programme start="20200424190000 +0200" stop="20200424193000 +0200" channel="BBC World News">
-    <title lang="fr">BBC World News</title>
+  <programme start="20200426193000 +0200" stop="20200426200000 +0200" channel="Al Jazeera English">
+    <title lang="fr">Inside Story</title>
   </programme>
-  <programme start="20200424193000 +0200" stop="20200424200000 +0200" channel="BBC World News">
-    <title lang="fr">BBC Focus on Africa</title>
+  <programme start="20200426200000 +0200" stop="20200426210000 +0200" channel="Al Jazeera English">
+    <title lang="fr">Newshour</title>
   </programme>
-  <programme start="20200424200000 +0200" stop="20200424203000 +0200" channel="BBC World News">
-    <title lang="fr">BBC World News</title>
+  <programme start="20200426210000 +0200" stop="20200426213000 +0200" channel="Al Jazeera English">
+    <title lang="fr">News Live</title>
   </programme>
-  <programme start="20200424203000 +0200" stop="20200424210000 +0200" channel="BBC World News">
-    <title lang="fr">In Business Africa</title>
+  <programme start="20200426213000 +0200" stop="20200426220000 +0200" channel="Al Jazeera English">
+    <title lang="fr">Talk to Al Jazeera</title>
   </programme>
-  <programme start="20200424210000 +0200" stop="20200424213000 +0200" channel="BBC World News">
-    <title lang="fr">BBC World News</title>
+  <programme start="20200426220000 +0200" stop="20200426230000 +0200" channel="Al Jazeera English">
+    <title lang="fr">The Crusades : An Arab Perspective</title>
   </programme>
-  <programme start="20200424213000 +0200" stop="20200424220000 +0200" channel="BBC World News">
-    <title lang="fr">HARDtalk</title>
+  <programme start="20200426230000 +0200" stop="20200427000000 +0200" channel="Al Jazeera English">
+    <title lang="fr">Newshour</title>
   </programme>
-  <programme start="20200424220000 +0200" stop="20200424223000 +0200" channel="BBC World News">
-    <title lang="fr">BBC World News</title>
+  <programme start="20200427000000 +0200" stop="20200427003000 +0200" channel="Al Jazeera English">
+    <title lang="fr">News Live</title>
   </programme>
-  <programme start="20200424223000 +0200" stop="20200424230000 +0200" channel="BBC World News">
-    <title lang="fr">The Travel Show</title>
+  <programme start="20200427003000 +0200" stop="20200427010000 +0200" channel="Al Jazeera English">
+    <title lang="fr">Witness</title>
   </programme>
-  <programme start="20200424230000 +0200" stop="20200424233000 +0200" channel="BBC World News">
-    <title lang="fr">BBC World News America</title>
+  <programme start="20200427010000 +0200" stop="20200427020000 +0200" channel="Al Jazeera English">
+    <title lang="fr">Newshour</title>
   </programme>
-  <programme start="20200424233000 +0200" stop="20200425000000 +0200" channel="BBC World News">
-    <title lang="fr">BBC News Special</title>
+  <programme start="20200427020000 +0200" stop="20200427023000 +0200" channel="Al Jazeera English">
+    <title lang="fr">News Live</title>
   </programme>
-  <programme start="20200425000000 +0200" stop="20200425003000 +0200" channel="BBC World News">
-    <title lang="fr">BBC World News</title>
+  <programme start="20200427023000 +0200" stop="20200427030000 +0200" channel="Al Jazeera English">
+    <title lang="fr">Inside Story</title>
   </programme>
-  <programme start="20200425003000 +0200" stop="20200425010000 +0200" channel="BBC World News">
-    <title lang="fr">Newsnight</title>
+  <programme start="20200427030000 +0200" stop="20200427040000 +0200" channel="Al Jazeera English">
+    <title lang="fr">Al Jazeera World</title>
   </programme>
-  <programme start="20200425010000 +0200" stop="20200425020000 +0200" channel="BBC World News">
-    <title lang="fr">BBC World News</title>
+  <programme start="20200427040000 +0200" stop="20200427050000 +0200" channel="Al Jazeera English">
+    <title lang="fr">Newshour</title>
   </programme>
-  <programme start="20200425020000 +0200" stop="20200425023000 +0200" channel="BBC World News">
-    <title lang="fr">BBC World News</title>
+  <programme start="20200427050000 +0200" stop="20200427053000 +0200" channel="Al Jazeera English">
+    <title lang="fr">News Live</title>
   </programme>
-  <programme start="20200425023000 +0200" stop="20200425030000 +0200" channel="BBC World News">
-    <title lang="fr">Click</title>
-  </programme>
-  <programme start="20200425030000 +0200" stop="20200425033000 +0200" channel="BBC World News">
-    <title lang="fr">BBC World News</title>
-  </programme>
-  <programme start="20200425033000 +0200" stop="20200425040000 +0200" channel="BBC World News">
-    <title lang="fr">Made on Earth</title>
-  </programme>
-  <programme start="20200425040000 +0200" stop="20200425041000 +0200" channel="BBC World News">
-    <title lang="fr">BBC World News</title>
-  </programme>
-  <programme start="20200425041000 +0200" stop="20200425050000 +0200" channel="BBC World News">
-    <title lang="fr">History of Africa</title>
-  </programme>
-  <programme start="20200425050000 +0200" stop="20200425053000 +0200" channel="BBC World News">
-    <title lang="fr">BBC World News</title>
-  </programme>
-  <programme start="20200425053000 +0200" stop="20200425060000 +0200" channel="BBC World News">
-    <title lang="fr">The Travel Show</title>
+  <programme start="20200427053000 +0200" stop="20200427060000 +0200" channel="Al Jazeera English">
+    <title lang="fr">Rewind</title>
   </programme>
   <programme start="20200425060000 +0200" stop="20200425063000 +0200" channel="BBC World News">
     <title lang="fr">BBC World News</title>
@@ -1520,7 +1466,7 @@
     <title lang="fr">BBC World News</title>
   </programme>
   <programme start="20200425073000 +0200" stop="20200425080000 +0200" channel="BBC World News">
-    <title lang="fr">Newsnight</title>
+    <title lang="fr">BBC News Special</title>
   </programme>
   <programme start="20200425080000 +0200" stop="20200425083000 +0200" channel="BBC World News">
     <title lang="fr">BBC World News</title>
@@ -1528,44 +1474,32 @@
   <programme start="20200425083000 +0200" stop="20200425090000 +0200" channel="BBC World News">
     <title lang="fr">Click</title>
   </programme>
-  <programme start="20200425090000 +0200" stop="20200425091000 +0200" channel="BBC World News">
+  <programme start="20200425090000 +0200" stop="20200425093000 +0200" channel="BBC World News">
     <title lang="fr">BBC World News</title>
-  </programme>
-  <programme start="20200425091000 +0200" stop="20200425093000 +0200" channel="BBC World News">
-    <title lang="fr">World Features</title>
   </programme>
   <programme start="20200425093000 +0200" stop="20200425100000 +0200" channel="BBC World News">
-    <title lang="fr">HARDtalk</title>
+    <title lang="fr">The Lockdown Diaries</title>
   </programme>
-  <programme start="20200425100000 +0200" stop="20200425101000 +0200" channel="BBC World News">
+  <programme start="20200425100000 +0200" stop="20200425103000 +0200" channel="BBC World News">
     <title lang="fr">BBC World News</title>
-  </programme>
-  <programme start="20200425101000 +0200" stop="20200425103000 +0200" channel="BBC World News">
-    <title lang="fr">World Features</title>
   </programme>
   <programme start="20200425103000 +0200" stop="20200425110000 +0200" channel="BBC World News">
-    <title lang="fr">Made on Earth</title>
+    <title lang="fr">Treasures of Ancient Egypt</title>
   </programme>
-  <programme start="20200425110000 +0200" stop="20200425111000 +0200" channel="BBC World News">
+  <programme start="20200425110000 +0200" stop="20200425113000 +0200" channel="BBC World News">
     <title lang="fr">BBC World News</title>
   </programme>
-  <programme start="20200425111000 +0200" stop="20200425120000 +0200" channel="BBC World News">
-    <title lang="fr">To Be Announced</title>
+  <programme start="20200425113000 +0200" stop="20200425120000 +0200" channel="BBC World News">
+    <title lang="fr">Burn It or Bury It ? What To Do With Our Waste</title>
   </programme>
-  <programme start="20200425120000 +0200" stop="20200425121000 +0200" channel="BBC World News">
+  <programme start="20200425120000 +0200" stop="20200425123000 +0200" channel="BBC World News">
     <title lang="fr">BBC World News</title>
-  </programme>
-  <programme start="20200425121000 +0200" stop="20200425123000 +0200" channel="BBC World News">
-    <title lang="fr">World Features</title>
   </programme>
   <programme start="20200425123000 +0200" stop="20200425130000 +0200" channel="BBC World News">
     <title lang="fr">Newsnight</title>
   </programme>
-  <programme start="20200425130000 +0200" stop="20200425131500 +0200" channel="BBC World News">
+  <programme start="20200425130000 +0200" stop="20200425133000 +0200" channel="BBC World News">
     <title lang="fr">BBC World News</title>
-  </programme>
-  <programme start="20200425131500 +0200" stop="20200425133000 +0200" channel="BBC World News">
-    <title lang="fr">Sport Today</title>
   </programme>
   <programme start="20200425133000 +0200" stop="20200425140000 +0200" channel="BBC World News">
     <title lang="fr">Our World</title>
@@ -1574,13 +1508,10 @@
     <title lang="fr">BBC World News</title>
   </programme>
   <programme start="20200425143000 +0200" stop="20200425150000 +0200" channel="BBC World News">
-    <title lang="fr">To Be Announced</title>
+    <title lang="fr">Talking Movies</title>
   </programme>
-  <programme start="20200425150000 +0200" stop="20200425151500 +0200" channel="BBC World News">
+  <programme start="20200425150000 +0200" stop="20200425153000 +0200" channel="BBC World News">
     <title lang="fr">BBC World News</title>
-  </programme>
-  <programme start="20200425151500 +0200" stop="20200425153000 +0200" channel="BBC World News">
-    <title lang="fr">Sport Today</title>
   </programme>
   <programme start="20200425153000 +0200" stop="20200425160000 +0200" channel="BBC World News">
     <title lang="fr">The Travel Show</title>
@@ -1591,11 +1522,11 @@
   <programme start="20200425163000 +0200" stop="20200425170000 +0200" channel="BBC World News">
     <title lang="fr">Dateline London</title>
   </programme>
-  <programme start="20200425170000 +0200" stop="20200425171000 +0200" channel="BBC World News">
+  <programme start="20200425170000 +0200" stop="20200425173000 +0200" channel="BBC World News">
     <title lang="fr">BBC World News</title>
   </programme>
-  <programme start="20200425171000 +0200" stop="20200425180000 +0200" channel="BBC World News">
-    <title lang="fr">History of Africa</title>
+  <programme start="20200425173000 +0200" stop="20200425180000 +0200" channel="BBC World News">
+    <title lang="fr">Sport in the Time of Coronavirus</title>
   </programme>
   <programme start="20200425180000 +0200" stop="20200425183000 +0200" channel="BBC World News">
     <title lang="fr">BBC World News</title>
@@ -1607,46 +1538,37 @@
     <title lang="fr">BBC World News</title>
   </programme>
   <programme start="20200425193000 +0200" stop="20200425200000 +0200" channel="BBC World News">
-    <title lang="fr">To Be Announced</title>
+    <title lang="fr">Global Questions</title>
   </programme>
-  <programme start="20200425200000 +0200" stop="20200425201500 +0200" channel="BBC World News">
+  <programme start="20200425200000 +0200" stop="20200425203000 +0200" channel="BBC World News">
     <title lang="fr">BBC World News</title>
-  </programme>
-  <programme start="20200425201500 +0200" stop="20200425203000 +0200" channel="BBC World News">
-    <title lang="fr">Sport Today</title>
   </programme>
   <programme start="20200425203000 +0200" stop="20200425210000 +0200" channel="BBC World News">
-    <title lang="fr">The Travel Show</title>
+    <title lang="fr">The Lockdown Diaries</title>
   </programme>
-  <programme start="20200425210000 +0200" stop="20200425211000 +0200" channel="BBC World News">
+  <programme start="20200425210000 +0200" stop="20200425213000 +0200" channel="BBC World News">
     <title lang="fr">BBC World News</title>
-  </programme>
-  <programme start="20200425211000 +0200" stop="20200425213000 +0200" channel="BBC World News">
-    <title lang="fr">World Features</title>
   </programme>
   <programme start="20200425213000 +0200" stop="20200425220000 +0200" channel="BBC World News">
     <title lang="fr">Click</title>
   </programme>
   <programme start="20200425220000 +0200" stop="20200425223000 +0200" channel="BBC World News">
-    <title lang="fr">World News Today</title>
+    <title lang="fr">BBC World News</title>
   </programme>
   <programme start="20200425223000 +0200" stop="20200425230000 +0200" channel="BBC World News">
     <title lang="fr">Dateline London</title>
   </programme>
-  <programme start="20200425230000 +0200" stop="20200425231000 +0200" channel="BBC World News">
+  <programme start="20200425230000 +0200" stop="20200425233000 +0200" channel="BBC World News">
     <title lang="fr">BBC World News</title>
   </programme>
-  <programme start="20200425231000 +0200" stop="20200426000000 +0200" channel="BBC World News">
-    <title lang="fr">To Be Announced</title>
+  <programme start="20200425233000 +0200" stop="20200426000000 +0200" channel="BBC World News">
+    <title lang="fr">BBC News Special</title>
   </programme>
-  <programme start="20200426000000 +0200" stop="20200426001000 +0200" channel="BBC World News">
+  <programme start="20200426000000 +0200" stop="20200426003000 +0200" channel="BBC World News">
     <title lang="fr">BBC World News</title>
-  </programme>
-  <programme start="20200426001000 +0200" stop="20200426003000 +0200" channel="BBC World News">
-    <title lang="fr">World Features</title>
   </programme>
   <programme start="20200426003000 +0200" stop="20200426010000 +0200" channel="BBC World News">
-    <title lang="fr">To Be Announced</title>
+    <title lang="fr">Global Questions</title>
   </programme>
   <programme start="20200426010000 +0200" stop="20200426013000 +0200" channel="BBC World News">
     <title lang="fr">BBC World News</title>
@@ -1658,27 +1580,183 @@
     <title lang="fr">BBC World News</title>
   </programme>
   <programme start="20200426023000 +0200" stop="20200426030000 +0200" channel="BBC World News">
-    <title lang="fr">To Be Announced</title>
+    <title lang="fr">Talking Movies</title>
   </programme>
-  <programme start="20200426030000 +0200" stop="20200426031000 +0200" channel="BBC World News">
+  <programme start="20200426030000 +0200" stop="20200426033000 +0200" channel="BBC World News">
     <title lang="fr">BBC World News</title>
-  </programme>
-  <programme start="20200426031000 +0200" stop="20200426033000 +0200" channel="BBC World News">
-    <title lang="fr">World Features</title>
   </programme>
   <programme start="20200426033000 +0200" stop="20200426040000 +0200" channel="BBC World News">
     <title lang="fr">Dateline London</title>
   </programme>
-  <programme start="20200426040000 +0200" stop="20200426041000 +0200" channel="BBC World News">
+  <programme start="20200426040000 +0200" stop="20200426043000 +0200" channel="BBC World News">
     <title lang="fr">BBC World News</title>
   </programme>
-  <programme start="20200426041000 +0200" stop="20200426050000 +0200" channel="BBC World News">
-    <title lang="fr">To Be Announced</title>
+  <programme start="20200426043000 +0200" stop="20200426050000 +0200" channel="BBC World News">
+    <title lang="fr">Burn It or Bury It ? What To Do With Our Waste</title>
   </programme>
   <programme start="20200426050000 +0200" stop="20200426053000 +0200" channel="BBC World News">
     <title lang="fr">BBC World News</title>
   </programme>
   <programme start="20200426053000 +0200" stop="20200426060000 +0200" channel="BBC World News">
     <title lang="fr">Click</title>
+  </programme>
+  <programme start="20200426060000 +0200" stop="20200426063000 +0200" channel="BBC World News">
+    <title lang="fr">BBC World News</title>
+  </programme>
+  <programme start="20200426063000 +0200" stop="20200426070000 +0200" channel="BBC World News">
+    <title lang="fr">Global Questions</title>
+  </programme>
+  <programme start="20200426070000 +0200" stop="20200426073000 +0200" channel="BBC World News">
+    <title lang="fr">BBC World News</title>
+  </programme>
+  <programme start="20200426073000 +0200" stop="20200426080000 +0200" channel="BBC World News">
+    <title lang="fr">In Business Africa</title>
+  </programme>
+  <programme start="20200426080000 +0200" stop="20200426083000 +0200" channel="BBC World News">
+    <title lang="fr">BBC World News</title>
+  </programme>
+  <programme start="20200426083000 +0200" stop="20200426090000 +0200" channel="BBC World News">
+    <title lang="fr">The Travel Show</title>
+  </programme>
+  <programme start="20200426090000 +0200" stop="20200426093000 +0200" channel="BBC World News">
+    <title lang="fr">BBC World News</title>
+  </programme>
+  <programme start="20200426093000 +0200" stop="20200426100000 +0200" channel="BBC World News">
+    <title lang="fr">Talking Movies</title>
+  </programme>
+  <programme start="20200426100000 +0200" stop="20200426103000 +0200" channel="BBC World News">
+    <title lang="fr">BBC World News</title>
+  </programme>
+  <programme start="20200426103000 +0200" stop="20200426110000 +0200" channel="BBC World News">
+    <title lang="fr">Dateline London</title>
+  </programme>
+  <programme start="20200426110000 +0200" stop="20200426113000 +0200" channel="BBC World News">
+    <title lang="fr">BBC World News</title>
+  </programme>
+  <programme start="20200426113000 +0200" stop="20200426120000 +0200" channel="BBC World News">
+    <title lang="fr">Sport in the Time of Coronavirus</title>
+  </programme>
+  <programme start="20200426120000 +0200" stop="20200426123000 +0200" channel="BBC World News">
+    <title lang="fr">BBC World News</title>
+  </programme>
+  <programme start="20200426123000 +0200" stop="20200426130000 +0200" channel="BBC World News">
+    <title lang="fr">Global Questions</title>
+  </programme>
+  <programme start="20200426130000 +0200" stop="20200426133000 +0200" channel="BBC World News">
+    <title lang="fr">BBC World News</title>
+  </programme>
+  <programme start="20200426133000 +0200" stop="20200426140000 +0200" channel="BBC World News">
+    <title lang="fr">The Lockdown Diaries</title>
+  </programme>
+  <programme start="20200426140000 +0200" stop="20200426143000 +0200" channel="BBC World News">
+    <title lang="fr">BBC World News</title>
+  </programme>
+  <programme start="20200426143000 +0200" stop="20200426150000 +0200" channel="BBC World News">
+    <title lang="fr">BBC News Special</title>
+  </programme>
+  <programme start="20200426150000 +0200" stop="20200426153000 +0200" channel="BBC World News">
+    <title lang="fr">BBC World News</title>
+  </programme>
+  <programme start="20200426153000 +0200" stop="20200426160000 +0200" channel="BBC World News">
+    <title lang="fr">Click</title>
+  </programme>
+  <programme start="20200426160000 +0200" stop="20200426163000 +0200" channel="BBC World News">
+    <title lang="fr">BBC World News</title>
+  </programme>
+  <programme start="20200426163000 +0200" stop="20200426170000 +0200" channel="BBC World News">
+    <title lang="fr">Treasures of Ancient Egypt</title>
+  </programme>
+  <programme start="20200426170000 +0200" stop="20200426173000 +0200" channel="BBC World News">
+    <title lang="fr">BBC World News</title>
+  </programme>
+  <programme start="20200426173000 +0200" stop="20200426180000 +0200" channel="BBC World News">
+    <title lang="fr">Burn It or Bury It ? What To Do With Our Waste</title>
+  </programme>
+  <programme start="20200426180000 +0200" stop="20200426183000 +0200" channel="BBC World News">
+    <title lang="fr">BBC World News</title>
+  </programme>
+  <programme start="20200426183000 +0200" stop="20200426190000 +0200" channel="BBC World News">
+    <title lang="fr">Newsnight</title>
+  </programme>
+  <programme start="20200426190000 +0200" stop="20200426193000 +0200" channel="BBC World News">
+    <title lang="fr">BBC World News</title>
+  </programme>
+  <programme start="20200426193000 +0200" stop="20200426200000 +0200" channel="BBC World News">
+    <title lang="fr">BBC News Special</title>
+  </programme>
+  <programme start="20200426200000 +0200" stop="20200426203000 +0200" channel="BBC World News">
+    <title lang="fr">BBC World News</title>
+  </programme>
+  <programme start="20200426203000 +0200" stop="20200426210000 +0200" channel="BBC World News">
+    <title lang="fr">In Business Africa</title>
+  </programme>
+  <programme start="20200426210000 +0200" stop="20200426213000 +0200" channel="BBC World News">
+    <title lang="fr">BBC World News</title>
+  </programme>
+  <programme start="20200426213000 +0200" stop="20200426220000 +0200" channel="BBC World News">
+    <title lang="fr">Talking Movies</title>
+  </programme>
+  <programme start="20200426220000 +0200" stop="20200426223000 +0200" channel="BBC World News">
+    <title lang="fr">BBC World News</title>
+  </programme>
+  <programme start="20200426223000 +0200" stop="20200426230000 +0200" channel="BBC World News">
+    <title lang="fr">The Lockdown Diaries</title>
+  </programme>
+  <programme start="20200426230000 +0200" stop="20200426233000 +0200" channel="BBC World News">
+    <title lang="fr">BBC World News</title>
+  </programme>
+  <programme start="20200426233000 +0200" stop="20200427000000 +0200" channel="BBC World News">
+    <title lang="fr">Sport in the Time of Coronavirus</title>
+  </programme>
+  <programme start="20200427000000 +0200" stop="20200427003000 +0200" channel="BBC World News">
+    <title lang="fr">BBC World News</title>
+  </programme>
+  <programme start="20200427003000 +0200" stop="20200427004500 +0200" channel="BBC World News">
+    <title lang="fr">Asia Business Report</title>
+  </programme>
+  <programme start="20200427004500 +0200" stop="20200427010000 +0200" channel="BBC World News">
+    <title lang="fr">Sport Today</title>
+  </programme>
+  <programme start="20200427010000 +0200" stop="20200427013000 +0200" channel="BBC World News">
+    <title lang="fr">BBC World News</title>
+  </programme>
+  <programme start="20200427013000 +0200" stop="20200427014500 +0200" channel="BBC World News">
+    <title lang="fr">Asia Business Report</title>
+  </programme>
+  <programme start="20200427014500 +0200" stop="20200427020000 +0200" channel="BBC World News">
+    <title lang="fr">Sport Today</title>
+  </programme>
+  <programme start="20200427020000 +0200" stop="20200427023000 +0200" channel="BBC World News">
+    <title lang="fr">BBC World News</title>
+  </programme>
+  <programme start="20200427023000 +0200" stop="20200427024500 +0200" channel="BBC World News">
+    <title lang="fr">Asia Business Report</title>
+  </programme>
+  <programme start="20200427024500 +0200" stop="20200427030000 +0200" channel="BBC World News">
+    <title lang="fr">Sport Today</title>
+  </programme>
+  <programme start="20200427030000 +0200" stop="20200427033000 +0200" channel="BBC World News">
+    <title lang="fr">BBC World News</title>
+  </programme>
+  <programme start="20200427033000 +0200" stop="20200427034500 +0200" channel="BBC World News">
+    <title lang="fr">Asia Business Report</title>
+  </programme>
+  <programme start="20200427034500 +0200" stop="20200427040000 +0200" channel="BBC World News">
+    <title lang="fr">Sport Today</title>
+  </programme>
+  <programme start="20200427040000 +0200" stop="20200427043000 +0200" channel="BBC World News">
+    <title lang="fr">BBC World News</title>
+  </programme>
+  <programme start="20200427043000 +0200" stop="20200427044500 +0200" channel="BBC World News">
+    <title lang="fr">Asia Business Report</title>
+  </programme>
+  <programme start="20200427044500 +0200" stop="20200427050000 +0200" channel="BBC World News">
+    <title lang="fr">Sport Today</title>
+  </programme>
+  <programme start="20200427050000 +0200" stop="20200427053000 +0200" channel="BBC World News">
+    <title lang="fr">BBC World News</title>
+  </programme>
+  <programme start="20200427053000 +0200" stop="20200427060000 +0200" channel="BBC World News">
+    <title lang="fr">HARDtalk</title>
   </programme>
 </tv>
