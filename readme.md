@@ -39,24 +39,24 @@
 |![icon]()|Alhayat Series|http://www.elcinema.com|
 |![icon](http://www.watania1.tn/sites/default/files/main_logo_watania1_0.png)|Watania 1|http://www.watania.tn|
 |![icon](http://www.watania2.tn/sites/default/files/main_logo_watania2_0.png)|Watania 2|http://www.watania.tn|
-|![icon](http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg)|HD1|http://www.bein.net|
-|![icon](http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg)|HD2|http://www.bein.net|
-|![icon](http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg)|HD3|http://www.bein.net|
-|![icon](http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg)|HD4|http://www.bein.net|
-|![icon](http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg)|HD5|http://www.bein.net|
-|![icon](http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg)|HD6|http://www.bein.net|
-|![icon](http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg)|HD7|http://www.bein.net|
-|![icon](http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg)|HD8|http://www.bein.net|
-|![icon](http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg)|HD9|http://www.bein.net|
-|![icon](http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg)|HD10|http://www.bein.net|
-|![icon](http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg)|SportsHD11|http://www.bein.net|
-|![icon](http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg)|SportsHD12|http://www.bein.net|
-|![icon](http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg)|SportsHD13|http://www.bein.net|
-|![icon](http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg)|SportsHD14|http://www.bein.net|
-|![icon](http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg)|SportsHD15|http://www.bein.net|
-|![icon](http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg)|SportsHD16|http://www.bein.net|
-|![icon](http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg)|SportsHD17|http://www.bein.net|
-|![icon](http://epg.beinsports.com/mena_sports/SportsGlobalHD.svg)|News_ar|http://www.bein.net|
+|![icon]()|HD1|http://www.bein.net|
+|![icon]()|HD2|http://www.bein.net|
+|![icon]()|HD3|http://www.bein.net|
+|![icon]()|HD4|http://www.bein.net|
+|![icon]()|HD5|http://www.bein.net|
+|![icon]()|HD6|http://www.bein.net|
+|![icon]()|HD7|http://www.bein.net|
+|![icon]()|HD8|http://www.bein.net|
+|![icon]()|HD9|http://www.bein.net|
+|![icon]()|HD10|http://www.bein.net|
+|![icon]()|SportsHD11|http://www.bein.net|
+|![icon]()|SportsHD12|http://www.bein.net|
+|![icon]()|SportsHD13|http://www.bein.net|
+|![icon]()|SportsHD14|http://www.bein.net|
+|![icon]()|SportsHD15|http://www.bein.net|
+|![icon]()|SportsHD16|http://www.bein.net|
+|![icon]()|SportsHD17|http://www.bein.net|
+|![icon]()|News_ar|http://www.bein.net|
 |![icon]()|SportsGlobalHD|http://www.bein.net|
 |![icon]()|BS NBA|http://www.bein.net|
 |![icon]()|4K|http://www.bein.net|
