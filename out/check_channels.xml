@@ -117,209 +117,301 @@
     <display-name lang="ar">Watania 2</display-name>
     <icon src="http://www.watania2.tn/sites/default/files/main_logo_watania2_0.png"/>
     <url>http://www.watania.tn</url>
-  </channel><channel id="HD1" country="bein">
-    <display-name lang="en">beIN sports 1 hd</display-name>
+  </channel><channel id="BS1" country="bein">
+    <display-name lang="en">BS1</display-name>
+    <icon src="https://epg.beinsports.com/au_sports/BS1.svg|https://epg.beinsports.com/au_sports/BS1.svg"/>
     <url>http://www.bein.net</url>
-  </channel><channel id="HD2" country="bein">
-    <display-name lang="en">beIN sports 2 hd</display-name>
+  </channel><channel id="BS2" country="bein">
+    <display-name lang="en">BS2</display-name>
+    <icon src="https://epg.beinsports.com/au_sports/BS2.svg|https://epg.beinsports.com/au_sports/BS2.svg"/>
     <url>http://www.bein.net</url>
-  </channel><channel id="HD3" country="bein">
-    <display-name lang="en">beIN sports 3 hd</display-name>
+  </channel><channel id="BS3" country="bein">
+    <display-name lang="en">BS3</display-name>
+    <icon src="https://epg.beinsports.com/au_sports/BS3.svg|https://epg.beinsports.com/au_sports/BS3.svg"/>
     <url>http://www.bein.net</url>
-  </channel><channel id="HD4" country="bein">
-    <display-name lang="en">beIN sports 4 hd</display-name>
+  </channel><channel id="SportsGlobalHD English" country="bein">
+    <display-name lang="en">SportsGlobalHD English</display-name>
+    <icon src="https://epg.beinsports.com/mena_sports/SportsGlobalHD.svg|https://epg.beinsports.com/mena_sports/SportsGlobalHD.svg"/>
     <url>http://www.bein.net</url>
-  </channel><channel id="HD5" country="bein">
-    <display-name lang="en">beIN sports 5 hd</display-name>
+  </channel><channel id="News_ar English" country="bein">
+    <display-name lang="en">News_ar English</display-name>
+    <icon src="https://epg.beinsports.com/mena_sports/News_ar.svg?2018|https://epg.beinsports.com/mena_sports/News_ar.svg?2018"/>
     <url>http://www.bein.net</url>
-  </channel><channel id="HD6" country="bein">
-    <display-name lang="en">beIN sports 6 hd</display-name>
+  </channel><channel id="HD1 English" country="bein">
+    <display-name lang="en">beIN sports 1</display-name>
+    <icon src="https://epg.beinsports.com/mena_sports/HD1.svg?2017|https://epg.beinsports.com/mena_sports/HD1.svg?2017"/>
     <url>http://www.bein.net</url>
-  </channel><channel id="HD7" country="bein">
-    <display-name lang="en">beIN sports 7 hd</display-name>
+  </channel><channel id="HD2 English" country="bein">
+    <display-name lang="en">beIN sports Z</display-name>
+    <icon src="https://epg.beinsports.com/mena_sports/HD2.svg?2017|https://epg.beinsports.com/mena_sports/HD2.svg?2017"/>
     <url>http://www.bein.net</url>
-  </channel><channel id="HD8" country="bein">
-    <display-name lang="en">beIN sports 8 hd</display-name>
+  </channel><channel id="HD3 English" country="bein">
+    <display-name lang="en">beIN sports 3</display-name>
+    <icon src="https://epg.beinsports.com/mena_sports/HD3.svg?2017|https://epg.beinsports.com/mena_sports/HD3.svg?2017"/>
     <url>http://www.bein.net</url>
-  </channel><channel id="HD9" country="bein">
-    <display-name lang="en">beIN sports 9 hd</display-name>
+  </channel><channel id="HD4 English" country="bein">
+    <display-name lang="en">beIN sports 4</display-name>
+    <icon src="https://epg.beinsports.com/mena_sports/HD4.svg?2017|https://epg.beinsports.com/mena_sports/HD4.svg?2017"/>
     <url>http://www.bein.net</url>
-  </channel><channel id="HD10" country="bein">
-    <display-name lang="en">beIN sports 10 hd</display-name>
+  </channel><channel id="HD5 English" country="bein">
+    <display-name lang="en">beIN sports 5</display-name>
+    <icon src="https://epg.beinsports.com/mena_sports/HD5.svg?2017|https://epg.beinsports.com/mena_sports/HD5.svg?2017"/>
     <url>http://www.bein.net</url>
-  </channel><channel id="SportsHD11" country="bein">
-    <display-name lang="en">beIN sports 11 hd</display-name>
+  </channel><channel id="HD6 English" country="bein">
+    <display-name lang="en">beIN sports 6</display-name>
+    <icon src="https://epg.beinsports.com/mena_sports/HD6.svg?2017|https://epg.beinsports.com/mena_sports/HD6.svg?2017"/>
     <url>http://www.bein.net</url>
-  </channel><channel id="SportsHD12" country="bein">
-    <display-name lang="en">beIN sports 12 hd</display-name>
+  </channel><channel id="HD7 English" country="bein">
+    <display-name lang="en">beIN sports 7</display-name>
+    <icon src="https://epg.beinsports.com/mena_sports/HD7.svg?2017|https://epg.beinsports.com/mena_sports/HD7.svg?2017"/>
     <url>http://www.bein.net</url>
-  </channel><channel id="SportsHD13" country="bein">
-    <display-name lang="en">beIN sports 13 hd</display-name>
+  </channel><channel id="HD8 English" country="bein">
+    <display-name lang="en">beIN sports 8</display-name>
+    <icon src="https://epg.beinsports.com/mena_sports/HD8.svg?2017|https://epg.beinsports.com/mena_sports/HD8.svg?2017"/>
     <url>http://www.bein.net</url>
-  </channel><channel id="SportsHD14" country="bein">
-    <display-name lang="en">beIN sports 14 hd</display-name>
+  </channel><channel id="HD9 English" country="bein">
+    <display-name lang="en">beIN sports 9</display-name>
+    <icon src="https://epg.beinsports.com/mena_sports/HD9.svg?2017|https://epg.beinsports.com/mena_sports/HD9.svg?2017"/>
     <url>http://www.bein.net</url>
-  </channel><channel id="SportsHD15" country="bein">
-    <display-name lang="en">beIN sports 15 hd</display-name>
+  </channel><channel id="HD10 English" country="bein">
+    <display-name lang="en">beIN sports 10</display-name>
+    <icon src="https://epg.beinsports.com/mena_sports/HD10.svg?2018|https://epg.beinsports.com/mena_sports/HD10.svg?2018"/>
     <url>http://www.bein.net</url>
-  </channel><channel id="SportsHD16" country="bein">
-    <display-name lang="en">beIN sports 16 hd</display-name>
+  </channel><channel id="SportsHD11 English" country="bein">
+    <display-name lang="en">beIN sports 11</display-name>
+    <icon src="https://epg.beinsports.com/mena_sports/SportsHD11.svg|https://epg.beinsports.com/mena_sports/SportsHD11.svg"/>
     <url>http://www.bein.net</url>
-  </channel><channel id="SportsHD17" country="bein">
-    <display-name lang="en">beIN sports 17 hd</display-name>
+  </channel><channel id="SportsHD12 English" country="bein">
+    <display-name lang="en">beIN sports 12</display-name>
+    <icon src="https://epg.beinsports.com/mena_sports/SportsHD12.svg|https://epg.beinsports.com/mena_sports/SportsHD12.svg"/>
     <url>http://www.bein.net</url>
-  </channel><channel id="News_ar" country="bein">
-    <display-name lang="en">beIN news</display-name>
+  </channel><channel id="SportsHD13 English" country="bein">
+    <display-name lang="en">beIN sports 13</display-name>
+    <icon src="https://epg.beinsports.com/mena_sports/SportsHD13.svg|https://epg.beinsports.com/mena_sports/SportsHD13.svg"/>
     <url>http://www.bein.net</url>
-  </channel><channel id="SportsGlobalHD" country="bein">
-    <display-name lang="en">beIN global</display-name>
+  </channel><channel id="SportsHD14 English" country="bein">
+    <display-name lang="en">beIN sports 14</display-name>
+    <icon src="https://epg.beinsports.com/mena_sports/SportsHD14.svg|https://epg.beinsports.com/mena_sports/SportsHD14.svg"/>
     <url>http://www.bein.net</url>
-  </channel><channel id="BS NBA" country="bein">
-    <display-name lang="en">beIN Sports NBA</display-name>
+  </channel><channel id="SportsHD15 English" country="bein">
+    <display-name lang="en">beIN sports 15</display-name>
+    <icon src="https://epg.beinsports.com/mena_sports/SportsHD15.svg|https://epg.beinsports.com/mena_sports/SportsHD15.svg"/>
     <url>http://www.bein.net</url>
-  </channel><channel id="4K" country="bein">
-    <display-name lang="en">beIN Sports 4K</display-name>
+  </channel><channel id="SportsHD16 English" country="bein">
+    <display-name lang="en">beIN sports 16</display-name>
+    <icon src="https://epg.beinsports.com/mena_sports/SportsHD16.svg|https://epg.beinsports.com/mena_sports/SportsHD16.svg"/>
     <url>http://www.bein.net</url>
-  </channel><channel id="Global" country="bein">
-    <display-name lang="en">beIN global (us)</display-name>
+  </channel><channel id="SportsHD17 English" country="bein">
+    <display-name lang="en">beIN sports 17</display-name>
+    <icon src="https://epg.beinsports.com/mena_sports/SportsHD17.svg|https://epg.beinsports.com/mena_sports/SportsHD17.svg"/>
     <url>http://www.bein.net</url>
-  </channel><channel id="Spanish" country="bein">
-    <display-name lang="en">beIN sports (es)</display-name>
+  </channel><channel id="4K English" country="bein">
+    <display-name lang="en">beIN sports 4K</display-name>
+    <icon src="https://epg.beinsports.com/mena_sports/4K.svg|https://epg.beinsports.com/mena_sports/4K.svg"/>
     <url>http://www.bein.net</url>
-  </channel><channel id="MoviesHD1" country="bein">
-    <display-name lang="en">beIN movies 1</display-name>
+  </channel><channel id="BS NBA English" country="bein">
+    <display-name lang="en">BS NBA English</display-name>
+    <icon src="https://epg.beinsports.com/mena_sports/BS NBA.svg|https://epg.beinsports.com/mena_sports/BS NBA.svg"/>
     <url>http://www.bein.net</url>
-  </channel><channel id="MoviesHD2" country="bein">
-    <display-name lang="en">beIN movies 2</display-name>
+  </channel><channel id="MoviesHD1 English" country="bein">
+    <display-name lang="en">beIN Movies 1</display-name>
+    <icon src="https://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018|https://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"/>
     <url>http://www.bein.net</url>
-  </channel><channel id="MoviesHD3" country="bein">
-    <display-name lang="en">beIN movies 3</display-name>
+  </channel><channel id="MoviesHD2 English" country="bein">
+    <display-name lang="en">beIN Movies 2</display-name>
+    <icon src="https://epg.beinsports.com/mena_entertaintment/MoviesHD2.svg?2018|https://epg.beinsports.com/mena_entertaintment/MoviesHD2.svg?2018"/>
     <url>http://www.bein.net</url>
-  </channel><channel id="MoviesHD4" country="bein">
-    <display-name lang="en">beIN movies 4</display-name>
+  </channel><channel id="MoviesHD3 English" country="bein">
+    <display-name lang="en">beIN Movies 3</display-name>
+    <icon src="https://epg.beinsports.com/mena_entertaintment/MoviesHD3.svg?2018|https://epg.beinsports.com/mena_entertaintment/MoviesHD3.svg?2018"/>
     <url>http://www.bein.net</url>
-  </channel><channel id="SeriesHD1" country="bein">
+  </channel><channel id="MoviesHD4 English" country="bein">
+    <display-name lang="en">beIN Movies 4</display-name>
+    <icon src="https://epg.beinsports.com/mena_entertaintment/MoviesHD4.svg?2018|https://epg.beinsports.com/mena_entertaintment/MoviesHD4.svg?2018"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="BoxOffice_HD1 English" country="bein">
+    <display-name lang="en">beIN BoxOffice 1</display-name>
+    <icon src="https://epg.beinsports.com/mena_entertaintment/BoxOffice_HD1.svg?2020|https://epg.beinsports.com/mena_entertaintment/BoxOffice_HD1.svg?2020"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="SeriesHD1 English" country="bein">
     <display-name lang="en">beIN Series 1</display-name>
+    <icon src="https://epg.beinsports.com/mena_entertaintment/SeriesHD1.svg?111|https://epg.beinsports.com/mena_entertaintment/SeriesHD1.svg?111"/>
     <url>http://www.bein.net</url>
-  </channel><channel id="SeriesHD2" country="bein">
+  </channel><channel id="SeriesHD2 English" country="bein">
     <display-name lang="en">beIN Series 2</display-name>
+    <icon src="https://epg.beinsports.com/mena_entertaintment/SeriesHD2.svg?123|https://epg.beinsports.com/mena_entertaintment/SeriesHD2.svg?123"/>
     <url>http://www.bein.net</url>
-  </channel><channel id="beJUNIOR" country="bein">
-    <display-name lang="en">beIN junior hd 1</display-name>
+  </channel><channel id="DramaHD1 English" country="bein">
+    <display-name lang="en">beIN Drama 1</display-name>
+    <icon src="https://epg.beinsports.com/mena_entertaintment/DramaHD1.svg?1232|https://epg.beinsports.com/mena_entertaintment/DramaHD1.svg?1232"/>
     <url>http://www.bein.net</url>
-  </channel><channel id="fox_movies_hd" country="bein">
-    <display-name lang="en">Fox movies hd</display-name>
+  </channel><channel id="gourmet English" country="bein">
+    <display-name lang="en">beIN gourmet</display-name>
+    <icon src="https://epg.beinsports.com/mena_entertaintment/gourmet.svg|https://epg.beinsports.com/mena_entertaintment/gourmet.svg"/>
     <url>http://www.bein.net</url>
-  </channel><channel id="starmovieshd" country="bein">
-    <display-name lang="en">Star movies hd</display-name>
+  </channel><channel id="beJUNIOR English" country="bein">
+    <display-name lang="en">beJUNIOR</display-name>
+    <icon src="https://epg.beinsports.com/mena_entertaintment/beJUNIOR.svg|https://epg.beinsports.com/mena_entertaintment/beJUNIOR.svg"/>
     <url>http://www.bein.net</url>
-  </channel><channel id="starw_orld_hd" country="bein">
-    <display-name lang="en">Star world hd</display-name>
+  </channel><channel id="Jeem English" country="bein">
+    <display-name lang="en">beIN Jeem</display-name>
+    <icon src="https://epg.beinsports.com/mena_entertaintment/Jeem.svg?20158888|https://epg.beinsports.com/mena_entertaintment/Jeem.svg?20158888"/>
     <url>http://www.bein.net</url>
-  </channel><channel id="NatGeo_HD" country="bein">
-    <display-name lang="en">Natgeo HD (en)</display-name>
-    <url>http://www.bein.net</url>
-  </channel><channel id="NatGeoPeople_HD" country="bein">
-    <display-name lang="en">NatGeo People HD (en)</display-name>
-    <url>http://www.bein.net</url>
-  </channel><channel id="NatGeoWild_HD" country="bein">
-    <display-name lang="en">natgeo wild HD (en)</display-name>
-    <url>http://www.bein.net</url>
-  </channel><channel id="Baby_TV" country="bein">
-    <display-name lang="en">Baby tv</display-name>
-    <url>http://www.bein.net</url>
-  </channel><channel id="Jeem" country="bein">
-    <display-name lang="en">Jeem</display-name>
-    <url>http://www.bein.net</url>
-  </channel><channel id="Baraem" country="bein">
-    <display-name lang="en">Baraem</display-name>
-    <url>http://www.bein.net</url>
-  </channel><channel id="gourmet" country="bein">
-    <display-name lang="en">beIN Gourmet HD</display-name>
-    <url>http://www.bein.net</url>
-  </channel><channel id="BoxOffice_HD1" country="bein">
-    <display-name lang="en">beIN BoxOffice HD1</display-name>
-    <url>http://www.bein.net</url>
-  </channel><channel id="DTX" country="bein">
-    <display-name lang="en">beIN DTX HD</display-name>
-    <url>http://www.bein.net</url>
-  </channel><channel id="CBeebies" country="bein">
-    <display-name lang="en">beIN BBC CBEEBIES</display-name>
-    <url>http://www.bein.net</url>
-  </channel><channel id="V_HD" country="bein">
-    <display-name lang="en">beIN V HD</display-name>
-    <url>http://www.bein.net</url>
-  </channel><channel id="CNNHD" country="bein">
-    <display-name lang="en">beIN CNN HD</display-name>
-    <url>http://www.bein.net</url>
-  </channel><channel id="TCM" country="bein">
-    <display-name lang="en">beIN TCM</display-name>
-    <url>http://www.bein.net</url>
-  </channel><channel id="CartoonNetworkAR" country="bein">
-    <display-name lang="en">beIN Cartoon Network AR</display-name>
+  </channel><channel id="Baraem English" country="bein">
+    <display-name lang="en">beIN Baraem</display-name>
+    <icon src="https://epg.beinsports.com/mena_entertaintment/Baraem.svg?2017|https://epg.beinsports.com/mena_entertaintment/Baraem.svg?2017"/>
     <url>http://www.bein.net</url>
   </channel><channel id="CartoonNetworkHD" country="bein">
-    <display-name lang="en">beIN Cartoon Network HD</display-name>
+    <display-name lang="en">CartoonNetworkHD English</display-name>
+    <icon src="https://epg.beinsports.com/mena_entertaintment/CartoonNetworkHD.png|https://epg.beinsports.com/mena_entertaintment/CartoonNetworkHD.png"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="CartoonNetworkAR" country="bein">
+    <display-name lang="en">CartoonNetworkAR English</display-name>
+    <icon src="https://epg.beinsports.com/mena_entertaintment/CartoonNetworkAR.svg|https://epg.beinsports.com/mena_entertaintment/CartoonNetworkAR.svg"/>
     <url>http://www.bein.net</url>
   </channel><channel id="CartoonNetworkHindi" country="bein">
-    <display-name lang="en">beIN Cartoon Network Hindi</display-name>
+    <display-name lang="en">CartoonNetworkHindi English</display-name>
+    <icon src="https://epg.beinsports.com/mena_entertaintment/CartoonNetworkHindi.svg|https://epg.beinsports.com/mena_entertaintment/CartoonNetworkHindi.svg"/>
     <url>http://www.bein.net</url>
-  </channel><channel id="HLN" country="bein">
-    <display-name lang="en">beIN HLN</display-name>
+  </channel><channel id="Baby_TV English" country="bein">
+    <display-name lang="en">beIN Baby TV</display-name>
+    <icon src="https://epg.beinsports.com/mena_entertaintment/Baby_TV.svg?2017|https://epg.beinsports.com/mena_entertaintment/Baby_TV.svg?2017"/>
     <url>http://www.bein.net</url>
-  </channel><channel id="Boomerang" country="bein">
-    <display-name lang="en">beIN Boomerang</display-name>
+  </channel><channel id="CBeebies English" country="bein">
+    <display-name lang="en">beIN CBeebies</display-name>
+    <icon src="https://epg.beinsports.com/mena_entertaintment/CBeebies.png|https://epg.beinsports.com/mena_entertaintment/CBeebies.png"/>
     <url>http://www.bein.net</url>
-  </channel><channel id="DramaHD1" country="bein">
-    <display-name lang="en">beIN Drama HD 1</display-name>
-    <url>http://www.bein.net</url>
-  </channel><channel id="Star_Movies_HD" country="bein">
-    <display-name lang="en">beIN Star Movies HD</display-name>
-    <url>http://www.bein.net</url>
-  </channel><channel id="amc" country="bein">
-    <display-name lang="en">beIN AMC</display-name>
-    <url>http://www.bein.net</url>
-  </channel><channel id="CBSreality" country="bein">
-    <display-name lang="en">beIN CBS reality</display-name>
-    <url>http://www.bein.net</url>
-  </channel><channel id="FoxActMovHD" country="bein">
-    <display-name lang="en">beIN Fox Action Movie HD</display-name>
-    <url>http://www.bein.net</url>
-  </channel><channel id="FoxFamHD" country="bein">
-    <display-name lang="en">beIN Fox Family HD</display-name>
-    <url>http://www.bein.net</url>
-  </channel><channel id="FXHD" country="bein">
-    <display-name lang="en">beIN FX HD</display-name>
-    <url>http://www.bein.net</url>
-  </channel><channel id="FoxNews" country="bein">
-    <display-name lang="en">beIN Fox News</display-name>
-    <url>http://www.bein.net</url>
-  </channel><channel id="AnimalPlanetHD" country="bein">
-    <display-name lang="en">beIN Animal Planet HD</display-name>
-    <url>http://www.bein.net</url>
-  </channel><channel id="DLife" country="bein">
-    <display-name lang="en">beIN DLife</display-name>
-    <url>http://www.bein.net</url>
-  </channel><channel id="DreamWorks" country="bein">
+  </channel><channel id="DreamWorks English" country="bein">
     <display-name lang="en">beIN DreamWorks</display-name>
+    <icon src="https://epg.beinsports.com/mena_entertaintment/DreamWorks.svg?2017|https://epg.beinsports.com/mena_entertaintment/DreamWorks.svg?2017"/>
     <url>http://www.bein.net</url>
-  </channel><channel id="DKids" country="bein">
-    <display-name lang="en">beIN DKids</display-name>
+  </channel><channel id="JimJam English" country="bein">
+    <display-name lang="en">beIN JimJam</display-name>
+    <icon src="https://epg.beinsports.com/mena_entertaintment/JimJam.svg?2017|https://epg.beinsports.com/mena_entertaintment/JimJam.svg?2017"/>
     <url>http://www.bein.net</url>
-  </channel><channel id="DMAX" country="bein">
-    <display-name lang="en">beIN DMAX</display-name>
+  </channel><channel id="beIN FOX Family Movies" country="bein">
+    <display-name lang="en">FOXFamilyMovies English</display-name>
+    <icon src="https://epg.beinsports.com/mena_entertaintment/FOXFamilyMovies.svg?2017|https://epg.beinsports.com/mena_entertaintment/FOXFamilyMovies.svg?2017"/>
     <url>http://www.bein.net</url>
-  </channel><channel id="OutdoorChannel" country="bein">
+  </channel><channel id="beIN FOX Action Movies" country="bein">
+    <display-name lang="en">FOXActionMovies English</display-name>
+    <icon src="https://epg.beinsports.com/mena_entertaintment/FOXActionMovies.svg?2018|https://epg.beinsports.com/mena_entertaintment/FOXActionMovies.svg?2018"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="beIN Star World HD" country="bein">
+    <display-name lang="en">Star_World_HD English</display-name>
+    <icon src="https://epg.beinsports.com/mena_entertaintment/Star_World_HD.svg?2017|https://epg.beinsports.com/mena_entertaintment/Star_World_HD.svg?2017"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="TCM English" country="bein">
+    <display-name lang="en">beIN TCM</display-name>
+    <icon src="https://epg.beinsports.com/mena_entertaintment/TCM.svg|https://epg.beinsports.com/mena_entertaintment/TCM.svg"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="amc English" country="bein">
+    <display-name lang="en">beIN amc</display-name>
+    <icon src="https://epg.beinsports.com/mena_entertaintment/amc.svg|https://epg.beinsports.com/mena_entertaintment/amc.svg"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="beIN StarMovies" country="bein">
+    <display-name lang="en">Star Movies English</display-name>
+    <icon src="https://epg.beinsports.com/mena_entertaintment/Star_Movies_HD.svg?2017|https://epg.beinsports.com/mena_entertaintment/Star_Movies_HD.svg?2017"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="FOXHD English" country="bein">
+    <display-name lang="en">beIN FOX</display-name>
+    <icon src="https://epg.beinsports.com/mena_entertaintment/FOXHD.svg|https://epg.beinsports.com/mena_entertaintment/FOXHD.svg"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="OutdoorChannel English" country="bein">
     <display-name lang="en">beIN Outdoor Channel</display-name>
+    <icon src="https://epg.beinsports.com/mena_entertaintment/OutdoorChannel.svg?2017|https://epg.beinsports.com/mena_entertaintment/OutdoorChannel.svg?2017"/>
     <url>http://www.bein.net</url>
-  </channel><channel id="Extreme" country="bein">
-    <display-name lang="en">beIN Extreme</display-name>
+  </channel><channel id="V_HD English" country="bein">
+    <display-name lang="en">beIN V</display-name>
+    <icon src="https://epg.beinsports.com/mena_entertaintment/V_HD.jpg|https://epg.beinsports.com/mena_entertaintment/V_HD.jpg"/>
     <url>http://www.bein.net</url>
-  </channel><channel id="TravelChannel" country="bein">
+  </channel><channel id="TravelChannel English" country="bein">
     <display-name lang="en">beIN Travel Channel</display-name>
+    <icon src="https://epg.beinsports.com/mena_entertaintment/TravelChannel.svg|https://epg.beinsports.com/mena_entertaintment/TravelChannel.svg"/>
     <url>http://www.bein.net</url>
-  </channel><channel id="HGTV" country="bein">
+  </channel><channel id="Extreme English" country="bein">
+    <display-name lang="en">beIN Extreme</display-name>
+    <icon src="https://epg.beinsports.com/mena_entertaintment/Extreme.svg?2017|https://epg.beinsports.com/mena_entertaintment/Extreme.svg?2017"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="fatafeat English" country="bein">
+    <display-name lang="en">fatafeat</display-name>
+    <icon src="https://epg.beinsports.com/mena_entertaintment/fatafeat.png|https://epg.beinsports.com/mena_entertaintment/fatafeat.png"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="FoodNetwork English" country="bein">
+    <display-name lang="en">FoodNetwork</display-name>
+    <icon src="https://epg.beinsports.com/mena_entertaintment/FoodNetwork.png|https://epg.beinsports.com/mena_entertaintment/FoodNetwork.png"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="HGTV English" country="bein">
     <display-name lang="en">beIN HGTV</display-name>
+    <icon src="https://epg.beinsports.com/mena_entertaintment/HGTV.svg|https://epg.beinsports.com/mena_entertaintment/HGTV.svg"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="beIN CBS reality" country="bein">
+    <display-name lang="en">CBSreality English</display-name>
+    <icon src="https://epg.beinsports.com/mena_entertaintment/CBSreality.svg?2017|https://epg.beinsports.com/mena_entertaintment/CBSreality.svg?2017"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="FXHD English" country="bein">
+    <display-name lang="en">beIN FX</display-name>
+    <icon src="https://epg.beinsports.com/mena_entertaintment/FXHD.svg?2018|https://epg.beinsports.com/mena_entertaintment/FXHD.svg?2018"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="DMAX English" country="bein">
+    <display-name lang="en">beIN DMAX</display-name>
+    <icon src="https://epg.beinsports.com/mena_entertaintment/DMAX.svg?2017|https://epg.beinsports.com/mena_entertaintment/DMAX.svg?2017"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="NatGeoWild_HD English" country="bein">
+    <display-name lang="en">beIN NatGeoWild</display-name>
+    <icon src="https://epg.beinsports.com/mena_entertaintment/NatGeoWild_HD.svg?2017|https://epg.beinsports.com/mena_entertaintment/NatGeoWild_HD.svg?2017"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="NatGeoPeople_HD English" country="bein">
+    <display-name lang="en">beIN NatGeoPeople</display-name>
+    <icon src="https://epg.beinsports.com/mena_entertaintment/NatGeoPeople_HD.svg?2017|https://epg.beinsports.com/mena_entertaintment/NatGeoPeople_HD.svg?2017"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="NatGeo_HD English" country="bein">
+    <display-name lang="en">beIN NatGeo</display-name>
+    <icon src="https://epg.beinsports.com/mena_entertaintment/NatGeo_HD.svg?2017|https://epg.beinsports.com/mena_entertaintment/NatGeo_HD.svg?2017"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="BBCEarth English" country="bein">
+    <display-name lang="en">beIN BBCEarth</display-name>
+    <icon src="https://epg.beinsports.com/mena_entertaintment/BBCEarth.png|https://epg.beinsports.com/mena_entertaintment/BBCEarth.png"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="AnimalPlanetHD English" country="bein">
+    <display-name lang="en">beIN AnimalPlanet</display-name>
+    <icon src="https://epg.beinsports.com/mena_entertaintment/AnimalPlanetHD.svg|https://epg.beinsports.com/mena_entertaintment/AnimalPlanetHD.svg"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="AljazeeraDocumentary English" country="bein">
+    <display-name lang="en">Aljazeera Documentary</display-name>
+    <icon src="https://epg.beinsports.com/mena_entertaintment/AljazeeraDocumentary.png?2017|https://epg.beinsports.com/mena_entertaintment/AljazeeraDocumentary.png?2017"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="TRTWorld English" country="bein">
+    <display-name lang="en">beIN TRT World</display-name>
+    <icon src="https://epg.beinsports.com/mena_entertaintment/TRTWorld.png?2017|https://epg.beinsports.com/mena_entertaintment/TRTWorld.png?2017"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="Euronews English" country="bein">
+    <display-name lang="en">beIN Euronews</display-name>
+    <icon src="https://epg.beinsports.com/mena_entertaintment/Euronews.jpg?2017|https://epg.beinsports.com/mena_entertaintment/Euronews.jpg?2017"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="CNNHD English" country="bein">
+    <display-name lang="en">beIN CNN</display-name>
+    <icon src="https://epg.beinsports.com/mena_entertaintment/CNNHD.svg|https://epg.beinsports.com/mena_entertaintment/CNNHD.svg"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="Bloomberg English" country="bein">
+    <display-name lang="en">beIN Bloomberg</display-name>
+    <icon src="https://epg.beinsports.com/mena_entertaintment/Bloomberg.svg?2017|https://epg.beinsports.com/mena_entertaintment/Bloomberg.svg?2017"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="HLN English" country="bein">
+    <display-name lang="en">beIN HLN</display-name>
+    <icon src="https://epg.beinsports.com/mena_entertaintment/HLN.svg|https://epg.beinsports.com/mena_entertaintment/HLN.svg"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="DTX English" country="bein">
+    <display-name lang="en">beIN DTX</display-name>
+    <icon src="https://epg.beinsports.com/mena_entertaintment/DTX.png|https://epg.beinsports.com/mena_entertaintment/DTX.png"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="DLife English" country="bein">
+    <display-name lang="en">beIN DLife</display-name>
+    <icon src="https://epg.beinsports.com/mena_entertaintment/DLife.svg?2017|https://epg.beinsports.com/mena_entertaintment/DLife.svg?2017"/>
+    <url>http://www.bein.net</url>
+  </channel><channel id="FineLiving English" country="bein">
+    <display-name lang="en">beIN FineLiving</display-name>
+    <icon src="https://epg.beinsports.com/mena_entertaintment/FineLiving.png|https://epg.beinsports.com/mena_entertaintment/FineLiving.png"/>
     <url>http://www.bein.net</url>
   </channel><channel id="almanar" country="el_cinema">
     <display-name lang="en">almanar</display-name>
