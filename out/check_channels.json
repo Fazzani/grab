@@ -390,684 +390,966 @@
         "active": "True"
       },
       {
-        "id": "HD1",
+        "id": "BS1",
         "country": "bein",
         "display-name": {
           "lang": "en",
-          "$t": "beIN sports 1 hd"
+          "$t": "BS1"
+        },
+        "icon": {
+          "src": "https://epg.beinsports.com/au_sports/BS1.svg|https://epg.beinsports.com/au_sports/BS1.svg"
+        },
+        "url": "http://www.bein.net",
+        "active": "True"
+      },
+      {
+        "id": "BS2",
+        "country": "bein",
+        "display-name": {
+          "lang": "en",
+          "$t": "BS2"
+        },
+        "icon": {
+          "src": "https://epg.beinsports.com/au_sports/BS2.svg|https://epg.beinsports.com/au_sports/BS2.svg"
+        },
+        "url": "http://www.bein.net",
+        "active": "True"
+      },
+      {
+        "id": "BS3",
+        "country": "bein",
+        "display-name": {
+          "lang": "en",
+          "$t": "BS3"
+        },
+        "icon": {
+          "src": "https://epg.beinsports.com/au_sports/BS3.svg|https://epg.beinsports.com/au_sports/BS3.svg"
+        },
+        "url": "http://www.bein.net",
+        "active": "True"
+      },
+      {
+        "id": "SportsGlobalHD English",
+        "country": "bein",
+        "display-name": {
+          "lang": "en",
+          "$t": "SportsGlobalHD English"
+        },
+        "icon": {
+          "src": "https://epg.beinsports.com/mena_sports/SportsGlobalHD.svg|https://epg.beinsports.com/mena_sports/SportsGlobalHD.svg"
+        },
+        "url": "http://www.bein.net",
+        "active": "True"
+      },
+      {
+        "id": "News_ar English",
+        "country": "bein",
+        "display-name": {
+          "lang": "en",
+          "$t": "News_ar English"
+        },
+        "icon": {
+          "src": "https://epg.beinsports.com/mena_sports/News_ar.svg?2018|https://epg.beinsports.com/mena_sports/News_ar.svg?2018"
+        },
+        "url": "http://www.bein.net",
+        "active": "True"
+      },
+      {
+        "id": "HD1 English",
+        "country": "bein",
+        "display-name": {
+          "lang": "en",
+          "$t": "beIN sports 1"
+        },
+        "icon": {
+          "src": "https://epg.beinsports.com/mena_sports/HD1.svg?2017|https://epg.beinsports.com/mena_sports/HD1.svg?2017"
+        },
+        "url": "http://www.bein.net",
+        "active": "True"
+      },
+      {
+        "id": "HD2 English",
+        "country": "bein",
+        "display-name": {
+          "lang": "en",
+          "$t": "beIN sports Z"
+        },
+        "icon": {
+          "src": "https://epg.beinsports.com/mena_sports/HD2.svg?2017|https://epg.beinsports.com/mena_sports/HD2.svg?2017"
+        },
+        "url": "http://www.bein.net",
+        "active": "True"
+      },
+      {
+        "id": "HD3 English",
+        "country": "bein",
+        "display-name": {
+          "lang": "en",
+          "$t": "beIN sports 3"
+        },
+        "icon": {
+          "src": "https://epg.beinsports.com/mena_sports/HD3.svg?2017|https://epg.beinsports.com/mena_sports/HD3.svg?2017"
+        },
+        "url": "http://www.bein.net",
+        "active": "True"
+      },
+      {
+        "id": "HD4 English",
+        "country": "bein",
+        "display-name": {
+          "lang": "en",
+          "$t": "beIN sports 4"
+        },
+        "icon": {
+          "src": "https://epg.beinsports.com/mena_sports/HD4.svg?2017|https://epg.beinsports.com/mena_sports/HD4.svg?2017"
+        },
+        "url": "http://www.bein.net",
+        "active": "True"
+      },
+      {
+        "id": "HD5 English",
+        "country": "bein",
+        "display-name": {
+          "lang": "en",
+          "$t": "beIN sports 5"
+        },
+        "icon": {
+          "src": "https://epg.beinsports.com/mena_sports/HD5.svg?2017|https://epg.beinsports.com/mena_sports/HD5.svg?2017"
+        },
+        "url": "http://www.bein.net",
+        "active": "True"
+      },
+      {
+        "id": "HD6 English",
+        "country": "bein",
+        "display-name": {
+          "lang": "en",
+          "$t": "beIN sports 6"
+        },
+        "icon": {
+          "src": "https://epg.beinsports.com/mena_sports/HD6.svg?2017|https://epg.beinsports.com/mena_sports/HD6.svg?2017"
+        },
+        "url": "http://www.bein.net",
+        "active": "True"
+      },
+      {
+        "id": "HD7 English",
+        "country": "bein",
+        "display-name": {
+          "lang": "en",
+          "$t": "beIN sports 7"
+        },
+        "icon": {
+          "src": "https://epg.beinsports.com/mena_sports/HD7.svg?2017|https://epg.beinsports.com/mena_sports/HD7.svg?2017"
+        },
+        "url": "http://www.bein.net",
+        "active": "True"
+      },
+      {
+        "id": "HD8 English",
+        "country": "bein",
+        "display-name": {
+          "lang": "en",
+          "$t": "beIN sports 8"
+        },
+        "icon": {
+          "src": "https://epg.beinsports.com/mena_sports/HD8.svg?2017|https://epg.beinsports.com/mena_sports/HD8.svg?2017"
+        },
+        "url": "http://www.bein.net",
+        "active": "True"
+      },
+      {
+        "id": "HD9 English",
+        "country": "bein",
+        "display-name": {
+          "lang": "en",
+          "$t": "beIN sports 9"
+        },
+        "icon": {
+          "src": "https://epg.beinsports.com/mena_sports/HD9.svg?2017|https://epg.beinsports.com/mena_sports/HD9.svg?2017"
+        },
+        "url": "http://www.bein.net",
+        "active": "True"
+      },
+      {
+        "id": "HD10 English",
+        "country": "bein",
+        "display-name": {
+          "lang": "en",
+          "$t": "beIN sports 10"
+        },
+        "icon": {
+          "src": "https://epg.beinsports.com/mena_sports/HD10.svg?2018|https://epg.beinsports.com/mena_sports/HD10.svg?2018"
+        },
+        "url": "http://www.bein.net",
+        "active": "True"
+      },
+      {
+        "id": "SportsHD11 English",
+        "country": "bein",
+        "display-name": {
+          "lang": "en",
+          "$t": "beIN sports 11"
+        },
+        "icon": {
+          "src": "https://epg.beinsports.com/mena_sports/SportsHD11.svg|https://epg.beinsports.com/mena_sports/SportsHD11.svg"
+        },
+        "url": "http://www.bein.net",
+        "active": "True"
+      },
+      {
+        "id": "SportsHD12 English",
+        "country": "bein",
+        "display-name": {
+          "lang": "en",
+          "$t": "beIN sports 12"
+        },
+        "icon": {
+          "src": "https://epg.beinsports.com/mena_sports/SportsHD12.svg|https://epg.beinsports.com/mena_sports/SportsHD12.svg"
+        },
+        "url": "http://www.bein.net",
+        "active": "True"
+      },
+      {
+        "id": "SportsHD13 English",
+        "country": "bein",
+        "display-name": {
+          "lang": "en",
+          "$t": "beIN sports 13"
+        },
+        "icon": {
+          "src": "https://epg.beinsports.com/mena_sports/SportsHD13.svg|https://epg.beinsports.com/mena_sports/SportsHD13.svg"
+        },
+        "url": "http://www.bein.net",
+        "active": "True"
+      },
+      {
+        "id": "SportsHD14 English",
+        "country": "bein",
+        "display-name": {
+          "lang": "en",
+          "$t": "beIN sports 14"
+        },
+        "icon": {
+          "src": "https://epg.beinsports.com/mena_sports/SportsHD14.svg|https://epg.beinsports.com/mena_sports/SportsHD14.svg"
+        },
+        "url": "http://www.bein.net",
+        "active": "True"
+      },
+      {
+        "id": "SportsHD15 English",
+        "country": "bein",
+        "display-name": {
+          "lang": "en",
+          "$t": "beIN sports 15"
+        },
+        "icon": {
+          "src": "https://epg.beinsports.com/mena_sports/SportsHD15.svg|https://epg.beinsports.com/mena_sports/SportsHD15.svg"
+        },
+        "url": "http://www.bein.net",
+        "active": "True"
+      },
+      {
+        "id": "SportsHD16 English",
+        "country": "bein",
+        "display-name": {
+          "lang": "en",
+          "$t": "beIN sports 16"
+        },
+        "icon": {
+          "src": "https://epg.beinsports.com/mena_sports/SportsHD16.svg|https://epg.beinsports.com/mena_sports/SportsHD16.svg"
+        },
+        "url": "http://www.bein.net",
+        "active": "True"
+      },
+      {
+        "id": "SportsHD17 English",
+        "country": "bein",
+        "display-name": {
+          "lang": "en",
+          "$t": "beIN sports 17"
+        },
+        "icon": {
+          "src": "https://epg.beinsports.com/mena_sports/SportsHD17.svg|https://epg.beinsports.com/mena_sports/SportsHD17.svg"
         },
         "url": "http://www.bein.net",
         "active": "False"
       },
       {
-        "id": "HD2",
+        "id": "4K English",
         "country": "bein",
         "display-name": {
           "lang": "en",
-          "$t": "beIN sports 2 hd"
+          "$t": "beIN sports 4K"
+        },
+        "icon": {
+          "src": "https://epg.beinsports.com/mena_sports/4K.svg|https://epg.beinsports.com/mena_sports/4K.svg"
         },
         "url": "http://www.bein.net",
-        "active": "False"
+        "active": "True"
       },
       {
-        "id": "HD3",
+        "id": "BS NBA English",
         "country": "bein",
         "display-name": {
           "lang": "en",
-          "$t": "beIN sports 3 hd"
+          "$t": "BS NBA English"
+        },
+        "icon": {
+          "src": "https://epg.beinsports.com/mena_sports/BS NBA.svg|https://epg.beinsports.com/mena_sports/BS NBA.svg"
         },
         "url": "http://www.bein.net",
-        "active": "False"
+        "active": "True"
       },
       {
-        "id": "HD4",
+        "id": "MoviesHD1 English",
         "country": "bein",
         "display-name": {
           "lang": "en",
-          "$t": "beIN sports 4 hd"
+          "$t": "beIN Movies 1"
+        },
+        "icon": {
+          "src": "https://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018|https://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018"
         },
         "url": "http://www.bein.net",
-        "active": "False"
+        "active": "True"
       },
       {
-        "id": "HD5",
+        "id": "MoviesHD2 English",
         "country": "bein",
         "display-name": {
           "lang": "en",
-          "$t": "beIN sports 5 hd"
+          "$t": "beIN Movies 2"
+        },
+        "icon": {
+          "src": "https://epg.beinsports.com/mena_entertaintment/MoviesHD2.svg?2018|https://epg.beinsports.com/mena_entertaintment/MoviesHD2.svg?2018"
         },
         "url": "http://www.bein.net",
-        "active": "False"
+        "active": "True"
       },
       {
-        "id": "HD6",
+        "id": "MoviesHD3 English",
         "country": "bein",
         "display-name": {
           "lang": "en",
-          "$t": "beIN sports 6 hd"
+          "$t": "beIN Movies 3"
+        },
+        "icon": {
+          "src": "https://epg.beinsports.com/mena_entertaintment/MoviesHD3.svg?2018|https://epg.beinsports.com/mena_entertaintment/MoviesHD3.svg?2018"
         },
         "url": "http://www.bein.net",
-        "active": "False"
+        "active": "True"
       },
       {
-        "id": "HD7",
+        "id": "MoviesHD4 English",
         "country": "bein",
         "display-name": {
           "lang": "en",
-          "$t": "beIN sports 7 hd"
+          "$t": "beIN Movies 4"
+        },
+        "icon": {
+          "src": "https://epg.beinsports.com/mena_entertaintment/MoviesHD4.svg?2018|https://epg.beinsports.com/mena_entertaintment/MoviesHD4.svg?2018"
         },
         "url": "http://www.bein.net",
-        "active": "False"
+        "active": "True"
       },
       {
-        "id": "HD8",
+        "id": "BoxOffice_HD1 English",
         "country": "bein",
         "display-name": {
           "lang": "en",
-          "$t": "beIN sports 8 hd"
+          "$t": "beIN BoxOffice 1"
+        },
+        "icon": {
+          "src": "https://epg.beinsports.com/mena_entertaintment/BoxOffice_HD1.svg?2020|https://epg.beinsports.com/mena_entertaintment/BoxOffice_HD1.svg?2020"
         },
         "url": "http://www.bein.net",
-        "active": "False"
+        "active": "True"
       },
       {
-        "id": "HD9",
-        "country": "bein",
-        "display-name": {
-          "lang": "en",
-          "$t": "beIN sports 9 hd"
-        },
-        "url": "http://www.bein.net",
-        "active": "False"
-      },
-      {
-        "id": "HD10",
-        "country": "bein",
-        "display-name": {
-          "lang": "en",
-          "$t": "beIN sports 10 hd"
-        },
-        "url": "http://www.bein.net",
-        "active": "False"
-      },
-      {
-        "id": "SportsHD11",
-        "country": "bein",
-        "display-name": {
-          "lang": "en",
-          "$t": "beIN sports 11 hd"
-        },
-        "url": "http://www.bein.net",
-        "active": "False"
-      },
-      {
-        "id": "SportsHD12",
-        "country": "bein",
-        "display-name": {
-          "lang": "en",
-          "$t": "beIN sports 12 hd"
-        },
-        "url": "http://www.bein.net",
-        "active": "False"
-      },
-      {
-        "id": "SportsHD13",
-        "country": "bein",
-        "display-name": {
-          "lang": "en",
-          "$t": "beIN sports 13 hd"
-        },
-        "url": "http://www.bein.net",
-        "active": "False"
-      },
-      {
-        "id": "SportsHD14",
-        "country": "bein",
-        "display-name": {
-          "lang": "en",
-          "$t": "beIN sports 14 hd"
-        },
-        "url": "http://www.bein.net",
-        "active": "False"
-      },
-      {
-        "id": "SportsHD15",
-        "country": "bein",
-        "display-name": {
-          "lang": "en",
-          "$t": "beIN sports 15 hd"
-        },
-        "url": "http://www.bein.net",
-        "active": "False"
-      },
-      {
-        "id": "SportsHD16",
-        "country": "bein",
-        "display-name": {
-          "lang": "en",
-          "$t": "beIN sports 16 hd"
-        },
-        "url": "http://www.bein.net",
-        "active": "False"
-      },
-      {
-        "id": "SportsHD17",
-        "country": "bein",
-        "display-name": {
-          "lang": "en",
-          "$t": "beIN sports 17 hd"
-        },
-        "url": "http://www.bein.net",
-        "active": "False"
-      },
-      {
-        "id": "News_ar",
-        "country": "bein",
-        "display-name": {
-          "lang": "en",
-          "$t": "beIN news"
-        },
-        "url": "http://www.bein.net",
-        "active": "False"
-      },
-      {
-        "id": "SportsGlobalHD",
-        "country": "bein",
-        "display-name": {
-          "lang": "en",
-          "$t": "beIN global"
-        },
-        "url": "http://www.bein.net",
-        "active": "False"
-      },
-      {
-        "id": "BS NBA",
-        "country": "bein",
-        "display-name": {
-          "lang": "en",
-          "$t": "beIN Sports NBA"
-        },
-        "url": "http://www.bein.net",
-        "active": "False"
-      },
-      {
-        "id": "4K",
-        "country": "bein",
-        "display-name": {
-          "lang": "en",
-          "$t": "beIN Sports 4K"
-        },
-        "url": "http://www.bein.net",
-        "active": "False"
-      },
-      {
-        "id": "Global",
-        "country": "bein",
-        "display-name": {
-          "lang": "en",
-          "$t": "beIN global (us)"
-        },
-        "url": "http://www.bein.net",
-        "active": "False"
-      },
-      {
-        "id": "Spanish",
-        "country": "bein",
-        "display-name": {
-          "lang": "en",
-          "$t": "beIN sports (es)"
-        },
-        "url": "http://www.bein.net",
-        "active": "False"
-      },
-      {
-        "id": "MoviesHD1",
-        "country": "bein",
-        "display-name": {
-          "lang": "en",
-          "$t": "beIN movies 1"
-        },
-        "url": "http://www.bein.net",
-        "active": "False"
-      },
-      {
-        "id": "MoviesHD2",
-        "country": "bein",
-        "display-name": {
-          "lang": "en",
-          "$t": "beIN movies 2"
-        },
-        "url": "http://www.bein.net",
-        "active": "False"
-      },
-      {
-        "id": "MoviesHD3",
-        "country": "bein",
-        "display-name": {
-          "lang": "en",
-          "$t": "beIN movies 3"
-        },
-        "url": "http://www.bein.net",
-        "active": "False"
-      },
-      {
-        "id": "MoviesHD4",
-        "country": "bein",
-        "display-name": {
-          "lang": "en",
-          "$t": "beIN movies 4"
-        },
-        "url": "http://www.bein.net",
-        "active": "False"
-      },
-      {
-        "id": "SeriesHD1",
+        "id": "SeriesHD1 English",
         "country": "bein",
         "display-name": {
           "lang": "en",
           "$t": "beIN Series 1"
         },
+        "icon": {
+          "src": "https://epg.beinsports.com/mena_entertaintment/SeriesHD1.svg?111|https://epg.beinsports.com/mena_entertaintment/SeriesHD1.svg?111"
+        },
         "url": "http://www.bein.net",
-        "active": "False"
+        "active": "True"
       },
       {
-        "id": "SeriesHD2",
+        "id": "SeriesHD2 English",
         "country": "bein",
         "display-name": {
           "lang": "en",
           "$t": "beIN Series 2"
         },
+        "icon": {
+          "src": "https://epg.beinsports.com/mena_entertaintment/SeriesHD2.svg?123|https://epg.beinsports.com/mena_entertaintment/SeriesHD2.svg?123"
+        },
         "url": "http://www.bein.net",
-        "active": "False"
+        "active": "True"
       },
       {
-        "id": "beJUNIOR",
+        "id": "DramaHD1 English",
         "country": "bein",
         "display-name": {
           "lang": "en",
-          "$t": "beIN junior hd 1"
+          "$t": "beIN Drama 1"
+        },
+        "icon": {
+          "src": "https://epg.beinsports.com/mena_entertaintment/DramaHD1.svg?1232|https://epg.beinsports.com/mena_entertaintment/DramaHD1.svg?1232"
         },
         "url": "http://www.bein.net",
-        "active": "False"
+        "active": "True"
       },
       {
-        "id": "fox_movies_hd",
+        "id": "gourmet English",
         "country": "bein",
         "display-name": {
           "lang": "en",
-          "$t": "Fox movies hd"
+          "$t": "beIN gourmet"
+        },
+        "icon": {
+          "src": "https://epg.beinsports.com/mena_entertaintment/gourmet.svg|https://epg.beinsports.com/mena_entertaintment/gourmet.svg"
         },
         "url": "http://www.bein.net",
-        "active": "False"
+        "active": "True"
       },
       {
-        "id": "starmovieshd",
+        "id": "beJUNIOR English",
         "country": "bein",
         "display-name": {
           "lang": "en",
-          "$t": "Star movies hd"
+          "$t": "beJUNIOR"
+        },
+        "icon": {
+          "src": "https://epg.beinsports.com/mena_entertaintment/beJUNIOR.svg|https://epg.beinsports.com/mena_entertaintment/beJUNIOR.svg"
         },
         "url": "http://www.bein.net",
-        "active": "False"
+        "active": "True"
       },
       {
-        "id": "starw_orld_hd",
+        "id": "Jeem English",
         "country": "bein",
         "display-name": {
           "lang": "en",
-          "$t": "Star world hd"
+          "$t": "beIN Jeem"
+        },
+        "icon": {
+          "src": "https://epg.beinsports.com/mena_entertaintment/Jeem.svg?20158888|https://epg.beinsports.com/mena_entertaintment/Jeem.svg?20158888"
         },
         "url": "http://www.bein.net",
-        "active": "False"
+        "active": "True"
       },
       {
-        "id": "NatGeo_HD",
+        "id": "Baraem English",
         "country": "bein",
         "display-name": {
           "lang": "en",
-          "$t": "Natgeo HD (en)"
+          "$t": "beIN Baraem"
+        },
+        "icon": {
+          "src": "https://epg.beinsports.com/mena_entertaintment/Baraem.svg?2017|https://epg.beinsports.com/mena_entertaintment/Baraem.svg?2017"
         },
         "url": "http://www.bein.net",
-        "active": "False"
-      },
-      {
-        "id": "NatGeoPeople_HD",
-        "country": "bein",
-        "display-name": {
-          "lang": "en",
-          "$t": "NatGeo People HD (en)"
-        },
-        "url": "http://www.bein.net",
-        "active": "False"
-      },
-      {
-        "id": "NatGeoWild_HD",
-        "country": "bein",
-        "display-name": {
-          "lang": "en",
-          "$t": "natgeo wild HD (en)"
-        },
-        "url": "http://www.bein.net",
-        "active": "False"
-      },
-      {
-        "id": "Baby_TV",
-        "country": "bein",
-        "display-name": {
-          "lang": "en",
-          "$t": "Baby tv"
-        },
-        "url": "http://www.bein.net",
-        "active": "False"
-      },
-      {
-        "id": "Jeem",
-        "country": "bein",
-        "display-name": {
-          "lang": "en",
-          "$t": "Jeem"
-        },
-        "url": "http://www.bein.net",
-        "active": "False"
-      },
-      {
-        "id": "Baraem",
-        "country": "bein",
-        "display-name": {
-          "lang": "en",
-          "$t": "Baraem"
-        },
-        "url": "http://www.bein.net",
-        "active": "False"
-      },
-      {
-        "id": "gourmet",
-        "country": "bein",
-        "display-name": {
-          "lang": "en",
-          "$t": "beIN Gourmet HD"
-        },
-        "url": "http://www.bein.net",
-        "active": "False"
-      },
-      {
-        "id": "BoxOffice_HD1",
-        "country": "bein",
-        "display-name": {
-          "lang": "en",
-          "$t": "beIN BoxOffice HD1"
-        },
-        "url": "http://www.bein.net",
-        "active": "False"
-      },
-      {
-        "id": "DTX",
-        "country": "bein",
-        "display-name": {
-          "lang": "en",
-          "$t": "beIN DTX HD"
-        },
-        "url": "http://www.bein.net",
-        "active": "False"
-      },
-      {
-        "id": "CBeebies",
-        "country": "bein",
-        "display-name": {
-          "lang": "en",
-          "$t": "beIN BBC CBEEBIES"
-        },
-        "url": "http://www.bein.net",
-        "active": "False"
-      },
-      {
-        "id": "V_HD",
-        "country": "bein",
-        "display-name": {
-          "lang": "en",
-          "$t": "beIN V HD"
-        },
-        "url": "http://www.bein.net",
-        "active": "False"
-      },
-      {
-        "id": "CNNHD",
-        "country": "bein",
-        "display-name": {
-          "lang": "en",
-          "$t": "beIN CNN HD"
-        },
-        "url": "http://www.bein.net",
-        "active": "False"
-      },
-      {
-        "id": "TCM",
-        "country": "bein",
-        "display-name": {
-          "lang": "en",
-          "$t": "beIN TCM"
-        },
-        "url": "http://www.bein.net",
-        "active": "False"
-      },
-      {
-        "id": "CartoonNetworkAR",
-        "country": "bein",
-        "display-name": {
-          "lang": "en",
-          "$t": "beIN Cartoon Network AR"
-        },
-        "url": "http://www.bein.net",
-        "active": "False"
+        "active": "True"
       },
       {
         "id": "CartoonNetworkHD",
         "country": "bein",
         "display-name": {
           "lang": "en",
-          "$t": "beIN Cartoon Network HD"
+          "$t": "CartoonNetworkHD English"
+        },
+        "icon": {
+          "src": "https://epg.beinsports.com/mena_entertaintment/CartoonNetworkHD.png|https://epg.beinsports.com/mena_entertaintment/CartoonNetworkHD.png"
         },
         "url": "http://www.bein.net",
-        "active": "False"
+        "active": "True"
+      },
+      {
+        "id": "CartoonNetworkAR",
+        "country": "bein",
+        "display-name": {
+          "lang": "en",
+          "$t": "CartoonNetworkAR English"
+        },
+        "icon": {
+          "src": "https://epg.beinsports.com/mena_entertaintment/CartoonNetworkAR.svg|https://epg.beinsports.com/mena_entertaintment/CartoonNetworkAR.svg"
+        },
+        "url": "http://www.bein.net",
+        "active": "True"
       },
       {
         "id": "CartoonNetworkHindi",
         "country": "bein",
         "display-name": {
           "lang": "en",
-          "$t": "beIN Cartoon Network Hindi"
+          "$t": "CartoonNetworkHindi English"
+        },
+        "icon": {
+          "src": "https://epg.beinsports.com/mena_entertaintment/CartoonNetworkHindi.svg|https://epg.beinsports.com/mena_entertaintment/CartoonNetworkHindi.svg"
         },
         "url": "http://www.bein.net",
-        "active": "False"
+        "active": "True"
       },
       {
-        "id": "HLN",
+        "id": "Baby_TV English",
         "country": "bein",
         "display-name": {
           "lang": "en",
-          "$t": "beIN HLN"
+          "$t": "beIN Baby TV"
+        },
+        "icon": {
+          "src": "https://epg.beinsports.com/mena_entertaintment/Baby_TV.svg?2017|https://epg.beinsports.com/mena_entertaintment/Baby_TV.svg?2017"
         },
         "url": "http://www.bein.net",
-        "active": "False"
+        "active": "True"
       },
       {
-        "id": "Boomerang",
+        "id": "CBeebies English",
         "country": "bein",
         "display-name": {
           "lang": "en",
-          "$t": "beIN Boomerang"
+          "$t": "beIN CBeebies"
+        },
+        "icon": {
+          "src": "https://epg.beinsports.com/mena_entertaintment/CBeebies.png|https://epg.beinsports.com/mena_entertaintment/CBeebies.png"
         },
         "url": "http://www.bein.net",
-        "active": "False"
+        "active": "True"
       },
       {
-        "id": "DramaHD1",
-        "country": "bein",
-        "display-name": {
-          "lang": "en",
-          "$t": "beIN Drama HD 1"
-        },
-        "url": "http://www.bein.net",
-        "active": "False"
-      },
-      {
-        "id": "Star_Movies_HD",
-        "country": "bein",
-        "display-name": {
-          "lang": "en",
-          "$t": "beIN Star Movies HD"
-        },
-        "url": "http://www.bein.net",
-        "active": "False"
-      },
-      {
-        "id": "amc",
-        "country": "bein",
-        "display-name": {
-          "lang": "en",
-          "$t": "beIN AMC"
-        },
-        "url": "http://www.bein.net",
-        "active": "False"
-      },
-      {
-        "id": "CBSreality",
-        "country": "bein",
-        "display-name": {
-          "lang": "en",
-          "$t": "beIN CBS reality"
-        },
-        "url": "http://www.bein.net",
-        "active": "False"
-      },
-      {
-        "id": "FoxActMovHD",
-        "country": "bein",
-        "display-name": {
-          "lang": "en",
-          "$t": "beIN Fox Action Movie HD"
-        },
-        "url": "http://www.bein.net",
-        "active": "False"
-      },
-      {
-        "id": "FoxFamHD",
-        "country": "bein",
-        "display-name": {
-          "lang": "en",
-          "$t": "beIN Fox Family HD"
-        },
-        "url": "http://www.bein.net",
-        "active": "False"
-      },
-      {
-        "id": "FXHD",
-        "country": "bein",
-        "display-name": {
-          "lang": "en",
-          "$t": "beIN FX HD"
-        },
-        "url": "http://www.bein.net",
-        "active": "False"
-      },
-      {
-        "id": "FoxNews",
-        "country": "bein",
-        "display-name": {
-          "lang": "en",
-          "$t": "beIN Fox News"
-        },
-        "url": "http://www.bein.net",
-        "active": "False"
-      },
-      {
-        "id": "AnimalPlanetHD",
-        "country": "bein",
-        "display-name": {
-          "lang": "en",
-          "$t": "beIN Animal Planet HD"
-        },
-        "url": "http://www.bein.net",
-        "active": "False"
-      },
-      {
-        "id": "DLife",
-        "country": "bein",
-        "display-name": {
-          "lang": "en",
-          "$t": "beIN DLife"
-        },
-        "url": "http://www.bein.net",
-        "active": "False"
-      },
-      {
-        "id": "DreamWorks",
+        "id": "DreamWorks English",
         "country": "bein",
         "display-name": {
           "lang": "en",
           "$t": "beIN DreamWorks"
         },
+        "icon": {
+          "src": "https://epg.beinsports.com/mena_entertaintment/DreamWorks.svg?2017|https://epg.beinsports.com/mena_entertaintment/DreamWorks.svg?2017"
+        },
         "url": "http://www.bein.net",
-        "active": "False"
+        "active": "True"
       },
       {
-        "id": "DKids",
+        "id": "JimJam English",
         "country": "bein",
         "display-name": {
           "lang": "en",
-          "$t": "beIN DKids"
+          "$t": "beIN JimJam"
+        },
+        "icon": {
+          "src": "https://epg.beinsports.com/mena_entertaintment/JimJam.svg?2017|https://epg.beinsports.com/mena_entertaintment/JimJam.svg?2017"
         },
         "url": "http://www.bein.net",
-        "active": "False"
+        "active": "True"
       },
       {
-        "id": "DMAX",
+        "id": "beIN FOX Family Movies",
         "country": "bein",
         "display-name": {
           "lang": "en",
-          "$t": "beIN DMAX"
+          "$t": "FOXFamilyMovies English"
+        },
+        "icon": {
+          "src": "https://epg.beinsports.com/mena_entertaintment/FOXFamilyMovies.svg?2017|https://epg.beinsports.com/mena_entertaintment/FOXFamilyMovies.svg?2017"
         },
         "url": "http://www.bein.net",
-        "active": "False"
+        "active": "True"
       },
       {
-        "id": "OutdoorChannel",
+        "id": "beIN FOX Action Movies",
+        "country": "bein",
+        "display-name": {
+          "lang": "en",
+          "$t": "FOXActionMovies English"
+        },
+        "icon": {
+          "src": "https://epg.beinsports.com/mena_entertaintment/FOXActionMovies.svg?2018|https://epg.beinsports.com/mena_entertaintment/FOXActionMovies.svg?2018"
+        },
+        "url": "http://www.bein.net",
+        "active": "True"
+      },
+      {
+        "id": "beIN Star World HD",
+        "country": "bein",
+        "display-name": {
+          "lang": "en",
+          "$t": "Star_World_HD English"
+        },
+        "icon": {
+          "src": "https://epg.beinsports.com/mena_entertaintment/Star_World_HD.svg?2017|https://epg.beinsports.com/mena_entertaintment/Star_World_HD.svg?2017"
+        },
+        "url": "http://www.bein.net",
+        "active": "True"
+      },
+      {
+        "id": "TCM English",
+        "country": "bein",
+        "display-name": {
+          "lang": "en",
+          "$t": "beIN TCM"
+        },
+        "icon": {
+          "src": "https://epg.beinsports.com/mena_entertaintment/TCM.svg|https://epg.beinsports.com/mena_entertaintment/TCM.svg"
+        },
+        "url": "http://www.bein.net",
+        "active": "True"
+      },
+      {
+        "id": "amc English",
+        "country": "bein",
+        "display-name": {
+          "lang": "en",
+          "$t": "beIN amc"
+        },
+        "icon": {
+          "src": "https://epg.beinsports.com/mena_entertaintment/amc.svg|https://epg.beinsports.com/mena_entertaintment/amc.svg"
+        },
+        "url": "http://www.bein.net",
+        "active": "True"
+      },
+      {
+        "id": "beIN StarMovies",
+        "country": "bein",
+        "display-name": {
+          "lang": "en",
+          "$t": "Star Movies English"
+        },
+        "icon": {
+          "src": "https://epg.beinsports.com/mena_entertaintment/Star_Movies_HD.svg?2017|https://epg.beinsports.com/mena_entertaintment/Star_Movies_HD.svg?2017"
+        },
+        "url": "http://www.bein.net",
+        "active": "True"
+      },
+      {
+        "id": "FOXHD English",
+        "country": "bein",
+        "display-name": {
+          "lang": "en",
+          "$t": "beIN FOX"
+        },
+        "icon": {
+          "src": "https://epg.beinsports.com/mena_entertaintment/FOXHD.svg|https://epg.beinsports.com/mena_entertaintment/FOXHD.svg"
+        },
+        "url": "http://www.bein.net",
+        "active": "True"
+      },
+      {
+        "id": "OutdoorChannel English",
         "country": "bein",
         "display-name": {
           "lang": "en",
           "$t": "beIN Outdoor Channel"
         },
+        "icon": {
+          "src": "https://epg.beinsports.com/mena_entertaintment/OutdoorChannel.svg?2017|https://epg.beinsports.com/mena_entertaintment/OutdoorChannel.svg?2017"
+        },
         "url": "http://www.bein.net",
-        "active": "False"
+        "active": "True"
       },
       {
-        "id": "Extreme",
+        "id": "V_HD English",
         "country": "bein",
         "display-name": {
           "lang": "en",
-          "$t": "beIN Extreme"
+          "$t": "beIN V"
+        },
+        "icon": {
+          "src": "https://epg.beinsports.com/mena_entertaintment/V_HD.jpg|https://epg.beinsports.com/mena_entertaintment/V_HD.jpg"
         },
         "url": "http://www.bein.net",
-        "active": "False"
+        "active": "True"
       },
       {
-        "id": "TravelChannel",
+        "id": "TravelChannel English",
         "country": "bein",
         "display-name": {
           "lang": "en",
           "$t": "beIN Travel Channel"
         },
+        "icon": {
+          "src": "https://epg.beinsports.com/mena_entertaintment/TravelChannel.svg|https://epg.beinsports.com/mena_entertaintment/TravelChannel.svg"
+        },
         "url": "http://www.bein.net",
-        "active": "False"
+        "active": "True"
       },
       {
-        "id": "HGTV",
+        "id": "Extreme English",
+        "country": "bein",
+        "display-name": {
+          "lang": "en",
+          "$t": "beIN Extreme"
+        },
+        "icon": {
+          "src": "https://epg.beinsports.com/mena_entertaintment/Extreme.svg?2017|https://epg.beinsports.com/mena_entertaintment/Extreme.svg?2017"
+        },
+        "url": "http://www.bein.net",
+        "active": "True"
+      },
+      {
+        "id": "fatafeat English",
+        "country": "bein",
+        "display-name": {
+          "lang": "en",
+          "$t": "fatafeat"
+        },
+        "icon": {
+          "src": "https://epg.beinsports.com/mena_entertaintment/fatafeat.png|https://epg.beinsports.com/mena_entertaintment/fatafeat.png"
+        },
+        "url": "http://www.bein.net",
+        "active": "True"
+      },
+      {
+        "id": "FoodNetwork English",
+        "country": "bein",
+        "display-name": {
+          "lang": "en",
+          "$t": "FoodNetwork"
+        },
+        "icon": {
+          "src": "https://epg.beinsports.com/mena_entertaintment/FoodNetwork.png|https://epg.beinsports.com/mena_entertaintment/FoodNetwork.png"
+        },
+        "url": "http://www.bein.net",
+        "active": "True"
+      },
+      {
+        "id": "HGTV English",
         "country": "bein",
         "display-name": {
           "lang": "en",
           "$t": "beIN HGTV"
         },
+        "icon": {
+          "src": "https://epg.beinsports.com/mena_entertaintment/HGTV.svg|https://epg.beinsports.com/mena_entertaintment/HGTV.svg"
+        },
         "url": "http://www.bein.net",
-        "active": "False"
+        "active": "True"
+      },
+      {
+        "id": "beIN CBS reality",
+        "country": "bein",
+        "display-name": {
+          "lang": "en",
+          "$t": "CBSreality English"
+        },
+        "icon": {
+          "src": "https://epg.beinsports.com/mena_entertaintment/CBSreality.svg?2017|https://epg.beinsports.com/mena_entertaintment/CBSreality.svg?2017"
+        },
+        "url": "http://www.bein.net",
+        "active": "True"
+      },
+      {
+        "id": "FXHD English",
+        "country": "bein",
+        "display-name": {
+          "lang": "en",
+          "$t": "beIN FX"
+        },
+        "icon": {
+          "src": "https://epg.beinsports.com/mena_entertaintment/FXHD.svg?2018|https://epg.beinsports.com/mena_entertaintment/FXHD.svg?2018"
+        },
+        "url": "http://www.bein.net",
+        "active": "True"
+      },
+      {
+        "id": "DMAX English",
+        "country": "bein",
+        "display-name": {
+          "lang": "en",
+          "$t": "beIN DMAX"
+        },
+        "icon": {
+          "src": "https://epg.beinsports.com/mena_entertaintment/DMAX.svg?2017|https://epg.beinsports.com/mena_entertaintment/DMAX.svg?2017"
+        },
+        "url": "http://www.bein.net",
+        "active": "True"
+      },
+      {
+        "id": "NatGeoWild_HD English",
+        "country": "bein",
+        "display-name": {
+          "lang": "en",
+          "$t": "beIN NatGeoWild"
+        },
+        "icon": {
+          "src": "https://epg.beinsports.com/mena_entertaintment/NatGeoWild_HD.svg?2017|https://epg.beinsports.com/mena_entertaintment/NatGeoWild_HD.svg?2017"
+        },
+        "url": "http://www.bein.net",
+        "active": "True"
+      },
+      {
+        "id": "NatGeoPeople_HD English",
+        "country": "bein",
+        "display-name": {
+          "lang": "en",
+          "$t": "beIN NatGeoPeople"
+        },
+        "icon": {
+          "src": "https://epg.beinsports.com/mena_entertaintment/NatGeoPeople_HD.svg?2017|https://epg.beinsports.com/mena_entertaintment/NatGeoPeople_HD.svg?2017"
+        },
+        "url": "http://www.bein.net",
+        "active": "True"
+      },
+      {
+        "id": "NatGeo_HD English",
+        "country": "bein",
+        "display-name": {
+          "lang": "en",
+          "$t": "beIN NatGeo"
+        },
+        "icon": {
+          "src": "https://epg.beinsports.com/mena_entertaintment/NatGeo_HD.svg?2017|https://epg.beinsports.com/mena_entertaintment/NatGeo_HD.svg?2017"
+        },
+        "url": "http://www.bein.net",
+        "active": "True"
+      },
+      {
+        "id": "BBCEarth English",
+        "country": "bein",
+        "display-name": {
+          "lang": "en",
+          "$t": "beIN BBCEarth"
+        },
+        "icon": {
+          "src": "https://epg.beinsports.com/mena_entertaintment/BBCEarth.png|https://epg.beinsports.com/mena_entertaintment/BBCEarth.png"
+        },
+        "url": "http://www.bein.net",
+        "active": "True"
+      },
+      {
+        "id": "AnimalPlanetHD English",
+        "country": "bein",
+        "display-name": {
+          "lang": "en",
+          "$t": "beIN AnimalPlanet"
+        },
+        "icon": {
+          "src": "https://epg.beinsports.com/mena_entertaintment/AnimalPlanetHD.svg|https://epg.beinsports.com/mena_entertaintment/AnimalPlanetHD.svg"
+        },
+        "url": "http://www.bein.net",
+        "active": "True"
+      },
+      {
+        "id": "AljazeeraDocumentary English",
+        "country": "bein",
+        "display-name": {
+          "lang": "en",
+          "$t": "Aljazeera Documentary"
+        },
+        "icon": {
+          "src": "https://epg.beinsports.com/mena_entertaintment/AljazeeraDocumentary.png?2017|https://epg.beinsports.com/mena_entertaintment/AljazeeraDocumentary.png?2017"
+        },
+        "url": "http://www.bein.net",
+        "active": "True"
+      },
+      {
+        "id": "TRTWorld English",
+        "country": "bein",
+        "display-name": {
+          "lang": "en",
+          "$t": "beIN TRT World"
+        },
+        "icon": {
+          "src": "https://epg.beinsports.com/mena_entertaintment/TRTWorld.png?2017|https://epg.beinsports.com/mena_entertaintment/TRTWorld.png?2017"
+        },
+        "url": "http://www.bein.net",
+        "active": "True"
+      },
+      {
+        "id": "Euronews English",
+        "country": "bein",
+        "display-name": {
+          "lang": "en",
+          "$t": "beIN Euronews"
+        },
+        "icon": {
+          "src": "https://epg.beinsports.com/mena_entertaintment/Euronews.jpg?2017|https://epg.beinsports.com/mena_entertaintment/Euronews.jpg?2017"
+        },
+        "url": "http://www.bein.net",
+        "active": "True"
+      },
+      {
+        "id": "CNNHD English",
+        "country": "bein",
+        "display-name": {
+          "lang": "en",
+          "$t": "beIN CNN"
+        },
+        "icon": {
+          "src": "https://epg.beinsports.com/mena_entertaintment/CNNHD.svg|https://epg.beinsports.com/mena_entertaintment/CNNHD.svg"
+        },
+        "url": "http://www.bein.net",
+        "active": "True"
+      },
+      {
+        "id": "Bloomberg English",
+        "country": "bein",
+        "display-name": {
+          "lang": "en",
+          "$t": "beIN Bloomberg"
+        },
+        "icon": {
+          "src": "https://epg.beinsports.com/mena_entertaintment/Bloomberg.svg?2017|https://epg.beinsports.com/mena_entertaintment/Bloomberg.svg?2017"
+        },
+        "url": "http://www.bein.net",
+        "active": "True"
+      },
+      {
+        "id": "HLN English",
+        "country": "bein",
+        "display-name": {
+          "lang": "en",
+          "$t": "beIN HLN"
+        },
+        "icon": {
+          "src": "https://epg.beinsports.com/mena_entertaintment/HLN.svg|https://epg.beinsports.com/mena_entertaintment/HLN.svg"
+        },
+        "url": "http://www.bein.net",
+        "active": "True"
+      },
+      {
+        "id": "DTX English",
+        "country": "bein",
+        "display-name": {
+          "lang": "en",
+          "$t": "beIN DTX"
+        },
+        "icon": {
+          "src": "https://epg.beinsports.com/mena_entertaintment/DTX.png|https://epg.beinsports.com/mena_entertaintment/DTX.png"
+        },
+        "url": "http://www.bein.net",
+        "active": "True"
+      },
+      {
+        "id": "DLife English",
+        "country": "bein",
+        "display-name": {
+          "lang": "en",
+          "$t": "beIN DLife"
+        },
+        "icon": {
+          "src": "https://epg.beinsports.com/mena_entertaintment/DLife.svg?2017|https://epg.beinsports.com/mena_entertaintment/DLife.svg?2017"
+        },
+        "url": "http://www.bein.net",
+        "active": "True"
+      },
+      {
+        "id": "FineLiving English",
+        "country": "bein",
+        "display-name": {
+          "lang": "en",
+          "$t": "beIN FineLiving"
+        },
+        "icon": {
+          "src": "https://epg.beinsports.com/mena_entertaintment/FineLiving.png|https://epg.beinsports.com/mena_entertaintment/FineLiving.png"
+        },
+        "url": "http://www.bein.net",
+        "active": "True"
       },
       {
         "id": "almanar",
