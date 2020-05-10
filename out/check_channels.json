@@ -1414,7 +1414,7 @@
           "src": "https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1296_1.png"
         },
         "url": "http://www.elcinema.com",
-        "active": "False"
+        "active": "True"
       },
       {
         "id": "Al Nahar TV",
@@ -1544,7 +1544,7 @@
           "src": "https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1188_1.png"
         },
         "url": "http://www.elcinema.com",
-        "active": "True"
+        "active": "False"
       },
       {
         "id": "Lana",
@@ -1618,6 +1618,9 @@
           "lang": "en",
           "$t": "Alhayat Series"
         },
+        "icon": {
+          "src": "https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1138_1.png"
+        },
         "url": "http://www.elcinema.com",
         "active": "False"
       },
@@ -1628,8 +1631,11 @@
           "lang": "en",
           "$t": "TeN TV"
         },
+        "icon": {
+          "src": "https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1280_1.png"
+        },
         "url": "http://www.elcinema.com",
-        "active": "False"
+        "active": "True"
       },
       {
         "id": "Fan",
@@ -1638,8 +1644,11 @@
           "lang": "en",
           "$t": "Fan"
         },
+        "icon": {
+          "src": "https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1233_1.png"
+        },
         "url": "http://www.elcinema.com",
-        "active": "False"
+        "active": "True"
       },
       {
         "id": "Oman",
@@ -1648,8 +1657,11 @@
           "lang": "en",
           "$t": "Oman"
         },
+        "icon": {
+          "src": "https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1317_1.png"
+        },
         "url": "http://www.elcinema.com",
-        "active": "False"
+        "active": "True"
       },
       {
         "id": "Al Aoula Morocco",
@@ -1658,8 +1670,11 @@
           "lang": "en",
           "$t": "Al Aoula Morocco"
         },
+        "icon": {
+          "src": "https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1312_1.png"
+        },
         "url": "http://www.elcinema.com",
-        "active": "False"
+        "active": "True"
       },
       {
         "id": "Aflam TV 7 Maroc",
@@ -1667,6 +1682,9 @@
         "display-name": {
           "lang": "en",
           "$t": "Aflam TV 7 Maroc"
+        },
+        "icon": {
+          "src": "https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1207_1.png"
         },
         "url": "http://www.elcinema.com",
         "active": "False"
@@ -1678,8 +1696,11 @@
           "lang": "en",
           "$t": "CBC Drama"
         },
+        "icon": {
+          "src": "https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1199_1.png"
+        },
         "url": "http://www.elcinema.com",
-        "active": "False"
+        "active": "True"
       },
       {
         "id": "Nile Drama",
@@ -1688,8 +1709,11 @@
           "lang": "en",
           "$t": "Nile Drama"
         },
+        "icon": {
+          "src": "https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1156_1.png"
+        },
         "url": "http://www.elcinema.com",
-        "active": "False"
+        "active": "True"
       },
       {
         "id": "Series",
@@ -1698,8 +1722,11 @@
           "lang": "en",
           "$t": "Series"
         },
+        "icon": {
+          "src": "https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1161_1.png"
+        },
         "url": "http://www.elcinema.com",
-        "active": "False"
+        "active": "True"
       },
       {
         "id": "AD Sports 3 HD",
