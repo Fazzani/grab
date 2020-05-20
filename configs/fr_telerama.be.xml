@@ -6,12 +6,12 @@
   <proxy>automatic</proxy>
   <user-agent>Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; yie9)</user-agent>
   <logging>on</logging>
-  <license wg-username="hfazzani" registered-email="heni.fazzani@gmail.com" password="2d557ec9">f</license>
+  <license wg-username="hfazzani" registered-email="heni.fazzani@gmail.com" password="2d557ec9"></license>
   <retry time-out="15">1</retry>
   <skip>12</skip>
   <timespan>1</timespan>
   <update>i</update>
-  
+
   <channel update="i" site="telerama.fr" site_id="be-1,29" xmltv_id="BE 1">BE 1</channel>
   <channel update="i" site="telerama.fr" site_id="be-cine,417" xmltv_id="Be Ciné">Be Ciné</channel>
   <channel update="i" site="telerama.fr" site_id="be-series,418" xmltv_id="Be Séries">Be Séries</channel>
