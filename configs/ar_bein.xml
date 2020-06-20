@@ -4,12 +4,12 @@
   <mode>m</mode>
   <postprocess run="n" grab="y">mdb</postprocess>
   <proxy>automatic</proxy>
-  <user-agent>Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; yie9)</user-agent>
+  <user-agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36 Edg/79.0.309.71</user-agent>
   <logging>on</logging>
   <retry time-out="15">1</retry>
   <skip>12,5</skip>
   <timespan>1</timespan>
-  <license wg-username="hfazzani" registered-email="heni.fazzani@gmail.com" password="2d557ec9">f</license>
+  <license wg-username="hfazzani" registered-email="heni.fazzani@gmail.com" password="2d557ec9" />
   <update>i</update>
 
   <channel update="i" site="watania.tn" site_id="www.watania1.tn/البرنامج-الأسبوعي/" xmltv_id="Watania 1">Watania 1</channel>
