@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.0.0.0 -- build 3 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="BE 1">
     <display-name lang="fr">BE 1</display-name>
     <icon src="https://television.telerama.fr/sites/tr_master/files/styles/channel_logo_80x80/public/sheet_media/tv/150x150/192.png?itok=LK8LTHrB" />
@@ -61,1114 +61,2307 @@
     <display-name lang="fr">CHASSE PECHE</display-name>
     <url>http://www.tv.orange.fr</url>
   </channel>
-  <programme start="20200429065000 +0200" stop="20200429070000 +0200" channel="BE 1">
-    <title lang="fr">Le papier</title>
+  <programme start="20200624063500 +0200" stop="20200624070000 +0200" channel="BE 1">
+    <title lang="fr">Plaqué or</title>
+    <category lang="fr">Film</category>
   </programme>
-  <programme start="20200429070000 +0200" stop="20200429075500 +0200" channel="BE 1">
-    <title lang="fr">Clique</title>
+  <programme start="20200624070000 +0200" stop="20200624082500 +0200" channel="BE 1">
+    <title lang="fr">Laurent Garnier off the record (?)</title>
+    <credits>
+      <director>Gabin Rivoire</director>
+    </credits>
+    <category lang="fr">Musique</category>
   </programme>
-  <programme start="20200429075500 +0200" stop="20200429093000 +0200" channel="BE 1">
-    <title lang="fr">Urgences psychiatriques</title>
+  <programme start="20200624082500 +0200" stop="20200624102000 +0200" channel="BE 1">
+    <title lang="fr">Yesterday</title>
+    <desc lang="fr">Un musicien anglais cherchant à percer et qui, pour des raisons inconnues, est le seul à se souvenir des Beatles.(n)</desc>
+    <category lang="fr">Film</category>
+    <icon src="https://www.telerama.fr/sites/tr_master/files/sheet_media/movie/7_899989.jpg" />
   </programme>
-  <programme start="20200429093000 +0200" stop="20200429111000 +0200" channel="BE 1">
-    <title lang="fr">What They Had</title>
+  <programme start="20200624102000 +0200" stop="20200624105000 +0200" channel="BE 1">
+    <title lang="fr">Home cinéma (?)</title>
+    <credits>
+      <presenter>Fabrice Du Welz</presenter>
+    </credits>
+    <category lang="fr">Magazine du cinéma</category>
   </programme>
-  <programme start="20200429111000 +0200" stop="20200429124500 +0200" channel="BE 1">
-    <title lang="fr">J'ai perdu Albert</title>
+  <programme start="20200624105000 +0200" stop="20200624135000 +0200" channel="BE 1">
+    <title lang="fr">So Long, My Son</title>
+    <desc lang="fr">Au début des années 1980, Liyun et Yaojun forment un couple heureux.
+Tandis que le régime vient de mettre en place la politique de l’enfant unique, un évènement tragique va bouleverser leur vie.
+Pendant 40 ans, alors qu’ils tentent de se reconstruire, leur destin va s’entrelacer avec celui de la Chine contemporaine.(n)</desc>
+    <category lang="fr">Film</category>
+    <icon src="https://www.telerama.fr/sites/tr_master/files/sheet_media/movie/7_906460.jpg" />
   </programme>
-  <programme start="20200429144500 +0200" stop="20200429164500 +0200" channel="BE 1">
-    <title lang="fr">Le vent de la liberté</title>
+  <programme start="20200624135000 +0200" stop="20200624135500 +0200" channel="BE 1">
+    <title lang="fr">Un geste héroïque</title>
+    <category lang="fr">Film</category>
   </programme>
-  <programme start="20200429164500 +0200" stop="20200429181000 +0200" channel="BE 1">
-    <title lang="fr">FRITZI</title>
+  <programme start="20200624153500 +0200" stop="20200624170000 +0200" channel="BE 1">
+    <title lang="fr">Voyez comme on danse</title>
+    <desc lang="fr">Voyez comme ils dansent…
+Julien sent comme une présence hostile derrière lui en permanence.
+Alex, son fils apprend qu’Eva, lycéenne de 17 ans a oublié de le prévenir qu’il allait être père.
+La mère d’Eva, Véro, dans une sale passe depuis sa naissance pense qu’elle va être obligée d’arracher le sac des vieilles pour nourrir le futur enfant.
+Elizabeth, dont le mari Bertrand s’est volatilisé, voit sa maison dévastée par une perquisition.
+Lucie exaspérée par les délires paranos de Julien, son mari, est au bord du burn out conjugal.
+Serena, la maîtresse de Julien sent qu’il lui ment. Julien ne sent pas que Serena lui ment aussi.
+Loïc, fils ainé de Véro, seul élément stable de la bande ne l’est pas tant que ça.
+Sans oublier un absent toujours très présent….(n)</desc>
+    <category lang="fr">Film</category>
+    <icon src="https://www.telerama.fr/sites/tr_master/files/sheet_media/movie/7_849536.jpg" />
   </programme>
-  <programme start="20200429181000 +0200" stop="20200429183500 +0200" channel="BE 1">
-    <title lang="fr">La musique</title>
+  <programme start="20200624170000 +0200" stop="20200624183500 +0200" channel="BE 1">
+    <title lang="fr">Mon étoile solaire</title>
+    <desc lang="fr">Dans l'effervescence de New York, Daniel Bae et Natasha Kingsley se croisent et tombent amoureux l'un de l'autre. Pourtant, sans l'intervention du destin, les deux jeunes gens ne se seraient sans doute jamais rencontrés. Car qu'y a-t-il de commun entre ce garçon romantique sur le point d'entrer à l'université et cette fille d'origine jamaïcaine au tempérament pragmatique ?
+
+Il ne leur reste désormais plus que quelques heures pour que leur amour naissant ne s'éteigne pas à tout jamais. En effet, la famille de Natasha est menacée d'expulsion et la jeune fille se bat de toutes ses forces pouvoir rester sur le territoire américain et … pour se persuader que ses sentiments sont superficiels. Daniel parviendra-t-il à la convaincre du contraire ?(n)</desc>
+    <category lang="fr">Film</category>
   </programme>
-  <programme start="20200429183500 +0200" stop="20200429200000 +0200" channel="BE 1">
-    <title lang="fr">Ma famille et le loup</title>
+  <programme start="20200624183500 +0200" stop="20200624193500 +0200" channel="BE 1">
+    <title lang="fr">La boîte à cartoons (?)</title>
+    <category lang="fr">Magazine jeunesse</category>
   </programme>
-  <programme start="20200429200000 +0200" stop="20200429202000 +0200" channel="BE 1">
-    <title lang="fr">Groland le zapoï</title>
+  <programme start="20200624193500 +0200" stop="20200624210000 +0200" channel="BE 1">
+    <title lang="fr">Comme des bêtes 2</title>
+    <desc lang="fr">La suite du film d'animation "Comme des bêtes", qui permet de découvrir à nouveau la vie secrète que mènent nos animaux domestiques.(n)</desc>
+    <category lang="fr">Film</category>
+    <icon src="https://www.telerama.fr/sites/tr_master/files/sheet_media/movie/7_911352.jpg" />
   </programme>
-  <programme start="20200429202000 +0200" stop="20200429210000 +0200" channel="BE 1">
-    <title lang="fr">Clique</title>
+  <programme start="20200624210000 +0200" stop="20200624223500 +0200" channel="BE 1">
+    <title lang="fr">Juliet, Naked</title>
+    <category lang="fr">Film</category>
   </programme>
-  <programme start="20200429210000 +0200" stop="20200429225000 +0200" channel="BE 1">
-    <title lang="fr">Finding Your Feet</title>
+  <programme start="20200624223500 +0200" stop="20200625002500 +0200" channel="BE 1">
+    <title lang="fr">Mamma Mia ! Here We Go Again</title>
+    <desc lang="fr">Sur l'île paradisiaque de Kalokairi, Sophie, qui a du mal à gérer sa grossesse, va trouver le réconfort auprès des amies de sa mère Donna, qui vont lui conseiller de prendre exemple sur le parcours de cette dernière.(n)</desc>
+    <category lang="fr">Film</category>
+    <icon src="https://www.telerama.fr/sites/tr_master/files/sheet_media/movie/7_827555.jpg" />
   </programme>
-  <programme start="20200429225000 +0200" stop="20200430012000 +0200" channel="BE 1">
+  <programme start="20200625022500 +0200" stop="20200625023000 +0200" channel="BE 1">
+    <title lang="fr">Un Eldorado</title>
+    <category lang="fr">Film</category>
+  </programme>
+  <programme start="20200625023000 +0200" stop="20200625050000 +0200" channel="BE 1">
     <title lang="fr">Peterloo</title>
+    <category lang="fr">Film</category>
   </programme>
-  <programme start="20200430030500 +0200" stop="20200430050000 +0200" channel="BE 1">
-    <title lang="fr">Les enquêtes du département V : dossier 64</title>
+  <programme start="20200625070000 +0200" stop="20200625085500 +0200" channel="BE 1">
+    <title lang="fr">Rocketman</title>
+    <desc lang="fr">Rocketman est l’épopée rock d’une star au destin exceptionnel.
+Biopic consacré au chanteur Elton John et à son fantastique destin, le film retrace la vie de la star britannique depuis ses années d’enfance jusqu’à son avènement en tant que rock star interplanétaire !(n)</desc>
+    <category lang="fr">Film</category>
+    <icon src="https://www.telerama.fr/sites/tr_master/files/sheet_media/movie/7_879714.jpg" />
   </programme>
-  <programme start="20200430065000 +0200" stop="20200430070000 +0200" channel="BE 1">
-    <title lang="fr">A man falls from the sky</title>
+  <programme start="20200625085500 +0200" stop="20200625092500 +0200" channel="BE 1">
+    <title lang="fr">La musique</title>
+    <category lang="fr">Film</category>
   </programme>
-  <programme start="20200430070000 +0200" stop="20200430075500 +0200" channel="BE 1">
-    <title lang="fr">Clique</title>
+  <programme start="20200625092500 +0200" stop="20200625113000 +0200" channel="BE 1">
+    <title lang="fr">Leto</title>
+    <desc lang="fr">Leningrad. Un été du début des années 80. En amont de la Perestroïka, les disques de Lou Reed et de David Bowie s'échangent en contrebande, et une scène rock émerge. Mike et sa femme la belle Natacha rencontrent le jeune Viktor Tsoï. Entourés d’une nouvelle génération de musiciens, ils vont changer le cours du rock’n’roll en Union Soviétique.(n)</desc>
+    <category lang="fr">Film</category>
+    <icon src="https://www.telerama.fr/sites/tr_master/files/sheet_media/movie/7_861524.jpg" />
   </programme>
-  <programme start="20200430093000 +0200" stop="20200430094000 +0200" channel="BE 1">
-    <title lang="fr">Le papier</title>
+  <programme start="20200625113000 +0200" stop="20200625133500 +0200" channel="BE 1">
+    <title lang="fr">Noureev</title>
+    <desc lang="fr">Focus sur l'année 1961 où le danseur étoile soviétique, Rudolf Noureev, en tournée en France, a demandé l'asile politique à l'aéroport de Paris-Le Bourget pour quitter la dictature de l'URSS.(n)</desc>
+    <category lang="fr">Film</category>
+    <icon src="https://www.telerama.fr/sites/tr_master/files/sheet_media/movie/7_904870.jpg" />
   </programme>
-  <programme start="20200430094000 +0200" stop="20200430120000 +0200" channel="BE 1">
-    <title lang="fr">Sunset</title>
+  <programme start="20200625133500 +0200" stop="20200625135000 +0200" channel="BE 1">
+    <title lang="fr">Ma dame au Camélia</title>
+    <category lang="fr">Film</category>
   </programme>
-  <programme start="20200430145000 +0200" stop="20200430150000 +0200" channel="BE 1">
-    <title lang="fr">A man falls from the sky</title>
+  <programme start="20200625153000 +0200" stop="20200625155000 +0200" channel="BE 1">
+    <title lang="fr">Mad</title>
+    <category lang="fr">Film</category>
   </programme>
-  <programme start="20200430150000 +0200" stop="20200430163000 +0200" channel="BE 1">
-    <title lang="fr">La vie immortelle d'Henrietta Lacks</title>
-  </programme>
-  <programme start="20200430163000 +0200" stop="20200430175500 +0200" channel="BE 1">
-    <title lang="fr">Kings</title>
-  </programme>
-  <programme start="20200430175500 +0200" stop="20200430200000 +0200" channel="BE 1">
-    <title lang="fr">Green Book : sur les routes du Sud</title>
-  </programme>
-  <programme start="20200430200000 +0200" stop="20200430202000 +0200" channel="BE 1">
-    <title lang="fr">Groland le zapoï</title>
-  </programme>
-  <programme start="20200430202000 +0200" stop="20200430210000 +0200" channel="BE 1">
-    <title lang="fr">Clique</title>
-  </programme>
-  <programme start="20200430214500 +0200" stop="20200430231000 +0200" channel="BE 1">
-    <title lang="fr">Qui m'aime me suive !</title>
-  </programme>
-  <programme start="20200430231000 +0200" stop="20200501005500 +0200" channel="BE 1">
-    <title lang="fr">Coeurs ennemis</title>
-  </programme>
-  <programme start="20200501005500 +0200" stop="20200501023500 +0200" channel="BE 1">
-    <title lang="fr">Red Joan</title>
-  </programme>
-  <programme start="20200501023500 +0200" stop="20200501041000 +0200" channel="BE 1">
-    <title lang="fr">The Wife</title>
-  </programme>
-  <programme start="20200501041000 +0200" stop="20200501054000 +0200" channel="BE 1">
-    <title lang="fr">Overseas</title>
-  </programme>
-  <programme start="20200429091500 +0200" stop="20200429112000 +0200" channel="Be Ciné">
-    <title lang="fr">Mortal Engines</title>
-  </programme>
-  <programme start="20200429112000 +0200" stop="20200429130000 +0200" channel="Be Ciné">
-    <title lang="fr">La prophétie de l'horloge</title>
-  </programme>
-  <programme start="20200429130000 +0200" stop="20200429144000 +0200" channel="Be Ciné">
-    <title lang="fr">Darkest Minds : rébellion</title>
-  </programme>
-  <programme start="20200429144000 +0200" stop="20200429165500 +0200" channel="Be Ciné">
-    <title lang="fr">The Island</title>
-  </programme>
-  <programme start="20200429165500 +0200" stop="20200429182000 +0200" channel="Be Ciné">
-    <title lang="fr">Chair de poule 2 : les fantômes d'Halloween</title>
-  </programme>
-  <programme start="20200429182000 +0200" stop="20200429203000 +0200" channel="Be Ciné">
-    <title lang="fr">Shazam !</title>
-  </programme>
-  <programme start="20200429203000 +0200" stop="20200429220000 +0200" channel="Be Ciné">
-    <title lang="fr">La malédiction de la dame blanche</title>
-  </programme>
-  <programme start="20200429220000 +0200" stop="20200429235000 +0200" channel="Be Ciné">
-    <title lang="fr">Douleur et gloire</title>
-  </programme>
-  <programme start="20200429235000 +0200" stop="20200430001000 +0200" channel="Be Ciné">
-    <title lang="fr">Switch</title>
-  </programme>
-  <programme start="20200430001000 +0200" stop="20200430022500 +0200" channel="Be Ciné">
-    <title lang="fr">Dorcel Airlines : hôtesses libertines</title>
-  </programme>
-  <programme start="20200430022500 +0200" stop="20200430035500 +0200" channel="Be Ciné">
-    <title lang="fr">Tully</title>
-  </programme>
-  <programme start="20200430035500 +0200" stop="20200430055000 +0200" channel="Be Ciné">
-    <title lang="fr">Boundaries</title>
-  </programme>
-  <programme start="20200430085500 +0200" stop="20200430103500 +0200" channel="Be Ciné">
-    <title lang="fr">Girl</title>
-  </programme>
-  <programme start="20200430103500 +0200" stop="20200430121000 +0200" channel="Be Ciné">
-    <title lang="fr">Duelles</title>
-  </programme>
-  <programme start="20200430121000 +0200" stop="20200430142500 +0200" channel="Be Ciné">
-    <title lang="fr">Grâce à Dieu</title>
-  </programme>
-  <programme start="20200430142500 +0200" stop="20200430160000 +0200" channel="Be Ciné">
-    <title lang="fr">Nos batailles</title>
-  </programme>
-  <programme start="20200430160000 +0200" stop="20200430173000 +0200" channel="Be Ciné">
-    <title lang="fr">Raoul Taburin a un secret</title>
-  </programme>
-  <programme start="20200430173000 +0200" stop="20200430190000 +0200" channel="Be Ciné">
-    <title lang="fr">Victor &amp; Célia</title>
-  </programme>
-  <programme start="20200430190000 +0200" stop="20200430203000 +0200" channel="Be Ciné">
-    <title lang="fr">Escapada</title>
-  </programme>
-  <programme start="20200430203000 +0200" stop="20200430220000 +0200" channel="Be Ciné">
-    <title lang="fr">Venise n'est pas en Italie</title>
-  </programme>
-  <programme start="20200430220000 +0200" stop="20200501000500 +0200" channel="Be Ciné">
-    <title lang="fr">Godzilla II : roi des monstres</title>
-  </programme>
-  <programme start="20200501000500 +0200" stop="20200501015500 +0200" channel="Be Ciné">
-    <title lang="fr">Venom</title>
-  </programme>
-  <programme start="20200501015500 +0200" stop="20200501032500 +0200" channel="Be Ciné">
-    <title lang="fr">The Prodigy</title>
-  </programme>
-  <programme start="20200501032500 +0200" stop="20200501050500 +0200" channel="Be Ciné">
-    <title lang="fr">La nonne</title>
-  </programme>
-  <programme start="20200429093000 +0200" stop="20200429111500 +0200" channel="Be Séries">
-    <title lang="fr">Colette</title>
-  </programme>
-  <programme start="20200429111500 +0200" stop="20200429130000 +0200" channel="Be Séries">
-    <title lang="fr">My Lady</title>
-  </programme>
-  <programme start="20200429130000 +0200" stop="20200429135500 +0200" channel="Be Séries">
-    <title lang="fr">Clique</title>
-  </programme>
-  <programme start="20200429135500 +0200" stop="20200429151000 +0200" channel="Be Séries">
-    <title lang="fr">L'homme fidèle</title>
-  </programme>
-  <programme start="20200429165000 +0200" stop="20200429183000 +0200" channel="Be Séries">
+  <programme start="20200625155000 +0200" stop="20200625173000 +0200" channel="BE 1">
     <title lang="fr">Exfiltrés</title>
+    <desc lang="fr">Rakka, Syrie, printemps 2015.
+Faustine ouvre les yeux sur l’enfer dans lequel elle s’est jetée avec son fils de 5 ans. À Paris, Gabriel et Adnan, deux jeunes activistes, sont émus par la détresse de Sylvain, le mari de Faustine. Ils vont ainsi monter une opération d’exfiltration à haut risque. Une histoire vraie de deux mondes et celle d’une génération….(n)</desc>
+    <category lang="fr">Film</category>
+    <icon src="https://www.telerama.fr/sites/tr_master/files/sheet_media/movie/7_877801.jpg" />
   </programme>
-  <programme start="20200429183000 +0200" stop="20200429190000 +0200" channel="Be Séries">
-    <title lang="fr">Home cinéma</title>
+  <programme start="20200625173000 +0200" stop="20200625192000 +0200" channel="BE 1">
+    <title lang="fr">Les filles du soleil</title>
+    <desc lang="fr">Au Kurdistan, Bahar, commandante du bataillon Les Filles du Soleil, se prépare à libérer sa ville des mains des hommes en noir, avec l’espoir de retrouver son fils. Une journaliste française, Mathilde, vient couvrir l’offensive et témoigner de l’histoire de ces guerrières d’exception. Depuis que leur vie a basculé, toutes se battent pour la même cause : la femme, la vie, la liberté.(n)</desc>
+    <category lang="fr">Film</category>
+    <icon src="https://www.telerama.fr/sites/tr_master/files/sheet_media/movie/7_854164.jpg" />
   </programme>
-  <programme start="20200429223500 +0200" stop="20200429232500 +0200" channel="Be Séries">
-    <title lang="fr">Le cercle séries</title>
+  <programme start="20200625192000 +0200" stop="20200625210000 +0200" channel="BE 1">
+    <title lang="fr">Fête de famille</title>
+    <desc lang="fr">"Aujourd’hui c'est mon anniversaire et j'aimerais qu'on ne parle que de choses joyeuses."
+Andréa ne sait pas encore que l'arrivée « surprise » de sa fille aînée, Claire, disparue depuis 3 ans et bien décidée à reprendre ce qui lui est dû, va bouleverser le programme et déclencher une tempête familiale.(n)</desc>
+    <category lang="fr">Film</category>
+    <icon src="https://www.telerama.fr/sites/tr_master/files/sheet_media/movie/7_917297.jpg" />
   </programme>
-  <programme start="20200430031000 +0200" stop="20200430044000 +0200" channel="Be Séries">
-    <title lang="fr">La nuit a dévoré le monde</title>
+  <programme start="20200625221500 +0200" stop="20200626002500 +0200" channel="BE 1">
+    <title lang="fr">Fast &amp; Furious : Hobbs &amp; Shaw</title>
+    <desc lang="fr">Depuis que Hobbs, fidèle agent de sécurité au service diplomatique des Etats-Unis, combatif mais droit, et Shaw, un homme sans foi ni loi, ancien membre de l’élite militaire britannique, se sont affrontés en 2015 dans Fast &amp; Furious 7 ; les deux hommes font tout ce qu’ils peuvent pour se nuire l’un à l’autre.
+Mais lorsque Brixton, un anarchiste génétiquement modifié, met la main sur une arme de destruction massive après avoir battu le meilleur agent du MI6 qui se trouve être la sœur de Shaw. Les deux ennemis de longue date vont devoir alors faire équipe pour faire tomber le seul adversaire capable de les anéantir.(n)</desc>
+    <category lang="fr">Film</category>
+    <icon src="https://www.telerama.fr/sites/tr_master/files/sheet_media/movie/7_911628.jpg" />
   </programme>
-  <programme start="20200430064000 +0200" stop="20200430093000 +0200" channel="Be Séries">
+  <programme start="20200626002500 +0200" stop="20200626023000 +0200" channel="BE 1">
+    <title lang="fr">Jurassic World : Fallen Kingdom</title>
+    <desc lang="fr">Cela fait maintenant quatre ans que les dinosaures se sont échappés et ont détruit le parc à thème Jurassic World. Isla Nublar a été abandonnée par les humains alors que les dinosaures survivants sont livrés à eux-mêmes dans la jungle. Lorsque le volcan inactif de l'île commence à rugir, Owen et Claire s’organisent pour sauver les dinosaures restants de l’extinction..(n)</desc>
+    <category lang="fr">Film</category>
+    <icon src="https://www.telerama.fr/sites/tr_master/files/sheet_media/movie/7_823883.jpg" />
+  </programme>
+  <programme start="20200626023000 +0200" stop="20200626035500 +0200" channel="BE 1">
+    <title lang="fr">Crawl</title>
+    <desc lang="fr">Quand un violent ouragan s’abat sur sa ville natale de Floride, Hayley ignore les ordres d’évacuation pour partir à la recherche de son père porté disparu. Elle le retrouve grièvement blessé dans le sous-sol de la maison familiale et réalise qu’ils sont tous les deux menacés par une inondation progressant à une vitesse inquiétante. Alors que s’enclenche une course contre la montre pour fuir l’ouragan en marche, Haley et son père comprennent que l’inondation est loin d’être la plus terrifiante des menaces qui les attend….(n)</desc>
+    <category lang="fr">Film</category>
+    <icon src="https://www.telerama.fr/sites/tr_master/files/sheet_media/movie/7_910642.jpg" />
+  </programme>
+  <programme start="20200626035500 +0200" stop="20200626052500 +0200" channel="BE 1">
+    <title lang="fr">La malédiction de la dame blanche</title>
+    <desc lang="fr">La Dame Blanche. Spectre terrifiant, pris en étau entre le paradis et l'enfer, piégé par un terrible destin dont elle est elle-même l'artisan. La seule évocation de son nom sème la terreur dans le monde depuis des siècles. Quand elle était en vie, elle a noyé ses enfants dans un accès de folle jalousie, puis, dévastée par le chagrin, elle s'est jetée dans le fleuve déchaîné.
+Désormais, ses larmes sont devenues éternelles. Elles sont même mortelles et tous ceux qui entendent ses appels sinistres la nuit sont maudits. Tapie dans l'ombre, la Dame Blanche s'attaque aux enfants, cherchant désespérément à remplacer les siens. Au fil des siècles, elle est devenue de plus en plus prédatrice… et ses méthodes de plus en plus terrifiantes.(n)</desc>
+    <category lang="fr">Film</category>
+    <icon src="https://www.telerama.fr/sites/tr_master/files/styles/movie_cover_186x252/public/sheet_media/movie/7_891929.jpg?itok=zk3ZkMbN" />
+  </programme>
+  <programme start="20200624063400 +0200" stop="20200624082000 +0200" channel="Be Ciné">
     <title lang="fr">Interruption des programmes</title>
+    <category lang="fr">Fin</category>
   </programme>
-  <programme start="20200430093000 +0200" stop="20200430105500 +0200" channel="Be Séries">
-    <title lang="fr">Love</title>
+  <programme start="20200624082000 +0200" stop="20200624095000 +0200" channel="Be Ciné">
+    <title lang="fr">The Old Man &amp; the Gun</title>
+    <desc lang="fr">Forrest Tucker est un braqueur de banques mais il n’en reste pas moins un gentleman. Dans les années 80, il monte de nombreux coups à travers le pays, qui fascinent l’Amérique. À ses trousses, un policier déterminé et une femme qui l’aime.(n)</desc>
+    <category lang="fr">Film</category>
   </programme>
-  <programme start="20200430105500 +0200" stop="20200430122500 +0200" channel="Be Séries">
-    <title lang="fr">Show Dogs</title>
+  <programme start="20200624095000 +0200" stop="20200624113500 +0200" channel="Be Ciné">
+    <title lang="fr">In the Air</title>
+    <desc lang="fr">Ryan Bingham est un misanthrope. Reconnu pour son professionnalisme extrême, il s'est fait une réputation dans la sous-traitance du licenciement. Les plus grandes sociétés font appel à ses services pour dégraisser sans perdre de temps avec ces petits détails qui rendraient la société plus humaine - mais moins rentable. A part accumuler les «miles» lors de ses déplacements, son seul plaisir dans la vie est d'annoncer des ruptures de contrats de travail. Toujours en déplacement aux quatre coins des Etats-Unis, Ryan n'a aucune attache et sa vie tient dans une valise. Un jour, il rencontre une femme. Aussi cynique qu'hypocrite, il fait le nécessaire pour ne pas avoir à s'engager...(n)</desc>
+    <category lang="fr">Film</category>
+    <icon src="https://www.telerama.fr/sites/tr_master/files/a149d616-17c6-4899-8782-c8b3ddbf1bae_2.jpg" />
   </programme>
-  <programme start="20200430122500 +0200" stop="20200430132500 +0200" channel="Be Séries">
-    <title lang="fr">Clique</title>
+  <programme start="20200624113500 +0200" stop="20200624130500 +0200" channel="Be Ciné">
+    <title lang="fr">Le coup du siècle</title>
+    <desc lang="fr">Un remake du Plus escroc des deux (1988).
+
+Deux femmes escrocs - de deux catégories différentes - s'unissent afin de mener la vie dure aux hommes qui les ont bafouées.(n)</desc>
+    <category lang="fr">Film</category>
+    <icon src="https://www.telerama.fr/sites/tr_master/files/sheet_media/movie/7_909423.jpg" />
   </programme>
-  <programme start="20200430132500 +0200" stop="20200430133500 +0200" channel="Be Séries">
-    <title lang="fr">One After The Other</title>
+  <programme start="20200624130500 +0200" stop="20200624143500 +0200" channel="Be Ciné">
+    <title lang="fr">Stuber</title>
+    <desc lang="fr">Un inspecteur de police à la poursuite d'un assassin engage Stu, un gentil chauffeur Uber, pour une nuit entière.(n)</desc>
+    <category lang="fr">Film</category>
   </programme>
-  <programme start="20200430133500 +0200" stop="20200430153500 +0200" channel="Be Séries">
-    <title lang="fr">Les frères Sisters</title>
+  <programme start="20200624143500 +0200" stop="20200624160500 +0200" channel="Be Ciné">
+    <title lang="fr">Chair de poule 2 : les fantômes d'Halloween</title>
+    <category lang="fr">Film</category>
+    <icon src="https://www.telerama.fr/sites/tr_master/files/styles/movie_cover_186x252/public/sheet_media/movie/7_836863.jpg?itok=TYlMgyLA" />
   </programme>
-  <programme start="20200430172000 +0200" stop="20200430191000 +0200" channel="Be Séries">
-    <title lang="fr">At Eternity's Gate</title>
+  <programme start="20200624160500 +0200" stop="20200624173000 +0200" channel="Be Ciné">
+    <title lang="fr">Le Grinch</title>
+    <desc lang="fr">Le retour du Grinch, bien décidé à gâcher la fête de Noël.(n)</desc>
+    <category lang="fr">Film</category>
+    <icon src="https://www.telerama.fr/sites/tr_master/files/sheet_media/movie/7_859890.jpg" />
   </programme>
-  <programme start="20200501002000 +0200" stop="20200501015000 +0200" channel="Be Séries">
-    <title lang="fr">Le journal d'une débutante</title>
+  <programme start="20200624173000 +0200" stop="20200624190000 +0200" channel="Be Ciné">
+    <title lang="fr">Christ(off)</title>
+    <desc lang="fr">Le Père Marc souhaite récolter des fonds pour construire un hôpital pour enfants en Haïti. Avec son groupe de musique chrétienne, il organise une tournée dans toute la France. A 33 ans, Christophe vit encore chez sa mère. Chanteur raté mais guitariste de talent, il croise le chemin du Père Marc qui le recrute. Condition sine qua non : Chris doit se faire passer pour un membre du clergé ! Planqué sous une soutane, au sein de son groupe d’Apôtres un long chemin de croix commence alors pour Christ(Off)….(n)</desc>
+    <category lang="fr">Film</category>
+    <icon src="https://www.telerama.fr/sites/tr_master/files/sheet_media/movie/7_831065.jpg" />
   </programme>
-  <programme start="20200501015000 +0200" stop="20200501033500 +0200" channel="Be Séries">
-    <title lang="fr">En liberté !</title>
+  <programme start="20200624190000 +0200" stop="20200624202500 +0200" channel="Be Ciné">
+    <title lang="fr">Made in China</title>
+    <desc lang="fr">François, jeune trentenaire d’origine asiatique, n’a pas remis les pieds dans sa famille depuis 10 ans après une violente dispute avec son père Meng. Depuis, il essaie toujours d’éviter les questions sur ses origines, jusqu’à mentir en faisant croire qu’il a été adopté. Mais lorsqu’il apprend qu’il va être père, il réalise qu’il va devoir renouer avec son passé et ses origines. Poussé par sa compagne Sophie, il se décide à reprendre contact avec les siens et retourne dans son XIIIème arrondissement natal pour leur annoncer la bonne nouvelle, accompagné de son meilleur ami Bruno. François est accueilli à bras ouverts par sa famille, à l’exception de son père et de son jeune frère. Le retour dans sa communauté ne va pas être si simple….(n)</desc>
+    <category lang="fr">Film</category>
+    <icon src="https://www.telerama.fr/sites/tr_master/files/sheet_media/movie/7_905712.jpg" />
   </programme>
-  <programme start="20200501033500 +0200" stop="20200501052500 +0200" channel="Be Séries">
+  <programme start="20200624202500 +0200" stop="20200624203000 +0200" channel="Be Ciné">
+    <title lang="fr">L'instant Home cinéma (?)</title>
+    <category lang="fr">Magazine du cinéma</category>
+  </programme>
+  <programme start="20200624203000 +0200" stop="20200624220500 +0200" channel="Be Ciné">
+    <title lang="fr">The Grand Budapest Hotel</title>
+    <desc lang="fr">Un écrivain célèbre se remémore sa rencontre avec Zero Moustafa, le mélancolique propriétaire d'un grand hôtel décati au coeur de l'Europe centrale. Autour d'un dîner, monsieur Moustafa, qui fut l'homme le plus riche de la République de Zubrowka, raconte ses débuts, en 1938, comme lobby boy, dans les couloirs du Grand Budapest Hotel alors au comble de sa gloire. Le concierge, le charmant, badin et prolixe monsieur Gustave le prit sous son aile. L'une des clientes attitrées de l'hôtel, l'antique madame D, l'une de ses innombrables vieilles maîtresses, lui légua un tableau de la Renaissance d'une immense valeur. Une cascade d'aventures rocambolesques, sur fond de montée du péril totalitaire, s'ensuivit...(n)</desc>
+    <category lang="fr">Film</category>
+    <icon src="https://www.telerama.fr/sites/tr_master/files/09c7da7b-7c45-4990-ba09-ba0cc2c30ae0_2.jpg" />
+  </programme>
+  <programme start="20200624220500 +0200" stop="20200624234000 +0200" channel="Be Ciné">
+    <title lang="fr">Ruben Brandt, Collector</title>
+    <desc lang="fr">Un thriller sur un psychothérapeute forcé de voler 13 des oeuvres d’art les plus célèbres au monde, pour mettre fin aux terribles cauchemars qui le hantent. Ruben Brandt, Collector est le premier long métrage du réalisateur et peintre Milorad Krstic.(n)</desc>
+    <category lang="fr">Film</category>
+  </programme>
+  <programme start="20200624234000 +0200" stop="20200625000500 +0200" channel="Be Ciné">
+    <title lang="fr">Les Bigorneaux</title>
+    <category lang="fr">Film</category>
+  </programme>
+  <programme start="20200625000500 +0200" stop="20200625021000 +0200" channel="Be Ciné">
+    <title lang="fr">Une femme parfaite</title>
+    <category lang="fr">Film</category>
+  </programme>
+  <programme start="20200625021000 +0200" stop="20200625035000 +0200" channel="Be Ciné">
+    <title lang="fr">French Connection</title>
+    <desc lang="fr">La police américaine enquête sur la filière française par laquelle transitent d'importantes quantités de drogue à destination des Etats-Unis. Jusqu'à présent, malgré une importante mobilisation de moyens, les grands patrons de ce trafic n'ont pas pu être mis sous les verrous. Jimmy Doyle et Buddy Rosso, deux policiers de choc, mènent les recherches, bien décidés à réussir là où leurs prédécesseurs ont échoué. Leur enquête les conduit tout d'abord dans une boîte de nuit, où ils ne tardent pas à repérer deux trafiquants d'héroïne. Ils prennent l'un d'eux en filature, Sal Boca, et se retrouvent devant une modeste maison de Brooklyn, une petite confiserie...(n)</desc>
+    <category lang="fr">Film</category>
+    <icon src="https://www.telerama.fr/sites/tr_master/files/sheet_media/movie/15059/26849_404736.jpg" />
+  </programme>
+  <programme start="20200625035000 +0200" stop="20200625054500 +0200" channel="Be Ciné">
+    <title lang="fr">French Connection 2</title>
+    <desc lang="fr">«Popeye» Doyle, un policier new-yorkais, arrive à Marseille, où il est chargé d'aider la police locale à démanteler la filière française d'un vaste trafic de drogue. Le réseau est dirigé par un vieil ennemi de Popeye, l'homme d'affaires Alain Charnier, que le policier est le seul à pouvoir identifier. Dès sa première rencontre avec le commissaire Barthélémy, Doyle s'aperçoit que sa réputation de flic expéditif l'a précédé et que sa présence est tout juste tolérée. Livré à lui-même, Popeye est enlevé par les hommes de main d'Alain Charnier, drogué puis abandonné mourant non loin de la préfecture de police. Désintoxiqué brutalement mais efficacement par Barthélémy, Doyle retrouve l'hôtel où il a été séquestré et apprend l'arrivée d'un chargement de drogue en provenance de Rotterdam...(n)</desc>
+    <category lang="fr">Film</category>
+  </programme>
+  <programme start="20200625070800 +0200" stop="20200625091000 +0200" channel="Be Ciné">
+    <title lang="fr">Interruption des programmes</title>
+    <category lang="fr">Fin</category>
+  </programme>
+  <programme start="20200625091000 +0200" stop="20200625105000 +0200" channel="Be Ciné">
+    <title lang="fr">Red Joan</title>
+    <category lang="fr">Film</category>
+  </programme>
+  <programme start="20200625105000 +0200" stop="20200625125000 +0200" channel="Be Ciné">
+    <title lang="fr">Astrid</title>
+    <desc lang="fr">En 1920, Astrid Lindgren a 16 ans et des rêves plein la tête.
+Elle décroche un travail de secrétaire dans un journal local, tombe amoureuse de son patron, se retrouve fille-mère.
+Talentueuse et résiliente, libre et déterminée, elle inventera des héroïnes à son image, dans des romans qui la rendront célèbre.(n)</desc>
+    <category lang="fr">Film</category>
+    <icon src="https://www.telerama.fr/sites/tr_master/files/styles/movie_cover_186x252/public/sheet_media/movie/7_895045.jpg?itok=b9KS4I63" />
+  </programme>
+  <programme start="20200625125000 +0200" stop="20200625143000 +0200" channel="Be Ciné">
+    <title lang="fr">Wildlife : une saison ardente</title>
+    <category lang="fr">Film</category>
+    <icon src="https://www.telerama.fr/sites/tr_master/files/sheet_media/movie/7_863951.jpg" />
+  </programme>
+  <programme start="20200625143000 +0200" stop="20200625163000 +0200" channel="Be Ciné">
+    <title lang="fr">Une femme d'exception</title>
+    <desc lang="fr">Jeune avocate idéaliste, Ruth Bader Ginsburg fait équipe avec son mari Marty pour mettre fin à un siècle de discrimination à l'encontre des femmes. Elle se battra devant la Cour d'appel, puis ira jusqu'à la Cour suprême ….(n)</desc>
+    <category lang="fr">Film</category>
+    <icon src="https://www.telerama.fr/sites/tr_master/files/sheet_media/movie/7_866690.jpg" />
+  </programme>
+  <programme start="20200625163000 +0200" stop="20200625182000 +0200" channel="Be Ciné">
+    <title lang="fr">La mule</title>
+    <desc lang="fr">À plus de 80 ans, Earl Stone est aux abois. Il est non seulement fauché et seul, mais son entreprise risque d'être saisie. Il accepte alors un boulot qui – en apparence – ne lui demande que de faire le chauffeur. Sauf que, sans le savoir, il s'est engagé à être passeur de drogue pour un cartel mexicain.
+Extrêmement performant, il transporte des cargaisons de plus en plus importantes. Ce qui pousse les chefs du cartel, toujours méfiants, à lui imposer un "supérieur" chargé de le surveiller. Mais ils ne sont pas les seuls à s'intéresser à lui : l'agent de la DEA Colin Bates est plus qu'intrigué par cette nouvelle "mule".
+Entre la police, les hommes de main du cartel et les fantômes du passé menaçant de le rattraper, Earl est désormais lancé dans une vertigineuse course contre la montre..(n)</desc>
+    <category lang="fr">Film</category>
+    <icon src="https://www.telerama.fr/sites/tr_master/files/sheet_media/movie/7_871050.jpg" />
+  </programme>
+  <programme start="20200625182000 +0200" stop="20200625203000 +0200" channel="Be Ciné">
+    <title lang="fr">El reino</title>
+    <desc lang="fr">Manuel López-Vidal est un homme politique influent dans sa région.
+Alors qu'il doit entrer à la direction nationale de son parti, il se retrouve impliqué dans une affaire de corruption qui menace un de ses amis les plus proches. Pris au piège, il plonge dans un engrenage infernal...(n)</desc>
+    <category lang="fr">Film</category>
+    <icon src="https://www.telerama.fr/sites/tr_master/files/sheet_media/movie/7_892078.jpg" />
+  </programme>
+  <programme start="20200625203000 +0200" stop="20200625221000 +0200" channel="Be Ciné">
+    <title lang="fr">Fourmi</title>
+    <desc lang="fr">Théo, alias « Fourmi », est fils unique de parents divorcés. Tandis que sa mère Chloé vit les prémices d’une nouvelle histoire d’amour, son père Laurent semble s’enliser dans une vie sans perspectives.
+Du haut de ses 12 ans, Théo a un don pour le football. Lorsqu’un recruteur d’un club anglais prestigieux s’intéresse à lui, il y voit l’opportunité de redonner un peu d’espoir à son père. Mais malgré ses efforts, «Fourmi» n’est pas sélectionné en raison de sa petite taille. Il décide de mentir à son père et lui fait croire qu’il a été retenu pour la rentrée prochaine, Ce mensonge va vite dépasser Théo et bouleverser sa vie et celles de ses proches.(n)</desc>
+    <category lang="fr">Film</category>
+    <icon src="https://www.telerama.fr/sites/tr_master/files/sheet_media/movie/7_917296.jpg" />
+  </programme>
+  <programme start="20200625221000 +0200" stop="20200625235500 +0200" channel="Be Ciné">
+    <title lang="fr">Lola et ses frères</title>
+    <desc lang="fr">Lola a deux frères : Benoit, qui se marie pour la 3ème fois, et Pierre, qui débarque en retard au mariage… Excuses, reproches, engueulades, brouilles, chacun essaye de vivre sa vie de son côté. Benoit va devenir père sans y être prêt. Lola fait la rencontre de Zoher alors qu’elle s'occupe de son divorce. Quant à Pierre, ses problèmes professionnels s'enveniment. Tout dans leur vie devrait les éloigner, mais ces trois-là sont inséparables.(n)</desc>
+    <category lang="fr">Film</category>
+    <icon src="https://www.telerama.fr/sites/tr_master/files/sheet_media/movie/7_860466.jpg" />
+  </programme>
+  <programme start="20200625235500 +0200" stop="20200626000000 +0200" channel="Be Ciné">
+    <title lang="fr">L'instant Home cinéma (?)</title>
+    <category lang="fr">Magazine du cinéma</category>
+  </programme>
+  <programme start="20200626000000 +0200" stop="20200626025000 +0200" channel="Be Ciné">
+    <title lang="fr">Rebecca, l'indécente</title>
+    <category lang="fr">Film</category>
+  </programme>
+  <programme start="20200626025000 +0200" stop="20200626044500 +0200" channel="Be Ciné">
+    <title lang="fr">Destroyer</title>
+    <desc lang="fr">La détective du LAPD Erin Bell a jadis infiltré un gang du désert californien, ce qui a eu de conséquences dramatiques. Lorsque le chef de la bande réapparaît, elle doit fouiller dans le passé pour se défaire de ses démons.(n)</desc>
+    <category lang="fr">Film</category>
+    <icon src="https://www.telerama.fr/sites/tr_master/files/sheet_media/movie/7_877446.jpg" />
+  </programme>
+  <programme start="20200624090000 +0200" stop="20200624102500 +0200" channel="Be Séries">
+    <title lang="fr">Raoul Taburin a un secret</title>
+    <desc lang="fr">Raoul Taburin est un spécialisé en réparation de vélos et est un véritable expert en la matière. Mais il cache un secret qui le pèse : le grand expert en vélos ne sait pas faire de vélo lui-même. Il ressent cette carence comme une véritable malédiction.(n)</desc>
+    <category lang="fr">Film</category>
+    <icon src="https://www.telerama.fr/sites/tr_master/files/styles/movie_cover_186x252/public/sheet_media/movie/7_892075.jpg?itok=qfRG_7SB" />
+  </programme>
+  <programme start="20200624102500 +0200" stop="20200624121000 +0200" channel="Be Séries">
     <title lang="fr">I Feel Good</title>
+    <desc lang="fr">Monique dirige une communauté Emmaüs près de Pau. Après plusieurs années d’absence, elle voit débarquer son frère, Jacques, un bon à rien qui n’a qu’une obsession : trouver l’idée qui le rendra riche. Plus que des retrouvailles familiales, ce sont deux visions du monde qui s’affrontent.(n)</desc>
+    <category lang="fr">Film</category>
+    <icon src="https://www.telerama.fr/sites/tr_master/files/sheet_media/movie/7_843384.jpg" />
   </programme>
-  <programme start="20200429060800 +0200" stop="20200429065300 +0200" channel="La Deux">
+  <programme start="20200624121000 +0200" stop="20200624134000 +0200" channel="Be Séries">
+    <title lang="fr">La dernière folie de Claire Darling</title>
+    <desc lang="fr">À Verderonne, petit village de l'Oise, c'est le premier jour de l'été et Claire Darling se réveille persuadée de vivre son dernier jour... Elle décide alors de vider sa maison et brade tout sans distinction, des lampes Tiffany à la pendule de collection. Les objets tant aimés se font l’écho de sa vie tragique et flamboyante. Cette dernière folie fait revenir Marie, sa fille, qu’elle n’a pas vue depuis 20 ans.(n)</desc>
+    <category lang="fr">Film</category>
+    <icon src="https://www.telerama.fr/sites/tr_master/files/sheet_media/movie/7_869534.jpg" />
+  </programme>
+  <programme start="20200624134000 +0200" stop="20200624153000 +0200" channel="Be Séries">
+    <title lang="fr">Tolkien</title>
+    <desc lang="fr">TOLKIEN revient sur la jeunesse et les années d’apprentissage du célèbre auteur. Orphelin, il trouve l’amitié, l’amour et l’inspiration au sein d’un groupe de camarades de son école. Mais la Première Guerre Mondiale éclate et menace de détruire cette « communauté ». Ce sont toutes ces expériences qui vont inspirer Tolkien dans l’écriture de ses romans de la Terre du Milieu.(n)</desc>
+    <category lang="fr">Film</category>
+    <icon src="https://www.telerama.fr/sites/tr_master/files/sheet_media/movie/7_904831.jpg" />
+  </programme>
+  <programme start="20200624170000 +0200" stop="20200624191000 +0200" channel="Be Séries">
+    <title lang="fr">The Hate U Give : la haine qu'on donne</title>
+    <desc lang="fr">Starr est témoin de la mort de son meilleur ami d’enfance, Khalil, tué par balles par un officier de police. Confrontée aux nombreuses pressions de sa communauté, Starr doit trouver sa voix et se battre pour ce qui est juste.(n)</desc>
+    <category lang="fr">Film</category>
+    <icon src="https://www.telerama.fr/sites/tr_master/files/sheet_media/movie/7_871582.jpg" />
+  </programme>
+  <programme start="20200624221000 +0200" stop="20200624230000 +0200" channel="Be Séries">
+    <title lang="fr">Le cercle séries (?)</title>
+    <credits>
+      <presenter>Augustin Trapenard</presenter>
+    </credits>
+    <category lang="fr">Magazine culturel</category>
+  </programme>
+  <programme start="20200625020500 +0200" stop="20200625041500 +0200" channel="Be Séries">
+    <title lang="fr">Un amour impossible</title>
+    <desc lang="fr">À la fin des années 50 à Châteauroux, Rachel, modeste employée de bureau, rencontre Philippe, brillant jeune homme issu d'une famille bourgeoise. De cette liaison passionnelle mais brève naîtra une petite fille, Chantal. Philippe refuse de se marier en dehors de sa classe sociale.(n)</desc>
+    <category lang="fr">Film</category>
+    <icon src="https://www.telerama.fr/sites/tr_master/files/sheet_media/movie/7_855266.jpg" />
+  </programme>
+  <programme start="20200625041500 +0200" stop="20200625055500 +0200" channel="Be Séries">
+    <title lang="fr">Un homme pressé</title>
+    <desc lang="fr">Alain est un homme d’affaires respecté et un orateur brillant. Il court après le temps. Dans sa vie, il n'y a aucune place pour les loisirs ou la famille. Un jour, il est victime d'un accident cérébral qui le stoppe dans sa course et entraîne chez lui de profonds troubles de la parole et de la mémoire. Sa rééducation est prise en charge par Jeanne, une jeune orthophoniste. À force de travail et de patience, Jeanne et Alain vont apprendre à se connaître et chacun, à sa manière, va enfin tenter de se reconstruire et prendre le temps de vivre.(n)</desc>
+    <category lang="fr">Film</category>
+    <icon src="https://www.telerama.fr/sites/tr_master/files/sheet_media/movie/7_855272.jpg" />
+  </programme>
+  <programme start="20200625061700 +0200" stop="20200625070700 +0200" channel="Be Séries">
+    <title lang="fr">Interruption des programmes</title>
+    <category lang="fr">Fin</category>
+  </programme>
+  <programme start="20200625070700 +0200" stop="20200625085000 +0200" channel="Be Séries">
+    <title lang="fr">Pause (?)</title>
+    <category lang="fr">Autre</category>
+  </programme>
+  <programme start="20200625085000 +0200" stop="20200625104500 +0200" channel="Be Séries">
+    <title lang="fr">L'amour est une fête</title>
+    <desc lang="fr">Paris, 1982. Patrons d’un peep show, Le Mirodrome, criblés de dettes, Franck et Serge ont l’idée de produire des petits films pornographiques avec leurs danseuses pour relancer leur établissement. Le succès est au rendez-vous et ne tarde pas à attirer l’attention de leurs concurrents. Un soir, des hommes cagoulés détruisent le Mirodrome. Ruinés, Franck et Serge sont contraints de faire affaire avec leurs rivaux. Mais ce que ces derniers ignorent, c’est que nos deux « entrepreneurs » sont des enquêteurs chargés de procéder à un coup de filet dans le business du « X » parisien. C’est le début d’une aventure dans le cinéma pornographique du début des années quatre-vingt qui va les entraîner loin. Très loin...(n)</desc>
+    <category lang="fr">Film</category>
+    <icon src="https://www.telerama.fr/sites/tr_master/files/sheet_media/movie/7_845404.jpg" />
+  </programme>
+  <programme start="20200625104500 +0200" stop="20200625122500 +0200" channel="Be Séries">
+    <title lang="fr">Sibyl</title>
+    <category lang="fr">Film</category>
+    <icon src="https://www.telerama.fr/sites/tr_master/files/sheet_media/movie/7_899644.jpg" />
+  </programme>
+  <programme start="20200625122500 +0200" stop="20200625134500 +0200" channel="Be Séries">
+    <title lang="fr">Continuer</title>
+    <desc lang="fr">Sibylle, mère divorcée, ne supporte plus de voir son fils adolescent sombrer dans une vie violente et vide de sens. Elle va jouer leur va-tout en entraînant Samuel dans un long périple à travers le Kirghizistan. Avec deux chevaux pour seuls compagnons, mère et fils devront affronter un environnement naturel aussi splendide qu’hostile, ses dangers, son peuple… et surtout eux-mêmes !(n)</desc>
+    <category lang="fr">Film</category>
+    <icon src="https://www.telerama.fr/sites/tr_master/files/sheet_media/movie/7_871341.jpg" />
+  </programme>
+  <programme start="20200625134500 +0200" stop="20200625153500 +0200" channel="Be Séries">
+    <title lang="fr">At Eternity's Gate</title>
+    <category lang="fr">Film</category>
+    <icon src="https://www.telerama.fr/sites/tr_master/files/assets/images/at_eternitys_gate.jpg" />
+  </programme>
+  <programme start="20200625162000 +0200" stop="20200625173500 +0200" channel="Be Séries">
+    <title lang="fr">Israël (?)</title>
+    <credits>
+      <director>Olivier Joyard</director>
+    </credits>
+    <category lang="fr">Culture</category>
+  </programme>
+  <programme start="20200625173500 +0200" stop="20200625190000 +0200" channel="Be Séries">
+    <title lang="fr">Cold War</title>
+    <desc lang="fr">Pendant la guerre froide, entre la Pologne stalinienne et le Paris bohème des années 1950, un musicien épris de liberté et une jeune chanteuse passionnée vivent un amour impossible dans une époque impossible.(n)</desc>
+    <category lang="fr">Film</category>
+    <icon src="https://www.telerama.fr/sites/tr_master/files/sheet_media/movie/7_848911.jpg" />
+  </programme>
+  <programme start="20200626011000 +0200" stop="20200626024500 +0200" channel="Be Séries">
+    <title lang="fr">Photo de famille</title>
+    <desc lang="fr">Gabrielle est « statue » pour touristes, au grand dam de son fils ado. Elsa est en colère contre la terre entière et désespère de tomber enceinte. Mao est un game designer de génie chroniquement dépressif qui noie sa mélancolie dans l’alcool et la psychanalyse. Ils sont frère et sœurs mais ne se côtoient pas. Surtout pas. Jusqu’au jour où leur grand-mère les implore de l’emmener mourir à St Julien.(n)</desc>
+    <category lang="fr">Film</category>
+    <icon src="https://www.telerama.fr/sites/tr_master/files/sheet_media/movie/7_840978.jpg" />
+  </programme>
+  <programme start="20200626024500 +0200" stop="20200626042000 +0200" channel="Be Séries">
+    <title lang="fr">L'amour flou</title>
+    <desc lang="fr">Romane et Philippe se séparent. Après 10 ans de vie commune,deux enfants et un chien,ils ne s’aiment plus. Enfin… ils ne sont plus amoureux. Mais ils s’aiment,quand même. Beaucoup.Trop pour se séparer vraiment? Bref…C’est flou. Alors,sous le regard circonspect de leur entourage,ils accouchent ensemble d’un «sépartement »:deux appartements séparés,communiquant par…la chambre de leurs enfants! Peut on se séparer ensemble? Peut-on refaire sa vie,sans la défaire?(n)</desc>
+    <category lang="fr">Film</category>
+    <icon src="https://www.telerama.fr/sites/tr_master/files/sheet_media/movie/7_849591.jpg" />
+  </programme>
+  <programme start="20200626042000 +0200" stop="20200626054600 +0200" channel="Be Séries">
+    <title lang="fr">Cavale</title>
+    <category lang="fr">Film</category>
+  </programme>
+  <programme start="20200624060000 +0200" stop="20200624060400 +0200" channel="La Deux">
+    <title lang="fr">Météo 22h30</title>
+    <category lang="fr">Météo</category>
+  </programme>
+  <programme start="20200624060400 +0200" stop="20200624064700 +0200" channel="La Deux">
     <title lang="fr">Max et Vénus</title>
+    <category lang="fr">Magazine culinaire</category>
   </programme>
-  <programme start="20200429065300 +0200" stop="20200429071800 +0200" channel="La Deux">
-    <title lang="fr">Fit Tonic</title>
+  <programme start="20200624064700 +0200" stop="20200624065300 +0200" channel="La Deux">
+    <title lang="fr">Vews</title>
+    <category lang="fr">Magazine d'actualité</category>
   </programme>
-  <programme start="20200429071800 +0200" stop="20200429074500 +0200" channel="La Deux">
-    <title lang="fr">Fit Tonic</title>
+  <programme start="20200624065300 +0200" stop="20200624065600 +0200" channel="La Deux">
+    <title lang="fr">Météo 22h30</title>
+    <category lang="fr">Météo</category>
   </programme>
-  <programme start="20200429092400 +0200" stop="20200429105200 +0200" channel="La Deux">
-    <title lang="fr">Douce Audrina : l'enfant sans passé</title>
+  <programme start="20200624065600 +0200" stop="20200624070300 +0200" channel="La Deux">
+    <title lang="fr">Vews</title>
+    <category lang="fr">Magazine d'actualité</category>
   </programme>
-  <programme start="20200429105200 +0200" stop="20200429112100 +0200" channel="La Deux">
-    <title lang="fr">Une saison au zoo</title>
+  <programme start="20200624070300 +0200" stop="20200624070700 +0200" channel="La Deux">
+    <title lang="fr">Météo 22h30</title>
+    <category lang="fr">Météo</category>
   </programme>
-  <programme start="20200429112100 +0200" stop="20200429115100 +0200" channel="La Deux">
-    <title lang="fr">Bouge à la maison</title>
+  <programme start="20200624070700 +0200" stop="20200624071200 +0200" channel="La Deux">
+    <title lang="fr">Vews</title>
+    <category lang="fr">Magazine d'actualité</category>
   </programme>
-  <programme start="20200429115100 +0200" stop="20200429115500 +0200" channel="La Deux">
-    <title lang="fr">Le moment Yoga</title>
+  <programme start="20200624071200 +0200" stop="20200624071500 +0200" channel="La Deux">
+    <title lang="fr">Météo 22h30</title>
+    <category lang="fr">Météo</category>
   </programme>
-  <programme start="20200429115500 +0200" stop="20200429122800 +0200" channel="La Deux">
+  <programme start="20200624071500 +0200" stop="20200624072000 +0200" channel="La Deux">
+    <title lang="fr">Vews (?)</title>
+    <credits>
+      <presenter>Eric Boever</presenter>
+      <presenter>Laurent Henrard</presenter>
+    </credits>
+    <category lang="fr">Magazine d'actualité</category>
+  </programme>
+  <programme start="20200624072000 +0200" stop="20200624074600 +0200" channel="La Deux">
+    <title lang="fr">Fit Tonic (?)</title>
+    <credits>
+      <presenter>Stéphanie Dermaux</presenter>
+      <presenter>Stéphanie Dermeaux</presenter>
+    </credits>
+    <category lang="fr">Fitness</category>
+  </programme>
+  <programme start="20200624074600 +0200" stop="20200624081100 +0200" channel="La Deux">
+    <title lang="fr">Fit Tonic (?)</title>
+    <credits>
+      <presenter>Stéphanie Dermaux</presenter>
+      <presenter>Stéphanie Dermeaux</presenter>
+    </credits>
+    <category lang="fr">Fitness</category>
+  </programme>
+  <programme start="20200624095900 +0200" stop="20200624105400 +0200" channel="La Deux">
+    <title lang="fr">Sur la scène du crime (?)</title>
+    <category lang="fr">Société</category>
+  </programme>
+  <programme start="20200624105400 +0200" stop="20200624112400 +0200" channel="La Deux">
+    <title lang="fr">Une saison au zoo (?)</title>
+    <category lang="fr">Animalier</category>
+  </programme>
+  <programme start="20200624112400 +0200" stop="20200624115500 +0200" channel="La Deux">
+    <title lang="fr">Bouge à la maison (?)</title>
+    <credits>
+      <presenter>Malik</presenter>
+      <presenter>Manzul</presenter>
+    </credits>
+    <category lang="fr">Fitness</category>
+  </programme>
+  <programme start="20200624115500 +0200" stop="20200624122800 +0200" channel="La Deux">
     <title lang="fr">N'oubliez pas les paroles</title>
+    <category lang="fr">Jeu</category>
   </programme>
-  <programme start="20200429122800 +0200" stop="20200429130200 +0200" channel="La Deux">
+  <programme start="20200624122800 +0200" stop="20200624125900 +0200" channel="La Deux">
     <title lang="fr">N'oubliez pas les paroles</title>
+    <category lang="fr">Jeu</category>
   </programme>
-  <programme start="20200429130200 +0200" stop="20200429132900 +0200" channel="La Deux">
-    <title lang="fr">Plus belle la vie</title>
+  <programme start="20200624125900 +0200" stop="20200624132600 +0200" channel="La Deux">
+    <title lang="fr">Plus belle la vie (?)</title>
+    <credits>
+      <director>Jean-Pierre Igoux</director>
+      <director>Véronique Langlois</director>
+      <director>Charli Beléteau</director>
+      <actor role="Vincent">Serge Dupire</actor>
+      <actor role="Ninon">Aurélie Vaneck</actor>
+      <actor role="François">Thierry Ragueneau</actor>
+      <actor role="Mirta">Sylvie Flepp</actor>
+      <actor role="Roland">Michel Cordes</actor>
+      <actor role="Blanche">Cécilia Hornus</actor>
+      <actor role="Rudy">Ambroise Michel</actor>
+      <writer>Hubert Besson</writer>
+      <writer>Pascal Helbroeck</writer>
+    </credits>
+    <category lang="fr">Feuilleton réaliste</category>
   </programme>
-  <programme start="20200429132900 +0200" stop="20200429135900 +0200" channel="La Deux">
-    <title lang="fr">Plus belle la vie</title>
+  <programme start="20200624132600 +0200" stop="20200624135500 +0200" channel="La Deux">
+    <title lang="fr">Plus belle la vie (?)</title>
+    <credits>
+      <director>Jean-Pierre Igoux</director>
+      <director>Véronique Langlois</director>
+      <director>Charli Beléteau</director>
+      <actor role="Vincent">Serge Dupire</actor>
+      <actor role="Ninon">Aurélie Vaneck</actor>
+      <actor role="François">Thierry Ragueneau</actor>
+      <actor role="Mirta">Sylvie Flepp</actor>
+      <actor role="Roland">Michel Cordes</actor>
+      <actor role="Blanche">Cécilia Hornus</actor>
+      <actor role="Rudy">Ambroise Michel</actor>
+      <writer>Hubert Besson</writer>
+      <writer>Pascal Helbroeck</writer>
+    </credits>
+    <category lang="fr">Feuilleton réaliste</category>
   </programme>
-  <programme start="20200429135900 +0200" stop="20200429153000 +0200" channel="La Deux">
-    <title lang="fr">Menace au paradis</title>
+  <programme start="20200624154300 +0200" stop="20200624163700 +0200" channel="La Deux">
+    <title lang="fr">Sur la scène du crime (?)</title>
+    <category lang="fr">Société</category>
   </programme>
-  <programme start="20200429153000 +0200" stop="20200429162400 +0200" channel="La Deux">
-    <title lang="fr">Nus et culottés</title>
+  <programme start="20200624163700 +0200" stop="20200624173300 +0200" channel="La Deux">
+    <title lang="fr">Mémoire du crime (?)</title>
+    <credits>
+      <director>Imen Ghouali</director>
+      <director>Vincent Garreau</director>
+    </credits>
+    <category lang="fr">Documentaire Justice</category>
   </programme>
-  <programme start="20200429162400 +0200" stop="20200429163400 +0200" channel="La Deux">
-    <title lang="fr">Matière grise express</title>
-  </programme>
-  <programme start="20200429163400 +0200" stop="20200429170600 +0200" channel="La Deux">
-    <title lang="fr">Une saison au zoo</title>
-  </programme>
-  <programme start="20200429170600 +0200" stop="20200429173700 +0200" channel="La Deux">
-    <title lang="fr">Une saison au zoo</title>
-  </programme>
-  <programme start="20200429173700 +0200" stop="20200429180600 +0200" channel="La Deux">
+  <programme start="20200624173300 +0200" stop="20200624180600 +0200" channel="La Deux">
     <title lang="fr">N'oubliez pas les paroles</title>
+    <category lang="fr">Jeu</category>
   </programme>
-  <programme start="20200429180600 +0200" stop="20200429183700 +0200" channel="La Deux">
+  <programme start="20200624180600 +0200" stop="20200624184000 +0200" channel="La Deux">
     <title lang="fr">N'oubliez pas les paroles</title>
+    <category lang="fr">Jeu</category>
   </programme>
-  <programme start="20200429183700 +0200" stop="20200429191000 +0200" channel="La Deux">
-    <title lang="fr">Plus belle la vie</title>
+  <programme start="20200624184000 +0200" stop="20200624191100 +0200" channel="La Deux">
+    <title lang="fr">Plus belle la vie (?)</title>
+    <credits>
+      <director>Jean-Pierre Igoux</director>
+      <director>Véronique Langlois</director>
+      <director>Charli Beléteau</director>
+      <actor role="Vincent">Serge Dupire</actor>
+      <actor role="Ninon">Aurélie Vaneck</actor>
+      <actor role="François">Thierry Ragueneau</actor>
+      <actor role="Mirta">Sylvie Flepp</actor>
+      <actor role="Roland">Michel Cordes</actor>
+      <actor role="Blanche">Cécilia Hornus</actor>
+      <actor role="Rudy">Ambroise Michel</actor>
+      <writer>Hubert Besson</writer>
+      <writer>Pascal Helbroeck</writer>
+    </credits>
+    <category lang="fr">Feuilleton réaliste</category>
   </programme>
-  <programme start="20200429202600 +0200" stop="20200429203000 +0200" channel="La Deux">
-    <title lang="fr">Notre savoir-faire</title>
+  <programme start="20200624203100 +0200" stop="20200624203700 +0200" channel="La Deux">
+    <title lang="fr">DECIBELS la quotidienne (?)</title>
+    <category lang="fr">Magazine Magazine musical</category>
   </programme>
-  <programme start="20200429203000 +0200" stop="20200429221200 +0200" channel="La Deux">
-    <title lang="fr">La colère des titans</title>
+  <programme start="20200624203700 +0200" stop="20200624224100 +0200" channel="La Deux">
+    <title lang="fr">High-Rise</title>
+    <desc lang="fr">Au cours des années 70, en Angleterre, Robert Laing, brillant chirurgien, emménage près de Londres dans un immeuble de grand standing récemment édifié. Robert cherche sa place dans cet ensemble ultra-moderne et il attire vite l'attention de sa voisine Charlotte Melville, mère divorcée du jeune Toby. Robert rencontre également Anthony Royal, qui vit au sommet de l'immeuble et l'invite à une soirée organisée chez lui. Là, le chirurgine comprend l'impitoyable système de classes qui régit la vie de l'immeuble...(n)</desc>
+    <category lang="fr">Film</category>
+    <icon src="https://www.telerama.fr/sites/tr_master/files/cd95d6da-a2b5-4eed-b222-4457a6b277a1_2.jpg" />
   </programme>
-  <programme start="20200429221200 +0200" stop="20200429221700 +0200" channel="La Deux">
+  <programme start="20200624224100 +0200" stop="20200624224700 +0200" channel="La Deux">
     <title lang="fr">Météo</title>
+    <category lang="fr">Météo</category>
   </programme>
-  <programme start="20200429221700 +0200" stop="20200429222100 +0200" channel="La Deux">
-    <title lang="fr">Lotto et Joker</title>
+  <programme start="20200624224700 +0200" stop="20200624225600 +0200" channel="La Deux">
+    <title lang="fr">Vews (?)</title>
+    <credits>
+      <presenter>Eric Boever</presenter>
+      <presenter>Laurent Henrard</presenter>
+    </credits>
+    <category lang="fr">Magazine d'actualité</category>
   </programme>
-  <programme start="20200429222100 +0200" stop="20200429224800 +0200" channel="La Deux">
-    <title lang="fr">L'Internet Show</title>
+  <programme start="20200624225600 +0200" stop="20200624225700 +0200" channel="La Deux">
+    <title lang="fr">Lotto et Joker (?)</title>
+    <category lang="fr">Loterie</category>
   </programme>
-  <programme start="20200429224800 +0200" stop="20200430000900 +0200" channel="La Deux">
-    <title lang="fr">Les héros du gazon</title>
+  <programme start="20200624225700 +0200" stop="20200625002800 +0200" channel="La Deux">
+    <title lang="fr">Mineurs en danger : enquête sur les scandaleuses défaillances de l'aide sociale à l'enfance (?)</title>
+    <credits>
+      <director>Jean-Charles Doria</director>
+    </credits>
+    <category lang="fr">Société</category>
   </programme>
-  <programme start="20200430000900 +0200" stop="20200430004000 +0200" channel="La Deux">
-    <title lang="fr">OpinionS</title>
+  <programme start="20200625002800 +0200" stop="20200625005800 +0200" channel="La Deux">
+    <title lang="fr">DECIBELS Le live (?)</title>
+    <category lang="fr">Emission musicale</category>
   </programme>
-  <programme start="20200430004000 +0200" stop="20200430004300 +0200" channel="La Deux">
+  <programme start="20200625005800 +0200" stop="20200625012400 +0200" channel="La Deux">
+    <title lang="fr">OpinionS (?)</title>
+    <category lang="fr">Magazine politique</category>
+  </programme>
+  <programme start="20200625012400 +0200" stop="20200625013100 +0200" channel="La Deux">
+    <title lang="fr">Vews (?)</title>
+    <credits>
+      <presenter>Eric Boever</presenter>
+      <presenter>Laurent Henrard</presenter>
+    </credits>
+    <category lang="fr">Magazine d'actualité</category>
+  </programme>
+  <programme start="20200625013100 +0200" stop="20200625013400 +0200" channel="La Deux">
     <title lang="fr">Météo 22h30</title>
+    <category lang="fr">Météo</category>
   </programme>
-  <programme start="20200430004300 +0200" stop="20200430004400 +0200" channel="La Deux">
-    <title lang="fr">Difference day</title>
+  <programme start="20200625013400 +0200" stop="20200625021900 +0200" channel="La Deux">
+    <title lang="fr">Matière grise (?)</title>
+    <credits>
+      <presenter>-. Src Découverte</presenter>
+      <presenter>Cyril Fleury</presenter>
+      <presenter>Eloise D'hollander</presenter>
+    </credits>
+    <category lang="fr">Magazine scientifique</category>
   </programme>
-  <programme start="20200430004400 +0200" stop="20200430013100 +0200" channel="La Deux">
-    <title lang="fr">Max et Vénus</title>
+  <programme start="20200625021900 +0200" stop="20200625022600 +0200" channel="La Deux">
+    <title lang="fr">Vews (?)</title>
+    <credits>
+      <presenter>Eric Boever</presenter>
+      <presenter>Laurent Henrard</presenter>
+    </credits>
+    <category lang="fr">Magazine d'actualité</category>
   </programme>
-  <programme start="20200430013100 +0200" stop="20200430013500 +0200" channel="La Deux">
+  <programme start="20200625022600 +0200" stop="20200625022900 +0200" channel="La Deux">
     <title lang="fr">Météo 22h30</title>
+    <category lang="fr">Météo</category>
   </programme>
-  <programme start="20200430013500 +0200" stop="20200430022200 +0200" channel="La Deux">
-    <title lang="fr">Max et Vénus</title>
+  <programme start="20200625022900 +0200" stop="20200625031400 +0200" channel="La Deux">
+    <title lang="fr">Matière grise (?)</title>
+    <credits>
+      <presenter>-. Src Découverte</presenter>
+      <presenter>Cyril Fleury</presenter>
+      <presenter>Eloise D'hollander</presenter>
+    </credits>
+    <category lang="fr">Magazine scientifique</category>
   </programme>
-  <programme start="20200430022200 +0200" stop="20200430022600 +0200" channel="La Deux">
+  <programme start="20200625031400 +0200" stop="20200625032100 +0200" channel="La Deux">
+    <title lang="fr">Vews (?)</title>
+    <credits>
+      <presenter>Eric Boever</presenter>
+      <presenter>Laurent Henrard</presenter>
+    </credits>
+    <category lang="fr">Magazine d'actualité</category>
+  </programme>
+  <programme start="20200625032100 +0200" stop="20200625032400 +0200" channel="La Deux">
     <title lang="fr">Météo 22h30</title>
+    <category lang="fr">Météo</category>
   </programme>
-  <programme start="20200430022600 +0200" stop="20200430031300 +0200" channel="La Deux">
-    <title lang="fr">Max et Vénus</title>
+  <programme start="20200625032400 +0200" stop="20200625040900 +0200" channel="La Deux">
+    <title lang="fr">Matière grise (?)</title>
+    <credits>
+      <presenter>-. Src Découverte</presenter>
+      <presenter>Cyril Fleury</presenter>
+      <presenter>Eloise D'hollander</presenter>
+    </credits>
+    <category lang="fr">Magazine scientifique</category>
   </programme>
-  <programme start="20200430031300 +0200" stop="20200430031700 +0200" channel="La Deux">
+  <programme start="20200625040900 +0200" stop="20200625041600 +0200" channel="La Deux">
+    <title lang="fr">Vews (?)</title>
+    <credits>
+      <presenter>Eric Boever</presenter>
+      <presenter>Laurent Henrard</presenter>
+    </credits>
+    <category lang="fr">Magazine d'actualité</category>
+  </programme>
+  <programme start="20200625041600 +0200" stop="20200625041900 +0200" channel="La Deux">
     <title lang="fr">Météo 22h30</title>
+    <category lang="fr">Météo</category>
   </programme>
-  <programme start="20200430031700 +0200" stop="20200430040500 +0200" channel="La Deux">
-    <title lang="fr">Max et Vénus</title>
+  <programme start="20200625041900 +0200" stop="20200625050400 +0200" channel="La Deux">
+    <title lang="fr">Matière grise (?)</title>
+    <credits>
+      <presenter>-. Src Découverte</presenter>
+      <presenter>Cyril Fleury</presenter>
+      <presenter>Eloise D'hollander</presenter>
+    </credits>
+    <category lang="fr">Magazine scientifique</category>
   </programme>
-  <programme start="20200430040500 +0200" stop="20200430040800 +0200" channel="La Deux">
+  <programme start="20200625060600 +0200" stop="20200625060900 +0200" channel="La Deux">
     <title lang="fr">Météo 22h30</title>
+    <category lang="fr">Météo</category>
   </programme>
-  <programme start="20200430040800 +0200" stop="20200430045600 +0200" channel="La Deux">
-    <title lang="fr">Max et Vénus</title>
+  <programme start="20200625060900 +0200" stop="20200625072200 +0200" channel="La Deux">
+    <title lang="fr">Matière grise (?)</title>
+    <credits>
+      <presenter>-. Src Découverte</presenter>
+      <presenter>Cyril Fleury</presenter>
+      <presenter>Eloise D'hollander</presenter>
+    </credits>
+    <category lang="fr">Magazine scientifique</category>
   </programme>
-  <programme start="20200430045600 +0200" stop="20200430045900 +0200" channel="La Deux">
-    <title lang="fr">Météo 22h30</title>
+  <programme start="20200625072200 +0200" stop="20200625074900 +0200" channel="La Deux">
+    <title lang="fr">Fit Tonic (?)</title>
+    <credits>
+      <presenter>Stéphanie Dermaux</presenter>
+      <presenter>Stéphanie Dermeaux</presenter>
+    </credits>
+    <category lang="fr">Fitness</category>
   </programme>
-  <programme start="20200430045900 +0200" stop="20200430054700 +0200" channel="La Deux">
-    <title lang="fr">Max et Vénus</title>
+  <programme start="20200625074900 +0200" stop="20200625081500 +0200" channel="La Deux">
+    <title lang="fr">Fit Tonic (?)</title>
+    <credits>
+      <presenter>Stéphanie Dermaux</presenter>
+      <presenter>Stéphanie Dermeaux</presenter>
+    </credits>
+    <category lang="fr">Fitness</category>
   </programme>
-  <programme start="20200430063700 +0200" stop="20200430065700 +0200" channel="La Deux">
-    <title lang="fr">Météo 22h30</title>
+  <programme start="20200625100300 +0200" stop="20200625105900 +0200" channel="La Deux">
+    <title lang="fr">Sur la scène du crime (?)</title>
+    <category lang="fr">Société</category>
   </programme>
-  <programme start="20200430065700 +0200" stop="20200430072400 +0200" channel="La Deux">
-    <title lang="fr">Fit Tonic</title>
+  <programme start="20200625105900 +0200" stop="20200625112700 +0200" channel="La Deux">
+    <title lang="fr">Une saison au zoo (?)</title>
+    <category lang="fr">Animalier</category>
   </programme>
-  <programme start="20200430072400 +0200" stop="20200430074800 +0200" channel="La Deux">
-    <title lang="fr">Fit Tonic</title>
+  <programme start="20200625112700 +0200" stop="20200625115600 +0200" channel="La Deux">
+    <title lang="fr">Bouge à la maison (?)</title>
+    <credits>
+      <presenter>Malik</presenter>
+      <presenter>Manzul</presenter>
+    </credits>
+    <category lang="fr">Fitness</category>
   </programme>
-  <programme start="20200430092800 +0200" stop="20200430105700 +0200" channel="La Deux">
-    <title lang="fr">Menace au paradis</title>
-  </programme>
-  <programme start="20200430105700 +0200" stop="20200430112800 +0200" channel="La Deux">
-    <title lang="fr">Une saison au zoo</title>
-  </programme>
-  <programme start="20200430112800 +0200" stop="20200430115800 +0200" channel="La Deux">
-    <title lang="fr">Bouge à la maison</title>
-  </programme>
-  <programme start="20200430115800 +0200" stop="20200430120200 +0200" channel="La Deux">
-    <title lang="fr">Le moment Yoga</title>
-  </programme>
-  <programme start="20200430120200 +0200" stop="20200430123100 +0200" channel="La Deux">
+  <programme start="20200625115600 +0200" stop="20200625122800 +0200" channel="La Deux">
     <title lang="fr">N'oubliez pas les paroles</title>
+    <category lang="fr">Jeu</category>
   </programme>
-  <programme start="20200430123100 +0200" stop="20200430130200 +0200" channel="La Deux">
+  <programme start="20200625122800 +0200" stop="20200625130200 +0200" channel="La Deux">
     <title lang="fr">N'oubliez pas les paroles</title>
+    <category lang="fr">Jeu</category>
   </programme>
-  <programme start="20200430130200 +0200" stop="20200430133000 +0200" channel="La Deux">
-    <title lang="fr">Plus belle la vie</title>
+  <programme start="20200625130200 +0200" stop="20200625132900 +0200" channel="La Deux">
+    <title lang="fr">Plus belle la vie (?)</title>
+    <credits>
+      <director>Jean-Pierre Igoux</director>
+      <director>Véronique Langlois</director>
+      <director>Charli Beléteau</director>
+      <actor role="Vincent">Serge Dupire</actor>
+      <actor role="Ninon">Aurélie Vaneck</actor>
+      <actor role="François">Thierry Ragueneau</actor>
+      <actor role="Mirta">Sylvie Flepp</actor>
+      <actor role="Roland">Michel Cordes</actor>
+      <actor role="Blanche">Cécilia Hornus</actor>
+      <actor role="Rudy">Ambroise Michel</actor>
+      <writer>Hubert Besson</writer>
+      <writer>Pascal Helbroeck</writer>
+    </credits>
+    <category lang="fr">Feuilleton réaliste</category>
   </programme>
-  <programme start="20200430133000 +0200" stop="20200430135700 +0200" channel="La Deux">
-    <title lang="fr">Au rythme de la vie</title>
+  <programme start="20200625132900 +0200" stop="20200625135700 +0200" channel="La Deux">
+    <title lang="fr">Plus belle la vie (?)</title>
+    <credits>
+      <director>Jean-Pierre Igoux</director>
+      <director>Véronique Langlois</director>
+      <director>Charli Beléteau</director>
+      <actor role="Vincent">Serge Dupire</actor>
+      <actor role="Ninon">Aurélie Vaneck</actor>
+      <actor role="François">Thierry Ragueneau</actor>
+      <actor role="Mirta">Sylvie Flepp</actor>
+      <actor role="Roland">Michel Cordes</actor>
+      <actor role="Blanche">Cécilia Hornus</actor>
+      <actor role="Rudy">Ambroise Michel</actor>
+      <writer>Hubert Besson</writer>
+      <writer>Pascal Helbroeck</writer>
+    </credits>
+    <category lang="fr">Feuilleton réaliste</category>
   </programme>
-  <programme start="20200430135700 +0200" stop="20200430152400 +0200" channel="La Deux">
-    <title lang="fr">La tentation de mon mari</title>
+  <programme start="20200625154300 +0200" stop="20200625163800 +0200" channel="La Deux">
+    <title lang="fr">Sur la scène du crime (?)</title>
+    <category lang="fr">Société</category>
   </programme>
-  <programme start="20200430152400 +0200" stop="20200430162000 +0200" channel="La Deux">
-    <title lang="fr">Nus et culottés</title>
+  <programme start="20200625163800 +0200" stop="20200625173200 +0200" channel="La Deux">
+    <title lang="fr">Mémoire du crime (?)</title>
+    <credits>
+      <director>Imen Ghouali</director>
+      <director>Vincent Garreau</director>
+    </credits>
+    <category lang="fr">Documentaire Justice</category>
   </programme>
-  <programme start="20200430162000 +0200" stop="20200430164600 +0200" channel="La Deux">
-    <title lang="fr">L'Internet Show</title>
-  </programme>
-  <programme start="20200430164600 +0200" stop="20200430171400 +0200" channel="La Deux">
-    <title lang="fr">Une saison au zoo</title>
-  </programme>
-  <programme start="20200430171400 +0200" stop="20200430174400 +0200" channel="La Deux">
-    <title lang="fr">Une saison au zoo</title>
-  </programme>
-  <programme start="20200430174400 +0200" stop="20200430181200 +0200" channel="La Deux">
+  <programme start="20200625173200 +0200" stop="20200625180200 +0200" channel="La Deux">
     <title lang="fr">N'oubliez pas les paroles</title>
+    <category lang="fr">Jeu</category>
   </programme>
-  <programme start="20200430181200 +0200" stop="20200430184100 +0200" channel="La Deux">
+  <programme start="20200625180200 +0200" stop="20200625183900 +0200" channel="La Deux">
     <title lang="fr">N'oubliez pas les paroles</title>
+    <category lang="fr">Jeu</category>
   </programme>
-  <programme start="20200430184100 +0200" stop="20200430191200 +0200" channel="La Deux">
-    <title lang="fr">Au rythme de la vie</title>
+  <programme start="20200625183900 +0200" stop="20200625191100 +0200" channel="La Deux">
+    <title lang="fr">Plus belle la vie (?)</title>
+    <credits>
+      <director>Jean-Pierre Igoux</director>
+      <director>Véronique Langlois</director>
+      <director>Charli Beléteau</director>
+      <actor role="Vincent">Serge Dupire</actor>
+      <actor role="Ninon">Aurélie Vaneck</actor>
+      <actor role="François">Thierry Ragueneau</actor>
+      <actor role="Mirta">Sylvie Flepp</actor>
+      <actor role="Roland">Michel Cordes</actor>
+      <actor role="Blanche">Cécilia Hornus</actor>
+      <actor role="Rudy">Ambroise Michel</actor>
+      <writer>Hubert Besson</writer>
+      <writer>Pascal Helbroeck</writer>
+    </credits>
+    <category lang="fr">Feuilleton réaliste</category>
   </programme>
-  <programme start="20200430202700 +0200" stop="20200430203000 +0200" channel="La Deux">
-    <title lang="fr">Notre savoir-faire</title>
+  <programme start="20200625203000 +0200" stop="20200625203700 +0200" channel="La Deux">
+    <title lang="fr">DECIBELS la quotidienne (?)</title>
+    <category lang="fr">Magazine Magazine musical</category>
   </programme>
-  <programme start="20200430203000 +0200" stop="20200430220400 +0200" channel="La Deux">
-    <title lang="fr">Démasqué de Pablo Andres</title>
+  <programme start="20200625203700 +0200" stop="20200625221300 +0200" channel="La Deux">
+    <title lang="fr">Faites entrer Fabrice Eboué (?)</title>
+    <category lang="fr">Humour</category>
   </programme>
-  <programme start="20200430220400 +0200" stop="20200430221000 +0200" channel="La Deux">
+  <programme start="20200625221300 +0200" stop="20200625222000 +0200" channel="La Deux">
     <title lang="fr">Météo</title>
+    <category lang="fr">Météo</category>
   </programme>
-  <programme start="20200430221000 +0200" stop="20200430235200 +0200" channel="La Deux">
-    <title lang="fr">La colère des titans</title>
+  <programme start="20200625222000 +0200" stop="20200625223000 +0200" channel="La Deux">
+    <title lang="fr">Vews (?)</title>
+    <credits>
+      <presenter>Eric Boever</presenter>
+      <presenter>Laurent Henrard</presenter>
+    </credits>
+    <category lang="fr">Magazine d'actualité</category>
   </programme>
-  <programme start="20200430235200 +0200" stop="20200501002200 +0200" channel="La Deux">
-    <title lang="fr">OpinionS</title>
+  <programme start="20200625223000 +0200" stop="20200625231300 +0200" channel="La Deux">
+    <title lang="fr">Inside (?)</title>
+    <credits>
+      <presenter>Guillaume Drigeard</presenter>
+      <presenter>Guillaume Paul</presenter>
+      <presenter>Jessica Riga</presenter>
+    </credits>
+    <category lang="fr">Magazine des médias</category>
   </programme>
-  <programme start="20200501002200 +0200" stop="20200501002500 +0200" channel="La Deux">
-    <title lang="fr">Météo</title>
+  <programme start="20200625231300 +0200" stop="20200626010900 +0200" channel="La Deux">
+    <title lang="fr">High-Rise</title>
+    <desc lang="fr">Au cours des années 70, en Angleterre, Robert Laing, brillant chirurgien, emménage près de Londres dans un immeuble de grand standing récemment édifié. Robert cherche sa place dans cet ensemble ultra-moderne et il attire vite l'attention de sa voisine Charlotte Melville, mère divorcée du jeune Toby. Robert rencontre également Anthony Royal, qui vit au sommet de l'immeuble et l'invite à une soirée organisée chez lui. Là, le chirurgine comprend l'impitoyable système de classes qui régit la vie de l'immeuble...(n)</desc>
+    <category lang="fr">Film</category>
+    <icon src="https://www.telerama.fr/sites/tr_master/files/cd95d6da-a2b5-4eed-b222-4457a6b277a1_2.jpg" />
   </programme>
-  <programme start="20200501002500 +0200" stop="20200501005100 +0200" channel="La Deux">
-    <title lang="fr">L'Internet Show</title>
+  <programme start="20200626010900 +0200" stop="20200626011600 +0200" channel="La Deux">
+    <title lang="fr">Vews</title>
+    <category lang="fr">Magazine d'actualité</category>
   </programme>
-  <programme start="20200501005100 +0200" stop="20200501012000 +0200" channel="La Deux">
-    <title lang="fr">Max et Vénus</title>
+  <programme start="20200626011600 +0200" stop="20200626011900 +0200" channel="La Deux">
+    <title lang="fr">Météo 22h30</title>
+    <category lang="fr">Météo</category>
   </programme>
-  <programme start="20200501012000 +0200" stop="20200501013900 +0200" channel="La Deux">
-    <title lang="fr">Programmes de la nuit</title>
+  <programme start="20200626011900 +0200" stop="20200626020300 +0200" channel="La Deux">
+    <title lang="fr">Matière grise (?)</title>
+    <credits>
+      <presenter>-. Src Découverte</presenter>
+      <presenter>Cyril Fleury</presenter>
+      <presenter>Eloise D'hollander</presenter>
+    </credits>
+    <category lang="fr">Magazine scientifique</category>
   </programme>
-  <programme start="20200501013900 +0200" stop="20200501014200 +0200" channel="La Deux">
-    <title lang="fr">Météo</title>
+  <programme start="20200626020300 +0200" stop="20200626021000 +0200" channel="La Deux">
+    <title lang="fr">Vews</title>
+    <category lang="fr">Magazine d'actualité</category>
   </programme>
-  <programme start="20200501014200 +0200" stop="20200501020800 +0200" channel="La Deux">
-    <title lang="fr">L'Internet Show</title>
+  <programme start="20200626021000 +0200" stop="20200626021400 +0200" channel="La Deux">
+    <title lang="fr">Météo 22h30</title>
+    <category lang="fr">Météo</category>
   </programme>
-  <programme start="20200501020800 +0200" stop="20200501025500 +0200" channel="La Deux">
-    <title lang="fr">Max et Vénus</title>
+  <programme start="20200626021400 +0200" stop="20200626025800 +0200" channel="La Deux">
+    <title lang="fr">Matière grise (?)</title>
+    <credits>
+      <presenter>-. Src Découverte</presenter>
+      <presenter>Cyril Fleury</presenter>
+      <presenter>Eloise D'hollander</presenter>
+    </credits>
+    <category lang="fr">Magazine scientifique</category>
   </programme>
-  <programme start="20200501025500 +0200" stop="20200501025900 +0200" channel="La Deux">
-    <title lang="fr">Météo</title>
+  <programme start="20200626025800 +0200" stop="20200626030500 +0200" channel="La Deux">
+    <title lang="fr">Vews</title>
+    <category lang="fr">Magazine d'actualité</category>
   </programme>
-  <programme start="20200501025900 +0200" stop="20200501032500 +0200" channel="La Deux">
-    <title lang="fr">L'Internet Show</title>
+  <programme start="20200626030500 +0200" stop="20200626030800 +0200" channel="La Deux">
+    <title lang="fr">Météo 22h30</title>
+    <category lang="fr">Météo</category>
   </programme>
-  <programme start="20200501032500 +0200" stop="20200501041200 +0200" channel="La Deux">
-    <title lang="fr">Max et Vénus</title>
+  <programme start="20200626030800 +0200" stop="20200626035200 +0200" channel="La Deux">
+    <title lang="fr">Matière grise (?)</title>
+    <credits>
+      <presenter>-. Src Découverte</presenter>
+      <presenter>Cyril Fleury</presenter>
+      <presenter>Eloise D'hollander</presenter>
+    </credits>
+    <category lang="fr">Magazine scientifique</category>
   </programme>
-  <programme start="20200501041200 +0200" stop="20200501041600 +0200" channel="La Deux">
-    <title lang="fr">Météo</title>
+  <programme start="20200626035200 +0200" stop="20200626035900 +0200" channel="La Deux">
+    <title lang="fr">Vews (?)</title>
+    <credits>
+      <presenter>Eric Boever</presenter>
+      <presenter>Laurent Henrard</presenter>
+    </credits>
+    <category lang="fr">Magazine d'actualité</category>
   </programme>
-  <programme start="20200501041600 +0200" stop="20200501044200 +0200" channel="La Deux">
-    <title lang="fr">L'Internet Show</title>
+  <programme start="20200626035900 +0200" stop="20200626040300 +0200" channel="La Deux">
+    <title lang="fr">Météo 22h30</title>
+    <category lang="fr">Météo</category>
   </programme>
-  <programme start="20200429070000 +0200" stop="20200429071000 +0200" channel="La Trois">
-    <title lang="fr">C'est dans la boîte</title>
+  <programme start="20200626040300 +0200" stop="20200626044700 +0200" channel="La Deux">
+    <title lang="fr">Matière grise (?)</title>
+    <credits>
+      <presenter>-. Src Découverte</presenter>
+      <presenter>Cyril Fleury</presenter>
+      <presenter>Eloise D'hollander</presenter>
+    </credits>
+    <category lang="fr">Magazine scientifique</category>
   </programme>
-  <programme start="20200429093500 +0200" stop="20200429094500 +0200" channel="La Trois">
-    <title lang="fr">Belle et Sébastien *2017</title>
+  <programme start="20200626044700 +0200" stop="20200626045400 +0200" channel="La Deux">
+    <title lang="fr">Vews</title>
+    <category lang="fr">Magazine d'actualité</category>
   </programme>
-  <programme start="20200429094500 +0200" stop="20200429100000 +0200" channel="La Trois">
-    <title lang="fr">Belle et Sébastien *2017</title>
+  <programme start="20200626045400 +0200" stop="20200626045700 +0200" channel="La Deux">
+    <title lang="fr">Météo 22h30</title>
+    <category lang="fr">Météo</category>
   </programme>
-  <programme start="20200429100000 +0200" stop="20200429102500 +0200" channel="La Trois">
-    <title lang="fr">Les mystérieuses cités d'or *2012</title>
+  <programme start="20200626045700 +0200" stop="20200626054100 +0200" channel="La Deux">
+    <title lang="fr">Matière grise (?)</title>
+    <credits>
+      <presenter>-. Src Découverte</presenter>
+      <presenter>Cyril Fleury</presenter>
+      <presenter>Eloise D'hollander</presenter>
+    </credits>
+    <category lang="fr">Magazine scientifique</category>
   </programme>
-  <programme start="20200429102500 +0200" stop="20200429104500 +0200" channel="La Trois">
-    <title lang="fr">Les mystérieuses cités d'or *2012</title>
+  <programme start="20200626054100 +0200" stop="20200626054800 +0200" channel="La Deux">
+    <title lang="fr">Vews</title>
+    <category lang="fr">Magazine d'actualité</category>
   </programme>
-  <programme start="20200429104500 +0200" stop="20200429111000 +0200" channel="La Trois">
-    <title lang="fr">Trop cool</title>
+  <programme start="20200626054800 +0200" stop="20200626055100 +0200" channel="La Deux">
+    <title lang="fr">Météo 22h30</title>
+    <category lang="fr">Météo</category>
   </programme>
-  <programme start="20200429111000 +0200" stop="20200429113000 +0200" channel="La Trois">
-    <title lang="fr">Trop cool</title>
+  <programme start="20200624060000 +0200" stop="20200624061400 +0200" channel="La Trois">
+    <title lang="fr">Paf le chien (?)</title>
+    <credits>
+      <director>Charles Vaucelle</director>
+      <director>Rio Guillaume</director>
+    </credits>
+    <category lang="fr">Dessin animé</category>
   </programme>
-  <programme start="20200429124000 +0200" stop="20200429125000 +0200" channel="La Trois">
-    <title lang="fr">Les Sisters</title>
+  <programme start="20200624061400 +0200" stop="20200624062200 +0200" channel="La Trois">
+    <title lang="fr">Paf le chien (?)</title>
+    <credits>
+      <director>Charles Vaucelle</director>
+      <director>Rio Guillaume</director>
+    </credits>
+    <category lang="fr">Dessin animé</category>
   </programme>
-  <programme start="20200429125000 +0200" stop="20200429130500 +0200" channel="La Trois">
-    <title lang="fr">Les Sisters</title>
+  <programme start="20200624062200 +0200" stop="20200624062900 +0200" channel="La Trois">
+    <title lang="fr">Paf le chien (?)</title>
+    <credits>
+      <director>Charles Vaucelle</director>
+      <director>Rio Guillaume</director>
+    </credits>
+    <category lang="fr">Dessin animé</category>
   </programme>
-  <programme start="20200429130500 +0200" stop="20200429131500 +0200" channel="La Trois">
-    <title lang="fr">Les Sisters</title>
+  <programme start="20200624062900 +0200" stop="20200624063700 +0200" channel="La Trois">
+    <title lang="fr">Paf le chien (?)</title>
+    <credits>
+      <director>Charles Vaucelle</director>
+      <director>Rio Guillaume</director>
+    </credits>
+    <category lang="fr">Dessin animé</category>
   </programme>
-  <programme start="20200429131500 +0200" stop="20200429133000 +0200" channel="La Trois">
-    <title lang="fr">Les Sisters</title>
+  <programme start="20200624081000 +0200" stop="20200624082200 +0200" channel="La Trois">
+    <title lang="fr">C'est dans la boîte (?)</title>
+    <credits>
+      <presenter>Aurélie Martinez</presenter>
+    </credits>
+    <category lang="fr">Emission jeunesse</category>
   </programme>
-  <programme start="20200429133000 +0200" stop="20200429150000 +0200" channel="La Trois">
-    <title lang="fr">Arrietty</title>
+  <programme start="20200624085800 +0200" stop="20200624090500 +0200" channel="La Trois">
+    <title lang="fr">Paf le chien (?)</title>
+    <credits>
+      <director>Charles Vaucelle</director>
+      <director>Rio Guillaume</director>
+    </credits>
+    <category lang="fr">Dessin animé</category>
   </programme>
-  <programme start="20200429150100 +0200" stop="20200429151000 +0200" channel="La Trois">
-    <title lang="fr">Y'a pas école</title>
+  <programme start="20200624090500 +0200" stop="20200624090700 +0200" channel="La Trois">
+    <title lang="fr">Paf le chien (?)</title>
+    <credits>
+      <director>Charles Vaucelle</director>
+      <director>Rio Guillaume</director>
+    </credits>
+    <category lang="fr">Dessin animé</category>
   </programme>
-  <programme start="20200429162000 +0200" stop="20200429162100 +0200" channel="La Trois">
-    <title lang="fr">C'est dans la boîte</title>
+  <programme start="20200624090700 +0200" stop="20200624091300 +0200" channel="La Trois">
+    <title lang="fr">Paf le chien (?)</title>
+    <credits>
+      <director>Charles Vaucelle</director>
+      <director>Rio Guillaume</director>
+    </credits>
+    <category lang="fr">Dessin animé</category>
   </programme>
-  <programme start="20200429164000 +0200" stop="20200429165000 +0200" channel="La Trois">
-    <title lang="fr">Les Sisters</title>
+  <programme start="20200624091300 +0200" stop="20200624092100 +0200" channel="La Trois">
+    <title lang="fr">Paf le chien (?)</title>
+    <credits>
+      <director>Charles Vaucelle</director>
+      <director>Rio Guillaume</director>
+    </credits>
+    <category lang="fr">Dessin animé</category>
   </programme>
-  <programme start="20200429165000 +0200" stop="20200429170500 +0200" channel="La Trois">
-    <title lang="fr">Les Sisters</title>
+  <programme start="20200624095700 +0200" stop="20200624102000 +0200" channel="La Trois">
+    <title lang="fr">Les aventures de Tintin (?)</title>
+    <credits>
+      <director>Stéphane Bernasconi</director>
+      <writer>Robert Réa</writer>
+    </credits>
+    <category lang="fr">Dessin animé</category>
   </programme>
-  <programme start="20200429181000 +0200" stop="20200429184000 +0200" channel="La Trois">
-    <title lang="fr">Radiant</title>
+  <programme start="20200624102000 +0200" stop="20200624104200 +0200" channel="La Trois">
+    <title lang="fr">Les aventures de Tintin (?)</title>
+    <credits>
+      <director>Stéphane Bernasconi</director>
+      <writer>Robert Réa</writer>
+    </credits>
+    <category lang="fr">Dessin animé</category>
   </programme>
-  <programme start="20200429184000 +0200" stop="20200429185000 +0200" channel="La Trois">
-    <title lang="fr">C'est dans la boîte</title>
+  <programme start="20200624123800 +0200" stop="20200624125000 +0200" channel="La Trois">
+    <title lang="fr">Les Sisters (?)</title>
+    <credits>
+      <director>Luc Vinciguerra</director>
+    </credits>
+    <category lang="fr">Dessin animé</category>
   </programme>
-  <programme start="20200429185000 +0200" stop="20200429190000 +0200" channel="La Trois">
-    <title lang="fr">Les Niouzz</title>
+  <programme start="20200624125000 +0200" stop="20200624130200 +0200" channel="La Trois">
+    <title lang="fr">Les Sisters (?)</title>
+    <credits>
+      <director>Luc Vinciguerra</director>
+    </credits>
+    <category lang="fr">Dessin animé</category>
   </programme>
-  <programme start="20200429190000 +0200" stop="20200429192000 +0200" channel="La Trois">
-    <title lang="fr">Dessins animés</title>
+  <programme start="20200624130200 +0200" stop="20200624131400 +0200" channel="La Trois">
+    <title lang="fr">Les Sisters (?)</title>
+    <credits>
+      <director>Luc Vinciguerra</director>
+    </credits>
+    <category lang="fr">Dessin animé</category>
   </programme>
-  <programme start="20200429192000 +0200" stop="20200429194500 +0200" channel="La Trois">
-    <title lang="fr">Dessins animés</title>
+  <programme start="20200624131400 +0200" stop="20200624132800 +0200" channel="La Trois">
+    <title lang="fr">Les Sisters (?)</title>
+    <credits>
+      <director>Luc Vinciguerra</director>
+    </credits>
+    <category lang="fr">Dessin animé</category>
   </programme>
-  <programme start="20200429194500 +0200" stop="20200429195000 +0200" channel="La Trois">
-    <title lang="fr">T'où ?</title>
+  <programme start="20200624132800 +0200" stop="20200624150000 +0200" channel="La Trois">
+    <title lang="fr">Babe, le cochon dans la ville</title>
+    <desc lang="fr">Par mégarde, Babe, le fameux cochon devenu berger, précipite son brave maître, Arthur Hoggett, au fond d'un puits. Ce regrettable accident menace gravement l'exploitation, qui s'enfonce dans les dettes. Madame Hoggett décide alors d'emmener le goret savant en ville pour l'engager dans une compétition. Peut-être les performances de l'animal lui rapporteront-elles quelque argent. Rongé par la culpabilité, Babe ne demande qu'à expier sa faute. La ville, immense et agressive, s'avère être un véritable cauchemar. Le brave cochon et sa propriétaire trouvent refuge à l'hôtel Sacapuce, un effroyable «zoo humain», perdu au fin fond d'une banlieue inhumaine...(n)</desc>
+    <category lang="fr">Film</category>
+    <icon src="https://www.telerama.fr/sites/tr_master/files/e33e95e8-7b41-4b98-855f-86bd3cdcf0cb_2.jpg" />
   </programme>
-  <programme start="20200429195000 +0200" stop="20200429200000 +0200" channel="La Trois">
-    <title lang="fr">Les Niouzz (traduction gestuelle)</title>
+  <programme start="20200624150000 +0200" stop="20200624152600 +0200" channel="La Trois">
+    <title lang="fr">Y'a pas école (?)</title>
+    <credits>
+      <presenter>Gwenaëlle Dekegeleer</presenter>
+    </credits>
+    <category lang="fr">Magazine jeunesse</category>
   </programme>
-  <programme start="20200429200000 +0200" stop="20200429203500 +0200" channel="La Trois">
-    <title lang="fr">JT traduction gestuelle</title>
+  <programme start="20200624162200 +0200" stop="20200624163500 +0200" channel="La Trois">
+    <title lang="fr">C'est dans la boîte (?)</title>
+    <credits>
+      <presenter>Aurélie Martinez</presenter>
+    </credits>
+    <category lang="fr">Emission jeunesse</category>
   </programme>
-  <programme start="20200429203500 +0200" stop="20200429203600 +0200" channel="La Trois">
+  <programme start="20200624163500 +0200" stop="20200624164700 +0200" channel="La Trois">
+    <title lang="fr">Les Sisters (?)</title>
+    <credits>
+      <director>Luc Vinciguerra</director>
+    </credits>
+    <category lang="fr">Dessin animé</category>
+  </programme>
+  <programme start="20200624164700 +0200" stop="20200624165900 +0200" channel="La Trois">
+    <title lang="fr">Les Sisters (?)</title>
+    <credits>
+      <director>Luc Vinciguerra</director>
+    </credits>
+    <category lang="fr">Dessin animé</category>
+  </programme>
+  <programme start="20200624165900 +0200" stop="20200624171200 +0200" channel="La Trois">
+    <title lang="fr">Les Sisters (?)</title>
+    <credits>
+      <director>Luc Vinciguerra</director>
+    </credits>
+    <category lang="fr">Dessin animé</category>
+  </programme>
+  <programme start="20200624173400 +0200" stop="20200624175600 +0200" channel="La Trois">
+    <title lang="fr">Marblegen (?)</title>
+    <category lang="fr">Dessin animé</category>
+  </programme>
+  <programme start="20200624184200 +0200" stop="20200624185500 +0200" channel="La Trois">
+    <title lang="fr">C'est dans la boîte (?)</title>
+    <credits>
+      <presenter>Aurélie Martinez</presenter>
+    </credits>
+    <category lang="fr">Emission jeunesse</category>
+  </programme>
+  <programme start="20200624185500 +0200" stop="20200624190200 +0200" channel="La Trois">
+    <title lang="fr">T'où ? (?)</title>
+    <credits>
+      <presenter>Alex</presenter>
+      <presenter>Tania</presenter>
+    </credits>
+    <category lang="fr">Magazine jeunesse</category>
+  </programme>
+  <programme start="20200624190200 +0200" stop="20200624193000 +0200" channel="La Trois">
+    <title lang="fr">C'est pas sorcier (?)</title>
+    <credits>
+      <presenter>Frédéric Courant</presenter>
+      <presenter>Jamy Gourmaud</presenter>
+      <presenter>Sabine Quindou</presenter>
+    </credits>
+    <category lang="fr">Magazine Magazine éducatif</category>
+  </programme>
+  <programme start="20200624193000 +0200" stop="20200624193700 +0200" channel="La Trois">
+    <title lang="fr">T'où ? (?)</title>
+    <credits>
+      <presenter>Alex</presenter>
+      <presenter>Tania</presenter>
+    </credits>
+    <category lang="fr">Magazine jeunesse</category>
+  </programme>
+  <programme start="20200624193700 +0200" stop="20200624195000 +0200" channel="La Trois">
+    <title lang="fr">L'oreille des Kids (?)</title>
+    <credits>
+      <presenter>Christian Baumann</presenter>
+    </credits>
+    <category lang="fr">Magazine jeunesse</category>
+  </programme>
+  <programme start="20200624195000 +0200" stop="20200624195100 +0200" channel="La Trois">
+    <title lang="fr">Ma vie dans l'espace (?)</title>
+    <credits>
+      <presenter>Eloise D'hollander</presenter>
+      <presenter>Heni Leila</presenter>
+    </credits>
+    <category lang="fr">Magazine jeunesse</category>
+  </programme>
+  <programme start="20200624195100 +0200" stop="20200624200000 +0200" channel="La Trois">
+    <title lang="fr">Si j'étais un animal (?)</title>
+    <credits>
+      <director>Marie-Claire Javoy</director>
+    </credits>
+    <category lang="fr">Animalier</category>
+  </programme>
+  <programme start="20200624200000 +0200" stop="20200624203800 +0200" channel="La Trois">
+    <title lang="fr">JT 19h30</title>
+    <category lang="fr">Journal</category>
+  </programme>
+  <programme start="20200624203800 +0200" stop="20200624204100 +0200" channel="La Trois">
     <title lang="fr">Météo internationale</title>
+    <category lang="fr">Météo</category>
   </programme>
-  <programme start="20200429203600 +0200" stop="20200429210000 +0200" channel="La Trois">
-    <title lang="fr">CQFD (Ce qui fait débat)</title>
+  <programme start="20200624204100 +0200" stop="20200624211400 +0200" channel="La Trois">
+    <title lang="fr">CQFD (Ce qui fait débat) (?)</title>
+    <credits>
+      <presenter>Arnaud Ruyssen</presenter>
+      <presenter>Catherine Tonero</presenter>
+    </credits>
+    <category lang="fr">Débat</category>
   </programme>
-  <programme start="20200429223500 +0200" stop="20200429225000 +0200" channel="La Trois">
-    <title lang="fr">Aube</title>
+  <programme start="20200624211400 +0200" stop="20200624233600 +0200" channel="La Trois">
+    <title lang="fr">La Horde sauvage</title>
+    <desc lang="fr">En 1914, Pike Bishop et sa bande entrent dans San Rafael, une petite ville du Texas, déguisés en cavaliers de l'US Cavalry. Ensemble, ils se dirigent vers la gare pour y dérober la paie des employés du chemin de fer. Ils ignorent que Thornton, autrefois leur complice, aujourd'hui leur pire ennemi, les y attend, chargé par la direction des chemins de fer de leur tendre une embuscade. L'affaire tourne au cauchemar. Des dizaines d'innocents y laissent la vie. Pike n'est pas satisfait. Il n'a volé que des morceaux de ferraille. Il accepte l'offre d'un général mexicain, Mapache, qui lui demande d'attaquer un train rempli d'or et de munitions...(n)</desc>
+    <category lang="fr">Film</category>
+    <icon src="https://www.telerama.fr/sites/tr_master/files/9406d2ba-9d12-461e-bfae-256d648a3990_2.jpg" />
   </programme>
-  <programme start="20200429225000 +0200" stop="20200429230500 +0200" channel="La Trois">
-    <title lang="fr">Détours</title>
+  <programme start="20200624233600 +0200" stop="20200624235400 +0200" channel="La Trois">
+    <title lang="fr">La chaire</title>
+    <category lang="fr">Film</category>
   </programme>
-  <programme start="20200429230500 +0200" stop="20200429234000 +0200" channel="La Trois">
-    <title lang="fr">Hep taxi !</title>
+  <programme start="20200624235400 +0200" stop="20200625001800 +0200" channel="La Trois">
+    <title lang="fr">You're Lost, Little Girl</title>
+    <category lang="fr">Film</category>
   </programme>
-  <programme start="20200429234000 +0200" stop="20200430001000 +0200" channel="La Trois">
+  <programme start="20200625001800 +0200" stop="20200625004500 +0200" channel="La Trois">
+    <title lang="fr">Faits divers (?)</title>
+    <credits>
+      <director>Dominique Kalifa</director>
+      <director>Emmanuel Blanchard</director>
+      <director>Emmanuelle Nobécourt</director>
+    </credits>
+    <category lang="fr">Histoire</category>
+  </programme>
+  <programme start="20200625004500 +0200" stop="20200625011300 +0200" channel="La Trois">
+    <title lang="fr">Faits divers (?)</title>
+    <credits>
+      <director>Dominique Kalifa</director>
+      <director>Emmanuel Blanchard</director>
+      <director>Emmanuelle Nobécourt</director>
+    </credits>
+    <category lang="fr">Histoire</category>
+  </programme>
+  <programme start="20200625011300 +0200" stop="20200625013700 +0200" channel="La Trois">
     <title lang="fr">En quête de sens</title>
+    <category lang="fr">Magazine religieux</category>
   </programme>
-  <programme start="20200430001000 +0200" stop="20200430004700 +0200" channel="La Trois">
-    <title lang="fr">JT traduction gestuelle</title>
+  <programme start="20200625013700 +0200" stop="20200625021200 +0200" channel="La Trois">
+    <title lang="fr">JT 19h30</title>
+    <category lang="fr">Journal</category>
   </programme>
-  <programme start="20200430004700 +0200" stop="20200430005000 +0200" channel="La Trois">
+  <programme start="20200625021200 +0200" stop="20200625021700 +0200" channel="La Trois">
     <title lang="fr">Météo internationale</title>
+    <category lang="fr">Météo</category>
   </programme>
-  <programme start="20200430005000 +0200" stop="20200430012000 +0200" channel="La Trois">
-    <title lang="fr">CQFD (Ce qui fait débat)</title>
+  <programme start="20200625021700 +0200" stop="20200625024300 +0200" channel="La Trois">
+    <title lang="fr">CQFD (Ce qui fait débat) (?)</title>
+    <credits>
+      <presenter>Arnaud Ruyssen</presenter>
+      <presenter>Catherine Tonero</presenter>
+    </credits>
+    <category lang="fr">Débat</category>
   </programme>
-  <programme start="20200430012000 +0200" stop="20200430060000 +0200" channel="La Trois">
+  <programme start="20200625024300 +0200" stop="20200625031200 +0200" channel="La Trois">
+    <title lang="fr">Archives (?)</title>
+    <credits>
+      <presenter>Arlette Vincent</presenter>
+      <presenter>Bernadette Abraté</presenter>
+      <presenter>Bernard Watelet</presenter>
+    </credits>
+    <category lang="fr">Magazine de société</category>
+  </programme>
+  <programme start="20200625031200 +0200" stop="20200625034700 +0200" channel="La Trois">
+    <title lang="fr">JT 19h30</title>
+    <category lang="fr">Journal</category>
+  </programme>
+  <programme start="20200625034700 +0200" stop="20200625034900 +0200" channel="La Trois">
+    <title lang="fr">Météo internationale</title>
+    <category lang="fr">Météo</category>
+  </programme>
+  <programme start="20200625034900 +0200" stop="20200625041500 +0200" channel="La Trois">
+    <title lang="fr">CQFD (Ce qui fait débat) (?)</title>
+    <credits>
+      <presenter>Arnaud Ruyssen</presenter>
+      <presenter>Catherine Tonero</presenter>
+    </credits>
+    <category lang="fr">Débat</category>
+  </programme>
+  <programme start="20200625041500 +0200" stop="20200625044500 +0200" channel="La Trois">
+    <title lang="fr">Archives (?)</title>
+    <credits>
+      <presenter>Arlette Vincent</presenter>
+      <presenter>Bernadette Abraté</presenter>
+      <presenter>Bernard Watelet</presenter>
+    </credits>
+    <category lang="fr">Magazine de société</category>
+  </programme>
+  <programme start="20200625044500 +0200" stop="20200625045700 +0200" channel="La Trois">
+    <title lang="fr">Archives (?)</title>
+    <credits>
+      <presenter>Arlette Vincent</presenter>
+      <presenter>Bernadette Abraté</presenter>
+      <presenter>Bernard Watelet</presenter>
+    </credits>
+    <category lang="fr">Magazine de société</category>
+  </programme>
+  <programme start="20200625045700 +0200" stop="20200625053200 +0200" channel="La Trois">
+    <title lang="fr">JT 19h30</title>
+    <category lang="fr">Journal</category>
+  </programme>
+  <programme start="20200625060700 +0200" stop="20200625061400 +0200" channel="La Trois">
+    <title lang="fr">Paf le chien (?)</title>
+    <credits>
+      <director>Charles Vaucelle</director>
+      <director>Rio Guillaume</director>
+    </credits>
+    <category lang="fr">Dessin animé</category>
+  </programme>
+  <programme start="20200625061400 +0200" stop="20200625063700 +0200" channel="La Trois">
+    <title lang="fr">Paf le chien (?)</title>
+    <credits>
+      <director>Charles Vaucelle</director>
+      <director>Rio Guillaume</director>
+    </credits>
+    <category lang="fr">Dessin animé</category>
+  </programme>
+  <programme start="20200625081000 +0200" stop="20200625082600 +0200" channel="La Trois">
+    <title lang="fr">C'est dans la boîte (?)</title>
+    <credits>
+      <presenter>Aurélie Martinez</presenter>
+    </credits>
+    <category lang="fr">Emission jeunesse</category>
+  </programme>
+  <programme start="20200625085900 +0200" stop="20200625090300 +0200" channel="La Trois">
+    <title lang="fr">Paf le chien (?)</title>
+    <credits>
+      <director>Charles Vaucelle</director>
+      <director>Rio Guillaume</director>
+    </credits>
+    <category lang="fr">Dessin animé</category>
+  </programme>
+  <programme start="20200625090300 +0200" stop="20200625091000 +0200" channel="La Trois">
+    <title lang="fr">Paf le chien (?)</title>
+    <credits>
+      <director>Charles Vaucelle</director>
+      <director>Rio Guillaume</director>
+    </credits>
+    <category lang="fr">Dessin animé</category>
+  </programme>
+  <programme start="20200625091000 +0200" stop="20200625091800 +0200" channel="La Trois">
+    <title lang="fr">Paf le chien (?)</title>
+    <credits>
+      <director>Charles Vaucelle</director>
+      <director>Rio Guillaume</director>
+    </credits>
+    <category lang="fr">Dessin animé</category>
+  </programme>
+  <programme start="20200625091800 +0200" stop="20200625092500 +0200" channel="La Trois">
+    <title lang="fr">Paf le chien (?)</title>
+    <credits>
+      <director>Charles Vaucelle</director>
+      <director>Rio Guillaume</director>
+    </credits>
+    <category lang="fr">Dessin animé</category>
+  </programme>
+  <programme start="20200625100200 +0200" stop="20200625102400 +0200" channel="La Trois">
+    <title lang="fr">Les aventures de Tintin (?)</title>
+    <credits>
+      <director>Stéphane Bernasconi</director>
+      <writer>Robert Réa</writer>
+    </credits>
+    <category lang="fr">Dessin animé</category>
+  </programme>
+  <programme start="20200625102400 +0200" stop="20200625104700 +0200" channel="La Trois">
+    <title lang="fr">Les aventures de Tintin (?)</title>
+    <credits>
+      <director>Stéphane Bernasconi</director>
+      <writer>Robert Réa</writer>
+    </credits>
+    <category lang="fr">Dessin animé</category>
+  </programme>
+  <programme start="20200625124300 +0200" stop="20200625125500 +0200" channel="La Trois">
+    <title lang="fr">Les Sisters (?)</title>
+    <credits>
+      <director>Luc Vinciguerra</director>
+    </credits>
+    <category lang="fr">Dessin animé</category>
+  </programme>
+  <programme start="20200625125500 +0200" stop="20200625130700 +0200" channel="La Trois">
+    <title lang="fr">Les Sisters (?)</title>
+    <credits>
+      <director>Luc Vinciguerra</director>
+    </credits>
+    <category lang="fr">Dessin animé</category>
+  </programme>
+  <programme start="20200625130700 +0200" stop="20200625131900 +0200" channel="La Trois">
+    <title lang="fr">Les Sisters (?)</title>
+    <credits>
+      <director>Luc Vinciguerra</director>
+    </credits>
+    <category lang="fr">Dessin animé</category>
+  </programme>
+  <programme start="20200625131900 +0200" stop="20200625133300 +0200" channel="La Trois">
+    <title lang="fr">Les Sisters (?)</title>
+    <credits>
+      <director>Luc Vinciguerra</director>
+    </credits>
+    <category lang="fr">Dessin animé</category>
+  </programme>
+  <programme start="20200625133300 +0200" stop="20200625135900 +0200" channel="La Trois">
+    <title lang="fr">C'est pas sorcier (?)</title>
+    <credits>
+      <presenter>Frédéric Courant</presenter>
+      <presenter>Jamy Gourmaud</presenter>
+      <presenter>Sabine Quindou</presenter>
+    </credits>
+    <category lang="fr">Magazine Magazine éducatif</category>
+  </programme>
+  <programme start="20200625135900 +0200" stop="20200625140600 +0200" channel="La Trois">
+    <title lang="fr">Oggy et les cafards (?)</title>
+    <credits>
+      <director>Olivier Jean-Marie</director>
+      <writer>Olivier Jean-Marie</writer>
+      <writer>Michel Gaudelette</writer>
+      <writer>Jean-Louis Capron</writer>
+    </credits>
+    <category lang="fr">Dessin animé</category>
+  </programme>
+  <programme start="20200625140600 +0200" stop="20200625141300 +0200" channel="La Trois">
+    <title lang="fr">Oggy et les cafards (?)</title>
+    <credits>
+      <director>Olivier Jean-Marie</director>
+      <writer>Olivier Jean-Marie</writer>
+      <writer>Michel Gaudelette</writer>
+      <writer>Jean-Louis Capron</writer>
+    </credits>
+    <category lang="fr">Dessin animé</category>
+  </programme>
+  <programme start="20200625141300 +0200" stop="20200625142100 +0200" channel="La Trois">
+    <title lang="fr">Oggy et les cafards (?)</title>
+    <credits>
+      <director>Olivier Jean-Marie</director>
+      <writer>Olivier Jean-Marie</writer>
+      <writer>Michel Gaudelette</writer>
+      <writer>Jean-Louis Capron</writer>
+    </credits>
+    <category lang="fr">Dessin animé</category>
+  </programme>
+  <programme start="20200625142100 +0200" stop="20200625143000 +0200" channel="La Trois">
+    <title lang="fr">Oggy et les cafards (?)</title>
+    <credits>
+      <director>Olivier Jean-Marie</director>
+      <writer>Olivier Jean-Marie</writer>
+      <writer>Michel Gaudelette</writer>
+      <writer>Jean-Louis Capron</writer>
+    </credits>
+    <category lang="fr">Dessin animé</category>
+  </programme>
+  <programme start="20200625145200 +0200" stop="20200625145900 +0200" channel="La Trois">
+    <title lang="fr">T'où ? (?)</title>
+    <credits>
+      <presenter>Alex</presenter>
+      <presenter>Tania</presenter>
+    </credits>
+    <category lang="fr">Magazine jeunesse</category>
+  </programme>
+  <programme start="20200625145900 +0200" stop="20200625150300 +0200" channel="La Trois">
+    <title lang="fr">CQFD (?)</title>
+    <category lang="fr">Sciences et technique</category>
+  </programme>
+  <programme start="20200625150300 +0200" stop="20200625152400 +0200" channel="La Trois">
+    <title lang="fr">Trop cool (?)</title>
+    <credits>
+      <writer>Kevin Kramer</writer>
+    </credits>
+    <category lang="fr">Dessin animé</category>
+  </programme>
+  <programme start="20200625154500 +0200" stop="20200625155600 +0200" channel="La Trois">
+    <title lang="fr">Alvinnn !!! et les Chipmunks (?)</title>
+    <category lang="fr">Dessin animé</category>
+  </programme>
+  <programme start="20200625155600 +0200" stop="20200625160700 +0200" channel="La Trois">
+    <title lang="fr">Alvinnn !!! et les Chipmunks (?)</title>
+    <category lang="fr">Dessin animé</category>
+  </programme>
+  <programme start="20200625160700 +0200" stop="20200625162000 +0200" channel="La Trois">
+    <title lang="fr">Alvinnn !!! et les Chipmunks (?)</title>
+    <category lang="fr">Dessin animé</category>
+  </programme>
+  <programme start="20200625162000 +0200" stop="20200625163100 +0200" channel="La Trois">
+    <title lang="fr">C'est dans la boîte (?)</title>
+    <credits>
+      <presenter>Aurélie Martinez</presenter>
+    </credits>
+    <category lang="fr">Emission jeunesse</category>
+  </programme>
+  <programme start="20200625163100 +0200" stop="20200625164300 +0200" channel="La Trois">
+    <title lang="fr">Les Sisters (?)</title>
+    <credits>
+      <director>Luc Vinciguerra</director>
+    </credits>
+    <category lang="fr">Dessin animé</category>
+  </programme>
+  <programme start="20200625164300 +0200" stop="20200625165500 +0200" channel="La Trois">
+    <title lang="fr">Les Sisters (?)</title>
+    <credits>
+      <director>Luc Vinciguerra</director>
+    </credits>
+    <category lang="fr">Dessin animé</category>
+  </programme>
+  <programme start="20200625165500 +0200" stop="20200625170900 +0200" channel="La Trois">
+    <title lang="fr">Les Sisters (?)</title>
+    <credits>
+      <director>Luc Vinciguerra</director>
+    </credits>
+    <category lang="fr">Dessin animé</category>
+  </programme>
+  <programme start="20200625184000 +0200" stop="20200625185400 +0200" channel="La Trois">
+    <title lang="fr">C'est dans la boîte (?)</title>
+    <credits>
+      <presenter>Aurélie Martinez</presenter>
+    </credits>
+    <category lang="fr">Emission jeunesse</category>
+  </programme>
+  <programme start="20200625185400 +0200" stop="20200625190100 +0200" channel="La Trois">
+    <title lang="fr">T'où ? (?)</title>
+    <credits>
+      <presenter>Alex</presenter>
+      <presenter>Tania</presenter>
+    </credits>
+    <category lang="fr">Magazine jeunesse</category>
+  </programme>
+  <programme start="20200625190100 +0200" stop="20200625192800 +0200" channel="La Trois">
+    <title lang="fr">C'est pas sorcier (?)</title>
+    <credits>
+      <presenter>Frédéric Courant</presenter>
+      <presenter>Jamy Gourmaud</presenter>
+      <presenter>Sabine Quindou</presenter>
+    </credits>
+    <category lang="fr">Magazine Magazine éducatif</category>
+  </programme>
+  <programme start="20200625192800 +0200" stop="20200625193600 +0200" channel="La Trois">
+    <title lang="fr">T'où ? (?)</title>
+    <credits>
+      <presenter>Alex</presenter>
+      <presenter>Tania</presenter>
+    </credits>
+    <category lang="fr">Magazine jeunesse</category>
+  </programme>
+  <programme start="20200625193600 +0200" stop="20200625194700 +0200" channel="La Trois">
+    <title lang="fr">L'oreille des Kids (?)</title>
+    <credits>
+      <presenter>Christian Baumann</presenter>
+    </credits>
+    <category lang="fr">Magazine jeunesse</category>
+  </programme>
+  <programme start="20200625194700 +0200" stop="20200625195000 +0200" channel="La Trois">
+    <title lang="fr">Un jour (?)</title>
+    <category lang="fr">Emission jeunesse</category>
+  </programme>
+  <programme start="20200625195000 +0200" stop="20200625195100 +0200" channel="La Trois">
+    <title lang="fr">Ma vie dans l'espace (?)</title>
+    <credits>
+      <presenter>Eloise D'hollander</presenter>
+      <presenter>Heni Leila</presenter>
+    </credits>
+    <category lang="fr">Magazine jeunesse</category>
+  </programme>
+  <programme start="20200625195100 +0200" stop="20200625200000 +0200" channel="La Trois">
+    <title lang="fr">Si j'étais un animal (?)</title>
+    <credits>
+      <director>Marie-Claire Javoy</director>
+    </credits>
+    <category lang="fr">Animalier</category>
+  </programme>
+  <programme start="20200625200000 +0200" stop="20200625203600 +0200" channel="La Trois">
+    <title lang="fr">JT 19h30</title>
+    <category lang="fr">Journal</category>
+  </programme>
+  <programme start="20200625203600 +0200" stop="20200625203900 +0200" channel="La Trois">
+    <title lang="fr">Météo internationale</title>
+    <category lang="fr">Météo</category>
+  </programme>
+  <programme start="20200625203900 +0200" stop="20200625210600 +0200" channel="La Trois">
+    <title lang="fr">CQFD (Ce qui fait débat) (?)</title>
+    <credits>
+      <presenter>Arnaud Ruyssen</presenter>
+      <presenter>Catherine Tonero</presenter>
+    </credits>
+    <category lang="fr">Débat</category>
+  </programme>
+  <programme start="20200625210600 +0200" stop="20200625232700 +0200" channel="La Trois">
+    <title lang="fr">Aquarius</title>
+    <desc lang="fr">Dans les années 1960 et 1970, à Recife, au Brésil, Clara fut une critique musicale très au fait de la vie artistique du pays. Issue de la bonne bourgeoisie, elle a mené une belle existence, dont elle conserve le souvenir à travers une grande collection de vinyles. Les disques sont rangés dans l'appartement où vit la sexagénaire. Veuve et mère de trois enfants, Clara est la dernière habitante de l'Aquarius, un immeuble construit dans les années 1940. Mais il est menacé par un promoteur qui en a racheté tous les autres appartements. Clara, qui veut rester, résiste à ses propositions, qui vont bientôt se transformer en harcèlement...(n)</desc>
+    <category lang="fr">Film</category>
+    <icon src="https://www.telerama.fr/sites/tr_master/files/1c38f10e-67a7-42bf-9934-1b09e221e402_2.jpg" />
+  </programme>
+  <programme start="20200625232700 +0200" stop="20200626004700 +0200" channel="La Trois">
+    <title lang="fr">L'effet aquatique</title>
+    <desc lang="fr">A Montreuil, Samir travaille comme grutier et aperçoit Agathe, une jeune veuve qui ne se laisse pas faire, dans un bar. Il découvre qu'elle est maître-nageuse à la piscine municipale. Bien qu'il sache nager, il s'inscrit à ses cours afin de la rencontrer. Au fil du temps, ils amorcent une relation avant qu'Agathe ne se rende compte que Samir sait parfaitement nager. Comme elle déteste le mensonge, elle le quitte sur-le-champ. La jeune femme est envoyée en Islande pour représenter la France lors d'un congrès de maîtres-nageurs. Très amoureux, Samir décide de la suivre et se fait passer pour un conférencier israélien...(n)</desc>
+    <category lang="fr">Film</category>
+    <icon src="https://www.telerama.fr/sites/tr_master/files/f3800fde-70a4-4936-bc17-bcf64a1d2cfe_2.jpg" />
+  </programme>
+  <programme start="20200626004700 +0200" stop="20200626012200 +0200" channel="La Trois">
+    <title lang="fr">JT 19h30</title>
+    <category lang="fr">Journal</category>
+  </programme>
+  <programme start="20200626012200 +0200" stop="20200626012600 +0200" channel="La Trois">
+    <title lang="fr">Météo internationale</title>
+    <category lang="fr">Météo</category>
+  </programme>
+  <programme start="20200626012600 +0200" stop="20200626021000 +0200" channel="La Trois">
+    <title lang="fr">CQFD (Ce qui fait débat) (?)</title>
+    <credits>
+      <presenter>Arnaud Ruyssen</presenter>
+      <presenter>Catherine Tonero</presenter>
+    </credits>
+    <category lang="fr">Débat</category>
+  </programme>
+  <programme start="20200626021000 +0200" stop="20200626055900 +0200" channel="La Trois">
     <title lang="fr">Boucle de nuit</title>
+    <category lang="fr">Programme indéterminé</category>
   </programme>
-  <programme start="20200430060000 +0200" stop="20200430062000 +0200" channel="La Trois">
-    <title lang="fr">Paf le chien</title>
+  <programme start="20200624080000 +0200" stop="20200624090000 +0200" channel="La Une">
+    <title lang="fr">Le 8-9 (?)</title>
+    <credits>
+      <presenter>Benjamin Maréchal</presenter>
+      <presenter>Cyril</presenter>
+      <presenter>Sara De Paduwa</presenter>
+    </credits>
+    <category lang="fr">Magazine de services</category>
   </programme>
-  <programme start="20200430062000 +0200" stop="20200430062500 +0200" channel="La Trois">
-    <title lang="fr">Paf le chien</title>
+  <programme start="20200624090000 +0200" stop="20200624103300 +0200" channel="La Une">
+    <title lang="fr">C'est vous qui le dites (?)</title>
+    <credits>
+      <presenter>Benjamin Maréchal</presenter>
+    </credits>
+    <category lang="fr">Magazine d'actualité</category>
   </programme>
-  <programme start="20200430062500 +0200" stop="20200430063500 +0200" channel="La Trois">
-    <title lang="fr">Paf le chien</title>
+  <programme start="20200624103300 +0200" stop="20200624112200 +0200" channel="La Une">
+    <title lang="fr">On n'est pas des pigeons (?)</title>
+    <credits>
+      <presenter>Benjamin Maréchal</presenter>
+      <presenter>Ceuppens Quentin</presenter>
+      <presenter>Céline Liégeois</presenter>
+    </credits>
+    <category lang="fr">Magazine du consommateur</category>
   </programme>
-  <programme start="20200430081000 +0200" stop="20200430082000 +0200" channel="La Trois">
-    <title lang="fr">C'est dans la boîte</title>
+  <programme start="20200624115400 +0200" stop="20200624115800 +0200" channel="La Une">
+    <title lang="fr">43640966 (?)</title>
+    <credits>
+      <presenter>Anne Pochet</presenter>
+    </credits>
+    <category lang="fr">Magazine de société</category>
   </programme>
-  <programme start="20200430085500 +0200" stop="20200430090500 +0200" channel="La Trois">
-    <title lang="fr">Paf le chien</title>
+  <programme start="20200624115800 +0200" stop="20200624123700 +0200" channel="La Une">
+    <title lang="fr">Les feux de l'amour (?)</title>
+    <credits>
+      <actor>Michelle Stafford</actor>
+      <actor>Eric Braeden</actor>
+      <actor>Peter Bergman</actor>
+      <actor>Christian LeBlanc</actor>
+      <actor>Michael Damian</actor>
+      <actor>Amelia Heinle</actor>
+      <actor>Sharon Case</actor>
+    </credits>
+    <category lang="fr">Feuilleton sentimental</category>
   </programme>
-  <programme start="20200430090500 +0200" stop="20200430091000 +0200" channel="La Trois">
-    <title lang="fr">Paf le chien</title>
-  </programme>
-  <programme start="20200430091000 +0200" stop="20200430092100 +0200" channel="La Trois">
-    <title lang="fr">Paf le chien</title>
-  </programme>
-  <programme start="20200430092100 +0200" stop="20200430093500 +0200" channel="La Trois">
-    <title lang="fr">Belle et Sébastien *2017</title>
-  </programme>
-  <programme start="20200430093500 +0200" stop="20200430094500 +0200" channel="La Trois">
-    <title lang="fr">Belle et Sébastien *2017</title>
-  </programme>
-  <programme start="20200430094500 +0200" stop="20200430100000 +0200" channel="La Trois">
-    <title lang="fr">Belle et Sébastien *2017</title>
-  </programme>
-  <programme start="20200430100000 +0200" stop="20200430102500 +0200" channel="La Trois">
-    <title lang="fr">Les mystérieuses cités d'or *2012</title>
-  </programme>
-  <programme start="20200430102500 +0200" stop="20200430105000 +0200" channel="La Trois">
-    <title lang="fr">Les mystérieuses cités d'or *2012</title>
-  </programme>
-  <programme start="20200430124000 +0200" stop="20200430125000 +0200" channel="La Trois">
-    <title lang="fr">Les Sisters</title>
-  </programme>
-  <programme start="20200430125000 +0200" stop="20200430130500 +0200" channel="La Trois">
-    <title lang="fr">Les Sisters</title>
-  </programme>
-  <programme start="20200430130500 +0200" stop="20200430131500 +0200" channel="La Trois">
-    <title lang="fr">Les Sisters</title>
-  </programme>
-  <programme start="20200430131500 +0200" stop="20200430133000 +0200" channel="La Trois">
-    <title lang="fr">Les Sisters</title>
-  </programme>
-  <programme start="20200430133000 +0200" stop="20200430135500 +0200" channel="La Trois">
-    <title lang="fr">C'est toujours pas sorcier</title>
-  </programme>
-  <programme start="20200430135500 +0200" stop="20200430140500 +0200" channel="La Trois">
-    <title lang="fr">T'où ?</title>
-  </programme>
-  <programme start="20200430143000 +0200" stop="20200430144500 +0200" channel="La Trois">
-    <title lang="fr">L'oreille des kids</title>
-  </programme>
-  <programme start="20200430144500 +0200" stop="20200430145000 +0200" channel="La Trois">
-    <title lang="fr">T'où ?</title>
-  </programme>
-  <programme start="20200430145000 +0200" stop="20200430145700 +0200" channel="La Trois">
-    <title lang="fr">T'où ?</title>
-  </programme>
-  <programme start="20200430145700 +0200" stop="20200430150000 +0200" channel="La Trois">
-    <title lang="fr">CQFD</title>
-  </programme>
-  <programme start="20200430150000 +0200" stop="20200430152000 +0200" channel="La Trois">
-    <title lang="fr">Y'a pas école</title>
-  </programme>
-  <programme start="20200430154500 +0200" stop="20200430155500 +0200" channel="La Trois">
-    <title lang="fr">Alvinnn !!! et les Chipmunks</title>
-  </programme>
-  <programme start="20200430155500 +0200" stop="20200430160500 +0200" channel="La Trois">
-    <title lang="fr">Alvinnn !!! et les Chipmunks</title>
-  </programme>
-  <programme start="20200430160500 +0200" stop="20200430162000 +0200" channel="La Trois">
-    <title lang="fr">Alvinnn !!! et les Chipmunks</title>
-  </programme>
-  <programme start="20200430162000 +0200" stop="20200430162400 +0200" channel="La Trois">
-    <title lang="fr">C'est dans la boîte</title>
-  </programme>
-  <programme start="20200430162400 +0200" stop="20200430164000 +0200" channel="La Trois">
-    <title lang="fr">Les Sisters</title>
-  </programme>
-  <programme start="20200430164000 +0200" stop="20200430165000 +0200" channel="La Trois">
-    <title lang="fr">Les Sisters</title>
-  </programme>
-  <programme start="20200430165000 +0200" stop="20200430170500 +0200" channel="La Trois">
-    <title lang="fr">Les Sisters</title>
-  </programme>
-  <programme start="20200430181000 +0200" stop="20200430184000 +0200" channel="La Trois">
-    <title lang="fr">Radiant</title>
-  </programme>
-  <programme start="20200430184000 +0200" stop="20200430185000 +0200" channel="La Trois">
-    <title lang="fr">C'est dans la boîte</title>
-  </programme>
-  <programme start="20200430185000 +0200" stop="20200430190000 +0200" channel="La Trois">
-    <title lang="fr">Les Niouzz</title>
-  </programme>
-  <programme start="20200430190000 +0200" stop="20200430190100 +0200" channel="La Trois">
-    <title lang="fr">CQFD</title>
-  </programme>
-  <programme start="20200430190100 +0200" stop="20200430193100 +0200" channel="La Trois">
-    <title lang="fr">C'est pas sorcier</title>
-  </programme>
-  <programme start="20200430193100 +0200" stop="20200430193500 +0200" channel="La Trois">
-    <title lang="fr">T'où ?</title>
-  </programme>
-  <programme start="20200430193500 +0200" stop="20200430194800 +0200" channel="La Trois">
-    <title lang="fr">L'oreille des kids</title>
-  </programme>
-  <programme start="20200430194800 +0200" stop="20200430195000 +0200" channel="La Trois">
-    <title lang="fr">Un jour</title>
-  </programme>
-  <programme start="20200430195000 +0200" stop="20200430195100 +0200" channel="La Trois">
-    <title lang="fr">Les Niouzz (traduction gestuelle)</title>
-  </programme>
-  <programme start="20200430195100 +0200" stop="20200430200000 +0200" channel="La Trois">
-    <title lang="fr">Ma vie dans l'espace</title>
-  </programme>
-  <programme start="20200430200000 +0200" stop="20200430205000 +0200" channel="La Trois">
-    <title lang="fr">JT traduction gestuelle</title>
-  </programme>
-  <programme start="20200430205000 +0200" stop="20200430205100 +0200" channel="La Trois">
-    <title lang="fr">Météo internationale</title>
-  </programme>
-  <programme start="20200430205100 +0200" stop="20200430211500 +0200" channel="La Trois">
-    <title lang="fr">CQFD (Ce qui fait débat)</title>
-  </programme>
-  <programme start="20200430211500 +0200" stop="20200430234000 +0200" channel="La Trois">
-    <title lang="fr">La fille inconnue</title>
-  </programme>
-  <programme start="20200430234000 +0200" stop="20200501000500 +0200" channel="La Trois">
-    <title lang="fr">OpinionS</title>
-  </programme>
-  <programme start="20200501000500 +0200" stop="20200501014500 +0200" channel="La Trois">
-    <title lang="fr">Comme un avion</title>
-  </programme>
-  <programme start="20200501014500 +0200" stop="20200501023800 +0200" channel="La Trois">
-    <title lang="fr">JT traduction gestuelle</title>
-  </programme>
-  <programme start="20200501023800 +0200" stop="20200501024000 +0200" channel="La Trois">
-    <title lang="fr">Météo internationale</title>
-  </programme>
-  <programme start="20200501024000 +0200" stop="20200501031000 +0200" channel="La Trois">
-    <title lang="fr">CQFD (Ce qui fait débat)</title>
-  </programme>
-  <programme start="20200429090000 +0200" stop="20200429103100 +0200" channel="La Une">
-    <title lang="fr">C'est vous qui le dites</title>
-  </programme>
-  <programme start="20200429103100 +0200" stop="20200429111500 +0200" channel="La Une">
-    <title lang="fr">On n'est pas des pigeons</title>
-  </programme>
-  <programme start="20200429114200 +0200" stop="20200429122200 +0200" channel="La Une">
-    <title lang="fr">Les feux de l'amour</title>
-  </programme>
-  <programme start="20200429122200 +0200" stop="20200429122500 +0200" channel="La Une">
+  <programme start="20200624123700 +0200" stop="20200624124300 +0200" channel="La Une">
     <title lang="fr">Tirage de l'Euro Millions</title>
+    <category lang="fr">Loterie</category>
   </programme>
-  <programme start="20200429122500 +0200" stop="20200429123500 +0200" channel="La Une">
-    <title lang="fr">Quel temps!</title>
+  <programme start="20200624124300 +0200" stop="20200624125300 +0200" channel="La Une">
+    <title lang="fr">Quel temps !</title>
+    <category lang="fr">Météo</category>
   </programme>
-  <programme start="20200429123500 +0200" stop="20200429123800 +0200" channel="La Une">
+  <programme start="20200624125300 +0200" stop="20200624125800 +0200" channel="La Une">
     <title lang="fr">Météo</title>
+    <category lang="fr">Météo</category>
   </programme>
-  <programme start="20200429123800 +0200" stop="20200429125800 +0200" channel="La Une">
-    <title lang="fr">Chez vous</title>
-  </programme>
-  <programme start="20200429125800 +0200" stop="20200429133600 +0200" channel="La Une">
+  <programme start="20200624125800 +0200" stop="20200624133100 +0200" channel="La Une">
     <title lang="fr">JT 13h</title>
+    <category lang="fr">Journal</category>
   </programme>
-  <programme start="20200429133600 +0200" stop="20200429134200 +0200" channel="La Une">
+  <programme start="20200624133100 +0200" stop="20200624133700 +0200" channel="La Une">
     <title lang="fr">Météo</title>
+    <category lang="fr">Météo</category>
   </programme>
-  <programme start="20200429134200 +0200" stop="20200429142800 +0200" channel="La Une">
-    <title lang="fr">Affaire conclue</title>
+  <programme start="20200624133700 +0200" stop="20200624142300 +0200" channel="La Une">
+    <title lang="fr">Affaire conclue (?)</title>
+    <credits>
+      <presenter>Sophie Davant</presenter>
+    </credits>
+    <category lang="fr">Magazine de l'art de vivre</category>
   </programme>
-  <programme start="20200429142800 +0200" stop="20200429151500 +0200" channel="La Une">
-    <title lang="fr">Affaire conclue</title>
+  <programme start="20200624142300 +0200" stop="20200624151100 +0200" channel="La Une">
+    <title lang="fr">Affaire conclue (?)</title>
+    <credits>
+      <presenter>Sophie Davant</presenter>
+    </credits>
+    <category lang="fr">Magazine de l'art de vivre</category>
   </programme>
-  <programme start="20200429170800 +0200" stop="20200429171100 +0200" channel="La Une">
-    <title lang="fr">43640966</title>
+  <programme start="20200624165800 +0200" stop="20200624170700 +0200" channel="La Une">
+    <title lang="fr">Les jardins de rêve de Luc Noël (?)</title>
+    <credits>
+      <presenter>Luc Noël</presenter>
+    </credits>
+    <category lang="fr">Magazine du jardinage</category>
   </programme>
-  <programme start="20200429171100 +0200" stop="20200429171400 +0200" channel="La Une">
-    <title lang="fr">Sans faute(s)</title>
+  <programme start="20200624170700 +0200" stop="20200624175000 +0200" channel="La Une">
+    <title lang="fr">Un gars (?)</title>
+    <credits>
+      <presenter>Adrien Devyver</presenter>
+      <presenter>Gerald Watelet</presenter>
+    </credits>
+    <category lang="fr">Magazine culinaire</category>
   </programme>
-  <programme start="20200429171400 +0200" stop="20200429175600 +0200" channel="La Une">
-    <title lang="fr">Un gars</title>
-  </programme>
-  <programme start="20200429175600 +0200" stop="20200429180000 +0200" channel="La Une">
+  <programme start="20200624175000 +0200" stop="20200624175400 +0200" channel="La Une">
     <title lang="fr">Météo</title>
+    <category lang="fr">Météo</category>
   </programme>
-  <programme start="20200429183000 +0200" stop="20200429191500 +0200" channel="La Une">
-    <title lang="fr">On n'est pas des pigeons</title>
+  <programme start="20200624183000 +0200" stop="20200624192200 +0200" channel="La Une">
+    <title lang="fr">On n'est pas des pigeons (?)</title>
+    <credits>
+      <presenter>Benjamin Maréchal</presenter>
+      <presenter>Ceuppens Quentin</presenter>
+      <presenter>Céline Liégeois</presenter>
+    </credits>
+    <category lang="fr">Magazine du consommateur</category>
   </programme>
-  <programme start="20200429191500 +0200" stop="20200429192300 +0200" channel="La Une">
-    <title lang="fr">Les belges : Toujours la frite !</title>
-  </programme>
-  <programme start="20200429192300 +0200" stop="20200429193000 +0200" channel="La Une">
+  <programme start="20200624192200 +0200" stop="20200624193000 +0200" channel="La Une">
     <title lang="fr">Météo</title>
+    <category lang="fr">Météo</category>
   </programme>
-  <programme start="20200429193000 +0200" stop="20200429201000 +0200" channel="La Une">
+  <programme start="20200624193000 +0200" stop="20200624200500 +0200" channel="La Une">
     <title lang="fr">JT 19h30</title>
+    <category lang="fr">Journal</category>
   </programme>
-  <programme start="20200429201000 +0200" stop="20200429201600 +0200" channel="La Une">
-    <title lang="fr">Tirage Lotto et Joker</title>
+  <programme start="20200624200500 +0200" stop="20200624202500 +0200" channel="La Une">
+    <title lang="fr">Questions en prime (?)</title>
+    <credits>
+      <presenter>Justine Katz</presenter>
+    </credits>
+    <category lang="fr">Magazine d'information</category>
   </programme>
-  <programme start="20200429201600 +0200" stop="20200429202100 +0200" channel="La Une">
+  <programme start="20200624202500 +0200" stop="20200624203000 +0200" channel="La Une">
+    <title lang="fr">Tirage Lotto-Joker (?)</title>
+    <category lang="fr">Loterie</category>
+  </programme>
+  <programme start="20200624203000 +0200" stop="20200624203600 +0200" channel="La Une">
     <title lang="fr">Météo</title>
+    <category lang="fr">Météo</category>
   </programme>
-  <programme start="20200429202100 +0200" stop="20200429214100 +0200" channel="La Une">
-    <title lang="fr">#Investigation</title>
+  <programme start="20200624203600 +0200" stop="20200624214400 +0200" channel="La Une">
+    <title lang="fr">Crimes et Indices (?)</title>
+    <credits>
+      <presenter>Ophélie Fontana</presenter>
+    </credits>
+    <category lang="fr">Magazine de société</category>
   </programme>
-  <programme start="20200429214100 +0200" stop="20200429223600 +0200" channel="La Une">
-    <title lang="fr">Covid 19 : 23 jours au cœur d'un hôpital</title>
+  <programme start="20200624214400 +0200" stop="20200624224800 +0200" channel="La Une">
+    <title lang="fr">A votre avis (?)</title>
+    <credits>
+      <presenter>Sacha Daout</presenter>
+    </credits>
+    <category lang="fr">Emission politique</category>
   </programme>
-  <programme start="20200429223600 +0200" stop="20200429223900 +0200" channel="La Une">
-    <title lang="fr">Tirage Lotto et Joker</title>
+  <programme start="20200625003800 +0200" stop="20200625004000 +0200" channel="La Une">
+    <title lang="fr">Tirage Lotto-Joker (?)</title>
+    <category lang="fr">Loterie</category>
   </programme>
-  <programme start="20200429223900 +0200" stop="20200429230500 +0200" channel="La Une">
-    <title lang="fr">Tout le Baz'Art</title>
+  <programme start="20200625004000 +0200" stop="20200625010200 +0200" channel="La Une">
+    <title lang="fr">Matière grise (?)</title>
+    <credits>
+      <presenter>-. Src Découverte</presenter>
+      <presenter>Cyril Fleury</presenter>
+      <presenter>Eloise D'hollander</presenter>
+    </credits>
+    <category lang="fr">Magazine scientifique</category>
   </programme>
-  <programme start="20200429230500 +0200" stop="20200429234900 +0200" channel="La Une">
-    <title lang="fr">Matière grise</title>
+  <programme start="20200625010200 +0200" stop="20200625014800 +0200" channel="La Une">
+    <title lang="fr">On n'est pas des pigeons (?)</title>
+    <credits>
+      <presenter>Benjamin Maréchal</presenter>
+      <presenter>Ceuppens Quentin</presenter>
+      <presenter>Céline Liégeois</presenter>
+    </credits>
+    <category lang="fr">Magazine du consommateur</category>
   </programme>
-  <programme start="20200429234900 +0200" stop="20200429235000 +0200" channel="La Une">
-    <title lang="fr">Difference day</title>
+  <programme start="20200625014800 +0200" stop="20200625015800 +0200" channel="La Une">
+    <title lang="fr">Quel temps !</title>
+    <category lang="fr">Météo</category>
   </programme>
-  <programme start="20200429235000 +0200" stop="20200430003400 +0200" channel="La Une">
-    <title lang="fr">On n'est pas des pigeons</title>
-  </programme>
-  <programme start="20200430003400 +0200" stop="20200430004400 +0200" channel="La Une">
-    <title lang="fr">Quel temps!</title>
-  </programme>
-  <programme start="20200430004400 +0200" stop="20200430004800 +0200" channel="La Une">
+  <programme start="20200625015800 +0200" stop="20200625020300 +0200" channel="La Une">
     <title lang="fr">Météo</title>
+    <category lang="fr">Météo</category>
   </programme>
-  <programme start="20200430004800 +0200" stop="20200430013100 +0200" channel="La Une">
+  <programme start="20200625020300 +0200" stop="20200625023800 +0200" channel="La Une">
     <title lang="fr">JT 19h30</title>
+    <category lang="fr">Journal</category>
   </programme>
-  <programme start="20200430013100 +0200" stop="20200430013300 +0200" channel="La Une">
-    <title lang="fr">43640966</title>
+  <programme start="20200625023800 +0200" stop="20200625025500 +0200" channel="La Une">
+    <title lang="fr">Questions en prime (?)</title>
+    <credits>
+      <presenter>Justine Katz</presenter>
+    </credits>
+    <category lang="fr">Magazine d'information</category>
   </programme>
-  <programme start="20200430013300 +0200" stop="20200430021600 +0200" channel="La Une">
-    <title lang="fr">On n'est pas des pigeons</title>
+  <programme start="20200625025500 +0200" stop="20200625025800 +0200" channel="La Une">
+    <title lang="fr">43640966 (?)</title>
+    <credits>
+      <presenter>Anne Pochet</presenter>
+    </credits>
+    <category lang="fr">Magazine de société</category>
   </programme>
-  <programme start="20200430021600 +0200" stop="20200430021900 +0200" channel="La Une">
+  <programme start="20200625025800 +0200" stop="20200625034300 +0200" channel="La Une">
+    <title lang="fr">On n'est pas des pigeons (?)</title>
+    <credits>
+      <presenter>Benjamin Maréchal</presenter>
+      <presenter>Ceuppens Quentin</presenter>
+      <presenter>Céline Liégeois</presenter>
+    </credits>
+    <category lang="fr">Magazine du consommateur</category>
+  </programme>
+  <programme start="20200625034300 +0200" stop="20200625035300 +0200" channel="La Une">
+    <title lang="fr">Quel temps !</title>
+    <category lang="fr">Météo</category>
+  </programme>
+  <programme start="20200625035300 +0200" stop="20200625035700 +0200" channel="La Une">
     <title lang="fr">Météo</title>
+    <category lang="fr">Météo</category>
   </programme>
-  <programme start="20200430021900 +0200" stop="20200430030100 +0200" channel="La Une">
+  <programme start="20200625035700 +0200" stop="20200625043200 +0200" channel="La Une">
     <title lang="fr">JT 19h30</title>
+    <category lang="fr">Journal</category>
   </programme>
-  <programme start="20200430030100 +0200" stop="20200430034400 +0200" channel="La Une">
-    <title lang="fr">On n'est pas des pigeons</title>
+  <programme start="20200625043200 +0200" stop="20200625045100 +0200" channel="La Une">
+    <title lang="fr">Questions en prime (?)</title>
+    <credits>
+      <presenter>Justine Katz</presenter>
+    </credits>
+    <category lang="fr">Magazine d'information</category>
   </programme>
-  <programme start="20200430034400 +0200" stop="20200430034700 +0200" channel="La Une">
+  <programme start="20200625045100 +0200" stop="20200625045300 +0200" channel="La Une">
+    <title lang="fr">43640966 (?)</title>
+    <credits>
+      <presenter>Anne Pochet</presenter>
+    </credits>
+    <category lang="fr">Magazine de société</category>
+  </programme>
+  <programme start="20200625045300 +0200" stop="20200625053800 +0200" channel="La Une">
+    <title lang="fr">On n'est pas des pigeons (?)</title>
+    <credits>
+      <presenter>Benjamin Maréchal</presenter>
+      <presenter>Ceuppens Quentin</presenter>
+      <presenter>Céline Liégeois</presenter>
+    </credits>
+    <category lang="fr">Magazine du consommateur</category>
+  </programme>
+  <programme start="20200625080000 +0200" stop="20200625090000 +0200" channel="La Une">
+    <title lang="fr">Le 8-9 (?)</title>
+    <credits>
+      <presenter>Benjamin Maréchal</presenter>
+      <presenter>Cyril</presenter>
+      <presenter>Sara De Paduwa</presenter>
+    </credits>
+    <category lang="fr">Magazine de services</category>
+  </programme>
+  <programme start="20200625090000 +0200" stop="20200625103100 +0200" channel="La Une">
+    <title lang="fr">C'est vous qui le dites (?)</title>
+    <credits>
+      <presenter>Benjamin Maréchal</presenter>
+    </credits>
+    <category lang="fr">Magazine d'actualité</category>
+  </programme>
+  <programme start="20200625103100 +0200" stop="20200625112100 +0200" channel="La Une">
+    <title lang="fr">On n'est pas des pigeons (?)</title>
+    <credits>
+      <presenter>Benjamin Maréchal</presenter>
+      <presenter>Ceuppens Quentin</presenter>
+      <presenter>Céline Liégeois</presenter>
+    </credits>
+    <category lang="fr">Magazine du consommateur</category>
+  </programme>
+  <programme start="20200625115700 +0200" stop="20200625124200 +0200" channel="La Une">
+    <title lang="fr">Les feux de l'amour (?)</title>
+    <credits>
+      <actor>Michelle Stafford</actor>
+      <actor>Eric Braeden</actor>
+      <actor>Peter Bergman</actor>
+      <actor>Christian LeBlanc</actor>
+      <actor>Michael Damian</actor>
+      <actor>Amelia Heinle</actor>
+      <actor>Sharon Case</actor>
+    </credits>
+    <category lang="fr">Feuilleton sentimental</category>
+  </programme>
+  <programme start="20200625124200 +0200" stop="20200625125200 +0200" channel="La Une">
+    <title lang="fr">Quel temps !</title>
+    <category lang="fr">Météo</category>
+  </programme>
+  <programme start="20200625125200 +0200" stop="20200625125800 +0200" channel="La Une">
     <title lang="fr">Météo</title>
+    <category lang="fr">Météo</category>
   </programme>
-  <programme start="20200430034700 +0200" stop="20200430042900 +0200" channel="La Une">
-    <title lang="fr">JT 19h30</title>
-  </programme>
-  <programme start="20200430042900 +0200" stop="20200430051200 +0200" channel="La Une">
-    <title lang="fr">On n'est pas des pigeons</title>
-  </programme>
-  <programme start="20200430051200 +0200" stop="20200430051500 +0200" channel="La Une">
-    <title lang="fr">Météo</title>
-  </programme>
-  <programme start="20200430051500 +0200" stop="20200430055900 +0200" channel="La Une">
-    <title lang="fr">JT 19h30</title>
-  </programme>
-  <programme start="20200430090000 +0200" stop="20200430103100 +0200" channel="La Une">
-    <title lang="fr">C'est vous qui le dites</title>
-  </programme>
-  <programme start="20200430103100 +0200" stop="20200430112100 +0200" channel="La Une">
-    <title lang="fr">On n'est pas des pigeons</title>
-  </programme>
-  <programme start="20200430114900 +0200" stop="20200430123200 +0200" channel="La Une">
-    <title lang="fr">Les feux de l'amour</title>
-  </programme>
-  <programme start="20200430123200 +0200" stop="20200430123700 +0200" channel="La Une">
-    <title lang="fr">Quel temps!</title>
-  </programme>
-  <programme start="20200430123700 +0200" stop="20200430124000 +0200" channel="La Une">
-    <title lang="fr">Météo</title>
-  </programme>
-  <programme start="20200430124000 +0200" stop="20200430125800 +0200" channel="La Une">
-    <title lang="fr">Chez vous</title>
-  </programme>
-  <programme start="20200430125800 +0200" stop="20200430133300 +0200" channel="La Une">
+  <programme start="20200625125800 +0200" stop="20200625133100 +0200" channel="La Une">
     <title lang="fr">JT 13h</title>
+    <category lang="fr">Journal</category>
   </programme>
-  <programme start="20200430133300 +0200" stop="20200430133700 +0200" channel="La Une">
+  <programme start="20200625133100 +0200" stop="20200625133700 +0200" channel="La Une">
     <title lang="fr">Météo</title>
+    <category lang="fr">Météo</category>
   </programme>
-  <programme start="20200430133700 +0200" stop="20200430142300 +0200" channel="La Une">
-    <title lang="fr">Affaire conclue</title>
+  <programme start="20200625133700 +0200" stop="20200625142200 +0200" channel="La Une">
+    <title lang="fr">Affaire conclue (?)</title>
+    <credits>
+      <presenter>Sophie Davant</presenter>
+    </credits>
+    <category lang="fr">Magazine de l'art de vivre</category>
   </programme>
-  <programme start="20200430142300 +0200" stop="20200430151000 +0200" channel="La Une">
-    <title lang="fr">Affaire conclue</title>
+  <programme start="20200625142200 +0200" stop="20200625151100 +0200" channel="La Une">
+    <title lang="fr">Affaire conclue (?)</title>
+    <credits>
+      <presenter>Sophie Davant</presenter>
+    </credits>
+    <category lang="fr">Magazine de l'art de vivre</category>
   </programme>
-  <programme start="20200430170900 +0200" stop="20200430175500 +0200" channel="La Une">
-    <title lang="fr">Un gars</title>
+  <programme start="20200625165600 +0200" stop="20200625170700 +0200" channel="La Une">
+    <title lang="fr">Les jardins de rêve de Luc Noël</title>
+    <category lang="fr">Magazine du jardinage</category>
   </programme>
-  <programme start="20200430175500 +0200" stop="20200430180000 +0200" channel="La Une">
+  <programme start="20200625170700 +0200" stop="20200625174900 +0200" channel="La Une">
+    <title lang="fr">Un gars (?)</title>
+    <credits>
+      <presenter>Adrien Devyver</presenter>
+      <presenter>Gerald Watelet</presenter>
+    </credits>
+    <category lang="fr">Magazine culinaire</category>
+  </programme>
+  <programme start="20200625174900 +0200" stop="20200625175400 +0200" channel="La Une">
     <title lang="fr">Météo</title>
+    <category lang="fr">Météo</category>
   </programme>
-  <programme start="20200430183000 +0200" stop="20200430191600 +0200" channel="La Une">
-    <title lang="fr">On n'est pas des pigeons</title>
+  <programme start="20200625183000 +0200" stop="20200625191800 +0200" channel="La Une">
+    <title lang="fr">On n'est pas des pigeons (?)</title>
+    <credits>
+      <presenter>Benjamin Maréchal</presenter>
+      <presenter>Ceuppens Quentin</presenter>
+      <presenter>Céline Liégeois</presenter>
+    </credits>
+    <category lang="fr">Magazine du consommateur</category>
   </programme>
-  <programme start="20200430192300 +0200" stop="20200430193000 +0200" channel="La Une">
+  <programme start="20200625192200 +0200" stop="20200625193000 +0200" channel="La Une">
     <title lang="fr">Météo</title>
+    <category lang="fr">Météo</category>
   </programme>
-  <programme start="20200430193000 +0200" stop="20200430201000 +0200" channel="La Une">
+  <programme start="20200625193000 +0200" stop="20200625200500 +0200" channel="La Une">
     <title lang="fr">JT 19h30</title>
+    <category lang="fr">Journal</category>
   </programme>
-  <programme start="20200430201000 +0200" stop="20200430203500 +0200" channel="La Une">
-    <title lang="fr">Questions en prime</title>
+  <programme start="20200625200500 +0200" stop="20200625202600 +0200" channel="La Une">
+    <title lang="fr">Jeudi en prime (?)</title>
+    <category lang="fr">Emission politique</category>
   </programme>
-  <programme start="20200430203500 +0200" stop="20200430204100 +0200" channel="La Une">
+  <programme start="20200625202600 +0200" stop="20200625203200 +0200" channel="La Une">
     <title lang="fr">Météo</title>
+    <category lang="fr">Météo</category>
   </programme>
-  <programme start="20200430223500 +0200" stop="20200430233000 +0200" channel="La Une">
-    <title lang="fr">Projet Green Blood</title>
+  <programme start="20200625222700 +0200" stop="20200625232900 +0200" channel="La Une">
+    <title lang="fr">Moi (?)</title>
+    <category lang="fr">Société</category>
   </programme>
-  <programme start="20200429135000 +0200" stop="20200429142000 +0200" channel="VOOsport World 1">
-    <title lang="fr">Against The Odds</title>
+  <programme start="20200625232900 +0200" stop="20200625234000 +0200" channel="La Une">
+    <title lang="fr">OpinionS (?)</title>
+    <category lang="fr">Magazine politique</category>
   </programme>
-  <programme start="20200429142000 +0200" stop="20200429144500 +0200" channel="VOOsport World 1">
-    <title lang="fr">Football</title>
+  <programme start="20200625234000 +0200" stop="20200626002700 +0200" channel="La Une">
+    <title lang="fr">On n'est pas des pigeons (?)</title>
+    <credits>
+      <presenter>Benjamin Maréchal</presenter>
+      <presenter>Ceuppens Quentin</presenter>
+      <presenter>Céline Liégeois</presenter>
+    </credits>
+    <category lang="fr">Magazine du consommateur</category>
   </programme>
-  <programme start="20200429144500 +0200" stop="20200429151000 +0200" channel="VOOsport World 1">
-    <title lang="fr">Premier League Legends</title>
+  <programme start="20200626002700 +0200" stop="20200626003700 +0200" channel="La Une">
+    <title lang="fr">Quel temps !</title>
+    <category lang="fr">Météo</category>
   </programme>
-  <programme start="20200429151000 +0200" stop="20200429155500 +0200" channel="VOOsport World 1">
-    <title lang="fr">Europa League : Classic Matches</title>
+  <programme start="20200626003700 +0200" stop="20200626004100 +0200" channel="La Une">
+    <title lang="fr">Météo</title>
+    <category lang="fr">Météo</category>
   </programme>
-  <programme start="20200429155500 +0200" stop="20200429162500 +0200" channel="VOOsport World 1">
-    <title lang="fr">Voitures de légende</title>
+  <programme start="20200626004100 +0200" stop="20200626011600 +0200" channel="La Une">
+    <title lang="fr">JT 19h30</title>
+    <category lang="fr">Journal</category>
   </programme>
-  <programme start="20200429162500 +0200" stop="20200429165500 +0200" channel="VOOsport World 1">
-    <title lang="fr">Docs de sport</title>
+  <programme start="20200626011600 +0200" stop="20200626013300 +0200" channel="La Une">
+    <title lang="fr">Jeudi en prime (?)</title>
+    <category lang="fr">Emission politique</category>
   </programme>
-  <programme start="20200429165500 +0200" stop="20200429174500 +0200" channel="VOOsport World 1">
-    <title lang="fr">Review of the Season</title>
+  <programme start="20200626013300 +0200" stop="20200626021700 +0200" channel="La Une">
+    <title lang="fr">On n'est pas des pigeons (?)</title>
+    <credits>
+      <presenter>Benjamin Maréchal</presenter>
+      <presenter>Ceuppens Quentin</presenter>
+      <presenter>Céline Liégeois</presenter>
+    </credits>
+    <category lang="fr">Magazine du consommateur</category>
   </programme>
-  <programme start="20200429174500 +0200" stop="20200429181000 +0200" channel="VOOsport World 1">
-    <title lang="fr">Le monde de la Premier League</title>
+  <programme start="20200626021700 +0200" stop="20200626022700 +0200" channel="La Une">
+    <title lang="fr">Quel temps !</title>
+    <category lang="fr">Météo</category>
   </programme>
-  <programme start="20200429181000 +0200" stop="20200429190500 +0200" channel="VOOsport World 1">
-    <title lang="fr">Tennis</title>
+  <programme start="20200626022700 +0200" stop="20200626023000 +0200" channel="La Une">
+    <title lang="fr">Météo</title>
+    <category lang="fr">Météo</category>
   </programme>
-  <programme start="20200429190500 +0200" stop="20200429193000 +0200" channel="VOOsport World 1">
-    <title lang="fr">ATP Magazine</title>
+  <programme start="20200626023000 +0200" stop="20200626030500 +0200" channel="La Une">
+    <title lang="fr">JT 19h30</title>
+    <category lang="fr">Journal</category>
   </programme>
-  <programme start="20200429193000 +0200" stop="20200429200000 +0200" channel="VOOsport World 1">
-    <title lang="fr">Around the Clubs</title>
+  <programme start="20200626030500 +0200" stop="20200626032100 +0200" channel="La Une">
+    <title lang="fr">Jeudi en prime (?)</title>
+    <category lang="fr">Emission politique</category>
   </programme>
-  <programme start="20200429200000 +0200" stop="20200429202500 +0200" channel="VOOsport World 1">
-    <title lang="fr">Against The Odds</title>
+  <programme start="20200626032100 +0200" stop="20200626040600 +0200" channel="La Une">
+    <title lang="fr">On n'est pas des pigeons (?)</title>
+    <credits>
+      <presenter>Benjamin Maréchal</presenter>
+      <presenter>Ceuppens Quentin</presenter>
+      <presenter>Céline Liégeois</presenter>
+    </credits>
+    <category lang="fr">Magazine du consommateur</category>
   </programme>
-  <programme start="20200429202500 +0200" stop="20200429205000 +0200" channel="VOOsport World 1">
-    <title lang="fr">Europa League</title>
+  <programme start="20200626040600 +0200" stop="20200626040800 +0200" channel="La Une">
+    <title lang="fr">Météo</title>
+    <category lang="fr">Météo</category>
   </programme>
-  <programme start="20200429205000 +0200" stop="20200429214000 +0200" channel="VOOsport World 1">
-    <title lang="fr">Super-héros</title>
+  <programme start="20200626040800 +0200" stop="20200626044300 +0200" channel="La Une">
+    <title lang="fr">JT 19h30</title>
+    <category lang="fr">Journal</category>
   </programme>
-  <programme start="20200429214000 +0200" stop="20200429220500 +0200" channel="VOOsport World 1">
-    <title lang="fr">The Story of Porsche</title>
+  <programme start="20200626044300 +0200" stop="20200626045900 +0200" channel="La Une">
+    <title lang="fr">Jeudi en prime (?)</title>
+    <category lang="fr">Emission politique</category>
   </programme>
-  <programme start="20200429220500 +0200" stop="20200429232000 +0200" channel="VOOsport World 1">
-    <title lang="fr">Ryder Cup 2012 : Film officiel</title>
+  <programme start="20200626045900 +0200" stop="20200626054400 +0200" channel="La Une">
+    <title lang="fr">On n'est pas des pigeons (?)</title>
+    <credits>
+      <presenter>Benjamin Maréchal</presenter>
+      <presenter>Ceuppens Quentin</presenter>
+      <presenter>Céline Liégeois</presenter>
+    </credits>
+    <category lang="fr">Magazine du consommateur</category>
   </programme>
-  <programme start="20200429232000 +0200" stop="20200429234500 +0200" channel="VOOsport World 1">
-    <title lang="fr">Docs de sport</title>
+  <programme start="20200626054400 +0200" stop="20200626055400 +0200" channel="La Une">
+    <title lang="fr">Quel temps !</title>
+    <category lang="fr">Météo</category>
   </programme>
-  <programme start="20200429234500 +0200" stop="20200430001000 +0200" channel="VOOsport World 1">
-    <title lang="fr">ATP Magazine</title>
+  <programme start="20200624134000 +0200" stop="20200624145500 +0200" channel="VOOsport World 1">
+    <title lang="fr">L'Europe des Onze (?)</title>
+    <category lang="fr">Football</category>
   </programme>
-  <programme start="20200430001000 +0200" stop="20200430004000 +0200" channel="VOOsport World 1">
-    <title lang="fr">Around the Clubs</title>
+  <programme start="20200624145500 +0200" stop="20200624152000 +0200" channel="VOOsport World 1">
+    <title lang="fr">Le - monde de la Premier League (?)</title>
+    <category lang="fr">Football</category>
   </programme>
-  <programme start="20200430004000 +0200" stop="20200430010500 +0200" channel="VOOsport World 1">
-    <title lang="fr">Football</title>
+  <programme start="20200624152000 +0200" stop="20200624172500 +0200" channel="VOOsport World 1">
+    <title lang="fr">Football : Premier League (?)</title>
+    <category lang="fr">Football</category>
   </programme>
-  <programme start="20200430140000 +0200" stop="20200430142500 +0200" channel="VOOsport World 1">
-    <title lang="fr">Against The Odds</title>
+  <programme start="20200624172500 +0200" stop="20200624181500 +0200" channel="VOOsport World 1">
+    <title lang="fr">Tennis : Masters 1000 de Monte-Carlo (?)</title>
+    <category lang="fr">Tennis</category>
   </programme>
-  <programme start="20200430142500 +0200" stop="20200430145000 +0200" channel="VOOsport World 1">
-    <title lang="fr">Football</title>
+  <programme start="20200624181500 +0200" stop="20200624184500 +0200" channel="VOOsport World 1">
+    <title lang="fr">ATP Magazine (?)</title>
+    <category lang="fr">Tennis</category>
   </programme>
-  <programme start="20200430145000 +0200" stop="20200430151500 +0200" channel="VOOsport World 1">
-    <title lang="fr">Premier League Legends</title>
+  <programme start="20200624184500 +0200" stop="20200624211000 +0200" channel="VOOsport World 1">
+    <title lang="fr">Goals of the day (?)</title>
+    <category lang="fr">Football</category>
   </programme>
-  <programme start="20200430151500 +0200" stop="20200430154500 +0200" channel="VOOsport World 1">
-    <title lang="fr">Docs de sport</title>
+  <programme start="20200624211000 +0200" stop="20200624231000 +0200" channel="VOOsport World 1">
+    <title lang="fr">Football : Premier League (?)</title>
+    <category lang="fr">Football</category>
   </programme>
-  <programme start="20200430154500 +0200" stop="20200430161000 +0200" channel="VOOsport World 1">
-    <title lang="fr">Europa League</title>
+  <programme start="20200624231000 +0200" stop="20200624233000 +0200" channel="VOOsport World 1">
+    <title lang="fr">Premier League Discussion (?)</title>
+    <category lang="fr">Football</category>
   </programme>
-  <programme start="20200430161000 +0200" stop="20200430163500 +0200" channel="VOOsport World 1">
-    <title lang="fr">ATP Magazine</title>
+  <programme start="20200624233000 +0200" stop="20200625002500 +0200" channel="VOOsport World 1">
+    <title lang="fr">Tennis : Masters 1000 Miami (?)</title>
+    <category lang="fr">Tennis</category>
   </programme>
-  <programme start="20200430163500 +0200" stop="20200430170000 +0200" channel="VOOsport World 1">
-    <title lang="fr">Around the Clubs</title>
+  <programme start="20200625002500 +0200" stop="20200625024000 +0200" channel="VOOsport World 1">
+    <title lang="fr">Goals of the day (?)</title>
+    <category lang="fr">Football</category>
   </programme>
-  <programme start="20200430170000 +0200" stop="20200430175500 +0200" channel="VOOsport World 1">
-    <title lang="fr">Review of the Season</title>
+  <programme start="20200625134500 +0200" stop="20200625140500 +0200" channel="VOOsport World 1">
+    <title lang="fr">Premier League Discussion (?)</title>
+    <category lang="fr">Football</category>
   </programme>
-  <programme start="20200430175500 +0200" stop="20200430182000 +0200" channel="VOOsport World 1">
-    <title lang="fr">Docs de sport</title>
+  <programme start="20200625140500 +0200" stop="20200625160500 +0200" channel="VOOsport World 1">
+    <title lang="fr">Football : Premier League (?)</title>
+    <category lang="fr">Football</category>
   </programme>
-  <programme start="20200430182000 +0200" stop="20200430184500 +0200" channel="VOOsport World 1">
-    <title lang="fr">The Grid</title>
+  <programme start="20200625160500 +0200" stop="20200625164500 +0200" channel="VOOsport World 1">
+    <title lang="fr">Blaise for Society (?)</title>
+    <credits>
+      <director>Clément Beauvois</director>
+      <director>Touria El Haouzi</director>
+      <director>Valentin Gaffié</director>
+    </credits>
+    <category lang="fr">Sport</category>
   </programme>
-  <programme start="20200430184500 +0200" stop="20200430191000 +0200" channel="VOOsport World 1">
-    <title lang="fr">The Story of Porsche</title>
+  <programme start="20200625164500 +0200" stop="20200625180000 +0200" channel="VOOsport World 1">
+    <title lang="fr">L'Europe des Onze (?)</title>
+    <category lang="fr">Football</category>
   </programme>
-  <programme start="20200430191000 +0200" stop="20200430195500 +0200" channel="VOOsport World 1">
-    <title lang="fr">Europa League : Classic Matches</title>
+  <programme start="20200625180000 +0200" stop="20200625185500 +0200" channel="VOOsport World 1">
+    <title lang="fr">Tennis : Masters 1000 de Madrid (?)</title>
+    <category lang="fr">Tennis</category>
   </programme>
-  <programme start="20200430195500 +0200" stop="20200430202500 +0200" channel="VOOsport World 1">
-    <title lang="fr">Against The Odds</title>
+  <programme start="20200625185500 +0200" stop="20200625211000 +0200" channel="VOOsport World 1">
+    <title lang="fr">Football : Premier League (?)</title>
+    <category lang="fr">Football</category>
   </programme>
-  <programme start="20200430202500 +0200" stop="20200430205000 +0200" channel="VOOsport World 1">
-    <title lang="fr">ATP Magazine</title>
+  <programme start="20200625211000 +0200" stop="20200625231000 +0200" channel="VOOsport World 1">
+    <title lang="fr">Football : Premier League (?)</title>
+    <category lang="fr">Football</category>
   </programme>
-  <programme start="20200430205000 +0200" stop="20200430214000 +0200" channel="VOOsport World 1">
-    <title lang="fr">Tennis</title>
+  <programme start="20200625231000 +0200" stop="20200625233500 +0200" channel="VOOsport World 1">
+    <title lang="fr">ATP Magazine (?)</title>
+    <category lang="fr">Tennis</category>
   </programme>
-  <programme start="20200430214000 +0200" stop="20200430223500 +0200" channel="VOOsport World 1">
-    <title lang="fr">Premier League Greatest Goals</title>
+  <programme start="20200625233500 +0200" stop="20200626002500 +0200" channel="VOOsport World 1">
+    <title lang="fr">Tennis : Masters 1000 de Monte-Carlo (?)</title>
+    <category lang="fr">Tennis</category>
   </programme>
-  <programme start="20200430223500 +0200" stop="20200430233500 +0200" channel="VOOsport World 1">
-    <title lang="fr">Docs de sport</title>
+  <programme start="20200626002500 +0200" stop="20200626022500 +0200" channel="VOOsport World 1">
+    <title lang="fr">Football : Premier League (?)</title>
+    <category lang="fr">Football</category>
   </programme>
-  <programme start="20200430233500 +0200" stop="20200501000500 +0200" channel="VOOsport World 1">
-    <title lang="fr">Docs de sport</title>
+  <programme start="20200624144500 +0200" stop="20200624151000 +0200" channel="VOOsport World 2">
+    <title lang="fr">Voitures de légende (?)</title>
+    <category lang="fr">Magazine de l'automobile</category>
   </programme>
-  <programme start="20200501000500 +0200" stop="20200501003000 +0200" channel="VOOsport World 1">
-    <title lang="fr">Le monde de la Premier League</title>
+  <programme start="20200624151000 +0200" stop="20200624160500 +0200" channel="VOOsport World 2">
+    <title lang="fr">IndyCar Highlights (?)</title>
+    <category lang="fr">Indycar</category>
   </programme>
-  <programme start="20200501003000 +0200" stop="20200501005500 +0200" channel="VOOsport World 1">
-    <title lang="fr">Football</title>
+  <programme start="20200624160500 +0200" stop="20200624170000 +0200" channel="VOOsport World 2">
+    <title lang="fr">Golf : The Open Championship (?)</title>
+    <category lang="fr">Golf</category>
   </programme>
-  <programme start="20200429115500 +0200" stop="20200429133000 +0200" channel="VOOsport World 2">
-    <title lang="fr">Hockey sur gazon</title>
+  <programme start="20200624170000 +0200" stop="20200624220000 +0200" channel="VOOsport World 2">
+    <title lang="fr">Golf : Open de Hilton Head (?)</title>
+    <category lang="fr">Golf</category>
   </programme>
-  <programme start="20200429133000 +0200" stop="20200429173000 +0200" channel="VOOsport World 2">
-    <title lang="fr">Golf</title>
+  <programme start="20200624220000 +0200" stop="20200624222000 +0200" channel="VOOsport World 2">
+    <title lang="fr">Golf : Belgian Knockout (?)</title>
+    <category lang="fr">Golf</category>
   </programme>
-  <programme start="20200429173000 +0200" stop="20200429211500 +0200" channel="VOOsport World 2">
-    <title lang="fr">Boxe</title>
+  <programme start="20200624222000 +0200" stop="20200624224500 +0200" channel="VOOsport World 2">
+    <title lang="fr">Golf : Belgian Knockout (?)</title>
+    <category lang="fr">Golf</category>
   </programme>
-  <programme start="20200430135000 +0200" stop="20200430153000 +0200" channel="VOOsport World 2">
-    <title lang="fr">Hockey sur gazon</title>
+  <programme start="20200624224500 +0200" stop="20200624231200 +0200" channel="VOOsport World 2">
+    <title lang="fr">L'oeil des pros (?)</title>
+    <category lang="fr">Golf</category>
   </programme>
-  <programme start="20200430153000 +0200" stop="20200430193000 +0200" channel="VOOsport World 2">
-    <title lang="fr">Golf</title>
+  <programme start="20200625135000 +0200" stop="20200625185500 +0200" channel="VOOsport World 2">
+    <title lang="fr">Golf : Open de Hilton Head (?)</title>
+    <category lang="fr">Golf</category>
   </programme>
-  <programme start="20200430193000 +0200" stop="20200430212500 +0200" channel="VOOsport World 2">
-    <title lang="fr">Boxe</title>
+  <programme start="20200625185500 +0200" stop="20200625210500 +0200" channel="VOOsport World 2">
+    <title lang="fr">Football : Premier League (?)</title>
+    <category lang="fr">Football</category>
   </programme>
-  <programme start="20200429072000 +0200" stop="20200429090000 +0200" channel="Real Madrid TV">
+  <programme start="20200625210500 +0200" stop="20200626000500 +0200" channel="VOOsport World 2">
+    <title lang="fr">Golf : Open de Cromwell (?)</title>
+    <category lang="fr">Golf</category>
+  </programme>
+  <programme start="20200624072000 +0200" stop="20200624090000 +0200" channel="Real Madrid TV">
     <title lang="fr">Historia que tú hiciste</title>
+    <category lang="fr">Football</category>
   </programme>
-  <programme start="20200429090000 +0200" stop="20200429091500 +0200" channel="Real Madrid TV">
+  <programme start="20200624090000 +0200" stop="20200624091500 +0200" channel="Real Madrid TV">
     <title lang="fr">Aprende inglés con Vaughan en Realmadrid TV</title>
+    <category lang="fr">Education</category>
   </programme>
-  <programme start="20200429091500 +0200" stop="20200429095000 +0200" channel="Real Madrid TV">
-    <title lang="fr">30 Minutos</title>
+  <programme start="20200624091500 +0200" stop="20200624115500 +0200" channel="Real Madrid TV">
+    <title lang="fr">Historia que tú hiciste</title>
+    <category lang="fr">Football</category>
   </programme>
-  <programme start="20200429095000 +0200" stop="20200429100500 +0200" channel="Real Madrid TV">
-    <title lang="fr">15 minutos</title>
-  </programme>
-  <programme start="20200429100500 +0200" stop="20200429102000 +0200" channel="Real Madrid TV">
-    <title lang="fr">15 minutos</title>
-  </programme>
-  <programme start="20200429102000 +0200" stop="20200429120500 +0200" channel="Real Madrid TV">
+  <programme start="20200624115500 +0200" stop="20200624134500 +0200" channel="Real Madrid TV">
     <title lang="fr">Football</title>
+    <category lang="fr">Football</category>
   </programme>
-  <programme start="20200429120500 +0200" stop="20200429134500 +0200" channel="Real Madrid TV">
+  <programme start="20200624134500 +0200" stop="20200624143000 +0200" channel="Real Madrid TV">
     <title lang="fr">Historia que tú hiciste</title>
+    <category lang="fr">Football</category>
   </programme>
-  <programme start="20200429134500 +0200" stop="20200429143500 +0200" channel="Real Madrid TV">
-    <title lang="fr">Historia que tú hiciste</title>
-  </programme>
-  <programme start="20200429143500 +0200" stop="20200429144500 +0200" channel="Real Madrid TV">
+  <programme start="20200624143000 +0200" stop="20200624144000 +0200" channel="Real Madrid TV">
     <title lang="fr">Conecta informativo</title>
+    <category lang="fr">Magazine sportif</category>
   </programme>
-  <programme start="20200429144500 +0200" stop="20200429154000 +0200" channel="Real Madrid TV">
+  <programme start="20200624144000 +0200" stop="20200624154000 +0200" channel="Real Madrid TV">
     <title lang="fr">Historia que tú hiciste</title>
+    <category lang="fr">Football</category>
   </programme>
-  <programme start="20200429154000 +0200" stop="20200429172500 +0200" channel="Real Madrid TV">
-    <title lang="fr">The Favor</title>
+  <programme start="20200624154000 +0200" stop="20200624173000 +0200" channel="Real Madrid TV">
+    <title lang="fr">La famille Perez</title>
+    <desc lang="fr">A la suite d'une erreur administrative, un réfugié cubain et une ancienne prostituée se font passer pour mari et femme à leur arrivée à Miami.(n)</desc>
+    <category lang="fr">Film</category>
   </programme>
-  <programme start="20200429172500 +0200" stop="20200429213000 +0200" channel="Real Madrid TV">
-    <title lang="fr">Real Madrid conecta</title>
-  </programme>
-  <programme start="20200429213000 +0200" stop="20200429233500 +0200" channel="Real Madrid TV">
-    <title lang="fr">Colors</title>
-  </programme>
-  <programme start="20200429233500 +0200" stop="20200430005000 +0200" channel="Real Madrid TV">
-    <title lang="fr">En el corazón de la Décima</title>
-  </programme>
-  <programme start="20200430005000 +0200" stop="20200430032500 +0200" channel="Real Madrid TV">
-    <title lang="fr">Historia que tú hiciste</title>
-  </programme>
-  <programme start="20200430032500 +0200" stop="20200430043000 +0200" channel="Real Madrid TV">
+  <programme start="20200624173000 +0200" stop="20200624201500 +0200" channel="Real Madrid TV">
     <title lang="fr">Hoy Jugamos</title>
+    <category lang="fr">Magazine sportif</category>
   </programme>
-  <programme start="20200430043000 +0200" stop="20200430045500 +0200" channel="Real Madrid TV">
-    <title lang="fr">Historias con alma</title>
-  </programme>
-  <programme start="20200430045500 +0200" stop="20200430052500 +0200" channel="Real Madrid TV">
-    <title lang="fr">Historias con alma</title>
-  </programme>
-  <programme start="20200430052500 +0200" stop="20200430054500 +0200" channel="Real Madrid TV">
+  <programme start="20200624201500 +0200" stop="20200624210000 +0200" channel="Real Madrid TV">
     <title lang="fr">Hoy Jugamos</title>
+    <category lang="fr">Magazine sportif</category>
   </programme>
-  <programme start="20200430072000 +0200" stop="20200430090000 +0200" channel="Real Madrid TV">
+  <programme start="20200624210000 +0200" stop="20200624220000 +0200" channel="Real Madrid TV">
+    <title lang="fr">Hoy Jugamos</title>
+    <category lang="fr">Magazine sportif</category>
+  </programme>
+  <programme start="20200624220000 +0200" stop="20200624235000 +0200" channel="Real Madrid TV">
+    <title lang="fr">Hoy Jugamos</title>
+    <category lang="fr">Magazine sportif</category>
+  </programme>
+  <programme start="20200624235000 +0200" stop="20200625011500 +0200" channel="Real Madrid TV">
+    <title lang="fr">Hoy Jugamos</title>
+    <category lang="fr">Magazine sportif</category>
+  </programme>
+  <programme start="20200625011500 +0200" stop="20200625043000 +0200" channel="Real Madrid TV">
+    <title lang="fr">Hoy Jugamos</title>
+    <category lang="fr">Magazine sportif</category>
+  </programme>
+  <programme start="20200625043000 +0200" stop="20200625045500 +0200" channel="Real Madrid TV">
+    <title lang="fr">Historias con alma</title>
+    <category lang="fr">Magazine sportif</category>
+  </programme>
+  <programme start="20200625045500 +0200" stop="20200625053000 +0200" channel="Real Madrid TV">
+    <title lang="fr">Historias con alma</title>
+    <category lang="fr">Magazine sportif</category>
+  </programme>
+  <programme start="20200625070500 +0200" stop="20200625072000 +0200" channel="Real Madrid TV">
+    <title lang="fr">Hoy Jugamos</title>
+    <category lang="fr">Magazine sportif</category>
+  </programme>
+  <programme start="20200625072000 +0200" stop="20200625090000 +0200" channel="Real Madrid TV">
     <title lang="fr">Historia que tú hiciste</title>
+    <category lang="fr">Football</category>
   </programme>
-  <programme start="20200430090000 +0200" stop="20200430091500 +0200" channel="Real Madrid TV">
+  <programme start="20200625090000 +0200" stop="20200625091500 +0200" channel="Real Madrid TV">
     <title lang="fr">Aprende inglés con Vaughan en Realmadrid TV</title>
+    <category lang="fr">Education</category>
   </programme>
-  <programme start="20200430091500 +0200" stop="20200430100500 +0200" channel="Real Madrid TV">
+  <programme start="20200625091500 +0200" stop="20200625100500 +0200" channel="Real Madrid TV">
     <title lang="fr">90 minuti</title>
+    <category lang="fr">Magazine sportif</category>
   </programme>
-  <programme start="20200430100500 +0200" stop="20200430114500 +0200" channel="Real Madrid TV">
+  <programme start="20200625100500 +0200" stop="20200625114500 +0200" channel="Real Madrid TV">
     <title lang="fr">Football</title>
+    <category lang="fr">Football</category>
   </programme>
-  <programme start="20200430114500 +0200" stop="20200430134000 +0200" channel="Real Madrid TV">
+  <programme start="20200625114500 +0200" stop="20200625134000 +0200" channel="Real Madrid TV">
     <title lang="fr">Historia que tú hiciste</title>
+    <category lang="fr">Football</category>
   </programme>
-  <programme start="20200430134000 +0200" stop="20200430143000 +0200" channel="Real Madrid TV">
+  <programme start="20200625134000 +0200" stop="20200625143000 +0200" channel="Real Madrid TV">
     <title lang="fr">Hoy Jugamos</title>
+    <category lang="fr">Magazine sportif</category>
   </programme>
-  <programme start="20200430143000 +0200" stop="20200430144000 +0200" channel="Real Madrid TV">
+  <programme start="20200625143000 +0200" stop="20200625144000 +0200" channel="Real Madrid TV">
     <title lang="fr">Conecta informativo</title>
+    <category lang="fr">Magazine sportif</category>
   </programme>
-  <programme start="20200430144000 +0200" stop="20200430154000 +0200" channel="Real Madrid TV">
+  <programme start="20200625144000 +0200" stop="20200625154000 +0200" channel="Real Madrid TV">
     <title lang="fr">Hoy Jugamos</title>
+    <category lang="fr">Magazine sportif</category>
   </programme>
-  <programme start="20200430154000 +0200" stop="20200430173000 +0200" channel="Real Madrid TV">
+  <programme start="20200625154000 +0200" stop="20200625173000 +0200" channel="Real Madrid TV">
     <title lang="fr">Cine</title>
+    <category lang="fr">Film</category>
   </programme>
-  <programme start="20200430173000 +0200" stop="20200430212500 +0200" channel="Real Madrid TV">
+  <programme start="20200625173000 +0200" stop="20200625212500 +0200" channel="Real Madrid TV">
     <title lang="fr">Real Madrid conecta</title>
+    <category lang="fr">Magazine sportif</category>
   </programme>
-  <programme start="20200430212500 +0200" stop="20200430223000 +0200" channel="Real Madrid TV">
+  <programme start="20200625212500 +0200" stop="20200625223000 +0200" channel="Real Madrid TV">
     <title lang="fr">90 minuti</title>
+    <category lang="fr">Magazine sportif</category>
   </programme>
-  <programme start="20200430223000 +0200" stop="20200501001500 +0200" channel="Real Madrid TV">
+  <programme start="20200625223000 +0200" stop="20200626001500 +0200" channel="Real Madrid TV">
     <title lang="fr">Cine</title>
+    <category lang="fr">Film</category>
   </programme>
-  <programme start="20200501001500 +0200" stop="20200501020000 +0200" channel="Real Madrid TV">
+  <programme start="20200626001500 +0200" stop="20200626020000 +0200" channel="Real Madrid TV">
     <title lang="fr">Football</title>
+    <category lang="fr">Football</category>
   </programme>
-  <programme start="20200501020000 +0200" stop="20200501025500 +0200" channel="Real Madrid TV">
+  <programme start="20200626020000 +0200" stop="20200626025500 +0200" channel="Real Madrid TV">
     <title lang="fr">90 minuti</title>
+    <category lang="fr">Magazine sportif</category>
   </programme>
-  <programme start="20200501025500 +0200" stop="20200501043000 +0200" channel="Real Madrid TV">
+  <programme start="20200626025500 +0200" stop="20200626043000 +0200" channel="Real Madrid TV">
     <title lang="fr">Football</title>
+    <category lang="fr">Football</category>
   </programme>
-  <programme start="20200501043000 +0200" stop="20200501045500 +0200" channel="Real Madrid TV">
+  <programme start="20200626043000 +0200" stop="20200626045500 +0200" channel="Real Madrid TV">
     <title lang="fr">Historias con alma</title>
+    <category lang="fr">Magazine sportif</category>
   </programme>
-  <programme start="20200501045500 +0200" stop="20200501052500 +0200" channel="Real Madrid TV">
+  <programme start="20200626045500 +0200" stop="20200626052500 +0200" channel="Real Madrid TV">
     <title lang="fr">Historias con alma</title>
+    <category lang="fr">Magazine sportif</category>
   </programme>
 </tv>
