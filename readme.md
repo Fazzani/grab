@@ -55,13 +55,13 @@
 |![icon](https://epg.beinsports.com/mena_sports/HD9.svg?2017|https://epg.beinsports.com/mena_sports/HD9.svg?2017)|HD9 English|http://www.bein.net|
 |![icon](https://epg.beinsports.com/mena_sports/HD10.svg?2018|https://epg.beinsports.com/mena_sports/HD10.svg?2018)|HD10 English|http://www.bein.net|
 |![icon](https://epg.beinsports.com/mena_sports/SportsHD11.svg|https://epg.beinsports.com/mena_sports/SportsHD11.svg)|SportsHD11 English|http://www.bein.net|
-|![icon](https://epg.beinsports.com/mena_sports/SportsHD12.svg|https://epg.beinsports.com/mena_sports/SportsHD12.svg)|SportsHD12 English|http://www.bein.net|
+|![icon](https://epg.beinsports.com/mena_sports/SportsHD12.svg)|SportsHD12 English|http://www.bein.net|
 |![icon](https://epg.beinsports.com/mena_sports/SportsHD13.svg|https://epg.beinsports.com/mena_sports/SportsHD13.svg)|SportsHD13 English|http://www.bein.net|
 |![icon](https://epg.beinsports.com/mena_sports/SportsHD14.svg|https://epg.beinsports.com/mena_sports/SportsHD14.svg)|SportsHD14 English|http://www.bein.net|
 |![icon](https://epg.beinsports.com/mena_sports/SportsHD15.svg|https://epg.beinsports.com/mena_sports/SportsHD15.svg)|SportsHD15 English|http://www.bein.net|
 |![icon](https://epg.beinsports.com/mena_sports/SportsHD16.svg|https://epg.beinsports.com/mena_sports/SportsHD16.svg)|SportsHD16 English|http://www.bein.net|
 |![icon](https://epg.beinsports.com/mena_sports/SportsHD17.svg|https://epg.beinsports.com/mena_sports/SportsHD17.svg)|SportsHD17 English|http://www.bein.net|
-|![icon](https://epg.beinsports.com/mena_sports/4K.svg|https://epg.beinsports.com/mena_sports/4K.svg)|4K English|http://www.bein.net|
+|![icon](https://epg.beinsports.com/mena_sports/4K.svg)|4K English|http://www.bein.net|
 |![icon](https://epg.beinsports.com/mena_sports/BS NBA.svg|https://epg.beinsports.com/mena_sports/BS NBA.svg)|BS NBA English|http://www.bein.net|
 |![icon](https://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018|https://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|MoviesHD1 English|http://www.bein.net|
 |![icon](https://epg.beinsports.com/mena_entertaintment/MoviesHD2.svg?2018|https://epg.beinsports.com/mena_entertaintment/MoviesHD2.svg?2018)|MoviesHD2 English|http://www.bein.net|
