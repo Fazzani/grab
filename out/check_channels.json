@@ -635,7 +635,7 @@
           "$t": "beIN sports 12"
         },
         "icon": {
-          "src": "https://epg.beinsports.com/mena_sports/SportsHD12.svg|https://epg.beinsports.com/mena_sports/SportsHD12.svg"
+          "src": "https://epg.beinsports.com/mena_sports/SportsHD12.svg"
         },
         "url": "http://www.bein.net",
         "active": "True"
@@ -713,7 +713,7 @@
           "$t": "beIN sports 4K"
         },
         "icon": {
-          "src": "https://epg.beinsports.com/mena_sports/4K.svg|https://epg.beinsports.com/mena_sports/4K.svg"
+          "src": "https://epg.beinsports.com/mena_sports/4K.svg"
         },
         "url": "http://www.bein.net",
         "active": "True"
@@ -2159,7 +2159,7 @@
           "src": "http://content.osn.com/logo/channel/cropped/ONS.png"
         },
         "url": "http://www.osn.com",
-        "active": "False"
+        "active": "True"
       },
       {
         "id": "Sky News HD",
