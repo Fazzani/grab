@@ -713,7 +713,7 @@
           "$t": "beIN sports 4K"
         },
         "icon": {
-          "src": "https://epg.beinsports.com/mena_sports/4K.svg"
+          "src": "https://epg.beinsports.com/mena_sports/4K.svg|https://epg.beinsports.com/mena_sports/4K.svg"
         },
         "url": "http://www.bein.net",
         "active": "True"
@@ -2159,7 +2159,7 @@
           "src": "http://content.osn.com/logo/channel/cropped/ONS.png"
         },
         "url": "http://www.osn.com",
-        "active": "True"
+        "active": "False"
       },
       {
         "id": "Sky News HD",
