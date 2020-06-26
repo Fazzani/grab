@@ -55,13 +55,13 @@
 |![icon](https://epg.beinsports.com/mena_sports/HD9.svg?2017|https://epg.beinsports.com/mena_sports/HD9.svg?2017)|HD9 English|http://www.bein.net|
 |![icon](https://epg.beinsports.com/mena_sports/HD10.svg?2018|https://epg.beinsports.com/mena_sports/HD10.svg?2018)|HD10 English|http://www.bein.net|
 |![icon](https://epg.beinsports.com/mena_sports/SportsHD11.svg|https://epg.beinsports.com/mena_sports/SportsHD11.svg)|SportsHD11 English|http://www.bein.net|
-|![icon](https://epg.beinsports.com/mena_sports/SportsHD12.svg)|SportsHD12 English|http://www.bein.net|
+|![icon](https://epg.beinsports.com/mena_sports/SportsHD12.svg|https://epg.beinsports.com/mena_sports/SportsHD12.svg)|SportsHD12 English|http://www.bein.net|
 |![icon](https://epg.beinsports.com/mena_sports/SportsHD13.svg|https://epg.beinsports.com/mena_sports/SportsHD13.svg)|SportsHD13 English|http://www.bein.net|
 |![icon](https://epg.beinsports.com/mena_sports/SportsHD14.svg|https://epg.beinsports.com/mena_sports/SportsHD14.svg)|SportsHD14 English|http://www.bein.net|
 |![icon](https://epg.beinsports.com/mena_sports/SportsHD15.svg|https://epg.beinsports.com/mena_sports/SportsHD15.svg)|SportsHD15 English|http://www.bein.net|
 |![icon](https://epg.beinsports.com/mena_sports/SportsHD16.svg|https://epg.beinsports.com/mena_sports/SportsHD16.svg)|SportsHD16 English|http://www.bein.net|
 |![icon](https://epg.beinsports.com/mena_sports/SportsHD17.svg|https://epg.beinsports.com/mena_sports/SportsHD17.svg)|SportsHD17 English|http://www.bein.net|
-|![icon](https://epg.beinsports.com/mena_sports/4K.svg|https://epg.beinsports.com/mena_sports/4K.svg)|4K English|http://www.bein.net|
+|![icon](https://epg.beinsports.com/mena_sports/4K.svg)|4K English|http://www.bein.net|
 |![icon](https://epg.beinsports.com/mena_sports/BS NBA.svg|https://epg.beinsports.com/mena_sports/BS NBA.svg)|BS NBA English|http://www.bein.net|
 |![icon](https://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018|https://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|MoviesHD1 English|http://www.bein.net|
 |![icon](https://epg.beinsports.com/mena_entertaintment/MoviesHD2.svg?2018|https://epg.beinsports.com/mena_entertaintment/MoviesHD2.svg?2018)|MoviesHD2 English|http://www.bein.net|
@@ -449,7 +449,7 @@
 |![icon]()|NON STOP PEOPLE|http://www.canalplus.com|
 |![icon]()|NOVELAS TV|http://www.canalplus.com|
 |![icon]()|J-ONE|http://www.canalplus.com|
-|![icon]()|AB1|http://www.canalsat.fr|
+|![icon]()|AB1|http://www.canalplus.com|
 |![icon]()|TV BREIZH|http://www.canalplus.com|
 |![icon]()|TEVA|http://www.canalplus.com|
 |![icon]()|PARIS PREMIERE|http://www.canalplus.com|
@@ -457,89 +457,89 @@
 |![icon]()|BET|http://www.canalplus.com|
 |![icon]()|C8|http://www.canalplus.com|
 |![icon]()|W9|http://www.canalplus.com|
-|![icon]()|TMC|http://www.canalsat.fr|
-|![icon]()|TFX|http://www.canalsat.fr|
+|![icon]()|TMC|http://www.canalplus.com|
+|![icon]()|TFX|http://www.canalplus.com|
 |![icon]()|NRJ 12|http://www.canalplus.com|
 |![icon]()|FRANCE 4|http://www.canalplus.com|
 |![icon]()|CSTAR|http://www.canalplus.com|
-|![icon]()|CHERIE 25|http://www.canalsat.fr|
-|![icon]()|VICELAND|http://www.canalsat.fr|
+|![icon]()|CHERIE 25|http://www.canalplus.com|
+|![icon]()|VICELAND|http://www.canalplus.com|
 |![icon]()|MTV|http://www.canalsat.fr|
-|![icon]()|MCM|http://www.canalsat.fr|
-|![icon]()|GAME ONE|http://www.canalsat.fr|
+|![icon]()|MCM|http://www.canalplus.com|
+|![icon]()|GAME ONE|http://www.canalplus.com|
 |![icon]()|MANGAS|http://www.canalsat.fr|
 |![icon]()|CSTAR HITS FRANCE|http://www.canalsat.fr|
-|![icon]()|M6 MUSIC|http://www.canalsat.fr|
-|![icon]()|NRJ HITS|http://www.canalsat.fr|
-|![icon]()|TRACE URBAN|http://www.canalsat.fr|
+|![icon]()|M6 MUSIC|http://www.canalplus.com|
+|![icon]()|NRJ HITS|http://www.canalplus.com|
+|![icon]()|TRACE URBAN|http://www.canalplus.com|
 |![icon]()|MCM TOP|http://www.canalsat.fr|
-|![icon]()|RFM TV|http://www.canalsat.fr|
+|![icon]()|RFM TV|http://www.canalplus.com|
 |![icon]()|MELODY|http://www.canalsat.fr|
-|![icon]()|MEZZO|http://www.canalsat.fr|
-|![icon]()|MEZZO LIVE|http://www.canalsat.fr|
-|![icon]()|BRAVA|http://www.canalsat.fr|
+|![icon]()|MEZZO|http://www.canalplus.com|
+|![icon]()|MEZZO LIVE|http://www.canalplus.com|
+|![icon]()|BRAVA|http://www.canalplus.com|
 |![icon]()|DJAZZ|http://www.canalsat.fr|
 |![icon]()|TRACE AFRICA|http://www.canalsat.fr|
-|![icon]()|FRANCE O|http://www.canalsat.fr|
-|![icon]()|6TER|http://www.canalsat.fr|
-|![icon]()|NUMERO 23|http://www.canalsat.fr|
-|![icon]()|TV5 MONDE|http://www.canalsat.fr|
+|![icon]()|FRANCE O|http://www.canalplus.com|
+|![icon]()|6TER|http://www.canalplus.com|
+|![icon]()|NUMERO 23|http://www.canalplus.com|
+|![icon]()|TV5 MONDE|http://www.canalplus.com|
 |![icon]()|QVC|http://www.canalsat.fr|
 |![icon]()|ASTROCENTER TV|http://www.canalsat.fr|
-|![icon]()|MUSEUM|http://www.canalsat.fr|
-|![icon]()|LA CHAINE METEO|http://www.canalsat.fr|
-|![icon]()|MY ZEN TV|http://www.canalsat.fr|
-|![icon]()|RMC DECOUVERTE|http://www.canalsat.fr|
-|![icon]()|M6 BOUTIQUE|http://www.canalsat.fr|
-|![icon]()|PLANETE+|http://www.canalsat.fr|
-|![icon]()|PLANETE+ CI|http://www.canalsat.fr|
-|![icon]()|PLANETE+ A&E|http://www.canalsat.fr|
-|![icon]()|NATIONAL GEO|http://www.canalsat.fr|
-|![icon]()|NAT GEO WILD|http://www.canalsat.fr|
-|![icon]()|VOYAGE|http://www.canalsat.fr|
+|![icon]()|MUSEUM|http://www.canalplus.com|
+|![icon]()|LA CHAINE METEO|http://www.canalplus.com|
+|![icon]()|MY ZEN TV|http://www.canalplus.com|
+|![icon]()|RMC DECOUVERTE|http://www.canalplus.com|
+|![icon]()|M6 BOUTIQUE|http://www.canalplus.com|
+|![icon]()|PLANETE+|http://www.canalplus.com|
+|![icon]()|PLANETE+ CI|http://www.canalplus.com|
+|![icon]()|PLANETE+ A&E|http://www.canalplus.com|
+|![icon]()|NATIONAL GEO|http://www.canalplus.com|
+|![icon]()|NAT GEO WILD|http://www.canalplus.com|
+|![icon]()|VOYAGE|http://www.canalplus.com|
 |![icon]()|USHUAIA TV|http://www.canalsat.fr|
-|![icon]()|HISTOIRE|http://www.canalsat.fr|
-|![icon]()|SCIENCE ET VIE TV|http://www.canalsat.fr|
-|![icon]()|ANIMAUX|http://www.canalsat.fr|
-|![icon]()|TREK|http://www.canalsat.fr|
-|![icon]()|SEASONS|http://www.canalsat.fr|
-|![icon]()|CHASSE ET PECHE|http://www.canalsat.fr|
+|![icon]()|HISTOIRE|http://www.canalplus.com|
+|![icon]()|SCIENCE ET VIE TV|http://www.canalplus.com|
+|![icon]()|ANIMAUX|http://www.canalplus.com|
+|![icon]()|TREK|http://www.canalplus.com|
+|![icon]()|SEASONS|http://www.canalplus.com|
+|![icon]()|CHASSE ET PECHE|http://www.canalplus.com|
 |![icon]()|CNEWS|http://www.canalsat.fr|
-|![icon]()|BFM TV|http://www.canalsat.fr|
+|![icon]()|BFM TV|http://www.canalplus.com|
 |![icon]()|LCI|http://www.canalsat.fr|
 |![icon]()|FRANCEINFO:|http://www.canalsat.fr|
 |![icon]()|FRANCE 24|http://www.canalsat.fr|
-|![icon]()|LCP|http://www.canalsat.fr|
-|![icon]()|BFM BUSINESS|http://www.canalsat.fr|
-|![icon]()|CNN INT.|http://www.canalsat.fr|
+|![icon]()|LCP|http://www.canalplus.com|
+|![icon]()|BFM BUSINESS|http://www.canalplus.com|
+|![icon]()|CNN INT.|http://www.canalplus.com|
 |![icon]()|BBC WORLD NEWS|http://www.canalsat.fr|
-|![icon]()|EURONEWS|http://www.canalsat.fr|
-|![icon]()|INFOSPORT+|http://www.canalsat.fr|
-|![icon]()|EUROSPORT 1|http://www.canalsat.fr|
+|![icon]()|EURONEWS|http://www.canalplus.com|
+|![icon]()|INFOSPORT+|http://www.canalplus.com|
+|![icon]()|EUROSPORT 1|http://www.canalplus.com|
 |![icon]()|EUROSPORT 2|http://www.canalsat.fr|
-|![icon]()|OL TV|http://www.canalsat.fr|
+|![icon]()|OL TV|http://www.canalplus.com|
 |![icon]()|ONZEO|http://www.canalsat.fr|
 |![icon]()|GIRONDINS TV|http://www.canalsat.fr|
-|![icon]()|AB MOTEURS|http://www.canalsat.fr|
-|![icon]()|EQUIDIA|http://www.canalsat.fr|
-|![icon]()|BEIN SPORTS 1|http://www.canalsat.fr|
-|![icon]()|BEIN SPORTS 2|http://www.canalsat.fr|
-|![icon]()|BEIN SPORTS 3|http://www.canalsat.fr|
-|![icon]()|GOLF+|http://www.canalsat.fr|
-|![icon]()|EXTREME SPORTS|http://www.canalsat.fr|
-|![icon]()|L'EQUIPE|http://www.canalsat.fr|
+|![icon]()|AB MOTEURS|http://www.canalplus.com|
+|![icon]()|EQUIDIA|http://www.canalplus.com|
+|![icon]()|BEIN SPORTS 1|http://www.canalplus.com|
+|![icon]()|BEIN SPORTS 2|http://www.canalplus.com|
+|![icon]()|BEIN SPORTS 3|http://www.canalplus.com|
+|![icon]()|GOLF+|http://www.canalplus.com|
+|![icon]()|EXTREME SPORTS|http://www.canalplus.com|
+|![icon]()|L'EQUIPE|http://www.canalplus.com|
 |![icon]()|RMC SPORT 1|http://www.canalsat.fr|
-|![icon]()|RMC SPORT 2|http://www.canalsat.fr|
-|![icon]()|RMC SPORT 3|http://www.canalsat.fr|
+|![icon]()|RMC SPORT 2|http://www.canalplus.com|
+|![icon]()|RMC SPORT 3|http://www.canalplus.com|
 |![icon]()|RMC SPORT 4|http://www.canalsat.fr|
-|![icon]()|RMC SPORT NEWS|http://www.canalsat.fr|
-|![icon]()|FOOT+ 24/24|http://www.canalsat.fr|
-|![icon]()|BEIN SPORTS MAX 4|http://www.canalsat.fr|
-|![icon]()|BEIN SPORTS MAX 5|http://www.canalsat.fr|
-|![icon]()|BEIN SPORTS MAX 6|http://www.canalsat.fr|
-|![icon]()|BEIN SPORTS MAX 7|http://www.canalsat.fr|
+|![icon]()|RMC SPORT NEWS|http://www.canalplus.com|
+|![icon]()|FOOT+ 24/24|http://www.canalplus.com|
+|![icon]()|BEIN SPORTS MAX 4|http://www.canalplus.com|
+|![icon]()|BEIN SPORTS MAX 5|http://www.canalplus.com|
+|![icon]()|BEIN SPORTS MAX 6|http://www.canalplus.com|
+|![icon]()|BEIN SPORTS MAX 7|http://www.canalplus.com|
 |![icon]()|BEIN SPORTS MAX 8|http://www.canalsat.fr|
-|![icon]()|BEIN SPORTS MAX 9|http://www.canalsat.fr|
+|![icon]()|BEIN SPORTS MAX 9|http://www.canalplus.com|
 |![icon]()|BEIN SPORTS MAX 10|http://www.canalsat.fr|
 |![icon](https://television.telerama.fr/sites/tr_master/files/styles/channel_logo_80x80/public/sheet_media/tv/150x150/192.png?itok=LK8LTHrB)|BE 1|http://www.telerama.fr|
 |![icon](https://television.telerama.fr/sites/tr_master/files/styles/channel_logo_80x80/public/sheet_media/tv/150x150/192.png?itok=LK8LTHrB)|Be Ciné|http://www.telerama.fr|

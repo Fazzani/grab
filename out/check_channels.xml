@@ -193,7 +193,7 @@
     <url>http://www.bein.net</url>
   </channel><channel id="SportsHD12 English" country="bein">
     <display-name lang="en">beIN sports 12</display-name>
-    <icon src="https://epg.beinsports.com/mena_sports/SportsHD12.svg"/>
+    <icon src="https://epg.beinsports.com/mena_sports/SportsHD12.svg|https://epg.beinsports.com/mena_sports/SportsHD12.svg"/>
     <url>http://www.bein.net</url>
   </channel><channel id="SportsHD13 English" country="bein">
     <display-name lang="en">beIN sports 13</display-name>
@@ -217,7 +217,7 @@
     <url>http://www.bein.net</url>
   </channel><channel id="4K English" country="bein">
     <display-name lang="en">beIN sports 4K</display-name>
-    <icon src="https://epg.beinsports.com/mena_sports/4K.svg|https://epg.beinsports.com/mena_sports/4K.svg"/>
+    <icon src="https://epg.beinsports.com/mena_sports/4K.svg"/>
     <url>http://www.bein.net</url>
   </channel><channel id="BS NBA English" country="bein">
     <display-name lang="en">BS NBA English</display-name>
@@ -1620,7 +1620,7 @@
     <url>http://www.canalplus.com</url>
   </channel><channel id="AB1" country="canal3">
     <display-name lang="fr">AB1</display-name>
-    <url>http://www.canalsat.fr</url>
+    <url>http://www.canalplus.com</url>
   </channel><channel id="TV BREIZH" country="canal3">
     <display-name lang="fr">TV BREIZH</display-name>
     <url>http://www.canalplus.com</url>
@@ -1644,10 +1644,10 @@
     <url>http://www.canalplus.com</url>
   </channel><channel id="TMC" country="canal3">
     <display-name lang="fr">TMC</display-name>
-    <url>http://www.canalsat.fr</url>
+    <url>http://www.canalplus.com</url>
   </channel><channel id="TFX" country="canal3">
     <display-name lang="fr">TFX</display-name>
-    <url>http://www.canalsat.fr</url>
+    <url>http://www.canalplus.com</url>
   </channel><channel id="NRJ 12" country="canal3">
     <display-name lang="fr">NRJ 12</display-name>
     <url>http://www.canalplus.com</url>
@@ -1659,19 +1659,19 @@
     <url>http://www.canalplus.com</url>
   </channel><channel id="CHERIE 25" country="canal">
     <display-name lang="fr">CHERIE 25</display-name>
-    <url>http://www.canalsat.fr</url>
+    <url>http://www.canalplus.com</url>
   </channel><channel id="VICELAND" country="canal">
     <display-name lang="fr">VICELAND</display-name>
-    <url>http://www.canalsat.fr</url>
+    <url>http://www.canalplus.com</url>
   </channel><channel id="MTV" country="canal">
     <display-name lang="fr">MTV</display-name>
     <url>http://www.canalsat.fr</url>
   </channel><channel id="MCM" country="canal">
     <display-name lang="fr">MCM</display-name>
-    <url>http://www.canalsat.fr</url>
+    <url>http://www.canalplus.com</url>
   </channel><channel id="GAME ONE" country="canal">
     <display-name lang="fr">GAME ONE</display-name>
-    <url>http://www.canalsat.fr</url>
+    <url>http://www.canalplus.com</url>
   </channel><channel id="MANGAS" country="canal">
     <display-name lang="fr">MANGAS</display-name>
     <url>http://www.canalsat.fr</url>
@@ -1680,31 +1680,31 @@
     <url>http://www.canalsat.fr</url>
   </channel><channel id="M6 MUSIC" country="canal">
     <display-name lang="fr">M6 MUSIC</display-name>
-    <url>http://www.canalsat.fr</url>
+    <url>http://www.canalplus.com</url>
   </channel><channel id="NRJ HITS" country="canal">
     <display-name lang="fr">NRJ HITS</display-name>
-    <url>http://www.canalsat.fr</url>
+    <url>http://www.canalplus.com</url>
   </channel><channel id="TRACE URBAN" country="canal">
     <display-name lang="fr">TRACE URBAN</display-name>
-    <url>http://www.canalsat.fr</url>
+    <url>http://www.canalplus.com</url>
   </channel><channel id="MCM TOP" country="canal">
     <display-name lang="fr">MCM TOP</display-name>
     <url>http://www.canalsat.fr</url>
   </channel><channel id="RFM TV" country="canal">
     <display-name lang="fr">RFM TV</display-name>
-    <url>http://www.canalsat.fr</url>
+    <url>http://www.canalplus.com</url>
   </channel><channel id="MELODY" country="canal">
     <display-name lang="fr">MELODY</display-name>
     <url>http://www.canalsat.fr</url>
   </channel><channel id="MEZZO" country="canal">
     <display-name lang="fr">MEZZO</display-name>
-    <url>http://www.canalsat.fr</url>
+    <url>http://www.canalplus.com</url>
   </channel><channel id="MEZZO LIVE" country="canal">
     <display-name lang="fr">MEZZO LIVE</display-name>
-    <url>http://www.canalsat.fr</url>
+    <url>http://www.canalplus.com</url>
   </channel><channel id="BRAVA" country="canal">
     <display-name lang="fr">BRAVA</display-name>
-    <url>http://www.canalsat.fr</url>
+    <url>http://www.canalplus.com</url>
   </channel><channel id="DJAZZ" country="canal">
     <display-name lang="fr">DJAZZ</display-name>
     <url>http://www.canalsat.fr</url>
@@ -1713,16 +1713,16 @@
     <url>http://www.canalsat.fr</url>
   </channel><channel id="FRANCE O" country="canal">
     <display-name lang="fr">FRANCE O</display-name>
-    <url>http://www.canalsat.fr</url>
+    <url>http://www.canalplus.com</url>
   </channel><channel id="6TER" country="canal">
     <display-name lang="fr">6TER</display-name>
-    <url>http://www.canalsat.fr</url>
+    <url>http://www.canalplus.com</url>
   </channel><channel id="NUMERO 23" country="canal">
     <display-name lang="fr">NUMERO 23</display-name>
-    <url>http://www.canalsat.fr</url>
+    <url>http://www.canalplus.com</url>
   </channel><channel id="TV5 MONDE" country="canal">
     <display-name lang="fr">TV5 MONDE</display-name>
-    <url>http://www.canalsat.fr</url>
+    <url>http://www.canalplus.com</url>
   </channel><channel id="QVC" country="canal">
     <display-name lang="fr">QVC</display-name>
     <url>http://www.canalsat.fr</url>
@@ -1731,64 +1731,64 @@
     <url>http://www.canalsat.fr</url>
   </channel><channel id="MUSEUM" country="canal">
     <display-name lang="fr">MUSEUM</display-name>
-    <url>http://www.canalsat.fr</url>
+    <url>http://www.canalplus.com</url>
   </channel><channel id="LA CHAINE METEO" country="canal">
     <display-name lang="fr">LA CHAINE METEO</display-name>
-    <url>http://www.canalsat.fr</url>
+    <url>http://www.canalplus.com</url>
   </channel><channel id="MY ZEN TV" country="canal">
     <display-name lang="fr">MY ZEN TV</display-name>
-    <url>http://www.canalsat.fr</url>
+    <url>http://www.canalplus.com</url>
   </channel><channel id="RMC DECOUVERTE" country="canal">
     <display-name lang="fr">RMC DECOUVERTE</display-name>
-    <url>http://www.canalsat.fr</url>
+    <url>http://www.canalplus.com</url>
   </channel><channel id="M6 BOUTIQUE" country="canal">
     <display-name lang="fr">M6 BOUTIQUE</display-name>
-    <url>http://www.canalsat.fr</url>
+    <url>http://www.canalplus.com</url>
   </channel><channel id="PLANETE+" country="canal">
     <display-name lang="fr">PLANETE+</display-name>
-    <url>http://www.canalsat.fr</url>
+    <url>http://www.canalplus.com</url>
   </channel><channel id="PLANETE+ CI" country="canal">
     <display-name lang="fr">PLANETE+ CI</display-name>
-    <url>http://www.canalsat.fr</url>
+    <url>http://www.canalplus.com</url>
   </channel><channel id="PLANETE+ A&amp;E" country="canal">
     <display-name lang="fr">PLANETE+ A&amp;E</display-name>
-    <url>http://www.canalsat.fr</url>
+    <url>http://www.canalplus.com</url>
   </channel><channel id="NATIONAL GEO" country="canal">
     <display-name lang="fr">NATIONAL GEO</display-name>
-    <url>http://www.canalsat.fr</url>
+    <url>http://www.canalplus.com</url>
   </channel><channel id="NAT GEO WILD" country="canal">
     <display-name lang="fr">NAT GEO WILD</display-name>
-    <url>http://www.canalsat.fr</url>
+    <url>http://www.canalplus.com</url>
   </channel><channel id="VOYAGE" country="canal">
     <display-name lang="fr">VOYAGE</display-name>
-    <url>http://www.canalsat.fr</url>
+    <url>http://www.canalplus.com</url>
   </channel><channel id="USHUAIA TV" country="canal">
     <display-name lang="fr">USHUAIA TV</display-name>
     <url>http://www.canalsat.fr</url>
   </channel><channel id="HISTOIRE" country="canal">
     <display-name lang="fr">HISTOIRE</display-name>
-    <url>http://www.canalsat.fr</url>
+    <url>http://www.canalplus.com</url>
   </channel><channel id="SCIENCE ET VIE TV" country="canal">
     <display-name lang="fr">SCIENCE ET VIE TV</display-name>
-    <url>http://www.canalsat.fr</url>
+    <url>http://www.canalplus.com</url>
   </channel><channel id="ANIMAUX" country="canal">
     <display-name lang="fr">ANIMAUX</display-name>
-    <url>http://www.canalsat.fr</url>
+    <url>http://www.canalplus.com</url>
   </channel><channel id="TREK" country="canal">
     <display-name lang="fr">TREK</display-name>
-    <url>http://www.canalsat.fr</url>
+    <url>http://www.canalplus.com</url>
   </channel><channel id="SEASONS" country="canal">
     <display-name lang="fr">SEASONS</display-name>
-    <url>http://www.canalsat.fr</url>
+    <url>http://www.canalplus.com</url>
   </channel><channel id="CHASSE ET PECHE" country="canal">
     <display-name lang="fr">CHASSE ET PECHE</display-name>
-    <url>http://www.canalsat.fr</url>
+    <url>http://www.canalplus.com</url>
   </channel><channel id="CNEWS" country="canal">
     <display-name lang="fr">CNEWS</display-name>
     <url>http://www.canalsat.fr</url>
   </channel><channel id="BFM TV" country="canal">
     <display-name lang="fr">BFM TV</display-name>
-    <url>http://www.canalsat.fr</url>
+    <url>http://www.canalplus.com</url>
   </channel><channel id="LCI" country="canal">
     <display-name lang="fr">LCI</display-name>
     <url>http://www.canalsat.fr</url>
@@ -1800,31 +1800,31 @@
     <url>http://www.canalsat.fr</url>
   </channel><channel id="LCP" country="canal">
     <display-name lang="fr">LCP</display-name>
-    <url>http://www.canalsat.fr</url>
+    <url>http://www.canalplus.com</url>
   </channel><channel id="BFM BUSINESS" country="canal">
     <display-name lang="fr">BFM BUSINESS</display-name>
-    <url>http://www.canalsat.fr</url>
+    <url>http://www.canalplus.com</url>
   </channel><channel id="CNN INT." country="canal">
     <display-name lang="fr">CNN INT.</display-name>
-    <url>http://www.canalsat.fr</url>
+    <url>http://www.canalplus.com</url>
   </channel><channel id="BBC WORLD NEWS" country="canal">
     <display-name lang="fr">BBC WORLD NEWS</display-name>
     <url>http://www.canalsat.fr</url>
   </channel><channel id="EURONEWS" country="canal">
     <display-name lang="fr">EURONEWS</display-name>
-    <url>http://www.canalsat.fr</url>
+    <url>http://www.canalplus.com</url>
   </channel><channel id="INFOSPORT+" country="canal">
     <display-name lang="fr">INFOSPORT+</display-name>
-    <url>http://www.canalsat.fr</url>
+    <url>http://www.canalplus.com</url>
   </channel><channel id="EUROSPORT 1" country="canal">
     <display-name lang="fr">EUROSPORT 1</display-name>
-    <url>http://www.canalsat.fr</url>
+    <url>http://www.canalplus.com</url>
   </channel><channel id="EUROSPORT 2" country="canal">
     <display-name lang="fr">EUROSPORT 2</display-name>
     <url>http://www.canalsat.fr</url>
   </channel><channel id="OL TV" country="canal">
     <display-name lang="fr">OL TV</display-name>
-    <url>http://www.canalsat.fr</url>
+    <url>http://www.canalplus.com</url>
   </channel><channel id="ONZEO" country="canal">
     <display-name lang="fr">ONZEO</display-name>
     <url>http://www.canalsat.fr</url>
@@ -1833,64 +1833,64 @@
     <url>http://www.canalsat.fr</url>
   </channel><channel id="AB MOTEURS" country="canal">
     <display-name lang="fr">AB MOTEURS</display-name>
-    <url>http://www.canalsat.fr</url>
+    <url>http://www.canalplus.com</url>
   </channel><channel id="EQUIDIA" country="canal">
     <display-name lang="fr">EQUIDIA</display-name>
-    <url>http://www.canalsat.fr</url>
+    <url>http://www.canalplus.com</url>
   </channel><channel id="BEIN SPORTS 1" country="canal">
     <display-name lang="fr">BEIN SPORTS 1</display-name>
-    <url>http://www.canalsat.fr</url>
+    <url>http://www.canalplus.com</url>
   </channel><channel id="BEIN SPORTS 2" country="canal">
     <display-name lang="fr">BEIN SPORTS 2</display-name>
-    <url>http://www.canalsat.fr</url>
+    <url>http://www.canalplus.com</url>
   </channel><channel id="BEIN SPORTS 3" country="canal">
     <display-name lang="fr">BEIN SPORTS 3</display-name>
-    <url>http://www.canalsat.fr</url>
+    <url>http://www.canalplus.com</url>
   </channel><channel id="GOLF+" country="canal">
     <display-name lang="fr">GOLF+</display-name>
-    <url>http://www.canalsat.fr</url>
+    <url>http://www.canalplus.com</url>
   </channel><channel id="EXTREME SPORTS" country="canal">
     <display-name lang="fr">EXTREME SPORTS</display-name>
-    <url>http://www.canalsat.fr</url>
+    <url>http://www.canalplus.com</url>
   </channel><channel id="L'EQUIPE" country="canal">
     <display-name lang="fr">L'EQUIPE</display-name>
-    <url>http://www.canalsat.fr</url>
+    <url>http://www.canalplus.com</url>
   </channel><channel id="RMC SPORT 1" country="canal">
     <display-name lang="fr">RMC SPORT 1</display-name>
     <url>http://www.canalsat.fr</url>
   </channel><channel id="RMC SPORT 2" country="canal">
     <display-name lang="fr">RMC SPORT 2</display-name>
-    <url>http://www.canalsat.fr</url>
+    <url>http://www.canalplus.com</url>
   </channel><channel id="RMC SPORT 3" country="canal">
     <display-name lang="fr">RMC SPORT 3</display-name>
-    <url>http://www.canalsat.fr</url>
+    <url>http://www.canalplus.com</url>
   </channel><channel id="RMC SPORT 4" country="canal">
     <display-name lang="fr">RMC SPORT 4</display-name>
     <url>http://www.canalsat.fr</url>
   </channel><channel id="RMC SPORT NEWS" country="canal">
     <display-name lang="fr">RMC SPORT NEWS</display-name>
-    <url>http://www.canalsat.fr</url>
+    <url>http://www.canalplus.com</url>
   </channel><channel id="FOOT+ 24/24" country="canal">
     <display-name lang="fr">FOOT+ 24/24</display-name>
-    <url>http://www.canalsat.fr</url>
+    <url>http://www.canalplus.com</url>
   </channel><channel id="BEIN SPORTS MAX 4" country="canal">
     <display-name lang="fr">BEIN SPORTS MAX 4</display-name>
-    <url>http://www.canalsat.fr</url>
+    <url>http://www.canalplus.com</url>
   </channel><channel id="BEIN SPORTS MAX 5" country="canal">
     <display-name lang="fr">BEIN SPORTS MAX 5</display-name>
-    <url>http://www.canalsat.fr</url>
+    <url>http://www.canalplus.com</url>
   </channel><channel id="BEIN SPORTS MAX 6" country="canal">
     <display-name lang="fr">BEIN SPORTS MAX 6</display-name>
-    <url>http://www.canalsat.fr</url>
+    <url>http://www.canalplus.com</url>
   </channel><channel id="BEIN SPORTS MAX 7" country="canal">
     <display-name lang="fr">BEIN SPORTS MAX 7</display-name>
-    <url>http://www.canalsat.fr</url>
+    <url>http://www.canalplus.com</url>
   </channel><channel id="BEIN SPORTS MAX 8" country="canal">
     <display-name lang="fr">BEIN SPORTS MAX 8</display-name>
     <url>http://www.canalsat.fr</url>
   </channel><channel id="BEIN SPORTS MAX 9" country="canal">
     <display-name lang="fr">BEIN SPORTS MAX 9</display-name>
-    <url>http://www.canalsat.fr</url>
+    <url>http://www.canalplus.com</url>
   </channel><channel id="BEIN SPORTS MAX 10" country="canal">
     <display-name lang="fr">BEIN SPORTS MAX 10</display-name>
     <url>http://www.canalsat.fr</url>
