@@ -464,7 +464,7 @@
 |![icon]()|CSTAR|http://www.canalplus.com|
 |![icon]()|CHERIE 25|http://www.canalplus.com|
 |![icon]()|VICELAND|http://www.canalplus.com|
-|![icon]()|MTV|http://www.canalsat.fr|
+|![icon]()|MTV|http://www.canalplus.com|
 |![icon]()|MCM|http://www.canalplus.com|
 |![icon]()|GAME ONE|http://www.canalplus.com|
 |![icon]()|MANGAS|http://www.canalsat.fr|
@@ -474,11 +474,11 @@
 |![icon]()|TRACE URBAN|http://www.canalplus.com|
 |![icon]()|MCM TOP|http://www.canalsat.fr|
 |![icon]()|RFM TV|http://www.canalplus.com|
-|![icon]()|MELODY|http://www.canalsat.fr|
+|![icon]()|MELODY|http://www.canalplus.com|
 |![icon]()|MEZZO|http://www.canalplus.com|
 |![icon]()|MEZZO LIVE|http://www.canalplus.com|
 |![icon]()|BRAVA|http://www.canalplus.com|
-|![icon]()|DJAZZ|http://www.canalsat.fr|
+|![icon]()|DJAZZ|http://www.canalplus.com|
 |![icon]()|TRACE AFRICA|http://www.canalsat.fr|
 |![icon]()|FRANCE O|http://www.canalplus.com|
 |![icon]()|6TER|http://www.canalplus.com|
@@ -497,22 +497,22 @@
 |![icon]()|NATIONAL GEO|http://www.canalplus.com|
 |![icon]()|NAT GEO WILD|http://www.canalplus.com|
 |![icon]()|VOYAGE|http://www.canalplus.com|
-|![icon]()|USHUAIA TV|http://www.canalsat.fr|
+|![icon]()|USHUAIA TV|http://www.canalplus.com|
 |![icon]()|HISTOIRE|http://www.canalplus.com|
 |![icon]()|SCIENCE ET VIE TV|http://www.canalplus.com|
 |![icon]()|ANIMAUX|http://www.canalplus.com|
 |![icon]()|TREK|http://www.canalplus.com|
 |![icon]()|SEASONS|http://www.canalplus.com|
 |![icon]()|CHASSE ET PECHE|http://www.canalplus.com|
-|![icon]()|CNEWS|http://www.canalsat.fr|
+|![icon]()|CNEWS|http://www.canalplus.com|
 |![icon]()|BFM TV|http://www.canalplus.com|
-|![icon]()|LCI|http://www.canalsat.fr|
-|![icon]()|FRANCEINFO:|http://www.canalsat.fr|
+|![icon]()|LCI|http://www.canalplus.com|
+|![icon]()|FRANCEINFO:|http://www.canalplus.com|
 |![icon]()|FRANCE 24|http://www.canalsat.fr|
 |![icon]()|LCP|http://www.canalplus.com|
 |![icon]()|BFM BUSINESS|http://www.canalplus.com|
 |![icon]()|CNN INT.|http://www.canalplus.com|
-|![icon]()|BBC WORLD NEWS|http://www.canalsat.fr|
+|![icon]()|BBC WORLD NEWS|http://www.canalplus.com|
 |![icon]()|EURONEWS|http://www.canalplus.com|
 |![icon]()|INFOSPORT+|http://www.canalplus.com|
 |![icon]()|EUROSPORT 1|http://www.canalplus.com|
@@ -528,19 +528,19 @@
 |![icon]()|GOLF+|http://www.canalplus.com|
 |![icon]()|EXTREME SPORTS|http://www.canalplus.com|
 |![icon]()|L'EQUIPE|http://www.canalplus.com|
-|![icon]()|RMC SPORT 1|http://www.canalsat.fr|
+|![icon]()|RMC SPORT 1|http://www.canalplus.com|
 |![icon]()|RMC SPORT 2|http://www.canalplus.com|
 |![icon]()|RMC SPORT 3|http://www.canalplus.com|
-|![icon]()|RMC SPORT 4|http://www.canalsat.fr|
+|![icon]()|RMC SPORT 4|http://www.canalplus.com|
 |![icon]()|RMC SPORT NEWS|http://www.canalplus.com|
 |![icon]()|FOOT+ 24/24|http://www.canalplus.com|
 |![icon]()|BEIN SPORTS MAX 4|http://www.canalplus.com|
 |![icon]()|BEIN SPORTS MAX 5|http://www.canalplus.com|
 |![icon]()|BEIN SPORTS MAX 6|http://www.canalplus.com|
 |![icon]()|BEIN SPORTS MAX 7|http://www.canalplus.com|
-|![icon]()|BEIN SPORTS MAX 8|http://www.canalsat.fr|
+|![icon]()|BEIN SPORTS MAX 8|http://www.canalplus.com|
 |![icon]()|BEIN SPORTS MAX 9|http://www.canalplus.com|
-|![icon]()|BEIN SPORTS MAX 10|http://www.canalsat.fr|
+|![icon]()|BEIN SPORTS MAX 10|http://www.canalplus.com|
 |![icon](https://television.telerama.fr/sites/tr_master/files/styles/channel_logo_80x80/public/sheet_media/tv/150x150/192.png?itok=LK8LTHrB)|BE 1|http://www.telerama.fr|
 |![icon](https://television.telerama.fr/sites/tr_master/files/styles/channel_logo_80x80/public/sheet_media/tv/150x150/192.png?itok=LK8LTHrB)|Be Ciné|http://www.telerama.fr|
 |![icon](https://television.telerama.fr/sites/tr_master/files/styles/channel_logo_80x80/public/sheet_media/tv/150x150/192.png?itok=LK8LTHrB)|Be Séries|http://www.telerama.fr|
