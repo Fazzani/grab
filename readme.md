@@ -61,7 +61,7 @@
 |![icon](https://epg.beinsports.com/mena_sports/SportsHD15.svg|https://epg.beinsports.com/mena_sports/SportsHD15.svg)|SportsHD15 English|http://www.bein.net|
 |![icon](https://epg.beinsports.com/mena_sports/SportsHD16.svg|https://epg.beinsports.com/mena_sports/SportsHD16.svg)|SportsHD16 English|http://www.bein.net|
 |![icon](https://epg.beinsports.com/mena_sports/SportsHD17.svg|https://epg.beinsports.com/mena_sports/SportsHD17.svg)|SportsHD17 English|http://www.bein.net|
-|![icon]()|4K English|http://www.bein.net|
+|![icon](https://epg.beinsports.com/mena_sports/4K.svg|https://epg.beinsports.com/mena_sports/4K.svg)|4K English|http://www.bein.net|
 |![icon](https://epg.beinsports.com/mena_sports/BS NBA.svg|https://epg.beinsports.com/mena_sports/BS NBA.svg)|BS NBA English|http://www.bein.net|
 |![icon](https://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018|https://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018)|MoviesHD1 English|http://www.bein.net|
 |![icon](https://epg.beinsports.com/mena_entertaintment/MoviesHD2.svg?2018|https://epg.beinsports.com/mena_entertaintment/MoviesHD2.svg?2018)|MoviesHD2 English|http://www.bein.net|
@@ -467,7 +467,7 @@
 |![icon]()|MTV|http://www.canalplus.com|
 |![icon]()|MCM|http://www.canalplus.com|
 |![icon]()|GAME ONE|http://www.canalplus.com|
-|![icon]()|MANGAS|http://www.canalsat.fr|
+|![icon]()|MANGAS|http://www.canalplus.com|
 |![icon]()|CSTAR HITS FRANCE|http://www.canalsat.fr|
 |![icon]()|M6 MUSIC|http://www.canalplus.com|
 |![icon]()|NRJ HITS|http://www.canalplus.com|
@@ -485,7 +485,7 @@
 |![icon]()|NUMERO 23|http://www.canalplus.com|
 |![icon]()|TV5 MONDE|http://www.canalplus.com|
 |![icon]()|QVC|http://www.canalsat.fr|
-|![icon]()|ASTROCENTER TV|http://www.canalsat.fr|
+|![icon]()|ASTROCENTER TV|http://www.canalplus.com|
 |![icon]()|MUSEUM|http://www.canalplus.com|
 |![icon]()|LA CHAINE METEO|http://www.canalplus.com|
 |![icon]()|MY ZEN TV|http://www.canalplus.com|
@@ -508,7 +508,7 @@
 |![icon]()|BFM TV|http://www.canalplus.com|
 |![icon]()|LCI|http://www.canalplus.com|
 |![icon]()|FRANCEINFO:|http://www.canalplus.com|
-|![icon]()|FRANCE 24|http://www.canalsat.fr|
+|![icon]()|FRANCE 24|http://www.canalplus.com|
 |![icon]()|LCP|http://www.canalplus.com|
 |![icon]()|BFM BUSINESS|http://www.canalplus.com|
 |![icon]()|CNN INT.|http://www.canalplus.com|

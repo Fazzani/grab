@@ -217,6 +217,7 @@
     <url>http://www.bein.net</url>
   </channel><channel id="4K English" country="bein">
     <display-name lang="en">beIN sports 4K</display-name>
+    <icon src="https://epg.beinsports.com/mena_sports/4K.svg|https://epg.beinsports.com/mena_sports/4K.svg"/>
     <url>http://www.bein.net</url>
   </channel><channel id="BS NBA English" country="bein">
     <display-name lang="en">BS NBA English</display-name>
@@ -1673,7 +1674,7 @@
     <url>http://www.canalplus.com</url>
   </channel><channel id="MANGAS" country="canal">
     <display-name lang="fr">MANGAS</display-name>
-    <url>http://www.canalsat.fr</url>
+    <url>http://www.canalplus.com</url>
   </channel><channel id="CSTAR HITS FRANCE" country="canal">
     <display-name lang="fr">CSTAR HITS FRANCE</display-name>
     <url>http://www.canalsat.fr</url>
@@ -1727,7 +1728,7 @@
     <url>http://www.canalsat.fr</url>
   </channel><channel id="ASTROCENTER TV" country="canal">
     <display-name lang="fr">ASTROCENTER TV</display-name>
-    <url>http://www.canalsat.fr</url>
+    <url>http://www.canalplus.com</url>
   </channel><channel id="MUSEUM" country="canal">
     <display-name lang="fr">MUSEUM</display-name>
     <url>http://www.canalplus.com</url>
@@ -1796,7 +1797,7 @@
     <url>http://www.canalplus.com</url>
   </channel><channel id="FRANCE 24" country="canal">
     <display-name lang="fr">FRANCE 24</display-name>
-    <url>http://www.canalsat.fr</url>
+    <url>http://www.canalplus.com</url>
   </channel><channel id="LCP" country="canal">
     <display-name lang="fr">LCP</display-name>
     <url>http://www.canalplus.com</url>
