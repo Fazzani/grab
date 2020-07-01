@@ -1677,7 +1677,7 @@
     <url>http://www.canalplus.com</url>
   </channel><channel id="CSTAR HITS FRANCE" country="canal">
     <display-name lang="fr">CSTAR HITS FRANCE</display-name>
-    <url>http://www.canalsat.fr</url>
+    <url>http://www.canalplus.com</url>
   </channel><channel id="M6 MUSIC" country="canal">
     <display-name lang="fr">M6 MUSIC</display-name>
     <url>http://www.canalplus.com</url>
@@ -1821,7 +1821,7 @@
     <url>http://www.canalplus.com</url>
   </channel><channel id="EUROSPORT 2" country="canal">
     <display-name lang="fr">EUROSPORT 2</display-name>
-    <url>http://www.canalsat.fr</url>
+    <url>http://www.canalplus.com</url>
   </channel><channel id="OL TV" country="canal">
     <display-name lang="fr">OL TV</display-name>
     <url>http://www.canalplus.com</url>
@@ -1998,126 +1998,129 @@
     <display-name lang="fr">BBC World News</display-name>
     <icon src="https://television.telerama.fr/sites/tr_master/files/styles/channel_logo_80x80/public/sheet_media/tv/150x150/192.png?itok=LK8LTHrB"/>
     <url>http://www.telerama.fr</url>
-  </channel><channel id="Extreme Sports Channel" country="programme-tv2">
-    <display-name lang="fr">Extreme Sports Channel</display-name>
+  </channel><channel id="M6 Boutique" country="programme-tv2">
+    <display-name lang="fr">M6 Boutique</display-name>
+    <icon src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F92e431a5a4dc3bed.2Epng/30x30/quality/80/m6-boutique.png"/>
     <url>http://www.m.programme-tv.net</url>
-  </channel><channel id="Disney Junior" country="programme-tv2">
-    <display-name lang="fr">Disney Junior</display-name>
-    <icon src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F0e5d69bc71765a6f.2Epng/30x30/quality/80/disney-junior.png"/>
+  </channel><channel id="Plan&#xE8;te+ Crime Investigation" country="programme-tv2">
+    <display-name lang="fr">Plan&#xE8;te+ Crime Investigation</display-name>
+    <icon src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F20eb72545f38c83e.2Epng/30x30/quality/80/planeteplus-crime-investigation.png"/>
     <url>http://www.m.programme-tv.net</url>
-  </channel><channel id="Piwi+" country="programme-tv2">
-    <display-name lang="fr">Piwi+</display-name>
-    <icon src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F07c0bf5d658a342e.2Epng/30x30/quality/80/piwiplus.png"/>
+  </channel><channel id="Plan&#xE8;te+ Aventure Exp&#xE9;rience" country="programme-tv2">
+    <display-name lang="fr">Plan&#xE8;te+ Aventure Exp&#xE9;rience</display-name>
+    <icon src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F6cb5f38dbfebbc80.2Epng/30x30/quality/80/planeteplus-aventure-experience.png"/>
     <url>http://www.m.programme-tv.net</url>
-  </channel><channel id="Nickelodeon Junior" country="programme-tv2">
-    <display-name lang="fr">Nickelodeon Junior</display-name>
-    <icon src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fac84c77e89cd9b32.2Epng/30x30/quality/80/nickelodeon-junior.png"/>
+  </channel><channel id="National Geographic" country="programme-tv2">
+    <display-name lang="fr">National Geographic</display-name>
+    <icon src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F59a6bac22a41087b.2Epng/30x30/quality/80/national-geographic.png"/>
     <url>http://www.m.programme-tv.net</url>
-  </channel><channel id="TIJI" country="programme-tv2">
-    <display-name lang="fr">TIJI</display-name>
-    <icon src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F1731ef81f04d9561.2Epng/30x30/quality/80/tiji.png"/>
+  </channel><channel id="Nat Geo Wild" country="programme-tv2">
+    <display-name lang="fr">Nat Geo Wild</display-name>
+    <icon src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fc5a40efcfc1b9fc6.2Epng/30x30/quality/80/nat-geo-wild.png"/>
     <url>http://www.m.programme-tv.net</url>
-  </channel><channel id="Boomerang" country="programme-tv2">
-    <display-name lang="fr">Boomerang</display-name>
-    <icon src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F737335dc2fe15da5.2Epng/30x30/quality/80/boomerang.png"/>
+  </channel><channel id="Voyage" country="programme-tv2">
+    <display-name lang="fr">Voyage</display-name>
+    <icon src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fc3844599d2b2dd48.2Epng/30x30/quality/80/voyage.png"/>
     <url>http://www.m.programme-tv.net</url>
-  </channel><channel id="Cartoon Network" country="programme-tv2">
-    <display-name lang="fr">Cartoon Network</display-name>
-    <icon src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Facd5f971abf31f07.2Epng/30x30/quality/80/cartoon-network.png"/>
+  </channel><channel id="Ushua&#xEF;a TV" country="programme-tv2">
+    <display-name lang="fr">Ushua&#xEF;a TV</display-name>
+    <icon src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F57f7178645396f8f.2Epng/30x30/quality/80/ushuaia-tv.png"/>
     <url>http://www.m.programme-tv.net</url>
-  </channel><channel id="Nickelod&#xE9;on" country="programme-tv2">
-    <display-name lang="fr">Nickelod&#xE9;on</display-name>
-    <icon src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F0ad3f1f189f4d3e9.2Epng/30x30/quality/80/nickelodeon.png"/>
+  </channel><channel id="Histoire" country="programme-tv2">
+    <display-name lang="fr">Histoire</display-name>
+    <icon src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fae6842d13f64cc42.2Epng/30x30/quality/80/histoire-tv.png"/>
     <url>http://www.m.programme-tv.net</url>
-  </channel><channel id="T&#xE9;l&#xE9;Toon+" country="programme-tv2">
-    <display-name lang="fr">T&#xE9;l&#xE9;Toon+</display-name>
-    <icon src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fb7cfe70f3d1defa5.2Epng/30x30/quality/80/teletoonplus.png"/>
+  </channel><channel id="Science &amp; Vie TV" country="programme-tv2">
+    <display-name lang="fr">Science &amp; Vie TV</display-name>
+    <icon src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F018b5d9adc0bdc0e.2Epng/30x30/quality/80/science-vie-tv.png"/>
     <url>http://www.m.programme-tv.net</url>
-  </channel><channel id="Disney XD" country="programme-tv2">
-    <display-name lang="fr">Disney XD</display-name>
+  </channel><channel id="Animaux" country="programme-tv2">
+    <display-name lang="fr">Animaux</display-name>
+    <icon src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F23ccb06fb2c68b22.2Epng/30x30/quality/80/animaux.png"/>
     <url>http://www.m.programme-tv.net</url>
-  </channel><channel id="Canal J" country="programme-tv2">
-    <display-name lang="fr">Canal J</display-name>
-    <icon src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Ff748644545d28ca2.2Epng/30x30/quality/80/canal-j.png"/>
+  </channel><channel id="Trek" country="programme-tv2">
+    <display-name lang="fr">Trek</display-name>
+    <icon src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F74ab191e92e23716.2Epng/30x30/quality/80/trek.png"/>
     <url>http://www.m.programme-tv.net</url>
-  </channel><channel id="Boing" country="programme-tv2">
-    <display-name lang="fr">Boing</display-name>
-    <icon src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F0d38be6aa6f7bbd7.2Epng/30x30/quality/80/boing.png"/>
+  </channel><channel id="Seasons" country="programme-tv2">
+    <display-name lang="fr">Seasons</display-name>
+    <icon src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Ff94fd267907af274.2Epng/30x30/quality/80/seasons.png"/>
     <url>http://www.m.programme-tv.net</url>
-  </channel><channel id="Toonami" country="programme-tv2">
-    <display-name lang="fr">Toonami</display-name>
-    <icon src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F393592488d8e6cd9.2Epng/30x30/quality/80/toonami.png"/>
+  </channel><channel id="Chasse et p&#xEA;che" country="programme-tv2">
+    <display-name lang="fr">Chasse et p&#xEA;che</display-name>
+    <icon src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F148757fa7aac9306.2Epng/30x30/quality/80/chasse-et-peche.png"/>
     <url>http://www.m.programme-tv.net</url>
-  </channel><channel id="Nickelod&#xE9;on Teen" country="programme-tv2">
-    <display-name lang="fr">Nickelod&#xE9;on Teen</display-name>
-    <icon src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fc0a13490bd0576e2.2Epng/30x30/quality/80/nickelodeon-teen.png"/>
+  </channel><channel id="La Cha&#xEE;ne M&#xE9;t&#xE9;o" country="programme-tv2">
+    <display-name lang="fr">La Cha&#xEE;ne M&#xE9;t&#xE9;o</display-name>
+    <icon src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F1083cefa309b092a.2Epng/30x30/quality/80/la-chaine-meteo.png"/>
     <url>http://www.m.programme-tv.net</url>
-  </channel><channel id="Disney Channel" country="programme-tv2">
-    <display-name lang="fr">Disney Channel</display-name>
-    <icon src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F9a94d9acc7a9b613.2Epng/30x30/quality/80/disney-channel.png"/>
+  </channel><channel id="Euronews" country="programme-tv2">
+    <display-name lang="fr">Euronews</display-name>
+    <icon src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F2a9727922f0d8f4a.2Epng/30x30/quality/80/euronews.png"/>
     <url>http://www.m.programme-tv.net</url>
-  </channel><channel id="MTV Hits (France)" country="programme-tv2">
-    <display-name lang="fr">MTV Hits (France)</display-name>
-    <icon src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fcb256bd78e05904a.2Epng/30x30/quality/80/mtv-hits-france.png"/>
+  </channel><channel id="France 24" country="programme-tv2">
+    <display-name lang="fr">France 24</display-name>
+    <icon src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fd9073c87e2c51942.2Epng/30x30/quality/80/france-24.png"/>
     <url>http://www.m.programme-tv.net</url>
-  </channel><channel id="M6 Music" country="programme-tv2">
-    <display-name lang="fr">M6 Music</display-name>
-    <icon src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fb21edcb883601695.2Epng/30x30/quality/80/m6-music.png"/>
+  </channel><channel id="BFM Business" country="programme-tv2">
+    <display-name lang="fr">BFM Business</display-name>
+    <icon src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F98046f2ed89e2e0e.2Epng/30x30/quality/80/bfm-business.png"/>
     <url>http://www.m.programme-tv.net</url>
-  </channel><channel id="NRJ Hits" country="programme-tv2">
-    <display-name lang="fr">NRJ Hits</display-name>
-    <icon src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Ff5a538ca935a1d38.2Epng/30x30/quality/80/nrj-hits.png"/>
+  </channel><channel id="CNN" country="programme-tv2">
+    <display-name lang="fr">CNN</display-name>
+    <icon src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F0e520c59fae7a482.2Epng/30x30/quality/80/cnn.png"/>
     <url>http://www.m.programme-tv.net</url>
-  </channel><channel id="Trace Urban" country="programme-tv2">
-    <display-name lang="fr">Trace Urban</display-name>
-    <icon src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F05a4da2bd19b8f1e.2Epng/30x30/quality/80/trace-urban.png"/>
+  </channel><channel id="I24news" country="programme-tv2">
+    <display-name lang="fr">I24news</display-name>
+    <icon src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F9808b61ec0b68270.2Epng/30x30/quality/80/i24news.png"/>
     <url>http://www.m.programme-tv.net</url>
-  </channel><channel id="MCM Top" country="programme-tv2">
-    <display-name lang="fr">MCM Top</display-name>
-    <icon src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F4b1a972ef402680d.2Epng/30x30/quality/80/mcm-top.png"/>
+  </channel><channel id="KTO" country="programme-tv2">
+    <display-name lang="fr">KTO</display-name>
+    <icon src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F5abf7243cef51be2.2Epng/30x30/quality/80/kto.png"/>
     <url>http://www.m.programme-tv.net</url>
-  </channel><channel id="RFM TV" country="programme-tv2">
-    <display-name lang="fr">RFM TV</display-name>
-    <icon src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fd4373bfa242dad06.2Epng/30x30/quality/80/rfm-tv.png"/>
+  </channel><channel id="Infosport+" country="programme-tv2">
+    <display-name lang="fr">Infosport+</display-name>
+    <icon src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F70f1ca244fd14ebd.2Epng/30x30/quality/80/infosportplus.png"/>
     <url>http://www.m.programme-tv.net</url>
-  </channel><channel id="Melody" country="programme-tv2">
-    <display-name lang="fr">Melody</display-name>
-    <icon src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fe3cb744efff1a629.2Epng/30x30/quality/80/melody.png"/>
+  </channel><channel id="Eurosport 1" country="programme-tv2">
+    <display-name lang="fr">Eurosport 1</display-name>
+    <icon src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F011c8fc9c95e6756.2Epng/30x30/quality/80/eurosport-1.png"/>
     <url>http://www.m.programme-tv.net</url>
-  </channel><channel id="Mezzo" country="programme-tv2">
-    <display-name lang="fr">Mezzo</display-name>
-    <icon src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Ffb319c1ceb073660.2Epng/30x30/quality/80/mezzo.png"/>
+  </channel><channel id="Eurosport 2" country="programme-tv2">
+    <display-name lang="fr">Eurosport 2</display-name>
+    <icon src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F0b05c75eb14a5d15.2Epng/30x30/quality/80/eurosport-2.png"/>
     <url>http://www.m.programme-tv.net</url>
-  </channel><channel id="Mezzo Live HD" country="programme-tv2">
-    <display-name lang="fr">Mezzo Live HD</display-name>
-    <icon src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F6cfb34fa55fa62bf.2Epng/30x30/quality/80/mezzo-live-hd.png"/>
+  </channel><channel id="beIN SPORTS 1" country="programme-tv2">
+    <display-name lang="fr">beIN SPORTS 1</display-name>
+    <icon src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fe8d1e76d5cd0dcb6.2Epng/30x30/quality/80/bein-sports-1.png"/>
     <url>http://www.m.programme-tv.net</url>
-  </channel><channel id="Stingray Brava" country="programme-tv2">
-    <display-name lang="fr">Stingray Brava</display-name>
+  </channel><channel id="beIN SPORTS 2" country="programme-tv2">
+    <display-name lang="fr">beIN SPORTS 2</display-name>
+    <icon src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F4bbb8d9f79b28788.2Epng/30x30/quality/80/bein-sports-2.png"/>
     <url>http://www.m.programme-tv.net</url>
-  </channel><channel id="Nollywood TV" country="programme-tv2">
-    <display-name lang="fr">Nollywood TV</display-name>
-    <icon src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fd779967f9e9e0506.2Epng/30x30/quality/80/nollywood-tv.png"/>
+  </channel><channel id="beIN SPORTS 3" country="programme-tv2">
+    <display-name lang="fr">beIN SPORTS 3</display-name>
+    <icon src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fce8a608c29386dd9.2Epng/30x30/quality/80/bein-sports-3.png"/>
     <url>http://www.m.programme-tv.net</url>
-  </channel><channel id="A+ International France" country="programme-tv2">
-    <display-name lang="fr">A+ International France</display-name>
-    <icon src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F0e21757e3e6c4c97.2Epng/30x30/quality/80/aplus-international-france.png"/>
+  </channel><channel id="RMC Sport 1" country="programme-tv2">
+    <display-name lang="fr">RMC Sport 1</display-name>
+    <icon src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F660e3a41a2d5ce45.2Epng/30x30/quality/80/rmc-sport-1.png"/>
     <url>http://www.m.programme-tv.net</url>
-  </channel><channel id="Trace Africa" country="programme-tv2">
-    <display-name lang="fr">Trace Africa</display-name>
-    <icon src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F09e44891d0510f40.2Epng/30x30/quality/80/trace-africa.png"/>
+  </channel><channel id="RMC Sport 2" country="programme-tv2">
+    <display-name lang="fr">RMC Sport 2</display-name>
+    <icon src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fafa05a283910ac4b.2Epng/30x30/quality/80/rmc-sport-2.png"/>
     <url>http://www.m.programme-tv.net</url>
-  </channel><channel id="XXL" country="programme-tv2">
-    <display-name lang="fr">XXL</display-name>
-    <icon src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fee385ff55e53018d.2Epng/30x30/quality/80/xxl.png"/>
+  </channel><channel id="RMC Sport 3" country="programme-tv2">
+    <display-name lang="fr">RMC Sport 3</display-name>
+    <icon src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F05c77dc50ffcbd5e.2Epng/30x30/quality/80/rmc-sport-3.png"/>
     <url>http://www.m.programme-tv.net</url>
-  </channel><channel id="Pink TV" country="programme-tv2">
-    <display-name lang="fr">Pink TV</display-name>
-    <icon src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F8a8995cf5e3427ae.2Epng/30x30/quality/80/pink-tv.png"/>
+  </channel><channel id="RMC Sport 4" country="programme-tv2">
+    <display-name lang="fr">RMC Sport 4</display-name>
+    <icon src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F4c2eaf382cededb2.2Epng/30x30/quality/80/rmc-sport-4.png"/>
     <url>http://www.m.programme-tv.net</url>
-  </channel><channel id="beIN SPORTS MAX 4" country="programme-tv2">
-    <display-name lang="fr">beIN SPORTS MAX 4</display-name>
-    <icon src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F88a42924c2c4c997.2Epng/30x30/quality/80/bein-sports-max-4.png"/>
+  </channel><channel id="RMC Sport News" country="programme-tv2">
+    <display-name lang="fr">RMC Sport News</display-name>
+    <icon src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fa6d6db1370efc50c.2Epng/30x30/quality/80/rmc-sport-news.png"/>
     <url>http://www.m.programme-tv.net</url>
   </channel><channel id="beIN SPORTS MAX 5" country="programme-tv3">
     <display-name lang="fr">beIN SPORTS MAX 5</display-name>
