@@ -21,6 +21,7 @@ script:
 - docker run -it --rm -v "${PWD}/${WEBGRAB_FILENAME}:/config/WebGrab++.config.xml" --hostname test --mac-address="12:34:de:b0:6b:61" -v "${PWD}:/data" synker/webgraboneshot:latest
 - git remote add origin2 https://${GITHUB_API_TOKEN}@github.com/fazzani/grab.git > /dev/null 2>&1
 - git add --all && (git commit -m "Webgrab ${WEBGRAB_FILENAME}" || echo "No changes to commit")
+- git config --global http.postBuffer 157286400
 - git pull -X ours origin2 HEAD:master && git push origin2 HEAD:master -f
 
 jobs:
@@ -37,10 +38,11 @@ jobs:
       [[ ! -z $(git status -uno --porcelain) ]] \
       && git status \
       && git add merge.tar.gz merge.zip \
-      && git commit -m "compression, merging xmltv files and pushing them to GITHUB. Triggred by $TRAVIS_EVENT_TYPE"
+      && git commit -m "compression, merging xmltv files and pushing them to GITHUB. Triggred by $TRAVIS_EVENT_TYPE" && \
+      git config --global http.postBuffer 157286400
 
-      git pull -X ours > /dev/null 2>&1 \
-      && git push -f
+      git pull -X ours > /dev/null 2>&1 && \
+      git push -f
 
   - stage: Update readme
     name: Update readme
@@ -55,9 +57,10 @@ jobs:
       && ./scripts/check_channels.sh *.xmltv ${TRAVIS_BUILD_NUMBER}
       # curl -s -H "Content-Type:application/json" -XPOST elastic.synker.ovh/missingepgchannels/report -d @./out/check_missing_programs.json
       ./scripts/update_missed_channels.sh ./out/check_channels.json ./out/check_missing_programs.json
-      git add ./out/*.json \
-      && git commit -m "Updating missed programs" \
-      && git push origin2 HEAD:master -f
+      git add ./out/*.json && \
+      git commit -m "Updating missed programs" && \
+      git config --global http.postBuffer 157286400 && \
+      git push origin2 HEAD:master -f
 
 notifications:
   email:
