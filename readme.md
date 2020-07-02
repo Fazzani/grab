@@ -599,6 +599,11 @@
 |![icon](https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F05c77dc50ffcbd5e.2Epng/30x30/quality/80/rmc-sport-3.png)|RMC Sport 3|http://www.m.programme-tv.net|
 |![icon](https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F4c2eaf382cededb2.2Epng/30x30/quality/80/rmc-sport-4.png)|RMC Sport 4|http://www.m.programme-tv.net|
 |![icon](https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fa6d6db1370efc50c.2Epng/30x30/quality/80/rmc-sport-news.png)|RMC Sport News|http://www.m.programme-tv.net|
+|![icon](https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Ff9bf8a2e492af6b9.2Epng/30x30/quality/80/onzeo.png)|Onzéo|http://www.m.programme-tv.net|
+|![icon](https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fc85399a0ae331674.2Epng/30x30/quality/80/oltv.png)|OLTV|http://www.m.programme-tv.net|
+|![icon](https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F42866761d8d5efe1.2Epng/30x30/quality/80/automoto.png)|Automoto|http://www.m.programme-tv.net|
+|![icon](https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F57f850d8546962e8.2Epng/30x30/quality/80/equidia.png)|Equidia|http://www.m.programme-tv.net|
+|![icon](https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F57c9f12a257453d0.2Epng/30x30/quality/80/golfplus.png)|Golf+|http://www.m.programme-tv.net|
 |![icon](https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F9c869cdecb9a6c36.2Epng/30x30/quality/80/bein-sports-max-5.png)|beIN SPORTS MAX 5|http://www.m.programme-tv.net|
 |![icon](https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F62ebc7a06f14c677.2Epng/30x30/quality/80/bein-sports-max-6.png)|beIN SPORTS MAX 6|http://www.m.programme-tv.net|
 |![icon](https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fe230707a846c7534.2Epng/30x30/quality/80/bein-sports-max-7.png)|beIN SPORTS MAX 7|http://www.m.programme-tv.net|
@@ -714,6 +719,37 @@
 |![icon](https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F7fca0dd41181ccdd.2Epng/30x30/quality/80/lcp-100.png)|LCP 100%|http://www.m.programme-tv.net|
 |![icon](https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fafd4b0bcfedd16b6.2Epng/30x30/quality/80/acht.png)|Acht|http://www.m.programme-tv.net|
 |![icon](https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F63e056c0680c8f63.2Epng/30x30/quality/80/ketnet.png)|Ketnet|http://www.m.programme-tv.net|
+|![icon]()|Extreme Sports Channel|http://www.programme-tv.net|
+|![icon](https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F0e5d69bc71765a6f.2Epng/30x30/quality/80/disney-junior.png)|Disney Junior|http://www.programme-tv.net|
+|![icon](https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F07c0bf5d658a342e.2Epng/30x30/quality/80/piwiplus.png)|Piwi+|http://www.programme-tv.net|
+|![icon](https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fac84c77e89cd9b32.2Epng/30x30/quality/80/nickelodeon-junior.png)|Nickelodeon Junior|http://www.programme-tv.net|
+|![icon](https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F1731ef81f04d9561.2Epng/30x30/quality/80/tiji.png)|TIJI|http://www.programme-tv.net|
+|![icon](https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F737335dc2fe15da5.2Epng/30x30/quality/80/boomerang.png)|Boomerang|http://www.programme-tv.net|
+|![icon](https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Facd5f971abf31f07.2Epng/30x30/quality/80/cartoon-network.png)|Cartoon Network|http://www.programme-tv.net|
+|![icon](https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F0ad3f1f189f4d3e9.2Epng/30x30/quality/80/nickelodeon.png)|Nickelodéon|http://www.programme-tv.net|
+|![icon](https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fb7cfe70f3d1defa5.2Epng/30x30/quality/80/teletoonplus.png)|TéléToon+|http://www.programme-tv.net|
+|![icon]()|Disney XD|http://www.programme-tv.net|
+|![icon](https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Ff748644545d28ca2.2Epng/30x30/quality/80/canal-j.png)|Canal J|http://www.programme-tv.net|
+|![icon](https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F0d38be6aa6f7bbd7.2Epng/30x30/quality/80/boing.png)|Boing|http://www.programme-tv.net|
+|![icon](https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F393592488d8e6cd9.2Epng/30x30/quality/80/toonami.png)|Toonami|http://www.programme-tv.net|
+|![icon](https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fc0a13490bd0576e2.2Epng/30x30/quality/80/nickelodeon-teen.png)|Nickelodéon Teen|http://www.programme-tv.net|
+|![icon](https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F9a94d9acc7a9b613.2Epng/30x30/quality/80/disney-channel.png)|Disney Channel|http://www.programme-tv.net|
+|![icon](https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fcb256bd78e05904a.2Epng/30x30/quality/80/mtv-hits-france.png)|MTV Hits (France)|http://www.programme-tv.net|
+|![icon](https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fb21edcb883601695.2Epng/30x30/quality/80/m6-music.png)|M6 Music|http://www.programme-tv.net|
+|![icon](https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Ff5a538ca935a1d38.2Epng/30x30/quality/80/nrj-hits.png)|NRJ Hits|http://www.programme-tv.net|
+|![icon](https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F05a4da2bd19b8f1e.2Epng/30x30/quality/80/trace-urban.png)|Trace Urban|http://www.programme-tv.net|
+|![icon](https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F4b1a972ef402680d.2Epng/30x30/quality/80/mcm-top.png)|MCM Top|http://www.programme-tv.net|
+|![icon](https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fd4373bfa242dad06.2Epng/30x30/quality/80/rfm-tv.png)|RFM TV|http://www.programme-tv.net|
+|![icon](https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fe3cb744efff1a629.2Epng/30x30/quality/80/melody.png)|Melody|http://www.programme-tv.net|
+|![icon](https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Ffb319c1ceb073660.2Epng/30x30/quality/80/mezzo.png)|Mezzo|http://www.programme-tv.net|
+|![icon](https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F6cfb34fa55fa62bf.2Epng/30x30/quality/80/mezzo-live-hd.png)|Mezzo Live HD|http://www.programme-tv.net|
+|![icon]()|Stingray Brava|http://www.programme-tv.net|
+|![icon](https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fd779967f9e9e0506.2Epng/30x30/quality/80/nollywood-tv.png)|Nollywood TV|http://www.programme-tv.net|
+|![icon](https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F0e21757e3e6c4c97.2Epng/30x30/quality/80/aplus-international-france.png)|A+ International France|http://www.programme-tv.net|
+|![icon](https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F09e44891d0510f40.2Epng/30x30/quality/80/trace-africa.png)|Trace Africa|http://www.programme-tv.net|
+|![icon](https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fee385ff55e53018d.2Epng/30x30/quality/80/xxl.png)|XXL|http://www.programme-tv.net|
+|![icon](https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F8a8995cf5e3427ae.2Epng/30x30/quality/80/pink-tv.png)|Pink TV|http://www.programme-tv.net|
+|![icon](https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F88a42924c2c4c997.2Epng/30x30/quality/80/bein-sports-max-4.png)|beIN SPORTS MAX 4|http://www.programme-tv.net|
 |![icon](https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F3efb536705d5f6ae.2Epng/30x30/quality/80/tf1.png)|TF1|http://www.m.programme-tv.net|
 |![icon](https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Ff8d706fb87d754d7.2Epng/30x30/quality/80/france-2.png)|France 2|http://www.m.programme-tv.net|
 |![icon](https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F3c2179ea0278ccbd.2Epng/30x30/quality/80/france-3.png)|France 3|http://www.m.programme-tv.net|
