@@ -55,7 +55,7 @@
 |![icon](https://epg.beinsports.com/mena_sports/HD9.svg?2017|https://epg.beinsports.com/mena_sports/HD9.svg?2017)|HD9 English|http://www.bein.net|
 |![icon](https://epg.beinsports.com/mena_sports/HD10.svg?2018|https://epg.beinsports.com/mena_sports/HD10.svg?2018)|HD10 English|http://www.bein.net|
 |![icon](https://epg.beinsports.com/mena_sports/SportsHD11.svg|https://epg.beinsports.com/mena_sports/SportsHD11.svg)|SportsHD11 English|http://www.bein.net|
-|![icon](https://epg.beinsports.com/mena_sports/SportsHD12.svg|https://epg.beinsports.com/mena_sports/SportsHD12.svg)|SportsHD12 English|http://www.bein.net|
+|![icon](https://epg.beinsports.com/mena_sports/SportsHD12.svg)|SportsHD12 English|http://www.bein.net|
 |![icon](https://epg.beinsports.com/mena_sports/SportsHD13.svg|https://epg.beinsports.com/mena_sports/SportsHD13.svg)|SportsHD13 English|http://www.bein.net|
 |![icon](https://epg.beinsports.com/mena_sports/SportsHD14.svg|https://epg.beinsports.com/mena_sports/SportsHD14.svg)|SportsHD14 English|http://www.bein.net|
 |![icon](https://epg.beinsports.com/mena_sports/SportsHD15.svg|https://epg.beinsports.com/mena_sports/SportsHD15.svg)|SportsHD15 English|http://www.bein.net|
