@@ -1,0 +1,16 @@
+name: CI
+on:
+  schedule:
+    - cron:  '0 */6 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Run a multi-line script
+      run: |
+        python ./scripts/check.py .
+        ./readme.sh
+        git add . && git commit -m "check channels and update readme" && git push
