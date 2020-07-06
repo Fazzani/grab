@@ -18,14 +18,14 @@ env:
   - WEBGRAB_FILENAME=configs/ar_osn12.xml
   - WEBGRAB_FILENAME=configs/ar_osn13.xml
 script:
-- chmod +x ./scripts/build.sh && ./scripts/build.sh --build
+- chmod +x ./build.sh && ./build.sh --build
 
 jobs:
   include:
   - stage: merging
     name: Merging xmltv files
     script: |
-      chmod +x ./scripts/build.sh && ./scripts/build.sh --merge
+      chmod +x ./build.sh && ./build.sh --merge
 
 notifications:
   email:
