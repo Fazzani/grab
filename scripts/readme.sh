@@ -7,6 +7,9 @@ import csv
 data: str = '''
 # Daily EPG
 [![Build Status](https://travis-ci.org/Fazzani/grab.svg?branch=master)](https://travis-ci.org/Fazzani/grab)
+
+![CI](https://github.com/Fazzani/grab/workflows/CI/badge.svg)
+
 ## channels list
 [All channels link](https://github.com/Fazzani/grab/blob/master/merge.tar.gz?raw=true)
 
