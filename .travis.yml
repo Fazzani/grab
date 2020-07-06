@@ -4,7 +4,7 @@ cache: false
 services:
   - docker
 git:
-  depth: 5
+  depth: 1
 branches:
   only:
   - master
