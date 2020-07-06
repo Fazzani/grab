@@ -78,7 +78,7 @@ if __name__ == "__main__":
         logging.info(f"Total count: {len(all)} missed count: {len(missed)}")
         logging.info(f"Completness {100-(len(missed)/len(all)*100):3.2f}%")
         df.to_csv(
-            os.path.join(os.path.curdir, "epg.csv"),
+            os.path.join(sys.argv[1], "out", "epg.csv"),
             encoding="utf-8",
             date_format="%Y%m%d",
         )

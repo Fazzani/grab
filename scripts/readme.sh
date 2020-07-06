@@ -2,7 +2,7 @@
 
 from jinja2 import Template
 import csv
-
+import os
 
 data: str = '''
 # Daily EPG
@@ -23,7 +23,7 @@ data: str = '''
 '''
 
 tpl = Template(data)
-with open('epg.csv') as f:
+with open(os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "out", "epg.csv"))) as f:
     output = tpl.render(channels=list(csv.DictReader(f)))
-    with open('Readme.md', 'w') as readme:
+    with open(os.path.abspath(os.path.join(os.path.dirname(__file__), "..", 'readme.md')), 'w') as readme:
         readme.write(output)
