@@ -1,13 +1,12 @@
 #!/bin/bash
 
 
-source $(dirname $0)/utils.sh
+source $(dirname $0)/scripts/utils.sh
 OLDIFS=$IFS
 
 function build {
     echoInfo  "${NC}"
-    cd ..
-    docker run -it --rm -v "${PWD}/../${WEBGRAB_FILENAME}:/config/WebGrab++.config.xml" --hostname test --mac-address="12:34:de:b0:6b:61" -v "${PWD}:/data" synker/webgraboneshot:latest
+    docker run -it --rm -v "${PWD}/${WEBGRAB_FILENAME}:/config/WebGrab++.config.xml" --hostname test --mac-address="12:34:de:b0:6b:61" -v "${PWD}:/data" synker/webgraboneshot:latest
     git remote add origin2 https://${GITHUB_API_TOKEN}@github.com/fazzani/grab.git > /dev/null 2>&1
     git add --all && (git commit -m "Webgrab ${WEBGRAB_FILENAME}" || echo "No changes to commit")
     git config --global http.postBuffer 157286400
