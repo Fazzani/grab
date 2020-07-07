@@ -19,10 +19,12 @@
   <channel update="i" site="osn.com" site_id="ONS" xmltv_id="OSN News">OSN News</channel>
   <channel update="i" site="osn.com" site_id="SKH" xmltv_id="Sky News HD">Sky News HD</channel>
   <channel update="i" site="osn.com" site_id="BBW" xmltv_id="BBC World">BBC World</channel>
-  <channel update="i" site="osn.com" site_id="FXN" xmltv_id="Fox News">Fox News</channel>
+  <!-- <channel update="i" site="osn.com" site_id="FXN" xmltv_id="Fox News">Fox News</channel> -->
   <channel update="i" site="osn.com" site_id="CNB" xmltv_id="CNBC">CNBC</channel>
   <channel update="i" site="osn.com" site_id="BTV" xmltv_id="Bloomberg">Bloomberg</channel>
   <channel update="i" site="osn.com" site_id="CT9" xmltv_id="CGTN">CGTN</channel>
   <channel update="i" site="osn.com" site_id="FRE" xmltv_id="France 24 English">France 24 English</channel>
-
+  <!-- <channel update="i" site="osn.com" site_id="SP3" xmltv_id="OSN Sports 3 HD">OSN Sports 3 HD</channel>
+  <channel update="i" site="osn.com" site_id="SP4" xmltv_id="OSN Sports 4 HD">OSN Sports 4 HD</channel>
+  <channel update="i" site="osn.com" site_id="SP5" xmltv_id="OSN Sports 5 HD">OSN Sports 5 HD</channel> -->
 </settings>

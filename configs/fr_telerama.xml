@@ -11,6 +11,7 @@
   <skip>12</skip>
   <timespan>1</timespan>
   <update>i</update>
+
   <channel update="i" site="telerama.fr" site_id="mtv-rocks,264" xmltv_id="MTV Rocks">MTV Rocks</channel>
   <channel update="i" site="telerama.fr" site_id="mtv-base,263" xmltv_id="MTV Base">MTV Base</channel>
   <channel update="i" site="telerama.fr" site_id="nrj-hits,605" xmltv_id="NRJ Hits">NRJ Hits</channel>
@@ -25,4 +26,5 @@
   <channel update="i" site="telerama.fr" site_id="omtv,334" xmltv_id="OMTV">OMTV</channel>
   <channel update="i" site="telerama.fr" site_id="al-jazeera-english,525" xmltv_id="Al Jazeera English">Al Jazeera English</channel>
   <channel update="i" site="telerama.fr" site_id="bbc-world-news,19" xmltv_id="BBC World News">BBC World News</channel>
+
 </settings>

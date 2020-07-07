@@ -8,9 +8,9 @@
   <retry time-out="15">1</retry>
   <skip>12</skip>
   <timespan>1</timespan>
-  <license wg-username="hfazzani" registered-email="heni.fazzani@gmail.com" password="2d557ec9">f</license>
+  <license wg-username="hfazzani" registered-email="heni.fazzani@gmail.com" password="2d557ec9"></license>
   <update>i</update>
-  
+
     <channel update="i" site="elcinema.en.com" site_id="1241" xmltv_id="MBC 3">MBC 3</channel>
     <channel update="i" site="elcinema.en.com" site_id="1127" xmltv_id="MBC">MBC</channel>
     <channel update="i" site="elcinema.en.com" site_id="1132" xmltv_id="MBC MAX">MBC MAX</channel>
@@ -41,4 +41,5 @@
     <channel update="i" site="elcinema.en.com" site_id="1223" xmltv_id="Al Nahar Drama">Al Nahar Drama</channel>
     <channel update="i" site="elcinema.en.com" site_id="1178" xmltv_id="Abu Dhabi Drama">Abu Dhabi Drama</channel>
     <channel update="i" site="elcinema.en.com" site_id="1138" xmltv_id="Alhayat Series">Alhayat Series</channel>
+
 </settings>

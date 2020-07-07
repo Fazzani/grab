@@ -9,13 +9,13 @@
   <retry time-out="15">1</retry>
   <skip>12,5</skip>
   <timespan>1</timespan>
-  <license wg-username="hfazzani" registered-email="heni.fazzani@gmail.com" password="2d557ec9">f</license>
+  <license wg-username="hfazzani" registered-email="heni.fazzani@gmail.com" password="2d557ec9"></license>
   <update>i</update>
 
-  <channel update="i" site="watania.tn" site_id="www.watania1.tn/البرنامج-الأسبوعي/" xmltv_id="Watania 1">Watania 1</channel>
-  <channel update="i" site="watania.tn" site_id="www.watania2.tn/دليل-الأسبوع/" xmltv_id="Watania 2">Watania 2</channel>
+    <channel update="i" site="watania.tn" site_id="www.watania1.tn/البرنامج-الأسبوعي/" xmltv_id="Watania 1">Watania 1</channel>
+    <channel update="i" site="watania.tn" site_id="www.watania2.tn/دليل-الأسبوع/" xmltv_id="Watania 2">Watania 2</channel>
 
-  <channel update="i" site="bein.net" site_id="au_sports/BS1" xmltv_id="BS1">BS1</channel>
+    <channel update="i" site="bein.net" site_id="au_sports/BS1" xmltv_id="BS1">BS1</channel>
     <channel update="i" site="bein.net" site_id="au_sports/BS2" xmltv_id="BS2">BS2</channel>
     <channel update="i" site="bein.net" site_id="au_sports/BS3" xmltv_id="BS3">BS3</channel>
     <channel update="i" site="bein.net" site_id="mena_sports/SportsGlobalHD" xmltv_id="SportsGlobalHD English">SportsGlobalHD English</channel>

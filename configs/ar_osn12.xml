@@ -11,6 +11,7 @@
   <timespan>0</timespan>
   <update>i</update>
 
+  <channel update="i" site="osn.com" site_id="DUH" xmltv_id="Dubai Racing 1 HD">Dubai Racing 1 HD</channel>
   <channel update="i" site="osn.com" site_id="DH2" xmltv_id="Dubai Sports 4 HD">Dubai Sports 4 HD</channel>
   <channel update="i" site="osn.com" site_id="DS5" xmltv_id="Dubai Sports 5 HD">Dubai Sports 5 HD</channel>
   <channel update="i" site="osn.com" site_id="WAD" xmltv_id="Al Wosta from Al Dhaid">Al Wosta from Al Dhaid</channel>
@@ -22,5 +23,7 @@
   <channel update="i" site="osn.com" site_id="ANC" xmltv_id="ANC">ANC</channel>
   <channel update="i" site="osn.com" site_id="DZM" xmltv_id="DZMM Teleradyo">DZMM Teleradyo</channel>
   <channel update="i" site="osn.com" site_id="DWR" xmltv_id="DWRR 101.9">DWRR 101.9</channel>
+  <!-- <channel update="i" site="osn.com" site_id="SPH" xmltv_id="OSN Sports Action 1 HD">OSN Sports Action 1 HD</channel>
+  <channel update="i" site="osn.com" site_id="SP2" xmltv_id="OSN Sports Action 2 HD">OSN Sports Action 2 HD</channel> -->
 
 </settings>

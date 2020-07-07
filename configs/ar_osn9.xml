@@ -12,7 +12,7 @@
   <update>i</update>
 
   <channel update="i" site="osn.com" site_id="NHK" xmltv_id="NHK World TV">NHK World TV</channel>
-  <channel update="i" site="osn.com" site_id="MAD" xmltv_id="Madani TV">Madani TV</channel>
+  <!-- <channel update="i" site="osn.com" site_id="MAD" xmltv_id="Madani TV">Madani TV</channel>
   <channel update="i" site="osn.com" site_id="DUN" xmltv_id="Dunya News">Dunya News</channel>
   <channel update="i" site="osn.com" site_id="AYN" xmltv_id="ARY News">ARY News</channel>
   <channel update="i" site="osn.com" site_id="GON" xmltv_id="Geo News">Geo News</channel>
@@ -21,10 +21,13 @@
   <channel update="i" site="osn.com" site_id="TIM" xmltv_id="Times Now">Times Now</channel>
   <channel update="i" site="osn.com" site_id="REP" xmltv_id="Republic TV">Republic TV</channel>
   <channel update="i" site="osn.com" site_id="NDT" xmltv_id="NDTV 24x7">NDTV 24x7</channel>
-  <channel update="i" site="osn.com" site_id="ANN" xmltv_id="Asianet News">Asianet News</channel>
+  <channel update="i" site="osn.com" site_id="ANN" xmltv_id="Asianet News">Asianet News</channel> -->
   <channel update="i" site="osn.com" site_id="SNH" xmltv_id="Sky News Arabia HD">Sky News Arabia HD</channel>
   <channel update="i" site="osn.com" site_id="SNA" xmltv_id="Sky News Arabia">Sky News Arabia</channel>
   <channel update="i" site="osn.com" site_id="RUS" xmltv_id="Rusiya Al Yawm">Rusiya Al Yawm</channel>
   <channel update="i" site="osn.com" site_id="FRA" xmltv_id="France 24">France 24</channel>
+  <channel update="i" site="osn.com" site_id="NGO" xmltv_id="Nat Geo HD">Nat Geo HD</channel>
+  <channel update="i" site="osn.com" site_id="NHD" xmltv_id="Nat Geo Wild HD">Nat Geo Wild HD</channel>
+  <channel update="i" site="osn.com" site_id="NAH" xmltv_id="Nat Geo People HD">Nat Geo People HD</channel>
 
 </settings>
