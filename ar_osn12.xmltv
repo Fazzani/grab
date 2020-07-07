@@ -1,1240 +1,495 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="Nick Jr">
-    <display-name lang="en">Nick Jr</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/NJR.png" />
+  <channel id="Dubai Racing 1 HD">
+    <display-name lang="en">Dubai Racing 1 HD</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/DUH.png" />
     <url>http://www.osn.com</url>
   </channel>
-  <channel id="OSN Kid Zone TV">
-    <display-name lang="en">OSN Kid Zone TV</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/KDZ.png" />
+  <channel id="Dubai Sports 4 HD">
+    <display-name lang="en">Dubai Sports 4 HD</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/DH2.png" />
     <url>http://www.osn.com</url>
   </channel>
-  <channel id="OSN News">
-    <display-name lang="en">OSN News</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/ONS.png" />
+  <channel id="Dubai Sports 5 HD">
+    <display-name lang="en">Dubai Sports 5 HD</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/DS5.png" />
     <url>http://www.osn.com</url>
   </channel>
-  <channel id="Sky News HD">
-    <display-name lang="en">Sky News HD</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/SKH.png" />
+  <channel id="Al Wosta from Al Dhaid">
+    <display-name lang="en">Al Wosta from Al Dhaid</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/WAD.png" />
     <url>http://www.osn.com</url>
   </channel>
-  <channel id="BBC World">
-    <display-name lang="en">BBC World</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/BBW.png" />
+  <channel id="KTV Sport HD">
+    <display-name lang="en">KTV Sport HD</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/KTS.png" />
     <url>http://www.osn.com</url>
   </channel>
-  <channel id="SET Middle East">
-    <display-name lang="en">SET Middle East</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/SET.png" />
+  <channel id="KTV Sport Plus HD">
+    <display-name lang="en">KTV Sport Plus HD</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/KTP.png" />
     <url>http://www.osn.com</url>
   </channel>
-  <channel id="Discovery HD">
-    <display-name lang="en">Discovery HD</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/DSC.png" />
+  <channel id="TFC">
+    <display-name lang="en">TFC</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/TFC.png" />
     <url>http://www.osn.com</url>
   </channel>
-  <channel id="Discovery Family HD">
-    <display-name lang="en">Discovery Family HD</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/DCF.png" />
+  <channel id="ABS-CBN Sports+Action">
+    <display-name lang="en">ABS-CBN Sports+Action</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/BRO.png" />
     <url>http://www.osn.com</url>
   </channel>
-  <channel id="NickToons">
-    <display-name lang="en">NickToons</display-name>
-    <icon src="http://content.osn.com/logo/channel/cropped/NKT.png" />
+  <channel id="Cinema One Global">
+    <display-name lang="en">Cinema One Global</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/COG.png" />
     <url>http://www.osn.com</url>
   </channel>
-  <programme start="20200706000400 +0000" stop="20200706002600 +0000" channel="Nick Jr">
-    <title lang="en">Top Wing</title>
-    <title lang="ar">توب وينغ</title>
-  </programme>
-  <programme start="20200706003200 +0000" stop="20200706004500 +0000" channel="Nick Jr">
-    <title lang="en">Max &amp; Ruby</title>
-    <title lang="ar">ماكس آند روبي</title>
-  </programme>
-  <programme start="20200706004500 +0000" stop="20200706010800 +0000" channel="Nick Jr">
-    <title lang="en">Bubble Guppies</title>
-    <title lang="ar">بابل غابيز</title>
-  </programme>
-  <programme start="20200706010800 +0000" stop="20200706012000 +0000" channel="Nick Jr">
-    <title lang="en">Abby Hatcher</title>
-    <title lang="ar">آبي هاتشر</title>
-  </programme>
-  <programme start="20200706012000 +0000" stop="20200706014100 +0000" channel="Nick Jr">
-    <title lang="en">Butterbean's Cafe</title>
-    <title lang="ar">باتربينز كافيه</title>
-  </programme>
-  <programme start="20200706014400 +0000" stop="20200706020500 +0000" channel="Nick Jr">
-    <title lang="en">Blue's Clues &amp; You</title>
-    <title lang="ar">بلوز كلوز آند يو</title>
-  </programme>
-  <programme start="20200706020500 +0000" stop="20200706022700 +0000" channel="Nick Jr">
-    <title lang="en">Top Wing</title>
-    <title lang="ar">توب وينغ</title>
-  </programme>
-  <programme start="20200706022700 +0000" stop="20200706024800 +0000" channel="Nick Jr">
-    <title lang="en">Blaze And The Monster Machines</title>
-    <title lang="ar">بليز والشاحنات العملاقة</title>
-  </programme>
-  <programme start="20200706024800 +0000" stop="20200706030100 +0000" channel="Nick Jr">
-    <title lang="en">Rusty Rivets</title>
-    <title lang="ar">راستي ريفتس</title>
-  </programme>
-  <programme start="20200706030100 +0000" stop="20200706031200 +0000" channel="Nick Jr">
-    <title lang="en">Rusty Rivets</title>
-    <title lang="ar">راستي ريفتس</title>
-  </programme>
-  <programme start="20200706031400 +0000" stop="20200706033800 +0000" channel="Nick Jr">
-    <title lang="en">Paw Patrol</title>
-    <title lang="ar">باو باترول</title>
-  </programme>
-  <programme start="20200706033800 +0000" stop="20200706040000 +0000" channel="Nick Jr">
-    <title lang="en">Paw Patrol</title>
-    <title lang="ar">باو باترول</title>
-  </programme>
-  <programme start="20200706043100 +0000" stop="20200706045400 +0000" channel="Nick Jr">
-    <title lang="en">Blue's Clues &amp; You</title>
-    <title lang="ar">بلوز كلوز آند يو</title>
-  </programme>
-  <programme start="20200706045400 +0000" stop="20200706051800 +0000" channel="Nick Jr">
-    <title lang="en">Paw Patrol</title>
-    <title lang="ar">باو باترول</title>
-  </programme>
-  <programme start="20200706051800 +0000" stop="20200706054200 +0000" channel="Nick Jr">
-    <title lang="en">Paw Patrol</title>
-    <title lang="ar">باو باترول</title>
-  </programme>
-  <programme start="20200706054200 +0000" stop="20200706060600 +0000" channel="Nick Jr">
-    <title lang="en">Paw Patrol</title>
-    <title lang="ar">باو باترول</title>
-  </programme>
-  <programme start="20200706060600 +0000" stop="20200706062700 +0000" channel="Nick Jr">
-    <title lang="en">Shimmer And Shine</title>
-    <title lang="ar">شيمر آند شاين</title>
-  </programme>
-  <programme start="20200706062700 +0000" stop="20200706065000 +0000" channel="Nick Jr">
-    <title lang="en">Top Wing</title>
-    <title lang="ar">توب وينغ</title>
-  </programme>
-  <programme start="20200706065000 +0000" stop="20200706071300 +0000" channel="Nick Jr">
-    <title lang="en">Blaze And The Monster Machines</title>
-    <title lang="ar">بليز والشاحنات العملاقة</title>
-  </programme>
-  <programme start="20200706071300 +0000" stop="20200706073500 +0000" channel="Nick Jr">
-    <title lang="en">Blaze And The Monster Machines</title>
-    <title lang="ar">بليز والشاحنات العملاقة</title>
-  </programme>
-  <programme start="20200706073500 +0000" stop="20200706075900 +0000" channel="Nick Jr">
-    <title lang="en">Rusty Rivets</title>
-    <title lang="ar">راستي ريفتس</title>
-  </programme>
-  <programme start="20200706075900 +0000" stop="20200706081100 +0000" channel="Nick Jr">
-    <title lang="en">Rusty Rivets</title>
-    <title lang="ar">راستي ريفتس</title>
-  </programme>
-  <programme start="20200706081100 +0000" stop="20200706083500 +0000" channel="Nick Jr">
-    <title lang="en">Abby Hatcher</title>
-    <title lang="ar">آبي هاتشر</title>
-  </programme>
-  <programme start="20200706083500 +0000" stop="20200706085700 +0000" channel="Nick Jr">
-    <title lang="en">Butterbean's Cafe</title>
-    <title lang="ar">باتربينز كافيه</title>
-  </programme>
-  <programme start="20200706085700 +0000" stop="20200706092000 +0000" channel="Nick Jr">
-    <title lang="en">Bubble Guppies</title>
-    <title lang="ar">بابل غابيز</title>
-  </programme>
-  <programme start="20200706093500 +0000" stop="20200706095800 +0000" channel="Nick Jr">
-    <title lang="en">Blue's Clues &amp; You</title>
-    <title lang="ar">بلوز كلوز آند يو</title>
-  </programme>
-  <programme start="20200706095800 +0000" stop="20200706102100 +0000" channel="Nick Jr">
-    <title lang="en">Blaze And The Monster Machines</title>
-    <title lang="ar">بليز والشاحنات العملاقة</title>
-  </programme>
-  <programme start="20200706102100 +0000" stop="20200706104300 +0000" channel="Nick Jr">
-    <title lang="en">Blaze And The Monster Machines</title>
-    <title lang="ar">بليز والشاحنات العملاقة</title>
-  </programme>
-  <programme start="20200706104800 +0000" stop="20200706110200 +0000" channel="Nick Jr">
-    <title lang="en">Paw Patrol</title>
-    <title lang="ar">باو باترول</title>
-  </programme>
-  <programme start="20200706110200 +0000" stop="20200706111700 +0000" channel="Nick Jr">
-    <title lang="en">Paw Patrol</title>
-    <title lang="ar">باو باترول</title>
-  </programme>
-  <programme start="20200706111700 +0000" stop="20200706114200 +0000" channel="Nick Jr">
-    <title lang="en">Paw Patrol</title>
-    <title lang="ar">باو باترول</title>
-  </programme>
-  <programme start="20200706114200 +0000" stop="20200706120700 +0000" channel="Nick Jr">
-    <title lang="en">Top Wing</title>
-    <title lang="ar">توب وينغ</title>
-  </programme>
-  <programme start="20200706120700 +0000" stop="20200706121900 +0000" channel="Nick Jr">
-    <title lang="en">Top Wing</title>
-    <title lang="ar">توب وينغ</title>
-  </programme>
-  <programme start="20200706122500 +0000" stop="20200706124800 +0000" channel="Nick Jr">
-    <title lang="en">Max &amp; Ruby</title>
-    <title lang="ar">ماكس آند روبي</title>
-  </programme>
-  <programme start="20200706124800 +0000" stop="20200706131100 +0000" channel="Nick Jr">
-    <title lang="en">Bubble Guppies</title>
-    <title lang="ar">بابل غابيز</title>
-  </programme>
-  <programme start="20200706131100 +0000" stop="20200706132300 +0000" channel="Nick Jr">
-    <title lang="en">Abby Hatcher</title>
-    <title lang="ar">آبي هاتشر</title>
-  </programme>
-  <programme start="20200706132300 +0000" stop="20200706134400 +0000" channel="Nick Jr">
-    <title lang="en">Butterbean's Cafe</title>
-    <title lang="ar">باتربينز كافيه</title>
-  </programme>
-  <programme start="20200706134400 +0000" stop="20200706140500 +0000" channel="Nick Jr">
-    <title lang="en">Blue's Clues &amp; You</title>
-    <title lang="ar">بلوز كلوز آند يو</title>
-  </programme>
-  <programme start="20200706140500 +0000" stop="20200706142700 +0000" channel="Nick Jr">
-    <title lang="en">Top Wing</title>
-    <title lang="ar">توب وينغ</title>
-  </programme>
-  <programme start="20200706142700 +0000" stop="20200706144800 +0000" channel="Nick Jr">
-    <title lang="en">Blaze And The Monster Machines</title>
-    <title lang="ar">بليز والشاحنات العملاقة</title>
-  </programme>
-  <programme start="20200706144800 +0000" stop="20200706150100 +0000" channel="Nick Jr">
-    <title lang="en">Rusty Rivets</title>
-    <title lang="ar">راستي ريفتس</title>
-  </programme>
-  <programme start="20200706150100 +0000" stop="20200706151300 +0000" channel="Nick Jr">
-    <title lang="en">Rusty Rivets</title>
-    <title lang="ar">راستي ريفتس</title>
-  </programme>
-  <programme start="20200706151300 +0000" stop="20200706153700 +0000" channel="Nick Jr">
-    <title lang="en">Paw Patrol</title>
-    <title lang="ar">باو باترول</title>
-  </programme>
-  <programme start="20200706153700 +0000" stop="20200706160000 +0000" channel="Nick Jr">
-    <title lang="en">Paw Patrol</title>
-    <title lang="ar">باو باترول</title>
-  </programme>
-  <programme start="20200706163100 +0000" stop="20200706165400 +0000" channel="Nick Jr">
-    <title lang="en">Blue's Clues &amp; You</title>
-    <title lang="ar">بلوز كلوز آند يو</title>
-  </programme>
-  <programme start="20200706165400 +0000" stop="20200706171800 +0000" channel="Nick Jr">
-    <title lang="en">Paw Patrol</title>
-    <title lang="ar">باو باترول</title>
-  </programme>
-  <programme start="20200706171800 +0000" stop="20200706174200 +0000" channel="Nick Jr">
-    <title lang="en">Paw Patrol</title>
-    <title lang="ar">باو باترول</title>
-  </programme>
-  <programme start="20200706174200 +0000" stop="20200706180600 +0000" channel="Nick Jr">
-    <title lang="en">Paw Patrol</title>
-    <title lang="ar">باو باترول</title>
-  </programme>
-  <programme start="20200706180600 +0000" stop="20200706182700 +0000" channel="Nick Jr">
-    <title lang="en">Shimmer And Shine</title>
-    <title lang="ar">شيمر آند شاين</title>
-  </programme>
-  <programme start="20200706182700 +0000" stop="20200706184900 +0000" channel="Nick Jr">
-    <title lang="en">Top Wing</title>
-    <title lang="ar">توب وينغ</title>
-  </programme>
-  <programme start="20200706184900 +0000" stop="20200706191200 +0000" channel="Nick Jr">
-    <title lang="en">Blaze And The Monster Machines</title>
-    <title lang="ar">بليز والشاحنات العملاقة</title>
-  </programme>
-  <programme start="20200706191200 +0000" stop="20200706193400 +0000" channel="Nick Jr">
-    <title lang="en">Blaze And The Monster Machines</title>
-    <title lang="ar">بليز والشاحنات العملاقة</title>
-  </programme>
-  <programme start="20200706193400 +0000" stop="20200706195800 +0000" channel="Nick Jr">
-    <title lang="en">Rusty Rivets</title>
-    <title lang="ar">راستي ريفتس</title>
-  </programme>
-  <programme start="20200706195800 +0000" stop="20200706201000 +0000" channel="Nick Jr">
-    <title lang="en">Rusty Rivets</title>
-    <title lang="ar">راستي ريفتس</title>
-  </programme>
-  <programme start="20200706201000 +0000" stop="20200706203400 +0000" channel="Nick Jr">
-    <title lang="en">Abby Hatcher</title>
-    <title lang="ar">آبي هاتشر</title>
-  </programme>
-  <programme start="20200706203400 +0000" stop="20200706205500 +0000" channel="Nick Jr">
-    <title lang="en">Butterbean's Cafe</title>
-    <title lang="ar">باتربينز كافيه</title>
-  </programme>
-  <programme start="20200706210000 +0000" stop="20200706212200 +0000" channel="Nick Jr">
-    <title lang="en">Bubble Guppies</title>
-    <title lang="ar">بابل غابيز</title>
-  </programme>
-  <programme start="20200706213700 +0000" stop="20200706215900 +0000" channel="Nick Jr">
-    <title lang="en">Blue's Clues &amp; You</title>
-    <title lang="ar">بلوز كلوز آند يو</title>
-  </programme>
-  <programme start="20200706215900 +0000" stop="20200706222200 +0000" channel="Nick Jr">
-    <title lang="en">Blaze And The Monster Machines</title>
-    <title lang="ar">بليز والشاحنات العملاقة</title>
-  </programme>
-  <programme start="20200706222200 +0000" stop="20200706224600 +0000" channel="Nick Jr">
-    <title lang="en">Blaze And The Monster Machines</title>
-    <title lang="ar">بليز والشاحنات العملاقة</title>
-  </programme>
-  <programme start="20200706224600 +0000" stop="20200706225900 +0000" channel="Nick Jr">
-    <title lang="en">Paw Patrol</title>
-    <title lang="ar">باو باترول</title>
-  </programme>
-  <programme start="20200706225900 +0000" stop="20200706231400 +0000" channel="Nick Jr">
-    <title lang="en">Paw Patrol</title>
-    <title lang="ar">باو باترول</title>
-  </programme>
-  <programme start="20200706231400 +0000" stop="20200706233900 +0000" channel="Nick Jr">
-    <title lang="en">Paw Patrol</title>
-    <title lang="ar">باو باترول</title>
-  </programme>
-  <programme start="20200706233900 +0000" stop="20200707000400 +0000" channel="Nick Jr">
-    <title lang="en">Top Wing</title>
-    <title lang="ar">توب وينغ</title>
-  </programme>
-  <programme start="20200706020000 +0000" stop="20200706022200 +0000" channel="OSN Kid Zone TV">
-    <title lang="en">My Little Pony</title>
-    <title lang="ar">ماي ليتل بوني</title>
-  </programme>
-  <programme start="20200706022200 +0000" stop="20200706023400 +0000" channel="OSN Kid Zone TV">
-    <title lang="en">Fireman Sam</title>
-    <title lang="ar">فايرمان سام</title>
-  </programme>
-  <programme start="20200706023400 +0000" stop="20200706024600 +0000" channel="OSN Kid Zone TV">
-    <title lang="en">Fireman Sam</title>
-    <title lang="ar">فايرمان سام</title>
-  </programme>
-  <programme start="20200706024600 +0000" stop="20200706030900 +0000" channel="OSN Kid Zone TV">
-    <title lang="en">Chuck And Friends</title>
-    <title lang="ar">تشاك آند فريندز</title>
-  </programme>
-  <programme start="20200706030900 +0000" stop="20200706032100 +0000" channel="OSN Kid Zone TV">
-    <title lang="en">Thomas &amp; Friends</title>
-    <title lang="ar">توماس آند فريندز</title>
-  </programme>
-  <programme start="20200706032100 +0000" stop="20200706033400 +0000" channel="OSN Kid Zone TV">
-    <title lang="en">Thomas &amp; Friends</title>
-    <title lang="ar">توماس آند فريندز</title>
-  </programme>
-  <programme start="20200706033400 +0000" stop="20200706040200 +0000" channel="OSN Kid Zone TV">
-    <title lang="en">Barney And Friends</title>
-    <title lang="ar">بارني آند فريندز</title>
-  </programme>
-  <programme start="20200706040200 +0000" stop="20200706043400 +0000" channel="OSN Kid Zone TV">
-    <title lang="en">Pipsqueaks</title>
-    <title lang="ar">بيبسكويكس</title>
-  </programme>
-  <programme start="20200706043400 +0000" stop="20200706044800 +0000" channel="OSN Kid Zone TV">
-    <title lang="en">Beat Bugs</title>
-    <title lang="ar">بيت بغز</title>
-  </programme>
-  <programme start="20200706044800 +0000" stop="20200706050200 +0000" channel="OSN Kid Zone TV">
-    <title lang="en">Tall Tales</title>
-    <title lang="ar">تول تيلز</title>
-  </programme>
-  <programme start="20200706051500 +0000" stop="20200706052800 +0000" channel="OSN Kid Zone TV">
-    <title lang="en">Kate And Mim-Mim</title>
-    <title lang="ar">كيت آند ميم ميم</title>
-  </programme>
-  <programme start="20200706052800 +0000" stop="20200706054100 +0000" channel="OSN Kid Zone TV">
-    <title lang="en">Kate And Mim-Mim</title>
-    <title lang="ar">كيت آند ميم ميم</title>
-  </programme>
-  <programme start="20200706054100 +0000" stop="20200706060500 +0000" channel="OSN Kid Zone TV">
-    <title lang="en">Wishenpoof</title>
-    <title lang="ar">ويشنبوف</title>
-  </programme>
-  <programme start="20200706062200 +0000" stop="20200706063700 +0000" channel="OSN Kid Zone TV">
-    <title lang="en">Sandra, The Fairytale Detective</title>
-    <title lang="ar">ساندرا، ذا فيريتيل ديتكتف</title>
-  </programme>
-  <programme start="20200706063700 +0000" stop="20200706065200 +0000" channel="OSN Kid Zone TV">
-    <title lang="en">Sandra, The Fairytale Detective</title>
-    <title lang="ar">ساندرا، ذا فيريتيل ديتكتف</title>
-  </programme>
-  <programme start="20200706065200 +0000" stop="20200706071500 +0000" channel="OSN Kid Zone TV">
-    <title lang="en">My Little Pony</title>
-    <title lang="ar">ماي ليتل بوني</title>
-  </programme>
-  <programme start="20200706071500 +0000" stop="20200706072800 +0000" channel="OSN Kid Zone TV">
-    <title lang="en">Justin Time</title>
-    <title lang="ar">جاستن تايم</title>
-  </programme>
-  <programme start="20200706072800 +0000" stop="20200706074100 +0000" channel="OSN Kid Zone TV">
-    <title lang="en">Justin Time</title>
-    <title lang="ar">جاستن تايم</title>
-  </programme>
-  <programme start="20200706074100 +0000" stop="20200706075500 +0000" channel="OSN Kid Zone TV">
-    <title lang="en">Lucky Fred</title>
-    <title lang="ar">لاكي فريد</title>
-  </programme>
-  <programme start="20200706075500 +0000" stop="20200706080800 +0000" channel="OSN Kid Zone TV">
-    <title lang="en">Lucky Fred</title>
-    <title lang="ar">لاكي فريد</title>
-  </programme>
-  <programme start="20200706080800 +0000" stop="20200706082000 +0000" channel="OSN Kid Zone TV">
-    <title lang="en">Talking Tom And Friends</title>
-    <title lang="ar">توكينغ توم آند فريندز</title>
-  </programme>
-  <programme start="20200706082000 +0000" stop="20200706083300 +0000" channel="OSN Kid Zone TV">
-    <title lang="en">Talking Tom And Friends</title>
-    <title lang="ar">توكينغ توم آند فريندز</title>
-  </programme>
-  <programme start="20200706083300 +0000" stop="20200706085600 +0000" channel="OSN Kid Zone TV">
-    <title lang="en">My Little Pony</title>
-    <title lang="ar">ماي ليتل بوني</title>
-  </programme>
-  <programme start="20200706085600 +0000" stop="20200706092700 +0000" channel="OSN Kid Zone TV">
-    <title lang="en">Pipsqueaks</title>
-    <title lang="ar">بيبسكويكس</title>
-  </programme>
-  <programme start="20200706092700 +0000" stop="20200706095600 +0000" channel="OSN Kid Zone TV">
-    <title lang="en">Barney And Friends</title>
-    <title lang="ar">بارني آند فريندز</title>
-  </programme>
-  <programme start="20200706095600 +0000" stop="20200706101000 +0000" channel="OSN Kid Zone TV">
-    <title lang="en">Beat Bugs</title>
-    <title lang="ar">بيت بغز</title>
-  </programme>
-  <programme start="20200706101000 +0000" stop="20200706102400 +0000" channel="OSN Kid Zone TV">
-    <title lang="en">Tall Tales</title>
-    <title lang="ar">تول تيلز</title>
-  </programme>
-  <programme start="20200706105400 +0000" stop="20200706111900 +0000" channel="OSN Kid Zone TV">
-    <title lang="en">Wishenpoof</title>
-    <title lang="ar">ويشنبوف</title>
-  </programme>
-  <programme start="20200706111900 +0000" stop="20200706113200 +0000" channel="OSN Kid Zone TV">
-    <title lang="en">Kate And Mim-Mim</title>
-    <title lang="ar">كيت آند ميم ميم</title>
-  </programme>
-  <programme start="20200706113200 +0000" stop="20200706114400 +0000" channel="OSN Kid Zone TV">
-    <title lang="en">Kate And Mim-Mim</title>
-    <title lang="ar">كيت آند ميم ميم</title>
-  </programme>
-  <programme start="20200706114400 +0000" stop="20200706115700 +0000" channel="OSN Kid Zone TV">
-    <title lang="en">Thomas &amp; Friends</title>
-    <title lang="ar">توماس آند فريندز</title>
-  </programme>
-  <programme start="20200706115700 +0000" stop="20200706121000 +0000" channel="OSN Kid Zone TV">
-    <title lang="en">Thomas &amp; Friends</title>
-    <title lang="ar">توماس آند فريندز</title>
-  </programme>
-  <programme start="20200706121000 +0000" stop="20200706123200 +0000" channel="OSN Kid Zone TV">
-    <title lang="en">Chuck And Friends</title>
-    <title lang="ar">تشاك آند فريندز</title>
-  </programme>
-  <programme start="20200706123200 +0000" stop="20200706124400 +0000" channel="OSN Kid Zone TV">
-    <title lang="en">Fireman Sam</title>
-    <title lang="ar">فايرمان سام</title>
-  </programme>
-  <programme start="20200706124400 +0000" stop="20200706125600 +0000" channel="OSN Kid Zone TV">
-    <title lang="en">Fireman Sam</title>
-    <title lang="ar">فايرمان سام</title>
-  </programme>
-  <programme start="20200706125600 +0000" stop="20200706131900 +0000" channel="OSN Kid Zone TV">
-    <title lang="en">My Little Pony</title>
-    <title lang="ar">ماي ليتل بوني</title>
-  </programme>
-  <programme start="20200706131900 +0000" stop="20200706134100 +0000" channel="OSN Kid Zone TV">
-    <title lang="en">My Little Pony</title>
-    <title lang="ar">ماي ليتل بوني</title>
-  </programme>
-  <programme start="20200706134100 +0000" stop="20200706135600 +0000" channel="OSN Kid Zone TV">
-    <title lang="en">Beat Bugs</title>
-    <title lang="ar">بيت بغز</title>
-  </programme>
-  <programme start="20200706135600 +0000" stop="20200706141000 +0000" channel="OSN Kid Zone TV">
-    <title lang="en">Tall Tales</title>
-    <title lang="ar">تول تيلز</title>
-  </programme>
-  <programme start="20200706141000 +0000" stop="20200706144100 +0000" channel="OSN Kid Zone TV">
-    <title lang="en">Pipsqueaks</title>
-    <title lang="ar">بيبسكويكس</title>
-  </programme>
-  <programme start="20200706144100 +0000" stop="20200706150900 +0000" channel="OSN Kid Zone TV">
-    <title lang="en">Barney And Friends</title>
-    <title lang="ar">بارني آند فريندز</title>
-  </programme>
-  <programme start="20200706150900 +0000" stop="20200706152300 +0000" channel="OSN Kid Zone TV">
-    <title lang="en">Justin Time</title>
-    <title lang="ar">جاستن تايم</title>
-  </programme>
-  <programme start="20200706152300 +0000" stop="20200706153600 +0000" channel="OSN Kid Zone TV">
-    <title lang="en">Justin Time</title>
-    <title lang="ar">جاستن تايم</title>
-  </programme>
-  <programme start="20200706153600 +0000" stop="20200706155000 +0000" channel="OSN Kid Zone TV">
-    <title lang="en">Sandra, The Fairytale Detective</title>
-    <title lang="ar">ساندرا، ذا فيريتيل ديتكتف</title>
-  </programme>
-  <programme start="20200706155000 +0000" stop="20200706160500 +0000" channel="OSN Kid Zone TV">
-    <title lang="en">Sandra, The Fairytale Detective</title>
-    <title lang="ar">ساندرا، ذا فيريتيل ديتكتف</title>
-  </programme>
-  <programme start="20200706160500 +0000" stop="20200706161900 +0000" channel="OSN Kid Zone TV">
-    <title lang="en">Lucky Fred</title>
-    <title lang="ar">لاكي فريد</title>
-  </programme>
-  <programme start="20200706161900 +0000" stop="20200706163200 +0000" channel="OSN Kid Zone TV">
-    <title lang="en">Lucky Fred</title>
-    <title lang="ar">لاكي فريد</title>
-  </programme>
-  <programme start="20200706163200 +0000" stop="20200706164500 +0000" channel="OSN Kid Zone TV">
-    <title lang="en">Talking Tom And Friends</title>
-    <title lang="ar">توكينغ توم آند فريندز</title>
-  </programme>
-  <programme start="20200706164500 +0000" stop="20200706165700 +0000" channel="OSN Kid Zone TV">
-    <title lang="en">Talking Tom And Friends</title>
-    <title lang="ar">توكينغ توم آند فريندز</title>
-  </programme>
-  <programme start="20200706165700 +0000" stop="20200706172000 +0000" channel="OSN Kid Zone TV">
-    <title lang="en">My Little Pony</title>
-    <title lang="ar">ماي ليتل بوني</title>
-  </programme>
-  <programme start="20200706175100 +0000" stop="20200706180300 +0000" channel="OSN Kid Zone TV">
-    <title lang="en">Kate And Mim-Mim</title>
-    <title lang="ar">كيت آند ميم ميم</title>
-  </programme>
-  <programme start="20200706180300 +0000" stop="20200706181600 +0000" channel="OSN Kid Zone TV">
-    <title lang="en">Kate And Mim-Mim</title>
-    <title lang="ar">كيت آند ميم ميم</title>
-  </programme>
-  <programme start="20200706181600 +0000" stop="20200706183100 +0000" channel="OSN Kid Zone TV">
-    <title lang="en">Sandra, The Fairytale Detective</title>
-    <title lang="ar">ساندرا، ذا فيريتيل ديتكتف</title>
-  </programme>
-  <programme start="20200706183100 +0000" stop="20200706184500 +0000" channel="OSN Kid Zone TV">
-    <title lang="en">Sandra, The Fairytale Detective</title>
-    <title lang="ar">ساندرا، ذا فيريتيل ديتكتف</title>
-  </programme>
-  <programme start="20200706184500 +0000" stop="20200706190800 +0000" channel="OSN Kid Zone TV">
-    <title lang="en">My Little Pony</title>
-    <title lang="ar">ماي ليتل بوني</title>
-  </programme>
-  <programme start="20200706190800 +0000" stop="20200706192100 +0000" channel="OSN Kid Zone TV">
-    <title lang="en">Thomas &amp; Friends</title>
-    <title lang="ar">توماس آند فريندز</title>
-  </programme>
-  <programme start="20200706192100 +0000" stop="20200706193400 +0000" channel="OSN Kid Zone TV">
-    <title lang="en">Thomas &amp; Friends</title>
-    <title lang="ar">توماس آند فريندز</title>
-  </programme>
-  <programme start="20200706193400 +0000" stop="20200706194700 +0000" channel="OSN Kid Zone TV">
-    <title lang="en">Justin Time</title>
-    <title lang="ar">جاستن تايم</title>
-  </programme>
-  <programme start="20200706194700 +0000" stop="20200706200000 +0000" channel="OSN Kid Zone TV">
-    <title lang="en">Justin Time</title>
-    <title lang="ar">جاستن تايم</title>
-  </programme>
-  <programme start="20200706200000 +0000" stop="20200706201400 +0000" channel="OSN Kid Zone TV">
-    <title lang="en">Lucky Fred</title>
-    <title lang="ar">لاكي فريد</title>
-  </programme>
-  <programme start="20200706201400 +0000" stop="20200706202700 +0000" channel="OSN Kid Zone TV">
-    <title lang="en">Lucky Fred</title>
-    <title lang="ar">لاكي فريد</title>
-  </programme>
-  <programme start="20200706202700 +0000" stop="20200706204000 +0000" channel="OSN Kid Zone TV">
-    <title lang="en">Talking Tom And Friends</title>
-    <title lang="ar">توكينغ توم آند فريندز</title>
-  </programme>
-  <programme start="20200706204000 +0000" stop="20200706205200 +0000" channel="OSN Kid Zone TV">
-    <title lang="en">Talking Tom And Friends</title>
-    <title lang="ar">توكينغ توم آند فريندز</title>
-  </programme>
-  <programme start="20200706205200 +0000" stop="20200706211600 +0000" channel="OSN Kid Zone TV">
-    <title lang="en">Wishenpoof</title>
-    <title lang="ar">ويشنبوف</title>
-  </programme>
-  <programme start="20200706211600 +0000" stop="20200706212800 +0000" channel="OSN Kid Zone TV">
-    <title lang="en">Fireman Sam</title>
-    <title lang="ar">فايرمان سام</title>
-  </programme>
-  <programme start="20200706212800 +0000" stop="20200706214000 +0000" channel="OSN Kid Zone TV">
-    <title lang="en">Fireman Sam</title>
-    <title lang="ar">فايرمان سام</title>
-  </programme>
-  <programme start="20200706214000 +0000" stop="20200706220200 +0000" channel="OSN Kid Zone TV">
-    <title lang="en">Chuck And Friends</title>
-    <title lang="ar">تشاك آند فريندز</title>
-  </programme>
-  <programme start="20200706220200 +0000" stop="20200706222500 +0000" channel="OSN Kid Zone TV">
-    <title lang="en">My Little Pony</title>
-    <title lang="ar">ماي ليتل بوني</title>
-  </programme>
-  <programme start="20200706222500 +0000" stop="20200707020000 +0000" channel="OSN Kid Zone TV">
-    <title lang="en">Little Duck's Dream</title>
-    <title lang="ar">ليتل داكس دريم</title>
-  </programme>
-  <programme start="20200706033000 +0000" stop="20200706060000 +0000" channel="OSN News">
-    <title lang="en">NBC Meet The Press</title>
-    <title lang="ar">أن بي سي ميت ذا بريس</title>
-  </programme>
-  <programme start="20200706223000 +0000" stop="20200707033000 +0000" channel="OSN News">
-    <title lang="en">NBC Meet The Press</title>
-    <title lang="ar">أن بي سي ميت ذا بريس</title>
-  </programme>
-  <programme start="20200706000000 +0000" stop="20200706003000 +0000" channel="Sky News HD">
-    <title lang="en">Sky News</title>
-    <title lang="ar">سكاي نيوز</title>
-  </programme>
-  <programme start="20200706003000 +0000" stop="20200706010000 +0000" channel="Sky News HD">
-    <title lang="en">Sky News</title>
-    <title lang="ar">سكاي نيوز</title>
-  </programme>
-  <programme start="20200706010000 +0000" stop="20200706013000 +0000" channel="Sky News HD">
-    <title lang="en">Sky News</title>
-    <title lang="ar">سكاي نيوز</title>
-  </programme>
-  <programme start="20200706013000 +0000" stop="20200706020000 +0000" channel="Sky News HD">
-    <title lang="en">Sky News</title>
-    <title lang="ar">سكاي نيوز</title>
-  </programme>
-  <programme start="20200706020000 +0000" stop="20200706023000 +0000" channel="Sky News HD">
-    <title lang="en">Sky World News</title>
-    <title lang="ar">سكاي ورلد نيوز</title>
-  </programme>
-  <programme start="20200706023000 +0000" stop="20200706030000 +0000" channel="Sky News HD">
-    <title lang="en">Sky World Review &amp; Business Report</title>
-    <title lang="ar">سكاي ورلد ريفيو أند بيزنس ريبورت</title>
-  </programme>
-  <programme start="20200706030000 +0000" stop="20200706033000 +0000" channel="Sky News HD">
-    <title lang="en">Sky World News</title>
-    <title lang="ar">سكاي ورلد نيوز</title>
-  </programme>
-  <programme start="20200706033000 +0000" stop="20200706040000 +0000" channel="Sky News HD">
-    <title lang="en">Sky World Review &amp; Business Report</title>
-    <title lang="ar">سكاي ورلد ريفيو أند بيزنس ريبورت</title>
-  </programme>
-  <programme start="20200706040000 +0000" stop="20200706043000 +0000" channel="Sky News HD">
-    <title lang="en">Sky World News</title>
-    <title lang="ar">سكاي ورلد نيوز</title>
-  </programme>
-  <programme start="20200706043000 +0000" stop="20200706050000 +0000" channel="Sky News HD">
-    <title lang="en">Sophy Ridge On Sunday</title>
-    <title lang="ar">صوفي ريدج أون ساندي</title>
-  </programme>
-  <programme start="20200706050000 +0000" stop="20200706053000 +0000" channel="Sky News HD">
-    <title lang="en">The Early Rundown</title>
-    <title lang="ar">Sky News HD</title>
-  </programme>
-  <programme start="20200706053000 +0000" stop="20200706060000 +0000" channel="Sky News HD">
-    <title lang="en">The Early Rundown</title>
-    <title lang="ar">Sky News HD</title>
-  </programme>
-  <programme start="20200706060000 +0000" stop="20200706063000 +0000" channel="Sky News HD">
-    <title lang="en">Kay Burley @ Breakfast</title>
-    <title lang="ar">Sky News HD</title>
-  </programme>
-  <programme start="20200706063000 +0000" stop="20200706070000 +0000" channel="Sky News HD">
-    <title lang="en">Kay Burley @ Breakfast</title>
-    <title lang="ar">Sky News HD</title>
-  </programme>
-  <programme start="20200706070000 +0000" stop="20200706073000 +0000" channel="Sky News HD">
-    <title lang="en">Kay Burley @ Breakfast</title>
-    <title lang="ar">Sky News HD</title>
-  </programme>
-  <programme start="20200706073000 +0000" stop="20200706080000 +0000" channel="Sky News HD">
-    <title lang="en">Kay Burley @ Breakfast</title>
-    <title lang="ar">Sky News HD</title>
-  </programme>
-  <programme start="20200706080000 +0000" stop="20200706083000 +0000" channel="Sky News HD">
-    <title lang="en">Kay Burley @ Breakfast</title>
-    <title lang="ar">Sky News HD</title>
-  </programme>
-  <programme start="20200706083000 +0000" stop="20200706090000 +0000" channel="Sky News HD">
-    <title lang="en">Ian King Live</title>
-    <title lang="ar">إيان كينغ لايف</title>
-  </programme>
-  <programme start="20200706090000 +0000" stop="20200706093000 +0000" channel="Sky News HD">
-    <title lang="en">Sky News With Adam Boulton</title>
-    <title lang="ar">Sky News HD</title>
-  </programme>
-  <programme start="20200706093000 +0000" stop="20200706100000 +0000" channel="Sky News HD">
-    <title lang="en">Sky News With Adam Boulton</title>
-    <title lang="ar">Sky News HD</title>
-  </programme>
-  <programme start="20200706100000 +0000" stop="20200706103000 +0000" channel="Sky News HD">
-    <title lang="en">Sky News With Adam Boulton</title>
-    <title lang="ar">Sky News HD</title>
-  </programme>
-  <programme start="20200706103000 +0000" stop="20200706110000 +0000" channel="Sky News HD">
-    <title lang="en">Sky News With Adam Boulton</title>
-    <title lang="ar">Sky News HD</title>
-  </programme>
-  <programme start="20200706110000 +0000" stop="20200706113000 +0000" channel="Sky News HD">
-    <title lang="en">Sky News Today</title>
-    <title lang="ar">سكاي نيوز توداي</title>
-  </programme>
-  <programme start="20200706113000 +0000" stop="20200706120000 +0000" channel="Sky News HD">
-    <title lang="en">Sky News Today</title>
-    <title lang="ar">سكاي نيوز توداي</title>
-  </programme>
-  <programme start="20200706120000 +0000" stop="20200706123000 +0000" channel="Sky News HD">
-    <title lang="en">Sky News Today</title>
-    <title lang="ar">سكاي نيوز توداي</title>
-  </programme>
-  <programme start="20200706123000 +0000" stop="20200706130000 +0000" channel="Sky News HD">
-    <title lang="en">Ian King Live</title>
-    <title lang="ar">إيان كينغ لايف</title>
-  </programme>
-  <programme start="20200706130000 +0000" stop="20200706133000 +0000" channel="Sky News HD">
-    <title lang="en">Sky News Today</title>
-    <title lang="ar">سكاي نيوز توداي</title>
-  </programme>
-  <programme start="20200706133000 +0000" stop="20200706140000 +0000" channel="Sky News HD">
-    <title lang="en">Sky News Today</title>
-    <title lang="ar">سكاي نيوز توداي</title>
-  </programme>
-  <programme start="20200706140000 +0000" stop="20200706143000 +0000" channel="Sky News HD">
-    <title lang="en">Sky News Today</title>
-    <title lang="ar">سكاي نيوز توداي</title>
-  </programme>
-  <programme start="20200706143000 +0000" stop="20200706150000 +0000" channel="Sky News HD">
-    <title lang="en">Sky News Today</title>
-    <title lang="ar">سكاي نيوز توداي</title>
-  </programme>
-  <programme start="20200706150000 +0000" stop="20200706153000 +0000" channel="Sky News HD">
-    <title lang="en">Sky News Today</title>
-    <title lang="ar">سكاي نيوز توداي</title>
-  </programme>
-  <programme start="20200706153000 +0000" stop="20200706160000 +0000" channel="Sky News HD">
-    <title lang="en">Sky News Today</title>
-    <title lang="ar">سكاي نيوز توداي</title>
-  </programme>
-  <programme start="20200706160000 +0000" stop="20200706163000 +0000" channel="Sky News HD">
-    <title lang="en">Virus Pandemic: Global Emergency</title>
-    <title lang="ar">Sky News HD</title>
-  </programme>
-  <programme start="20200706163000 +0000" stop="20200706170000 +0000" channel="Sky News HD">
-    <title lang="en">Virus Pandemic: Global Emergency</title>
-    <title lang="ar">Sky News HD</title>
-  </programme>
-  <programme start="20200706170000 +0000" stop="20200706173000 +0000" channel="Sky News HD">
-    <title lang="en">Virus Pandemic: Global Emergency</title>
-    <title lang="ar">Sky News HD</title>
-  </programme>
-  <programme start="20200706173000 +0000" stop="20200706180000 +0000" channel="Sky News HD">
-    <title lang="en">Virus Pandemic: Global Emergency</title>
-    <title lang="ar">Sky News HD</title>
-  </programme>
-  <programme start="20200706180000 +0000" stop="20200706183000 +0000" channel="Sky News HD">
-    <title lang="en">Sky News Tonight</title>
-    <title lang="ar">سكاي نيوز تونايت</title>
-  </programme>
-  <programme start="20200706183000 +0000" stop="20200706190000 +0000" channel="Sky News HD">
-    <title lang="en">Sky News Tonight</title>
-    <title lang="ar">سكاي نيوز تونايت</title>
-  </programme>
-  <programme start="20200706190000 +0000" stop="20200706193000 +0000" channel="Sky News HD">
-    <title lang="en">Sky News Tonight</title>
-    <title lang="ar">سكاي نيوز تونايت</title>
-  </programme>
-  <programme start="20200706193000 +0000" stop="20200706200000 +0000" channel="Sky News HD">
-    <title lang="en">Sky News Tonight</title>
-    <title lang="ar">سكاي نيوز تونايت</title>
-  </programme>
-  <programme start="20200706200000 +0000" stop="20200706203000 +0000" channel="Sky News HD">
-    <title lang="en">Sky News At Nine</title>
-    <title lang="ar">سكاي نيوز آت 9</title>
-  </programme>
-  <programme start="20200706203000 +0000" stop="20200706210000 +0000" channel="Sky News HD">
-    <title lang="en">Sky News At Nine</title>
-    <title lang="ar">سكاي نيوز آت 9</title>
-  </programme>
-  <programme start="20200706210000 +0000" stop="20200706213000 +0000" channel="Sky News HD">
-    <title lang="en">Sky News At Ten</title>
-    <title lang="ar">سكاي نيوز آت تن</title>
-  </programme>
-  <programme start="20200706213000 +0000" stop="20200706220000 +0000" channel="Sky News HD">
-    <title lang="en">Press Preview</title>
-    <title lang="ar">بريس بريفيو</title>
-  </programme>
-  <programme start="20200706220000 +0000" stop="20200706223000 +0000" channel="Sky News HD">
-    <title lang="en">Sky News</title>
-    <title lang="ar">سكاي نيوز</title>
-  </programme>
-  <programme start="20200706223000 +0000" stop="20200706230000 +0000" channel="Sky News HD">
-    <title lang="en">Press Preview</title>
-    <title lang="ar">بريس بريفيو</title>
-  </programme>
-  <programme start="20200706230000 +0000" stop="20200706233000 +0000" channel="Sky News HD">
-    <title lang="en">Sky News</title>
-    <title lang="ar">سكاي نيوز</title>
-  </programme>
-  <programme start="20200706233000 +0000" stop="20200707000000 +0000" channel="Sky News HD">
-    <title lang="en">Sky News</title>
-    <title lang="ar">سكاي نيوز</title>
-  </programme>
-  <programme start="20200706000000 +0000" stop="20200706060000 +0000" channel="BBC World">
-    <title lang="en">BBC World</title>
-    <title lang="ar">بي بي سي الإخبارية</title>
-  </programme>
-  <programme start="20200706060000 +0000" stop="20200706120000 +0000" channel="BBC World">
-    <title lang="en">BBC World</title>
-    <title lang="ar">بي بي سي الإخبارية</title>
-  </programme>
-  <programme start="20200706120000 +0000" stop="20200706180000 +0000" channel="BBC World">
-    <title lang="en">BBC World</title>
-    <title lang="ar">بي بي سي الإخبارية</title>
-  </programme>
-  <programme start="20200706180000 +0000" stop="20200707000000 +0000" channel="BBC World">
-    <title lang="en">BBC World</title>
-    <title lang="ar">بي بي سي الإخبارية</title>
-  </programme>
-  <programme start="20200706000000 +0000" stop="20200706002000 +0000" channel="Discovery HD">
-    <title lang="en">Ant Anstead Master Mechanic</title>
-    <title lang="ar">Discovery Channel HD</title>
-  </programme>
-  <programme start="20200706002000 +0000" stop="20200706010500 +0000" channel="Discovery HD">
-    <title lang="en">Kindig Customs</title>
-    <title lang="ar">كندينغ كاستومس</title>
-  </programme>
-  <programme start="20200706010500 +0000" stop="20200706015000 +0000" channel="Discovery HD">
-    <title lang="en">Rob Riggle: Global Investigator</title>
-    <title lang="ar">Discovery Channel HD</title>
-  </programme>
-  <programme start="20200706015000 +0000" stop="20200706021500 +0000" channel="Discovery HD">
-    <title lang="en">How It's Made</title>
-    <title lang="ar">هاو اتس ميد</title>
-  </programme>
-  <programme start="20200706021500 +0000" stop="20200706023500 +0000" channel="Discovery HD">
-    <title lang="en">How It's Made</title>
-    <title lang="ar">هاو اتس ميد</title>
-  </programme>
-  <programme start="20200706023500 +0000" stop="20200706030000 +0000" channel="Discovery HD">
-    <title lang="en">How It's Made</title>
-    <title lang="ar">هاو اتس ميد</title>
-  </programme>
-  <programme start="20200706030000 +0000" stop="20200706032500 +0000" channel="Discovery HD">
-    <title lang="en">How It's Made</title>
-    <title lang="ar">هاو اتس ميد</title>
-  </programme>
-  <programme start="20200706032500 +0000" stop="20200706034500 +0000" channel="Discovery HD">
-    <title lang="en">How It's Made</title>
-    <title lang="ar">هاو اتس ميد</title>
-  </programme>
-  <programme start="20200706034500 +0000" stop="20200706041000 +0000" channel="Discovery HD">
-    <title lang="en">How It's Made</title>
-    <title lang="ar">هاو اتس ميد</title>
-  </programme>
-  <programme start="20200706041000 +0000" stop="20200706043500 +0000" channel="Discovery HD">
-    <title lang="en">How It's Made</title>
-    <title lang="ar">هاو اتس ميد</title>
-  </programme>
-  <programme start="20200706043500 +0000" stop="20200706052000 +0000" channel="Discovery HD">
-    <title lang="en">Deadliest Catch</title>
-    <title lang="ar">دادلياست كاتش</title>
-  </programme>
-  <programme start="20200706052000 +0000" stop="20200706061000 +0000" channel="Discovery HD">
-    <title lang="en">Gold Rush</title>
-    <title lang="ar">غولد راش</title>
-  </programme>
-  <programme start="20200706061000 +0000" stop="20200706065500 +0000" channel="Discovery HD">
-    <title lang="en">Homestead Rescue</title>
-    <title lang="ar">هومستاد ريسكيو</title>
-  </programme>
-  <programme start="20200706065500 +0000" stop="20200706074500 +0000" channel="Discovery HD">
-    <title lang="en">Salvage Hunters</title>
-    <title lang="ar">سالفدج هانترز</title>
-  </programme>
-  <programme start="20200706074500 +0000" stop="20200706081000 +0000" channel="Discovery HD">
-    <title lang="en">How It's Made</title>
-    <title lang="ar">هاو اتس ميد</title>
-  </programme>
-  <programme start="20200706081000 +0000" stop="20200706083000 +0000" channel="Discovery HD">
-    <title lang="en">How It's Made</title>
-    <title lang="ar">هاو اتس ميد</title>
-  </programme>
-  <programme start="20200706083000 +0000" stop="20200706092000 +0000" channel="Discovery HD">
-    <title lang="en">Kindig Customs</title>
-    <title lang="ar">كندينغ كاستومس</title>
-  </programme>
-  <programme start="20200706092000 +0000" stop="20200706100500 +0000" channel="Discovery HD">
-    <title lang="en">Railroad Alaska</title>
-    <title lang="ar">ريلرود ألاسكا</title>
-  </programme>
-  <programme start="20200706100500 +0000" stop="20200706105500 +0000" channel="Discovery HD">
-    <title lang="en">Alaskan Bush People</title>
-    <title lang="ar">ألاسكان بوش بيبول</title>
-  </programme>
-  <programme start="20200706105500 +0000" stop="20200706114000 +0000" channel="Discovery HD">
-    <title lang="en">Rob Riggle: Global Investigator</title>
-    <title lang="ar">Discovery Channel HD</title>
-  </programme>
-  <programme start="20200706114000 +0000" stop="20200706123000 +0000" channel="Discovery HD">
-    <title lang="en">Building Off The Grid</title>
-    <title lang="ar">بيلدنغ أوف ذا غريد</title>
-  </programme>
-  <programme start="20200706123000 +0000" stop="20200706131500 +0000" channel="Discovery HD">
-    <title lang="en">What On Earth?</title>
-    <title lang="ar">وات أون أيرث؟</title>
-  </programme>
-  <programme start="20200706131500 +0000" stop="20200706134000 +0000" channel="Discovery HD">
-    <title lang="en">Mike Brewer's World Of Cars</title>
-    <title lang="ar">Discovery Channel HD</title>
-  </programme>
-  <programme start="20200706134000 +0000" stop="20200706140500 +0000" channel="Discovery HD">
-    <title lang="en">Mike Brewer's World Of Cars</title>
-    <title lang="ar">Discovery Channel HD</title>
-  </programme>
-  <programme start="20200706140500 +0000" stop="20200706145000 +0000" channel="Discovery HD">
-    <title lang="en">Alaskan Bush People</title>
-    <title lang="ar">ألاسكان بوش بيبول</title>
-  </programme>
-  <programme start="20200706145000 +0000" stop="20200706154000 +0000" channel="Discovery HD">
-    <title lang="en">Gold Rush</title>
-    <title lang="ar">غولد راش</title>
-  </programme>
-  <programme start="20200706154000 +0000" stop="20200706160500 +0000" channel="Discovery HD">
-    <title lang="en">How It's Made</title>
-    <title lang="ar">هاو اتس ميد</title>
-  </programme>
-  <programme start="20200706160500 +0000" stop="20200706162500 +0000" channel="Discovery HD">
-    <title lang="en">How It's Made</title>
-    <title lang="ar">هاو اتس ميد</title>
-  </programme>
-  <programme start="20200706162500 +0000" stop="20200706171500 +0000" channel="Discovery HD">
-    <title lang="en">Kindig Customs</title>
-    <title lang="ar">كندينغ كاستومس</title>
-  </programme>
-  <programme start="20200706171500 +0000" stop="20200706180000 +0000" channel="Discovery HD">
-    <title lang="en">Kindig Customs</title>
-    <title lang="ar">كندينغ كاستومس</title>
-  </programme>
-  <programme start="20200706180000 +0000" stop="20200706185000 +0000" channel="Discovery HD">
-    <title lang="en">Deadliest Catch</title>
-    <title lang="ar">دادلياست كاتش</title>
-  </programme>
-  <programme start="20200706185000 +0000" stop="20200706194000 +0000" channel="Discovery HD">
-    <title lang="en">Deadliest Catch: Bloodline</title>
-    <title lang="ar">Discovery Channel HD</title>
-  </programme>
-  <programme start="20200706194000 +0000" stop="20200706203000 +0000" channel="Discovery HD">
-    <title lang="en">Gold Rush: Parker's Trail</title>
-    <title lang="ar">غولد رش: باركرز تريل</title>
-  </programme>
-  <programme start="20200706203000 +0000" stop="20200706211500 +0000" channel="Discovery HD">
-    <title lang="en">Deadliest Catch</title>
-    <title lang="ar">دادلياست كاتش</title>
-  </programme>
-  <programme start="20200706211500 +0000" stop="20200706220500 +0000" channel="Discovery HD">
-    <title lang="en">Marooned With Ed Stafford</title>
-    <title lang="ar">ماروند ويذ إد ستافورد</title>
-  </programme>
-  <programme start="20200706220500 +0000" stop="20200706223000 +0000" channel="Discovery HD">
-    <title lang="en">Chasing Classic Cars</title>
-    <title lang="ar">تشيزينغ كلاسيك كارز</title>
-  </programme>
-  <programme start="20200706223000 +0000" stop="20200706225000 +0000" channel="Discovery HD">
-    <title lang="en">Chasing Classic Cars</title>
-    <title lang="ar">تشيزينغ كلاسيك كارز</title>
-  </programme>
-  <programme start="20200706225000 +0000" stop="20200706231500 +0000" channel="Discovery HD">
-    <title lang="en">Mike Brewer's World Of Cars</title>
-    <title lang="ar">Discovery Channel HD</title>
-  </programme>
-  <programme start="20200706231500 +0000" stop="20200706233500 +0000" channel="Discovery HD">
-    <title lang="en">Mike Brewer's World Of Cars</title>
-    <title lang="ar">Discovery Channel HD</title>
-  </programme>
-  <programme start="20200706233500 +0000" stop="20200707000000 +0000" channel="Discovery HD">
-    <title lang="en">Ant Anstead Master Mechanic</title>
-    <title lang="ar">Discovery Channel HD</title>
-  </programme>
-  <programme start="20200706001000 +0000" stop="20200706003300 +0000" channel="NickToons">
-    <title lang="en">SpongeBob SquarePants</title>
-    <title lang="ar">سبونجبوب سكويربانتس</title>
-  </programme>
-  <programme start="20200706003300 +0000" stop="20200706005600 +0000" channel="NickToons">
-    <title lang="en">Sanjay &amp; Craig</title>
-    <title lang="ar">سانجاي آند كريغ</title>
-  </programme>
-  <programme start="20200706005600 +0000" stop="20200706011800 +0000" channel="NickToons">
-    <title lang="en">Sanjay &amp; Craig</title>
-    <title lang="ar">سانجاي آند كريغ</title>
-  </programme>
-  <programme start="20200706011800 +0000" stop="20200706014100 +0000" channel="NickToons">
-    <title lang="en">The Penguins Of Madagascar</title>
-    <title lang="ar">ذا بنغوينز أوف مدكشقر</title>
-  </programme>
-  <programme start="20200706014100 +0000" stop="20200706020300 +0000" channel="NickToons">
-    <title lang="en">The Penguins Of Madagascar</title>
-    <title lang="ar">ذا بنغوينز أوف مدكشقر</title>
-  </programme>
-  <programme start="20200706020300 +0000" stop="20200706022500 +0000" channel="NickToons">
-    <title lang="en">SpongeBob SquarePants</title>
-    <title lang="ar">سبونجبوب سكويربانتس</title>
-  </programme>
-  <programme start="20200706022500 +0000" stop="20200706024800 +0000" channel="NickToons">
-    <title lang="en">SpongeBob SquarePants</title>
-    <title lang="ar">سبونجبوب سكويربانتس</title>
-  </programme>
-  <programme start="20200706024800 +0000" stop="20200706030000 +0000" channel="NickToons">
-    <title lang="en">SpongeBob SquarePants</title>
-    <title lang="ar">سبونجبوب سكويربانتس</title>
-  </programme>
-  <programme start="20200706030000 +0000" stop="20200706032200 +0000" channel="NickToons">
-    <title lang="en">SpongeBob SquarePants</title>
-    <title lang="ar">سبونجبوب سكويربانتس</title>
-  </programme>
-  <programme start="20200706032200 +0000" stop="20200706034400 +0000" channel="NickToons">
-    <title lang="en">SpongeBob SquarePants</title>
-    <title lang="ar">سبونجبوب سكويربانتس</title>
-  </programme>
-  <programme start="20200706034400 +0000" stop="20200706040700 +0000" channel="NickToons">
-    <title lang="en">Teenage Mutant Ninja Turtles</title>
-    <title lang="ar">تينيج ميوتانت نينجا تيرتلز</title>
-  </programme>
-  <programme start="20200706040700 +0000" stop="20200706042900 +0000" channel="NickToons">
-    <title lang="en">Teenage Mutant Ninja Turtles</title>
-    <title lang="ar">تينيج ميوتانت نينجا تيرتلز</title>
-  </programme>
-  <programme start="20200706042900 +0000" stop="20200706044100 +0000" channel="NickToons">
-    <title lang="en">Alvinnn!!! And The Chipmunks</title>
-    <title lang="ar">ألفين! آند ذا شيبمونكس</title>
-  </programme>
-  <programme start="20200706044100 +0000" stop="20200706045400 +0000" channel="NickToons">
-    <title lang="en">Alvinnn!!! And The Chipmunks</title>
-    <title lang="ar">ألفين! آند ذا شيبمونكس</title>
-  </programme>
-  <programme start="20200706045400 +0000" stop="20200706050700 +0000" channel="NickToons">
-    <title lang="en">Alvinnn!!! And The Chipmunks</title>
-    <title lang="ar">ألفين! آند ذا شيبمونكس</title>
-  </programme>
-  <programme start="20200706050700 +0000" stop="20200706053000 +0000" channel="NickToons">
-    <title lang="en">The Penguins Of Madagascar</title>
-    <title lang="ar">ذا بنغوينز أوف مدكشقر</title>
-  </programme>
-  <programme start="20200706053000 +0000" stop="20200706055300 +0000" channel="NickToons">
-    <title lang="en">The Penguins Of Madagascar</title>
-    <title lang="ar">ذا بنغوينز أوف مدكشقر</title>
-  </programme>
-  <programme start="20200706055300 +0000" stop="20200706061600 +0000" channel="NickToons">
-    <title lang="en">The Loud House</title>
-    <title lang="ar">ذا لاود هاوس</title>
-  </programme>
-  <programme start="20200706061600 +0000" stop="20200706063700 +0000" channel="NickToons">
-    <title lang="en">The Casagrandes</title>
-    <title lang="ar">ذا كازاغراندز</title>
-  </programme>
-  <programme start="20200706063700 +0000" stop="20200706070000 +0000" channel="NickToons">
-    <title lang="en">SpongeBob SquarePants</title>
-    <title lang="ar">سبونجبوب سكويربانتس</title>
-  </programme>
-  <programme start="20200706070000 +0000" stop="20200706071900 +0000" channel="NickToons">
-    <title lang="en">SpongeBob SquarePants</title>
-    <title lang="ar">سبونجبوب سكويربانتس</title>
-  </programme>
-  <programme start="20200706071900 +0000" stop="20200706073000 +0000" channel="NickToons">
-    <title lang="en">City Adventures</title>
-    <title lang="ar">سيتي أدفنشرز</title>
-  </programme>
-  <programme start="20200706073000 +0000" stop="20200706074100 +0000" channel="NickToons">
-    <title lang="en">Breadwinners</title>
-    <title lang="ar">بريدوينرز</title>
-  </programme>
-  <programme start="20200706074100 +0000" stop="20200706080400 +0000" channel="NickToons">
-    <title lang="en">Breadwinners</title>
-    <title lang="ar">بريدوينرز</title>
-  </programme>
-  <programme start="20200706080400 +0000" stop="20200706081500 +0000" channel="NickToons">
-    <title lang="en">The Adventures Of Kid Danger</title>
-    <title lang="ar">ذا أدفنشرز أوف كيد دينجر</title>
-  </programme>
-  <programme start="20200706081500 +0000" stop="20200706083800 +0000" channel="NickToons">
-    <title lang="en">Rainbow Butterfly Unicorn Kitty</title>
-    <title lang="ar">رينبو باترفلاي يونيكورن كيتي</title>
-  </programme>
-  <programme start="20200706083800 +0000" stop="20200706090000 +0000" channel="NickToons">
-    <title lang="en">Kung Fu Panda: Legends Of Awesomeness</title>
-    <title lang="ar">كونغ فو باندا: ليجندز أوف اوسمنيس</title>
-  </programme>
-  <programme start="20200706090000 +0000" stop="20200706092200 +0000" channel="NickToons">
-    <title lang="en">Kung Fu Panda: Legends Of Awesomeness</title>
-    <title lang="ar">كونغ فو باندا: ليجندز أوف اوسمنيس</title>
-  </programme>
-  <programme start="20200706092200 +0000" stop="20200706094500 +0000" channel="NickToons">
-    <title lang="en">Sanjay &amp; Craig</title>
-    <title lang="ar">سانجاي آند كريغ</title>
-  </programme>
-  <programme start="20200706094500 +0000" stop="20200706100500 +0000" channel="NickToons">
-    <title lang="en">Sanjay &amp; Craig</title>
-    <title lang="ar">سانجاي آند كريغ</title>
-  </programme>
-  <programme start="20200706100500 +0000" stop="20200706102800 +0000" channel="NickToons">
-    <title lang="en">Teenage Mutant Ninja Turtles</title>
-    <title lang="ar">تينيج ميوتانت نينجا تيرتلز</title>
-  </programme>
-  <programme start="20200706102800 +0000" stop="20200706105100 +0000" channel="NickToons">
-    <title lang="en">Teenage Mutant Ninja Turtles</title>
-    <title lang="ar">تينيج ميوتانت نينجا تيرتلز</title>
-  </programme>
-  <programme start="20200706105100 +0000" stop="20200706111300 +0000" channel="NickToons">
-    <title lang="en">SpongeBob SquarePants</title>
-    <title lang="ar">سبونجبوب سكويربانتس</title>
-  </programme>
-  <programme start="20200706111300 +0000" stop="20200706113700 +0000" channel="NickToons">
-    <title lang="en">SpongeBob SquarePants</title>
-    <title lang="ar">سبونجبوب سكويربانتس</title>
-  </programme>
-  <programme start="20200706113700 +0000" stop="20200706114900 +0000" channel="NickToons">
-    <title lang="en">Alvinnn!!! And The Chipmunks</title>
-    <title lang="ar">ألفين! آند ذا شيبمونكس</title>
-  </programme>
-  <programme start="20200706114900 +0000" stop="20200706121100 +0000" channel="NickToons">
-    <title lang="en">The Fairly OddParents</title>
-    <title lang="ar">ذا فيرلي أود بيرنتس</title>
-  </programme>
-  <programme start="20200706121100 +0000" stop="20200706123500 +0000" channel="NickToons">
-    <title lang="en">The Fairly OddParents</title>
-    <title lang="ar">ذا فيرلي أود بيرنتس</title>
-  </programme>
-  <programme start="20200706123500 +0000" stop="20200706130000 +0000" channel="NickToons">
-    <title lang="en">Kung Fu Panda: Legends Of Awesomeness</title>
-    <title lang="ar">كونغ فو باندا: ليجندز أوف اوسمنيس</title>
-  </programme>
-  <programme start="20200706130000 +0000" stop="20200706132200 +0000" channel="NickToons">
-    <title lang="en">The Penguins Of Madagascar</title>
-    <title lang="ar">ذا بنغوينز أوف مدكشقر</title>
-  </programme>
-  <programme start="20200706132200 +0000" stop="20200706134400 +0000" channel="NickToons">
-    <title lang="en">The Penguins Of Madagascar</title>
-    <title lang="ar">ذا بنغوينز أوف مدكشقر</title>
-  </programme>
-  <programme start="20200706134400 +0000" stop="20200706135600 +0000" channel="NickToons">
-    <title lang="en">Alvinnn!!! And The Chipmunks</title>
-    <title lang="ar">ألفين! آند ذا شيبمونكس</title>
-  </programme>
-  <programme start="20200706135600 +0000" stop="20200706140700 +0000" channel="NickToons">
-    <title lang="en">Alvinnn!!! And The Chipmunks</title>
-    <title lang="ar">ألفين! آند ذا شيبمونكس</title>
-  </programme>
-  <programme start="20200706140700 +0000" stop="20200706143000 +0000" channel="NickToons">
-    <title lang="en">The Loud House</title>
-    <title lang="ar">ذا لاود هاوس</title>
-  </programme>
-  <programme start="20200706143000 +0000" stop="20200706145300 +0000" channel="NickToons">
-    <title lang="en">The Casagrandes</title>
-    <title lang="ar">ذا كازاغراندز</title>
-  </programme>
-  <programme start="20200706145300 +0000" stop="20200706151700 +0000" channel="NickToons">
-    <title lang="en">SpongeBob SquarePants</title>
-    <title lang="ar">سبونجبوب سكويربانتس</title>
-  </programme>
-  <programme start="20200706151700 +0000" stop="20200706152900 +0000" channel="NickToons">
-    <title lang="en">SpongeBob SquarePants</title>
-    <title lang="ar">سبونجبوب سكويربانتس</title>
-  </programme>
-  <programme start="20200706153800 +0000" stop="20200706160000 +0000" channel="NickToons">
-    <title lang="en">Rainbow Butterfly Unicorn Kitty</title>
-    <title lang="ar">رينبو باترفلاي يونيكورن كيتي</title>
-  </programme>
-  <programme start="20200706160000 +0000" stop="20200706162300 +0000" channel="NickToons">
-    <title lang="en">Breadwinners</title>
-    <title lang="ar">بريدوينرز</title>
-  </programme>
-  <programme start="20200706162300 +0000" stop="20200706163500 +0000" channel="NickToons">
-    <title lang="en">Breadwinners</title>
-    <title lang="ar">بريدوينرز</title>
-  </programme>
-  <programme start="20200706163500 +0000" stop="20200706165600 +0000" channel="NickToons">
-    <title lang="en">The Fairly OddParents</title>
-    <title lang="ar">ذا فيرلي أود بيرنتس</title>
-  </programme>
-  <programme start="20200706165600 +0000" stop="20200706171800 +0000" channel="NickToons">
-    <title lang="en">The Fairly OddParents</title>
-    <title lang="ar">ذا فيرلي أود بيرنتس</title>
-  </programme>
-  <programme start="20200706171800 +0000" stop="20200706174000 +0000" channel="NickToons">
-    <title lang="en">The Loud House</title>
-    <title lang="ar">ذا لاود هاوس</title>
-  </programme>
-  <programme start="20200706174000 +0000" stop="20200706180000 +0000" channel="NickToons">
-    <title lang="en">The Loud House</title>
-    <title lang="ar">ذا لاود هاوس</title>
-  </programme>
-  <programme start="20200706180000 +0000" stop="20200706182200 +0000" channel="NickToons">
-    <title lang="en">SpongeBob SquarePants</title>
-    <title lang="ar">سبونجبوب سكويربانتس</title>
-  </programme>
-  <programme start="20200706182200 +0000" stop="20200706184400 +0000" channel="NickToons">
-    <title lang="en">SpongeBob SquarePants</title>
-    <title lang="ar">سبونجبوب سكويربانتس</title>
-  </programme>
-  <programme start="20200706184400 +0000" stop="20200706190600 +0000" channel="NickToons">
-    <title lang="en">Avatar: The Legend Of Aang</title>
-    <title lang="ar">أفاتار: ذا ليجند أوف آنغ</title>
-  </programme>
-  <programme start="20200706190600 +0000" stop="20200706192800 +0000" channel="NickToons">
-    <title lang="en">Avatar: The Legend Of Aang</title>
-    <title lang="ar">أفاتار: ذا ليجند أوف آنغ</title>
-  </programme>
-  <programme start="20200706192800 +0000" stop="20200706194900 +0000" channel="NickToons">
-    <title lang="en">Kung Fu Panda: Legends Of Awesomeness</title>
-    <title lang="ar">كونغ فو باندا: ليجندز أوف اوسمنيس</title>
-  </programme>
-  <programme start="20200706194900 +0000" stop="20200706201100 +0000" channel="NickToons">
-    <title lang="en">Kung Fu Panda: Legends Of Awesomeness</title>
-    <title lang="ar">كونغ فو باندا: ليجندز أوف اوسمنيس</title>
-  </programme>
-  <programme start="20200706201100 +0000" stop="20200706202400 +0000" channel="NickToons">
-    <title lang="en">Alvinnn!!! And The Chipmunks</title>
-    <title lang="ar">ألفين! آند ذا شيبمونكس</title>
-  </programme>
-  <programme start="20200706202400 +0000" stop="20200706203500 +0000" channel="NickToons">
-    <title lang="en">Alvinnn!!! And The Chipmunks</title>
-    <title lang="ar">ألفين! آند ذا شيبمونكس</title>
-  </programme>
-  <programme start="20200706203500 +0000" stop="20200706204700 +0000" channel="NickToons">
-    <title lang="en">Alvinnn!!! And The Chipmunks</title>
-    <title lang="ar">ألفين! آند ذا شيبمونكس</title>
-  </programme>
-  <programme start="20200706204800 +0000" stop="20200706211000 +0000" channel="NickToons">
-    <title lang="en">The Adventures Of Kid Danger</title>
-    <title lang="ar">ذا أدفنشرز أوف كيد دينجر</title>
-  </programme>
-  <programme start="20200706211000 +0000" stop="20200706213200 +0000" channel="NickToons">
-    <title lang="en">The Casagrandes</title>
-    <title lang="ar">ذا كازاغراندز</title>
-  </programme>
-  <programme start="20200706213200 +0000" stop="20200706215500 +0000" channel="NickToons">
-    <title lang="en">The Casagrandes</title>
-    <title lang="ar">ذا كازاغراندز</title>
-  </programme>
-  <programme start="20200706215500 +0000" stop="20200706221600 +0000" channel="NickToons">
-    <title lang="en">The Loud House</title>
-    <title lang="ar">ذا لاود هاوس</title>
-  </programme>
-  <programme start="20200706221600 +0000" stop="20200706224000 +0000" channel="NickToons">
-    <title lang="en">The Loud House</title>
-    <title lang="ar">ذا لاود هاوس</title>
-  </programme>
-  <programme start="20200706224000 +0000" stop="20200706230200 +0000" channel="NickToons">
-    <title lang="en">The Casagrandes</title>
-    <title lang="ar">ذا كازاغراندز</title>
-  </programme>
-  <programme start="20200706230200 +0000" stop="20200706232500 +0000" channel="NickToons">
-    <title lang="en">The Casagrandes</title>
-    <title lang="ar">ذا كازاغراندز</title>
-  </programme>
-  <programme start="20200706232500 +0000" stop="20200706234800 +0000" channel="NickToons">
-    <title lang="en">The Loud House</title>
-    <title lang="ar">ذا لاود هاوس</title>
-  </programme>
-  <programme start="20200706234800 +0000" stop="20200707001000 +0000" channel="NickToons">
-    <title lang="en">The Loud House</title>
-    <title lang="ar">ذا لاود هاوس</title>
+  <channel id="ANC">
+    <display-name lang="en">ANC</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/ANC.png" />
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="DZMM Teleradyo">
+    <display-name lang="en">DZMM Teleradyo</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/DZM.png" />
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="DWRR 101.9">
+    <display-name lang="en">DWRR 101.9</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/DWR.png" />
+    <url>http://www.osn.com</url>
+  </channel>
+  <programme start="20200707000000 +0000" stop="20200707060000 +0000" channel="Dubai Racing 1 HD">
+    <title lang="en">Dubai Racing 1 HD</title>
+    <title lang="ar">دبي ريسنج 1 HD</title>
+  </programme>
+  <programme start="20200707060000 +0000" stop="20200707120000 +0000" channel="Dubai Racing 1 HD">
+    <title lang="en">Dubai Racing 1 HD</title>
+    <title lang="ar">دبي ريسنج 1 HD</title>
+  </programme>
+  <programme start="20200707120000 +0000" stop="20200707180000 +0000" channel="Dubai Racing 1 HD">
+    <title lang="en">Dubai Racing 1 HD</title>
+    <title lang="ar">دبي ريسنج 1 HD</title>
+  </programme>
+  <programme start="20200707180000 +0000" stop="20200708000000 +0000" channel="Dubai Racing 1 HD">
+    <title lang="en">Dubai Racing 1 HD</title>
+    <title lang="ar">دبي ريسنج 1 HD</title>
+  </programme>
+  <programme start="20200707000000 +0000" stop="20200707060000 +0000" channel="Al Wosta from Al Dhaid">
+    <title lang="en">Al Wosta Al Dhaid HD</title>
+    <title lang="ar">قناة الوسطى من الذيد</title>
+  </programme>
+  <programme start="20200707060000 +0000" stop="20200707120000 +0000" channel="Al Wosta from Al Dhaid">
+    <title lang="en">Al Wosta Al Dhaid HD</title>
+    <title lang="ar">قناة الوسطى من الذيد</title>
+  </programme>
+  <programme start="20200707120000 +0000" stop="20200707180000 +0000" channel="Al Wosta from Al Dhaid">
+    <title lang="en">Al Wosta Al Dhaid HD</title>
+    <title lang="ar">قناة الوسطى من الذيد</title>
+  </programme>
+  <programme start="20200707180000 +0000" stop="20200708000000 +0000" channel="Al Wosta from Al Dhaid">
+    <title lang="en">Al Wosta Al Dhaid HD</title>
+    <title lang="ar">قناة الوسطى من الذيد</title>
+  </programme>
+  <programme start="20200707000000 +0000" stop="20200707060000 +0000" channel="KTV Sport HD">
+    <title lang="en">Kuwait Sport HD</title>
+    <title lang="ar">Kuwait Sport HD</title>
+  </programme>
+  <programme start="20200707060000 +0000" stop="20200707120000 +0000" channel="KTV Sport HD">
+    <title lang="en">Kuwait Sport HD</title>
+    <title lang="ar">Kuwait Sport HD</title>
+  </programme>
+  <programme start="20200707120000 +0000" stop="20200707180000 +0000" channel="KTV Sport HD">
+    <title lang="en">Kuwait Sport HD</title>
+    <title lang="ar">Kuwait Sport HD</title>
+  </programme>
+  <programme start="20200707180000 +0000" stop="20200708000000 +0000" channel="KTV Sport HD">
+    <title lang="en">Kuwait Sport HD</title>
+    <title lang="ar">Kuwait Sport HD</title>
+  </programme>
+  <programme start="20200707000000 +0000" stop="20200707060000 +0000" channel="KTV Sport Plus HD">
+    <title lang="en">Kuwait Sport Plus HD</title>
+    <title lang="ar">Kuwait Sport Plus HD</title>
+  </programme>
+  <programme start="20200707060000 +0000" stop="20200707120000 +0000" channel="KTV Sport Plus HD">
+    <title lang="en">Kuwait Sport Plus HD</title>
+    <title lang="ar">Kuwait Sport Plus HD</title>
+  </programme>
+  <programme start="20200707120000 +0000" stop="20200707180000 +0000" channel="KTV Sport Plus HD">
+    <title lang="en">Kuwait Sport Plus HD</title>
+    <title lang="ar">Kuwait Sport Plus HD</title>
+  </programme>
+  <programme start="20200707180000 +0000" stop="20200708000000 +0000" channel="KTV Sport Plus HD">
+    <title lang="en">Kuwait Sport Plus HD</title>
+    <title lang="ar">Kuwait Sport Plus HD</title>
+  </programme>
+  <programme start="20200707002500 +0000" stop="20200707011500 +0000" channel="TFC">
+    <title lang="en">Love Thy Woman</title>
+    <title lang="ar">TFC Middle East</title>
+  </programme>
+  <programme start="20200707011500 +0000" stop="20200707024500 +0000" channel="TFC">
+    <title lang="en">Magandang Buhay</title>
+    <title lang="ar">TFC Middle East</title>
+  </programme>
+  <programme start="20200707024500 +0000" stop="20200707033000 +0000" channel="TFC">
+    <title lang="en">FPJ's Ang Probinsyano</title>
+    <title lang="ar">TFC Middle East</title>
+  </programme>
+  <programme start="20200707033000 +0000" stop="20200707040000 +0000" channel="TFC">
+    <title lang="en">Kapamilya Daily Mass</title>
+    <title lang="ar">TFC Middle East</title>
+  </programme>
+  <programme start="20200707040000 +0000" stop="20200707063000 +0000" channel="TFC">
+    <title lang="en">It's Showtime</title>
+    <title lang="ar">إتس شوتايم</title>
+  </programme>
+  <programme start="20200707063000 +0000" stop="20200707070000 +0000" channel="TFC">
+    <title lang="en">Team Yey!</title>
+    <title lang="ar">TFC Middle East</title>
+  </programme>
+  <programme start="20200707070000 +0000" stop="20200707083000 +0000" channel="TFC">
+    <title lang="en">Magandang Buhay</title>
+    <title lang="ar">TFC Middle East</title>
+  </programme>
+  <programme start="20200707083000 +0000" stop="20200707091500 +0000" channel="TFC">
+    <title lang="en">Love In The Moonlight</title>
+    <title lang="ar">TFC Middle East</title>
+  </programme>
+  <programme start="20200707091500 +0000" stop="20200707100000 +0000" channel="TFC">
+    <title lang="en">100 Days To Heaven</title>
+    <title lang="ar">TFC Middle East</title>
+  </programme>
+  <programme start="20200707100000 +0000" stop="20200707103000 +0000" channel="TFC">
+    <title lang="en">Caza Daza</title>
+    <title lang="ar">TFC Middle East</title>
+  </programme>
+  <programme start="20200707103000 +0000" stop="20200707121500 +0000" channel="TFC">
+    <title lang="en">TV Patrol</title>
+    <title lang="ar">TFC Middle East</title>
+  </programme>
+  <programme start="20200707121500 +0000" stop="20200707125500 +0000" channel="TFC">
+    <title lang="en">Tubig At Langis</title>
+    <title lang="ar">توبيغ آت لانغس</title>
+  </programme>
+  <programme start="20200707125500 +0000" stop="20200707133000 +0000" channel="TFC">
+    <title lang="en">Wildflower</title>
+    <title lang="ar">TFC Middle East</title>
+  </programme>
+  <programme start="20200707133000 +0000" stop="20200707140500 +0000" channel="TFC">
+    <title lang="en">Got To Believe</title>
+    <title lang="ar">TFC Middle East</title>
+  </programme>
+  <programme start="20200707140500 +0000" stop="20200707144000 +0000" channel="TFC">
+    <title lang="en">On The Wings Of Love</title>
+    <title lang="ar">TFC Middle East</title>
+  </programme>
+  <programme start="20200707144000 +0000" stop="20200707162500 +0000" channel="TFC">
+    <title lang="en">TV Patrol</title>
+    <title lang="ar">TFC Middle East</title>
+  </programme>
+  <programme start="20200707162500 +0000" stop="20200707170500 +0000" channel="TFC">
+    <title lang="en">Love Thy Woman</title>
+    <title lang="ar">TFC Middle East</title>
+  </programme>
+  <programme start="20200707170500 +0000" stop="20200707174500 +0000" channel="TFC">
+    <title lang="en">Love In The Moonlight</title>
+    <title lang="ar">TFC Middle East</title>
+  </programme>
+  <programme start="20200707174500 +0000" stop="20200707182500 +0000" channel="TFC">
+    <title lang="en">Tale Of Nokdu</title>
+    <title lang="ar">TFC Middle East</title>
+  </programme>
+  <programme start="20200707182500 +0000" stop="20200707191000 +0000" channel="TFC">
+    <title lang="en">FPJ's Ang Probinsyano</title>
+    <title lang="ar">TFC Middle East</title>
+  </programme>
+  <programme start="20200707191000 +0000" stop="20200707195000 +0000" channel="TFC">
+    <title lang="en">A Soldier's Heart</title>
+    <title lang="ar">TFC Middle East</title>
+  </programme>
+  <programme start="20200707195000 +0000" stop="20200707202500 +0000" channel="TFC">
+    <title lang="en">Got To Believe</title>
+    <title lang="ar">TFC Middle East</title>
+  </programme>
+  <programme start="20200707202500 +0000" stop="20200707210000 +0000" channel="TFC">
+    <title lang="en">On The Wings Of Love</title>
+    <title lang="ar">TFC Middle East</title>
+  </programme>
+  <programme start="20200707210000 +0000" stop="20200707214000 +0000" channel="TFC">
+    <title lang="en">iWant Originals</title>
+    <title lang="ar">TFC Middle East</title>
+  </programme>
+  <programme start="20200707214000 +0000" stop="20200708002500 +0000" channel="TFC">
+    <title lang="en">It's Showtime</title>
+    <title lang="ar">إتس شوتايم</title>
+  </programme>
+  <programme start="20200707000000 +0000" stop="20200707020000 +0000" channel="ABS-CBN Sports+Action">
+    <title lang="en">UAAP Men's Basketball Game 2</title>
+    <title lang="ar">ABS-CBN Sports+Action</title>
+  </programme>
+  <programme start="20200707020000 +0000" stop="20200707040000 +0000" channel="ABS-CBN Sports+Action">
+    <title lang="en">P'relikula</title>
+    <title lang="ar">ABS-CBN Sports+Action</title>
+  </programme>
+  <programme start="20200707040000 +0000" stop="20200707050000 +0000" channel="ABS-CBN Sports+Action">
+    <title lang="en">Pinoy Pride</title>
+    <title lang="ar">ABS-CBN Sports+Action</title>
+  </programme>
+  <programme start="20200707050000 +0000" stop="20200707053000 +0000" channel="ABS-CBN Sports+Action">
+    <title lang="en">The Score</title>
+    <title lang="ar">ABS-CBN Sports+Action</title>
+  </programme>
+  <programme start="20200707053000 +0000" stop="20200707060000 +0000" channel="ABS-CBN Sports+Action">
+    <title lang="en">Fitfil</title>
+    <title lang="ar">ABS-CBN Sports+Action</title>
+  </programme>
+  <programme start="20200707060000 +0000" stop="20200707080000 +0000" channel="ABS-CBN Sports+Action">
+    <title lang="en">NCAA Men's Basketball Game 1</title>
+    <title lang="ar">ABS-CBN Sports+Action</title>
+  </programme>
+  <programme start="20200707080000 +0000" stop="20200707100000 +0000" channel="ABS-CBN Sports+Action">
+    <title lang="en">NCAA Men's Basketball Game 2</title>
+    <title lang="ar">ABS-CBN Sports+Action</title>
+  </programme>
+  <programme start="20200707100000 +0000" stop="20200707103000 +0000" channel="ABS-CBN Sports+Action">
+    <title lang="en">Ating Alamin</title>
+    <title lang="ar">اتينغ ألامين</title>
+  </programme>
+  <programme start="20200707103000 +0000" stop="20200707110000 +0000" channel="ABS-CBN Sports+Action">
+    <title lang="en">Fitfil</title>
+    <title lang="ar">ABS-CBN Sports+Action</title>
+  </programme>
+  <programme start="20200707110000 +0000" stop="20200707130000 +0000" channel="ABS-CBN Sports+Action">
+    <title lang="en">MPBL</title>
+    <title lang="ar">ABS-CBN Sports+Action</title>
+  </programme>
+  <programme start="20200707130000 +0000" stop="20200707150000 +0000" channel="ABS-CBN Sports+Action">
+    <title lang="en">MPBL</title>
+    <title lang="ar">ABS-CBN Sports+Action</title>
+  </programme>
+  <programme start="20200707150000 +0000" stop="20200707153000 +0000" channel="ABS-CBN Sports+Action">
+    <title lang="en">The Score</title>
+    <title lang="ar">ABS-CBN Sports+Action</title>
+  </programme>
+  <programme start="20200707153000 +0000" stop="20200707160000 +0000" channel="ABS-CBN Sports+Action">
+    <title lang="en">Fitfil</title>
+    <title lang="ar">ABS-CBN Sports+Action</title>
+  </programme>
+  <programme start="20200707160000 +0000" stop="20200707180000 +0000" channel="ABS-CBN Sports+Action">
+    <title lang="en">P'relikula</title>
+    <title lang="ar">ABS-CBN Sports+Action</title>
+  </programme>
+  <programme start="20200707180000 +0000" stop="20200707200000 +0000" channel="ABS-CBN Sports+Action">
+    <title lang="en">MPBL</title>
+    <title lang="ar">ABS-CBN Sports+Action</title>
+  </programme>
+  <programme start="20200707200000 +0000" stop="20200707210000 +0000" channel="ABS-CBN Sports+Action">
+    <title lang="en">MPBL</title>
+    <title lang="ar">ABS-CBN Sports+Action</title>
+  </programme>
+  <programme start="20200707210000 +0000" stop="20200707220000 +0000" channel="ABS-CBN Sports+Action">
+    <title lang="en">Glory</title>
+    <title lang="ar">ABS-CBN Sports+Action</title>
+  </programme>
+  <programme start="20200707220000 +0000" stop="20200708000000 +0000" channel="ABS-CBN Sports+Action">
+    <title lang="en">UAAP Men's Basketball Game 1</title>
+    <title lang="ar">ABS-CBN Sports+Action</title>
+  </programme>
+  <programme start="20200707010000 +0000" stop="20200707030000 +0000" channel="Cinema One Global">
+    <title lang="en">Hiram</title>
+    <title lang="ar">Cinema One Global</title>
+  </programme>
+  <programme start="20200707030000 +0000" stop="20200707050000 +0000" channel="Cinema One Global">
+    <title lang="en">Isang Tanong, Isang Sagot</title>
+    <title lang="ar">اسانغ تانونغ، اسانغ ساغوت</title>
+  </programme>
+  <programme start="20200707050000 +0000" stop="20200707070000 +0000" channel="Cinema One Global">
+    <title lang="en">Daddy Knows Best</title>
+    <title lang="ar">Cinema One Global</title>
+  </programme>
+  <programme start="20200707070000 +0000" stop="20200707090000 +0000" channel="Cinema One Global">
+    <title lang="en">Mundo Man Ay Magunaw</title>
+    <title lang="ar">Cinema One Global</title>
+  </programme>
+  <programme start="20200707090000 +0000" stop="20200707110000 +0000" channel="Cinema One Global">
+    <title lang="en">Pinay Pie</title>
+    <title lang="ar">Cinema One Global</title>
+  </programme>
+  <programme start="20200707110000 +0000" stop="20200707130000 +0000" channel="Cinema One Global">
+    <title lang="en">Type Kita… Walang Kokontra</title>
+    <title lang="ar">Cinema One Global</title>
+  </programme>
+  <programme start="20200707130000 +0000" stop="20200707150000 +0000" channel="Cinema One Global">
+    <title lang="en">Magic Kingdom: Ang Alamat Ng Damortis</title>
+    <title lang="ar">Cinema One Global</title>
+  </programme>
+  <programme start="20200707150000 +0000" stop="20200707170000 +0000" channel="Cinema One Global">
+    <title lang="en">Salawahan</title>
+    <title lang="ar">Cinema One Global</title>
+  </programme>
+  <programme start="20200707170000 +0000" stop="20200707190000 +0000" channel="Cinema One Global">
+    <title lang="en">100 Tula Para Kay Stella</title>
+    <title lang="ar">100 تولا بارا كاي ستيلا</title>
+  </programme>
+  <programme start="20200707190000 +0000" stop="20200707210000 +0000" channel="Cinema One Global">
+    <title lang="en">You're Still The One</title>
+    <title lang="ar">يور ستيل ذا وان</title>
+  </programme>
+  <programme start="20200707210000 +0000" stop="20200707230000 +0000" channel="Cinema One Global">
+    <title lang="en">D' Anothers</title>
+    <title lang="ar">Cinema One Global</title>
+  </programme>
+  <programme start="20200707230000 +0000" stop="20200708010000 +0000" channel="Cinema One Global">
+    <title lang="en">Haunted Mansion</title>
+    <title lang="ar">هانتد مانشن</title>
+  </programme>
+  <programme start="20200707000000 +0000" stop="20200707010000 +0000" channel="ANC">
+    <title lang="en">Headstart</title>
+    <title lang="ar">هيدستارت</title>
+  </programme>
+  <programme start="20200707010000 +0000" stop="20200707030000 +0000" channel="ANC">
+    <title lang="en">Market Edge With Cathy Yang</title>
+    <title lang="ar">ANC News</title>
+  </programme>
+  <programme start="20200707030000 +0000" stop="20200707040000 +0000" channel="ANC">
+    <title lang="en">Matters Of Fact</title>
+    <title lang="ar">ANC News</title>
+  </programme>
+  <programme start="20200707040000 +0000" stop="20200707050000 +0000" channel="ANC">
+    <title lang="en">Dateline Philippines</title>
+    <title lang="ar">ANC News</title>
+  </programme>
+  <programme start="20200707050000 +0000" stop="20200707070000 +0000" channel="ANC">
+    <title lang="en">Covid-19 Pandemic Special Coverage</title>
+    <title lang="ar">ANC News</title>
+  </programme>
+  <programme start="20200707070000 +0000" stop="20200707083000 +0000" channel="ANC">
+    <title lang="en">Market Edge With Cathy Yang</title>
+    <title lang="ar">ANC News</title>
+  </programme>
+  <programme start="20200707083000 +0000" stop="20200707090000 +0000" channel="ANC">
+    <title lang="en">Rev</title>
+    <title lang="ar">ANC News</title>
+  </programme>
+  <programme start="20200707090000 +0000" stop="20200707091500 +0000" channel="ANC">
+    <title lang="en">Covid-19 Pandemic Special Coverage</title>
+    <title lang="ar">ANC News</title>
+  </programme>
+  <programme start="20200707091500 +0000" stop="20200707100000 +0000" channel="ANC">
+    <title lang="en">ANC Conversations</title>
+    <title lang="ar">ANC News</title>
+  </programme>
+  <programme start="20200707100000 +0000" stop="20200707103000 +0000" channel="ANC">
+    <title lang="en">Local Legends</title>
+    <title lang="ar">لوكل ليجندس</title>
+  </programme>
+  <programme start="20200707103000 +0000" stop="20200707120000 +0000" channel="ANC">
+    <title lang="en">TV Patrol</title>
+    <title lang="ar">ANC News</title>
+  </programme>
+  <programme start="20200707120000 +0000" stop="20200707123000 +0000" channel="ANC">
+    <title lang="en">Business Nightly</title>
+    <title lang="ar">ANC News</title>
+  </programme>
+  <programme start="20200707123000 +0000" stop="20200707130000 +0000" channel="ANC">
+    <title lang="en">Green Living</title>
+    <title lang="ar">ANC News</title>
+  </programme>
+  <programme start="20200707130000 +0000" stop="20200707133000 +0000" channel="ANC">
+    <title lang="en">The World Tonight</title>
+    <title lang="ar">ANC News</title>
+  </programme>
+  <programme start="20200707133000 +0000" stop="20200707140000 +0000" channel="ANC">
+    <title lang="en">Game Time</title>
+    <title lang="ar">ANC News</title>
+  </programme>
+  <programme start="20200707140000 +0000" stop="20200707150000 +0000" channel="ANC">
+    <title lang="en">ANC Conversations</title>
+    <title lang="ar">ANC News</title>
+  </programme>
+  <programme start="20200707150000 +0000" stop="20200707153000 +0000" channel="ANC">
+    <title lang="en">Asian Air Safari</title>
+    <title lang="ar">اجيان اير سافاري</title>
+  </programme>
+  <programme start="20200707153000 +0000" stop="20200707160000 +0000" channel="ANC">
+    <title lang="en">Green Living</title>
+    <title lang="ar">ANC News</title>
+  </programme>
+  <programme start="20200707160000 +0000" stop="20200707163000 +0000" channel="ANC">
+    <title lang="en">The World Tonight</title>
+    <title lang="ar">ANC News</title>
+  </programme>
+  <programme start="20200707163000 +0000" stop="20200707170000 +0000" channel="ANC">
+    <title lang="en">Local Legends</title>
+    <title lang="ar">لوكل ليجندس</title>
+  </programme>
+  <programme start="20200707170000 +0000" stop="20200707180000 +0000" channel="ANC">
+    <title lang="en">Headstart</title>
+    <title lang="ar">هيدستارت</title>
+  </programme>
+  <programme start="20200707180000 +0000" stop="20200707183000 +0000" channel="ANC">
+    <title lang="en">The Boss Special: New Normal</title>
+    <title lang="ar">ANC News</title>
+  </programme>
+  <programme start="20200707183000 +0000" stop="20200707190000 +0000" channel="ANC">
+    <title lang="en">Mukha</title>
+    <title lang="ar">موكا</title>
+  </programme>
+  <programme start="20200707190000 +0000" stop="20200707193000 +0000" channel="ANC">
+    <title lang="en">Rev</title>
+    <title lang="ar">ANC News</title>
+  </programme>
+  <programme start="20200707193000 +0000" stop="20200707200000 +0000" channel="ANC">
+    <title lang="en">Boom Towns</title>
+    <title lang="ar">ANC News</title>
+  </programme>
+  <programme start="20200707200000 +0000" stop="20200707203000 +0000" channel="ANC">
+    <title lang="en">Lss: Martin Nievera</title>
+    <title lang="ar">ANC News</title>
+  </programme>
+  <programme start="20200707203000 +0000" stop="20200707210000 +0000" channel="ANC">
+    <title lang="en">ANC Talkback</title>
+    <title lang="ar">ANC News</title>
+  </programme>
+  <programme start="20200707210000 +0000" stop="20200707220000 +0000" channel="ANC">
+    <title lang="en">ANC Conversations</title>
+    <title lang="ar">ANC News</title>
+  </programme>
+  <programme start="20200707220000 +0000" stop="20200708000000 +0000" channel="ANC">
+    <title lang="en">Executive Class</title>
+    <title lang="ar">ANC News</title>
+  </programme>
+  <programme start="20200707000000 +0000" stop="20200707060000 +0000" channel="DZMM Teleradyo">
+    <title lang="en">DZMM TeleRadyo</title>
+    <title lang="ar">DZMM TeleRadyo</title>
+  </programme>
+  <programme start="20200707060000 +0000" stop="20200707120000 +0000" channel="DZMM Teleradyo">
+    <title lang="en">DZMM TeleRadyo</title>
+    <title lang="ar">DZMM TeleRadyo</title>
+  </programme>
+  <programme start="20200707120000 +0000" stop="20200707180000 +0000" channel="DZMM Teleradyo">
+    <title lang="en">DZMM TeleRadyo</title>
+    <title lang="ar">DZMM TeleRadyo</title>
+  </programme>
+  <programme start="20200707180000 +0000" stop="20200708000000 +0000" channel="DZMM Teleradyo">
+    <title lang="en">DZMM TeleRadyo</title>
+    <title lang="ar">DZMM TeleRadyo</title>
+  </programme>
+  <programme start="20200707000000 +0000" stop="20200707060000 +0000" channel="DWRR 101.9">
+    <title lang="en">DWRR 101.9</title>
+    <title lang="ar">DWRR 101.9</title>
+  </programme>
+  <programme start="20200707060000 +0000" stop="20200707120000 +0000" channel="DWRR 101.9">
+    <title lang="en">DWRR 101.9</title>
+    <title lang="ar">DWRR 101.9</title>
+  </programme>
+  <programme start="20200707120000 +0000" stop="20200707180000 +0000" channel="DWRR 101.9">
+    <title lang="en">DWRR 101.9</title>
+    <title lang="ar">DWRR 101.9</title>
+  </programme>
+  <programme start="20200707180000 +0000" stop="20200708000000 +0000" channel="DWRR 101.9">
+    <title lang="en">DWRR 101.9</title>
+    <title lang="ar">DWRR 101.9</title>
   </programme>
 </tv>
