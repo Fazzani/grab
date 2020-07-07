@@ -11,17 +11,18 @@
   <timespan>1</timespan>
   <update>i</update>
 
-  <channel update="i" site="osn.com" site_id="OM1" xmltv_id="OSN Movies HD">OSN Movies HD</channel>
-  <channel update="i" site="osn.com" site_id="OM1" xmltv_id="OSN Movies First HD">OSN Movies First HD</channel>
-  <channel update="i" site="osn.com" site_id="OMX" xmltv_id="OSN Movies First HD +2h">OSN Movies First HD +2h</channel>
-  <channel update="i" site="osn.com" site_id="AHD" xmltv_id="OSN Movies Action HD">OSN Movies Action HD</channel>
-  <channel update="i" site="osn.com" site_id="OMA" xmltv_id="OSN Movies Action +2">OSN Movies Action +2</channel>
-  <channel update="i" site="osn.com" site_id="OPR" xmltv_id="OSN Movies HD Premier">OSN Movies HD Premier</channel>
-  <channel update="i" site="osn.com" site_id="OPX" xmltv_id="OSN Movies +2h">OSN Movies +2h</channel>
-  <channel update="i" site="osn.com" site_id="OCM" xmltv_id="OSN Movies Thriller HD">OSN Movies Thriller HD</channel>
-  <channel update="i" site="osn.com" site_id="OC2" xmltv_id="OSN Movies Thriller +2h">OSN Movies Thriller +2h</channel>
-  <channel update="i" site="osn.com" site_id="OMF" xmltv_id="OSN Movies Festival HD">OSN Movies Festival HD</channel>
-  <channel update="i" site="osn.com" site_id="OMK" xmltv_id="OSN Movies Kids HD">OSN Movies Kids HD</channel>
-  <channel update="i" site="osn.com" site_id="OFM" xmltv_id="OSN Movies Family HD">OSN Movies Family HD</channel>
-  <channel update="i" site="osn.com" site_id="OMC" xmltv_id="OSN Movies Comedy HD">OSN Movies Comedy HD</channel>
+  <channel update="i" site="osn.com" site_id="BO1" xmltv_id="OSN Movies Box Office 1 HD">OSN Movies Box Office 1 HD</channel>
+  <channel update="i" site="osn.com" site_id="BO2" xmltv_id="OSN Movies Box Office 2">OSN Movies Box Office 2</channel>
+  <channel update="i" site="osn.com" site_id="BO3" xmltv_id="OSN Movies Box Office 3">OSN Movies Box Office 3</channel>
+  <channel update="i" site="osn.com" site_id="PAR" xmltv_id="Paramount">Paramount</channel>
+  <channel update="i" site="osn.com" site_id="SUN" xmltv_id="Sundance TV">Sundance TV</channel>
+  <channel update="i" site="osn.com" site_id="STM" xmltv_id="Star Movies HD">Star Movies HD</channel>
+  <channel update="i" site="osn.com" site_id="SEM" xmltv_id="SET Max">SET Max</channel>
+  <channel update="i" site="osn.com" site_id="STG" xmltv_id="Star Gold">Star Gold</channel>
+  <channel update="i" site="osn.com" site_id="ZEC" xmltv_id="Zee Cinema">Zee Cinema</channel>
+  <channel update="i" site="osn.com" site_id="UTM" xmltv_id="UTV Movies">UTV Movies</channel>
+  <channel update="i" site="osn.com" site_id="B4A" xmltv_id="B4U Plus">B4U Plus</channel>
+  <channel update="i" site="osn.com" site_id="IMA" xmltv_id="Imagine Movies">Imagine Movies</channel>
+  <channel update="i" site="osn.com" site_id="OYH" xmltv_id="OSN Ya Hala Al Oula">OSN Ya Hala Al Oula</channel>
+  
  </settings>

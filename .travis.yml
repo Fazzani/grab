@@ -16,7 +16,6 @@ env:
   - WEBGRAB_FILENAME=configs/ar_osn10.xml
   - WEBGRAB_FILENAME=configs/ar_osn11.xml
   - WEBGRAB_FILENAME=configs/ar_osn12.xml
-  - WEBGRAB_FILENAME=configs/ar_osn13.xml
 script:
 - chmod +x ./build.sh && ./build.sh --build
 

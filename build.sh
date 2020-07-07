@@ -1,7 +1,5 @@
 #!/bin/bash
 
-set -ux
-
 OLDIFS=$IFS
 
 function build {

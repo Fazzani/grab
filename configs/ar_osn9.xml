@@ -11,16 +11,20 @@
   <timespan>1</timespan>
   <update>i</update>
 
-  <channel update="i" site="osn.com" site_id="SPH" xmltv_id="OSN Sports Action 1 HD">OSN Sports Action 1 HD</channel>
-  <channel update="i" site="osn.com" site_id="SP2" xmltv_id="OSN Sports Action 2 HD">OSN Sports Action 2 HD</channel>
-  <channel update="i" site="osn.com" site_id="SP3" xmltv_id="OSN Sports 3 HD">OSN Sports 3 HD</channel>
-  <channel update="i" site="osn.com" site_id="SP4" xmltv_id="OSN Sports 4 HD">OSN Sports 4 HD</channel>
-  <channel update="i" site="osn.com" site_id="SP5" xmltv_id="OSN Sports 5 HD">OSN Sports 5 HD</channel>
-  <channel update="i" site="osn.com" site_id="WWE" xmltv_id="OSN WWE Network HD">OSN WWE Network HD</channel>
-  <channel update="i" site="osn.com" site_id="CRI" xmltv_id="OSN Sports Cricket HD">OSN Sports Cricket HD</channel>
-  <channel update="i" site="osn.com" site_id="TCR" xmltv_id="Ten Cricket International">Ten Cricket International</channel>
-  <channel update="i" site="osn.com" site_id="FNW" xmltv_id="OSN Fight Network HD">OSN Fight Network HD</channel>
-  <channel update="i" site="osn.com" site_id="FUE" xmltv_id="Fuel TV">Fuel TV</channel>
-  <channel update="i" site="osn.com" site_id="GNX" xmltv_id="Ginx Esports TV HD">Ginx Esports TV HD</channel>
-  
+  <channel update="i" site="osn.com" site_id="NHK" xmltv_id="NHK World TV">NHK World TV</channel>
+  <channel update="i" site="osn.com" site_id="MAD" xmltv_id="Madani TV">Madani TV</channel>
+  <channel update="i" site="osn.com" site_id="DUN" xmltv_id="Dunya News">Dunya News</channel>
+  <channel update="i" site="osn.com" site_id="AYN" xmltv_id="ARY News">ARY News</channel>
+  <channel update="i" site="osn.com" site_id="GON" xmltv_id="Geo News">Geo News</channel>
+  <channel update="i" site="osn.com" site_id="ABP" xmltv_id="ABP News India">ABP News India</channel>
+  <channel update="i" site="osn.com" site_id="ZEN" xmltv_id="Aaj Tak">Aaj Tak</channel>
+  <channel update="i" site="osn.com" site_id="TIM" xmltv_id="Times Now">Times Now</channel>
+  <channel update="i" site="osn.com" site_id="REP" xmltv_id="Republic TV">Republic TV</channel>
+  <channel update="i" site="osn.com" site_id="NDT" xmltv_id="NDTV 24x7">NDTV 24x7</channel>
+  <channel update="i" site="osn.com" site_id="ANN" xmltv_id="Asianet News">Asianet News</channel>
+  <channel update="i" site="osn.com" site_id="SNH" xmltv_id="Sky News Arabia HD">Sky News Arabia HD</channel>
+  <channel update="i" site="osn.com" site_id="SNA" xmltv_id="Sky News Arabia">Sky News Arabia</channel>
+  <channel update="i" site="osn.com" site_id="RUS" xmltv_id="Rusiya Al Yawm">Rusiya Al Yawm</channel>
+  <channel update="i" site="osn.com" site_id="FRA" xmltv_id="France 24">France 24</channel>
+
 </settings>

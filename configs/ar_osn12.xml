@@ -10,16 +10,17 @@
   <skip>12,10</skip>
   <timespan>0</timespan>
   <update>i</update>
-  
-  <!-- <channel update="i" site="osn.com" site_id="NIC" xmltv_id="Nickelodeon HD">Nickelodeon HD</channel> -->
-  <channel update="i" site="osn.com" site_id="NJR" xmltv_id="Nick Jr">Nick Jr</channel>
-  <channel update="i" site="osn.com" site_id="KDZ" xmltv_id="OSN Kid Zone TV">OSN Kid Zone TV</channel>
-  <!-- <channel update="i" site="osn.com" site_id="BAB" xmltv_id="Baby TV Europe">Baby TV Europe</channel> -->
-  <channel update="i" site="osn.com" site_id="ONS" xmltv_id="OSN News">OSN News</channel>
-  <channel update="i" site="osn.com" site_id="SKH" xmltv_id="Sky News HD">Sky News HD</channel>
-  <channel update="i" site="osn.com" site_id="BBW" xmltv_id="BBC World">BBC World</channel>
-  <channel update="i" site="osn.com" site_id="SET" xmltv_id="SET Middle East">SET Middle East</channel>
-  <channel update="i" site="osn.com" site_id="DSC" xmltv_id="Discovery HD">Discovery HD</channel>
-  <channel update="i" site="osn.com" site_id="DCF" xmltv_id="Discovery Family HD">Discovery Family HD</channel>
-  <channel update="i" site="osn.com" site_id="NKT" xmltv_id="NickToons">NickToons</channel>
+
+  <channel update="i" site="osn.com" site_id="DH2" xmltv_id="Dubai Sports 4 HD">Dubai Sports 4 HD</channel>
+  <channel update="i" site="osn.com" site_id="DS5" xmltv_id="Dubai Sports 5 HD">Dubai Sports 5 HD</channel>
+  <channel update="i" site="osn.com" site_id="WAD" xmltv_id="Al Wosta from Al Dhaid">Al Wosta from Al Dhaid</channel>
+  <channel update="i" site="osn.com" site_id="KTS" xmltv_id="KTV Sport HD">KTV Sport HD</channel>
+  <channel update="i" site="osn.com" site_id="KTP" xmltv_id="KTV Sport Plus HD">KTV Sport Plus HD</channel>
+  <channel update="i" site="osn.com" site_id="TFC" xmltv_id="TFC">TFC</channel>
+  <channel update="i" site="osn.com" site_id="BRO" xmltv_id="ABS-CBN Sports+Action">ABS-CBN Sports+Action</channel>
+  <channel update="i" site="osn.com" site_id="COG" xmltv_id="Cinema One Global">Cinema One Global</channel>
+  <channel update="i" site="osn.com" site_id="ANC" xmltv_id="ANC">ANC</channel>
+  <channel update="i" site="osn.com" site_id="DZM" xmltv_id="DZMM Teleradyo">DZMM Teleradyo</channel>
+  <channel update="i" site="osn.com" site_id="DWR" xmltv_id="DWRR 101.9">DWRR 101.9</channel>
+
 </settings>
