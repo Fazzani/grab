@@ -26,9 +26,10 @@ function merge {
     && git add merge.tar.gz merge.zip \
     && git commit -m "compression and merging xmltv files. Triggred by $TRAVIS_EVENT_TYPE" && \
     git config --global http.postBuffer 157286400
-
-    git pull -X ours > /dev/null 2>&1 && \
-    git push -f
+    until git pull -X ours > /dev/null 2>&1 && git push -f; do
+        echo Tansfer disrupted, retrying in 10 seconds...
+        sleep <10
+    done
 }
 
 BUILD=false

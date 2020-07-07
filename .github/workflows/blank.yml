@@ -1,8 +1,5 @@
 name: CI
 on:
-  push:
-    branches:
-      - master
   schedule:
     - cron:  '0 */6 * * *'
 
@@ -23,7 +20,8 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add .
-        git commit -m "check channels and update readme" -a
+        git commit -m "check channels and update readme" -a || echo "Nothing to commit"
+        git pull -X Ours
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
