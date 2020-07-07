@@ -2,11 +2,9 @@
 
 set -ux
 
-source $(dirname $0)/scripts/utils.sh
 OLDIFS=$IFS
 
 function build {
-    echoInfo  "${NC}"
     docker run -it --rm -v "${PWD}/${WEBGRAB_FILENAME}:/config/WebGrab++.config.xml" --hostname test --mac-address="12:34:de:b0:6b:61" -v "${PWD}:/data" synker/webgraboneshot:latest
     git remote add origin2 https://${GITHUB_API_TOKEN}@github.com/fazzani/grab.git > /dev/null 2>&1
     git add --all && (git commit -m "Webgrab ${WEBGRAB_FILENAME}" || echo "No changes to commit" && exit 0)
@@ -21,7 +19,6 @@ function build {
 }
 
 function merge {
-    echoInfo  "${NC}"
     git clone --depth 1 https://${GITHUB_API_TOKEN}@github.com/fazzani/grab.git > /dev/null 2>&1 \
     && cd grab \
     && chmod +x ../docker/merge.sh
