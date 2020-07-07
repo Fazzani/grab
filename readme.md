@@ -6,8 +6,8 @@
 
 ## channels list
 
-Channel count: **687**
-Completness: **77.87%**
+Channel count: **667**
+Completness: **81.56%**
 
 [All channels link](https://github.com/Fazzani/grab/blob/master/merge.tar.gz?raw=true)
 
@@ -53,26 +53,26 @@ Completness: **77.87%**
 |<img src="https://television.telerama.fr/sites/tr_master/files/styles/channel_logo_80x80/public/sheet_media/tv/150x150/192.png?itok=LK8LTHrB" width="50" height="50">|~~OMTV~~|http://www.telerama.fr|
 |<img src="https://television.telerama.fr/sites/tr_master/files/styles/channel_logo_80x80/public/sheet_media/tv/150x150/192.png?itok=LK8LTHrB" width="50" height="50">|Al Jazeera English|http://www.telerama.fr|
 |<img src="https://television.telerama.fr/sites/tr_master/files/styles/channel_logo_80x80/public/sheet_media/tv/150x150/192.png?itok=LK8LTHrB" width="50" height="50">|BBC World News|http://www.telerama.fr|
+|<img src="http://content.osn.com/logo/channel/cropped/NIC.png" width="50" height="50">|Nickelodeon HD|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/NJR.png" width="50" height="50">|Nick Jr.|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/NKT.png" width="50" height="50">|NickToons HD|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/KDZ.png" width="50" height="50">|OSN Kid Zone TV|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/BAB.png" width="50" height="50">|Baby TV Europe|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/ONS.png" width="50" height="50">|~~OSN News~~|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/SKH.png" width="50" height="50">|Sky News HD|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/BBW.png" width="50" height="50">|BBC World|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/CNB.png" width="50" height="50">|CNBC|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/BTV.png" width="50" height="50">|Bloomberg|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/CT9.png" width="50" height="50">|CCTV News|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/CT9.png" width="50" height="50">|CGTN|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/FRE.png" width="50" height="50">|France 24 English|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/NHK.png" width="50" height="50">|NHK World TV|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/DUN.png" width="50" height="50">|~~Dunya News~~|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/AYN.png" width="50" height="50">|~~ARY News~~|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/GON.png" width="50" height="50">|~~Geo News~~|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/ABP.png" width="50" height="50">|~~ABP News India~~|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/ZEN.png" width="50" height="50">|~~Aaj Tak~~|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/SPH.png" width="50" height="50">|~~OSN Sports Action 1 HD~~|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/SP2.png" width="50" height="50">|~~OSN Sports Action 2 HD~~|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/SP3.png" width="50" height="50">|~~OSN Sports 3 HD~~|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/SP4.png" width="50" height="50">|~~OSN Sports 4 HD~~|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/SP5.png" width="50" height="50">|~~OSN Sports 5 HD~~|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/WWE.png" width="50" height="50">|~~OSN WWE Network HD~~|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/CRI.png" width="50" height="50">|~~OSN Sports Cricket HD~~|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/TCR.png" width="50" height="50">|~~Ten Cricket International~~|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/FNW.png" width="50" height="50">|~~OSN Fight Network HD~~|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/FUE.png" width="50" height="50">|~~Fuel TV~~|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/GNX.png" width="50" height="50">|~~Ginx Esports TV HD~~|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/SNH.png" width="50" height="50">|Sky News Arabia HD|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/SNA.png" width="50" height="50">|Sky News Arabia|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/RUS.png" width="50" height="50">|Rusiya Al Yawm|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/FRA.png" width="50" height="50">|France 24|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/NGO.png" width="50" height="50">|Nat Geo HD|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/NHD.png" width="50" height="50">|Nat Geo Wild HD|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/NAH.png" width="50" height="50">|Nat Geo People HD|http://www.osn.com|
 |<img src="" width="50" height="50">|CHERIE 25|http://www.canalplus.com|
 |<img src="" width="50" height="50">|VICELAND|http://www.canalplus.com|
 |<img src="" width="50" height="50">|MTV|http://www.canalplus.com|
@@ -88,7 +88,7 @@ Completness: **77.87%**
 |<img src="" width="50" height="50">|MELODY|http://www.canalplus.com|
 |<img src="" width="50" height="50">|MEZZO|http://www.canalplus.com|
 |<img src="" width="50" height="50">|MEZZO LIVE|http://www.canalplus.com|
-|<img src="" width="50" height="50">|BRAVA|http://www.canalplus.com|
+|<img src="" width="50" height="50">|~~BRAVA~~|http://www.canalplus.com|
 |<img src="" width="50" height="50">|DJAZZ|http://www.canalplus.com|
 |<img src="" width="50" height="50">|~~TRACE AFRICA~~|http://www.canalsat.fr|
 |<img src="" width="50" height="50">|FRANCE O|http://www.canalplus.com|
@@ -110,7 +110,7 @@ Completness: **77.87%**
 |<img src="" width="50" height="50">|VOYAGE|http://www.canalplus.com|
 |<img src="" width="50" height="50">|USHUAIA TV|http://www.canalplus.com|
 |<img src="" width="50" height="50">|HISTOIRE|http://www.canalplus.com|
-|<img src="" width="50" height="50">|~~SCIENCE ET VIE TV~~|http://www.canalplus.com|
+|<img src="" width="50" height="50">|SCIENCE ET VIE TV|http://www.canalplus.com|
 |<img src="" width="50" height="50">|ANIMAUX|http://www.canalplus.com|
 |<img src="" width="50" height="50">|TREK|http://www.canalplus.com|
 |<img src="" width="50" height="50">|SEASONS|http://www.canalplus.com|
@@ -165,34 +165,19 @@ Completness: **77.87%**
 |<img src="" width="50" height="50">|~~D17~~|http://www.tv.orange.fr|
 |<img src="" width="50" height="50">|~~SCIENCE et VIE TV~~|http://www.tv.orange.fr|
 |<img src="" width="50" height="50">|~~CHASSE PECHE~~|http://www.tv.orange.fr|
-|<img src="http://content.osn.com/logo/channel/cropped/AD3.png" width="50" height="50">|~~AD Sports 3 HD~~|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/AD4.png" width="50" height="50">|~~AD Sports 4 HD~~|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/AD5.png" width="50" height="50">|~~AD Sports 5 HD~~|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/AD6.png" width="50" height="50">|~~AD Sports 6 HD~~|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/AD7.png" width="50" height="50">|~~Edge Sport HD~~|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/DS5.png" width="50" height="50">|~~Dubai Sports 4 HD~~|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/DH2.png" width="50" height="50">|~~Dubai Sports 2 HD~~|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/TFC.png" width="50" height="50">|TFC|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/BRO.png" width="50" height="50">|ABS-CBN Sports+Action|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/COG.png" width="50" height="50">|Cinema One Global|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/ANC.png" width="50" height="50">|ANC|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/DZM.png" width="50" height="50">|DZMM Teleradyo|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/DWR.png" width="50" height="50">|DWRR 101.9|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/VIV.png" width="50" height="50">|Viva TV|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/TV5.png" width="50" height="50">|~~Kapatid TV5~~|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/AKS.png" width="50" height="50">|Aksyon TV|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/DJR.png" width="50" height="50">|Disney Junior|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/STJ.png" width="50" height="50">|~~Star Jalsha~~|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/SPR.png" width="50" height="50">|~~Star Pravah~~|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/CTA.png" width="50" height="50">|CGTN Arabic|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/DSC.png" width="50" height="50">|Discovery HD|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/DCF.png" width="50" height="50">|~~Discovery Family HD~~|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/SCI.png" width="50" height="50">|Discovery Science HD|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/DCX.png" width="50" height="50">|Discovery ID|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/CAI.png" width="50" height="50">|Crime \\u0026 Investigation Network|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/HIS.png" width="50" height="50">|History HD|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/HI2.png" width="50" height="50">|H2 HD|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/MTL.png" width="50" height="50">|MTV Live HD|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/VH1.png" width="50" height="50">|VH1|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/TRM.png" width="50" height="50">|~~Trace Urban~~|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/SMX.png" width="50" height="50">|~~Sony MIX~~|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/MIN.png" width="50" height="50">|~~MTV India~~|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/UTV.png" width="50" height="50">|~~Bindaas~~|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/DIS.png" width="50" height="50">|Disney HD|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/DXD.png" width="50" height="50">|~~Disney XD~~|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/GEM.png" width="50" height="50">|~~Gemini TV~~|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/DJR.png" width="50" height="50">|Disney Junior|http://www.osn.com|
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F92e431a5a4dc3bed.2Epng/30x30/quality/80/m6-boutique.png" width="50" height="50">|M6 Boutique|http://www.m.programme-tv.net|
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F20eb72545f38c83e.2Epng/30x30/quality/80/planeteplus-crime-investigation.png" width="50" height="50">|Planète+ Crime Investigation|http://www.m.programme-tv.net|
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F6cb5f38dbfebbc80.2Epng/30x30/quality/80/planeteplus-aventure-experience.png" width="50" height="50">|Planète+ Aventure Expérience|http://www.m.programme-tv.net|
@@ -229,15 +214,18 @@ Completness: **77.87%**
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F42866761d8d5efe1.2Epng/30x30/quality/80/automoto.png" width="50" height="50">|Automoto|http://www.m.programme-tv.net|
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F57f850d8546962e8.2Epng/30x30/quality/80/equidia.png" width="50" height="50">|Equidia|http://www.m.programme-tv.net|
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F57c9f12a257453d0.2Epng/30x30/quality/80/golfplus.png" width="50" height="50">|Golf+|http://www.m.programme-tv.net|
-|<img src="http://content.osn.com/logo/channel/cropped/NJR.png" width="50" height="50">|Nick Jr|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/KDZ.png" width="50" height="50">|OSN Kid Zone TV|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/ONS.png" width="50" height="50">|OSN News|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/SKH.png" width="50" height="50">|Sky News HD|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/BBW.png" width="50" height="50">|BBC World|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/SET.png" width="50" height="50">|~~SET Middle East~~|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/DSC.png" width="50" height="50">|Discovery HD|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/DCF.png" width="50" height="50">|~~Discovery Family HD~~|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/NKT.png" width="50" height="50">|NickToons|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/DUH.png" width="50" height="50">|Dubai Racing 1 HD|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/DH2.png" width="50" height="50">|~~Dubai Sports 4 HD~~|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/DS5.png" width="50" height="50">|~~Dubai Sports 5 HD~~|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/WAD.png" width="50" height="50">|Al Wosta from Al Dhaid|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/KTS.png" width="50" height="50">|KTV Sport HD|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/KTP.png" width="50" height="50">|KTV Sport Plus HD|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/TFC.png" width="50" height="50">|TFC|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/BRO.png" width="50" height="50">|ABS-CBN Sports+Action|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/COG.png" width="50" height="50">|Cinema One Global|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/ANC.png" width="50" height="50">|ANC|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/DZM.png" width="50" height="50">|DZMM Teleradyo|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/DWR.png" width="50" height="50">|DWRR 101.9|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/OM1.png" width="50" height="50">|OSN Movies HD|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/OM1.png" width="50" height="50">|OSN Movies First HD|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/OMX.png" width="50" height="50">|OSN Movies First HD +2h|http://www.osn.com|
@@ -251,7 +239,7 @@ Completness: **77.87%**
 |<img src="http://content.osn.com/logo/channel/cropped/OMK.png" width="50" height="50">|OSN Movies Kids HD|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/OFM.png" width="50" height="50">|OSN Movies Family HD|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/OMC.png" width="50" height="50">|~~OSN Movies Comedy HD~~|http://www.osn.com|
-|<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1241_1.png" width="50" height="50">|~~MBC 3~~|http://www.elcinema.com|
+|<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1241_1.png" width="50" height="50">|MBC 3|http://www.elcinema.com|
 |<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1127_1.png" width="50" height="50">|MBC|http://www.elcinema.com|
 |<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1132_1.png" width="50" height="50">|~~MBC MAX~~|http://www.elcinema.com|
 |<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1130_1.png" width="50" height="50">|~~MBC Action~~|http://www.elcinema.com|
@@ -481,7 +469,7 @@ Completness: **77.87%**
 |<img src="http://content.osn.com/logo/channel/cropped/ETV.png" width="50" height="50">|E! Entertainment HD|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/BBE.png" width="50" height="50">|~~BBC First HD~~|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/GUK.png" width="50" height="50">|~~ITV Choice HD~~|http://www.osn.com|
-|<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1321_1.png" width="50" height="50">|~~almanar~~|http://www.elcinema.com|
+|<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1321_1.png" width="50" height="50">|almanar|http://www.elcinema.com|
 |<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1226_1.png" width="50" height="50">|Sada El Balad|http://www.elcinema.com|
 |<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1203_1.png" width="50" height="50">|ON E|http://www.elcinema.com|
 |<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1298_1.png" width="50" height="50">|Amman|http://www.elcinema.com|
@@ -503,7 +491,7 @@ Completness: **77.87%**
 |<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1292_1.png" width="50" height="50">|DMC DRAMA|http://www.elcinema.com|
 |<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1138_1.png" width="50" height="50">|~~Alhayat Series~~|http://www.elcinema.com|
 |<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1280_1.png" width="50" height="50">|TeN TV|http://www.elcinema.com|
-|<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1233_1.png" width="50" height="50">|~~Fan~~|http://www.elcinema.com|
+|<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1233_1.png" width="50" height="50">|Fan|http://www.elcinema.com|
 |<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1317_1.png" width="50" height="50">|~~Oman~~|http://www.elcinema.com|
 |<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1312_1.png" width="50" height="50">|Al Aoula Morocco|http://www.elcinema.com|
 |<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1207_1.png" width="50" height="50">|~~Aflam TV 7 Maroc~~|http://www.elcinema.com|
@@ -528,7 +516,7 @@ Completness: **77.87%**
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fcb256bd78e05904a.2Epng/30x30/quality/80/mtv-hits-france.png" width="50" height="50">|MTV Hits (France)|http://www.m.programme-tv.net|
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fb21edcb883601695.2Epng/30x30/quality/80/m6-music.png" width="50" height="50">|M6 Music|http://www.m.programme-tv.net|
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Ff5a538ca935a1d38.2Epng/30x30/quality/80/nrj-hits.png" width="50" height="50">|NRJ Hits|http://www.m.programme-tv.net|
-|<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F05a4da2bd19b8f1e.2Epng/30x30/quality/80/trace-urban.png" width="50" height="50">|~~Trace Urban~~|http://www.m.programme-tv.net|
+|<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F05a4da2bd19b8f1e.2Epng/30x30/quality/80/trace-urban.png" width="50" height="50">|Trace Urban|http://www.m.programme-tv.net|
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F4b1a972ef402680d.2Epng/30x30/quality/80/mcm-top.png" width="50" height="50">|MCM Top|http://www.m.programme-tv.net|
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fd4373bfa242dad06.2Epng/30x30/quality/80/rfm-tv.png" width="50" height="50">|RFM TV|http://www.m.programme-tv.net|
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fe3cb744efff1a629.2Epng/30x30/quality/80/melody.png" width="50" height="50">|Melody|http://www.m.programme-tv.net|
@@ -568,25 +556,17 @@ Completness: **77.87%**
 |<img src="http://content.osn.com/logo/channel/cropped/OFH.png" width="50" height="50">|OSN Series First HD|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/OFS.png" width="50" height="50">|~~OSN First HBO HD~~|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/OFX.png" width="50" height="50">|~~OSN Series HD~~|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/TIM.png" width="50" height="50">|~~Times Now~~|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/NDT.png" width="50" height="50">|~~NDTV 24x7~~|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/ANN.png" width="50" height="50">|~~Asianet News~~|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/SNH.png" width="50" height="50">|Sky News Arabia HD|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/SNA.png" width="50" height="50">|Sky News Arabia|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/ARH.png" width="50" height="50">|~~Alarabiya~~|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/FRA.png" width="50" height="50">|France 24|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/CTA.png" width="50" height="50">|CCTV Arabic|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/SCI.png" width="50" height="50">|Discovery Science HD|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/DCX.png" width="50" height="50">|IDX HD|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/CAI.png" width="50" height="50">|Crime \\u0026 Investigation Network|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/HIS.png" width="50" height="50">|History HD|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/HI2.png" width="50" height="50">|H2 HD|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/APL.png" width="50" height="50">|~~Animal Planet HD~~|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/NGO.png" width="50" height="50">|Nat Geo HD|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/NHD.png" width="50" height="50">|Nat Geo Wild HD|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/NAH.png" width="50" height="50">|Nat Geo People HD|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/CNB.png" width="50" height="50">|CNBC|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/FXN.png" width="50" height="50">|~~Fox News~~|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/WWE.png" width="50" height="50">|~~OSN WWE Network HD~~|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/CRI.png" width="50" height="50">|~~OSN Sports Cricket HD~~|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/TCR.png" width="50" height="50">|~~Ten Cricket International~~|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/FUE.png" width="50" height="50">|~~Fuel TV~~|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/GNX.png" width="50" height="50">|~~Ginx Esports TV HD~~|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/AD3.png" width="50" height="50">|~~AD Sports 3 HD~~|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/AD4.png" width="50" height="50">|~~AD Sports 4 HD~~|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/AD5.png" width="50" height="50">|~~AD Sports 5 HD~~|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/AD6.png" width="50" height="50">|~~AD Sports 6 HD~~|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/AD7.png" width="50" height="50">|~~Edge Sport HD~~|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/DUH.png" width="50" height="50">|Dubai Racing 1 HD|http://www.osn.com|
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F9c869cdecb9a6c36.2Epng/30x30/quality/80/bein-sports-max-5.png" width="50" height="50">|beIN SPORTS MAX 5|http://www.m.programme-tv.net|
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F62ebc7a06f14c677.2Epng/30x30/quality/80/bein-sports-max-6.png" width="50" height="50">|beIN SPORTS MAX 6|http://www.m.programme-tv.net|
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fe230707a846c7534.2Epng/30x30/quality/80/bein-sports-max-7.png" width="50" height="50">|beIN SPORTS MAX 7|http://www.m.programme-tv.net|
