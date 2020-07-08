@@ -3,8 +3,8 @@
 [![Build Status](https://travis-ci.org/Fazzani/grab.svg?branch=master)](https://travis-ci.org/Fazzani/grab)
 ![CI](https://github.com/Fazzani/grab/workflows/CI/badge.svg)
 
-![Channel count](https://img.shields.io/static/v1?style=for-the-badge&label=channel%20count&message=651&color=9cf&cacheSeconds=3600)
-![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=83.87%&color=yellow&cacheSeconds=3600)
+![Channel count](https://img.shields.io/static/v1?style=for-the-badge&label=channel%20count&message=654&color=9cf&cacheSeconds=3600)
+![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=85.32%&color=yellow&cacheSeconds=3600)
 
 ## channels list
 
@@ -31,16 +31,11 @@
 |<img src="http://content.osn.com/logo/channel/cropped/CTV.png" width="50" height="50">|~~Citruss TV~~|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/OM1.png" width="50" height="50">|OSN Movies First HD|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/OMX.png" width="50" height="50">|OSN Movies First HD +2h|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/AHD.png" width="50" height="50">|OSN Movies Action HD|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/OMA.png" width="50" height="50">|~~OSN Movies Action +2~~|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/OPR.png" width="50" height="50">|OSN Movies HD|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/POP.png" width="50" height="50">|~~Paw Patrol with OSN~~|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/OPX.png" width="50" height="50">|~~OSN Movies +2h~~|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/OCM.png" width="50" height="50">|OSN Movies Thriller HD|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/OC2.png" width="50" height="50">|~~OSN Movies Thriller +2h~~|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/OMK.png" width="50" height="50">|OSN Movies Kids HD|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/OFM.png" width="50" height="50">|OSN Movies Disney HD|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/OMC.png" width="50" height="50">|~~OSN Movies Comedy HD~~|http://www.osn.com|
 |<img src="https://television.telerama.fr/sites/tr_master/files/styles/channel_logo_80x80/public/sheet_media/tv/150x150/192.png?itok=LK8LTHrB" width="50" height="50">|MTV Rocks|http://www.telerama.fr|
 |<img src="https://television.telerama.fr/sites/tr_master/files/styles/channel_logo_80x80/public/sheet_media/tv/150x150/192.png?itok=LK8LTHrB" width="50" height="50">|MTV Base|http://www.telerama.fr|
 |<img src="https://television.telerama.fr/sites/tr_master/files/styles/channel_logo_80x80/public/sheet_media/tv/150x150/192.png?itok=LK8LTHrB" width="50" height="50">|NRJ Hits|http://www.telerama.fr|
@@ -65,8 +60,6 @@
 |<img src="http://content.osn.com/logo/channel/cropped/BBW.png" width="50" height="50">|BBC World|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/CNB.png" width="50" height="50">|CNBC|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/BTV.png" width="50" height="50">|Bloomberg|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/CT9.png" width="50" height="50">|CGTN|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/FRE.png" width="50" height="50">|France 24 English|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/NHK.png" width="50" height="50">|NHK World TV|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/SNH.png" width="50" height="50">|Sky News Arabia HD|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/SNA.png" width="50" height="50">|Sky News Arabia|http://www.osn.com|
@@ -84,7 +77,7 @@
 |<img src="" width="50" height="50">|CSTAR HITS FRANCE|http://www.canalplus.com|
 |<img src="" width="50" height="50">|M6 MUSIC|http://www.canalplus.com|
 |<img src="" width="50" height="50">|NRJ HITS|http://www.canalplus.com|
-|<img src="" width="50" height="50">|~~TRACE URBAN~~|http://www.canalplus.com|
+|<img src="" width="50" height="50">|TRACE URBAN|http://www.canalplus.com|
 |<img src="" width="50" height="50">|~~MCM TOP~~|http://www.canalsat.fr|
 |<img src="" width="50" height="50">|RFM TV|http://www.canalplus.com|
 |<img src="" width="50" height="50">|MELODY|http://www.canalplus.com|
@@ -180,6 +173,16 @@
 |<img src="http://content.osn.com/logo/channel/cropped/DIS.png" width="50" height="50">|Disney HD|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/DXD.png" width="50" height="50">|~~Disney XD~~|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/DJR.png" width="50" height="50">|Disney Junior|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/DUH.png" width="50" height="50">|Dubai Racing 1 HD|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/WAD.png" width="50" height="50">|Al Wosta from Al Dhaid|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/KTS.png" width="50" height="50">|KTV Sport HD|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/KTP.png" width="50" height="50">|KTV Sport Plus HD|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/TFC.png" width="50" height="50">|TFC|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/BRO.png" width="50" height="50">|ABS-CBN Sports+Action|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/COG.png" width="50" height="50">|Cinema One Global|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/ANC.png" width="50" height="50">|ANC|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/DZM.png" width="50" height="50">|DZMM Teleradyo|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/DWR.png" width="50" height="50">|DWRR 101.9|http://www.osn.com|
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F92e431a5a4dc3bed.2Epng/30x30/quality/80/m6-boutique.png" width="50" height="50">|M6 Boutique|http://www.m.programme-tv.net|
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F20eb72545f38c83e.2Epng/30x30/quality/80/planeteplus-crime-investigation.png" width="50" height="50">|Planète+ Crime Investigation|http://www.m.programme-tv.net|
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F6cb5f38dbfebbc80.2Epng/30x30/quality/80/planeteplus-aventure-experience.png" width="50" height="50">|Planète+ Aventure Expérience|http://www.m.programme-tv.net|
@@ -255,7 +258,7 @@
 |<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1121_1.png" width="50" height="50">|ART Aflam 2|http://www.elcinema.com|
 |<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1147_1.png" width="50" height="50">|Rotana Drama|http://www.elcinema.com|
 |<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1149_1.png" width="50" height="50">|Rotana Khalijiah|http://www.elcinema.com|
-|<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1339_1.png" width="50" height="50">|~~Al Saeedah~~|http://www.elcinema.com|
+|<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1339_1.png" width="50" height="50">|Al Saeedah|http://www.elcinema.com|
 |<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1223_1.png" width="50" height="50">|Al Nahar Drama|http://www.elcinema.com|
 |<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1178_1.png" width="50" height="50">|Abu Dhabi Drama|http://www.elcinema.com|
 |<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1138_1.png" width="50" height="50">|~~Alhayat Series~~|http://www.elcinema.com|
@@ -457,7 +460,7 @@
 |<img src="http://content.osn.com/logo/channel/cropped/AF1.png" width="50" height="50">|ART Aflam 1|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/AF2.png" width="50" height="50">|ART Aflam 2|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/ACM.png" width="50" height="50">|ART Cinema|http://www.osn.com|
-|<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1321_1.png" width="50" height="50">|~~almanar~~|http://www.elcinema.com|
+|<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1321_1.png" width="50" height="50">|almanar|http://www.elcinema.com|
 |<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1226_1.png" width="50" height="50">|Sada El Balad|http://www.elcinema.com|
 |<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1203_1.png" width="50" height="50">|ON E|http://www.elcinema.com|
 |<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1298_1.png" width="50" height="50">|Amman|http://www.elcinema.com|
@@ -479,8 +482,8 @@
 |<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1292_1.png" width="50" height="50">|DMC DRAMA|http://www.elcinema.com|
 |<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1138_1.png" width="50" height="50">|~~Alhayat Series~~|http://www.elcinema.com|
 |<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1280_1.png" width="50" height="50">|TeN TV|http://www.elcinema.com|
-|<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1233_1.png" width="50" height="50">|~~Fan~~|http://www.elcinema.com|
-|<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1317_1.png" width="50" height="50">|~~Oman~~|http://www.elcinema.com|
+|<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1233_1.png" width="50" height="50">|Fan|http://www.elcinema.com|
+|<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1317_1.png" width="50" height="50">|Oman|http://www.elcinema.com|
 |<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1312_1.png" width="50" height="50">|Al Aoula Morocco|http://www.elcinema.com|
 |<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1207_1.png" width="50" height="50">|~~Aflam TV 7 Maroc~~|http://www.elcinema.com|
 |<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1199_1.png" width="50" height="50">|CBC Drama|http://www.elcinema.com|
