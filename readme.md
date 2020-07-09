@@ -3,8 +3,8 @@
 [![Build Status](https://travis-ci.org/Fazzani/grab.svg?branch=master)](https://travis-ci.org/Fazzani/grab)
 ![CI](https://github.com/Fazzani/grab/workflows/CI/badge.svg)
 
-![Channel count](https://img.shields.io/static/v1?style=for-the-badge&label=channel%20count&message=654&color=9cf&cacheSeconds=3600)
-![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=85.02%&color=yellow&cacheSeconds=3600)
+![Channel count](https://img.shields.io/static/v1?style=for-the-badge&label=channel%20count&message=655&color=9cf&cacheSeconds=3600)
+![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=85.04%&color=yellow&cacheSeconds=3600)
 
 ## channels list
 
@@ -68,6 +68,8 @@
 |<img src="http://content.osn.com/logo/channel/cropped/NGO.png" width="50" height="50">|Nat Geo HD|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/NHD.png" width="50" height="50">|Nat Geo Wild HD|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/NAH.png" width="50" height="50">|Nat Geo People HD|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/CT9.png" width="50" height="50">|CGTN|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/FRE.png" width="50" height="50">|France 24 English|http://www.osn.com|
 |<img src="" width="50" height="50">|CHERIE 25|http://www.canalplus.com|
 |<img src="" width="50" height="50">|VICELAND|http://www.canalplus.com|
 |<img src="" width="50" height="50">|MTV|http://www.canalplus.com|
@@ -162,7 +164,6 @@
 |<img src="" width="50" height="50">|~~CHASSE PECHE~~|http://www.tv.orange.fr|
 |<img src="http://content.osn.com/logo/channel/cropped/CTA.png" width="50" height="50">|CGTN Arabic|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/DSC.png" width="50" height="50">|Discovery HD|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/DCF.png" width="50" height="50">|~~Discovery Family HD~~|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/SCI.png" width="50" height="50">|Discovery Science HD|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/DCX.png" width="50" height="50">|Discovery ID|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/CAI.png" width="50" height="50">|Crime \\u0026 Investigation Network|http://www.osn.com|
@@ -473,7 +474,7 @@
 |<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1302_1.png" width="50" height="50">|~~Fujairah~~|http://www.elcinema.com|
 |<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1299_1.png" width="50" height="50">|Roya|http://www.elcinema.com|
 |<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1145_1.png" width="50" height="50">|~~Mehwar~~|http://www.elcinema.com|
-|<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1137_1.png" width="50" height="50">|Alhayat TV|http://www.elcinema.com|
+|<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1137_1.png" width="50" height="50">|~~Alhayat TV~~|http://www.elcinema.com|
 |<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1188_1.png" width="50" height="50">|Sharjah TV|http://www.elcinema.com|
 |<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1313_1.png" width="50" height="50">|Lana|http://www.elcinema.com|
 |<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1227_1.png" width="50" height="50">|Sada El Balad Drama|http://www.elcinema.com|

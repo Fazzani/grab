@@ -23,6 +23,7 @@ jobs:
   - stage: merging
     name: Merging xmltv files
     script: |
+      wget https://raw.githubusercontent.com/Fazzani/grab/master/build.sh -O build.sh
       chmod +x ./build.sh && ./build.sh --merge
 
 notifications:
