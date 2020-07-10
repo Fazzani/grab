@@ -4,7 +4,7 @@
 ![CI](https://github.com/Fazzani/grab/workflows/CI/badge.svg)
 
 ![Channel count](https://img.shields.io/static/v1?style=for-the-badge&label=channel%20count&message=655&color=9cf&cacheSeconds=3600)
-![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=85.04%&color=yellow&cacheSeconds=3600)
+![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=84.73%&color=yellow&cacheSeconds=3600)
 
 ## channels list
 
@@ -76,7 +76,7 @@
 |<img src="" width="50" height="50">|MCM|http://www.canalplus.com|
 |<img src="" width="50" height="50">|GAME ONE|http://www.canalplus.com|
 |<img src="" width="50" height="50">|MANGAS|http://www.canalplus.com|
-|<img src="" width="50" height="50">|CSTAR HITS FRANCE|http://www.canalplus.com|
+|<img src="" width="50" height="50">|~~CSTAR HITS FRANCE~~|http://www.canalplus.com|
 |<img src="" width="50" height="50">|M6 MUSIC|http://www.canalplus.com|
 |<img src="" width="50" height="50">|NRJ HITS|http://www.canalplus.com|
 |<img src="" width="50" height="50">|TRACE URBAN|http://www.canalplus.com|
@@ -387,7 +387,7 @@
 |<img src="https://epg.beinsports.com/mena_sports/HD9.svg?2017" width="50" height="50">|HD9 English|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_sports/HD10.svg?2018" width="50" height="50">|HD10 English|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_sports/SportsHD11.svg" width="50" height="50">|SportsHD11 English|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_sports/SportsHD12.svg" width="50" height="50">|SportsHD12 English|http://www.bein.net|
+|<img src="https://epg.beinsports.com/mena_sports/SportsHD12.svg" width="50" height="50">|~~SportsHD12 English~~|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_sports/SportsHD13.svg" width="50" height="50">|SportsHD13 English|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_sports/SportsHD14.svg" width="50" height="50">|SportsHD14 English|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_sports/SportsHD15.svg" width="50" height="50">|SportsHD15 English|http://www.bein.net|
