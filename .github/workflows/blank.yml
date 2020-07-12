@@ -1,7 +1,7 @@
 name: CI
 on:
   schedule:
-    - cron:  '0 */6 * * *'
+    - cron:  '0 18 * * *'
 
 jobs:
   build:
@@ -16,6 +16,7 @@ jobs:
       run: |
         pip install pandas jinja2
         python ./scripts/check.py .
+        ./build.sh --stats 1
         chmod +x ./scripts/readme.sh && ./scripts/readme.sh
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"

@@ -23,7 +23,9 @@ def check(file_path: str) -> Tuple[List[str], List[str]]:
         map(
             lambda c: {
                 "id": c.get("id"),
-                "icon": c.find("icon").get("src").split('|')[0] if c.find("icon") is not None else "",
+                "icon": c.find("icon").get("src").split("|")[0]
+                if c.find("icon") is not None
+                else "",
                 "site": c.find("url").text,
             },
             root.findall("channel"),
