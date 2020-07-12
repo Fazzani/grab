@@ -14,17 +14,17 @@ data: str = '''
 
 ## channels list
 
-[All channels link](https://github.com/Fazzani/grab/blob/master/merge.tar.gz?raw=true)
-
+- [All channels link](https://github.com/Fazzani/grab/blob/master/merge.tar.gz?raw=true)
+- [Missed channels list](out/missed_channels.md)
 
 
 |Icon|Channel|Site|
 |:----|:---:|:---:|
 {% for ch in channels -%}
 {% if ch.missed == 'True' -%}
-|<img src="{{ch.icon}}" width="50" height="50">|~~{{ ch.id }}~~|{{ ch.site }}|
+|<img src="{{ch.icon}}" width="100" height="50">|~~{{ ch.id }}~~|{{ ch.site }}|
 {% else -%}
-|<img src="{{ch.icon}}" width="50" height="50">|{{ ch.id }}|{{ ch.site }}|
+|<img src="{{ch.icon}}" width="100" height="50">|{{ ch.id }}|{{ ch.site }}|
 {% endif -%}
 {% endfor %}
 '''

@@ -16,10 +16,10 @@ def check(file_path: str) -> Tuple[List[str], List[str]]:
     tree = ET.parse(file_path)
     root = tree.getroot()
 
-    df_cols = ["start", "channel", "title"]
-    df = pd.DataFrame(columns=df_cols)
+    df_cols: List[str] = ["start", "channel", "title"]
+    df: pd.DataFrame = pd.DataFrame(columns=df_cols)
 
-    all_channels = list(
+    all_channels: List[any] = list(
         map(
             lambda c: {
                 "id": c.get("id"),
@@ -44,9 +44,8 @@ def check(file_path: str) -> Tuple[List[str], List[str]]:
     df.set_index("start", inplace=True)
     df = df.set_index(pd.to_datetime(df.index))
     df.index = pd.to_datetime(df.index, utc=True)
-    res = df[
-        df.index.to_pydatetime()
-        > (pytz.UTC.localize(datetime.utcnow() - pd.Timedelta(days=1)))
+    res: pd.DataFrame = df[
+        df.index.to_pydatetime() > (pytz.UTC.localize(datetime.utcnow() - pd.Timedelta(days=1)))
     ]
     count = res.groupby(["channel"], as_index=False).count()
     logging.debug(f"count: {count}")
@@ -70,7 +69,7 @@ if __name__ == "__main__":
             all_ch, missed_ch = check(file_path)
             all = [*all, *all_ch]
             missed = [*missed, *missed_ch]
-        df = pd.DataFrame(all, columns=["id", "icon", "site"])
+        df: pd.DataFrame = pd.DataFrame(all, columns=["id", "icon", "site"])
         df["date"] = datetime.today()
         df.set_index("date", inplace=True)
         df["missed"] = df["id"].apply(lambda row: row in missed)
@@ -80,9 +79,7 @@ if __name__ == "__main__":
         logging.info(f"Total count: {len(all)} missed count: {len(missed)}")
         logging.info(f"Completness {100-(len(missed)/len(all)*100):3.2f}%")
         df.to_csv(
-            os.path.join(sys.argv[1], "out", "epg.csv"),
-            encoding="utf-8",
-            date_format="%Y%m%d",
+            os.path.join(sys.argv[1], "out", "epg.csv"), encoding="utf-8", date_format="%Y%m%d",
         )
     except Exception as ex:
         logging.error("Unexpected error:", ex)

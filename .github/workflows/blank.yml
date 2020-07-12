@@ -16,8 +16,9 @@ jobs:
       run: |
         pip install pandas jinja2
         python ./scripts/check.py .
-        ./build.sh --stats 1
+        ./build.sh --stats 30
         chmod +x ./scripts/readme.sh && ./scripts/readme.sh
+        chmod +x ./scripts/missed_channels.sh && ./scripts/missed_channels.sh
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add .

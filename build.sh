@@ -38,8 +38,8 @@ function merge {
     done
 }
 
-function channels_histo {
-    local month_ago_date=$(date --date="-${1:-1} month" +%F)
+function stats {
+    local month_ago_date=$(date --date="-${1:-7} day" +%F)
     local data_file_path="/tmp/tmp_epg.csv"
     local merge_file_path="/tmp/epg_merge.csv"
 
@@ -69,7 +69,7 @@ do
         ;;
     "--stats")
         shift
-        channels_histo "$1"
+        stats "$1"
         exit 0
         ;;
     esac
