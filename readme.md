@@ -4,7 +4,7 @@
 ![CI](https://github.com/Fazzani/grab/workflows/CI/badge.svg)
 
 ![Channel count](https://img.shields.io/static/v1?style=for-the-badge&label=channel%20count&message=636&color=9cf&cacheSeconds=3600)
-![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=88.36%&color=yellow&cacheSeconds=3600)
+![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=88.05%&color=yellow&cacheSeconds=3600)
 
 ## channels list
 
@@ -379,7 +379,7 @@
 |<img src="http://content.osn.com/logo/channel/cropped/NKT.png" width="100" height="50">|NickToons HD|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/KDZ.png" width="100" height="50">|OSN Kid Zone TV|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/BAB.png" width="100" height="50">|Baby TV Europe|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/ONS.png" width="100" height="50">|OSN News|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/ONS.png" width="100" height="50">|~~OSN News~~|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/SKH.png" width="100" height="50">|Sky News HD|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/BBW.png" width="100" height="50">|BBC World|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/CNB.png" width="100" height="50">|CNBC|http://www.osn.com|
@@ -412,7 +412,7 @@
 |<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1207_1.png" width="100" height="50">|~~Aflam TV 7 Maroc~~|http://www.elcinema.com|
 |<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1199_1.png" width="100" height="50">|CBC Drama|http://www.elcinema.com|
 |<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1156_1.png" width="100" height="50">|Nile Drama|http://www.elcinema.com|
-|<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1161_1.png" width="100" height="50">|Series|http://www.elcinema.com|
+|<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1161_1.png" width="100" height="50">|~~Series~~|http://www.elcinema.com|
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F92e431a5a4dc3bed.2Epng/30x30/quality/80/m6-boutique.png" width="100" height="50">|M6 Boutique|http://www.m.programme-tv.net|
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F20eb72545f38c83e.2Epng/30x30/quality/80/planeteplus-crime-investigation.png" width="100" height="50">|Planète+ Crime Investigation|http://www.m.programme-tv.net|
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F6cb5f38dbfebbc80.2Epng/30x30/quality/80/planeteplus-aventure-experience.png" width="100" height="50">|Planète+ Aventure Expérience|http://www.m.programme-tv.net|
