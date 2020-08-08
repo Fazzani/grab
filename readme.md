@@ -4,7 +4,7 @@
 ![CI](https://github.com/Fazzani/grab/workflows/CI/badge.svg)
 
 ![Channel count](https://img.shields.io/static/v1?style=for-the-badge&label=channel%20count&message=636&color=9cf&cacheSeconds=3600)
-![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=87.58%&color=yellow&cacheSeconds=3600)
+![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=87.42%&color=yellow&cacheSeconds=3600)
 
 ## channels list
 
@@ -549,7 +549,7 @@
 |<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1204_1.png" width="100" height="50">|iFILM TV|http://www.elcinema.com|
 |<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1292_1.png" width="100" height="50">|DMC DRAMA|http://www.elcinema.com|
 |<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1138_1.png" width="100" height="50">|~~Alhayat Series~~|http://www.elcinema.com|
-|<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1280_1.png" width="100" height="50">|TeN TV|http://www.elcinema.com|
+|<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1280_1.png" width="100" height="50">|~~TeN TV~~|http://www.elcinema.com|
 |<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1233_1.png" width="100" height="50">|Fan|http://www.elcinema.com|
 |<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1317_1.png" width="100" height="50">|~~Oman~~|http://www.elcinema.com|
 |<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1312_1.png" width="100" height="50">|Al Aoula Morocco|http://www.elcinema.com|
