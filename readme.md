@@ -549,10 +549,10 @@
 |<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1204_1.png" width="100" height="50">|iFILM TV|http://www.elcinema.com|
 |<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1292_1.png" width="100" height="50">|DMC DRAMA|http://www.elcinema.com|
 |<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1138_1.png" width="100" height="50">|~~Alhayat Series~~|http://www.elcinema.com|
-|<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1280_1.png" width="100" height="50">|~~TeN TV~~|http://www.elcinema.com|
+|<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1280_1.png" width="100" height="50">|TeN TV|http://www.elcinema.com|
 |<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1233_1.png" width="100" height="50">|Fan|http://www.elcinema.com|
 |<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1317_1.png" width="100" height="50">|~~Oman~~|http://www.elcinema.com|
-|<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1312_1.png" width="100" height="50">|Al Aoula Morocco|http://www.elcinema.com|
+|<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1312_1.png" width="100" height="50">|~~Al Aoula Morocco~~|http://www.elcinema.com|
 |<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1207_1.png" width="100" height="50">|~~Aflam TV 7 Maroc~~|http://www.elcinema.com|
 |<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1199_1.png" width="100" height="50">|CBC Drama|http://www.elcinema.com|
 |<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1156_1.png" width="100" height="50">|Nile Drama|http://www.elcinema.com|
@@ -600,7 +600,7 @@
 |<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1173_1.png" width="100" height="50">|Dubai One|http://www.elcinema.com|
 |<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1171_1.png" width="100" height="50">|~~Future TV~~|http://www.elcinema.com|
 |<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1225_1.png" width="100" height="50">|~~LBC Europe~~|http://www.elcinema.com|
-|<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1301_1.png" width="100" height="50">|Alsumaria|http://www.elcinema.com|
+|<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1301_1.png" width="100" height="50">|~~Alsumaria~~|http://www.elcinema.com|
 |<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1168_1.png" width="100" height="50">|LBCI|http://www.elcinema.com|
 |<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1260_1.png" width="100" height="50">|CBC sofra|http://www.elcinema.com|
 |<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1176_1.png" width="100" height="50">|Cima|http://www.elcinema.com|
@@ -609,7 +609,7 @@
 |<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1121_1.png" width="100" height="50">|ART Aflam 2|http://www.elcinema.com|
 |<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1147_1.png" width="100" height="50">|Rotana Drama|http://www.elcinema.com|
 |<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1149_1.png" width="100" height="50">|~~Rotana Khalijiah~~|http://www.elcinema.com|
-|<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1339_1.png" width="100" height="50">|~~Al Saeedah~~|http://www.elcinema.com|
+|<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1339_1.png" width="100" height="50">|Al Saeedah|http://www.elcinema.com|
 |<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1223_1.png" width="100" height="50">|Al Nahar Drama|http://www.elcinema.com|
 |<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1178_1.png" width="100" height="50">|Abu Dhabi Drama|http://www.elcinema.com|
 |<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1138_1.png" width="100" height="50">|~~Alhayat Series~~|http://www.elcinema.com|
