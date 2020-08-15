@@ -4,7 +4,7 @@
 ![CI](https://github.com/Fazzani/grab/workflows/CI/badge.svg)
 
 ![Channel count](https://img.shields.io/static/v1?style=for-the-badge&label=channel%20count&message=636&color=9cf&cacheSeconds=3600)
-![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=87.58%&color=yellow&cacheSeconds=3600)
+![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=87.26%&color=yellow&cacheSeconds=3600)
 
 ## channels list
 
@@ -327,7 +327,7 @@
 |<img src="https://epg.beinsports.com/mena_entertaintment/SeriesHD2.svg?123" width="100" height="50">|SeriesHD2 English|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_entertaintment/DramaHD1.svg?1232" width="100" height="50">|DramaHD1 English|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_entertaintment/gourmet.svg" width="100" height="50">|gourmet English|http://www.bein.net|
-|<img src="" width="100" height="50">|beJUNIOR English|http://www.bein.net|
+|<img src="" width="100" height="50">|~~beJUNIOR English~~|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_entertaintment/Jeem.svg?20158888" width="100" height="50">|Jeem English|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_entertaintment/Baraem.svg?2017" width="100" height="50">|Baraem English|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_entertaintment/CartoonNetworkHD.png" width="100" height="50">|CartoonNetworkHD|http://www.bein.net|
@@ -528,7 +528,7 @@
 |<img src="http://content.osn.com/logo/channel/cropped/OCM.png" width="100" height="50">|OSN Movies Thriller HD|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/OMK.png" width="100" height="50">|OSN Movies Kids HD|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/OFM.png" width="100" height="50">|OSN Movies Disney HD|http://www.osn.com|
-|<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1321_1.png" width="100" height="50">|almanar|http://www.elcinema.com|
+|<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1321_1.png" width="100" height="50">|~~almanar~~|http://www.elcinema.com|
 |<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1226_1.png" width="100" height="50">|Sada El Balad|http://www.elcinema.com|
 |<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1203_1.png" width="100" height="50">|ON E|http://www.elcinema.com|
 |<img src="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1298_1.png" width="100" height="50">|Amman|http://www.elcinema.com|
