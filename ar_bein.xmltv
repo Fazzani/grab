@@ -122,7 +122,6 @@
   </channel>
   <channel id="4K English">
     <display-name lang="en">beIN sports 4K</display-name>
-    <icon src="https://epg.beinsports.com/mena_sports/4K.svg" />
     <url>http://www.bein.net</url>
   </channel>
   <channel id="BS NBA English">
@@ -380,458 +379,467 @@
     <icon src="https://epg.beinsports.com/mena_entertaintment/FineLiving.png|https://epg.beinsports.com/mena_entertaintment/FineLiving.png" />
     <url>http://www.bein.net</url>
   </channel>
-  <programme start="20200823000000 +0100" stop="20200823002000 +0100" channel="Watania 1">
+  <programme start="20200824000000 +0100" stop="20200824002000 +0100" channel="Watania 1">
     <title lang="ar">نشرة منتصف الليل للأخبار</title>
     <desc lang="ar">نشرة عن آخر تطورات الاحداث الآنية وحوصلة لأهم الأنباء الوطنية والعالمية.</desc>
     <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/Journal-00h.jpg?itok=aOn98TUM" />
   </programme>
-  <programme start="20200823002000 +0100" stop="20200823003000 +0100" channel="Watania 1">
+  <programme start="20200824002000 +0100" stop="20200824003000 +0100" channel="Watania 1">
     <title lang="ar">النشرة الجوية</title>
     <desc lang="ar">نشرة لأبرز التوقعات الجوية لهذا اليوم و الأيام القليلة القادمة.</desc>
     <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/meteo_detail.jpg?itok=rZx5HMVT" />
   </programme>
-  <programme start="20200823003000 +0100" stop="20200823012100 +0100" channel="Watania 1">
+  <programme start="20200824003000 +0100" stop="20200824012200 +0100" channel="Watania 1">
     <title lang="ar">مسلسل الدوار</title>
-    <desc lang="ar">مسلسل الدوار.</desc>
+    <desc lang="ar">مسلسل الدوار.(c)</desc>
     <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_event_program/maxresdefault_16.jpg?itok=SDdnfXeU" />
   </programme>
-  <programme start="20200823012100 +0100" stop="20200823021800 +0100" channel="Watania 1">
-    <title lang="ar">مسلسل الليالي البيض</title>
-    <desc lang="ar">تدوق أحداث المسلسل عن الشابة التونسية "أحلام" التي تعيش قصة حب مع ابن جيرانها الشاب الفقير والعاطل عن العمل "نادر". ومع تقدم الأحداث يحصل هذا الأخير على وظيفة في شركة صاحبها "خالد العابد" وهو رجل أعمال ثري ليس له ورثاء مما يزرع في قلب "نادر" الطمع فيترك "أحلام" ليتعرف على أخت صاحب الشركة ظناً منه أنه الوريث الشرعي له بعد وفاته ومن هنا تبدأ المفاجآت.</desc>
-    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/%D8%A7%D9%84%D9%84%D9%8A%D8%A7%D9%84%D9%8A_%D8%A7%D9%84%D8%A8%D9%8A%D8%B6_.jpg?itok=q1D-_79r" />
-  </programme>
-  <programme start="20200823021800 +0100" stop="20200823030300 +0100" channel="Watania 1">
-    <title lang="ar">سوبر فاميلي</title>
-    <desc lang="ar">سوبر فاميلي هو مسلسل اجتماعي كوميدي سوري يتحدث عن مجموعة من العائلات السورية التي تربط بينها علاقات قرابة، ويتناول المسلسل في كل حلقتين موقف أو قضية تتعلق بعائلة معينة.</desc>
-    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/super-family.jpg?itok=APMpq4Sa" />
-  </programme>
-  <programme start="20200823030300 +0100" stop="20200823032600 +0100" channel="Watania 1">
+  <programme start="20200824012200 +0100" stop="20200824023300 +0100" channel="Watania 1">
     <title lang="ar">من حكايات العروي</title>
-    <desc lang="ar">حكم وعبر نستخلصها من حكايات العروي التي يرويها كما سمعها من جدته لكن بطريقته المتميزة والمشوقة ...</desc>
+    <desc lang="ar">حكم وعبر نستخلصها من حكايات العروي التي يرويها كما سمعها من جدته لكن بطريقته المتميزة والمشوقة ...(c)</desc>
     <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/%D8%A7%D9%84%D8%B9%D8%B1%D9%88%D9%8A.jpg?itok=6LA6-2kk" />
   </programme>
-  <programme start="20200823032600 +0100" stop="20200823043400 +0100" channel="Watania 1">
-    <title lang="ar">شريط تلفزي : الشجرة والملح</title>
-    <desc lang="ar">شريط تلفزي : الشجرة والملح.</desc>
-    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_event_program/%D9%81%D9%8A%D9%84%D9%85.jpg?itok=KyUO9g8k" />
+  <programme start="20200824023300 +0100" stop="20200824031800 +0100" channel="Watania 1">
+    <title lang="ar">سوبر فاميلي</title>
+    <desc lang="ar">سوبر فاميلي هو مسلسل اجتماعي كوميدي سوري يتحدث عن مجموعة من العائلات السورية التي تربط بينها علاقات قرابة، ويتناول المسلسل في كل حلقتين موقف أو قضية تتعلق بعائلة معينة.(c)</desc>
+    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/super-family.jpg?itok=APMpq4Sa" />
   </programme>
-  <programme start="20200823043400 +0100" stop="20200823060000 +0100" channel="Watania 1">
-    <title lang="ar">فقرة غنائية : عبد الحليم حافظ</title>
-    <desc lang="ar">فقرة غنائية : عبد الحليم حافظ.</desc>
-    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_event_program/%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%AD%D9%84%D9%8A%D9%85.jpg?itok=BTKcBbQW" />
+  <programme start="20200824031800 +0100" stop="20200824040000 +0100" channel="Watania 1">
+    <title lang="ar">عودة المنتقم</title>
+    <desc lang="ar">يعود إلى البرتغال حاملا معه ثأرا لعائلته التي تم الغدر بها قبل 15 عاما، لكن انتقامه يتشابك مع الغرام بعد وقوعه في حب إبنة عدوه... فهل تنتصر معاني الحب على منطق الانتقام؟.(c)</desc>
+    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/111111111111111111111_1.jpg?itok=b5CKEo2a" />
   </programme>
-  <programme start="20200823060200 +0100" stop="20200823061800 +0100" channel="Watania 1">
+  <programme start="20200824040000 +0100" stop="20200824051600 +0100" channel="Watania 1">
+    <title lang="ar">حفل من مهرجان</title>
+    <desc lang="ar">حفل من مهرجان.(c)</desc>
+    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/hafel-minmahrajen.jpg?itok=QhJtbDCL" />
+  </programme>
+  <programme start="20200824051600 +0100" stop="20200824060000 +0100" channel="Watania 1">
+    <title lang="ar">وثائقيات من اليابان</title>
+    <desc lang="ar">وثائقيات من اليابان.(c)</desc>
+    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/%D9%88%D8%AB%D8%A7%D8%A6%D9%82%D9%8A%D8%A7%D8%AA%20%D9%85%D9%86%20%D8%A7%D9%84%D9%8A%D8%A7%D8%A8%D8%A7%D9%86.jpg?itok=3zLL2TIa" />
+  </programme>
+  <programme start="20200824060200 +0100" stop="20200824061900 +0100" channel="Watania 1">
     <title lang="ar">القرآن الكريم</title>
     <desc lang="ar">القرآن الكريم.</desc>
     <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_event_program/%D8%AA%D8%B9%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86-%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85-1024x768.jpg?itok=IuPg0Wn7" />
   </programme>
-  <programme start="20200823061800 +0100" stop="20200823063700 +0100" channel="Watania 1">
+  <programme start="20200824061900 +0100" stop="20200824064000 +0100" channel="Watania 1">
     <title lang="ar">ابتهالات</title>
     <desc lang="ar">مجموعة من الأناشيد الدينية في مدح خير البرية...</desc>
     <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/ibtihelet-lotfi1.jpg?itok=0d07ybYc" />
   </programme>
-  <programme start="20200823063700 +0100" stop="20200823072200 +0100" channel="Watania 1">
-    <title lang="ar">مدائن الشرق</title>
-    <desc lang="ar">وثائقي يعبر من خلال رسم التاريخ كل بوابات مدن الشرق ليكشف عن سحرها وجمال لحظاتها العابرة.</desc>
-    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/madain-orient1.jpg?itok=P8-Hf9Q5" />
+  <programme start="20200824064000 +0100" stop="20200824070700 +0100" channel="Watania 1">
+    <title lang="ar">وثائقي : رحلة الفل والياسمين</title>
+    <desc lang="ar">وثائقي : رحلة الفل والياسمين.(c)</desc>
+    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/maxresdefault_3.jpg?itok=SG37dczN" />
   </programme>
-  <programme start="20200823072200 +0100" stop="20200823080000 +0100" channel="Watania 1">
-    <title lang="ar">مسافات وحكايات</title>
-    <desc lang="ar">سافات وحكاياات، رحلة في رحاب السكك الحديدية التونسية نتوقف في كل محطة فيها لنتعرف على المنطقة وجمالها الطبيعي وتاريخها وثقافتها...
+  <programme start="20200824070700 +0100" stop="20200824073300 +0100" channel="Watania 1">
+    <title lang="ar">وثائقي: الجم صرح شامخ...وفن راسخ</title>
+    <desc lang="ar">من أبرز المعالم الأثرية في تونس قصر الجم الروماني أو مسرح الجم، يشهد على روعة معالم وجمال آثار تونس التاريخية وخاصة في الحقبة الرومانية الصامدة على مرّ السنين. والذي يميزها بتاريخها ومعمارها الشامخ إلى يومنا هذا. 
 
-إعداد عبد الحق طرشوني
-
-إخراج: سمير محفوظي.</desc>
-    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/%D9%85%D8%B3%D8%A7%D9%81%D8%A7%D8%AA_0.jpg?itok=Vh1wOVR1" />
+وثائقي من إعداد و تصور إقبال الكلبوسي و إخراج نبيل بالسيدة.(c)</desc>
+    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/%D8%AB%D8%A7%D9%84%D8%AC%D9%85.jpg?itok=d3Tk2ka3" />
   </programme>
-  <programme start="20200823080000 +0100" stop="20200823085400 +0100" channel="Watania 1">
-    <title lang="ar">تبّعني</title>
-    <desc lang="ar">جولة في جهات البلاد للتعرف على ثقافتها ومنتوجها السياحي.</desc>
-    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/tabba3ni_detail.jpg?itok=g-PQKfJ-" />
+  <programme start="20200824073300 +0100" stop="20200824080800 +0100" channel="Watania 1">
+    <title lang="ar">تونس المدينة العتيقة</title>
+    <desc lang="ar">تونس المدينة العتيقة.(c)</desc>
+    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/%D8%AA%D9%88%D9%86%D8%B3%20%D8%A7%D9%84%D9%85%D8%AF%D9%8A%D9%86%D8%A9%20%D8%A7%D9%84%D8%B9%D8%AA%D9%8A%D9%82%D8%A9.jpg?itok=-qg6ksrV" />
   </programme>
-  <programme start="20200823085400 +0100" stop="20200823104200 +0100" channel="Watania 1">
-    <title lang="ar">صور متحركة</title>
-    <desc lang="ar">...فسحة لتنمية الخيال لدى الطفل في عالم من المغامرات يتسلق فيه الجبال ويصعد فيه إلى الفضاء ويقتحم الأحراش ويسامر الوحوش.</desc>
-    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_event_program/%D9%83%D8%A7%D8%B1%D8%AA%D9%88%D9%86%D8%B2.jpg?itok=3i7y5U5j" />
-  </programme>
-  <programme start="20200823104200 +0100" stop="20200823112400 +0100" channel="Watania 1">
-    <title lang="ar">دعبل اخو دهبل</title>
-    <desc lang="ar">سلسلة هزلية ومواقف طريفة وكوميديا اجتماعية.</desc>
-    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/%D8%AF%D8%B9%D8%A8%D9%84%20%D8%A7%D8%AE%D9%88%D8%AF%D9%87%D8%A8%D9%84_0.jpg?itok=JnzI0cLv" />
-  </programme>
-  <programme start="20200823112400 +0100" stop="20200823120500 +0100" channel="Watania 1">
-    <title lang="ar">عودة المنتقم</title>
-    <desc lang="ar">يعود إلى البرتغال حاملا معه ثأرا لعائلته التي تم الغدر بها قبل 15 عاما، لكن انتقامه يتشابك مع الغرام بعد وقوعه في حب إبنة عدوه... فهل تنتصر معاني الحب على منطق الانتقام؟.</desc>
-    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/111111111111111111111_1.jpg?itok=b5CKEo2a" />
-  </programme>
-  <programme start="20200823120500 +0100" stop="20200823130000 +0100" channel="Watania 1">
-    <title lang="ar">موش ممنوع</title>
-    <desc lang="ar">برنامج موش ممنوع
-
-برنامج حواري يسافر إلى عالم الإبداع و المبدعين مع أسماء لمعت في مجال السينما و المسرح و الرواية و الغناء و التمثيل.
-
-مش ممنوع رحلة في أماكن تصوير متعددة مع نجوم من الشرق و الغرب.</desc>
-    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/%D9%85%D8%B4%20%D9%85%D9%85%D9%86%D9%88%D8%B9.jpg?itok=Zm-QkABX" />
-  </programme>
-  <programme start="20200823130000 +0100" stop="20200823132000 +0100" channel="Watania 1">
-    <title lang="ar">نشرة الظهر للأخبار</title>
-    <desc lang="ar">موعدكم الأول مع الأخبار في حوصلة لكل المستجدات الوطنية والدولية.</desc>
-    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/news-13h.jpg?itok=_xw9wqYd" />
-  </programme>
-  <programme start="20200823132000 +0100" stop="20200823133000 +0100" channel="Watania 1">
-    <title lang="ar">النشرة البحرية</title>
-    <desc lang="ar">أبرز التوقعات الجوية البحرية.</desc>
-    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/meteo_detail.jpg?itok=Ye62zK04" />
-  </programme>
-  <programme start="20200823133000 +0100" stop="20200823141500 +0100" channel="Watania 1">
-    <title lang="ar">مسلسل ماطوس</title>
-    <desc lang="ar">ماطوس قرية في الجنوب التونسي يحب أهلها الحياة و يعشقون الأرض، و قد حولوا الارض القاحلة إلى بساتين من النخل و الزياتين و الكروم...و فجأة يحل بالمكان مقاتلون و فرسان لا يعشقون سوى السلاح فتنقلب الموازين.</desc>
-    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/%D9%85%D8%A7%D8%B7%D9%88%D8%B3.png?itok=SGnAOlMx" />
-  </programme>
-  <programme start="20200823141500 +0100" stop="20200823153500 +0100" channel="Watania 1">
-    <title lang="ar">شريط تلفزي: ولد البوسطاجي</title>
-    <desc lang="ar">شريط تلفزي: ولد البوسطاجي.</desc>
-    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_event_program/qvd%C3%B9.jpg?itok=ktMKe8GT" />
-  </programme>
-  <programme start="20200823153500 +0100" stop="20200823161300 +0100" channel="Watania 1">
-    <title lang="ar">أرض النفاق</title>
-    <desc lang="ar">مسعود عامل من عمال الإدارة له دخل ضئيل يجعل حياته بائسة بسبب خلافاته مع زوجته "جميلة" وحماته، اللتان لا تتفهمان حالته المادية السيئة إلى ان يلتقي المخترع ماضي الذي يعرفه على حبوب الأخلاق فيبدأ في تناولها ليكتشف حياة جديدة، بشخصيات جديدة وأخلاق مستعارة للبيع...</desc>
-    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/%D8%A7%D8%B1%D8%B6%20%D8%A7%D9%84%D9%86%D9%81%D8%A7%D9%82_detail_0.jpg?itok=JbnNJ3nX" />
-  </programme>
-  <programme start="20200823161300 +0100" stop="20200823162500 +0100" channel="Watania 1">
-    <title lang="ar">سيتكوم: كل يوم حكاية</title>
-    <desc lang="ar">سيتكوم: كل يوم حكاية.</desc>
-    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/sitcom.png?itok=WDb1jkl5" />
-  </programme>
-  <programme start="20200823162500 +0100" stop="20200823171500 +0100" channel="Watania 1">
-    <title lang="ar">كرة القدم: النادي الصفاقسي / مستقبل سليمان</title>
-    <desc lang="ar">نقل مباشر من ملعب صفاقس لمباراة كرة القدم في إطار اياب الرابطة المحترفة الاولى التي تجمع بين النادي الصفاقسي ومستقبل سليمان.</desc>
-    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/ASS-CSS-850x491.jpg?itok=TQBNil5G" />
-  </programme>
-  <programme start="20200823171500 +0100" stop="20200823173000 +0100" channel="Watania 1">
-    <title lang="ar">النشرة المسائية للأخبار</title>
-    <desc lang="ar">نشرة لأخبار الجهات التونسية.</desc>
-    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/Journal-17h30.jpg?itok=LWpQ1o2h" />
-  </programme>
-  <programme start="20200823173000 +0100" stop="20200823182500 +0100" channel="Watania 1">
-    <title lang="ar">كرة القدم: النادي الصفاقسي / مستقبل سليمان</title>
-    <desc lang="ar">نقل مباشر من ملعب صفاقس لمباراة كرة القدم في إطار اياب الرابطة المحترفة الاولى التي تجمع بين النادي الصفاقسي ومستقبل سليمان.</desc>
-    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/ASS-CSS-850x491.jpg?itok=TQBNil5G" />
-  </programme>
-  <programme start="20200823183000 +0100" stop="20200823184500 +0100" channel="Watania 1">
-    <title lang="ar">الحجامة</title>
-    <desc lang="ar">الحجامة عمل كوميدي تدور أحداثه في صالون حلاقة تديره "وجيهة الجندوبي" و يعرض حكايات نسائية طريفة تطرح الواقع بطريقة ساخرة و ناقدة، عالم مغلق تجتمع فيه النساء لكشف أسرارهن و نطرتهن المختلفة لكل المواضيع المختلفة.</desc>
-    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/couv-hajjema.1.jpg?itok=5OtcytGL" />
-  </programme>
-  <programme start="20200823184500 +0100" stop="20200823200000 +0100" channel="Watania 1">
-    <title lang="ar">قهوة عربي</title>
-    <desc lang="ar">لقاء شيق تجريه أسبوعيا الإعلامية إنصاف اليحياوي مع شخصيات مشهورة في عدة مجالات خاصة منها السياسي... يترشفون قهوة ويدلون بشهاداتهم على أهم المحطات والأحداث التي ميزت حياتهم...</desc>
-    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/9ahwa-3arbi_detail.jpg?itok=uHiHL1qN" />
-  </programme>
-  <programme start="20200823200000 +0100" stop="20200823204000 +0100" channel="Watania 1">
-    <title lang="ar">النشرة الرئيسية للأخبار</title>
-    <desc lang="ar">نشرة رئيسية تأخذكم يوميا في جولة تامة في مختلف الأحداث الوطنية والدولية.</desc>
-    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1_detail.jpg?itok=Xda2f47P" />
-  </programme>
-  <programme start="20200823204500 +0100" stop="20200824000000 +0100" channel="Watania 1">
-    <title lang="ar">الأحد الرياضي</title>
-    <desc lang="ar">مواكبة متميزة للبطولة الوطنية لكرة القدم وبقية المستجدات الرياضية الوطنية خلال الأسبوع.</desc>
-    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/ahad-riadhi.png?itok=HHBfvFyd" />
-  </programme>
-  <programme start="20200824000000 +0100" stop="20200824002000 +0100" channel="Watania 1">
-    <title lang="ar">نشرة منتصف الليل للأخبار</title>
-    <desc lang="ar">نشرة عن آخر تطورات الاحداث الآنية وحوصلة لأهم الأنباء الوطنية والعالمية.(n)</desc>
-    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/Journal-00h.jpg?itok=aOn98TUM" />
-  </programme>
-  <programme start="20200824002000 +0100" stop="20200824003000 +0100" channel="Watania 1">
-    <title lang="ar">النشرة الجوية</title>
-    <desc lang="ar">نشرة لأبرز التوقعات الجوية لهذا اليوم و الأيام القليلة القادمة.(n)</desc>
-    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/meteo_detail.jpg?itok=rZx5HMVT" />
-  </programme>
-  <programme start="20200824003000 +0100" stop="20200824011800 +0100" channel="Watania 1">
-    <title lang="ar">مسلسل ماطوس</title>
-    <desc lang="ar">ماطوس قرية في الجنوب التونسي يحب أهلها الحياة و يعشقون الأرض، و قد حولوا الارض القاحلة إلى بساتين من النخل و الزياتين و الكروم...و فجأة يحل بالمكان مقاتلون و فرسان لا يعشقون سوى السلاح فتنقلب الموازين.(n)</desc>
-    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/%D9%85%D8%A7%D8%B7%D9%88%D8%B3.png?itok=SGnAOlMx" />
-  </programme>
-  <programme start="20200824011800 +0100" stop="20200824020300 +0100" channel="Watania 1">
-    <title lang="ar">سوبر فاميلي</title>
-    <desc lang="ar">سوبر فاميلي هو مسلسل اجتماعي كوميدي سوري يتحدث عن مجموعة من العائلات السورية التي تربط بينها علاقات قرابة، ويتناول المسلسل في كل حلقتين موقف أو قضية تتعلق بعائلة معينة.(n)</desc>
-    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/super-family.jpg?itok=APMpq4Sa" />
-  </programme>
-  <programme start="20200824020300 +0100" stop="20200824024400 +0100" channel="Watania 1">
-    <title lang="ar">عودة المنتقم</title>
-    <desc lang="ar">يعود إلى البرتغال حاملا معه ثأرا لعائلته التي تم الغدر بها قبل 15 عاما، لكن انتقامه يتشابك مع الغرام بعد وقوعه في حب إبنة عدوه... فهل تنتصر معاني الحب على منطق الانتقام؟.(n)</desc>
-    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/111111111111111111111_1.jpg?itok=b5CKEo2a" />
-  </programme>
-  <programme start="20200824024400 +0100" stop="20200824031900 +0100" channel="Watania 1">
-    <title lang="ar">أرض النفاق</title>
-    <desc lang="ar">مسعود عامل من عمال الإدارة له دخل ضئيل يجعل حياته بائسة بسبب خلافاته مع زوجته "جميلة" وحماته، اللتان لا تتفهمان حالته المادية السيئة إلى ان يلتقي المخترع ماضي الذي يعرفه على حبوب الأخلاق فيبدأ في تناولها ليكتشف حياة جديدة، بشخصيات جديدة وأخلاق مستعارة للبيع...(n)</desc>
-    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/%D8%A7%D8%B1%D8%B6%20%D8%A7%D9%84%D9%86%D9%81%D8%A7%D9%82_detail_0.jpg?itok=JbnNJ3nX" />
-  </programme>
-  <programme start="20200824031900 +0100" stop="20200824044100 +0100" channel="Watania 1">
-    <title lang="ar">شريط تلفزي: ولد البوسطاجي</title>
-    <desc lang="ar">شريط تلفزي: ولد البوسطاجي.(n)</desc>
-    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_event_program/qvd%C3%B9.jpg?itok=ktMKe8GT" />
-  </programme>
-  <programme start="20200824044100 +0100" stop="20200824060000 +0100" channel="Watania 1">
-    <title lang="ar">حفل من مهرجان</title>
-    <desc lang="ar">حفل من مهرجان.(n)</desc>
-    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/hafel-minmahrajen.jpg?itok=QhJtbDCL" />
-  </programme>
-  <programme start="20200824060200 +0100" stop="20200824061900 +0100" channel="Watania 1">
-    <title lang="ar">القرآن الكريم</title>
-    <desc lang="ar">القرآن الكريم.(n)</desc>
-    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_event_program/%D8%AA%D8%B9%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86-%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85-1024x768.jpg?itok=IuPg0Wn7" />
-  </programme>
-  <programme start="20200824061900 +0100" stop="20200824064000 +0100" channel="Watania 1">
-    <title lang="ar">ابتهالات</title>
-    <desc lang="ar">مجموعة من الأناشيد الدينية في مدح خير البرية...(n)</desc>
-    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/ibtihelet-lotfi1.jpg?itok=0d07ybYc" />
-  </programme>
-  <programme start="20200824064000 +0100" stop="20200824075800 +0100" channel="Watania 1">
-    <title lang="ar">مدائن الشرق</title>
-    <desc lang="ar">وثائقي يعبر من خلال رسم التاريخ كل بوابات مدن الشرق ليكشف عن سحرها وجمال لحظاتها العابرة.(n)</desc>
-    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/madain-orient1.jpg?itok=P8-Hf9Q5" />
-  </programme>
-  <programme start="20200824075800 +0100" stop="20200824082700 +0100" channel="Watania 1">
-    <title lang="ar">وثائقي: دقة من الحضارة إلى الحجارة</title>
-    <desc lang="ar">وثائقي من إنتاج التلفزة التونسية
-
-إخراج: علاء الدين بن عبد الله
-
-وثائقي يبرز إرث مجموعة معالم دقة بمناسبة عشرينية تسجيل دقة على قائمة التراث العالمي.(n)</desc>
-    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_event_program/%D8%AF%D9%82%D8%A9.jpg?itok=GWkt0G7x" />
-  </programme>
-  <programme start="20200824082700 +0100" stop="20200824084900 +0100" channel="Watania 1">
-    <title lang="ar">السياحة في تونس</title>
-    <desc lang="ar">السياحة في تونس.(n)</desc>
-    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/siye7a%20fi%20tounes_detail.jpg?itok=K3FDRsX9" />
-  </programme>
-  <programme start="20200824084900 +0100" stop="20200824090300 +0100" channel="Watania 1">
+  <programme start="20200824080800 +0100" stop="20200824082400 +0100" channel="Watania 1">
     <title lang="ar">ذاكرة مدينة</title>
-    <desc lang="ar">برنامج يحكي تاريخ المدن التونسية وماضيها القريب والبعيد.(n)</desc>
+    <desc lang="ar">برنامج يحكي تاريخ المدن التونسية وماضيها القريب والبعيد.(c)</desc>
     <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/%D8%B1%D8%A8%D8%A7%D8%B7.JPG?itok=Kbx7TTcc" />
   </programme>
-  <programme start="20200824090300 +0100" stop="20200824102800 +0100" channel="Watania 1">
+  <programme start="20200824082400 +0100" stop="20200824085600 +0100" channel="Watania 1">
+    <title lang="ar">محلاها بلادي</title>
+    <desc lang="ar">دعوة تقدمها سمية فارس للاستمتاع بحلاوة البلاد التونسية من خلال زيارة مختلف ولاياتها.(c)</desc>
+    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/ma7leha%20bledi_detail.jpg?itok=GjtE9SLd" />
+  </programme>
+  <programme start="20200824085600 +0100" stop="20200824104000 +0100" channel="Watania 1">
     <title lang="ar">صور متحركة</title>
-    <desc lang="ar">...فسحة لتنمية الخيال لدى الطفل في عالم من المغامرات يتسلق فيه الجبال ويصعد فيه إلى الفضاء ويقتحم الأحراش ويسامر الوحوش.(n)</desc>
+    <desc lang="ar">...فسحة لتنمية الخيال لدى الطفل في عالم من المغامرات يتسلق فيه الجبال ويصعد فيه إلى الفضاء ويقتحم الأحراش ويسامر الوحوش.(c)</desc>
     <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_event_program/%D9%83%D8%A7%D8%B1%D8%AA%D9%88%D9%86%D8%B2.jpg?itok=3i7y5U5j" />
   </programme>
-  <programme start="20200824102800 +0100" stop="20200824110400 +0100" channel="Watania 1">
+  <programme start="20200824104000 +0100" stop="20200824111300 +0100" channel="Watania 1">
     <title lang="ar">دعبل اخو دهبل</title>
-    <desc lang="ar">سلسلة هزلية ومواقف طريفة وكوميديا اجتماعية.(n)</desc>
+    <desc lang="ar">سلسلة هزلية ومواقف طريفة وكوميديا اجتماعية.(c)</desc>
     <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/%D8%AF%D8%B9%D8%A8%D9%84%20%D8%A7%D8%AE%D9%88%D8%AF%D9%87%D8%A8%D9%84_0.jpg?itok=JnzI0cLv" />
   </programme>
-  <programme start="20200824110400 +0100" stop="20200824115200 +0100" channel="Watania 1">
+  <programme start="20200824111300 +0100" stop="20200824115500 +0100" channel="Watania 1">
     <title lang="ar">عودة المنتقم</title>
-    <desc lang="ar">يعود إلى البرتغال حاملا معه ثأرا لعائلته التي تم الغدر بها قبل 15 عاما، لكن انتقامه يتشابك مع الغرام بعد وقوعه في حب إبنة عدوه... فهل تنتصر معاني الحب على منطق الانتقام؟.(n)</desc>
+    <desc lang="ar">يعود إلى البرتغال حاملا معه ثأرا لعائلته التي تم الغدر بها قبل 15 عاما، لكن انتقامه يتشابك مع الغرام بعد وقوعه في حب إبنة عدوه... فهل تنتصر معاني الحب على منطق الانتقام؟.(c)</desc>
     <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/111111111111111111111_1.jpg?itok=b5CKEo2a" />
   </programme>
-  <programme start="20200824115200 +0100" stop="20200824130000 +0100" channel="Watania 1">
+  <programme start="20200824115500 +0100" stop="20200824130000 +0100" channel="Watania 1">
     <title lang="ar">من حكايات العروي</title>
-    <desc lang="ar">حكم وعبر نستخلصها من حكايات العروي التي يرويها كما سمعها من جدته لكن بطريقته المتميزة والمشوقة ...(n)</desc>
+    <desc lang="ar">حكم وعبر نستخلصها من حكايات العروي التي يرويها كما سمعها من جدته لكن بطريقته المتميزة والمشوقة ...(c)</desc>
     <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/%D8%A7%D9%84%D8%B9%D8%B1%D9%88%D9%8A.jpg?itok=6LA6-2kk" />
   </programme>
   <programme start="20200824130000 +0100" stop="20200824132000 +0100" channel="Watania 1">
     <title lang="ar">نشرة الظهر للأخبار</title>
-    <desc lang="ar">موعدكم الأول مع الأخبار في حوصلة لكل المستجدات الوطنية والدولية.(n)</desc>
+    <desc lang="ar">موعدكم الأول مع الأخبار في حوصلة لكل المستجدات الوطنية والدولية.</desc>
     <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/news-13h.jpg?itok=_xw9wqYd" />
   </programme>
   <programme start="20200824132000 +0100" stop="20200824133000 +0100" channel="Watania 1">
     <title lang="ar">النشرة البحرية</title>
-    <desc lang="ar">أبرز التوقعات الجوية البحرية.(n)</desc>
+    <desc lang="ar">أبرز التوقعات الجوية البحرية.</desc>
     <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/meteo_detail.jpg?itok=Ye62zK04" />
   </programme>
-  <programme start="20200824133000 +0100" stop="20200824142000 +0100" channel="Watania 1">
-    <title lang="ar">مسلسل ماطوس</title>
-    <desc lang="ar">ماطوس قرية في الجنوب التونسي يحب أهلها الحياة و يعشقون الأرض، و قد حولوا الارض القاحلة إلى بساتين من النخل و الزياتين و الكروم...و فجأة يحل بالمكان مقاتلون و فرسان لا يعشقون سوى السلاح فتنقلب الموازين.(n)</desc>
-    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/%D9%85%D8%A7%D8%B7%D9%88%D8%B3.png?itok=SGnAOlMx" />
+  <programme start="20200824133000 +0100" stop="20200824142200 +0100" channel="Watania 1">
+    <title lang="ar">الدوار</title>
+    <desc lang="ar">الدوار.(c)</desc>
+    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/%D8%A7%D9%84%D8%AF%D9%88%D8%A7%D8%B1.jpg?itok=3tCdqYET" />
   </programme>
-  <programme start="20200824142000 +0100" stop="20200824173000 +0100" channel="Watania 1">
+  <programme start="20200824142200 +0100" stop="20200824173000 +0100" channel="Watania 1">
     <title lang="ar">الأحد الرياضي</title>
-    <desc lang="ar">مواكبة متميزة للبطولة الوطنية لكرة القدم وبقية المستجدات الرياضية الوطنية خلال الأسبوع.(n)</desc>
+    <desc lang="ar">مواكبة متميزة للبطولة الوطنية لكرة القدم وبقية المستجدات الرياضية الوطنية خلال الأسبوع.(c)</desc>
     <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/ahad-riadhi.png?itok=HHBfvFyd" />
   </programme>
   <programme start="20200824173000 +0100" stop="20200824175000 +0100" channel="Watania 1">
     <title lang="ar">النشرة المسائية للأخبار</title>
-    <desc lang="ar">نشرة لأخبار الجهات التونسية.(n)</desc>
+    <desc lang="ar">نشرة لأخبار الجهات التونسية.</desc>
     <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/Journal-17h30.jpg?itok=LWpQ1o2h" />
   </programme>
   <programme start="20200824175000 +0100" stop="20200824180000 +0100" channel="Watania 1">
     <title lang="ar">العيلة شو</title>
+    <desc lang="ar">سلسلة هزلية كوميدية.</desc>
+    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/%D8%A7%D9%84%D8%B9%D9%8A%D9%84%D8%A9%20%D8%B4%D9%88.jpg?itok=VUpNX7fD" />
+  </programme>
+  <programme start="20200824180000 +0100" stop="20200824193000 +0100" channel="Watania 1">
+    <title lang="ar">متابعات</title>
+    <desc lang="ar">ملف متابعات: ملف خاص بجلسة مجلس نواب الشعب الخاصة بالتصويت لسحب الثقة من رئيس البرلمان
+
+الملف من تقديم شاكر بالشيخ.(c)</desc>
+    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/emission.jpg?itok=ZjsmDeFV" />
+  </programme>
+  <programme start="20200824193000 +0100" stop="20200824200000 +0100" channel="Watania 1">
+    <title lang="ar">المجلة الصحية</title>
+    <desc lang="ar">موعد طبّي أسبوعي مخصص للصحة والرّفاه الجسدي ولمتابعة آخر الأخبار الطبية، تتطرق خلاله الإعلامية عواطف الدالي صحبة حضور من الأطباء الأخصّائيين وعن طريق الريبورتاجات التوضيحية إلى موضوع صحّي معين، ويساهم في إثراء الحديث اتصالات المواطنين لطرح تساؤلاتهم عن المشكلة الصحية دات العلاقة بمحور الحلقة.(c)</desc>
+    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/majalla-se7eya_detail.jpg?itok=a5HpGiEq" />
+  </programme>
+  <programme start="20200824200000 +0100" stop="20200824204000 +0100" channel="Watania 1">
+    <title lang="ar">النشرة الرئيسية للأخبار</title>
+    <desc lang="ar">نشرة رئيسية تأخذكم يوميا في جولة تامة في مختلف الأحداث الوطنية والدولية.</desc>
+    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1_detail.jpg?itok=Xda2f47P" />
+  </programme>
+  <programme start="20200824204500 +0100" stop="20200824214500 +0100" channel="Watania 1">
+    <title lang="ar">الليالي البيض</title>
+    <desc lang="ar">بعد معاناة مع تجربة البطالة ينجح نادر في إيجاد وظيفة في شركة لرجل أعمال ثري فينفتح على عالم مختلف على الحياة في حيه الشعبي ما يجعله ينجرف وراء أطماعه ويتخلّى عن حبيبته أحلام ليتقرب إلى زميلته في المكتب درصاف، الوريثة الوحيدة لخالها صاحب الشركة...(c)</desc>
+    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/liali_bidh.jpg?itok=fpWUns8s" />
+  </programme>
+  <programme start="20200824214500 +0100" stop="20200824233900 +0100" channel="Watania 1">
+    <title lang="ar">شريط سينمائي: كده رضا</title>
+    <desc lang="ar">شريط سينمائي: كدة رضا.(c)</desc>
+    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_event_program/1a18cc361-1.jpg?itok=HhUCVrVW" />
+  </programme>
+  <programme start="20200824233900 +0100" stop="20200825000000 +0100" channel="Watania 1">
+    <title lang="ar">حفل من مهرجان</title>
+    <desc lang="ar">حفل من مهرجان.(c)</desc>
+    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/hafel-minmahrajen.jpg?itok=QhJtbDCL" />
+  </programme>
+  <programme start="20200825000000 +0100" stop="20200825002000 +0100" channel="Watania 1">
+    <title lang="ar">نشرة منتصف الليل للأخبار</title>
+    <desc lang="ar">نشرة عن آخر تطورات الاحداث الآنية وحوصلة لأهم الأنباء الوطنية والعالمية.(n)</desc>
+    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/Journal-00h.jpg?itok=aOn98TUM" />
+  </programme>
+  <programme start="20200825002000 +0100" stop="20200825003000 +0100" channel="Watania 1">
+    <title lang="ar">النشرة الجوية</title>
+    <desc lang="ar">نشرة لأبرز التوقعات الجوية لهذا اليوم و الأيام القليلة القادمة.(n)</desc>
+    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/meteo_detail.jpg?itok=rZx5HMVT" />
+  </programme>
+  <programme start="20200825003000 +0100" stop="20200825012200 +0100" channel="Watania 1">
+    <title lang="ar">مسلسل الدوار</title>
+    <desc lang="ar">مسلسل الدوار.(n)</desc>
+    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_event_program/maxresdefault_16.jpg?itok=SDdnfXeU" />
+  </programme>
+  <programme start="20200825012200 +0100" stop="20200825021800 +0100" channel="Watania 1">
+    <title lang="ar">الليالي البيض</title>
+    <desc lang="ar">بعد معاناة مع تجربة البطالة ينجح نادر في إيجاد وظيفة في شركة لرجل أعمال ثري فينفتح على عالم مختلف على الحياة في حيه الشعبي ما يجعله ينجرف وراء أطماعه ويتخلّى عن حبيبته أحلام ليتقرب إلى زميلته في المكتب درصاف، الوريثة الوحيدة لخالها صاحب الشركة...(n)</desc>
+    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/liali_bidh.jpg?itok=fpWUns8s" />
+  </programme>
+  <programme start="20200825021800 +0100" stop="20200825030300 +0100" channel="Watania 1">
+    <title lang="ar">سوبر فاميلي</title>
+    <desc lang="ar">سوبر فاميلي هو مسلسل اجتماعي كوميدي سوري يتحدث عن مجموعة من العائلات السورية التي تربط بينها علاقات قرابة، ويتناول المسلسل في كل حلقتين موقف أو قضية تتعلق بعائلة معينة.(n)</desc>
+    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/super-family.jpg?itok=APMpq4Sa" />
+  </programme>
+  <programme start="20200825030300 +0100" stop="20200825054100 +0100" channel="Watania 1">
+    <title lang="ar">شريط سينمائي: كده رضا</title>
+    <desc lang="ar">شريط سينمائي: كدة رضا.(n)</desc>
+    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_event_program/1a18cc361-1.jpg?itok=HhUCVrVW" />
+  </programme>
+  <programme start="20200825054100 +0100" stop="20200825060000 +0100" channel="Watania 1">
+    <title lang="ar">ذاكرة مدينة</title>
+    <desc lang="ar">برنامج يحكي تاريخ المدن التونسية وماضيها القريب والبعيد.(n)</desc>
+    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/%D8%B1%D8%A8%D8%A7%D8%B7.JPG?itok=Kbx7TTcc" />
+  </programme>
+  <programme start="20200825060200 +0100" stop="20200825062000 +0100" channel="Watania 1">
+    <title lang="ar">القرآن الكريم</title>
+    <desc lang="ar">القرآن الكريم.(n)</desc>
+    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_event_program/%D8%AA%D8%B9%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86-%D8%A7%D9%84%D9%83%D8%B1%D9%8A%D9%85-1024x768.jpg?itok=IuPg0Wn7" />
+  </programme>
+  <programme start="20200825062000 +0100" stop="20200825064000 +0100" channel="Watania 1">
+    <title lang="ar">ابتهالات</title>
+    <desc lang="ar">مجموعة من الأناشيد الدينية في مدح خير البرية...(n)</desc>
+    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/ibtihelet-lotfi1.jpg?itok=0d07ybYc" />
+  </programme>
+  <programme start="20200825064000 +0100" stop="20200825075900 +0100" channel="Watania 1">
+    <title lang="ar">مدائن الشرق</title>
+    <desc lang="ar">وثائقي يعبر من خلال رسم التاريخ كل بوابات مدن الشرق ليكشف عن سحرها وجمال لحظاتها العابرة.(n)</desc>
+    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/madain-orient1.jpg?itok=P8-Hf9Q5" />
+  </programme>
+  <programme start="20200825075900 +0100" stop="20200825084000 +0100" channel="Watania 1">
+    <title lang="ar">وثائقي: صناعة النحاس</title>
+    <desc lang="ar">وثائقي: صناعة النحاس.(n)</desc>
+    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_event_program/154843821976604200.jpg?itok=x_UumhAP" />
+  </programme>
+  <programme start="20200825084000 +0100" stop="20200825103000 +0100" channel="Watania 1">
+    <title lang="ar">صور متحركة</title>
+    <desc lang="ar">...فسحة لتنمية الخيال لدى الطفل في عالم من المغامرات يتسلق فيه الجبال ويصعد فيه إلى الفضاء ويقتحم الأحراش ويسامر الوحوش.(n)</desc>
+    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_event_program/%D9%83%D8%A7%D8%B1%D8%AA%D9%88%D9%86%D8%B2.jpg?itok=3i7y5U5j" />
+  </programme>
+  <programme start="20200825103000 +0100" stop="20200825111400 +0100" channel="Watania 1">
+    <title lang="ar">دعبل اخو دهبل</title>
+    <desc lang="ar">سلسلة هزلية ومواقف طريفة وكوميديا اجتماعية.(n)</desc>
+    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/%D8%AF%D8%B9%D8%A8%D9%84%20%D8%A7%D8%AE%D9%88%D8%AF%D9%87%D8%A8%D9%84_0.jpg?itok=JnzI0cLv" />
+  </programme>
+  <programme start="20200825111400 +0100" stop="20200825115500 +0100" channel="Watania 1">
+    <title lang="ar">عودة المنتقم</title>
+    <desc lang="ar">يعود إلى البرتغال حاملا معه ثأرا لعائلته التي تم الغدر بها قبل 15 عاما، لكن انتقامه يتشابك مع الغرام بعد وقوعه في حب إبنة عدوه... فهل تنتصر معاني الحب على منطق الانتقام؟.(n)</desc>
+    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/111111111111111111111_1.jpg?itok=b5CKEo2a" />
+  </programme>
+  <programme start="20200825115500 +0100" stop="20200825130000 +0100" channel="Watania 1">
+    <title lang="ar">مسلسل صيد الريم</title>
+    <desc lang="ar">مسلسل تونسي من إخراج علي منصور يطرح قضية التحرش الجنسي في العمل من خلال قصة انتقام لأخت إحدى ضحايا صاحب مصنع خياطة تترابط فيها الأحداث بقصص أخرى تبدو بعيدة عن بعضها في الظاهر، ولكنها متشابهة في نسيج المجتمع التونسي...(n)</desc>
+    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/%D8%B5%D9%8A%D8%AF%20%D8%A7%D9%84%D8%B1%D9%8A%D9%85.jpg?itok=L6GCDyuc" />
+  </programme>
+  <programme start="20200825130000 +0100" stop="20200825132000 +0100" channel="Watania 1">
+    <title lang="ar">نشرة الظهر للأخبار</title>
+    <desc lang="ar">موعدكم الأول مع الأخبار في حوصلة لكل المستجدات الوطنية والدولية.(n)</desc>
+    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/news-13h.jpg?itok=_xw9wqYd" />
+  </programme>
+  <programme start="20200825132000 +0100" stop="20200825133000 +0100" channel="Watania 1">
+    <title lang="ar">النشرة البحرية</title>
+    <desc lang="ar">أبرز التوقعات الجوية البحرية.(n)</desc>
+    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/meteo_detail.jpg?itok=Ye62zK04" />
+  </programme>
+  <programme start="20200825133000 +0100" stop="20200825143000 +0100" channel="Watania 1">
+    <title lang="ar">مسلسل ماطوس</title>
+    <desc lang="ar">ماطوس قرية في الجنوب التونسي يحب أهلها الحياة و يعشقون الأرض، و قد حولوا الارض القاحلة إلى بساتين من النخل و الزياتين و الكروم...و فجأة يحل بالمكان مقاتلون و فرسان لا يعشقون سوى السلاح فتنقلب الموازين.(n)</desc>
+    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/%D9%85%D8%A7%D8%B7%D9%88%D8%B3.png?itok=SGnAOlMx" />
+  </programme>
+  <programme start="20200825143500 +0100" stop="20200825155800 +0100" channel="Watania 1">
+    <title lang="ar">شريط تلفزي: يا اللي عيونك في السماء</title>
+    <desc lang="ar">شريط تلفزي: يا اللي عيونك في السماء.(n)</desc>
+    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_event_program/%D8%B4%D8%B1%D9%8A%D8%B7_0.jpg?itok=ruRU5Gpl" />
+  </programme>
+  <programme start="20200825155800 +0100" stop="20200825164000 +0100" channel="Watania 1">
+    <title lang="ar">أرض النفاق</title>
+    <desc lang="ar">مسعود عامل من عمال الإدارة له دخل ضئيل يجعل حياته بائسة بسبب خلافاته مع زوجته "جميلة" وحماته، اللتان لا تتفهمان حالته المادية السيئة إلى ان يلتقي المخترع ماضي الذي يعرفه على حبوب الأخلاق فيبدأ في تناولها ليكتشف حياة جديدة، بشخصيات جديدة وأخلاق مستعارة للبيع...(n)</desc>
+    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/%D8%A7%D8%B1%D8%B6%20%D8%A7%D9%84%D9%86%D9%81%D8%A7%D9%82_detail_0.jpg?itok=JbnNJ3nX" />
+  </programme>
+  <programme start="20200825164000 +0100" stop="20200825165200 +0100" channel="Watania 1">
+    <title lang="ar">سيتكوم: كل يوم حكاية</title>
+    <desc lang="ar">سيتكوم: كل يوم حكاية.(n)</desc>
+    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/sitcom.png?itok=WDb1jkl5" />
+  </programme>
+  <programme start="20200825165200 +0100" stop="20200825173000 +0100" channel="Watania 1">
+    <title lang="ar">سوبر فاميلي</title>
+    <desc lang="ar">سوبر فاميلي هو مسلسل اجتماعي كوميدي سوري يتحدث عن مجموعة من العائلات السورية التي تربط بينها علاقات قرابة، ويتناول المسلسل في كل حلقتين موقف أو قضية تتعلق بعائلة معينة.(n)</desc>
+    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/super-family.jpg?itok=APMpq4Sa" />
+  </programme>
+  <programme start="20200825173000 +0100" stop="20200825175000 +0100" channel="Watania 1">
+    <title lang="ar">النشرة المسائية للأخبار</title>
+    <desc lang="ar">نشرة لأخبار الجهات التونسية.(n)</desc>
+    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/Journal-17h30.jpg?itok=LWpQ1o2h" />
+  </programme>
+  <programme start="20200825175000 +0100" stop="20200825180100 +0100" channel="Watania 1">
+    <title lang="ar">العيلة شو</title>
     <desc lang="ar">سلسلة هزلية كوميدية.(n)</desc>
     <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/%D8%A7%D9%84%D8%B9%D9%8A%D9%84%D8%A9%20%D8%B4%D9%88.jpg?itok=VUpNX7fD" />
   </programme>
-  <programme start="20200824180000 +0100" stop="20200824200000 +0100" channel="Watania 1">
+  <programme start="20200825180100 +0100" stop="20200825200000 +0100" channel="Watania 1">
     <title lang="ar">متابعات</title>
     <desc lang="ar">ملف متابعات: ملف خاص بجلسة مجلس نواب الشعب الخاصة بالتصويت لسحب الثقة من رئيس البرلمان
 
 الملف من تقديم شاكر بالشيخ.(n)</desc>
     <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/emission.jpg?itok=ZjsmDeFV" />
   </programme>
-  <programme start="20200824200000 +0100" stop="20200824204000 +0100" channel="Watania 1">
+  <programme start="20200825200000 +0100" stop="20200825204000 +0100" channel="Watania 1">
     <title lang="ar">النشرة الرئيسية للأخبار</title>
     <desc lang="ar">نشرة رئيسية تأخذكم يوميا في جولة تامة في مختلف الأحداث الوطنية والدولية.(n)</desc>
     <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1_detail.jpg?itok=Xda2f47P" />
   </programme>
-  <programme start="20200824204500 +0100" stop="20200824214700 +0100" channel="Watania 1">
-    <title lang="ar">مسلسل صيد الريم</title>
-    <desc lang="ar">مسلسل تونسي من إخراج علي منصور يطرح قضية التحرش الجنسي في العمل من خلال قصة انتقام لأخت إحدى ضحايا صاحب مصنع خياطة تترابط فيها الأحداث بقصص أخرى تبدو بعيدة عن بعضها في الظاهر، ولكنها متشابهة في نسيج المجتمع التونسي...(n)</desc>
-    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/%D8%B5%D9%8A%D8%AF%20%D8%A7%D9%84%D8%B1%D9%8A%D9%85.jpg?itok=L6GCDyuc" />
+  <programme start="20200825204500 +0100" stop="20200825214300 +0100" channel="Watania 1">
+    <title lang="ar">مسلسل الليالي البيض</title>
+    <desc lang="ar">يحصل نادر الشاب الفقير والعاطل عن العمل على وظيفة في شركة لصاحبها "خالد العابد" وهو رجل أعمال ثري ليس له ورثاء مما يزرع في قلب "نادر" الطمع فيترك  خطيبته أحلام ليتعرف على أخت صاحب الشركة فتبدأ المفاجآت...(n)</desc>
+    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/%D8%A7%D9%84%D9%84%D9%8A%D8%A7%D9%84%D9%8A_%D8%A7%D9%84%D8%A8%D9%8A%D8%B6_.jpg?itok=q1D-_79r" />
   </programme>
-  <programme start="20200824214700 +0100" stop="20200824231500 +0100" channel="Watania 1">
-    <title lang="ar">سهرة تكريم أم كلثوم</title>
-    <desc lang="ar">سهرة تكريم أم كلثوم.(n)</desc>
-    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_event_program/om-kalthom-oo.jpg?itok=KtnXqxi9" />
+  <programme start="20200825214300 +0100" stop="20200825231500 +0100" channel="Watania 1">
+    <title lang="ar">حفل من مهرجان</title>
+    <desc lang="ar">حفل من مهرجان.(n)</desc>
+    <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/hafel-minmahrajen.jpg?itok=QhJtbDCL" />
   </programme>
-  <programme start="20200824231500 +0100" stop="20200825000000 +0100" channel="Watania 1">
+  <programme start="20200825231500 +0100" stop="20200826060000 +0100" channel="Watania 1">
     <title lang="ar">سوبر فاميلي</title>
     <desc lang="ar">سوبر فاميلي هو مسلسل اجتماعي كوميدي سوري يتحدث عن مجموعة من العائلات السورية التي تربط بينها علاقات قرابة، ويتناول المسلسل في كل حلقتين موقف أو قضية تتعلق بعائلة معينة.(n)</desc>
     <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/super-family.jpg?itok=APMpq4Sa" />
   </programme>
-  <programme start="20200823060500 +0100" stop="20200823063500 +0100" channel="Watania 2">
+  <programme start="20200824060500 +0100" stop="20200824061800 +0100" channel="Watania 2">
     <title lang="ar">القرآن الكريم</title>
     <desc lang="ar">تلاوة لما تيسر من سور القرآن الكريم.</desc>
     <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_event_program/9oren%202-detail.jpg?itok=jlcjLhPz" />
   </programme>
-  <programme start="20200823063500 +0100" stop="20200823064500 +0100" channel="Watania 2">
+  <programme start="20200824061800 +0100" stop="20200824063000 +0100" channel="Watania 2">
     <title lang="ar">إبتهالات</title>
     <desc lang="ar">ابتهالات دينية.</desc>
     <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_event_program/ibtihelet-w2_detail.jpg?itok=IltxDAxj" />
   </programme>
-  <programme start="20200823064500 +0100" stop="20200823071500 +0100" channel="Watania 2">
-    <title lang="ar">فقرة غنائية</title>
-    <desc lang="ar">فقرة غنائية.</desc>
-    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_event_program/%D9%81%D9%82%D8%B1%D8%A9%20%D8%BA%D9%86%D8%A7%D8%A6%D9%8A%D8%A9.jpg?itok=pZl85EAb" />
+  <programme start="20200824063000 +0100" stop="20200824070000 +0100" channel="Watania 2">
+    <title lang="ar">فقرة غنائية: حفل الفنانة فيروز</title>
+    <desc lang="ar">فقرة غنائية: حفل الفنانة فيروز.(c)</desc>
+    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_event_program/%D9%81%D9%8A%D8%B1%D9%88%D8%B2.jpg?itok=XDpj2VKa" />
   </programme>
-  <programme start="20200823071500 +0100" stop="20200823074000 +0100" channel="Watania 2">
-    <title lang="ar">وثائقيات</title>
-    <desc lang="ar">سلسلة من مختلف الافلام الوثائقية.</desc>
-    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_emission/original-689x502.jpg?itok=6Efw99dw" />
+  <programme start="20200824070000 +0100" stop="20200824080000 +0100" channel="Watania 2">
+    <title lang="ar">حسابات وعقابات</title>
+    <desc lang="ar">مهندس في البيولوجيا الغذائية من أصل ريفي يعود إلى بلاده من فرنسا محملا بالشهائد العلمية ومتطلعا إلى وظيفة تتماشى ومؤهلاته وشغفه الكبير بالبحث العلمي لكن تنتظره مشاكل كثيرة...(c)</desc>
+    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_emission/%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D9%88-%D8%B9%D9%82%D8%A7%D8%A8%D8%A7%D8%AA.jpg?itok=ht_C0slJ" />
   </programme>
-  <programme start="20200823074000 +0100" stop="20200823080100 +0100" channel="Watania 2">
-    <title lang="ar">وثائقي: السياحة في أندونسيا</title>
-    <desc lang="ar">وثائقي: السياحة في أندونسيا.</desc>
-    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_emission/%D8%AC%D8%B2%D8%B1_%D8%A5%D9%86%D8%AF%D9%88%D9%86%D9%8A%D8%B3%D9%8A%D8%A7.jpg?itok=jzTbI2RZ" />
+  <programme start="20200824080000 +0100" stop="20200824081500 +0100" channel="Watania 2">
+    <title lang="ar">ذاكرة مدينة</title>
+    <desc lang="ar">زيارة لمدن تونس الجميلة واكتشاف لسحرها وروعتها.(c)</desc>
+    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_emission/%D9%85%D8%AF%D9%86%20%D8%AA%D9%88%D9%86%D8%B3.jpg?itok=u2Pcuxun" />
   </programme>
-  <programme start="20200823080100 +0100" stop="20200823083500 +0100" channel="Watania 2">
+  <programme start="20200824081500 +0100" stop="20200824084500 +0100" channel="Watania 2">
     <title lang="ar">سلسلة: بنت الخزاف</title>
     <desc lang="ar">سلسلة بنت الخزاف من إخراج الحبيب المسلماني
 
 سيناريو و حوار: علي محسن العرفاوي
 
-بطولة: سلمى الحفصي - جمال ساسي - فوزية بو معيزة - البشير الصالحي الحميدي - كوثر الباردي - لزهر البوعزيزي.</desc>
+بطولة: سلمى الحفصي - جمال ساسي - فوزية بو معيزة - البشير الصالحي الحميدي - كوثر الباردي - لزهر البوعزيزي.(c)</desc>
     <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_emission/bent.jpg?itok=JXvwm5aq" />
   </programme>
-  <programme start="20200823083500 +0100" stop="20200823092500 +0100" channel="Watania 2">
-    <title lang="ar">وثائقيات</title>
-    <desc lang="ar">سلسلة من مختلف الافلام الوثائقية.</desc>
-    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_emission/original-689x502.jpg?itok=6Efw99dw" />
+  <programme start="20200824084500 +0100" stop="20200824093000 +0100" channel="Watania 2">
+    <title lang="ar">برنامج : فلسطين في قصصهن</title>
+    <desc lang="ar">برنامج : فلسطين في قصصهن.(c)</desc>
+    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_emission/nxdedzolkdb.jpg?itok=f16HFfqr" />
   </programme>
-  <programme start="20200823092500 +0100" stop="20200823101500 +0100" channel="Watania 2">
+  <programme start="20200824093000 +0100" stop="20200824101500 +0100" channel="Watania 2">
     <title lang="ar">مسلسل عطر الشام</title>
-    <desc lang="ar">يجسد العمل فترة العشرينيات في دمشق، حيث يتناول الحياة الاجتماعية في تلك المرحلة. وما حدث في أثناء فترة الاحتلال الفرنسي من خلال قصص وحكايات مشوقة تجمع بين الخيانة والشهامة والحب والصراع والخير والشر.</desc>
+    <desc lang="ar">يجسد العمل فترة العشرينيات في دمشق، حيث يتناول الحياة الاجتماعية في تلك المرحلة. وما حدث في أثناء فترة الاحتلال الفرنسي من خلال قصص وحكايات مشوقة تجمع بين الخيانة والشهامة والحب والصراع والخير والشر.(c)</desc>
     <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_emission/%D8%B9%D8%B7%D8%B1.jpg?itok=-yj-D41h" />
   </programme>
-  <programme start="20200823101500 +0100" stop="20200823104000 +0100" channel="Watania 2">
-    <title lang="ar">جنون القايلة</title>
-    <desc lang="ar">مسلسل تونسي خيالي للصغار والكبار يروي قصة اكتشاف أطفال لممر إلى الماضي في بيت الجدة بالمدينة العتيقة يساعدهم على أنقاذ الحي من عملية هدم لتعويضه ببناية عصرية...</desc>
-    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_emission/%D8%AC%D9%86%D9%88%D9%86%20%D8%A7%D9%84%D9%82%D8%A7%D9%8A.jpg?itok=QnHvYyr_" />
+  <programme start="20200824101500 +0100" stop="20200824104000 +0100" channel="Watania 2">
+    <title lang="ar">نوافذ</title>
+    <desc lang="ar">لقاء الصراحة يقوم على استضافة ضيوف من المجال الثقافي والحديث معها عن جديدها وعلاقة المثقف الفنان بمختلف الأحداث والتطورات التي تحدث في تونس.(c)</desc>
+    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_emission/nawefedh-w2_detail_0.jpg?itok=abepPR9_" />
   </programme>
-  <programme start="20200823104000 +0100" stop="20200823120500 +0100" channel="Watania 2">
+  <programme start="20200824104000 +0100" stop="20200824120500 +0100" channel="Watania 2">
     <title lang="ar">صور متحركة</title>
-    <desc lang="ar">فقرة يومية مع المرح والصور المتحركة الممتعة.</desc>
+    <desc lang="ar">فقرة يومية مع المرح والصور المتحركة الممتعة.(c)</desc>
     <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_event_program/enfants%202_detail.jpg?itok=z3AdthXI" />
   </programme>
-  <programme start="20200823120500 +0100" stop="20200823130100 +0100" channel="Watania 2">
-    <title lang="ar">مسلسل دنيا</title>
-    <desc lang="ar">مسلسل دنيا:
-
-مسلسل من بطولة زهير الرايس - نادية بوستة - جمال ساسي - صالح الجدي - خديجة بن عرفة - عيسى حراث - أنور العياشي - نورهان بو زيان - نصر الدين السهيلي - منال عبد القوي - فتحي المسلماني - قابيل السياري.
-
-سينارية: محمد حيزي
-
-إخراج: نعيم بن رحومة.</desc>
-    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_emission/donia.jpg?itok=JV-EgL2E" />
-  </programme>
-  <programme start="20200823130100 +0100" stop="20200823134500 +0100" channel="Watania 2">
-    <title lang="ar">شوفلي حل</title>
-    <desc lang="ar">من الأعمال الاجتماعية التي تنقد الواقع الاجتماعي التونسي من دون تهجم أو انتقاد.</desc>
-    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_emission/choufli%207al_detail.jpg?itok=M0c_unNw" />
-  </programme>
-  <programme start="20200823134500 +0100" stop="20200823142000 +0100" channel="Watania 2">
-    <title lang="ar">سلسلة : حمة وعمار</title>
-    <desc lang="ar">سلسلة : حمة وعمار.</desc>
-    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/sitcom.png?itok=WDb1jkl5" />
-  </programme>
-  <programme start="20200823142000 +0100" stop="20200823145500 +0100" channel="Watania 2">
-    <title lang="ar">دار الخلاعة</title>
-    <desc lang="ar">سلسلة هزلية تصحبها مواقف طريفة ومعالجة لبعض القضايا الاجتماعية بطريقة نقدية ساخرة.</desc>
-    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_emission/images.jpg?itok=qaOZfdFo" />
-  </programme>
-  <programme start="20200823145500 +0100" stop="20200823162500 +0100" channel="Watania 2">
-    <title lang="ar">سهرة من الأرشيف</title>
-    <desc lang="ar">برنامج يقدم حفلة فنية لنجوم الفن أحييت في تونس
-
-البرنامج متاح للمشاهدة عن طريق البث الحي على موقع الوطنية الأولى أو في مكتبة إعادة المشاهدة إن فاتك البرنامج.</desc>
-    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_emission/emission-sahraarchive.jpg?itok=1CrgxQ7f" />
-  </programme>
-  <programme start="20200823162500 +0100" stop="20200823183000 +0100" channel="Watania 2">
-    <title lang="ar">كرة القدم : الملعب التونسي / النادي البنزرتي</title>
-    <desc lang="ar">نقل مباشر لمباراة كرة القدم من المركب الرياضي بباردو في إطار مرحلة الاياب من البطولة المحترفة الاولى لكرة القدم التي تجمع بين الملعب التونسي والنادي البنزرتي.</desc>
-    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_emission/%C2%A0%D8%A7%D9%84%D9%85%D9%84%D8%B9%D8%A8%20%D8%A7%D9%84%D8%AA%D9%88%D9%86%D8%B3%D9%8A%20%D9%88%D8%A7%D9%84%D9%86%D8%A7%D8%AF%D9%8A%20%D8%A7%D9%84%D8%A8%D9%86%D8%B2%D8%B1%D8%AA%D9%8A.jpg?itok=3kA04wAC" />
-  </programme>
-  <programme start="20200823183000 +0100" stop="20200823185500 +0100" channel="Watania 2">
+  <programme start="20200824120500 +0100" stop="20200824122500 +0100" channel="Watania 2">
     <title lang="ar">جنون القايلة</title>
-    <desc lang="ar">مسلسل تونسي خيالي للصغار والكبار يروي قصة اكتشاف أطفال لممر إلى الماضي في بيت الجدة بالمدينة العتيقة يساعدهم على أنقاذ الحي من عملية هدم لتعويضه ببناية عصرية...</desc>
+    <desc lang="ar">مسلسل تونسي خيالي للصغار والكبار يروي قصة اكتشاف أطفال لممر إلى الماضي في بيت الجدة بالمدينة العتيقة يساعدهم على أنقاذ الحي من عملية هدم لتعويضه ببناية عصرية...(c)</desc>
     <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_emission/%D8%AC%D9%86%D9%88%D9%86%20%D8%A7%D9%84%D9%82%D8%A7%D9%8A.jpg?itok=QnHvYyr_" />
   </programme>
-  <programme start="20200823185500 +0100" stop="20200823210500 +0100" channel="Watania 2">
-    <title lang="ar">كرة الدم: النادي الافريقي / اتحاد تطاوين</title>
-    <desc lang="ar">نقل مباشر لمباراة كرة القدم من الملعتب الاولمبي برادس و في إطار مرحلة الاياب من البطولة المحترفة الاولى لكرة القدم التي تجمع بين النادي الافريقي واتحاد تطاوين.</desc>
-    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_emission/%D8%A7%D9%84%D9%86%D8%A7%D8%AF%D9%8A%20%D8%A7%D9%84%D8%A7%D9%81%D8%B1%D9%8A%D9%82%D9%8A%20%D9%88%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF%20%D8%AA%D8%B7%D8%A7%D9%88%D9%8A%D9%86.jpg?itok=rlziZ96q" />
+  <programme start="20200824122500 +0100" stop="20200824132500 +0100" channel="Watania 2">
+    <title lang="ar">دروب المواجهة</title>
+    <desc lang="ar">دراما إجتماعية تسلط الضوء على سعي بعض رجال الأعمال لكسب المال بكل الطرق حتى غير الشرعية والإستحواذ على حقوق الآخرين ، كما يبرز المسلسل دور صحفية شابة في كشف العلاقات المشبوهة واللاأخلاقية بين رجال الأعمال.(c)</desc>
+    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_emission/%D8%AF%D8%B1%D9%88%D8%A8%20%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9_0.png?itok=rQs7XV71" />
   </programme>
-  <programme start="20200823210500 +0100" stop="20200823230000 +0100" channel="Watania 2">
-    <title lang="ar">مسرحية عمتي عايشة راجل</title>
-    <desc lang="ar">مسرحية عمتي عايشة راجل.</desc>
-    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_event_program/%D9%85%D8%B3%D8%B1%D8%AD%D9%8A%D8%A9_2.jpg?itok=nwyZl0ho" />
+  <programme start="20200824132500 +0100" stop="20200824141000 +0100" channel="Watania 2">
+    <title lang="ar">شوفلي حل</title>
+    <desc lang="ar">من الأعمال الاجتماعية التي تنقد الواقع الاجتماعي التونسي من دون تهجم أو انتقاد.(c)</desc>
+    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_emission/choufli%207al_detail.jpg?itok=M0c_unNw" />
   </programme>
-  <programme start="20200823230000 +0100" stop="20200823233500 +0100" channel="Watania 2">
+  <programme start="20200824141000 +0100" stop="20200824144000 +0100" channel="Watania 2">
     <title lang="ar">دار الخلاعة</title>
-    <desc lang="ar">سلسلة هزلية تصحبها مواقف طريفة ومعالجة لبعض القضايا الاجتماعية بطريقة نقدية ساخرة.</desc>
+    <desc lang="ar">سلسلة هزلية تصحبها مواقف طريفة ومعالجة لبعض القضايا الاجتماعية بطريقة نقدية ساخرة.(c)</desc>
     <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_emission/images.jpg?itok=qaOZfdFo" />
   </programme>
-  <programme start="20200823233500 +0100" stop="20200824060000 +0100" channel="Watania 2">
+  <programme start="20200824144000 +0100" stop="20200824164000 +0100" channel="Watania 2">
+    <title lang="ar">مسرحية عمتي عايشة راجل</title>
+    <desc lang="ar">مسرحية عمتي عايشة راجل.(c)</desc>
+    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_event_program/%D9%85%D8%B3%D8%B1%D8%AD%D9%8A%D8%A9_2.jpg?itok=nwyZl0ho" />
+  </programme>
+  <programme start="20200824164000 +0100" stop="20200824170500 +0100" channel="Watania 2">
+    <title lang="ar">جنون القايلة</title>
+    <desc lang="ar">مسلسل تونسي خيالي للصغار والكبار يروي قصة اكتشاف أطفال لممر إلى الماضي في بيت الجدة بالمدينة العتيقة يساعدهم على أنقاذ الحي من عملية هدم لتعويضه ببناية عصرية...(c)</desc>
+    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_emission/%D8%AC%D9%86%D9%88%D9%86%20%D8%A7%D9%84%D9%82%D8%A7%D9%8A.jpg?itok=QnHvYyr_" />
+  </programme>
+  <programme start="20200824170500 +0100" stop="20200824180500 +0100" channel="Watania 2">
+    <title lang="ar">صور متحركة</title>
+    <desc lang="ar">فقرة يومية مع المرح والصور المتحركة الممتعة.(c)</desc>
+    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_event_program/enfants%202_detail.jpg?itok=z3AdthXI" />
+  </programme>
+  <programme start="20200824180500 +0100" stop="20200824190500 +0100" channel="Watania 2">
+    <title lang="ar">حسابات وعقابات</title>
+    <desc lang="ar">مهندس في البيولوجيا الغذائية من أصل ريفي يعود إلى بلاده من فرنسا محملا بالشهائد العلمية ومتطلعا إلى وظيفة تتماشى ومؤهلاته وشغفه الكبير بالبحث العلمي لكن تنتظره مشاكل كثيرة...(c)</desc>
+    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_emission/%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D9%88-%D8%B9%D9%82%D8%A7%D8%A8%D8%A7%D8%AA.jpg?itok=ht_C0slJ" />
+  </programme>
+  <programme start="20200824190500 +0100" stop="20200824195000 +0100" channel="Watania 2">
+    <title lang="ar">مسلسل عطر الشام</title>
+    <desc lang="ar">يجسد العمل فترة العشرينيات في دمشق، حيث يتناول الحياة الاجتماعية في تلك المرحلة. وما حدث في أثناء فترة الاحتلال الفرنسي من خلال قصص وحكايات مشوقة تجمع بين الخيانة والشهامة والحب والصراع والخير والشر.(c)</desc>
+    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_emission/%D8%B9%D8%B7%D8%B1.jpg?itok=-yj-D41h" />
+  </programme>
+  <programme start="20200824195000 +0100" stop="20200824202500 +0100" channel="Watania 2">
     <title lang="ar">سلسلة : حمة وعمار</title>
     <desc lang="ar">سلسلة : حمة وعمار.</desc>
     <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/sitcom.png?itok=WDb1jkl5" />
   </programme>
-  <programme start="20200824060500 +0100" stop="20200824061800 +0100" channel="Watania 2">
+  <programme start="20200824202500 +0100" stop="20200824210500 +0100" channel="Watania 2">
+    <title lang="ar">شوفلي حل</title>
+    <desc lang="ar">من الأعمال الاجتماعية التي تنقد الواقع الاجتماعي التونسي من دون تهجم أو انتقاد.(c)</desc>
+    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_emission/choufli%207al_detail.jpg?itok=M0c_unNw" />
+  </programme>
+  <programme start="20200824210500 +0100" stop="20200824220000 +0100" channel="Watania 2">
+    <title lang="ar">دروب المواجهة</title>
+    <desc lang="ar">دراما إجتماعية تسلط الضوء على سعي بعض رجال الأعمال لكسب المال بكل الطرق حتى غير الشرعية والإستحواذ على حقوق الآخرين ، كما يبرز المسلسل دور صحفية شابة في كشف العلاقات المشبوهة واللاأخلاقية بين رجال الأعمال.(c)</desc>
+    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_emission/%D8%AF%D8%B1%D9%88%D8%A8%20%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9_0.png?itok=rQs7XV71" />
+  </programme>
+  <programme start="20200824220000 +0100" stop="20200824225500 +0100" channel="Watania 2">
+    <title lang="ar">حسابات وعقابات</title>
+    <desc lang="ar">مهندس في البيولوجيا الغذائية من أصل ريفي يعود إلى بلاده من فرنسا محملا بالشهائد العلمية ومتطلعا إلى وظيفة تتماشى ومؤهلاته وشغفه الكبير بالبحث العلمي لكن تنتظره مشاكل كثيرة...(c)</desc>
+    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_emission/%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D9%88-%D8%B9%D9%82%D8%A7%D8%A8%D8%A7%D8%AA.jpg?itok=ht_C0slJ" />
+  </programme>
+  <programme start="20200824225500 +0100" stop="20200824233000 +0100" channel="Watania 2">
+    <title lang="ar">دار الخلاعة</title>
+    <desc lang="ar">سلسلة هزلية تصحبها مواقف طريفة ومعالجة لبعض القضايا الاجتماعية بطريقة نقدية ساخرة.(c)</desc>
+    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_emission/images.jpg?itok=qaOZfdFo" />
+  </programme>
+  <programme start="20200824233000 +0100" stop="20200825060000 +0100" channel="Watania 2">
+    <title lang="ar">فقرة غنائية</title>
+    <desc lang="ar">فقرة غنائية.(c)</desc>
+    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_event_program/%D9%81%D9%82%D8%B1%D8%A9%20%D8%BA%D9%86%D8%A7%D8%A6%D9%8A%D8%A9.jpg?itok=pZl85EAb" />
+  </programme>
+  <programme start="20200825060500 +0100" stop="20200825063500 +0100" channel="Watania 2">
     <title lang="ar">القرآن الكريم</title>
     <desc lang="ar">تلاوة لما تيسر من سور القرآن الكريم.(n)</desc>
     <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_event_program/9oren%202-detail.jpg?itok=jlcjLhPz" />
   </programme>
-  <programme start="20200824061800 +0100" stop="20200824063000 +0100" channel="Watania 2">
+  <programme start="20200825063500 +0100" stop="20200825064500 +0100" channel="Watania 2">
     <title lang="ar">إبتهالات</title>
     <desc lang="ar">ابتهالات دينية.(n)</desc>
     <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_event_program/ibtihelet-w2_detail.jpg?itok=IltxDAxj" />
   </programme>
-  <programme start="20200824063000 +0100" stop="20200824070100 +0100" channel="Watania 2">
+  <programme start="20200825064500 +0100" stop="20200825071500 +0100" channel="Watania 2">
     <title lang="ar">فقرة غنائية: حفل الفنانة فيروز</title>
     <desc lang="ar">فقرة غنائية: حفل الفنانة فيروز.(n)</desc>
     <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_event_program/%D9%81%D9%8A%D8%B1%D9%88%D8%B2.jpg?itok=XDpj2VKa" />
   </programme>
-  <programme start="20200824070100 +0100" stop="20200824083000 +0100" channel="Watania 2">
-    <title lang="ar">برنامج: لقاء</title>
-    <desc lang="ar">برنامج: لقاء.(n)</desc>
-    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_emission/unnamed_2.jpg?itok=s3EWomlD" />
+  <programme start="20200825071500 +0100" stop="20200825081000 +0100" channel="Watania 2">
+    <title lang="ar">حسابات وعقابات</title>
+    <desc lang="ar">مهندس في البيولوجيا الغذائية من أصل ريفي يعود إلى بلاده من فرنسا محملا بالشهائد العلمية ومتطلعا إلى وظيفة تتماشى ومؤهلاته وشغفه الكبير بالبحث العلمي لكن تنتظره مشاكل كثيرة...(n)</desc>
+    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_emission/%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D9%88-%D8%B9%D9%82%D8%A7%D8%A8%D8%A7%D8%AA.jpg?itok=ht_C0slJ" />
   </programme>
-  <programme start="20200824083000 +0100" stop="20200824084500 +0100" channel="Watania 2">
+  <programme start="20200825081000 +0100" stop="20200825082500 +0100" channel="Watania 2">
     <title lang="ar">ذاكرة مدينة</title>
     <desc lang="ar">زيارة لمدن تونس الجميلة واكتشاف لسحرها وروعتها.(n)</desc>
     <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_emission/%D9%85%D8%AF%D9%86%20%D8%AA%D9%88%D9%86%D8%B3.jpg?itok=u2Pcuxun" />
   </programme>
-  <programme start="20200824084500 +0100" stop="20200824091500 +0100" channel="Watania 2">
+  <programme start="20200825082500 +0100" stop="20200825085500 +0100" channel="Watania 2">
     <title lang="ar">سلسلة: بنت الخزاف</title>
     <desc lang="ar">سلسلة بنت الخزاف من إخراج الحبيب المسلماني
 
@@ -840,289 +848,250 @@
 بطولة: سلمى الحفصي - جمال ساسي - فوزية بو معيزة - البشير الصالحي الحميدي - كوثر الباردي - لزهر البوعزيزي.(n)</desc>
     <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_emission/bent.jpg?itok=JXvwm5aq" />
   </programme>
-  <programme start="20200824091500 +0100" stop="20200824102000 +0100" channel="Watania 2">
-    <title lang="ar">برنامج وثائقي</title>
-    <desc lang="ar">برنامج وثائقي.(n)</desc>
-    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_emission/%D9%88%D8%AB%D8%A7%D8%A6%D9%82%D9%8A.jpg?itok=6J2XqDG7" />
+  <programme start="20200825085500 +0100" stop="20200825092000 +0100" channel="Watania 2">
+    <title lang="ar">وثائقيات</title>
+    <desc lang="ar">سلسلة من مختلف الافلام الوثائقية.(n)</desc>
+    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_emission/original-689x502.jpg?itok=6Efw99dw" />
   </programme>
-  <programme start="20200824102000 +0100" stop="20200824110500 +0100" channel="Watania 2">
-    <title lang="ar">مسلسل عطر الشام</title>
-    <desc lang="ar">يجسد العمل فترة العشرينيات في دمشق، حيث يتناول الحياة الاجتماعية في تلك المرحلة. وما حدث في أثناء فترة الاحتلال الفرنسي من خلال قصص وحكايات مشوقة تجمع بين الخيانة والشهامة والحب والصراع والخير والشر.(n)</desc>
-    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_emission/%D8%B9%D8%B7%D8%B1.jpg?itok=-yj-D41h" />
-  </programme>
-  <programme start="20200824110500 +0100" stop="20200824122500 +0100" channel="Watania 2">
-    <title lang="ar">صور متحركة</title>
-    <desc lang="ar">فقرة يومية مع المرح والصور المتحركة الممتعة.(n)</desc>
-    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_event_program/enfants%202_detail.jpg?itok=z3AdthXI" />
-  </programme>
-  <programme start="20200824122500 +0100" stop="20200824125000 +0100" channel="Watania 2">
-    <title lang="ar">جنون القايلة</title>
-    <desc lang="ar">مسلسل تونسي خيالي للصغار والكبار يروي قصة اكتشاف أطفال لممر إلى الماضي في بيت الجدة بالمدينة العتيقة يساعدهم على أنقاذ الحي من عملية هدم لتعويضه ببناية عصرية...(n)</desc>
-    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_emission/%D8%AC%D9%86%D9%88%D9%86%20%D8%A7%D9%84%D9%82%D8%A7%D9%8A.jpg?itok=QnHvYyr_" />
-  </programme>
-  <programme start="20200824125000 +0100" stop="20200824133000 +0100" channel="Watania 2">
+  <programme start="20200825092000 +0100" stop="20200825094500 +0100" channel="Watania 2">
     <title lang="ar">محلاها بلادي</title>
     <desc lang="ar">مجلة أسبوعية تهتم بإبراز العادات و التقاليد والمنتوج السياحي التونسي.(n)</desc>
     <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/ma7laha-bladi.jpg?itok=jWFQw9ez" />
   </programme>
-  <programme start="20200824133000 +0100" stop="20200824142000 +0100" channel="Watania 2">
-    <title lang="ar">شوفلي حل</title>
-    <desc lang="ar">من الأعمال الاجتماعية التي تنقد الواقع الاجتماعي التونسي من دون تهجم أو انتقاد.(n)</desc>
-    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_emission/choufli%207al_detail.jpg?itok=M0c_unNw" />
-  </programme>
-  <programme start="20200824142000 +0100" stop="20200824145000 +0100" channel="Watania 2">
-    <title lang="ar">دار الخلاعة</title>
-    <desc lang="ar">سلسلة هزلية تصحبها مواقف طريفة ومعالجة لبعض القضايا الاجتماعية بطريقة نقدية ساخرة.(n)</desc>
-    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_emission/images.jpg?itok=qaOZfdFo" />
-  </programme>
-  <programme start="20200824145000 +0100" stop="20200824165000 +0100" channel="Watania 2">
-    <title lang="ar">مسرحية عمتي عايشة راجل</title>
-    <desc lang="ar">مسرحية عمتي عايشة راجل.(n)</desc>
-    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_event_program/%D9%85%D8%B3%D8%B1%D8%AD%D9%8A%D8%A9_2.jpg?itok=nwyZl0ho" />
-  </programme>
-  <programme start="20200824165000 +0100" stop="20200824171500 +0100" channel="Watania 2">
-    <title lang="ar">جنون القايلة</title>
-    <desc lang="ar">مسلسل تونسي خيالي للصغار والكبار يروي قصة اكتشاف أطفال لممر إلى الماضي في بيت الجدة بالمدينة العتيقة يساعدهم على أنقاذ الحي من عملية هدم لتعويضه ببناية عصرية...(n)</desc>
-    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_emission/%D8%AC%D9%86%D9%88%D9%86%20%D8%A7%D9%84%D9%82%D8%A7%D9%8A.jpg?itok=QnHvYyr_" />
-  </programme>
-  <programme start="20200824171500 +0100" stop="20200824180100 +0100" channel="Watania 2">
-    <title lang="ar">صور متحركة</title>
-    <desc lang="ar">فقرة يومية مع المرح والصور المتحركة الممتعة.(n)</desc>
-    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_event_program/enfants%202_detail.jpg?itok=z3AdthXI" />
-  </programme>
-  <programme start="20200824180100 +0100" stop="20200824190100 +0100" channel="Watania 2">
-    <title lang="ar">منامة عروسية</title>
-    <desc lang="ar">مسلسل تونسي عرض في رمضان 2000 حقق نجاحا كبيرا و يعتبر من أروع المسلسلات في تاريخ الدراما التونسية تاليف:علي اللواتي إخراج :صلاح الدين الصيد يتضمن 15 حلقة.(n)</desc>
-    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_emission/3-407x229.jpg?itok=bJwbhC0f" />
-  </programme>
-  <programme start="20200824190100 +0100" stop="20200824195000 +0100" channel="Watania 2">
+  <programme start="20200825094500 +0100" stop="20200825103000 +0100" channel="Watania 2">
     <title lang="ar">مسلسل عطر الشام</title>
     <desc lang="ar">يجسد العمل فترة العشرينيات في دمشق، حيث يتناول الحياة الاجتماعية في تلك المرحلة. وما حدث في أثناء فترة الاحتلال الفرنسي من خلال قصص وحكايات مشوقة تجمع بين الخيانة والشهامة والحب والصراع والخير والشر.(n)</desc>
     <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_emission/%D8%B9%D8%B7%D8%B1.jpg?itok=-yj-D41h" />
   </programme>
-  <programme start="20200824195000 +0100" stop="20200824202500 +0100" channel="Watania 2">
-    <title lang="ar">سلسلة : حمة وعمار</title>
-    <desc lang="ar">سلسلة : حمة وعمار.(n)</desc>
-    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/sitcom.png?itok=WDb1jkl5" />
+  <programme start="20200825103000 +0100" stop="20200825115500 +0100" channel="Watania 2">
+    <title lang="ar">صور متحركة</title>
+    <desc lang="ar">فقرة يومية مع المرح والصور المتحركة الممتعة.(n)</desc>
+    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_event_program/enfants%202_detail.jpg?itok=z3AdthXI" />
   </programme>
-  <programme start="20200824202500 +0100" stop="20200824210600 +0100" channel="Watania 2">
+  <programme start="20200825115500 +0100" stop="20200825122000 +0100" channel="Watania 2">
+    <title lang="ar">جنون القايلة</title>
+    <desc lang="ar">مسلسل تونسي خيالي للصغار والكبار يروي قصة اكتشاف أطفال لممر إلى الماضي في بيت الجدة بالمدينة العتيقة يساعدهم على أنقاذ الحي من عملية هدم لتعويضه ببناية عصرية...(n)</desc>
+    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_emission/%D8%AC%D9%86%D9%88%D9%86%20%D8%A7%D9%84%D9%82%D8%A7%D9%8A.jpg?itok=QnHvYyr_" />
+  </programme>
+  <programme start="20200825122000 +0100" stop="20200825132000 +0100" channel="Watania 2">
+    <title lang="ar">دروب المواجهة</title>
+    <desc lang="ar">دراما إجتماعية تسلط الضوء على سعي بعض رجال الأعمال لكسب المال بكل الطرق حتى غير الشرعية والإستحواذ على حقوق الآخرين ، كما يبرز المسلسل دور صحفية شابة في كشف العلاقات المشبوهة واللاأخلاقية بين رجال الأعمال.(n)</desc>
+    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_emission/%D8%AF%D8%B1%D9%88%D8%A8%20%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9_0.png?itok=rQs7XV71" />
+  </programme>
+  <programme start="20200825132000 +0100" stop="20200825135500 +0100" channel="Watania 2">
     <title lang="ar">شوفلي حل</title>
     <desc lang="ar">من الأعمال الاجتماعية التي تنقد الواقع الاجتماعي التونسي من دون تهجم أو انتقاد.(n)</desc>
     <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_emission/choufli%207al_detail.jpg?itok=M0c_unNw" />
   </programme>
-  <programme start="20200824210600 +0100" stop="20200824220000 +0100" channel="Watania 2">
-    <title lang="ar">مسلسل دنيا</title>
-    <desc lang="ar">مسلسل دنيا:
-
-مسلسل من بطولة زهير الرايس - نادية بوستة - جمال ساسي - صالح الجدي - خديجة بن عرفة - عيسى حراث - أنور العياشي - نورهان بو زيان - نصر الدين السهيلي - منال عبد القوي - فتحي المسلماني - قابيل السياري.
-
-سينارية: محمد حيزي
-
-إخراج: نعيم بن رحومة.(n)</desc>
-    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_emission/donia.jpg?itok=JV-EgL2E" />
+  <programme start="20200825135500 +0100" stop="20200825143000 +0100" channel="Watania 2">
+    <title lang="ar">سلسلة : حمة وعمار</title>
+    <desc lang="ar">سلسلة : حمة وعمار.(n)</desc>
+    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/sitcom.png?itok=WDb1jkl5" />
   </programme>
-  <programme start="20200824220000 +0100" stop="20200824230000 +0100" channel="Watania 2">
-    <title lang="ar">منامة عروسية</title>
-    <desc lang="ar">مسلسل تونسي عرض في رمضان 2000 حقق نجاحا كبيرا و يعتبر من أروع المسلسلات في تاريخ الدراما التونسية تاليف:علي اللواتي إخراج :صلاح الدين الصيد يتضمن 15 حلقة.(n)</desc>
-    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_emission/3-407x229.jpg?itok=bJwbhC0f" />
-  </programme>
-  <programme start="20200824230000 +0100" stop="20200824233500 +0100" channel="Watania 2">
+  <programme start="20200825143000 +0100" stop="20200825150000 +0100" channel="Watania 2">
     <title lang="ar">دار الخلاعة</title>
     <desc lang="ar">سلسلة هزلية تصحبها مواقف طريفة ومعالجة لبعض القضايا الاجتماعية بطريقة نقدية ساخرة.(n)</desc>
     <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_emission/images.jpg?itok=qaOZfdFo" />
   </programme>
-  <programme start="20200824233500 +0100" stop="20200825060000 +0100" channel="Watania 2">
-    <title lang="ar">سهرة من الأرشيف</title>
-    <desc lang="ar">برنامج يقدم حفلة فنية لنجوم الفن أحييت في تونس
-
-البرنامج متاح للمشاهدة عن طريق البث الحي على موقع الوطنية الأولى أو في مكتبة إعادة المشاهدة إن فاتك البرنامج.(n)</desc>
-    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_emission/emission-sahraarchive.jpg?itok=1CrgxQ7f" />
+  <programme start="20200825150000 +0100" stop="20200825155500 +0100" channel="Watania 2">
+    <title lang="ar">حسابات وعقابات</title>
+    <desc lang="ar">مهندس في البيولوجيا الغذائية من أصل ريفي يعود إلى بلاده من فرنسا محملا بالشهائد العلمية ومتطلعا إلى وظيفة تتماشى ومؤهلاته وشغفه الكبير بالبحث العلمي لكن تنتظره مشاكل كثيرة...(n)</desc>
+    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_emission/%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D9%88-%D8%B9%D9%82%D8%A7%D8%A8%D8%A7%D8%AA.jpg?itok=ht_C0slJ" />
   </programme>
-  <programme start="20200823000000 +0000" stop="20200823020500 +0000" channel="BS1">
-    <title lang="au">MLS</title>
-    <sub-title lang="au">Inter Miami vs Orlando</sub-title>
+  <programme start="20200825155500 +0100" stop="20200825162500 +0100" channel="Watania 2">
+    <title lang="ar">جنون القايلة</title>
+    <desc lang="ar">مسلسل تونسي خيالي للصغار والكبار يروي قصة اكتشاف أطفال لممر إلى الماضي في بيت الجدة بالمدينة العتيقة يساعدهم على أنقاذ الحي من عملية هدم لتعويضه ببناية عصرية...(n)</desc>
+    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_emission/%D8%AC%D9%86%D9%88%D9%86%20%D8%A7%D9%84%D9%82%D8%A7%D9%8A.jpg?itok=QnHvYyr_" />
   </programme>
-  <programme start="20200823020500 +0000" stop="20200823023500 +0000" channel="BS1">
-    <title lang="au">Football's Greatest</title>
-    <sub-title lang="au">Thierry Henry</sub-title>
+  <programme start="20200825162500 +0100" stop="20200825183000 +0100" channel="Watania 2">
+    <title lang="ar">كرة القدم: النجم الساحلي / اتحاد بنقردان</title>
+    <desc lang="ar">نقل مباشر لمباراة كرة القدم من ملعب علي الحوار بحمام سوسة في إطار مرحلة الاياب من البطولة المحترفة الأولى التي تجمع بين النجم الساحلي واتحاد بنقردان.(n)</desc>
+    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_emission/c7dddf2a5c6a8aa5cdc25819e339dad436.jpg?itok=J8-Ox_UJ" />
   </programme>
-  <programme start="20200823023500 +0000" stop="20200823042500 +0000" channel="BS1">
-    <title lang="au">Serie A</title>
-    <sub-title lang="au">Genoa vs Juventus</sub-title>
+  <programme start="20200825183000 +0100" stop="20200825193000 +0100" channel="Watania 2">
+    <title lang="ar">حسابات وعقابات</title>
+    <desc lang="ar">مهندس في البيولوجيا الغذائية من أصل ريفي يعود إلى بلاده من فرنسا محملا بالشهائد العلمية ومتطلعا إلى وظيفة تتماشى ومؤهلاته وشغفه الكبير بالبحث العلمي لكن تنتظره مشاكل كثيرة...(n)</desc>
+    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_emission/%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D9%88-%D8%B9%D9%82%D8%A7%D8%A8%D8%A7%D8%AA.jpg?itok=ht_C0slJ" />
   </programme>
-  <programme start="20200823042500 +0000" stop="20200823045500 +0000" channel="BS1">
-    <title lang="au">Serie A</title>
-    <sub-title lang="au">Sassuolo vs Juventus</sub-title>
+  <programme start="20200825193000 +0100" stop="20200825202000 +0100" channel="Watania 2">
+    <title lang="ar">مسلسل عطر الشام</title>
+    <desc lang="ar">يجسد العمل فترة العشرينيات في دمشق، حيث يتناول الحياة الاجتماعية في تلك المرحلة. وما حدث في أثناء فترة الاحتلال الفرنسي من خلال قصص وحكايات مشوقة تجمع بين الخيانة والشهامة والحب والصراع والخير والشر.(n)</desc>
+    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_emission/t%C3%A9l%C3%A9charg%C3%A9_3.jpg?itok=gANCSUSl" />
   </programme>
-  <programme start="20200823045500 +0000" stop="20200823064000 +0000" channel="BS1">
-    <title lang="au">Serie A</title>
-    <sub-title lang="au">Benevento vs Juventus</sub-title>
+  <programme start="20200825202000 +0100" stop="20200825210100 +0100" channel="Watania 2">
+    <title lang="ar">شوفلي حل</title>
+    <desc lang="ar">من الأعمال الاجتماعية التي تنقد الواقع الاجتماعي التونسي من دون تهجم أو انتقاد.(n)</desc>
+    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_emission/choufli%207al_detail.jpg?itok=M0c_unNw" />
   </programme>
-  <programme start="20200823064000 +0000" stop="20200823082500 +0000" channel="BS1">
-    <title lang="au">Ligue 1</title>
-    <sub-title lang="au">Lille vs Rennes</sub-title>
+  <programme start="20200825210100 +0100" stop="20200825215500 +0100" channel="Watania 2">
+    <title lang="ar">دروب المواجهة</title>
+    <desc lang="ar">دراما إجتماعية تسلط الضوء على سعي بعض رجال الأعمال لكسب المال بكل الطرق حتى غير الشرعية والإستحواذ على حقوق الآخرين ، كما يبرز المسلسل دور صحفية شابة في كشف العلاقات المشبوهة واللاأخلاقية بين رجال الأعمال.(n)</desc>
+    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_emission/%D8%AF%D8%B1%D9%88%D8%A8%20%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9_0.png?itok=rQs7XV71" />
   </programme>
-  <programme start="20200823082500 +0000" stop="20200823084000 +0000" channel="BS1">
+  <programme start="20200825215500 +0100" stop="20200825224500 +0100" channel="Watania 2">
+    <title lang="ar">حسابات وعقابات</title>
+    <desc lang="ar">مهندس في البيولوجيا الغذائية من أصل ريفي يعود إلى بلاده من فرنسا محملا بالشهائد العلمية ومتطلعا إلى وظيفة تتماشى ومؤهلاته وشغفه الكبير بالبحث العلمي لكن تنتظره مشاكل كثيرة...(n)</desc>
+    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_emission/%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D9%88-%D8%B9%D9%82%D8%A7%D8%A8%D8%A7%D8%AA.jpg?itok=ht_C0slJ" />
+  </programme>
+  <programme start="20200825224500 +0100" stop="20200825232000 +0100" channel="Watania 2">
+    <title lang="ar">دار الخلاعة</title>
+    <desc lang="ar">سلسلة هزلية تصحبها مواقف طريفة ومعالجة لبعض القضايا الاجتماعية بطريقة نقدية ساخرة.(n)</desc>
+    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_emission/images.jpg?itok=qaOZfdFo" />
+  </programme>
+  <programme start="20200825232000 +0100" stop="20200826060000 +0100" channel="Watania 2">
+    <title lang="ar">فقرة غنائية</title>
+    <desc lang="ar">فقرة غنائية.(n)</desc>
+    <icon src="http://www.watania2.tn/sites/default/files/styles/tv1_program/public/img_event_program/%D9%81%D9%82%D8%B1%D8%A9%20%D8%BA%D9%86%D8%A7%D8%A6%D9%8A%D8%A9.jpg?itok=pZl85EAb" />
+  </programme>
+  <programme start="20200824001500 +0000" stop="20200824003000 +0000" channel="BS1">
     <title lang="au">My Sporting Moment</title>
     <sub-title lang="au">Angel Di Maria</sub-title>
   </programme>
-  <programme start="20200823084000 +0000" stop="20200823102500 +0000" channel="BS1">
-    <title lang="au">Ligue 1</title>
-    <sub-title lang="au">Dijon vs Angers</sub-title>
-  </programme>
-  <programme start="20200823102500 +0000" stop="20200823105500 +0000" channel="BS1">
-    <title lang="au">Ligue 1 Mini</title>
-    <sub-title lang="au">Lille vs Rennes</sub-title>
-  </programme>
-  <programme start="20200823105500 +0000" stop="20200823125500 +0000" channel="BS1">
+  <programme start="20200824003000 +0000" stop="20200824022000 +0000" channel="BS1">
     <title lang="au">Ligue 1</title>
     <sub-title lang="au">Monaco vs Reims</sub-title>
   </programme>
-  <programme start="20200823125500 +0000" stop="20200823145500 +0000" channel="BS1">
-    <title lang="au">Ligue 1</title>
-    <sub-title lang="au">Lorient vs Strasbourg</sub-title>
+  <programme start="20200824022000 +0000" stop="20200824042500 +0000" channel="BS1">
+    <title lang="au">MLS</title>
+    <sub-title lang="au">Portland vs Seattle</sub-title>
   </programme>
-  <programme start="20200823145500 +0000" stop="20200823170000 +0000" channel="BS1">
-    <title lang="au">Ligue 1</title>
-    <sub-title lang="au">Nice vs Lens</sub-title>
+  <programme start="20200824042500 +0000" stop="20200824044500 +0000" channel="BS1">
+    <title lang="au">MLS The Movement</title>
+    <category lang="au">Can Soccer Save the Planet?</category>
   </programme>
-  <programme start="20200823170000 +0000" stop="20200823184000 +0000" channel="BS1">
-    <title lang="au">Ligue 1</title>
-    <sub-title lang="au">The Next Big Thing</sub-title>
+  <programme start="20200824044500 +0000" stop="20200824051500 +0000" channel="BS1">
+    <title lang="au">Football's Greatest</title>
+    <sub-title lang="au">Didier Deschamps</sub-title>
   </programme>
-  <programme start="20200823184000 +0000" stop="20200823191000 +0000" channel="BS1">
+  <programme start="20200824051500 +0000" stop="20200824054500 +0000" channel="BS1">
     <title lang="au">Football's Greatest</title>
     <sub-title lang="au">Jean-Pierre Papin</sub-title>
   </programme>
-  <programme start="20200823191000 +0000" stop="20200823194000 +0000" channel="BS1">
-    <title lang="au">LaLiga</title>
-    <sub-title lang="au">Aritz Aduriz</sub-title>
+  <programme start="20200824054500 +0000" stop="20200824073000 +0000" channel="BS1">
+    <title lang="au">Ligue 1</title>
+    <sub-title lang="au">Lorient vs Strasbourg</sub-title>
   </programme>
-  <programme start="20200823194000 +0000" stop="20200823195500 +0000" channel="BS1">
-    <title lang="au">LaLiga</title>
-    <sub-title lang="au">Courtois: The Champions Defense</sub-title>
-  </programme>
-  <programme start="20200823195500 +0000" stop="20200823220000 +0000" channel="BS1">
-    <title lang="au">LaLiga 2</title>
-    <sub-title lang="au">Girona vs Elche</sub-title>
-  </programme>
-  <programme start="20200823220000 +0000" stop="20200823223000 +0000" channel="BS1">
+  <programme start="20200824073000 +0000" stop="20200824080000 +0000" channel="BS1">
     <title lang="au">The Xtra</title>
     <sub-title lang="au">Episode Number 2</sub-title>
   </programme>
-  <programme start="20200823223000 +0000" stop="20200824001500 +0000" channel="BS1">
-    <title lang="au">Ligue 1</title>
-    <sub-title lang="au">Nice vs Lens</sub-title>
+  <programme start="20200824080000 +0000" stop="20200824083000 +0000" channel="BS1">
+    <title lang="au">Ligue 1 Mini</title>
+    <sub-title lang="au">Monaco vs Reims</sub-title>
   </programme>
-  <programme start="20200824223000 +0000" stop="20200825001500 +0000" channel="BS1">
-    <title lang="au">Ligue 1</title>
-    <sub-title lang="au">Nice vs Lens</sub-title>
+  <programme start="20200824083000 +0000" stop="20200824090000 +0000" channel="BS1">
+    <title lang="au">Ligue 1 Mini</title>
+    <sub-title lang="au">Lille vs Rennes</sub-title>
   </programme>
-  <programme start="20200823002000 +0000" stop="20200823003500 +0000" channel="BS2">
-    <title lang="au">LFC TV</title>
-    <sub-title lang="au">Champions: Fabinho's Story</sub-title>
+  <programme start="20200824090000 +0000" stop="20200824100000 +0000" channel="BS1">
+    <title lang="au">Ligue 1 Highlights</title>
+    <sub-title lang="au">MD 1</sub-title>
   </programme>
-  <programme start="20200823003500 +0000" stop="20200823010500 +0000" channel="BS2">
-    <title lang="au">LFC TV</title>
-    <sub-title lang="au">Champions: The Managers' Story</sub-title>
+  <programme start="20200824100000 +0000" stop="20200824103000 +0000" channel="BS1">
+    <title lang="au">Football Rivalries</title>
+    <sub-title lang="au">Milan</sub-title>
   </programme>
-  <programme start="20200823010500 +0000" stop="20200823031000 +0000" channel="BS2">
+  <programme start="20200824103000 +0000" stop="20200824110000 +0000" channel="BS1">
+    <title lang="au">Football Rivalries</title>
+    <sub-title lang="au">Prague</sub-title>
+  </programme>
+  <programme start="20200824110000 +0000" stop="20200824113000 +0000" channel="BS1">
+    <title lang="au">Football Rivalries</title>
+    <sub-title lang="au">Old Firm</sub-title>
+  </programme>
+  <programme start="20200824113000 +0000" stop="20200824120000 +0000" channel="BS1">
+    <title lang="au">Football Rivalries</title>
+    <sub-title lang="au">Man Utd v Liverpool</sub-title>
+  </programme>
+  <programme start="20200824120000 +0000" stop="20200824123000 +0000" channel="BS1">
+    <title lang="au">Ligue 1 Mini</title>
+    <sub-title lang="au">Bordeaux vs Nantes</sub-title>
+  </programme>
+  <programme start="20200824123000 +0000" stop="20200824130000 +0000" channel="BS1">
+    <title lang="au">Ligue 1 Mini</title>
+    <sub-title lang="au">Monaco vs Reims</sub-title>
+  </programme>
+  <programme start="20200824130000 +0000" stop="20200824140000 +0000" channel="BS1">
+    <title lang="au">Ligue 1 Highlights</title>
+    <sub-title lang="au">MD 1</sub-title>
+  </programme>
+  <programme start="20200824140000 +0000" stop="20200824154500 +0000" channel="BS1">
+    <title lang="au">LaLiga</title>
+    <sub-title lang="au">Barcelona vs Alaves</sub-title>
+  </programme>
+  <programme start="20200824154500 +0000" stop="20200824161500 +0000" channel="BS1">
+    <title lang="au">Laliga Mini</title>
+    <sub-title lang="au">Real Madrid vs Sevilla</sub-title>
+  </programme>
+  <programme start="20200824161500 +0000" stop="20200824180000 +0000" channel="BS1">
+    <title lang="au">LaLiga</title>
+    <sub-title lang="au">Espanyol vs Barcelona</sub-title>
+  </programme>
+  <programme start="20200824180000 +0000" stop="20200824194500 +0000" channel="BS1">
+    <title lang="au">LaLiga</title>
+    <sub-title lang="au">Real Madrid vs Sevilla</sub-title>
+  </programme>
+  <programme start="20200824194500 +0000" stop="20200824200000 +0000" channel="BS1">
+    <title lang="au">LaLiga</title>
+    <sub-title lang="au">Legendary Stadiums</sub-title>
+  </programme>
+  <programme start="20200824200000 +0000" stop="20200824203000 +0000" channel="BS1">
+    <title lang="au">Ligue 1 Mini</title>
+    <sub-title lang="au">Lille vs Rennes</sub-title>
+  </programme>
+  <programme start="20200824203000 +0000" stop="20200824210000 +0000" channel="BS1">
+    <title lang="au">Ligue 1 Mini</title>
+    <sub-title lang="au">Monaco vs Reims</sub-title>
+  </programme>
+  <programme start="20200824210000 +0000" stop="20200824220000 +0000" channel="BS1">
+    <title lang="au">Ligue 1 Highlights</title>
+    <sub-title lang="au">MD 1</sub-title>
+  </programme>
+  <programme start="20200824220000 +0000" stop="20200824223000 +0000" channel="BS1">
+    <title lang="au">Football Rivalries</title>
+    <sub-title lang="au">Milan</sub-title>
+  </programme>
+  <programme start="20200824223000 +0000" stop="20200824230000 +0000" channel="BS1">
+    <title lang="au">Football Rivalries</title>
+    <sub-title lang="au">Prague</sub-title>
+  </programme>
+  <programme start="20200824230000 +0000" stop="20200825010500 +0000" channel="BS1">
     <title lang="au">MLS</title>
-    <sub-title lang="au">Colorado vs Real Salt Lake</sub-title>
+    <sub-title lang="au">New York City vs Columbus</sub-title>
   </programme>
-  <programme start="20200823031000 +0000" stop="20200823033000 +0000" channel="BS2">
-    <title lang="au">MLS The Movement</title>
-    <category lang="au">Soccer &amp; LGBTQ Pride</category>
+  <programme start="20200825230000 +0000" stop="20200826010500 +0000" channel="BS1">
+    <title lang="au">MLS</title>
+    <sub-title lang="au">New York City vs Columbus</sub-title>
   </programme>
-  <programme start="20200823033000 +0000" stop="20200823052000 +0000" channel="BS2">
-    <title lang="au">SPFL</title>
-    <sub-title lang="au">Dundee Utd vs Celtic</sub-title>
-  </programme>
-  <programme start="20200823052000 +0000" stop="20200823064500 +0000" channel="BS2">
-    <title lang="au">LFC TV</title>
-    <sub-title lang="au">Liverpool vs Arsenal</sub-title>
-  </programme>
-  <programme start="20200823064500 +0000" stop="20200823081000 +0000" channel="BS2">
-    <title lang="au">LFC TV</title>
-    <sub-title lang="au">Liverpool vs Arsenal</sub-title>
-  </programme>
-  <programme start="20200823081000 +0000" stop="20200823091000 +0000" channel="BS2">
-    <title lang="au">LFC TV</title>
-    <sub-title lang="au">Golden Sky: Klopp's Champions 2019/20</sub-title>
-  </programme>
-  <programme start="20200823091000 +0000" stop="20200823110000 +0000" channel="BS2">
-    <title lang="au">SPFL</title>
-    <sub-title lang="au">Dundee Utd vs Celtic</sub-title>
-  </programme>
-  <programme start="20200823110000 +0000" stop="20200823113000 +0000" channel="BS2">
-    <title lang="au">Football's Greatest Clubs</title>
-    <sub-title lang="au">Celtic '67</sub-title>
-  </programme>
-  <programme start="20200823113000 +0000" stop="20200823120000 +0000" channel="BS2">
-    <title lang="au">Chelsea TV</title>
-    <sub-title lang="au">Retro Blues: Leeds 1972</sub-title>
-  </programme>
-  <programme start="20200823120000 +0000" stop="20200823123000 +0000" channel="BS2">
-    <title lang="au">Chelsea TV</title>
-    <sub-title lang="au">Retro Blues 70s: Chelsea vs Liverpool</sub-title>
-  </programme>
-  <programme start="20200823123000 +0000" stop="20200823130000 +0000" channel="BS2">
-    <title lang="au">Chelsea TV</title>
-    <sub-title lang="au">FA Cup Classic: Chelsea vs Watford '70</sub-title>
-  </programme>
-  <programme start="20200823130000 +0000" stop="20200823133000 +0000" channel="BS2">
-    <title lang="au">Chelsea TV</title>
-    <sub-title lang="au">Champions League: Greatest Goals</sub-title>
-  </programme>
-  <programme start="20200823133000 +0000" stop="20200823152500 +0000" channel="BS2">
-    <title lang="au">Chelsea TV</title>
-    <sub-title lang="au">Chelsea vs Everton</sub-title>
-  </programme>
-  <programme start="20200823152500 +0000" stop="20200823172500 +0000" channel="BS2">
-    <title lang="au">SPFL</title>
-    <sub-title lang="au">St Johnstone vs Hibernian</sub-title>
-  </programme>
-  <programme start="20200823172500 +0000" stop="20200823182000 +0000" channel="BS2">
-    <title lang="au">Ultimate Football</title>
-    <category lang="au">Ultimate Football I</category>
-  </programme>
-  <programme start="20200823182000 +0000" stop="20200823191500 +0000" channel="BS2">
-    <title lang="au">Ultimate Football</title>
-    <category lang="au">Ultimate Football II</category>
-  </programme>
-  <programme start="20200823191500 +0000" stop="20200823193000 +0000" channel="BS2">
-    <title lang="au">My Sporting Moment</title>
-    <sub-title lang="au">Emmerson Boyce</sub-title>
-  </programme>
-  <programme start="20200823193000 +0000" stop="20200823194500 +0000" channel="BS2">
+  <programme start="20200824001500 +0000" stop="20200824003000 +0000" channel="BS2">
     <title lang="au">My Sporting Moment</title>
     <sub-title lang="au">Christian Fuchs</sub-title>
   </programme>
-  <programme start="20200823194500 +0000" stop="20200823200000 +0000" channel="BS2">
+  <programme start="20200824003000 +0000" stop="20200824010000 +0000" channel="BS2">
+    <title lang="au">LFC TV</title>
+    <sub-title lang="au">Paisley's Statue</sub-title>
+  </programme>
+  <programme start="20200824010000 +0000" stop="20200824023000 +0000" channel="BS2">
+    <title lang="au">LFC TV</title>
+    <sub-title lang="au">A Season To Remember</sub-title>
+  </programme>
+  <programme start="20200824023000 +0000" stop="20200824030000 +0000" channel="BS2">
+    <title lang="au">LFC TV</title>
+    <sub-title lang="au">Champions: The Managers' Story</sub-title>
+  </programme>
+  <programme start="20200824030000 +0000" stop="20200824040000 +0000" channel="BS2">
+    <title lang="au">LFC TV</title>
+    <sub-title lang="au">Review Show: End of Season</sub-title>
+  </programme>
+  <programme start="20200824040000 +0000" stop="20200824054500 +0000" channel="BS2">
+    <title lang="au">SPFL</title>
+    <sub-title lang="au">Dundee Utd vs Celtic</sub-title>
+  </programme>
+  <programme start="20200824054500 +0000" stop="20200824060000 +0000" channel="BS2">
     <title lang="au">My Sporting Moment</title>
     <sub-title lang="au">Carli Lloyd</sub-title>
   </programme>
-  <programme start="20200823200000 +0000" stop="20200823203000 +0000" channel="BS2">
-    <title lang="au">Cricket's Greatest</title>
-    <sub-title lang="au">Shane Warne</sub-title>
-  </programme>
-  <programme start="20200823203000 +0000" stop="20200823210000 +0000" channel="BS2">
-    <title lang="au">Cricket's Greatest</title>
-    <sub-title lang="au">David Gower</sub-title>
-  </programme>
-  <programme start="20200823210000 +0000" stop="20200823213000 +0000" channel="BS2">
-    <title lang="au">Cricket's Greatest</title>
-    <sub-title lang="au">Glenn McGrath</sub-title>
-  </programme>
-  <programme start="20200823213000 +0000" stop="20200823220000 +0000" channel="BS2">
-    <title lang="au">Cricket's Greatest</title>
-    <sub-title lang="au">Graham Gooch</sub-title>
-  </programme>
-  <programme start="20200823220000 +0000" stop="20200823223000 +0000" channel="BS2">
-    <title lang="au">Cricket's Greatest</title>
-    <sub-title lang="au">Steve Waugh</sub-title>
-  </programme>
-  <programme start="20200823223000 +0000" stop="20200824001500 +0000" channel="BS2">
+  <programme start="20200824060000 +0000" stop="20200824075000 +0000" channel="BS2">
     <title lang="au">SPFL</title>
     <sub-title lang="au">St Johnstone vs Hibernian</sub-title>
   </programme>
@@ -1130,92 +1099,164 @@
     <title lang="au">SPFL</title>
     <sub-title lang="au">St Johnstone vs Hibernian</sub-title>
   </programme>
-  <programme start="20200823010000 +0000" stop="20200823013000 +0000" channel="BS3">
-    <title lang="au">WTA Big Ten Highlights</title>
-    <sub-title lang="au">Miami</sub-title>
+  <programme start="20200825074500 +0000" stop="20200825081000 +0000" channel="BS2">
+    <title lang="au">LFC TV</title>
+    <sub-title lang="au">Champions: The Managers' Story</sub-title>
   </programme>
-  <programme start="20200823013000 +0000" stop="20200823020000 +0000" channel="BS3">
-    <title lang="au">WTA Big Ten Highlights</title>
-    <sub-title lang="au">Shenzen</sub-title>
+  <programme start="20200825082000 +0000" stop="20200825101000 +0000" channel="BS2">
+    <title lang="au">LFC TV</title>
+    <sub-title lang="au">Liverpool vs Stuttgart</sub-title>
   </programme>
-  <programme start="20200823020000 +0000" stop="20200823035000 +0000" channel="BS3">
-    <title lang="au">WTA New York</title>
-    <sub-title lang="au">Day 1 - Match 1</sub-title>
+  <programme start="20200825101000 +0000" stop="20200825110000 +0000" channel="BS2">
+    <title lang="au">LFC TV</title>
+    <sub-title lang="au">Liverpool vs Man City</sub-title>
   </programme>
-  <programme start="20200823035000 +0000" stop="20200823051500 +0000" channel="BS3">
-    <title lang="au">WTA New York</title>
-    <sub-title lang="au">Day 1 - Match 2</sub-title>
+  <programme start="20200825110000 +0000" stop="20200825120000 +0000" channel="BS2">
+    <title lang="au">LFC TV</title>
+    <sub-title lang="au">Review Show: End of Season</sub-title>
   </programme>
-  <programme start="20200823051500 +0000" stop="20200823080000 +0000" channel="BS3">
-    <title lang="au">WTA New York</title>
-    <sub-title lang="au">Day 1 - Match 4</sub-title>
+  <programme start="20200825120000 +0000" stop="20200825132500 +0000" channel="BS2">
+    <title lang="au">LFC TV</title>
+    <sub-title lang="au">Liverpool vs Juventus</sub-title>
   </programme>
-  <programme start="20200823080000 +0000" stop="20200823083000 +0000" channel="BS3">
+  <programme start="20200825132500 +0000" stop="20200825142500 +0000" channel="BS2">
+    <title lang="au">LFC TV</title>
+    <sub-title lang="au">Coaching Champions</sub-title>
+  </programme>
+  <programme start="20200825142500 +0000" stop="20200825152000 +0000" channel="BS2">
+    <title lang="au">Football Funnies</title>
+    <category lang="au">Football Funnies I</category>
+  </programme>
+  <programme start="20200825152000 +0000" stop="20200825161500 +0000" channel="BS2">
+    <title lang="au">Football Funnies</title>
+    <category lang="au">Football Funnies II</category>
+  </programme>
+  <programme start="20200825161500 +0000" stop="20200825164500 +0000" channel="BS2">
+    <title lang="au">Carabao Cup Mini</title>
+    <sub-title lang="au">Leicester vs Aston Villa</sub-title>
+  </programme>
+  <programme start="20200825164500 +0000" stop="20200825171500 +0000" channel="BS2">
+    <title lang="au">Carabao Cup Mini</title>
+    <sub-title lang="au">Aston Villa vs Leicester</sub-title>
+  </programme>
+  <programme start="20200825171500 +0000" stop="20200825174500 +0000" channel="BS2">
+    <title lang="au">Carabao Cup Mini</title>
+    <sub-title lang="au">Man Utd vs Man City</sub-title>
+  </programme>
+  <programme start="20200825174500 +0000" stop="20200825181500 +0000" channel="BS2">
+    <title lang="au">Carabao Cup Mini</title>
+    <sub-title lang="au">Man City vs Man Utd</sub-title>
+  </programme>
+  <programme start="20200825181500 +0000" stop="20200825200000 +0000" channel="BS2">
+    <title lang="au">Carabao Cup</title>
+    <sub-title lang="au">Man City vs Aston Villa</sub-title>
+  </programme>
+  <programme start="20200825200000 +0000" stop="20200825203000 +0000" channel="BS2">
+    <title lang="au">Temples of Sport</title>
+    <sub-title lang="au">Wembley</sub-title>
+  </programme>
+  <programme start="20200825203000 +0000" stop="20200825210000 +0000" channel="BS2">
+    <title lang="au">Football's Greatest Clubs</title>
+    <sub-title lang="au">Liverpool '70's/'80s</sub-title>
+  </programme>
+  <programme start="20200825210000 +0000" stop="20200825213000 +0000" channel="BS2">
+    <title lang="au">Temples of Sport</title>
+    <sub-title lang="au">Anfield</sub-title>
+  </programme>
+  <programme start="20200825213000 +0000" stop="20200825220000 +0000" channel="BS2">
+    <title lang="au">Football's Greatest Clubs</title>
+    <sub-title lang="au">Santos '60s</sub-title>
+  </programme>
+  <programme start="20200825220000 +0000" stop="20200825223000 +0000" channel="BS2">
+    <title lang="au">Temples of Sport</title>
+    <sub-title lang="au">Maracana</sub-title>
+  </programme>
+  <programme start="20200825223000 +0000" stop="20200825230000 +0000" channel="BS2">
     <title lang="au">Sporting Rivalries</title>
-    <sub-title lang="au">Federer v Nadal</sub-title>
+    <sub-title lang="au">Argentina v Brazil</sub-title>
   </programme>
-  <programme start="20200823083000 +0000" stop="20200823091500 +0000" channel="BS3">
-    <title lang="au">FIA Formula Regional</title>
-    <sub-title lang="au">Paul Ricard, Race 2</sub-title>
+  <programme start="20200825230000 +0000" stop="20200826004500 +0000" channel="BS2">
+    <title lang="au">EFL</title>
+    <sub-title lang="au">Leeds vs Charlton</sub-title>
   </programme>
-  <programme start="20200823091500 +0000" stop="20200823100500 +0000" channel="BS3">
-    <title lang="au">FIA Formula Regional</title>
-    <sub-title lang="au">Paul Ricard, Race 3</sub-title>
+  <programme start="20200824010000 +0000" stop="20200824013000 +0000" channel="BS3">
+    <title lang="au">WTA Big Ten Highlights</title>
+    <sub-title lang="au">Doha</sub-title>
   </programme>
-  <programme start="20200823100500 +0000" stop="20200823103500 +0000" channel="BS3">
-    <title lang="au">Racing Files</title>
-    <sub-title lang="au">Alfa Romeo</sub-title>
+  <programme start="20200824013000 +0000" stop="20200824031500 +0000" channel="BS3">
+    <title lang="au">The Gat-Trick</title>
+    <sub-title lang="au">Wales Grand Slam Victory</sub-title>
   </programme>
-  <programme start="20200823103500 +0000" stop="20200823105000 +0000" channel="BS3">
+  <programme start="20200824031500 +0000" stop="20200824034500 +0000" channel="BS3">
+    <title lang="au">Six Nations Mini</title>
+    <sub-title lang="au">Wales vs England</sub-title>
+  </programme>
+  <programme start="20200824034500 +0000" stop="20200824041500 +0000" channel="BS3">
+    <title lang="au">Six Nations Mini</title>
+    <sub-title lang="au">Wales vs Ireland</sub-title>
+  </programme>
+  <programme start="20200824041500 +0000" stop="20200824043000 +0000" channel="BS3">
     <title lang="au">My Sporting Moment</title>
-    <sub-title lang="au">Yohan Blake</sub-title>
+    <sub-title lang="au">Bryan Habana</sub-title>
   </programme>
-  <programme start="20200823105000 +0000" stop="20200823112500 +0000" channel="BS3">
-    <title lang="au">DTM</title>
-    <sub-title lang="au">Lausitzring II Qualifying 2</sub-title>
-  </programme>
-  <programme start="20200823112500 +0000" stop="20200823130000 +0000" channel="BS3">
-    <title lang="au">DTM</title>
-    <sub-title lang="au">Lausitzring II Race 2</sub-title>
-  </programme>
-  <programme start="20200823130000 +0000" stop="20200823133000 +0000" channel="BS3">
-    <title lang="au">Racing Files</title>
-    <sub-title lang="au">Sir Stirling Moss</sub-title>
-  </programme>
-  <programme start="20200823133000 +0000" stop="20200823140000 +0000" channel="BS3">
-    <title lang="au">Racing Files</title>
-    <sub-title lang="au">Monaco Grand Prix</sub-title>
-  </programme>
-  <programme start="20200823140000 +0000" stop="20200823143000 +0000" channel="BS3">
-    <title lang="au">Sporting Greats</title>
-    <sub-title lang="au">Colin McRae</sub-title>
-  </programme>
-  <programme start="20200823143000 +0000" stop="20200823150000 +0000" channel="BS3">
-    <title lang="au">Sporting Greats</title>
-    <sub-title lang="au">Mats Wilander</sub-title>
-  </programme>
-  <programme start="20200823150000 +0000" stop="20200823170000 +0000" channel="BS3">
+  <programme start="20200824043000 +0000" stop="20200824055000 +0000" channel="BS3">
     <title lang="au">WTA New York</title>
     <sub-title lang="au">Day 2 - Match 1</sub-title>
   </programme>
-  <programme start="20200823170000 +0000" stop="20200823190000 +0000" channel="BS3">
+  <programme start="20200824055000 +0000" stop="20200824083000 +0000" channel="BS3">
     <title lang="au">WTA New York</title>
     <sub-title lang="au">Day 2 - Match 2</sub-title>
   </programme>
-  <programme start="20200823190000 +0000" stop="20200823210000 +0000" channel="BS3">
+  <programme start="20200824083000 +0000" stop="20200824102000 +0000" channel="BS3">
     <title lang="au">WTA New York</title>
     <sub-title lang="au">Day 2 - Match 3</sub-title>
   </programme>
-  <programme start="20200823210000 +0000" stop="20200823230000 +0000" channel="BS3">
+  <programme start="20200824102000 +0000" stop="20200824122500 +0000" channel="BS3">
     <title lang="au">WTA New York</title>
     <sub-title lang="au">Day 2 - Match 4</sub-title>
   </programme>
-  <programme start="20200823230000 +0000" stop="20200824010000 +0000" channel="BS3">
+  <programme start="20200824122500 +0000" stop="20200824133000 +0000" channel="BS3">
     <title lang="au">WTA New York</title>
-    <sub-title lang="au">Day 1 - Match 5</sub-title>
+    <sub-title lang="au">Day 2 - Match 5</sub-title>
+  </programme>
+  <programme start="20200824133000 +0000" stop="20200824140000 +0000" channel="BS3">
+    <title lang="au">WTA Big Ten Highlights</title>
+    <sub-title lang="au">Doha</sub-title>
+  </programme>
+  <programme start="20200824140000 +0000" stop="20200824143000 +0000" channel="BS3">
+    <title lang="au">Sporting Greats</title>
+    <sub-title lang="au">Roger Federer</sub-title>
+  </programme>
+  <programme start="20200824143000 +0000" stop="20200824144500 +0000" channel="BS3">
+    <title lang="au">WTA - My Story</title>
+    <sub-title lang="au">Elise Mertens</sub-title>
+  </programme>
+  <programme start="20200824144500 +0000" stop="20200824150000 +0000" channel="BS3">
+    <title lang="au">WTA - My Story</title>
+    <sub-title lang="au">Elina Svitolina</sub-title>
+  </programme>
+  <programme start="20200824150000 +0000" stop="20200824170000 +0000" channel="BS3">
+    <title lang="au">WTA New York</title>
+    <sub-title lang="au">Day 3 - Match 1</sub-title>
+  </programme>
+  <programme start="20200824170000 +0000" stop="20200824190000 +0000" channel="BS3">
+    <title lang="au">WTA New York</title>
+    <sub-title lang="au">Day 3 - Match 2</sub-title>
+  </programme>
+  <programme start="20200824190000 +0000" stop="20200824210000 +0000" channel="BS3">
+    <title lang="au">WTA New York</title>
+    <sub-title lang="au">Day 3 - Match 3</sub-title>
+  </programme>
+  <programme start="20200824210000 +0000" stop="20200824230000 +0000" channel="BS3">
+    <title lang="au">WTA New York</title>
+    <sub-title lang="au">Day 3 - Match 4</sub-title>
   </programme>
   <programme start="20200824230000 +0000" stop="20200825010000 +0000" channel="BS3">
     <title lang="au">WTA New York</title>
     <sub-title lang="au">Day 2 - Match 5</sub-title>
+  </programme>
+  <programme start="20200825230000 +0000" stop="20200826010000 +0000" channel="BS3">
+    <title lang="au">WTA New York</title>
+    <sub-title lang="au">Day 3 - Match 5</sub-title>
   </programme>
 </tv>
