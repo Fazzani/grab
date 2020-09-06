@@ -183,7 +183,7 @@
 |<img src="https://media.elcinema.com/tvguide/1135_1.png" width="100" height="50">|Emirates|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1265_1.png" width="100" height="50">|~~Hawass~~|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1169_1.png" width="100" height="50">|Dubai TV|http://www.elcinema.com|
-|<img src="https://media.elcinema.com/tvguide/1173_1.png" width="100" height="50">|~~Dubai One~~|http://www.elcinema.com|
+|<img src="https://media.elcinema.com/tvguide/1173_1.png" width="100" height="50">|Dubai One|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1171_1.png" width="100" height="50">|~~Future TV~~|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1225_1.png" width="100" height="50">|~~LBC Europe~~|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1301_1.png" width="100" height="50">|Alsumaria|http://www.elcinema.com|
@@ -288,7 +288,7 @@
 |<img src="http://content.osn.com/logo/channel/cropped/WAD.png" width="100" height="50">|Al Wosta from Al Dhaid|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/KTS.png" width="100" height="50">|KTV Sport HD|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/KTP.png" width="100" height="50">|KTV Sport Plus HD|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/TFC.png" width="100" height="50">|TFC|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/TFC.png" width="100" height="50">|~~TFC~~|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/BRO.png" width="100" height="50">|~~ABS-CBN Sports+Action~~|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/COG.png" width="100" height="50">|Cinema One Global|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/ANC.png" width="100" height="50">|ANC|http://www.osn.com|
