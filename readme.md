@@ -161,7 +161,7 @@
 |<img src="https://media.elcinema.com/tvguide/1204_1.png" width="100" height="50">|iFILM TV|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1292_1.png" width="100" height="50">|DMC DRAMA|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1138_1.png" width="100" height="50">|~~Alhayat Series~~|http://www.elcinema.com|
-|<img src="https://media.elcinema.com/tvguide/1280_1.png" width="100" height="50">|~~TeN TV~~|http://www.elcinema.com|
+|<img src="https://media.elcinema.com/tvguide/1280_1.png" width="100" height="50">|TeN TV|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1233_1.png" width="100" height="50">|Fan|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1317_1.png" width="100" height="50">|Oman|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1312_1.png" width="100" height="50">|Al Aoula Morocco|http://www.elcinema.com|
@@ -288,7 +288,7 @@
 |<img src="http://content.osn.com/logo/channel/cropped/WAD.png" width="100" height="50">|Al Wosta from Al Dhaid|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/KTS.png" width="100" height="50">|KTV Sport HD|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/KTP.png" width="100" height="50">|KTV Sport Plus HD|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/TFC.png" width="100" height="50">|~~TFC~~|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/TFC.png" width="100" height="50">|TFC|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/BRO.png" width="100" height="50">|~~ABS-CBN Sports+Action~~|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/COG.png" width="100" height="50">|Cinema One Global|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/ANC.png" width="100" height="50">|ANC|http://www.osn.com|
@@ -299,7 +299,7 @@
 |<img src="http://content.osn.com/logo/channel/cropped/NKT.png" width="100" height="50">|NickToons HD|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/KDZ.png" width="100" height="50">|OSN Kid Zone TV|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/BAB.png" width="100" height="50">|Baby TV Europe|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/ONS.png" width="100" height="50">|OSN News|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/ONS.png" width="100" height="50">|~~OSN News~~|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/SKH.png" width="100" height="50">|Sky News HD|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/BBW.png" width="100" height="50">|BBC World|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/CNB.png" width="100" height="50">|CNBC|http://www.osn.com|
@@ -322,7 +322,7 @@
 |<img src="" width="100" height="50">|BRAVA|http://www.canalplus.com|
 |<img src="" width="100" height="50">|DJAZZ|http://www.canalplus.com|
 |<img src="" width="100" height="50">|~~TRACE AFRICA~~|http://www.canalsat.fr|
-|<img src="" width="100" height="50">|FRANCE O|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~FRANCE O~~|http://www.canalplus.com|
 |<img src="" width="100" height="50">|6TER|http://www.canalplus.com|
 |<img src="" width="100" height="50">|NUMERO 23|http://www.canalplus.com|
 |<img src="" width="100" height="50">|TV5 MONDE|http://www.canalplus.com|
