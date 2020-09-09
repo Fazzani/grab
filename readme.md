@@ -4,7 +4,7 @@
 ![CI](https://github.com/Fazzani/grab/workflows/CI/badge.svg)
 
 ![Channel count](https://img.shields.io/static/v1?style=for-the-badge&label=channel%20count&message=636&color=9cf&cacheSeconds=3600)
-![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=86.79%&color=yellow&cacheSeconds=3600)
+![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=86.64%&color=yellow&cacheSeconds=3600)
 
 ## channels list
 
@@ -171,7 +171,7 @@
 |<img src="https://media.elcinema.com/tvguide/1161_1.png" width="100" height="50">|~~Series~~|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1241_1.png" width="100" height="50">|MBC 3|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1127_1.png" width="100" height="50">|MBC|http://www.elcinema.com|
-|<img src="https://media.elcinema.com/tvguide/1132_1.png" width="100" height="50">|MBC MAX|http://www.elcinema.com|
+|<img src="https://media.elcinema.com/tvguide/1132_1.png" width="100" height="50">|~~MBC MAX~~|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1130_1.png" width="100" height="50">|MBC Action|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1128_1.png" width="100" height="50">|MBC 2|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1129_1.png" width="100" height="50">|MBC 4|http://www.elcinema.com|
