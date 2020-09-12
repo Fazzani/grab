@@ -4,7 +4,7 @@
 ![CI](https://github.com/Fazzani/grab/workflows/CI/badge.svg)
 
 ![Channel count](https://img.shields.io/static/v1?style=for-the-badge&label=channel%20count&message=636&color=9cf&cacheSeconds=3600)
-![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=86.79%&color=yellow&cacheSeconds=3600)
+![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=86.48%&color=yellow&cacheSeconds=3600)
 
 ## channels list
 
@@ -161,7 +161,7 @@
 |<img src="https://media.elcinema.com/tvguide/1204_1.png" width="100" height="50">|iFILM TV|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1292_1.png" width="100" height="50">|DMC DRAMA|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1138_1.png" width="100" height="50">|~~Alhayat Series~~|http://www.elcinema.com|
-|<img src="https://media.elcinema.com/tvguide/1280_1.png" width="100" height="50">|TeN TV|http://www.elcinema.com|
+|<img src="https://media.elcinema.com/tvguide/1280_1.png" width="100" height="50">|~~TeN TV~~|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1233_1.png" width="100" height="50">|Fan|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1317_1.png" width="100" height="50">|Oman|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1312_1.png" width="100" height="50">|Al Aoula Morocco|http://www.elcinema.com|
@@ -183,7 +183,7 @@
 |<img src="https://media.elcinema.com/tvguide/1135_1.png" width="100" height="50">|Emirates|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1265_1.png" width="100" height="50">|~~Hawass~~|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1169_1.png" width="100" height="50">|Dubai TV|http://www.elcinema.com|
-|<img src="https://media.elcinema.com/tvguide/1173_1.png" width="100" height="50">|Dubai One|http://www.elcinema.com|
+|<img src="https://media.elcinema.com/tvguide/1173_1.png" width="100" height="50">|~~Dubai One~~|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1171_1.png" width="100" height="50">|~~Future TV~~|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1225_1.png" width="100" height="50">|~~LBC Europe~~|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1301_1.png" width="100" height="50">|Alsumaria|http://www.elcinema.com|
