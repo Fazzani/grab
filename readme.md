@@ -4,7 +4,7 @@
 ![CI](https://github.com/Fazzani/grab/workflows/CI/badge.svg)
 
 ![Channel count](https://img.shields.io/static/v1?style=for-the-badge&label=channel%20count&message=636&color=9cf&cacheSeconds=3600)
-![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=85.38%&color=yellow&cacheSeconds=3600)
+![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=86.48%&color=yellow&cacheSeconds=3600)
 
 ## channels list
 
@@ -347,7 +347,7 @@
 |<img src="https://television.telerama.fr/sites/tr_master/files/styles/channel_logo_80x80/public/sheet_media/tv/150x150/192.png?itok=LK8LTHrB" width="100" height="50">|La Trois|http://www.telerama.fr|
 |<img src="https://television.telerama.fr/sites/tr_master/files/styles/channel_logo_80x80/public/sheet_media/tv/150x150/192.png?itok=LK8LTHrB" width="100" height="50">|La Une|http://www.telerama.fr|
 |<img src="https://television.telerama.fr/sites/tr_master/files/styles/channel_logo_80x80/public/sheet_media/tv/150x150/192.png?itok=LK8LTHrB" width="100" height="50">|VOOsport World 1|http://www.telerama.fr|
-|<img src="https://television.telerama.fr/sites/tr_master/files/styles/channel_logo_80x80/public/sheet_media/tv/150x150/192.png?itok=LK8LTHrB" width="100" height="50">|~~VOOsport World 2~~|http://www.telerama.fr|
+|<img src="https://television.telerama.fr/sites/tr_master/files/styles/channel_logo_80x80/public/sheet_media/tv/150x150/192.png?itok=LK8LTHrB" width="100" height="50">|VOOsport World 2|http://www.telerama.fr|
 |<img src="https://television.telerama.fr/sites/tr_master/files/styles/channel_logo_80x80/public/sheet_media/tv/150x150/192.png?itok=LK8LTHrB" width="100" height="50">|Real Madrid TV|http://www.telerama.fr|
 |<img src="" width="100" height="50">|~~D8~~|http://www.tv.orange.fr|
 |<img src="" width="100" height="50">|~~D17~~|http://www.tv.orange.fr|
@@ -390,16 +390,16 @@
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F57f850d8546962e8.2Epng/30x30/quality/80/equidia.png" width="100" height="50">|Equidia|http://www.m.programme-tv.net|
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F57c9f12a257453d0.2Epng/30x30/quality/80/golfplus.png" width="100" height="50">|Golf+|http://www.m.programme-tv.net|
 |<img src="https://media.elcinema.com/tvguide/1241_1.png" width="100" height="50">|MBC 3|http://www.elcinema.com|
-|<img src="https://media.elcinema.com/tvguide/1127_1.png" width="100" height="50">|~~MBC~~|http://www.elcinema.com|
+|<img src="https://media.elcinema.com/tvguide/1127_1.png" width="100" height="50">|MBC|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1132_1.png" width="100" height="50">|~~MBC MAX~~|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1130_1.png" width="100" height="50">|~~MBC Action~~|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1128_1.png" width="100" height="50">|MBC 2|http://www.elcinema.com|
-|<img src="https://media.elcinema.com/tvguide/1129_1.png" width="100" height="50">|~~MBC 4~~|http://www.elcinema.com|
+|<img src="https://media.elcinema.com/tvguide/1129_1.png" width="100" height="50">|MBC 4|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1259_1.png" width="100" height="50">|MBC Bollywood|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1131_1.png" width="100" height="50">|MBC Drama +|http://www.elcinema.com|
-|<img src="https://media.elcinema.com/tvguide/1278_1.png" width="100" height="50">|~~MBC MASR 2~~|http://www.elcinema.com|
-|<img src="https://media.elcinema.com/tvguide/1194_1.png" width="100" height="50">|~~MBC Drama~~|http://www.elcinema.com|
-|<img src="https://media.elcinema.com/tvguide/1239_1.png" width="100" height="50">|~~MBC Egypt~~|http://www.elcinema.com|
+|<img src="https://media.elcinema.com/tvguide/1278_1.png" width="100" height="50">|MBC MASR 2|http://www.elcinema.com|
+|<img src="https://media.elcinema.com/tvguide/1194_1.png" width="100" height="50">|MBC Drama|http://www.elcinema.com|
+|<img src="https://media.elcinema.com/tvguide/1239_1.png" width="100" height="50">|MBC Egypt|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1135_1.png" width="100" height="50">|Emirates|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1265_1.png" width="100" height="50">|~~Hawass~~|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1169_1.png" width="100" height="50">|Dubai TV|http://www.elcinema.com|
@@ -541,7 +541,7 @@
 |<img src="" width="100" height="50">|~~Ciné+ Premier Belgique~~|http://www.m.programme-tv.net|
 |<img src="" width="100" height="50">|~~Ciné+ Frisson Belgique~~|http://www.m.programme-tv.net|
 |<img src="" width="100" height="50">|~~Ciné+ Classic Belgique~~|http://www.m.programme-tv.net|
-|<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fb7741c3d602dc4c9.2Epng/30x30/quality/80/voosport-world-2.png" width="100" height="50">|~~VOOsport World 2~~|http://www.m.programme-tv.net|
+|<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fb7741c3d602dc4c9.2Epng/30x30/quality/80/voosport-world-2.png" width="100" height="50">|VOOsport World 2|http://www.m.programme-tv.net|
 |<img src="" width="100" height="50">|~~VOOsport World 3~~|http://www.m.programme-tv.net|
 |<img src="" width="100" height="50">|~~Eleven Sports 1~~|http://www.m.programme-tv.net|
 |<img src="" width="100" height="50">|~~Eleven Sports 2~~|http://www.m.programme-tv.net|
