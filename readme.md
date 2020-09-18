@@ -4,7 +4,7 @@
 ![CI](https://github.com/Fazzani/grab/workflows/CI/badge.svg)
 
 ![Channel count](https://img.shields.io/static/v1?style=for-the-badge&label=channel%20count&message=636&color=9cf&cacheSeconds=3600)
-![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=86.01%&color=yellow&cacheSeconds=3600)
+![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=85.85%&color=yellow&cacheSeconds=3600)
 
 ## channels list
 
@@ -320,7 +320,7 @@
 |<img src="http://content.osn.com/logo/channel/cropped/WAD.png" width="100" height="50">|Al Wosta from Al Dhaid|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/KTS.png" width="100" height="50">|KTV Sport HD|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/KTP.png" width="100" height="50">|KTV Sport Plus HD|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/TFC.png" width="100" height="50">|~~TFC~~|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/TFC.png" width="100" height="50">|TFC|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/BRO.png" width="100" height="50">|~~ABS-CBN Sports+Action~~|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/COG.png" width="100" height="50">|Cinema One Global|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/ANC.png" width="100" height="50">|ANC|http://www.osn.com|
@@ -395,9 +395,9 @@
 |<img src="https://media.elcinema.com/tvguide/1130_1.png" width="100" height="50">|~~MBC Action~~|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1128_1.png" width="100" height="50">|~~MBC 2~~|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1129_1.png" width="100" height="50">|~~MBC 4~~|http://www.elcinema.com|
-|<img src="https://media.elcinema.com/tvguide/1259_1.png" width="100" height="50">|MBC Bollywood|http://www.elcinema.com|
-|<img src="https://media.elcinema.com/tvguide/1131_1.png" width="100" height="50">|MBC Drama +|http://www.elcinema.com|
-|<img src="https://media.elcinema.com/tvguide/1278_1.png" width="100" height="50">|MBC MASR 2|http://www.elcinema.com|
+|<img src="https://media.elcinema.com/tvguide/1259_1.png" width="100" height="50">|~~MBC Bollywood~~|http://www.elcinema.com|
+|<img src="https://media.elcinema.com/tvguide/1131_1.png" width="100" height="50">|~~MBC Drama +~~|http://www.elcinema.com|
+|<img src="https://media.elcinema.com/tvguide/1278_1.png" width="100" height="50">|~~MBC MASR 2~~|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1194_1.png" width="100" height="50">|~~MBC Drama~~|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1239_1.png" width="100" height="50">|MBC Egypt|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1135_1.png" width="100" height="50">|Emirates|http://www.elcinema.com|
@@ -461,7 +461,7 @@
 |<img src="http://content.osn.com/logo/channel/cropped/NKT.png" width="100" height="50">|NickToons HD|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/KDZ.png" width="100" height="50">|OSN Kid Zone TV|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/BAB.png" width="100" height="50">|Baby TV Europe|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/ONS.png" width="100" height="50">|~~OSN News~~|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/ONS.png" width="100" height="50">|OSN News|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/SKH.png" width="100" height="50">|Sky News HD|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/BBW.png" width="100" height="50">|BBC World|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/CNB.png" width="100" height="50">|CNBC|http://www.osn.com|
