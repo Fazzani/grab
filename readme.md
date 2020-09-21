@@ -64,7 +64,7 @@
 |<img src="https://media.elcinema.com/tvguide/1280_1.png" width="100" height="50">|TeN TV|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1233_1.png" width="100" height="50">|Fan|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1317_1.png" width="100" height="50">|Oman|http://www.elcinema.com|
-|<img src="https://media.elcinema.com/tvguide/1312_1.png" width="100" height="50">|Al Aoula Morocco|http://www.elcinema.com|
+|<img src="https://media.elcinema.com/tvguide/1312_1.png" width="100" height="50">|~~Al Aoula Morocco~~|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1207_1.png" width="100" height="50">|~~Aflam TV 7 Maroc~~|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1199_1.png" width="100" height="50">|CBC Drama|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1156_1.png" width="100" height="50">|Nile Drama|http://www.elcinema.com|
@@ -392,11 +392,11 @@
 |<img src="https://media.elcinema.com/tvguide/1241_1.png" width="100" height="50">|MBC 3|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1127_1.png" width="100" height="50">|MBC|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1132_1.png" width="100" height="50">|~~MBC MAX~~|http://www.elcinema.com|
-|<img src="https://media.elcinema.com/tvguide/1130_1.png" width="100" height="50">|~~MBC Action~~|http://www.elcinema.com|
-|<img src="https://media.elcinema.com/tvguide/1128_1.png" width="100" height="50">|~~MBC 2~~|http://www.elcinema.com|
+|<img src="https://media.elcinema.com/tvguide/1130_1.png" width="100" height="50">|MBC Action|http://www.elcinema.com|
+|<img src="https://media.elcinema.com/tvguide/1128_1.png" width="100" height="50">|MBC 2|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1129_1.png" width="100" height="50">|~~MBC 4~~|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1259_1.png" width="100" height="50">|~~MBC Bollywood~~|http://www.elcinema.com|
-|<img src="https://media.elcinema.com/tvguide/1131_1.png" width="100" height="50">|MBC Drama +|http://www.elcinema.com|
+|<img src="https://media.elcinema.com/tvguide/1131_1.png" width="100" height="50">|~~MBC Drama +~~|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1278_1.png" width="100" height="50">|~~MBC MASR 2~~|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1194_1.png" width="100" height="50">|~~MBC Drama~~|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1239_1.png" width="100" height="50">|MBC Egypt|http://www.elcinema.com|
