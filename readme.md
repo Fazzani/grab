@@ -8,7 +8,7 @@
 
 ## channels list
 
-- All channels link (compressed)
+- All channels links (compressed)
   - [tar](https://github.com/Fazzani/grab/blob/master/merge.tar.gz?raw=true)
   - [zip](https://github.com/Fazzani/grab/blob/master/merge.zip?raw=true)
 - [Missed channels list](out/missed_channels.md)
