@@ -1,13 +1,14 @@
 
 # Missed Channels
 
-![Channel count](https://img.shields.io/static/v1?style=for-the-badge&label=channel%20count&message=79&color=red&cacheSeconds=3600)
+![Channel count](https://img.shields.io/static/v1?style=for-the-badge&label=channel%20count&message=80&color=red&cacheSeconds=3600)
 
 
 |Icon|Channel|Site|
 |:----|:---:|:---:|
 |<img src="http://content.osn.com/logo/channel/cropped/OFS.png" width="100" height="50">|OSN First HBO HD|http://www.osn.com|
-|<img src="" width="100" height="50">|L'Equipe|http://www.m.programme-tv.net|
+|<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F7228d555798e4a9c.2Epng/30x30/quality/80/france-o.png" width="100" height="50">|France Ô|http://www.m.programme-tv.net|
+|<img src="http://content.osn.com/logo/channel/cropped/ONS.png" width="100" height="50">|OSN News|http://www.osn.com|
 |<img src="" width="100" height="50">|MCM TOP|http://www.canalsat.fr|
 |<img src="http://content.osn.com/logo/channel/cropped/OPX.png" width="100" height="50">|OSN Movies +2h|http://www.osn.com|
 |<img src="" width="100" height="50">|2M Monde|http://www.programme-tv.net|
@@ -34,7 +35,6 @@
 |<img src="" width="100" height="50">|BX1|http://www.m.programme-tv.net|
 |<img src="" width="100" height="50">|NPO3|http://www.m.programme-tv.net|
 |<img src="http://content.osn.com/logo/channel/cropped/SE4.png" width="100" height="50">|Series +2|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/OYX.png" width="100" height="50">|OSN Ya Hala Al Oula +2h|http://www.osn.com|
 |<img src="" width="100" height="50">|TRACE AFRICA|http://www.canalsat.fr|
 |<img src="" width="100" height="50">|FRANCE O|http://www.canalplus.com|
 |<img src="" width="100" height="50">|QVC|http://www.canalsat.fr|
@@ -65,23 +65,24 @@
 |<img src="" width="100" height="50">|OL TV|http://www.canalplus.com|
 |<img src="" width="100" height="50">|DISNEY XD|http://www.canalplus.com|
 |<img src="" width="100" height="50">|ELLE GIRL|http://www.canalsat.fr|
-|<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F7228d555798e4a9c.2Epng/30x30/quality/80/france-o.png" width="100" height="50">|France Ô|http://www.m.programme-tv.net|
+|<img src="http://content.osn.com/logo/channel/cropped/OYX.png" width="100" height="50">|OSN Ya Hala Al Oula +2h|http://www.osn.com|
 |<img src="https://television.telerama.fr/sites/tr_master/files/styles/channel_logo_80x80/public/sheet_media/tv/150x150/192.png?itok=LK8LTHrB" width="100" height="50">|OMTV|http://www.telerama.fr|
-|<img src="http://content.osn.com/logo/channel/cropped/BBE.png" width="100" height="50">|BBC First HD|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/BO2.png" width="100" height="50">|OSN Movies Box Office 2|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/SFY.png" width="100" height="50">|Syfy HD|http://www.osn.com|
+|<img src="" width="100" height="50">|ElleGirl|http://www.m.programme-tv.net|
+|<img src="https://media.elcinema.com/tvguide/1207_1.png" width="100" height="50">|Aflam TV 7 Maroc|http://www.elcinema.com|
+|<img src="https://media.elcinema.com/tvguide/1138_1.png" width="100" height="50">|Alhayat Series|http://www.elcinema.com|
+|<img src="http://content.osn.com/logo/channel/cropped/UTM.png" width="100" height="50">|UTV Movies|http://www.osn.com|
+|<img src="https://media.elcinema.com/tvguide/1302_1.png" width="100" height="50">|Fujairah|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1188_1.png" width="100" height="50">|Sharjah TV|http://www.elcinema.com|
 |<img src="http://content.osn.com/logo/channel/cropped/GUK.png" width="100" height="50">|ITV Choice HD|http://www.osn.com|
-|<img src="https://media.elcinema.com/tvguide/1302_1.png" width="100" height="50">|Fujairah|http://www.elcinema.com|
-|<img src="https://media.elcinema.com/tvguide/1161_1.png" width="100" height="50">|Series|http://www.elcinema.com|
-|<img src="https://media.elcinema.com/tvguide/1138_1.png" width="100" height="50">|Alhayat Series|http://www.elcinema.com|
+|<img src="http://content.osn.com/logo/channel/cropped/BBE.png" width="100" height="50">|BBC First HD|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/CTV.png" width="100" height="50">|Citruss TV|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/SEM.png" width="100" height="50">|SET Max|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/OCX.png" width="100" height="50">|OSN Series Comedy HD +2h|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/SUN.png" width="100" height="50">|Sundance TV|http://www.osn.com|
-|<img src="https://media.elcinema.com/tvguide/1207_1.png" width="100" height="50">|Aflam TV 7 Maroc|http://www.elcinema.com|
-|<img src="http://content.osn.com/logo/channel/cropped/PAR.png" width="100" height="50">|Paramount|http://www.osn.com|
-|<img src="" width="100" height="50">|Disney Cinema|http://www.m.programme-tv.net|
-|<img src="" width="100" height="50">|ElleGirl|http://www.m.programme-tv.net|
+|<img src="https://media.elcinema.com/tvguide/1161_1.png" width="100" height="50">|Series|http://www.elcinema.com|
 |<img src="http://content.osn.com/logo/channel/cropped/BO3.png" width="100" height="50">|OSN Movies Box Office 3|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/BO2.png" width="100" height="50">|OSN Movies Box Office 2|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/UTM.png" width="100" height="50">|UTV Movies|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/SUN.png" width="100" height="50">|Sundance TV|http://www.osn.com|
+|<img src="" width="100" height="50">|L'Equipe|http://www.m.programme-tv.net|
+|<img src="" width="100" height="50">|Disney Cinema|http://www.m.programme-tv.net|
+|<img src="http://content.osn.com/logo/channel/cropped/OCX.png" width="100" height="50">|OSN Series Comedy HD +2h|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/PAR.png" width="100" height="50">|Paramount|http://www.osn.com|
