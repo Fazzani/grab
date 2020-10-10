@@ -4,7 +4,7 @@
 ![CI](https://github.com/Fazzani/grab/workflows/CI/badge.svg)
 
 ![Channel count](https://img.shields.io/static/v1?style=for-the-badge&label=channel%20count&message=636&color=9cf&cacheSeconds=3600)
-![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=86.95%&color=yellow&cacheSeconds=3600)
+![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=86.48%&color=yellow&cacheSeconds=3600)
 
 ## channels list
 
@@ -16,9 +16,9 @@
 |:----|:---:|:---:|
 |<img src="http://www.watania1.tn/sites/default/files/main_logo_watania1_0.png" width="100" height="50">|Watania 1|http://www.watania.tn|
 |<img src="http://www.watania2.tn/sites/default/files/main_logo_watania2_0.png" width="100" height="50">|Watania 2|http://www.watania.tn|
-|<img src="https://epg.beinsports.com/au_sports/BS1.svg" width="100" height="50">|BS1|http://www.bein.net|
-|<img src="https://epg.beinsports.com/au_sports/BS2.svg" width="100" height="50">|BS2|http://www.bein.net|
-|<img src="https://epg.beinsports.com/au_sports/BS3.svg" width="100" height="50">|BS3|http://www.bein.net|
+|<img src="" width="100" height="50">|~~BS1~~|http://www.bein.net|
+|<img src="" width="100" height="50">|~~BS2~~|http://www.bein.net|
+|<img src="" width="100" height="50">|~~BS3~~|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_sports/SportsGlobalHD.svg" width="100" height="50">|SportsGlobalHD English|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_sports/News_ar.svg?2018" width="100" height="50">|News_ar English|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_sports/HD1.svg?2017" width="100" height="50">|HD1 English|http://www.bein.net|
@@ -29,7 +29,7 @@
 |<img src="https://epg.beinsports.com/mena_sports/HD6.svg?2017" width="100" height="50">|HD6 English|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_sports/HD7.svg?2017" width="100" height="50">|HD7 English|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_sports/HD8.svg?2017" width="100" height="50">|HD8 English|http://www.bein.net|
-|<img src="" width="100" height="50">|HD9 English|http://www.bein.net|
+|<img src="https://epg.beinsports.com/mena_sports/HD9.svg?2017" width="100" height="50">|HD9 English|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_sports/HD10.svg?2018" width="100" height="50">|HD10 English|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_sports/SportsHD11.svg" width="100" height="50">|SportsHD11 English|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_sports/SportsHD12.svg" width="100" height="50">|SportsHD12 English|http://www.bein.net|
