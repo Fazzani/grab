@@ -63,7 +63,7 @@
 |<img src="" width="100" height="50">|Ciné+ Premier Belgique|http://www.m.programme-tv.net|
 |<img src="http://content.osn.com/logo/channel/cropped/SE4.png" width="100" height="50">|Series +2|http://www.osn.com|
 |<img src="" width="100" height="50">|EXTREME SPORTS|http://www.canalplus.com|
-|<img src="" width="100" height="50">|OMTV|http://www.telerama.fr|
+|<img src="https://television.telerama.fr/sites/tr_master/files/styles/channel_logo_80x80/public/sheet_media/tv/150x150/192.png?itok=LK8LTHrB" width="100" height="50">|OMTV|http://www.telerama.fr|
 |<img src="" width="100" height="50">|D17|http://www.tv.orange.fr|
 |<img src="https://media.elcinema.com/tvguide/1317_1.png" width="100" height="50">|Oman|http://www.elcinema.com|
 |<img src="" width="100" height="50">|My Cuisine|http://www.m.programme-tv.net|
@@ -77,11 +77,11 @@
 |<img src="" width="100" height="50">|Disney Cinema|http://www.m.programme-tv.net|
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F7228d555798e4a9c.2Epng/30x30/quality/80/france-o.png" width="100" height="50">|France Ô|http://www.m.programme-tv.net|
 |<img src="" width="100" height="50">|Vivolta|http://www.m.programme-tv.net|
-|<img src="" width="100" height="50">|Extreme Sports Channel|http://www.telerama.fr|
+|<img src="https://television.telerama.fr/sites/tr_master/files/styles/channel_logo_80x80/public/sheet_media/tv/150x150/192.png?itok=LK8LTHrB" width="100" height="50">|Extreme Sports Channel|http://www.telerama.fr|
 |<img src="http://content.osn.com/logo/channel/cropped/HWT.png" width="100" height="50">|Hawas TV|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/ADH.png" width="100" height="50">|AD Drama + HD|http://www.osn.com|
 |<img src="" width="100" height="50">|ElleGirl|http://www.m.programme-tv.net|
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fa6d6db1370efc50c.2Epng/30x30/quality/80/rmc-sport-news.png" width="100" height="50">|RMC Sport News|http://www.m.programme-tv.net|
 |<img src="" width="100" height="50">|CHASSE PECHE|http://www.tv.orange.fr|
-|<img src="" width="100" height="50">|Motorsport TV|http://www.telerama.fr|
+|<img src="https://television.telerama.fr/sites/tr_master/files/styles/channel_logo_80x80/public/sheet_media/tv/150x150/192.png?itok=LK8LTHrB" width="100" height="50">|Motorsport TV|http://www.telerama.fr|
 |<img src="" width="100" height="50">|Sundance TV|http://www.m.programme-tv.net|
