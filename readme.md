@@ -4,7 +4,7 @@
 ![CI](https://github.com/Fazzani/grab/workflows/CI/badge.svg)
 
 ![Channel count](https://img.shields.io/static/v1?style=for-the-badge&label=channel%20count&message=636&color=9cf&cacheSeconds=3600)
-![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=86.95%&color=yellow&cacheSeconds=3600)
+![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=86.64%&color=yellow&cacheSeconds=3600)
 
 ## channels list
 
@@ -108,7 +108,7 @@
 |<img src="https://media.elcinema.com/tvguide/1120_1.png" width="100" height="50">|ART Aflam 1|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1121_1.png" width="100" height="50">|ART Aflam 2|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1147_1.png" width="100" height="50">|Rotana Drama|http://www.elcinema.com|
-|<img src="https://media.elcinema.com/tvguide/1149_1.png" width="100" height="50">|Rotana Khalijiah|http://www.elcinema.com|
+|<img src="https://media.elcinema.com/tvguide/1149_1.png" width="100" height="50">|~~Rotana Khalijiah~~|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1339_1.png" width="100" height="50">|Al Saeedah|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1223_1.png" width="100" height="50">|Al Nahar Drama|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1178_1.png" width="100" height="50">|Abu Dhabi Drama|http://www.elcinema.com|
@@ -269,7 +269,7 @@
 |<img src="http://content.osn.com/logo/channel/cropped/BBE.png" width="100" height="50">|~~BBC First HD~~|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/GUK.png" width="100" height="50">|~~ITV Choice HD~~|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/OLH.png" width="100" height="50">|OSN Living HD|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/FTH.png" width="100" height="50">|Fashion TV HD|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/FTH.png" width="100" height="50">|~~Fashion TV HD~~|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/B4P.png" width="100" height="50">|B4U Aflam|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/CTV.png" width="100" height="50">|~~Citruss TV~~|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/OYX.png" width="100" height="50">|~~OSN Ya Hala Al Oula +2h~~|http://www.osn.com|
