@@ -4,7 +4,7 @@
 ![CI](https://github.com/Fazzani/grab/workflows/CI/badge.svg)
 
 ![Channel count](https://img.shields.io/static/v1?style=for-the-badge&label=channel%20count&message=636&color=9cf&cacheSeconds=3600)
-![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=86.64%&color=yellow&cacheSeconds=3600)
+![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=85.85%&color=yellow&cacheSeconds=3600)
 
 ## channels list
 
@@ -28,7 +28,7 @@
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fc3429738ac9adc87.2Epng/30x30/quality/80/nrj-12.png" width="100" height="50">|NRJ 12|http://www.m.programme-tv.net|
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fc5a00219b61629a7.2Epng/30x30/quality/80/la-chaine-parlementaire.png" width="100" height="50">|La Chaîne parlementaire|http://www.m.programme-tv.net|
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F488cba3e1cef1be4.2Epng/30x30/quality/80/france-4.png" width="100" height="50">|France 4|http://www.m.programme-tv.net|
-|<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F4c2cbb5f3d06de92.2Epng/30x30/quality/80/bfmtv.png" width="100" height="50">|BFMTV|http://www.m.programme-tv.net|
+|<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F4c2cbb5f3d06de92.2Epng/30x30/quality/80/bfm-tv.png" width="100" height="50">|BFMTV|http://www.m.programme-tv.net|
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Ffbaa4b8b2e2208b3.2Epng/30x30/quality/80/cnews.png" width="100" height="50">|CNEWS|http://www.m.programme-tv.net|
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fd6fd740ea5fed0a1.2Epng/30x30/quality/80/cstar.png" width="100" height="50">|CSTAR|http://www.m.programme-tv.net|
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fef660dc09c117f2d.2Epng/30x30/quality/80/gulli.png" width="100" height="50">|Gulli|http://www.m.programme-tv.net|
@@ -142,7 +142,7 @@
 |<img src="" width="100" height="50">|NRJ HITS|http://www.canalplus.com|
 |<img src="" width="100" height="50">|TRACE URBAN|http://www.canalplus.com|
 |<img src="" width="100" height="50">|~~MCM TOP~~|http://www.canalsat.fr|
-|<img src="" width="100" height="50">|RFM TV|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~RFM TV~~|http://www.canalplus.com|
 |<img src="" width="100" height="50">|MELODY|http://www.canalplus.com|
 |<img src="" width="100" height="50">|MEZZO|http://www.canalplus.com|
 |<img src="" width="100" height="50">|MEZZO LIVE|http://www.canalplus.com|
@@ -215,7 +215,7 @@
 |<img src="http://content.osn.com/logo/channel/cropped/NKT.png" width="100" height="50">|NickToons HD|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/KDZ.png" width="100" height="50">|OSN Kid Zone TV|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/BAB.png" width="100" height="50">|Baby TV Europe|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/ONS.png" width="100" height="50">|OSN News|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/ONS.png" width="100" height="50">|~~OSN News~~|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/SKH.png" width="100" height="50">|Sky News HD|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/BBW.png" width="100" height="50">|BBC World|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/CNB.png" width="100" height="50">|CNBC|http://www.osn.com|
@@ -475,7 +475,7 @@
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Ff5a538ca935a1d38.2Epng/30x30/quality/80/nrj-hits.png" width="100" height="50">|NRJ Hits|http://www.m.programme-tv.net|
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F05a4da2bd19b8f1e.2Epng/30x30/quality/80/trace-urban.png" width="100" height="50">|Trace Urban|http://www.m.programme-tv.net|
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F4b1a972ef402680d.2Epng/30x30/quality/80/mcm-top.png" width="100" height="50">|MCM Top|http://www.m.programme-tv.net|
-|<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fd4373bfa242dad06.2Epng/30x30/quality/80/rfm-tv.png" width="100" height="50">|RFM TV|http://www.m.programme-tv.net|
+|<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fd4373bfa242dad06.2Epng/30x30/quality/80/rfm-tv.png" width="100" height="50">|~~RFM TV~~|http://www.m.programme-tv.net|
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fe3cb744efff1a629.2Epng/30x30/quality/80/melody.png" width="100" height="50">|Melody|http://www.m.programme-tv.net|
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Ffb319c1ceb073660.2Epng/30x30/quality/80/mezzo.png" width="100" height="50">|Mezzo|http://www.m.programme-tv.net|
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F6cfb34fa55fa62bf.2Epng/30x30/quality/80/mezzo-live-hd.png" width="100" height="50">|Mezzo Live HD|http://www.m.programme-tv.net|
@@ -527,7 +527,7 @@
 |<img src="https://epg.beinsports.com/mena_entertaintment/SeriesHD1.svg?111" width="100" height="50">|SeriesHD1 English|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_entertaintment/SeriesHD2.svg?123" width="100" height="50">|SeriesHD2 English|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_entertaintment/DramaHD1.svg?1232" width="100" height="50">|DramaHD1 English|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_entertaintment/gourmet.svg" width="100" height="50">|gourmet English|http://www.bein.net|
+|<img src="" width="100" height="50">|~~gourmet English~~|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_entertaintment/beJUNIOR.svg" width="100" height="50">|beJUNIOR English|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_entertaintment/Jeem.svg?20158888" width="100" height="50">|Jeem English|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_entertaintment/Baraem.svg?2017" width="100" height="50">|Baraem English|http://www.bein.net|
@@ -638,7 +638,7 @@
 |<img src="http://content.osn.com/logo/channel/cropped/HWT.png" width="100" height="50">|~~Hawas TV~~|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/BEI.png" width="100" height="50">|Beity TV|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/KT1.png" width="100" height="50">|KTV1 HD|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/KT2.png" width="100" height="50">|KTV2 HD|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/KT2.png" width="100" height="50">|~~KTV2 HD~~|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/KTE.png" width="100" height="50">|KTV Ethraa HD|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/KTA.png" width="100" height="50">|KTV Arabe HD|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/KTM.png" width="100" height="50">|KTV Majlis HD|http://www.osn.com|
