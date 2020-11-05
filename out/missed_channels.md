@@ -1,14 +1,13 @@
 
 # Missed Channels
 
-![Channel count](https://img.shields.io/static/v1?style=for-the-badge&label=channel%20count&message=84&color=red&cacheSeconds=3600)
+![Channel count](https://img.shields.io/static/v1?style=for-the-badge&label=channel%20count&message=83&color=red&cacheSeconds=3600)
 
 
 |Icon|Channel|Site|
 |:----|:---:|:---:|
 |<img src="" width="100" height="50">|D8|http://www.tv.orange.fr|
-|<img src="https://television.telerama.fr/sites/tr_master/files/styles/channel_logo_80x80/public/sheet_media/tv/150x150/192.png?itok=LK8LTHrB" width="100" height="50">|Extreme Sports Channel|http://www.telerama.fr|
-|<img src="" width="100" height="50">|BX1|http://www.m.programme-tv.net|
+|<img src="" width="100" height="50">|Télé Sambre|http://www.m.programme-tv.net|
 |<img src="https://media.elcinema.com/tvguide/1265_1.png" width="100" height="50">|Hawass|http://www.elcinema.com|
 |<img src="" width="100" height="50">|Canal Zoom|http://www.m.programme-tv.net|
 |<img src="" width="100" height="50">|MAtélé|http://www.m.programme-tv.net|
@@ -19,8 +18,8 @@
 |<img src="" width="100" height="50">|Vedia|http://www.m.programme-tv.net|
 |<img src="" width="100" height="50">|TV Lux|http://www.m.programme-tv.net|
 |<img src="" width="100" height="50">|TV COM|http://www.m.programme-tv.net|
-|<img src="" width="100" height="50">|Télé Sambre|http://www.m.programme-tv.net|
 |<img src="" width="100" height="50">|RTC Télé Liège|http://www.m.programme-tv.net|
+|<img src="https://media.elcinema.com/tvguide/1171_1.png" width="100" height="50">|Future TV|http://www.elcinema.com|
 |<img src="http://content.osn.com/logo/channel/cropped/BRO.png" width="100" height="50">|ABS-CBN Sports+Action|http://www.osn.com|
 |<img src="" width="100" height="50">|QVC|http://www.m.programme-tv.net|
 |<img src="" width="100" height="50">|Eleven Sports 2|http://www.m.programme-tv.net|
@@ -31,9 +30,9 @@
 |<img src="" width="100" height="50">|Arte Belgique|http://www.m.programme-tv.net|
 |<img src="" width="100" height="50">|DISNEY XD|http://www.canalplus.com|
 |<img src="" width="100" height="50">|ElleGirl|http://www.m.programme-tv.net|
-|<img src="https://media.elcinema.com/tvguide/1171_1.png" width="100" height="50">|Future TV|http://www.elcinema.com|
+|<img src="" width="100" height="50">|BX1|http://www.m.programme-tv.net|
 |<img src="https://media.elcinema.com/tvguide/1225_1.png" width="100" height="50">|LBC Europe|http://www.elcinema.com|
-|<img src="" width="100" height="50">|M6 BOUTIQUE|http://www.canalplus.com|
+|<img src="https://television.telerama.fr/sites/tr_master/files/styles/channel_logo_80x80/public/sheet_media/tv/150x150/192.png?itok=LK8LTHrB" width="100" height="50">|Extreme Sports Channel|http://www.telerama.fr|
 |<img src="" width="100" height="50">|FRANCE O|http://www.canalplus.com|
 |<img src="" width="100" height="50">|RFM TV|http://www.canalplus.com|
 |<img src="http://content.osn.com/logo/channel/cropped/OFS.png" width="100" height="50">|OSN First HBO HD|http://www.osn.com|
@@ -46,7 +45,7 @@
 |<img src="http://content.osn.com/logo/channel/cropped/BBE.png" width="100" height="50">|BBC First HD|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/GUK.png" width="100" height="50">|ITV Choice HD|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/UTM.png" width="100" height="50">|UTV Movies|http://www.osn.com|
-|<img src="" width="100" height="50">|gourmet English|http://www.bein.net|
+|<img src="" width="100" height="50">|M6 BOUTIQUE|http://www.canalplus.com|
 |<img src="http://content.osn.com/logo/channel/cropped/SEM.png" width="100" height="50">|SET Max|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/FTH.png" width="100" height="50">|Fashion TV HD|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/PAR.png" width="100" height="50">|Paramount|http://www.osn.com|
@@ -63,8 +62,8 @@
 |<img src="" width="100" height="50">|SCIENCE et VIE TV|http://www.tv.orange.fr|
 |<img src="" width="100" height="50">|CHASSE PECHE|http://www.tv.orange.fr|
 |<img src="" width="100" height="50">|Stingray Brava|http://www.programme-tv.net|
-|<img src="https://television.telerama.fr/sites/tr_master/files/styles/channel_logo_80x80/public/sheet_media/tv/150x150/192.png?itok=LK8LTHrB" width="100" height="50">|OMTV|http://www.telerama.fr|
 |<img src="https://media.elcinema.com/tvguide/1317_1.png" width="100" height="50">|Oman|http://www.elcinema.com|
+|<img src="https://television.telerama.fr/sites/tr_master/files/styles/channel_logo_80x80/public/sheet_media/tv/150x150/192.png?itok=LK8LTHrB" width="100" height="50">|OMTV|http://www.telerama.fr|
 |<img src="" width="100" height="50">|OL TV|http://www.canalplus.com|
 |<img src="https://media.elcinema.com/tvguide/1207_1.png" width="100" height="50">|Aflam TV 7 Maroc|http://www.elcinema.com|
 |<img src="" width="100" height="50">|ONZEO|http://www.canalsat.fr|
@@ -79,8 +78,8 @@
 |<img src="" width="100" height="50">|My Cuisine|http://www.m.programme-tv.net|
 |<img src="http://content.osn.com/logo/channel/cropped/SHJ.png" width="100" height="50">|Sharjah Sports HD|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/OPX.png" width="100" height="50">|OSN Movies +2h|http://www.osn.com|
-|<img src="" width="100" height="50">|EXTREME SPORTS|http://www.canalplus.com|
 |<img src="" width="100" height="50">|RMC SPORT NEWS|http://www.canalplus.com|
+|<img src="" width="100" height="50">|EXTREME SPORTS|http://www.canalplus.com|
 |<img src="" width="100" height="50">|2M Monde|http://www.programme-tv.net|
 |<img src="https://media.elcinema.com/tvguide/1188_1.png" width="100" height="50">|Sharjah TV|http://www.elcinema.com|
 |<img src="" width="100" height="50">|MCM TOP|http://www.canalsat.fr|
