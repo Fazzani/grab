@@ -215,7 +215,7 @@
 |<img src="http://content.osn.com/logo/channel/cropped/NKT.png" width="100" height="50">|NickToons HD|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/KDZ.png" width="100" height="50">|OSN Kid Zone TV|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/BAB.png" width="100" height="50">|Baby TV Europe|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/ONS.png" width="100" height="50">|OSN News|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/ONS.png" width="100" height="50">|~~OSN News~~|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/SKH.png" width="100" height="50">|Sky News HD|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/BBW.png" width="100" height="50">|BBC World|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/CNB.png" width="100" height="50">|CNBC|http://www.osn.com|
@@ -638,7 +638,7 @@
 |<img src="http://content.osn.com/logo/channel/cropped/HWT.png" width="100" height="50">|~~Hawas TV~~|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/BEI.png" width="100" height="50">|Beity TV|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/KT1.png" width="100" height="50">|KTV1 HD|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/KT2.png" width="100" height="50">|~~KTV2 HD~~|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/KT2.png" width="100" height="50">|KTV2 HD|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/KTE.png" width="100" height="50">|KTV Ethraa HD|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/KTA.png" width="100" height="50">|KTV Arabe HD|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/KTM.png" width="100" height="50">|KTV Majlis HD|http://www.osn.com|
