@@ -4,7 +4,7 @@
 ![CI](https://github.com/Fazzani/grab/workflows/CI/badge.svg)
 
 ![Channel count](https://img.shields.io/static/v1?style=for-the-badge&label=channel%20count&message=636&color=9cf&cacheSeconds=3600)
-![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=85.69%&color=yellow&cacheSeconds=3600)
+![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=85.85%&color=yellow&cacheSeconds=3600)
 
 ## channels list
 
@@ -28,7 +28,7 @@
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fc3429738ac9adc87.2Epng/30x30/quality/80/nrj-12.png" width="100" height="50">|NRJ 12|http://www.m.programme-tv.net|
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fc5a00219b61629a7.2Epng/30x30/quality/80/la-chaine-parlementaire.png" width="100" height="50">|La Chaîne parlementaire|http://www.m.programme-tv.net|
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F488cba3e1cef1be4.2Epng/30x30/quality/80/france-4.png" width="100" height="50">|France 4|http://www.m.programme-tv.net|
-|<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F4c2cbb5f3d06de92.2Epng/30x30/quality/80/bfmtv.png" width="100" height="50">|BFMTV|http://www.m.programme-tv.net|
+|<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F4c2cbb5f3d06de92.2Epng/30x30/quality/80/bfm-tv.png" width="100" height="50">|BFMTV|http://www.m.programme-tv.net|
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Ffbaa4b8b2e2208b3.2Epng/30x30/quality/80/cnews.png" width="100" height="50">|CNEWS|http://www.m.programme-tv.net|
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fd6fd740ea5fed0a1.2Epng/30x30/quality/80/cstar.png" width="100" height="50">|CSTAR|http://www.m.programme-tv.net|
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fef660dc09c117f2d.2Epng/30x30/quality/80/gulli.png" width="100" height="50">|Gulli|http://www.m.programme-tv.net|
@@ -315,7 +315,7 @@
 |<img src="https://television.telerama.fr/sites/tr_master/files/styles/channel_logo_80x80/public/sheet_media/tv/150x150/192.png?itok=LK8LTHrB" width="100" height="50">|~~Extreme Sports Channel~~|http://www.telerama.fr|
 |<img src="https://television.telerama.fr/sites/tr_master/files/styles/channel_logo_80x80/public/sheet_media/tv/150x150/192.png?itok=LK8LTHrB" width="100" height="50">|~~Motorsport TV~~|http://www.telerama.fr|
 |<img src="https://television.telerama.fr/sites/tr_master/files/styles/channel_logo_80x80/public/sheet_media/tv/150x150/192.png?itok=LK8LTHrB" width="100" height="50">|~~OMTV~~|http://www.telerama.fr|
-|<img src="https://television.telerama.fr/sites/tr_master/files/styles/channel_logo_80x80/public/sheet_media/tv/150x150/192.png?itok=LK8LTHrB" width="100" height="50">|Al Jazeera English|http://www.telerama.fr|
+|<img src="https://television.telerama.fr/sites/tr_master/files/styles/channel_logo_80x80/public/sheet_media/tv/150x150/192.png?itok=LK8LTHrB" width="100" height="50">|~~Al Jazeera English~~|http://www.telerama.fr|
 |<img src="https://television.telerama.fr/sites/tr_master/files/styles/channel_logo_80x80/public/sheet_media/tv/150x150/192.png?itok=LK8LTHrB" width="100" height="50">|BBC World News|http://www.telerama.fr|
 |<img src="https://television.telerama.fr/sites/tr_master/files/styles/channel_logo_80x80/public/sheet_media/tv/150x150/192.png?itok=LK8LTHrB" width="100" height="50">|BE 1|http://www.telerama.fr|
 |<img src="https://television.telerama.fr/sites/tr_master/files/styles/channel_logo_80x80/public/sheet_media/tv/150x150/192.png?itok=LK8LTHrB" width="100" height="50">|Be Ciné|http://www.telerama.fr|
@@ -324,7 +324,7 @@
 |<img src="https://television.telerama.fr/sites/tr_master/files/styles/channel_logo_80x80/public/sheet_media/tv/150x150/192.png?itok=LK8LTHrB" width="100" height="50">|La Trois|http://www.telerama.fr|
 |<img src="https://television.telerama.fr/sites/tr_master/files/styles/channel_logo_80x80/public/sheet_media/tv/150x150/192.png?itok=LK8LTHrB" width="100" height="50">|La Une|http://www.telerama.fr|
 |<img src="https://television.telerama.fr/sites/tr_master/files/styles/channel_logo_80x80/public/sheet_media/tv/150x150/192.png?itok=LK8LTHrB" width="100" height="50">|VOOsport World 1|http://www.telerama.fr|
-|<img src="https://television.telerama.fr/sites/tr_master/files/styles/channel_logo_80x80/public/sheet_media/tv/150x150/192.png?itok=LK8LTHrB" width="100" height="50">|~~VOOsport World 2~~|http://www.telerama.fr|
+|<img src="https://television.telerama.fr/sites/tr_master/files/styles/channel_logo_80x80/public/sheet_media/tv/150x150/192.png?itok=LK8LTHrB" width="100" height="50">|VOOsport World 2|http://www.telerama.fr|
 |<img src="https://television.telerama.fr/sites/tr_master/files/styles/channel_logo_80x80/public/sheet_media/tv/150x150/192.png?itok=LK8LTHrB" width="100" height="50">|Real Madrid TV|http://www.telerama.fr|
 |<img src="" width="100" height="50">|~~D8~~|http://www.tv.orange.fr|
 |<img src="" width="100" height="50">|~~D17~~|http://www.tv.orange.fr|
@@ -350,7 +350,7 @@
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F2ef7b83b52ce3868.2Epng/30x30/quality/80/rmc-sport-live-16.png" width="100" height="50">|RMC Sport Live 16|http://www.m.programme-tv.net|
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fbf71d119cb9019ac.2Epng/30x30/quality/80/france-3-corse-via-stella.png" width="100" height="50">|France 3 Corse Via Stella|http://www.m.programme-tv.net|
 |<img src="" width="100" height="50">|~~2M Monde~~|http://www.programme-tv.net|
-|<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F22f052bb5b5a1ba5.2Epng/30x30/quality/80/al-jazeera-english.png" width="100" height="50">|Al Jazeera English|http://www.m.programme-tv.net|
+|<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F22f052bb5b5a1ba5.2Epng/30x30/quality/80/al-jazeera-english.png" width="100" height="50">|~~Al Jazeera English~~|http://www.m.programme-tv.net|
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fdfabbd445038b6a6.2Epng/30x30/quality/80/rtpi.png" width="100" height="50">|RTPI|http://www.m.programme-tv.net|
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F185a2b5c6b737613.2Epng/30x30/quality/80/tve.png" width="100" height="50">|TVE|http://www.m.programme-tv.net|
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F3d2de2bedd799a76.2Epng/30x30/quality/80/rtl-television.png" width="100" height="50">|RTL Télévision|http://www.m.programme-tv.net|
@@ -405,7 +405,7 @@
 |<img src="" width="100" height="50">|~~Ciné+ Premier Belgique~~|http://www.m.programme-tv.net|
 |<img src="" width="100" height="50">|~~Ciné+ Frisson Belgique~~|http://www.m.programme-tv.net|
 |<img src="" width="100" height="50">|~~Ciné+ Classic Belgique~~|http://www.m.programme-tv.net|
-|<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fb7741c3d602dc4c9.2Epng/30x30/quality/80/voosport-world-2.png" width="100" height="50">|~~VOOsport World 2~~|http://www.m.programme-tv.net|
+|<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fb7741c3d602dc4c9.2Epng/30x30/quality/80/voosport-world-2.png" width="100" height="50">|VOOsport World 2|http://www.m.programme-tv.net|
 |<img src="" width="100" height="50">|~~VOOsport World 3~~|http://www.m.programme-tv.net|
 |<img src="" width="100" height="50">|~~Eleven Sports 1~~|http://www.m.programme-tv.net|
 |<img src="" width="100" height="50">|~~Eleven Sports 2~~|http://www.m.programme-tv.net|
@@ -534,7 +534,7 @@
 |<img src="https://epg.beinsports.com/mena_entertaintment/CartoonNetworkHD.png" width="100" height="50">|CartoonNetworkHD|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_entertaintment/CartoonNetworkAR.svg" width="100" height="50">|CartoonNetworkAR|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_entertaintment/CartoonNetworkHindi.svg" width="100" height="50">|CartoonNetworkHindi|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_entertaintment/Baby_TV.svg?2017" width="100" height="50">|Baby_TV English|http://www.bein.net|
+|<img src="https://epg.beinsports.com/mena_entertaintment/Baby_TV.svg?2017" width="100" height="50">|~~Baby_TV English~~|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_entertaintment/CBeebies.png" width="100" height="50">|CBeebies English|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_entertaintment/DreamWorks.svg?2017" width="100" height="50">|DreamWorks English|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_entertaintment/JimJam.svg?2017" width="100" height="50">|JimJam English|http://www.bein.net|
@@ -629,7 +629,7 @@
 |<img src="https://media.elcinema.com/tvguide/1280_1.png" width="100" height="50">|TeN TV|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1233_1.png" width="100" height="50">|Fan|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1317_1.png" width="100" height="50">|~~Oman~~|http://www.elcinema.com|
-|<img src="https://media.elcinema.com/tvguide/1312_1.png" width="100" height="50">|~~Al Aoula Morocco~~|http://www.elcinema.com|
+|<img src="https://media.elcinema.com/tvguide/1312_1.png" width="100" height="50">|Al Aoula Morocco|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1207_1.png" width="100" height="50">|~~Aflam TV 7 Maroc~~|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1199_1.png" width="100" height="50">|CBC Drama|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1156_1.png" width="100" height="50">|Nile Drama|http://www.elcinema.com|
@@ -644,7 +644,7 @@
 |<img src="http://content.osn.com/logo/channel/cropped/KTM.png" width="100" height="50">|KTV Majlis HD|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/KTQ.png" width="100" height="50">|Al Qurain HD|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/SHJ.png" width="100" height="50">|~~Sharjah Sports HD~~|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/SQK.png" width="100" height="50">|~~Sharqiya from Kalba~~|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/SQK.png" width="100" height="50">|Sharqiya from Kalba|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/DAF.png" width="100" height="50">|Al Dafrah TV|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/BAH.png" width="100" height="50">|Bahrain TV|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/AGH.png" width="100" height="50">|Aghani Aghani|http://www.osn.com|
