@@ -42,7 +42,7 @@
 |<img src="http://content.osn.com/logo/channel/cropped/NKT.png" width="100" height="50">|NickToons HD|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/KDZ.png" width="100" height="50">|OSN Kid Zone TV|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/BAB.png" width="100" height="50">|Baby TV Europe|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/ONS.png" width="100" height="50">|OSN News|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/ONS.png" width="100" height="50">|~~OSN News~~|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/SKH.png" width="100" height="50">|Sky News HD|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/BBW.png" width="100" height="50">|BBC World|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/CNB.png" width="100" height="50">|CNBC|http://www.osn.com|
@@ -571,7 +571,7 @@
 |<img src="http://content.osn.com/logo/channel/cropped/SER.png" width="100" height="50">|Series Channel|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/SE4.png" width="100" height="50">|~~Series +2~~|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/YAW.png" width="100" height="50">|Al Yawm|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/SAF.png" width="100" height="50">|~~Al Safwa~~|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/SAF.png" width="100" height="50">|Al Safwa|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/FAN.png" width="100" height="50">|Fann|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/CM1.png" width="100" height="50">|Cinema 1|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/CM2.png" width="100" height="50">|Cinema 2|http://www.osn.com|
