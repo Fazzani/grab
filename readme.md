@@ -4,7 +4,7 @@
 ![CI](https://github.com/Fazzani/grab/workflows/CI/badge.svg)
 
 ![Channel count](https://img.shields.io/static/v1?style=for-the-badge&label=channel%20count&message=636&color=9cf&cacheSeconds=3600)
-![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=75.79%&color=yellow&cacheSeconds=3600)
+![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=57.39%&color=yellow&cacheSeconds=3600)
 
 ## channels list
 
@@ -42,7 +42,7 @@
 |<img src="http://content.osn.com/logo/channel/cropped/NKT.png" width="100" height="50">|NickToons HD|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/KDZ.png" width="100" height="50">|OSN Kid Zone TV|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/BAB.png" width="100" height="50">|Baby TV Europe|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/ONS.png" width="100" height="50">|OSN News|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/ONS.png" width="100" height="50">|~~OSN News~~|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/SKH.png" width="100" height="50">|Sky News HD|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/BBW.png" width="100" height="50">|BBC World|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/CNB.png" width="100" height="50">|CNBC|http://www.osn.com|
@@ -195,43 +195,43 @@
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F7fca0dd41181ccdd.2Epng/30x30/quality/80/lcp-100.png" width="100" height="50">|LCP 100%|http://www.m.programme-tv.net|
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fec275becca86dafd.2Epng/30x30/quality/80/vtm-4.png" width="100" height="50">|Acht|http://www.m.programme-tv.net|
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F63e056c0680c8f63.2Epng/30x30/quality/80/ketnet.png" width="100" height="50">|Ketnet|http://www.m.programme-tv.net|
-|<img src="" width="100" height="50">|DISNEY JUNIOR|http://www.canalplus.com|
-|<img src="" width="100" height="50">|PIWI+|http://www.canalplus.com|
-|<img src="" width="100" height="50">|NICKELODEON JUNIOR|http://www.canalplus.com|
-|<img src="" width="100" height="50">|TIJI|http://www.canalplus.com|
-|<img src="" width="100" height="50">|BOOMERANG|http://www.canalplus.com|
-|<img src="" width="100" height="50">|CARTOON NETWORK|http://www.canalplus.com|
-|<img src="" width="100" height="50">|NICKELODEON|http://www.canalplus.com|
-|<img src="" width="100" height="50">|TELETOON+|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~DISNEY JUNIOR~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~PIWI+~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~NICKELODEON JUNIOR~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~TIJI~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~BOOMERANG~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~CARTOON NETWORK~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~NICKELODEON~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~TELETOON+~~|http://www.canalplus.com|
 |<img src="" width="100" height="50">|~~DISNEY XD~~|http://www.canalplus.com|
-|<img src="" width="100" height="50">|CANAL J|http://www.canalplus.com|
-|<img src="" width="100" height="50">|BOING|http://www.canalplus.com|
-|<img src="" width="100" height="50">|TOONAMI|http://www.canalplus.com|
-|<img src="" width="100" height="50">|NICKELODEON TEEN|http://www.canalplus.com|
-|<img src="" width="100" height="50">|DISNEY CHANNEL|http://www.canalplus.com|
-|<img src="" width="100" height="50">|GULLI|http://www.canalplus.com|
-|<img src="" width="100" height="50">|MTV HITS|http://www.canalplus.com|
-|<img src="" width="100" height="50">|COMEDIE+|http://www.canalplus.com|
-|<img src="" width="100" height="50">|POLAR+|http://www.canalplus.com|
-|<img src="" width="100" height="50">|WARNER TV|http://www.canalplus.com|
-|<img src="" width="100" height="50">|SERIE CLUB|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~CANAL J~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~BOING~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~TOONAMI~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~NICKELODEON TEEN~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~DISNEY CHANNEL~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~GULLI~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~MTV HITS~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~COMEDIE+~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~POLAR+~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~WARNER TV~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~SERIE CLUB~~|http://www.canalplus.com|
 |<img src="" width="100" height="50">|~~ELLE GIRL~~|http://www.canalsat.fr|
-|<img src="" width="100" height="50">|NON STOP PEOPLE|http://www.canalplus.com|
-|<img src="" width="100" height="50">|NOVELAS TV|http://www.canalplus.com|
-|<img src="" width="100" height="50">|J-ONE|http://www.canalplus.com|
-|<img src="" width="100" height="50">|AB1|http://www.canalplus.com|
-|<img src="" width="100" height="50">|TV BREIZH|http://www.canalplus.com|
-|<img src="" width="100" height="50">|TEVA|http://www.canalplus.com|
-|<img src="" width="100" height="50">|PARIS PREMIERE|http://www.canalplus.com|
-|<img src="" width="100" height="50">|RTL9|http://www.canalplus.com|
-|<img src="" width="100" height="50">|BET|http://www.canalplus.com|
-|<img src="" width="100" height="50">|C8|http://www.canalplus.com|
-|<img src="" width="100" height="50">|W9|http://www.canalplus.com|
-|<img src="" width="100" height="50">|TMC|http://www.canalplus.com|
-|<img src="" width="100" height="50">|TFX|http://www.canalplus.com|
-|<img src="" width="100" height="50">|NRJ 12|http://www.canalplus.com|
-|<img src="" width="100" height="50">|FRANCE 4|http://www.canalplus.com|
-|<img src="" width="100" height="50">|CSTAR|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~NON STOP PEOPLE~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~NOVELAS TV~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~J-ONE~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~AB1~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~TV BREIZH~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~TEVA~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~PARIS PREMIERE~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~RTL9~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~BET~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~C8~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~W9~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~TMC~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~TFX~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~NRJ 12~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~FRANCE 4~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~CSTAR~~|http://www.canalplus.com|
 |<img src="http://www.watania1.tn/sites/default/files/main_logo_watania1_0.png" width="100" height="50">|Watania 1|http://www.watania.tn|
 |<img src="http://www.watania2.tn/sites/default/files/main_logo_watania2_0.png" width="100" height="50">|Watania 2|http://www.watania.tn|
 |<img src="https://epg.beinsports.com/au_sports/BS1.svg" width="100" height="50">|BS1|http://www.bein.net|
@@ -349,7 +349,7 @@
 |<img src="https://media.elcinema.com/tvguide/1226_1.png" width="100" height="50">|Sada El Balad|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1203_1.png" width="100" height="50">|ON E|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1298_1.png" width="100" height="50">|Amman|http://www.elcinema.com|
-|<img src="https://media.elcinema.com/tvguide/1296_1.png" width="100" height="50">|MTV|http://www.elcinema.com|
+|<img src="https://media.elcinema.com/tvguide/1296_1.png" width="100" height="50">|~~MTV~~|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1193_1.png" width="100" height="50">|Al Nahar TV|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1216_1.png" width="100" height="50">|Al Jadeed TV|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1174_1.png" width="100" height="50">|Al Kahera Wal Nas TV|http://www.elcinema.com|
@@ -459,7 +459,7 @@
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F0e5d69bc71765a6f.2Epng/30x30/quality/80/disney-junior.png" width="100" height="50">|Disney Junior|http://www.m.programme-tv.net|
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F07c0bf5d658a342e.2Epng/30x30/quality/80/piwiplus.png" width="100" height="50">|Piwi+|http://www.m.programme-tv.net|
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fac84c77e89cd9b32.2Epng/30x30/quality/80/nickelodeon-junior.png" width="100" height="50">|Nickelodeon Junior|http://www.m.programme-tv.net|
-|<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F1731ef81f04d9561.2Epng/30x30/quality/80/tiji.png" width="100" height="50">|TIJI|http://www.m.programme-tv.net|
+|<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F1731ef81f04d9561.2Epng/30x30/quality/80/tiji.png" width="100" height="50">|~~TIJI~~|http://www.m.programme-tv.net|
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F737335dc2fe15da5.2Epng/30x30/quality/80/boomerang.png" width="100" height="50">|Boomerang|http://www.m.programme-tv.net|
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Facd5f971abf31f07.2Epng/30x30/quality/80/cartoon-network.png" width="100" height="50">|Cartoon Network|http://www.m.programme-tv.net|
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F0ad3f1f189f4d3e9.2Epng/30x30/quality/80/nickelodeon.png" width="100" height="50">|Nickelodéon|http://www.m.programme-tv.net|
@@ -475,7 +475,7 @@
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Ff5a538ca935a1d38.2Epng/30x30/quality/80/nrj-hits.png" width="100" height="50">|NRJ Hits|http://www.m.programme-tv.net|
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F05a4da2bd19b8f1e.2Epng/30x30/quality/80/trace-urban.png" width="100" height="50">|Trace Urban|http://www.m.programme-tv.net|
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F4b1a972ef402680d.2Epng/30x30/quality/80/mcm-top.png" width="100" height="50">|MCM Top|http://www.m.programme-tv.net|
-|<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fd4373bfa242dad06.2Epng/30x30/quality/80/rfm-tv.png" width="100" height="50">|RFM TV|http://www.m.programme-tv.net|
+|<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fd4373bfa242dad06.2Epng/30x30/quality/80/rfm-tv.png" width="100" height="50">|~~RFM TV~~|http://www.m.programme-tv.net|
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fe3cb744efff1a629.2Epng/30x30/quality/80/melody.png" width="100" height="50">|Melody|http://www.m.programme-tv.net|
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Ffb319c1ceb073660.2Epng/30x30/quality/80/mezzo.png" width="100" height="50">|Mezzo|http://www.m.programme-tv.net|
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F6cfb34fa55fa62bf.2Epng/30x30/quality/80/mezzo-live-hd.png" width="100" height="50">|Mezzo Live HD|http://www.m.programme-tv.net|
@@ -486,85 +486,85 @@
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fee385ff55e53018d.2Epng/30x30/quality/80/xxl.png" width="100" height="50">|XXL|http://www.m.programme-tv.net|
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F8a8995cf5e3427ae.2Epng/30x30/quality/80/pink-tv.png" width="100" height="50">|Pink TV|http://www.m.programme-tv.net|
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F88a42924c2c4c997.2Epng/30x30/quality/80/bein-sports-max-4.png" width="100" height="50">|beIN SPORTS MAX 4|http://www.m.programme-tv.net|
-|<img src="" width="100" height="50">|CHERIE 25|http://www.canalplus.com|
-|<img src="" width="100" height="50">|VICELAND|http://www.canalplus.com|
-|<img src="" width="100" height="50">|MTV|http://www.canalplus.com|
-|<img src="" width="100" height="50">|MCM|http://www.canalplus.com|
-|<img src="" width="100" height="50">|GAME ONE|http://www.canalplus.com|
-|<img src="" width="100" height="50">|MANGAS|http://www.canalplus.com|
-|<img src="" width="100" height="50">|CSTAR HITS FRANCE|http://www.canalplus.com|
-|<img src="" width="100" height="50">|M6 MUSIC|http://www.canalplus.com|
-|<img src="" width="100" height="50">|NRJ HITS|http://www.canalplus.com|
-|<img src="" width="100" height="50">|TRACE URBAN|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~CHERIE 25~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~VICELAND~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~MTV~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~MCM~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~GAME ONE~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~MANGAS~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~CSTAR HITS FRANCE~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~M6 MUSIC~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~NRJ HITS~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~TRACE URBAN~~|http://www.canalplus.com|
 |<img src="" width="100" height="50">|~~MCM TOP~~|http://www.canalsat.fr|
-|<img src="" width="100" height="50">|RFM TV|http://www.canalplus.com|
-|<img src="" width="100" height="50">|MELODY|http://www.canalplus.com|
-|<img src="" width="100" height="50">|MEZZO|http://www.canalplus.com|
-|<img src="" width="100" height="50">|MEZZO LIVE|http://www.canalplus.com|
-|<img src="" width="100" height="50">|BRAVA|http://www.canalplus.com|
-|<img src="" width="100" height="50">|DJAZZ|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~RFM TV~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~MELODY~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~MEZZO~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~MEZZO LIVE~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~BRAVA~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~DJAZZ~~|http://www.canalplus.com|
 |<img src="" width="100" height="50">|~~TRACE AFRICA~~|http://www.canalsat.fr|
 |<img src="" width="100" height="50">|~~FRANCE O~~|http://www.canalplus.com|
-|<img src="" width="100" height="50">|6TER|http://www.canalplus.com|
-|<img src="" width="100" height="50">|NUMERO 23|http://www.canalplus.com|
-|<img src="" width="100" height="50">|TV5 MONDE|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~6TER~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~NUMERO 23~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~TV5 MONDE~~|http://www.canalplus.com|
 |<img src="" width="100" height="50">|~~QVC~~|http://www.canalsat.fr|
-|<img src="" width="100" height="50">|ASTROCENTER TV|http://www.canalplus.com|
-|<img src="" width="100" height="50">|MUSEUM|http://www.canalplus.com|
-|<img src="" width="100" height="50">|LA CHAINE METEO|http://www.canalplus.com|
-|<img src="" width="100" height="50">|MY ZEN TV|http://www.canalplus.com|
-|<img src="" width="100" height="50">|RMC DECOUVERTE|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~ASTROCENTER TV~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~MUSEUM~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~LA CHAINE METEO~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~MY ZEN TV~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~RMC DECOUVERTE~~|http://www.canalplus.com|
 |<img src="" width="100" height="50">|~~M6 BOUTIQUE~~|http://www.canalplus.com|
-|<img src="" width="100" height="50">|PLANETE+|http://www.canalplus.com|
-|<img src="" width="100" height="50">|PLANETE+ CI|http://www.canalplus.com|
-|<img src="" width="100" height="50">|PLANETE+ A&E|http://www.canalplus.com|
-|<img src="" width="100" height="50">|NATIONAL GEO|http://www.canalplus.com|
-|<img src="" width="100" height="50">|NAT GEO WILD|http://www.canalplus.com|
-|<img src="" width="100" height="50">|VOYAGE|http://www.canalplus.com|
-|<img src="" width="100" height="50">|USHUAIA TV|http://www.canalplus.com|
-|<img src="" width="100" height="50">|HISTOIRE|http://www.canalplus.com|
-|<img src="" width="100" height="50">|SCIENCE ET VIE TV|http://www.canalplus.com|
-|<img src="" width="100" height="50">|ANIMAUX|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~PLANETE+~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~PLANETE+ CI~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~PLANETE+ A&E~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~NATIONAL GEO~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~NAT GEO WILD~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~VOYAGE~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~USHUAIA TV~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~HISTOIRE~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~SCIENCE ET VIE TV~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~ANIMAUX~~|http://www.canalplus.com|
 |<img src="" width="100" height="50">|~~TREK~~|http://www.canalplus.com|
-|<img src="" width="100" height="50">|SEASONS|http://www.canalplus.com|
-|<img src="" width="100" height="50">|CHASSE ET PECHE|http://www.canalplus.com|
-|<img src="" width="100" height="50">|CNEWS|http://www.canalplus.com|
-|<img src="" width="100" height="50">|BFM TV|http://www.canalplus.com|
-|<img src="" width="100" height="50">|LCI|http://www.canalplus.com|
-|<img src="" width="100" height="50">|FRANCEINFO:|http://www.canalplus.com|
-|<img src="" width="100" height="50">|FRANCE 24|http://www.canalplus.com|
-|<img src="" width="100" height="50">|LCP|http://www.canalplus.com|
-|<img src="" width="100" height="50">|BFM BUSINESS|http://www.canalplus.com|
-|<img src="" width="100" height="50">|CNN INT.|http://www.canalplus.com|
-|<img src="" width="100" height="50">|BBC WORLD NEWS|http://www.canalplus.com|
-|<img src="" width="100" height="50">|EURONEWS|http://www.canalplus.com|
-|<img src="" width="100" height="50">|INFOSPORT+|http://www.canalplus.com|
-|<img src="" width="100" height="50">|EUROSPORT 1|http://www.canalplus.com|
-|<img src="" width="100" height="50">|EUROSPORT 2|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~SEASONS~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~CHASSE ET PECHE~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~CNEWS~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~BFM TV~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~LCI~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~FRANCEINFO:~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~FRANCE 24~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~LCP~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~BFM BUSINESS~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~CNN INT.~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~BBC WORLD NEWS~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~EURONEWS~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~INFOSPORT+~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~EUROSPORT 1~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~EUROSPORT 2~~|http://www.canalplus.com|
 |<img src="" width="100" height="50">|~~OL TV~~|http://www.canalplus.com|
 |<img src="" width="100" height="50">|~~ONZEO~~|http://www.canalsat.fr|
 |<img src="" width="100" height="50">|~~GIRONDINS TV~~|http://www.canalsat.fr|
-|<img src="" width="100" height="50">|AB MOTEURS|http://www.canalplus.com|
-|<img src="" width="100" height="50">|EQUIDIA|http://www.canalplus.com|
-|<img src="" width="100" height="50">|BEIN SPORTS 1|http://www.canalplus.com|
-|<img src="" width="100" height="50">|BEIN SPORTS 2|http://www.canalplus.com|
-|<img src="" width="100" height="50">|BEIN SPORTS 3|http://www.canalplus.com|
-|<img src="" width="100" height="50">|GOLF+|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~AB MOTEURS~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~EQUIDIA~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~BEIN SPORTS 1~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~BEIN SPORTS 2~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~BEIN SPORTS 3~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~GOLF+~~|http://www.canalplus.com|
 |<img src="" width="100" height="50">|~~EXTREME SPORTS~~|http://www.canalplus.com|
-|<img src="" width="100" height="50">|L'EQUIPE|http://www.canalplus.com|
-|<img src="" width="100" height="50">|RMC SPORT 1|http://www.canalplus.com|
-|<img src="" width="100" height="50">|RMC SPORT 2|http://www.canalplus.com|
-|<img src="" width="100" height="50">|RMC SPORT 3|http://www.canalplus.com|
-|<img src="" width="100" height="50">|RMC SPORT 4|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~L'EQUIPE~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~RMC SPORT 1~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~RMC SPORT 2~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~RMC SPORT 3~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~RMC SPORT 4~~|http://www.canalplus.com|
 |<img src="" width="100" height="50">|~~RMC SPORT NEWS~~|http://www.canalplus.com|
-|<img src="" width="100" height="50">|FOOT+ 24/24|http://www.canalplus.com|
-|<img src="" width="100" height="50">|BEIN SPORTS MAX 4|http://www.canalplus.com|
-|<img src="" width="100" height="50">|BEIN SPORTS MAX 5|http://www.canalplus.com|
-|<img src="" width="100" height="50">|BEIN SPORTS MAX 6|http://www.canalplus.com|
-|<img src="" width="100" height="50">|BEIN SPORTS MAX 7|http://www.canalplus.com|
-|<img src="" width="100" height="50">|BEIN SPORTS MAX 8|http://www.canalplus.com|
-|<img src="" width="100" height="50">|BEIN SPORTS MAX 9|http://www.canalplus.com|
-|<img src="" width="100" height="50">|BEIN SPORTS MAX 10|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~FOOT+ 24/24~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~BEIN SPORTS MAX 4~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~BEIN SPORTS MAX 5~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~BEIN SPORTS MAX 6~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~BEIN SPORTS MAX 7~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~BEIN SPORTS MAX 8~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~BEIN SPORTS MAX 9~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~BEIN SPORTS MAX 10~~|http://www.canalplus.com|
 |<img src="http://content.osn.com/logo/channel/cropped/OYX.png" width="100" height="50">|~~OSN Ya Hala Al Oula +2h~~|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/OYA.png" width="100" height="50">|OSN Ya Hala HD|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/OYC.png" width="100" height="50">|OSN Yahala Cinema HD|http://www.osn.com|
@@ -588,16 +588,16 @@
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Faf12e1ce6986fe5c.2Epng/30x30/quality/80/france-5.png" width="100" height="50">|France 5|http://www.m.programme-tv.net|
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F49017576b41883ab.2Epng/30x30/quality/80/m6.png" width="100" height="50">|M6|http://www.m.programme-tv.net|
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F18478e28976454fd.2Epng/30x30/quality/80/arte.png" width="100" height="50">|Arte|http://www.m.programme-tv.net|
-|<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F281db64e909102f5.2Epng/30x30/quality/80/c8.png" width="100" height="50">|C8|http://www.m.programme-tv.net|
-|<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F45304d9002f9597b.2Epng/30x30/quality/80/w9.png" width="100" height="50">|W9|http://www.m.programme-tv.net|
-|<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F183768217f630352.2Epng/30x30/quality/80/tmc.png" width="100" height="50">|TMC|http://www.m.programme-tv.net|
-|<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F65fb409e9fed8136.2Epng/30x30/quality/80/tfx.png" width="100" height="50">|TFX|http://www.m.programme-tv.net|
-|<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fc3429738ac9adc87.2Epng/30x30/quality/80/nrj-12.png" width="100" height="50">|NRJ 12|http://www.m.programme-tv.net|
+|<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F281db64e909102f5.2Epng/30x30/quality/80/c8.png" width="100" height="50">|~~C8~~|http://www.m.programme-tv.net|
+|<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F45304d9002f9597b.2Epng/30x30/quality/80/w9.png" width="100" height="50">|~~W9~~|http://www.m.programme-tv.net|
+|<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F183768217f630352.2Epng/30x30/quality/80/tmc.png" width="100" height="50">|~~TMC~~|http://www.m.programme-tv.net|
+|<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F65fb409e9fed8136.2Epng/30x30/quality/80/tfx.png" width="100" height="50">|~~TFX~~|http://www.m.programme-tv.net|
+|<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fc3429738ac9adc87.2Epng/30x30/quality/80/nrj-12.png" width="100" height="50">|~~NRJ 12~~|http://www.m.programme-tv.net|
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fc5a00219b61629a7.2Epng/30x30/quality/80/la-chaine-parlementaire.png" width="100" height="50">|La Chaîne parlementaire|http://www.m.programme-tv.net|
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F488cba3e1cef1be4.2Epng/30x30/quality/80/france-4.png" width="100" height="50">|France 4|http://www.m.programme-tv.net|
-|<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F4c2cbb5f3d06de92.2Epng/30x30/quality/80/bfm-tv.png" width="100" height="50">|BFMTV|http://www.m.programme-tv.net|
-|<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Ffbaa4b8b2e2208b3.2Epng/30x30/quality/80/cnews.png" width="100" height="50">|CNEWS|http://www.m.programme-tv.net|
-|<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fd6fd740ea5fed0a1.2Epng/30x30/quality/80/cstar.png" width="100" height="50">|CSTAR|http://www.m.programme-tv.net|
+|<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F4c2cbb5f3d06de92.2Epng/30x30/quality/80/bfmtv.png" width="100" height="50">|BFMTV|http://www.m.programme-tv.net|
+|<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Ffbaa4b8b2e2208b3.2Epng/30x30/quality/80/cnews.png" width="100" height="50">|~~CNEWS~~|http://www.m.programme-tv.net|
+|<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fd6fd740ea5fed0a1.2Epng/30x30/quality/80/cstar.png" width="100" height="50">|~~CSTAR~~|http://www.m.programme-tv.net|
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fef660dc09c117f2d.2Epng/30x30/quality/80/gulli.png" width="100" height="50">|Gulli|http://www.m.programme-tv.net|
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F7228d555798e4a9c.2Epng/30x30/quality/80/france-o.png" width="100" height="50">|~~France Ô~~|http://www.m.programme-tv.net|
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F46f3e379846cd4c3.2Epng/30x30/quality/80/tf1-series-films.png" width="100" height="50">|TF1 Séries Films|http://www.m.programme-tv.net|
@@ -634,11 +634,11 @@
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F2d170eaf9e8c3645.2Epng/30x30/quality/80/polarplus.png" width="100" height="50">|Polar+|http://www.m.programme-tv.net|
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F5c29cfabaad8a767.2Epng/30x30/quality/80/warner-tv.png" width="100" height="50">|Warner TV|http://www.m.programme-tv.net|
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Ff05b792ea1d2e42d.2Epng/30x30/quality/80/serieclub.png" width="100" height="50">|serieclub|http://www.m.programme-tv.net|
-|<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Ff496986602f0828c.2Epng/30x30/quality/80/mtv.png" width="100" height="50">|MTV|http://www.m.programme-tv.net|
+|<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Ff496986602f0828c.2Epng/30x30/quality/80/mtv.png" width="100" height="50">|~~MTV~~|http://www.m.programme-tv.net|
 |<img src="" width="100" height="50">|~~ElleGirl~~|http://www.m.programme-tv.net|
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F96f6b4eea610eb0c.2Epng/30x30/quality/80/non-stop-people-hd.png" width="100" height="50">|Non Stop People HD|http://www.m.programme-tv.net|
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fe7e677ccf5a1339c.2Epng/30x30/quality/80/novelas-tv.png" width="100" height="50">|Novelas TV|http://www.m.programme-tv.net|
-|<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fedb0d57b15db5129.2Epng/30x30/quality/80/mcm.png" width="100" height="50">|MCM|http://www.m.programme-tv.net|
+|<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fedb0d57b15db5129.2Epng/30x30/quality/80/mcm.png" width="100" height="50">|~~MCM~~|http://www.m.programme-tv.net|
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F9c8779525e7b421b.2Epng/30x30/quality/80/game-one.png" width="100" height="50">|Game One|http://www.m.programme-tv.net|
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F3e84665276607ddd.2Epng/30x30/quality/80/j-one.png" width="100" height="50">|J-One|http://www.m.programme-tv.net|
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F33f6b35dccc9fb40.2Epng/30x30/quality/80/mangas.png" width="100" height="50">|Mangas|http://www.m.programme-tv.net|
@@ -646,7 +646,7 @@
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F899e7b1aa2f350e2.2Epng/30x30/quality/80/tvbreizh.png" width="100" height="50">|TvBreizh|http://www.m.programme-tv.net|
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F0989fcee33a19a8f.2Epng/30x30/quality/80/teva.png" width="100" height="50">|Téva|http://www.m.programme-tv.net|
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F26b97a62044497bc.2Epng/30x30/quality/80/rtl-9.png" width="100" height="50">|RTL 9|http://www.m.programme-tv.net|
-|<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fdc3ebab77849df7a.2Epng/30x30/quality/80/bet.png" width="100" height="50">|BET|http://www.m.programme-tv.net|
+|<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fdc3ebab77849df7a.2Epng/30x30/quality/80/bet.png" width="100" height="50">|~~BET~~|http://www.m.programme-tv.net|
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F5b63a7ed4832338b.2Epng/30x30/quality/80/tv5monde.png" width="100" height="50">|TV5MONDE|http://www.m.programme-tv.net|
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F2068344d7ab9cbb3.2Epng/30x30/quality/80/myzen-tv.png" width="100" height="50">|MyZen.tv|http://www.m.programme-tv.net|
 |<img src="" width="100" height="50">|~~QVC~~|http://www.m.programme-tv.net|
