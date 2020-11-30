@@ -4,7 +4,7 @@
 ![CI](https://github.com/Fazzani/grab/workflows/CI/badge.svg)
 
 ![Channel count](https://img.shields.io/static/v1?style=for-the-badge&label=channel%20count&message=636&color=9cf&cacheSeconds=3600)
-![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=57.39%&color=yellow&cacheSeconds=3600)
+![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=57.23%&color=yellow&cacheSeconds=3600)
 
 ## channels list
 
@@ -60,7 +60,7 @@
 |<img src="http://content.osn.com/logo/channel/cropped/GUK.png" width="100" height="50">|~~ITV Choice HD~~|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/OLH.png" width="100" height="50">|OSN Living HD|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/FTH.png" width="100" height="50">|~~Fashion TV HD~~|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/B4P.png" width="100" height="50">|B4U Aflam|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/B4P.png" width="100" height="50">|~~B4U Aflam~~|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/CTV.png" width="100" height="50">|~~Citruss TV~~|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/BO1.png" width="100" height="50">|OSN Movies Box Office 1 HD|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/BO2.png" width="100" height="50">|~~OSN Movies Box Office 2~~|http://www.osn.com|
