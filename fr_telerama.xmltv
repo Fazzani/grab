@@ -211,11 +211,11 @@
     <title lang="fr">UK vs Stateside: Bangers Only!</title>
     <category lang="fr">Clips</category>
   </programme>
-  <programme start="20201203170000 +0100" stop="20201203180000 +0100" channel="MTV Base">
+  <programme start="20201203170000 +0100" stop="20201203175000 +0100" channel="MTV Base">
     <title lang="fr">10 Biggest R&amp;B &amp; Rap Anthems RN!</title>
     <category lang="fr">Clips</category>
   </programme>
-  <programme start="20201203180000 +0100" stop="20201203200000 +0100" channel="MTV Base">
+  <programme start="20201203175000 +0100" stop="20201203200000 +0100" channel="MTV Base">
     <title lang="fr">On Shuffle: Hottest Hits!</title>
     <category lang="fr">Clips</category>
   </programme>
@@ -231,11 +231,11 @@
     <title lang="fr">00s Vs 10s: The Ladies</title>
     <category lang="fr">Clips</category>
   </programme>
-  <programme start="20201204000000 +0100" stop="20201204010000 +0100" channel="MTV Base">
+  <programme start="20201204000000 +0100" stop="20201204004500 +0100" channel="MTV Base">
     <title lang="fr">10 Biggest R&amp;B &amp; Rap Anthems RN!</title>
     <category lang="fr">Clips</category>
   </programme>
-  <programme start="20201204010000 +0100" stop="20201204030000 +0100" channel="MTV Base">
+  <programme start="20201204004500 +0100" stop="20201204030000 +0100" channel="MTV Base">
     <title lang="fr">Old Skool All Night!</title>
     <category lang="fr">Clips</category>
   </programme>
@@ -481,7 +481,7 @@
     <credits>
       <presenter>Antoine Cormery</presenter>
       <presenter>Michaël Miraglia</presenter>
-      <presenter>Rebecca Fitoussi</presenter>
+      <presenter>Tâm Tran Huy</presenter>
     </credits>
     <category lang="fr">Magazine de société</category>
   </programme>
@@ -505,7 +505,7 @@
     <credits>
       <presenter>Antoine Cormery</presenter>
       <presenter>Michaël Miraglia</presenter>
-      <presenter>Rebecca Fitoussi</presenter>
+      <presenter>Tâm Tran Huy</presenter>
     </credits>
     <category lang="fr">Magazine de reportages</category>
   </programme>
@@ -616,13 +616,13 @@
   </programme>
   <programme start="20201204201500 +0100" stop="20201204224000 +0100" channel="AB 3">
     <title lang="fr">Transformers 3 : la face cachée de la lune</title>
-    <desc lang="fr">Avec l'aide de Carly, sa ravissante petite amie, Sam réussit à se faire embaucher dans l'entreprise d'aéronautique que dirige Bruce Brazos, à Washington. Parallèlement, Optimus Prime et les Autobots débarquent sur la Lune dans l'intention d'étudier de près l'épave de l'Arche, un vaisseau spatial qui s'est échoué quelques années plus tôt. Ils y retrouvent leur ancien chef, Sentinel Prime. Celui-ci est dans un état piteux, mais cela ne décourage pas Optimus de tenter de le ramener à la vie. Un certain Jerry prend contact avec Sam et le met en garde : des jours sombres se préparent. Jerry n'a que le temps de confier des documents avant d'être assassiné...(n)</desc>
+    <desc lang="fr">Avec l'aide de Carly, sa ravissante petite amie, Sam réussit à se faire embaucher dans l'entreprise d'aéronautique que dirige Bruce Brazos, à Washington. Parallèlement, Optimus Prime et les Autobots débarquent sur la Lune dans l'intention d'étudier de près l'épave de l'Arche, un vaisseau spatial qui s'est échoué quelques années plus tôt. Ils y retrouvent leur ancien chef, Sentinel Prime. Celui-ci est dans un état piteux, mais cela ne décourage pas Optimus de tenter de le ramener à la vie. Un certain Jerry prend contact avec Sam et le met en garde : des jours sombres se préparent. Jerry n'a que le temps de confier des documents avant d'être assassiné...</desc>
     <category lang="fr">Film</category>
     <icon src="https://www.telerama.fr/sites/tr_master/files/4d938406-db54-4497-9f32-27508daaa339_2.jpg" />
   </programme>
   <programme start="20201204224000 +0100" stop="20201205003500 +0100" channel="AB 3">
     <title lang="fr">Looper</title>
-    <desc lang="fr">En 2044, les Etats-Unis ont changé : la crise économique a favorisé l'essor du crime organisé pendant que certaines personnes ont développé des pouvoirs surnaturels. C'est dans ce contexte qu'opère Joe, tueur à gages pour le compte de la Mafia. Il est chargé d'éliminer ceux que la technologie de 2074 permet d'envoyer dans le passé, là où plus personne ne retrouvera leur trace. Les victimes apparaissent à une heure et à un endroit précis, accompagnés de lingots d'argent ou d'or. Un jour, alors qu'il se prépare à remplir un nouveau contrat, Joe réalise que l'homme envoyé du futur n'est autre que lui-même, plus vieux. Il hésite un moment avant de tirer, et permet à sa cible de prendre la fuite...(n)</desc>
+    <desc lang="fr">En 2044, les Etats-Unis ont changé : la crise économique a favorisé l'essor du crime organisé pendant que certaines personnes ont développé des pouvoirs surnaturels. C'est dans ce contexte qu'opère Joe, tueur à gages pour le compte de la Mafia. Il est chargé d'éliminer ceux que la technologie de 2074 permet d'envoyer dans le passé, là où plus personne ne retrouvera leur trace. Les victimes apparaissent à une heure et à un endroit précis, accompagnés de lingots d'argent ou d'or. Un jour, alors qu'il se prépare à remplir un nouveau contrat, Joe réalise que l'homme envoyé du futur n'est autre que lui-même, plus vieux. Il hésite un moment avant de tirer, et permet à sa cible de prendre la fuite...</desc>
     <category lang="fr">Film</category>
     <icon src="https://www.telerama.fr/sites/tr_master/files/c0ca7ff8-2f87-4d33-a1ee-9b808d125946_2.jpg" />
   </programme>
@@ -797,30 +797,55 @@
   </programme>
   <programme start="20201203115500 +0100" stop="20201203122600 +0100" channel="Chasse et pêche">
     <title lang="fr">Chasseur de l'extrême (?)</title>
+    <credits>
+      <director>Daniel Doty</director>
+    </credits>
     <category lang="fr">Chasse</category>
   </programme>
   <programme start="20201203122600 +0100" stop="20201203125000 +0100" channel="Chasse et pêche">
     <title lang="fr">Québec à vol d'oiseau (?)</title>
+    <credits>
+      <director>Frédéric Laroche</director>
+      <director>Joël Tremblay</director>
+    </credits>
     <category lang="fr">Chasse</category>
   </programme>
   <programme start="20201203125000 +0100" stop="20201203131400 +0100" channel="Chasse et pêche">
     <title lang="fr">Québec à vol d'oiseau (?)</title>
+    <credits>
+      <director>Frédéric Laroche</director>
+      <director>Joël Tremblay</director>
+    </credits>
     <category lang="fr">Chasse</category>
   </programme>
   <programme start="20201203131400 +0100" stop="20201203133800 +0100" channel="Chasse et pêche">
     <title lang="fr">Québec à vol d'oiseau (?)</title>
+    <credits>
+      <director>Frédéric Laroche</director>
+      <director>Joël Tremblay</director>
+    </credits>
     <category lang="fr">Chasse</category>
   </programme>
   <programme start="20201203133800 +0100" stop="20201203140200 +0100" channel="Chasse et pêche">
     <title lang="fr">Québec à vol d'oiseau (?)</title>
+    <credits>
+      <director>Frédéric Laroche</director>
+      <director>Joël Tremblay</director>
+    </credits>
     <category lang="fr">Chasse</category>
   </programme>
   <programme start="20201203140200 +0100" stop="20201203145700 +0100" channel="Chasse et pêche">
     <title lang="fr">Carpe (?)</title>
+    <credits>
+      <director>Gregory Dolet</director>
+    </credits>
     <category lang="fr">Pêche</category>
   </programme>
   <programme start="20201203145700 +0100" stop="20201203154900 +0100" channel="Chasse et pêche">
     <title lang="fr">Carpes (?)</title>
+    <credits>
+      <director>Mariya Sergenyuk</director>
+    </credits>
     <category lang="fr">Pêche</category>
   </programme>
   <programme start="20201203154900 +0100" stop="20201203161100 +0100" channel="Chasse et pêche">
@@ -2749,6 +2774,14 @@
     <title lang="fr">The Stream (?)</title>
     <category lang="fr">Magazine de société</category>
   </programme>
+  <programme start="20201204050000 +0100" stop="20201204053000 +0100" channel="Al Jazeera English">
+    <title lang="fr">News Live (?)</title>
+    <category lang="fr">Journal</category>
+  </programme>
+  <programme start="20201204053000 +0100" stop="20201204060000 +0100" channel="Al Jazeera English">
+    <title lang="fr">The Bottom Line (?)</title>
+    <category lang="fr">Magazine de société</category>
+  </programme>
   <programme start="20201204060000 +0100" stop="20201204070000 +0100" channel="Al Jazeera English">
     <title lang="fr">Al Jazeera World (?)</title>
     <category lang="fr">Société</category>
@@ -3164,6 +3197,14 @@
     <title lang="fr">The Travel Show (?)</title>
     <category lang="fr">Voyage</category>
   </programme>
+  <programme start="20201204050000 +0100" stop="20201204053000 +0100" channel="BBC World News">
+    <title lang="fr">BBC World News (?)</title>
+    <category lang="fr">Journal</category>
+  </programme>
+  <programme start="20201204053000 +0100" stop="20201204060000 +0100" channel="BBC World News">
+    <title lang="fr">HARDtalk (?)</title>
+    <category lang="fr">Interview</category>
+  </programme>
   <programme start="20201204060000 +0100" stop="20201204063000 +0100" channel="BBC World News">
     <title lang="fr">BBC World News (?)</title>
     <category lang="fr">Journal</category>
@@ -3374,13 +3415,13 @@ Alors qu'il doit entrer à la direction nationale de son parti, il se retrouve i
   </programme>
   <programme start="20201203094500 +0100" stop="20201203114000 +0100" channel="BE 1">
     <title lang="fr">La favorite</title>
-    <desc lang="fr">Début du XVIIIème siècle. L’Angleterre et la France sont en guerre. Toutefois, à la cour, la mode est aux courses de canards et à la dégustation d’ananas. La reine Anne, à la santé fragile et au caractère instable, occupe le trône tandis que son amie Lady Sarah gouverne le pays à sa place. Lorsqu’une nouvelle servante, Abigail Hill, arrive à la cour, Lady Sarah la prend sous son aile, pensant qu’elle pourrait être une alliée. Abigail va y voir l’opportunité de renouer avec ses racines aristocratiques. Alors que les enjeux politiques de la guerre absorbent Sarah, Abigail quant à elle parvient à gagner la confiance de la reine et devient sa nouvelle confidente. Cette amitié naissante donne à la jeune femme l’occasion de satisfaire ses ambitions, et elle ne laissera ni homme, ni femme, ni politique, ni même un lapin se mettre en travers de son chemin.(n)</desc>
+    <desc lang="fr">Début du XVIIIème siècle. L’Angleterre et la France sont en guerre. Toutefois, à la cour, la mode est aux courses de canards et à la dégustation d’ananas. La reine Anne, à la santé fragile et au caractère instable, occupe le trône tandis que son amie Lady Sarah gouverne le pays à sa place. Lorsqu’une nouvelle servante, Abigail Hill, arrive à la cour, Lady Sarah la prend sous son aile, pensant qu’elle pourrait être une alliée. Abigail va y voir l’opportunité de renouer avec ses racines aristocratiques. Alors que les enjeux politiques de la guerre absorbent Sarah, Abigail quant à elle parvient à gagner la confiance de la reine et devient sa nouvelle confidente. Cette amitié naissante donne à la jeune femme l’occasion de satisfaire ses ambitions, et elle ne laissera ni homme, ni femme, ni politique, ni même un lapin se mettre en travers de son chemin.</desc>
     <category lang="fr">Film</category>
     <icon src="https://www.telerama.fr/sites/tr_master/files/sheet_media/movie/7_865505.jpg" />
   </programme>
   <programme start="20201203114000 +0100" stop="20201203134000 +0100" channel="BE 1">
     <title lang="fr">Downton Abbey</title>
-    <desc lang="fr">Adaptation de la série télévisée à succès Downton Abbey. Downton Abbey met en scène la vie de la famille Crowley et de ses serviteurs dans un manoir de la campagne anglaise à l’orée du XX° siècle.(n)</desc>
+    <desc lang="fr">Adaptation de la série télévisée à succès Downton Abbey. Downton Abbey met en scène la vie de la famille Crowley et de ses serviteurs dans un manoir de la campagne anglaise à l’orée du XX° siècle.</desc>
     <category lang="fr">Film</category>
     <icon src="https://www.telerama.fr/sites/tr_master/files/sheet_media/movie/7_900444.jpg" />
   </programme>
@@ -3393,23 +3434,27 @@ Alors qu'il doit entrer à la direction nationale de son parti, il se retrouve i
   </programme>
   <programme start="20201203160000 +0100" stop="20201203173000 +0100" channel="BE 1">
     <title lang="fr">Just a Gigolo</title>
-    <desc lang="fr">A la mort de son père, Alex comprend que "travail" ne rime pas forcément avec "bonheur". Comment vivre heureux et riche sans travailler ? Etre gigolo. Après 25 ans de vie commune avec Denise, une riche héritière de 35 ans son aînée, Alex se fait virer sans préavis et se retrouve démuni. Accueilli par sa soeur, il va devoir réapprendre à vivre loin du luxe qu'il a connu et va découvrir les joies du travail.(n)</desc>
+    <desc lang="fr">A la mort de son père, Alex comprend que "travail" ne rime pas forcément avec "bonheur". Comment vivre heureux et riche sans travailler ? Etre gigolo. Après 25 ans de vie commune avec Denise, une riche héritière de 35 ans son aînée, Alex se fait virer sans préavis et se retrouve démuni. Accueilli par sa soeur, il va devoir réapprendre à vivre loin du luxe qu'il a connu et va découvrir les joies du travail.</desc>
     <category lang="fr">Film</category>
     <icon src="https://www.telerama.fr/sites/tr_master/files/sheet_media/movie/7_892071.jpg" />
   </programme>
   <programme start="20201203173000 +0100" stop="20201203190500 +0100" channel="BE 1">
     <title lang="fr">Inséparables</title>
-    <desc lang="fr">Mika, un petit escroc, a fait un rapide tour en prison, où il a fait la connaissance de « Poutine », un détenu cinglé et imprévisible. Sitôt sa peine purgée, il décide de repartir à zéro et de refaire sa vie. Alors qu’il s’apprête à épouser la fille d’un riche homme d’affaires, son passé le rattrape : Poutine débarque sans prévenir ! Mika va vite réaliser qu’on ne se débarrasse pas aisément d’un tel boulet...(n)</desc>
+    <desc lang="fr">Mika, un petit escroc, a fait un rapide tour en prison, où il a fait la connaissance de « Poutine », un détenu cinglé et imprévisible. Sitôt sa peine purgée, il décide de repartir à zéro et de refaire sa vie. Alors qu’il s’apprête à épouser la fille d’un riche homme d’affaires, son passé le rattrape : Poutine débarque sans prévenir ! Mika va vite réaliser qu’on ne se débarrasse pas aisément d’un tel boulet...</desc>
     <category lang="fr">Film</category>
     <icon src="https://www.telerama.fr/sites/tr_master/files/sheet_media/movie/7_917294.jpg" />
   </programme>
   <programme start="20201203190500 +0100" stop="20201203203000 +0100" channel="BE 1">
     <title lang="fr">Lucky</title>
-    <desc lang="fr">Pour s’en sortir financie`rement, Willy et son pote Tony, endette´s de naissance, ont une ide´e de ge´nie : voler un chien de la brigade des stups. Mais, les choses ne se passent pas tout a` fait comme ils l’avaient pre´vu. La seule solution : s’associer avec Caro, une flic totalement corrompue.(n)</desc>
+    <desc lang="fr">Pour s’en sortir financie`rement, Willy et son pote Tony, endette´s de naissance, ont une ide´e de ge´nie : voler un chien de la brigade des stups. Mais, les choses ne se passent pas tout a` fait comme ils l’avaient pre´vu. La seule solution : s’associer avec Caro, une flic totalement corrompue.</desc>
     <category lang="fr">Film</category>
     <icon src="https://www.telerama.fr/sites/tr_master/files/sheet_media/movie/7_952724.jpg" />
   </programme>
-  <programme start="20201203222500 +0100" stop="20201204001000 +0100" channel="BE 1">
+  <programme start="20201203221500 +0100" stop="20201203222000 +0100" channel="BE 1">
+    <title lang="fr">Un geste héroïque</title>
+    <category lang="fr">Film</category>
+  </programme>
+  <programme start="20201203222000 +0100" stop="20201204001000 +0100" channel="BE 1">
     <title lang="fr">Official Secrets</title>
     <category lang="fr">Film</category>
   </programme>
@@ -3422,31 +3467,31 @@ Alors qu'il doit entrer à la direction nationale de son parti, il se retrouve i
   </programme>
   <programme start="20201204014000 +0100" stop="20201204035000 +0100" channel="BE 1">
     <title lang="fr">Vice</title>
-    <desc lang="fr">Fin connaisseur des arcanes de la politique américaine, Dick Cheney a réussi, sans faire de bruit, à se faire élire vice-président aux côtés de George W. Bush. Devenu l'homme le plus puissant du pays, il a largement contribué à imposer un nouvel ordre mondial dont on sent encore les conséquences aujourd'hui….(n)</desc>
+    <desc lang="fr">Fin connaisseur des arcanes de la politique américaine, Dick Cheney a réussi, sans faire de bruit, à se faire élire vice-président aux côtés de George W. Bush. Devenu l'homme le plus puissant du pays, il a largement contribué à imposer un nouvel ordre mondial dont on sent encore les conséquences aujourd'hui….</desc>
     <category lang="fr">Film</category>
     <icon src="https://www.telerama.fr/sites/tr_master/files/sheet_media/movie/7_875890.jpg" />
   </programme>
   <programme start="20201204035000 +0100" stop="20201204052500 +0100" channel="BE 1">
     <title lang="fr">La Llorona</title>
-    <desc lang="fr">La Llorrona?: seuls les coupables l’entendent pleurer. Selon la légende, la Llorona est une pleureuse, un fantôme qui cherche ses enfants. Aujourd’hui, elle pleure ceux qui sont morts durant le génocide des indiens mayas. Le général, responsable du massacre mais acquitté, est hanté par une Llorona. Serait-ce Alma, la nouvelle domestique ? Est-elle venue punir celui que la justice n’a pas condamné ?(n)</desc>
+    <desc lang="fr">La Llorrona?: seuls les coupables l’entendent pleurer. Selon la légende, la Llorona est une pleureuse, un fantôme qui cherche ses enfants. Aujourd’hui, elle pleure ceux qui sont morts durant le génocide des indiens mayas. Le général, responsable du massacre mais acquitté, est hanté par une Llorona. Serait-ce Alma, la nouvelle domestique ? Est-elle venue punir celui que la justice n’a pas condamné ?</desc>
     <category lang="fr">Film</category>
     <icon src="https://www.telerama.fr/sites/tr_master/files/sheet_media/movie/7_944188.jpg" />
   </programme>
   <programme start="20201204070000 +0100" stop="20201204082000 +0100" channel="BE 1">
     <title lang="fr">Ma famille et le loup</title>
-    <desc lang="fr">L'été de ses 9 ans, Hugo passe les grandes vacances avec ses cousins chez sa mamie Sara. Quand ils apprennent que le loup va venir la chercher, les enfants se mobilisent pour sauver leur grand-mère et se lancent dans une aventure inoubliable.(n)</desc>
+    <desc lang="fr">L'été de ses 9 ans, Hugo passe les grandes vacances avec ses cousins chez sa mamie Sara. Quand ils apprennent que le loup va venir la chercher, les enfants se mobilisent pour sauver leur grand-mère et se lancent dans une aventure inoubliable.</desc>
     <category lang="fr">Film</category>
     <icon src="https://www.telerama.fr/sites/tr_master/files/sheet_media/movie/7_912720.jpg" />
   </programme>
   <programme start="20201204101000 +0100" stop="20201204121000 +0100" channel="BE 1">
     <title lang="fr">Joker</title>
-    <desc lang="fr">Le film, qui relate une histoire originale inédite sur grand écran, se focalise sur la figure emblématique de l’ennemi juré de Batman. Il brosse le portrait d’Arthur Fleck, un homme sans concession méprisé par la société.(n)</desc>
+    <desc lang="fr">Le film, qui relate une histoire originale inédite sur grand écran, se focalise sur la figure emblématique de l’ennemi juré de Batman. Il brosse le portrait d’Arthur Fleck, un homme sans concession méprisé par la société.</desc>
     <category lang="fr">Film</category>
     <icon src="https://www.telerama.fr/sites/tr_master/files/sheet_media/movie/7_923844.jpg" />
   </programme>
   <programme start="20201204121000 +0100" stop="20201204134000 +0100" channel="BE 1">
     <title lang="fr">Child's Play : la poupée du mal</title>
-    <desc lang="fr">Une mère offre une poupée à son fils pour son anniversaire. Elle ignore que ce jouet est défectueux et que son système de programmation a été piraté afin qu'il n'ait aucune limite en matière de violence.(n)</desc>
+    <desc lang="fr">Une mère offre une poupée à son fils pour son anniversaire. Elle ignore que ce jouet est défectueux et que son système de programmation a été piraté afin qu'il n'ait aucune limite en matière de violence.</desc>
     <category lang="fr">Film</category>
     <icon src="https://www.telerama.fr/sites/tr_master/files/styles/movie_cover_186x252/public/sheet_media/movie/7_904863.jpg?itok=Wsi7u3l0" />
   </programme>
@@ -3456,7 +3501,7 @@ Alors qu'il doit entrer à la direction nationale de son parti, il se retrouve i
   </programme>
   <programme start="20201204153500 +0100" stop="20201204190000 +0100" channel="BE 1">
     <title lang="fr">Les baronnes</title>
-    <desc lang="fr">Le quartier sulfureux de Hell's Kitchen, en 1978. Alors qu'elles rongent leur frein, trois épouses de mafieux irlandais envoyés en prison par le FBI décident de prendre la situation en main. Et elles se révèlent incroyablement douées, qu'il s'agisse de collecter l'argent du racket ou d'éliminer la concurrence… Au sens littéral du terme !(n)</desc>
+    <desc lang="fr">Le quartier sulfureux de Hell's Kitchen, en 1978. Alors qu'elles rongent leur frein, trois épouses de mafieux irlandais envoyés en prison par le FBI décident de prendre la situation en main. Et elles se révèlent incroyablement douées, qu'il s'agisse de collecter l'argent du racket ou d'éliminer la concurrence… Au sens littéral du terme !</desc>
     <category lang="fr">Film</category>
     <icon src="https://www.telerama.fr/sites/tr_master/files/sheet_media/movie/7_912389.jpg" />
   </programme>
@@ -3466,18 +3511,18 @@ Alors qu'il doit entrer à la direction nationale de son parti, il se retrouve i
   </programme>
   <programme start="20201204203000 +0100" stop="20201204223000 +0100" channel="BE 1">
     <title lang="fr">Lucy in the Sky</title>
-    <desc lang="fr">Une astronaute revient d'une mission spatiale et a du mal à retrouver sa vie et son apparent parfait rêve américain.(n)</desc>
+    <desc lang="fr">Une astronaute revient d'une mission spatiale et a du mal à retrouver sa vie et son apparent parfait rêve américain.</desc>
     <category lang="fr">Film</category>
   </programme>
   <programme start="20201204223000 +0100" stop="20201205005000 +0100" channel="BE 1">
     <title lang="fr">Brooklyn Affairs</title>
-    <desc lang="fr">New York, 1954. Le détective privé Lionel Essrog, atteint du syndrome de La Tourette, est témoin du meurtre de son mentor et unique ami.(n)</desc>
+    <desc lang="fr">New York, 1954. Le détective privé Lionel Essrog, atteint du syndrome de La Tourette, est témoin du meurtre de son mentor et unique ami.</desc>
     <category lang="fr">Film</category>
     <icon src="https://www.telerama.fr/sites/tr_master/files/sheet_media/movie/7_934129.jpg" />
   </programme>
   <programme start="20201205005000 +0100" stop="20201205030000 +0100" channel="BE 1">
     <title lang="fr">BlacKkKlansman : j'ai infiltré le Ku Klux Klan</title>
-    <desc lang="fr">Au début des années 70, au plus fort de la lutte pour les droits civiques, plusieurs émeutes raciales éclatent dans les grandes villes des États-Unis. Ron Stallworth devient le premier officier Noir américain du Colorado Springs Police Department, mais son arrivée est accueillie avec scepticisme, voire avec une franche hostilité, par les agents les moins gradés du commissariat. Prenant son courage à deux mains, Stallworth va tenter de faire bouger les lignes et, peut-être, de laisser une trace dans l'histoire. Il se fixe alors une mission des plus périlleuses : infiltrer le Ku Klux Klan pour en dénoncer les exactions.(n)</desc>
+    <desc lang="fr">Au début des années 70, au plus fort de la lutte pour les droits civiques, plusieurs émeutes raciales éclatent dans les grandes villes des États-Unis. Ron Stallworth devient le premier officier Noir américain du Colorado Springs Police Department, mais son arrivée est accueillie avec scepticisme, voire avec une franche hostilité, par les agents les moins gradés du commissariat. Prenant son courage à deux mains, Stallworth va tenter de faire bouger les lignes et, peut-être, de laisser une trace dans l'histoire. Il se fixe alors une mission des plus périlleuses : infiltrer le Ku Klux Klan pour en dénoncer les exactions.</desc>
     <category lang="fr">Film</category>
     <icon src="https://www.telerama.fr/sites/tr_master/files/sheet_media/movie/7_839861.jpg" />
   </programme>
@@ -3509,7 +3554,7 @@ Elle veut tellement profiter de ces derniers moments ensemble, qu’elle en oubl
   </programme>
   <programme start="20201203083000 +0100" stop="20201203100000 +0100" channel="Be Ciné">
     <title lang="fr">Dreamland</title>
-    <desc lang="fr">Hercules, le sadique et imprévisible mafieux patron d’un cabaret appelé Al Qaida, engage un tueur à gages pour une mission un peu spéciale : couper le doigt d’un trompettiste de jazz qui doit donner un concert dans la région chez une comtesse pour le punir d’avoir vexé le commanditaire.(n)</desc>
+    <desc lang="fr">Hercules, le sadique et imprévisible mafieux patron d’un cabaret appelé Al Qaida, engage un tueur à gages pour une mission un peu spéciale : couper le doigt d’un trompettiste de jazz qui doit donner un concert dans la région chez une comtesse pour le punir d’avoir vexé le commanditaire.</desc>
     <category lang="fr">Film</category>
   </programme>
   <programme start="20201203100000 +0100" stop="20201203114000 +0100" channel="Be Ciné">
@@ -3518,59 +3563,59 @@ Elle veut tellement profiter de ces derniers moments ensemble, qu’elle en oubl
   </programme>
   <programme start="20201203114000 +0100" stop="20201203132500 +0100" channel="Be Ciné">
     <title lang="fr">Coeurs ennemis</title>
-    <desc lang="fr">Dans l'Allemagne d'immédiate après-guerre, en 1946, Rachael Morgan rejoint son mari Lewis, un colonel de l'armée britannique en charge de la reconstruction de la ville. Ils partagent leur demeure avec un allemand veuf et sa fille.(n)</desc>
+    <desc lang="fr">Dans l'Allemagne d'immédiate après-guerre, en 1946, Rachael Morgan rejoint son mari Lewis, un colonel de l'armée britannique en charge de la reconstruction de la ville. Ils partagent leur demeure avec un allemand veuf et sa fille.</desc>
     <category lang="fr">Film</category>
     <icon src="https://www.telerama.fr/sites/tr_master/files/sheet_media/movie/7_894110.jpg" />
   </programme>
   <programme start="20201203132500 +0100" stop="20201203150000 +0100" channel="Be Ciné">
     <title lang="fr">Question à dix points</title>
-    <desc lang="fr">Dans l'Angleterre de Thatcher, l'éducation sentimentale d'un brillant étudiant, partagé entre une camarade délurée et une amie secrètement amoureuse de lui.(n)</desc>
+    <desc lang="fr">Dans l'Angleterre de Thatcher, l'éducation sentimentale d'un brillant étudiant, partagé entre une camarade délurée et une amie secrètement amoureuse de lui.</desc>
     <category lang="fr">Film</category>
   </programme>
   <programme start="20201203150000 +0100" stop="20201203170500 +0100" channel="Be Ciné">
     <title lang="fr">Du miel plein la tête</title>
-    <desc lang="fr">Nick et Sarah élèvent leur fille de 10 ans, Tilda, dans les environs de Londres. Malgré leurs problèmes de couple, Amadeus père de Nick, s'installe chez eux à contrecœur. En effet, atteint de la maladie d'Alzheimer et veuf depuis peu de temps, il est désormais incapable de vivre seul.(n)</desc>
+    <desc lang="fr">Nick et Sarah élèvent leur fille de 10 ans, Tilda, dans les environs de Londres. Malgré leurs problèmes de couple, Amadeus père de Nick, s'installe chez eux à contrecœur. En effet, atteint de la maladie d'Alzheimer et veuf depuis peu de temps, il est désormais incapable de vivre seul.</desc>
     <category lang="fr">Film</category>
     <icon src="https://www.telerama.fr/sites/tr_master/files/styles/movie_cover_186x252/public/sheet_media/movie/7_883984.jpg?itok=_WG59Lao" />
   </programme>
   <programme start="20201203170500 +0100" stop="20201203185000 +0100" channel="Be Ciné">
     <title lang="fr">L'extraordinaire Mr Rogers</title>
-    <desc lang="fr">L'histoire de Fred Rogers, un homme de télé américain dont le programme éducatif Mister Rogers' Neighborhood a été suivi par des millions de téléspectateurs entre 1968 et 2001. Un journaliste du magazine Esquire va découvrir un homme à l'opposé de ce qu'il en pensait a priori.(n)</desc>
+    <desc lang="fr">L'histoire de Fred Rogers, un homme de télé américain dont le programme éducatif Mister Rogers' Neighborhood a été suivi par des millions de téléspectateurs entre 1968 et 2001. Un journaliste du magazine Esquire va découvrir un homme à l'opposé de ce qu'il en pensait a priori.</desc>
     <category lang="fr">Film</category>
     <icon src="https://www.telerama.fr/sites/tr_master/files/styles/movie_cover_186x252/public/sheet_media/movie/7_953931.jpg?itok=naAzhoLN" />
   </programme>
   <programme start="20201203185000 +0100" stop="20201203203000 +0100" channel="Be Ciné">
     <title lang="fr">Late Night</title>
     <desc lang="fr">Une célèbre présentatrice de « late show » sur le déclin est contrainte d’embaucher une femme d’origine indienne, Molly, au sein de son équipe d’auteurs. 
-Ces deux femmes que tout oppose, leur culture et leur génération, vont faire des étincelles et revitaliser l’émission.(n)</desc>
+Ces deux femmes que tout oppose, leur culture et leur génération, vont faire des étincelles et revitaliser l’émission.</desc>
     <category lang="fr">Film</category>
     <icon src="https://www.telerama.fr/sites/tr_master/files/sheet_media/movie/7_912721.jpg" />
   </programme>
   <programme start="20201203203000 +0100" stop="20201203215500 +0100" channel="Be Ciné">
     <title lang="fr">Tout ce qu'il me reste de la révolution</title>
-    <desc lang="fr">Angèle vient d’une famille de militants, mais seul son père, chez qui elle retourne vivre, est resté fidèle à ses idéaux. Sa mère a déménagé à la campagne et abandonné son combat politique, et sa sœur a choisi le monde de l’entreprise. En colère, déterminée, Angèle s’applique autant à essayer de changer le monde qu’à fuir les rencontres amoureuses. Tantôt Don Quichotte, tantôt Bridget Jones, elle tente de trouver un équilibre….(n)</desc>
+    <desc lang="fr">Angèle vient d’une famille de militants, mais seul son père, chez qui elle retourne vivre, est resté fidèle à ses idéaux. Sa mère a déménagé à la campagne et abandonné son combat politique, et sa sœur a choisi le monde de l’entreprise. En colère, déterminée, Angèle s’applique autant à essayer de changer le monde qu’à fuir les rencontres amoureuses. Tantôt Don Quichotte, tantôt Bridget Jones, elle tente de trouver un équilibre….</desc>
     <category lang="fr">Film</category>
     <icon src="https://www.telerama.fr/sites/tr_master/files/sheet_media/movie/7_869539.jpg" />
   </programme>
   <programme start="20201203215500 +0100" stop="20201204001500 +0100" channel="Be Ciné">
     <title lang="fr">La vie invisible d'Eurídice Gusmão</title>
-    <desc lang="fr">Rio de Janeiro, 1950. Euridice, 18 ans, et Guida, 20 ans, sont deux soeurs inséparables. Elles vivent chez leurs parents et rêvent, l’une d’une carrière de pianiste, l’autre du grand amour. A cause de leur père, les deux soeurs vont devoir construire leurs vies l’une sans l’autre. Séparées, elles prendront en main leur destin, sans jamais renoncer à se retrouver.(n)</desc>
+    <desc lang="fr">Rio de Janeiro, 1950. Euridice, 18 ans, et Guida, 20 ans, sont deux soeurs inséparables. Elles vivent chez leurs parents et rêvent, l’une d’une carrière de pianiste, l’autre du grand amour. A cause de leur père, les deux soeurs vont devoir construire leurs vies l’une sans l’autre. Séparées, elles prendront en main leur destin, sans jamais renoncer à se retrouver.</desc>
     <category lang="fr">Film</category>
     <icon src="https://www.telerama.fr/sites/tr_master/files/sheet_media/movie/7_900576.jpg" />
   </programme>
-  <programme start="20201204001500 +0100" stop="20201204015500 +0100" channel="Be Ciné">
+  <programme start="20201204001500 +0100" stop="20201204015000 +0100" channel="Be Ciné">
     <title lang="fr">Quartet (2020)</title>
     <category lang="fr">Film</category>
   </programme>
-  <programme start="20201204015500 +0100" stop="20201204032500 +0100" channel="Be Ciné">
+  <programme start="20201204015000 +0100" stop="20201204032500 +0100" channel="Be Ciné">
     <title lang="fr">Wedding Nightmare</title>
-    <desc lang="fr">Le jour de son mariage, une jeune femme est invitée par ses beaux-parents pour le clou de la cérémonie : un jeu familial traditionnel auquel elle devra survivre.(n)</desc>
+    <desc lang="fr">Le jour de son mariage, une jeune femme est invitée par ses beaux-parents pour le clou de la cérémonie : un jeu familial traditionnel auquel elle devra survivre.(c)</desc>
     <category lang="fr">Film</category>
     <icon src="https://www.telerama.fr/sites/tr_master/files/sheet_media/movie/7_912278.jpg" />
   </programme>
   <programme start="20201204032500 +0100" stop="20201204050500 +0100" channel="Be Ciné">
     <title lang="fr">The Dead Don't Die</title>
-    <desc lang="fr">Dans la sereine petite ville de Centerville, quelque chose cloche. La lune est omniprésente dans le ciel, la lumière du jour se manifeste à des horaires imprévisibles et les animaux commencent à avoir des comportements inhabituels. Personne ne sait vraiment pourquoi. Les nouvelles sont effrayantes et les scientifiques sont inquiets. Mais personne ne pouvait prévoir l’évènement le plus étrange et dangereux qui allait s’abattre sur Centerville : THE DEAD DON’T DIE – les morts sortent de leurs tombes et s’attaquent sauvagement aux vivants pour s’en nourrir. La bataille pour la survie commence pour les habitants de la ville.(n)</desc>
+    <desc lang="fr">Dans la sereine petite ville de Centerville, quelque chose cloche. La lune est omniprésente dans le ciel, la lumière du jour se manifeste à des horaires imprévisibles et les animaux commencent à avoir des comportements inhabituels. Personne ne sait vraiment pourquoi. Les nouvelles sont effrayantes et les scientifiques sont inquiets. Mais personne ne pouvait prévoir l’évènement le plus étrange et dangereux qui allait s’abattre sur Centerville : THE DEAD DON’T DIE – les morts sortent de leurs tombes et s’attaquent sauvagement aux vivants pour s’en nourrir. La bataille pour la survie commence pour les habitants de la ville.</desc>
     <category lang="fr">Film</category>
     <icon src="https://www.telerama.fr/sites/tr_master/files/sheet_media/movie/7_896998.jpg" />
   </programme>
@@ -3583,19 +3628,19 @@ Ces deux femmes que tout oppose, leur culture et leur génération, vont faire d
   </programme>
   <programme start="20201204093500 +0100" stop="20201204110500 +0100" channel="Be Ciné">
     <title lang="fr">Qui m'aime me suive !</title>
-    <desc lang="fr">Gilbert et Simone vivent une retraite agitée dans un village du Sud de la France. Le départ d'Étienne, son voisin et amant, le manque d'argent, mais surtout l'aigreur permanente de son mari, poussent Simone à fuir le foyer. Gilbert prend alors conscience qu'il est prêt à tout pour retrouver sa femme, son amour.(n)</desc>
+    <desc lang="fr">Gilbert et Simone vivent une retraite agitée dans un village du Sud de la France. Le départ d'Étienne, son voisin et amant, le manque d'argent, mais surtout l'aigreur permanente de son mari, poussent Simone à fuir le foyer. Gilbert prend alors conscience qu'il est prêt à tout pour retrouver sa femme, son amour.</desc>
     <category lang="fr">Film</category>
     <icon src="https://www.telerama.fr/sites/tr_master/files/sheet_media/movie/7_884059.jpg" />
   </programme>
   <programme start="20201204110500 +0100" stop="20201204124000 +0100" channel="Be Ciné">
     <title lang="fr">C'est quoi cette mamie ?!</title>
-    <desc lang="fr">Après deux ans de joyeuse collocation, la tribu des 7 demi-frères et sœurs doit quitter le grand appart’ avant la rentrée. Alors que chacun part en vacances pour l’été avec ses parents respectifs, Gulliver, le petit dernier, est envoyé tout seul chez sa grand-mère au bord de la mer. Mais l’excentrique Mamie Aurore n’est pas une baby-sitter comme les autres et préfère faire la fête plutôt que de garder son petit-fils… Le reste de la troupe décide de venir à sa rescousse. C’est le début d’une nouvelle révolution. Elle voulait se la couler douce… Ils vont lui mener la vie dure !(n)</desc>
+    <desc lang="fr">Après deux ans de joyeuse collocation, la tribu des 7 demi-frères et sœurs doit quitter le grand appart’ avant la rentrée. Alors que chacun part en vacances pour l’été avec ses parents respectifs, Gulliver, le petit dernier, est envoyé tout seul chez sa grand-mère au bord de la mer. Mais l’excentrique Mamie Aurore n’est pas une baby-sitter comme les autres et préfère faire la fête plutôt que de garder son petit-fils… Le reste de la troupe décide de venir à sa rescousse. C’est le début d’une nouvelle révolution. Elle voulait se la couler douce… Ils vont lui mener la vie dure !</desc>
     <category lang="fr">Film</category>
     <icon src="https://www.telerama.fr/sites/tr_master/files/sheet_media/movie/7_911626.jpg" />
   </programme>
   <programme start="20201204124000 +0100" stop="20201204140500 +0100" channel="Be Ciné">
     <title lang="fr">Raoul Taburin a un secret</title>
-    <desc lang="fr">Raoul Taburin est un spécialisé en réparation de vélos et est un véritable expert en la matière. Mais il cache un secret qui le pèse : le grand expert en vélos ne sait pas faire de vélo lui-même. Il ressent cette carence comme une véritable malédiction.(n)</desc>
+    <desc lang="fr">Raoul Taburin est un spécialisé en réparation de vélos et est un véritable expert en la matière. Mais il cache un secret qui le pèse : le grand expert en vélos ne sait pas faire de vélo lui-même. Il ressent cette carence comme une véritable malédiction.</desc>
     <category lang="fr">Film</category>
     <icon src="https://www.telerama.fr/sites/tr_master/files/styles/movie_cover_186x252/public/sheet_media/movie/7_892075.jpg?itok=qfRG_7SB" />
   </programme>
@@ -3605,31 +3650,31 @@ Ces deux femmes que tout oppose, leur culture et leur génération, vont faire d
   </programme>
   <programme start="20201204142000 +0100" stop="20201204161000 +0100" channel="Be Ciné">
     <title lang="fr">La belle époque</title>
-    <desc lang="fr">Victor, un sexagénaire désabusé, voit sa vie bouleversée le jour où Antoine, un brillant entrepreneur, lui propose une attraction d’un genre nouveau : mélangeant artifices théâtraux et reconstitution historique, cette entreprise propose à ses clients de replonger dans l’époque de leur choix. Victor choisit alors de revivre la semaine la plus marquante de sa vie : celle où, 40 ans plus tôt, il rencontra le grand amour...(n)</desc>
+    <desc lang="fr">Victor, un sexagénaire désabusé, voit sa vie bouleversée le jour où Antoine, un brillant entrepreneur, lui propose une attraction d’un genre nouveau : mélangeant artifices théâtraux et reconstitution historique, cette entreprise propose à ses clients de replonger dans l’époque de leur choix. Victor choisit alors de revivre la semaine la plus marquante de sa vie : celle où, 40 ans plus tôt, il rencontra le grand amour...</desc>
     <category lang="fr">Film</category>
     <icon src="https://www.telerama.fr/sites/tr_master/files/sheet_media/movie/7_900226.jpg" />
   </programme>
   <programme start="20201204161000 +0100" stop="20201204174000 +0100" channel="Be Ciné">
     <title lang="fr">Docteur ?</title>
-    <desc lang="fr">La nuit de Noël, un SOS-Médecin usé par 20 ans de métier envoie un livreur Uber Eats soigner les patients à sa place. C'est le soir de Noël. Les parisiens les plus chanceux se préparent à déballer leurs cadeaux en famille. D'autres regardent la télévision seuls chez eux. D'autres encore, comme Serge, travaillent. Serge est le seul SOS-Médecin de garde ce soir-là. Ses collègues se sont tous défilés. De toute façon il n'a plus son mot à dire car il a pris trop de libertés avec l'exercice de la médecine, et la radiation lui pend au nez. Les visites s'enchaînent et Serge essaye de suivre le rythme, de mauvaise grâce, quand tombe l'adresse de sa prochaine consultation. C'est celle de Rose, une relation de famille, qui l'appelle à l'aide. Il arrive sur les lieux en même temps qu'un livreur Uber Eats, Malek, lui aussi de service ce soir-là...(n)</desc>
+    <desc lang="fr">La nuit de Noël, un SOS-Médecin usé par 20 ans de métier envoie un livreur Uber Eats soigner les patients à sa place. C'est le soir de Noël. Les parisiens les plus chanceux se préparent à déballer leurs cadeaux en famille. D'autres regardent la télévision seuls chez eux. D'autres encore, comme Serge, travaillent. Serge est le seul SOS-Médecin de garde ce soir-là. Ses collègues se sont tous défilés. De toute façon il n'a plus son mot à dire car il a pris trop de libertés avec l'exercice de la médecine, et la radiation lui pend au nez. Les visites s'enchaînent et Serge essaye de suivre le rythme, de mauvaise grâce, quand tombe l'adresse de sa prochaine consultation. C'est celle de Rose, une relation de famille, qui l'appelle à l'aide. Il arrive sur les lieux en même temps qu'un livreur Uber Eats, Malek, lui aussi de service ce soir-là...</desc>
     <category lang="fr">Film</category>
     <icon src="https://www.telerama.fr/sites/tr_master/files/sheet_media/movie/7_936526.jpg" />
   </programme>
   <programme start="20201204174000 +0100" stop="20201204190500 +0100" channel="Be Ciné">
     <title lang="fr">Made in China</title>
-    <desc lang="fr">François, jeune trentenaire d’origine asiatique, n’a pas remis les pieds dans sa famille depuis 10 ans après une violente dispute avec son père Meng. Depuis, il essaie toujours d’éviter les questions sur ses origines, jusqu’à mentir en faisant croire qu’il a été adopté. Mais lorsqu’il apprend qu’il va être père, il réalise qu’il va devoir renouer avec son passé et ses origines. Poussé par sa compagne Sophie, il se décide à reprendre contact avec les siens et retourne dans son XIIIème arrondissement natal pour leur annoncer la bonne nouvelle, accompagné de son meilleur ami Bruno. François est accueilli à bras ouverts par sa famille, à l’exception de son père et de son jeune frère. Le retour dans sa communauté ne va pas être si simple….(n)</desc>
+    <desc lang="fr">François, jeune trentenaire d’origine asiatique, n’a pas remis les pieds dans sa famille depuis 10 ans après une violente dispute avec son père Meng. Depuis, il essaie toujours d’éviter les questions sur ses origines, jusqu’à mentir en faisant croire qu’il a été adopté. Mais lorsqu’il apprend qu’il va être père, il réalise qu’il va devoir renouer avec son passé et ses origines. Poussé par sa compagne Sophie, il se décide à reprendre contact avec les siens et retourne dans son XIIIème arrondissement natal pour leur annoncer la bonne nouvelle, accompagné de son meilleur ami Bruno. François est accueilli à bras ouverts par sa famille, à l’exception de son père et de son jeune frère. Le retour dans sa communauté ne va pas être si simple….</desc>
     <category lang="fr">Film</category>
     <icon src="https://www.telerama.fr/sites/tr_master/files/sheet_media/movie/7_905712.jpg" />
   </programme>
   <programme start="20201204190500 +0100" stop="20201204203000 +0100" channel="Be Ciné">
     <title lang="fr">Un divan à Tunis</title>
-    <desc lang="fr">Selma Derwish, 35 ans qui, après avoir exercé en France, ouvre son cabinet de psychanalyse dans une banlieue populaire de Tunis. Les débuts sont épiques, entre ceux qui prennent Freud et sa barbe pour un frère musulman et ceux qui confondent séance tarifée avec "prestations tarifées". Mais au lendemain de la Révolution, la demande s'avère importante dans ce pays schizophrène. Alors que Selma commence à trouver ses marques, elle découvre qu'il lui manque une autorisation de pratique indispensable pour continuer d'exercer….(n)</desc>
+    <desc lang="fr">Selma Derwish, 35 ans qui, après avoir exercé en France, ouvre son cabinet de psychanalyse dans une banlieue populaire de Tunis. Les débuts sont épiques, entre ceux qui prennent Freud et sa barbe pour un frère musulman et ceux qui confondent séance tarifée avec "prestations tarifées". Mais au lendemain de la Révolution, la demande s'avère importante dans ce pays schizophrène. Alors que Selma commence à trouver ses marques, elle découvre qu'il lui manque une autorisation de pratique indispensable pour continuer d'exercer….</desc>
     <category lang="fr">Film</category>
     <icon src="https://www.telerama.fr/sites/tr_master/files/sheet_media/movie/7_948945.jpg" />
   </programme>
   <programme start="20201204203000 +0100" stop="20201204221500 +0100" channel="Be Ciné">
     <title lang="fr">Nightmare Island</title>
-    <desc lang="fr">L’énigmatique M. Roarke donne vie aux rêves de ses chanceux invités dans un complexe hôtelier luxurieux et isolé. Mais quand leurs fantasmes les plus fous se transforment en véritables cauchemars, les invités n’ont d’autre choix que de résoudre les mystères de cette île pour en sortir vivants.(n)</desc>
+    <desc lang="fr">L’énigmatique M. Roarke donne vie aux rêves de ses chanceux invités dans un complexe hôtelier luxurieux et isolé. Mais quand leurs fantasmes les plus fous se transforment en véritables cauchemars, les invités n’ont d’autre choix que de résoudre les mystères de cette île pour en sortir vivants.</desc>
     <category lang="fr">Film</category>
     <icon src="https://www.telerama.fr/sites/tr_master/files/sheet_media/movie/7_949075.jpg" />
   </programme>
@@ -3649,13 +3694,13 @@ Ces deux femmes que tout oppose, leur culture et leur génération, vont faire d
     <title lang="fr">Le chant du loup</title>
     <desc lang="fr">Un jeune homme a le don rare de reconnaître chaque son qu’il entend. A bord d’un sous-marin nucléaire français, tout repose sur lui, l’Oreille d’Or.
 Réputé infaillible, il commet pourtant une erreur qui met l’équipage en danger de mort. Il veut retrouver la confiance de ses camarades mais sa quête les entraîne dans une situation encore plus dramatique.
-Dans le monde de la dissuasion nucléaire et de la désinformation, ils se retrouvent tous pris au piège d’un engrenage incontrôlable.(n)</desc>
+Dans le monde de la dissuasion nucléaire et de la désinformation, ils se retrouvent tous pris au piège d’un engrenage incontrôlable.</desc>
     <category lang="fr">Film</category>
     <icon src="https://www.telerama.fr/sites/tr_master/files/sheet_media/movie/7_865973.jpg" />
   </programme>
   <programme start="20201205042000 +0100" stop="20201205055900 +0100" channel="Be Ciné">
     <title lang="fr">Les misérables</title>
-    <desc lang="fr">Stéphane, tout juste arrivé de Cherbourg, intègre la Brigade Anti-Criminalité de Montfermeil, dans le 93. Il va faire la rencontre de ses nouveaux coéquipiers, Chris et Gwada, deux "Bacqueux" d’expérience. Il découvre rapidement les tensions entre les différents groupes du quartier. Alors qu’ils se trouvent débordés lors d’une interpellation, un drone filme leurs moindres faits et gestes...(n)</desc>
+    <desc lang="fr">Stéphane, tout juste arrivé de Cherbourg, intègre la Brigade Anti-Criminalité de Montfermeil, dans le 93. Il va faire la rencontre de ses nouveaux coéquipiers, Chris et Gwada, deux "Bacqueux" d’expérience. Il découvre rapidement les tensions entre les différents groupes du quartier. Alors qu’ils se trouvent débordés lors d’une interpellation, un drone filme leurs moindres faits et gestes...</desc>
     <category lang="fr">Film</category>
     <icon src="https://www.telerama.fr/sites/tr_master/files/sheet_media/movie/7_920635.jpg" />
   </programme>
@@ -3673,7 +3718,7 @@ Dans le monde de la dissuasion nucléaire et de la désinformation, ils se retro
   </programme>
   <programme start="20201203092000 +0100" stop="20201203110500 +0100" channel="Be Séries">
     <title lang="fr">Papicha</title>
-    <desc lang="fr">Alger, années 90. Nedjma, 18 ans, étudiante habitant la cité universitaire, rêve de devenir styliste. A la nuit tombée, elle se faufile à travers les mailles du grillage de la Cité avec ses meilleures amies pour rejoindre la boîte de nuit où elle vend ses créations aux " papichas ", jolies jeunes filles algéroises. La situation politique et sociale du pays ne cesse de se dégrader. Refusant cette fatalité, Nedjma décide de se battre pour sa liberté en organisant un défilé de mode, bravant ainsi tous les interdits.(n)</desc>
+    <desc lang="fr">Alger, années 90. Nedjma, 18 ans, étudiante habitant la cité universitaire, rêve de devenir styliste. A la nuit tombée, elle se faufile à travers les mailles du grillage de la Cité avec ses meilleures amies pour rejoindre la boîte de nuit où elle vend ses créations aux " papichas ", jolies jeunes filles algéroises. La situation politique et sociale du pays ne cesse de se dégrader. Refusant cette fatalité, Nedjma décide de se battre pour sa liberté en organisant un défilé de mode, bravant ainsi tous les interdits.</desc>
     <category lang="fr">Film</category>
     <icon src="https://www.telerama.fr/sites/tr_master/files/sheet_media/movie/7_923855.jpg" />
   </programme>
@@ -3687,7 +3732,7 @@ Dans le monde de la dissuasion nucléaire et de la désinformation, ils se retro
   </programme>
   <programme start="20201203125000 +0100" stop="20201203142500 +0100" channel="Be Séries">
     <title lang="fr">Un monde plus grand</title>
-    <desc lang="fr">Au cours d'un reportage en Mongolie, Corine, journaliste, assiste à une cérémonie chamanique dont elle ressort transformée. Il est évident qu'elle possède un don chamanique, qu'elle doit maintenant apprendre à maîtriser.(n)</desc>
+    <desc lang="fr">Au cours d'un reportage en Mongolie, Corine, journaliste, assiste à une cérémonie chamanique dont elle ressort transformée. Il est évident qu'elle possède un don chamanique, qu'elle doit maintenant apprendre à maîtriser.</desc>
     <category lang="fr">Film</category>
     <icon src="https://www.telerama.fr/sites/tr_master/files/sheet_media/movie/7_927366.jpg" />
   </programme>
@@ -3697,18 +3742,18 @@ Dans le monde de la dissuasion nucléaire et de la désinformation, ils se retro
   </programme>
   <programme start="20201203145000 +0100" stop="20201203161500 +0100" channel="Be Séries">
     <title lang="fr">La miséricorde de la jungle</title>
-    <desc lang="fr">Dans la jungle du Kivu au Congo, Sergent Xavier, héros de guerre rwandais, et le jeune et inexpérimenté soldat Faustin sont en territoire ennemi, où ils combattent une guerre floue. Lorsque les deux hommes perdent leur bataillon, ils se retrouvent seuls et sans ressources face à l’inextricable jungle congolaise réputée pour être la plus vaste, la plus dense et la plus hostile du continent. Pris en étau par les combats qui font rage tout autour d’eux et où on ne distingue plus les ennemis des alliés, ils n’ont d’autre choix que de s’enfoncer dans un enfer vert. En quête d’eau, de nourriture, et toujours à la recherche d’une issue, ils sont exposés à une hostilité omniprésente. Seuls, ils devront surtout affronter leurs propres démons.(n)</desc>
+    <desc lang="fr">Dans la jungle du Kivu au Congo, Sergent Xavier, héros de guerre rwandais, et le jeune et inexpérimenté soldat Faustin sont en territoire ennemi, où ils combattent une guerre floue. Lorsque les deux hommes perdent leur bataillon, ils se retrouvent seuls et sans ressources face à l’inextricable jungle congolaise réputée pour être la plus vaste, la plus dense et la plus hostile du continent. Pris en étau par les combats qui font rage tout autour d’eux et où on ne distingue plus les ennemis des alliés, ils n’ont d’autre choix que de s’enfoncer dans un enfer vert. En quête d’eau, de nourriture, et toujours à la recherche d’une issue, ils sont exposés à une hostilité omniprésente. Seuls, ils devront surtout affronter leurs propres démons.</desc>
     <category lang="fr">Film</category>
     <icon src="https://www.telerama.fr/sites/tr_master/files/sheet_media/movie/7_893318.jpg" />
   </programme>
   <programme start="20201203171500 +0100" stop="20201203190000 +0100" channel="Be Séries">
     <title lang="fr">Dirty Cops</title>
-    <desc lang="fr">Pendant son service, une jeune gardienne de la paix assiste, par inadvertance, à l'assassinat d'un dealer par un groupe de flics des stupéfiants corrompus. Ces derniers se lancent alors à la poursuite de la policière afin de récupérer les images filmées par sa caméra embarquée et pour l'éliminer.(n)</desc>
+    <desc lang="fr">Pendant son service, une jeune gardienne de la paix assiste, par inadvertance, à l'assassinat d'un dealer par un groupe de flics des stupéfiants corrompus. Ces derniers se lancent alors à la poursuite de la policière afin de récupérer les images filmées par sa caméra embarquée et pour l'éliminer.</desc>
     <category lang="fr">Film</category>
   </programme>
   <programme start="20201204010000 +0100" stop="20201204023500 +0100" channel="Be Séries">
     <title lang="fr">Adoration</title>
-    <desc lang="fr">Paul, un jeune adolescent solitaire, vit à côté d’un hôpital psychiatrique. Un jour, il fait la connaissance de Gloria, une jeune fille de son âge...(n)</desc>
+    <desc lang="fr">Paul, un jeune adolescent solitaire, vit à côté d’un hôpital psychiatrique. Un jour, il fait la connaissance de Gloria, une jeune fille de son âge...</desc>
     <category lang="fr">Film</category>
     <icon src="https://www.telerama.fr/sites/tr_master/files/sheet_media/movie/7_944073.jpg" />
   </programme>
@@ -3735,7 +3780,7 @@ Dans le monde de la dissuasion nucléaire et de la désinformation, ils se retro
   </programme>
   <programme start="20201204142000 +0100" stop="20201204161000 +0100" channel="Be Séries">
     <title lang="fr">Le rythme de la vengeance</title>
-    <desc lang="fr">Après la disparition de sa famille dans un accident d'avion, une femme, qui aurait du être à bord de l'appareil, s'auto-détruit. Lorqu'elle réalise qu'il ne s'agissait pas d'un accident, elle devient une tueuse à la recherche des responsables.(n)</desc>
+    <desc lang="fr">Après la disparition de sa famille dans un accident d'avion, une femme, qui aurait du être à bord de l'appareil, s'auto-détruit. Lorqu'elle réalise qu'il ne s'agissait pas d'un accident, elle devient une tueuse à la recherche des responsables.</desc>
     <category lang="fr">Film</category>
   </programme>
   <programme start="20201204170500 +0100" stop="20201204183500 +0100" channel="Be Séries">
@@ -3748,7 +3793,7 @@ Dans le monde de la dissuasion nucléaire et de la désinformation, ils se retro
   </programme>
   <programme start="20201205034500 +0100" stop="20201205051500 +0100" channel="Be Séries">
     <title lang="fr">Swallow</title>
-    <desc lang="fr">Hunter, une jeune femme un peu trop renfermée, tombe enceinte. Elle fait tout pour satisfaire mari et beaux-parents un brin envahissants mais n’arrive pas à s’affirmer. Un jour, elle commence à ingérer des objets, et contre toute attente, à ressentir un certain bien-être...(n)</desc>
+    <desc lang="fr">Hunter, une jeune femme un peu trop renfermée, tombe enceinte. Elle fait tout pour satisfaire mari et beaux-parents un brin envahissants mais n’arrive pas à s’affirmer. Un jour, elle commence à ingérer des objets, et contre toute attente, à ressentir un certain bien-être...</desc>
     <category lang="fr">Film</category>
     <icon src="https://www.telerama.fr/sites/tr_master/files/sheet_media/movie/7_943130.jpg" />
   </programme>
@@ -3845,15 +3890,15 @@ Dans le monde de la dissuasion nucléaire et de la désinformation, ils se retro
     <title lang="fr">Montreux Comedy Festival (?)</title>
     <category lang="fr">Humour</category>
   </programme>
-  <programme start="20201203112000 +0100" stop="20201203115700 +0100" channel="La Deux">
+  <programme start="20201203112000 +0100" stop="20201203115800 +0100" channel="La Deux">
     <title lang="fr">N'oubliez pas les paroles</title>
     <category lang="fr">Jeu</category>
   </programme>
-  <programme start="20201203115700 +0100" stop="20201203122400 +0100" channel="La Deux">
+  <programme start="20201203115800 +0100" stop="20201203122400 +0100" channel="La Deux">
     <title lang="fr">N'oubliez pas les paroles</title>
     <category lang="fr">Jeu</category>
   </programme>
-  <programme start="20201203125700 +0100" stop="20201203132600 +0100" channel="La Deux">
+  <programme start="20201203125800 +0100" stop="20201203132700 +0100" channel="La Deux">
     <title lang="fr">Plus belle la vie (?)</title>
     <credits>
       <director>Jean-Pierre Igoux</director>
@@ -3871,7 +3916,7 @@ Dans le monde de la dissuasion nucléaire et de la désinformation, ils se retro
     </credits>
     <category lang="fr">Feuilleton réaliste</category>
   </programme>
-  <programme start="20201203132600 +0100" stop="20201203135700 +0100" channel="La Deux">
+  <programme start="20201203132700 +0100" stop="20201203135800 +0100" channel="La Deux">
     <title lang="fr">Plus belle la vie (?)</title>
     <credits>
       <director>Jean-Pierre Igoux</director>
@@ -3889,7 +3934,7 @@ Dans le monde de la dissuasion nucléaire et de la désinformation, ils se retro
     </credits>
     <category lang="fr">Feuilleton réaliste</category>
   </programme>
-  <programme start="20201203135700 +0100" stop="20201203153100 +0100" channel="La Deux">
+  <programme start="20201203135800 +0100" stop="20201203153300 +0100" channel="La Deux">
     <title lang="fr">La mélodie de Noël (?)</title>
     <credits>
       <director>Harvey Crossland</director>
@@ -3917,7 +3962,7 @@ Dans le monde de la dissuasion nucléaire et de la désinformation, ils se retro
     </credits>
     <category lang="fr">Téléfilm sentimental</category>
   </programme>
-  <programme start="20201203153100 +0100" stop="20201203165700 +0100" channel="La Deux">
+  <programme start="20201203153300 +0100" stop="20201203165800 +0100" channel="La Deux">
     <title lang="fr">Une idylle d'été (?)</title>
     <credits>
       <director>Martin Wood</director>
@@ -3945,27 +3990,31 @@ Dans le monde de la dissuasion nucléaire et de la désinformation, ils se retro
     </credits>
     <category lang="fr">Téléfilm sentimental</category>
   </programme>
-  <programme start="20201203170700 +0100" stop="20201203173900 +0100" channel="La Deux">
+  <programme start="20201203165800 +0100" stop="20201203170700 +0100" channel="La Deux">
+    <title lang="fr">Le zapping au mètre (?)</title>
+    <category lang="fr">Divertissement</category>
+  </programme>
+  <programme start="20201203170700 +0100" stop="20201203174000 +0100" channel="La Deux">
     <title lang="fr">N'oubliez pas les paroles</title>
     <category lang="fr">Jeu</category>
   </programme>
-  <programme start="20201203173900 +0100" stop="20201203181200 +0100" channel="La Deux">
+  <programme start="20201203174000 +0100" stop="20201203181300 +0100" channel="La Deux">
     <title lang="fr">N'oubliez pas les paroles</title>
     <category lang="fr">Jeu</category>
   </programme>
-  <programme start="20201203181200 +0100" stop="20201203182000 +0100" channel="La Deux">
-    <title lang="fr">DECIBELS la quotidienne</title>
+  <programme start="20201203181300 +0100" stop="20201203181900 +0100" channel="La Deux">
+    <title lang="fr">DECIBELS la quotidienne (?)</title>
     <category lang="fr">Magazine musical</category>
   </programme>
-  <programme start="20201203182000 +0100" stop="20201203204300 +0100" channel="La Deux">
+  <programme start="20201203181900 +0100" stop="20201203204100 +0100" channel="La Deux">
     <title lang="fr">Football : Ligue Europa</title>
     <category lang="fr">Football</category>
   </programme>
-  <programme start="20201203204300 +0100" stop="20201203231800 +0100" channel="La Deux">
+  <programme start="20201203204100 +0100" stop="20201203231500 +0100" channel="La Deux">
     <title lang="fr">Football : Ligue Europa</title>
     <category lang="fr">Football</category>
   </programme>
-  <programme start="20201203231800 +0100" stop="20201203232800 +0100" channel="La Deux">
+  <programme start="20201203231500 +0100" stop="20201203232400 +0100" channel="La Deux">
     <title lang="fr">Vews (?)</title>
     <credits>
       <presenter>Eric Boever</presenter>
@@ -3973,11 +4022,11 @@ Dans le monde de la dissuasion nucléaire et de la désinformation, ils se retro
     </credits>
     <category lang="fr">Magazine d'actualité</category>
   </programme>
-  <programme start="20201203232800 +0100" stop="20201203235000 +0100" channel="La Deux">
+  <programme start="20201203232400 +0100" stop="20201203234700 +0100" channel="La Deux">
     <title lang="fr">DECIBELS Le live (?)</title>
     <category lang="fr">Emission musicale</category>
   </programme>
-  <programme start="20201203235000 +0100" stop="20201203235800 +0100" channel="La Deux">
+  <programme start="20201203234700 +0100" stop="20201203235400 +0100" channel="La Deux">
     <title lang="fr">Vews (?)</title>
     <credits>
       <presenter>Eric Boever</presenter>
@@ -3985,55 +4034,75 @@ Dans le monde de la dissuasion nucléaire et de la désinformation, ils se retro
     </credits>
     <category lang="fr">Magazine d'actualité</category>
   </programme>
-  <programme start="20201203235800 +0100" stop="20201204002700 +0100" channel="La Deux">
+  <programme start="20201203235400 +0100" stop="20201204002300 +0100" channel="La Deux">
     <title lang="fr">Le meilleur de l'humour express (?)</title>
     <category lang="fr">Divertissement</category>
   </programme>
-  <programme start="20201204002700 +0100" stop="20201204003400 +0100" channel="La Deux">
-    <title lang="fr">Vews</title>
+  <programme start="20201204002300 +0100" stop="20201204003100 +0100" channel="La Deux">
+    <title lang="fr">Vews (?)</title>
+    <credits>
+      <presenter>Eric Boever</presenter>
+      <presenter>Laurent Henrard</presenter>
+    </credits>
     <category lang="fr">Magazine d'actualité</category>
   </programme>
-  <programme start="20201204003400 +0100" stop="20201204010300 +0100" channel="La Deux">
-    <title lang="fr">Le meilleur de l'humour express</title>
+  <programme start="20201204003100 +0100" stop="20201204005900 +0100" channel="La Deux">
+    <title lang="fr">Le meilleur de l'humour express (?)</title>
     <category lang="fr">Divertissement</category>
   </programme>
-  <programme start="20201204010300 +0100" stop="20201204011100 +0100" channel="La Deux">
-    <title lang="fr">Vews</title>
+  <programme start="20201204005900 +0100" stop="20201204010700 +0100" channel="La Deux">
+    <title lang="fr">Vews (?)</title>
+    <credits>
+      <presenter>Eric Boever</presenter>
+      <presenter>Laurent Henrard</presenter>
+    </credits>
     <category lang="fr">Magazine d'actualité</category>
   </programme>
-  <programme start="20201204011100 +0100" stop="20201204013900 +0100" channel="La Deux">
-    <title lang="fr">Le meilleur de l'humour express</title>
+  <programme start="20201204010700 +0100" stop="20201204013500 +0100" channel="La Deux">
+    <title lang="fr">Le meilleur de l'humour express (?)</title>
     <category lang="fr">Divertissement</category>
   </programme>
-  <programme start="20201204013900 +0100" stop="20201204014700 +0100" channel="La Deux">
-    <title lang="fr">Vews</title>
+  <programme start="20201204013500 +0100" stop="20201204014300 +0100" channel="La Deux">
+    <title lang="fr">Vews (?)</title>
+    <credits>
+      <presenter>Eric Boever</presenter>
+      <presenter>Laurent Henrard</presenter>
+    </credits>
     <category lang="fr">Magazine d'actualité</category>
   </programme>
-  <programme start="20201204014700 +0100" stop="20201204021600 +0100" channel="La Deux">
-    <title lang="fr">Le meilleur de l'humour express</title>
+  <programme start="20201204014300 +0100" stop="20201204021200 +0100" channel="La Deux">
+    <title lang="fr">Le meilleur de l'humour express (?)</title>
     <category lang="fr">Divertissement</category>
   </programme>
-  <programme start="20201204021600 +0100" stop="20201204022300 +0100" channel="La Deux">
-    <title lang="fr">Vews</title>
+  <programme start="20201204021200 +0100" stop="20201204022000 +0100" channel="La Deux">
+    <title lang="fr">Vews (?)</title>
+    <credits>
+      <presenter>Eric Boever</presenter>
+      <presenter>Laurent Henrard</presenter>
+    </credits>
     <category lang="fr">Magazine d'actualité</category>
   </programme>
-  <programme start="20201204022300 +0100" stop="20201204025200 +0100" channel="La Deux">
-    <title lang="fr">Le meilleur de l'humour express</title>
+  <programme start="20201204022000 +0100" stop="20201204024800 +0100" channel="La Deux">
+    <title lang="fr">Le meilleur de l'humour express (?)</title>
     <category lang="fr">Divertissement</category>
   </programme>
-  <programme start="20201204025200 +0100" stop="20201204030000 +0100" channel="La Deux">
-    <title lang="fr">Vews</title>
+  <programme start="20201204024800 +0100" stop="20201204025600 +0100" channel="La Deux">
+    <title lang="fr">Vews (?)</title>
+    <credits>
+      <presenter>Eric Boever</presenter>
+      <presenter>Laurent Henrard</presenter>
+    </credits>
     <category lang="fr">Magazine d'actualité</category>
   </programme>
-  <programme start="20201204030000 +0100" stop="20201204060000 +0100" channel="La Deux">
-    <title lang="fr">Le meilleur de l'humour express</title>
+  <programme start="20201204025600 +0100" stop="20201204060000 +0100" channel="La Deux">
+    <title lang="fr">Le meilleur de l'humour express (?)</title>
     <category lang="fr">Divertissement</category>
   </programme>
-  <programme start="20201204060000 +0100" stop="20201204073700 +0100" channel="La Deux">
+  <programme start="20201204060000 +0100" stop="20201204073100 +0100" channel="La Deux">
     <title lang="fr">Le réveil de Djé (?)</title>
     <category lang="fr">Talk-show</category>
   </programme>
-  <programme start="20201204073700 +0100" stop="20201204080900 +0100" channel="La Deux">
+  <programme start="20201204073100 +0100" stop="20201204080200 +0100" channel="La Deux">
     <title lang="fr">Bouge à la maison (?)</title>
     <credits>
       <presenter>Malik</presenter>
@@ -4042,7 +4111,7 @@ Dans le monde de la dissuasion nucléaire et de la désinformation, ils se retro
     </credits>
     <category lang="fr">Fitness</category>
   </programme>
-  <programme start="20201204080900 +0100" stop="20201204093900 +0100" channel="La Deux">
+  <programme start="20201204080200 +0100" stop="20201204093200 +0100" channel="La Deux">
     <title lang="fr">La mélodie de Noël (?)</title>
     <credits>
       <director>Harvey Crossland</director>
@@ -4070,7 +4139,7 @@ Dans le monde de la dissuasion nucléaire et de la désinformation, ils se retro
     </credits>
     <category lang="fr">Téléfilm sentimental</category>
   </programme>
-  <programme start="20201204093900 +0100" stop="20201204105900 +0100" channel="La Deux">
+  <programme start="20201204093200 +0100" stop="20201204105700 +0100" channel="La Deux">
     <title lang="fr">Une idylle d'été (?)</title>
     <credits>
       <director>Martin Wood</director>
@@ -4098,7 +4167,7 @@ Dans le monde de la dissuasion nucléaire et de la désinformation, ils se retro
     </credits>
     <category lang="fr">Téléfilm sentimental</category>
   </programme>
-  <programme start="20201204105900 +0100" stop="20201204112600 +0100" channel="La Deux">
+  <programme start="20201204105700 +0100" stop="20201204112600 +0100" channel="La Deux">
     <title lang="fr">Une saison au zoo (?)</title>
     <category lang="fr">Animalier</category>
   </programme>
@@ -4106,11 +4175,11 @@ Dans le monde de la dissuasion nucléaire et de la désinformation, ils se retro
     <title lang="fr">N'oubliez pas les paroles</title>
     <category lang="fr">Jeu</category>
   </programme>
-  <programme start="20201204115800 +0100" stop="20201204123300 +0100" channel="La Deux">
+  <programme start="20201204115800 +0100" stop="20201204123100 +0100" channel="La Deux">
     <title lang="fr">N'oubliez pas les paroles</title>
     <category lang="fr">Jeu</category>
   </programme>
-  <programme start="20201204130200 +0100" stop="20201204133000 +0100" channel="La Deux">
+  <programme start="20201204130400 +0100" stop="20201204133200 +0100" channel="La Deux">
     <title lang="fr">Plus belle la vie (?)</title>
     <credits>
       <director>Jean-Pierre Igoux</director>
@@ -4128,7 +4197,7 @@ Dans le monde de la dissuasion nucléaire et de la désinformation, ils se retro
     </credits>
     <category lang="fr">Feuilleton réaliste</category>
   </programme>
-  <programme start="20201204133000 +0100" stop="20201204140000 +0100" channel="La Deux">
+  <programme start="20201204133200 +0100" stop="20201204140200 +0100" channel="La Deux">
     <title lang="fr">Plus belle la vie (?)</title>
     <credits>
       <director>Jean-Pierre Igoux</director>
@@ -4146,11 +4215,11 @@ Dans le monde de la dissuasion nucléaire et de la désinformation, ils se retro
     </credits>
     <category lang="fr">Feuilleton réaliste</category>
   </programme>
-  <programme start="20201204140000 +0100" stop="20201204153300 +0100" channel="La Deux">
+  <programme start="20201204140200 +0100" stop="20201204153400 +0100" channel="La Deux">
     <title lang="fr">Coup de foudre au bal de Noël</title>
     <category lang="fr">Film</category>
   </programme>
-  <programme start="20201204153300 +0100" stop="20201204172200 +0100" channel="La Deux">
+  <programme start="20201204153400 +0100" stop="20201204170500 +0100" channel="La Deux">
     <title lang="fr">Amoureux malgré eux ! (?)</title>
     <credits>
       <director>Mel Damski</director>
@@ -4178,25 +4247,29 @@ Dans le monde de la dissuasion nucléaire et de la désinformation, ils se retro
     </credits>
     <category lang="fr">Téléfilm sentimental</category>
   </programme>
-  <programme start="20201204172200 +0100" stop="20201204181700 +0100" channel="La Deux">
+  <programme start="20201204170500 +0100" stop="20201204171500 +0100" channel="La Deux">
+    <title lang="fr">Le zapping au mètre (?)</title>
+    <category lang="fr">Divertissement</category>
+  </programme>
+  <programme start="20201204171500 +0100" stop="20201204181300 +0100" channel="La Deux">
     <title lang="fr">Les gardiens de l'Antarctique (?)</title>
     <credits>
       <director>Xavier Ziomek</director>
     </credits>
     <category lang="fr">Environnement</category>
   </programme>
-  <programme start="20201204191000 +0100" stop="20201204191400 +0100" channel="La Deux">
+  <programme start="20201204190600 +0100" stop="20201204191100 +0100" channel="La Deux">
     <title lang="fr">DECIBELS la quotidienne (?)</title>
     <category lang="fr">Magazine musical</category>
   </programme>
-  <programme start="20201204200400 +0100" stop="20201204203500 +0100" channel="La Deux">
+  <programme start="20201204200200 +0100" stop="20201204203500 +0100" channel="La Deux">
     <title lang="fr">Taste Hunters (?)</title>
     <credits>
       <director>Frédéric Planchenault</director>
     </credits>
     <category lang="fr">Découvertes</category>
   </programme>
-  <programme start="20201204203500 +0100" stop="20201204214500 +0100" channel="La Deux">
+  <programme start="20201204203500 +0100" stop="20201204213600 +0100" channel="La Deux">
     <title lang="fr">Indices (?)</title>
     <credits>
       <director>Cécilia Catalano</director>
@@ -4205,16 +4278,16 @@ Dans le monde de la dissuasion nucléaire et de la désinformation, ils se retro
     </credits>
     <category lang="fr">Justice</category>
   </programme>
-  <programme start="20201204214500 +0100" stop="20201204224600 +0100" channel="La Deux">
+  <programme start="20201204213600 +0100" stop="20201204223900 +0100" channel="La Deux">
     <title lang="fr">Passage à l'acte ! (?)</title>
     <credits>
       <director>Cyril Denvers</director>
+      <director>Cédric Lepettre</director>
       <director>Cédric Leprettre</director>
-      <director>Florence Kieffer</director>
     </credits>
     <category lang="fr">Justice</category>
   </programme>
-  <programme start="20201204224600 +0100" stop="20201204225500 +0100" channel="La Deux">
+  <programme start="20201204223900 +0100" stop="20201204224900 +0100" channel="La Deux">
     <title lang="fr">Vews (?)</title>
     <credits>
       <presenter>Eric Boever</presenter>
@@ -4222,18 +4295,65 @@ Dans le monde de la dissuasion nucléaire et de la désinformation, ils se retro
     </credits>
     <category lang="fr">Magazine d'actualité</category>
   </programme>
-  <programme start="20201204234400 +0100" stop="20201205014600 +0100" channel="La Deux">
+  <programme start="20201204224900 +0100" stop="20201204234500 +0100" channel="La Deux">
+    <title lang="fr">Le doc du bourlingueur (?)</title>
+    <credits>
+      <presenter>Philippe Lambillon</presenter>
+    </credits>
+    <category lang="fr">Magazine de reportages</category>
+  </programme>
+  <programme start="20201204234500 +0100" stop="20201205014900 +0100" channel="La Deux">
     <title lang="fr">Dracula</title>
-    <desc lang="fr">En Transylvanie, en 1462, Vlad Dracul s'en va combattre les Turcs, laissant derrière lui la belle Elisabeta. La fausse nouvelle de la mort de son amant pousse la jeune femme au suicide. Désespéré, le veuf implore les puissances des ténèbres. Quatre siècles plus tard, un jeune clerc de notaire, Jonathan Harker, se rend dans le château du comte Dracula. Son hôte est immédiatement fasciné par un médaillon représentant sa fiancée, Mina, qui ressemble trait pour trait à Elisabeta. Le comte n'hésite pas. Il abandonne Jonathan à ses trois maîtresses vampires et embarque pour l'Angleterre, à la recherche de son amour perdu. Rajeuni, fringant, il entreprend de séduire Mina, mais ne peut pas s'empêcher de s'attaquer à la meilleure amie de celle-ci, Lucy...(n)</desc>
+    <desc lang="fr">En Transylvanie, en 1462, Vlad Dracul s'en va combattre les Turcs, laissant derrière lui la belle Elisabeta. La fausse nouvelle de la mort de son amant pousse la jeune femme au suicide. Désespéré, le veuf implore les puissances des ténèbres. Quatre siècles plus tard, un jeune clerc de notaire, Jonathan Harker, se rend dans le château du comte Dracula. Son hôte est immédiatement fasciné par un médaillon représentant sa fiancée, Mina, qui ressemble trait pour trait à Elisabeta. Le comte n'hésite pas. Il abandonne Jonathan à ses trois maîtresses vampires et embarque pour l'Angleterre, à la recherche de son amour perdu. Rajeuni, fringant, il entreprend de séduire Mina, mais ne peut pas s'empêcher de s'attaquer à la meilleure amie de celle-ci, Lucy...(c)</desc>
     <category lang="fr">Film</category>
     <icon src="https://www.telerama.fr/sites/tr_master/files/d95a02ed-6e76-49d6-b0ab-c64db65109c2_2.jpg" />
   </programme>
-  <programme start="20201205014600 +0100" stop="20201205015300 +0100" channel="La Deux">
+  <programme start="20201205014900 +0100" stop="20201205015700 +0100" channel="La Deux">
     <title lang="fr">Vews (?)</title>
     <credits>
       <presenter>Eric Boever</presenter>
       <presenter>Laurent Henrard</presenter>
     </credits>
+    <category lang="fr">Magazine d'actualité</category>
+  </programme>
+  <programme start="20201205015700 +0100" stop="20201205022400 +0100" channel="La Deux">
+    <title lang="fr">Le meilleur de l'humour express (?)</title>
+    <category lang="fr">Divertissement</category>
+  </programme>
+  <programme start="20201205022400 +0100" stop="20201205023200 +0100" channel="La Deux">
+    <title lang="fr">Vews</title>
+    <category lang="fr">Magazine d'actualité</category>
+  </programme>
+  <programme start="20201205023200 +0100" stop="20201205025800 +0100" channel="La Deux">
+    <title lang="fr">Le meilleur de l'humour express</title>
+    <category lang="fr">Divertissement</category>
+  </programme>
+  <programme start="20201205025800 +0100" stop="20201205030600 +0100" channel="La Deux">
+    <title lang="fr">Vews</title>
+    <category lang="fr">Magazine d'actualité</category>
+  </programme>
+  <programme start="20201205030600 +0100" stop="20201205033300 +0100" channel="La Deux">
+    <title lang="fr">Le meilleur de l'humour express</title>
+    <category lang="fr">Divertissement</category>
+  </programme>
+  <programme start="20201205033300 +0100" stop="20201205034100 +0100" channel="La Deux">
+    <title lang="fr">Vews</title>
+    <category lang="fr">Magazine d'actualité</category>
+  </programme>
+  <programme start="20201205034100 +0100" stop="20201205040800 +0100" channel="La Deux">
+    <title lang="fr">Le meilleur de l'humour express</title>
+    <category lang="fr">Divertissement</category>
+  </programme>
+  <programme start="20201205040800 +0100" stop="20201205041600 +0100" channel="La Deux">
+    <title lang="fr">Vews</title>
+    <category lang="fr">Magazine d'actualité</category>
+  </programme>
+  <programme start="20201205041600 +0100" stop="20201205044300 +0100" channel="La Deux">
+    <title lang="fr">Le meilleur de l'humour express</title>
+    <category lang="fr">Divertissement</category>
+  </programme>
+  <programme start="20201205044300 +0100" stop="20201205045100 +0100" channel="La Deux">
+    <title lang="fr">Vews</title>
     <category lang="fr">Magazine d'actualité</category>
   </programme>
   <programme start="20201203000500 +0100" stop="20201203003400 +0100" channel="La Trois">
@@ -4429,7 +4549,7 @@ Dans le monde de la dissuasion nucléaire et de la désinformation, ils se retro
       <director>Janice Karman</director>
       <director>Frédéric Vilquin</director>
       <writer>Janice Karman</writer>
-      <writer>Peter H. Saisselin</writer>
+      <writer>Peter Saisselin</writer>
       <writer>Michael Bagdasarian</writer>
     </credits>
     <category lang="fr">Dessin animé</category>
@@ -4440,7 +4560,7 @@ Dans le monde de la dissuasion nucléaire et de la désinformation, ils se retro
       <director>Janice Karman</director>
       <director>Frédéric Vilquin</director>
       <writer>Janice Karman</writer>
-      <writer>Peter H. Saisselin</writer>
+      <writer>Peter Saisselin</writer>
       <writer>Michael Bagdasarian</writer>
     </credits>
     <category lang="fr">Dessin animé</category>
@@ -4579,13 +4699,13 @@ Dans le monde de la dissuasion nucléaire et de la désinformation, ils se retro
   </programme>
   <programme start="20201203210600 +0100" stop="20201203223800 +0100" channel="La Trois">
     <title lang="fr">Une part d'ombre</title>
-    <desc lang="fr">David est un jeune père de famille comblé : une femme qu'il aime, deux jeunes enfants adorables, une bande de potes soudée avec laquelle ils partent en vacances en tribu. Mais au retour de leur dernier séjour dans les Vosges, David est interrogé par la police dans le cadre d’un meurtre. Rapidement, l’enquête établit que David, sous des dehors irréprochables, n'avait pas une vie aussi lisse que ce qu'il prétendait. Même si Noël, son meilleur ami et Marco, son avocat, le soutiennent sans conditions, le doute se propage et des clans se forment.(n)</desc>
+    <desc lang="fr">David est un jeune père de famille comblé : une femme qu'il aime, deux jeunes enfants adorables, une bande de potes soudée avec laquelle ils partent en vacances en tribu. Mais au retour de leur dernier séjour dans les Vosges, David est interrogé par la police dans le cadre d’un meurtre. Rapidement, l’enquête établit que David, sous des dehors irréprochables, n'avait pas une vie aussi lisse que ce qu'il prétendait. Même si Noël, son meilleur ami et Marco, son avocat, le soutiennent sans conditions, le doute se propage et des clans se forment.</desc>
     <category lang="fr">Film</category>
     <icon src="https://www.telerama.fr/sites/tr_master/files/sheet_media/movie/7_811613.jpg" />
   </programme>
   <programme start="20201203223800 +0100" stop="20201204000800 +0100" channel="La Trois">
     <title lang="fr">Les Ardennes</title>
-    <desc lang="fr">Le cambriolage que deux frères ont organisé tourne très mal. Dave, l'un des deux voleurs, réussit tout de même à s'enfuir. Mais il laisse derrière lui son frère Kenneth, qui se fait arrêter par la police avant d'être emprisonné pour meurtre. Ce dernier est finalement libéré quatre ans plus tard, endurci et traumatisé. Si Dave a refait sa vie et s'est rangé, Kenneth est en colère et cherche à se venger de ceux qui l'ont abandonné. Il désire également reconquérir son ex-petite amie Sylvie, mais s'aperçoit qu'elle a entamé une relation amoureuse avec Dave...(n)</desc>
+    <desc lang="fr">Le cambriolage que deux frères ont organisé tourne très mal. Dave, l'un des deux voleurs, réussit tout de même à s'enfuir. Mais il laisse derrière lui son frère Kenneth, qui se fait arrêter par la police avant d'être emprisonné pour meurtre. Ce dernier est finalement libéré quatre ans plus tard, endurci et traumatisé. Si Dave a refait sa vie et s'est rangé, Kenneth est en colère et cherche à se venger de ceux qui l'ont abandonné. Il désire également reconquérir son ex-petite amie Sylvie, mais s'aperçoit qu'elle a entamé une relation amoureuse avec Dave...</desc>
     <category lang="fr">Film</category>
     <icon src="https://www.telerama.fr/sites/tr_master/files/f64bce25-2091-45d6-9604-7f1284e4ed32_2.jpg" />
   </programme>
@@ -4609,9 +4729,21 @@ Dans le monde de la dissuasion nucléaire et de la désinformation, ils se retro
     </credits>
     <category lang="fr">Débat</category>
   </programme>
-  <programme start="20201204014500 +0100" stop="20201204060000 +0100" channel="La Trois">
+  <programme start="20201204014500 +0100" stop="20201204030600 +0100" channel="La Trois">
     <title lang="fr">Boucle de la nuit</title>
     <category lang="fr">Programme indéterminé</category>
+  </programme>
+  <programme start="20201204030600 +0100" stop="20201204030800 +0100" channel="La Trois">
+    <title lang="fr">Météo internationale</title>
+    <category lang="fr">Météo</category>
+  </programme>
+  <programme start="20201204030800 +0100" stop="20201204060000 +0100" channel="La Trois">
+    <title lang="fr">CQFD (Ce qui fait débat) (?)</title>
+    <credits>
+      <presenter>Arnaud Ruyssen</presenter>
+      <presenter>Catherine Tonero</presenter>
+    </credits>
+    <category lang="fr">Débat</category>
   </programme>
   <programme start="20201204062400 +0100" stop="20201204063200 +0100" channel="La Trois">
     <title lang="fr">Paf le chien (?)</title>
@@ -4646,7 +4778,7 @@ Dans le monde de la dissuasion nucléaire et de la désinformation, ils se retro
     </credits>
     <category lang="fr">Dessin animé</category>
   </programme>
-  <programme start="20201204070000 +0100" stop="20201204071400 +0100" channel="La Trois">
+  <programme start="20201204070000 +0100" stop="20201204071200 +0100" channel="La Trois">
     <title lang="fr">C'est dans la boîte (?)</title>
     <credits>
       <presenter>Aurélie Martinez</presenter>
@@ -4675,7 +4807,7 @@ Dans le monde de la dissuasion nucléaire et de la désinformation, ils se retro
     </credits>
     <category lang="fr">Dessin animé</category>
   </programme>
-  <programme start="20201204121600 +0100" stop="20201204122300 +0100" channel="La Trois">
+  <programme start="20201204121500 +0100" stop="20201204122300 +0100" channel="La Trois">
     <title lang="fr">Paf le chien (?)</title>
     <credits>
       <director>Charles Vaucelle</director>
@@ -4730,21 +4862,21 @@ Dans le monde de la dissuasion nucléaire et de la désinformation, ils se retro
     </credits>
     <category lang="fr">Dessin animé</category>
   </programme>
-  <programme start="20201204133600 +0100" stop="20201204134600 +0100" channel="La Trois">
+  <programme start="20201204133600 +0100" stop="20201204134700 +0100" channel="La Trois">
     <title lang="fr">L'oreille des Kids (?)</title>
     <credits>
       <presenter>Christian Baumann</presenter>
     </credits>
     <category lang="fr">Magazine jeunesse</category>
   </programme>
-  <programme start="20201204134600 +0100" stop="20201204135700 +0100" channel="La Trois">
+  <programme start="20201204134700 +0100" stop="20201204135700 +0100" channel="La Trois">
     <title lang="fr">L'oreille des Kids (?)</title>
     <credits>
       <presenter>Christian Baumann</presenter>
     </credits>
     <category lang="fr">Magazine jeunesse</category>
   </programme>
-  <programme start="20201204153400 +0100" stop="20201204154500 +0100" channel="La Trois">
+  <programme start="20201204153300 +0100" stop="20201204154500 +0100" channel="La Trois">
     <title lang="fr">Alvinnn !!! et les Chipmunks (?)</title>
     <credits>
       <director>Janice Karman</director>
@@ -4761,7 +4893,7 @@ Dans le monde de la dissuasion nucléaire et de la désinformation, ils se retro
       <director>Janice Karman</director>
       <director>Frédéric Vilquin</director>
       <writer>Janice Karman</writer>
-      <writer>Peter H. Saisselin</writer>
+      <writer>Peter Saisselin</writer>
       <writer>Michael Bagdasarian</writer>
     </credits>
     <category lang="fr">Dessin animé</category>
@@ -4869,7 +5001,7 @@ Dans le monde de la dissuasion nucléaire et de la désinformation, ils se retro
     </credits>
     <category lang="fr">Magazine jeunesse</category>
   </programme>
-  <programme start="20201204194900 +0100" stop="20201204195700 +0100" channel="La Trois">
+  <programme start="20201204194900 +0100" stop="20201204195800 +0100" channel="La Trois">
     <title lang="fr">Les Niouzz traduction gestuelle (?)</title>
     <credits>
       <presenter>David Wathelet</presenter>
@@ -4878,7 +5010,7 @@ Dans le monde de la dissuasion nucléaire et de la désinformation, ils se retro
     </credits>
     <category lang="fr">Emission jeunesse</category>
   </programme>
-  <programme start="20201204195700 +0100" stop="20201204200000 +0100" channel="La Trois">
+  <programme start="20201204195800 +0100" stop="20201204200000 +0100" channel="La Trois">
     <title lang="fr">Le calendrier de l'Avent Covid (?)</title>
     <category lang="fr">Magazine de services</category>
   </programme>
@@ -4890,7 +5022,7 @@ Dans le monde de la dissuasion nucléaire et de la désinformation, ils se retro
     <title lang="fr">Météo internationale</title>
     <category lang="fr">Météo</category>
   </programme>
-  <programme start="20201204203900 +0100" stop="20201204210500 +0100" channel="La Trois">
+  <programme start="20201204203900 +0100" stop="20201204210600 +0100" channel="La Trois">
     <title lang="fr">CQFD (Ce qui fait débat) (?)</title>
     <credits>
       <presenter>Arnaud Ruyssen</presenter>
@@ -4898,7 +5030,7 @@ Dans le monde de la dissuasion nucléaire et de la désinformation, ils se retro
     </credits>
     <category lang="fr">Débat</category>
   </programme>
-  <programme start="20201204210500 +0100" stop="20201204220500 +0100" channel="La Trois">
+  <programme start="20201204210600 +0100" stop="20201204220600 +0100" channel="La Trois">
     <title lang="fr">C'est archivé près de chez vous (?)</title>
     <credits>
       <presenter>Alain Perpète</presenter>
@@ -4907,7 +5039,7 @@ Dans le monde de la dissuasion nucléaire et de la désinformation, ils se retro
     </credits>
     <category lang="fr">Divertissement</category>
   </programme>
-  <programme start="20201204220500 +0100" stop="20201204223600 +0100" channel="La Trois">
+  <programme start="20201204220600 +0100" stop="20201204223700 +0100" channel="La Trois">
     <title lang="fr">Strip-tease (?)</title>
     <credits>
       <presenter>Jean Libon</presenter>
@@ -4915,7 +5047,7 @@ Dans le monde de la dissuasion nucléaire et de la désinformation, ils se retro
     </credits>
     <category lang="fr">Magazine de société</category>
   </programme>
-  <programme start="20201204223600 +0100" stop="20201204231200 +0100" channel="La Trois">
+  <programme start="20201204223700 +0100" stop="20201204231200 +0100" channel="La Trois">
     <title lang="fr">Sous couverture (?)</title>
     <credits>
       <presenter>Anne-Sophie Delcour</presenter>
@@ -4923,32 +5055,32 @@ Dans le monde de la dissuasion nucléaire et de la désinformation, ils se retro
     </credits>
     <category lang="fr">Magazine littéraire</category>
   </programme>
-  <programme start="20201204231200 +0100" stop="20201204231900 +0100" channel="La Trois">
+  <programme start="20201204231200 +0100" stop="20201204231800 +0100" channel="La Trois">
     <title lang="fr">Je sais pas vous (?)</title>
     <credits>
       <presenter>Patrick Leterme</presenter>
     </credits>
     <category lang="fr">Magazine musical</category>
   </programme>
-  <programme start="20201204231900 +0100" stop="20201205003400 +0100" channel="La Trois">
+  <programme start="20201204231800 +0100" stop="20201205003300 +0100" channel="La Trois">
     <title lang="fr">Symphonies n°5 et n° 7 de Beethoven au Château de Versailles (?)</title>
     <category lang="fr">Classique</category>
   </programme>
-  <programme start="20201205003400 +0100" stop="20201205003600 +0100" channel="La Trois">
+  <programme start="20201205003300 +0100" stop="20201205003500 +0100" channel="La Trois">
     <title lang="fr">Je sais pas vous (?)</title>
     <credits>
       <presenter>Patrick Leterme</presenter>
     </credits>
     <category lang="fr">Magazine musical</category>
   </programme>
-  <programme start="20201205003600 +0100" stop="20201205004000 +0100" channel="La Trois">
+  <programme start="20201205003500 +0100" stop="20201205003900 +0100" channel="La Trois">
     <title lang="fr">Je sais pas vous (?)</title>
     <credits>
       <presenter>Patrick Leterme</presenter>
     </credits>
     <category lang="fr">Magazine musical</category>
   </programme>
-  <programme start="20201205004000 +0100" stop="20201205004700 +0100" channel="La Trois">
+  <programme start="20201205003900 +0100" stop="20201205004600 +0100" channel="La Trois">
     <title lang="fr">KIOSK (?)</title>
     <credits>
       <presenter>Cindya Izzarelli</presenter>
@@ -4956,7 +5088,7 @@ Dans le monde de la dissuasion nucléaire et de la désinformation, ils se retro
     </credits>
     <category lang="fr">Magazine culturel</category>
   </programme>
-  <programme start="20201205004700 +0100" stop="20201205011400 +0100" channel="La Trois">
+  <programme start="20201205004600 +0100" stop="20201205011300 +0100" channel="La Trois">
     <title lang="fr">Plan Cult (?)</title>
     <credits>
       <presenter>Fanny Gillard</presenter>
@@ -4964,15 +5096,15 @@ Dans le monde de la dissuasion nucléaire et de la désinformation, ils se retro
     </credits>
     <category lang="fr">Magazine culturel</category>
   </programme>
-  <programme start="20201205011400 +0100" stop="20201205014900 +0100" channel="La Trois">
+  <programme start="20201205011300 +0100" stop="20201205014800 +0100" channel="La Trois">
     <title lang="fr">JT 19h30</title>
     <category lang="fr">Journal</category>
   </programme>
-  <programme start="20201205014900 +0100" stop="20201205015300 +0100" channel="La Trois">
+  <programme start="20201205014800 +0100" stop="20201205015100 +0100" channel="La Trois">
     <title lang="fr">Météo internationale</title>
     <category lang="fr">Météo</category>
   </programme>
-  <programme start="20201205015300 +0100" stop="20201205022000 +0100" channel="La Trois">
+  <programme start="20201205015100 +0100" stop="20201205021900 +0100" channel="La Trois">
     <title lang="fr">CQFD (Ce qui fait débat) (?)</title>
     <credits>
       <presenter>Arnaud Ruyssen</presenter>
@@ -4980,7 +5112,7 @@ Dans le monde de la dissuasion nucléaire et de la désinformation, ils se retro
     </credits>
     <category lang="fr">Débat</category>
   </programme>
-  <programme start="20201205022500 +0100" stop="20201205055900 +0100" channel="La Trois">
+  <programme start="20201205022500 +0100" stop="20201205055700 +0100" channel="La Trois">
     <title lang="fr">Boucle de la nuit</title>
     <category lang="fr">Programme indéterminé</category>
   </programme>
@@ -4993,14 +5125,14 @@ Dans le monde de la dissuasion nucléaire et de la désinformation, ils se retro
     </credits>
     <category lang="fr">Magazine de services</category>
   </programme>
-  <programme start="20201203090000 +0100" stop="20201203102500 +0100" channel="La Une">
+  <programme start="20201203090000 +0100" stop="20201203103200 +0100" channel="La Une">
     <title lang="fr">C'est vous qui le dites (?)</title>
     <credits>
       <presenter>Benjamin Maréchal</presenter>
     </credits>
     <category lang="fr">Magazine d'actualité</category>
   </programme>
-  <programme start="20201203102500 +0100" stop="20201203112000 +0100" channel="La Une">
+  <programme start="20201203103200 +0100" stop="20201203111800 +0100" channel="La Une">
     <title lang="fr">On n'est pas des pigeons (?)</title>
     <credits>
       <presenter>Benjamin Maréchal</presenter>
@@ -5009,7 +5141,7 @@ Dans le monde de la dissuasion nucléaire et de la désinformation, ils se retro
     </credits>
     <category lang="fr">Magazine du consommateur</category>
   </programme>
-  <programme start="20201203115900 +0100" stop="20201203124300 +0100" channel="La Une">
+  <programme start="20201203115900 +0100" stop="20201203124200 +0100" channel="La Une">
     <title lang="fr">Les feux de l'amour (?)</title>
     <credits>
       <actor>Michelle Stafford</actor>
@@ -5022,45 +5154,45 @@ Dans le monde de la dissuasion nucléaire et de la désinformation, ils se retro
     </credits>
     <category lang="fr">Feuilleton sentimental</category>
   </programme>
-  <programme start="20201203124300 +0100" stop="20201203125300 +0100" channel="La Une">
+  <programme start="20201203124200 +0100" stop="20201203125100 +0100" channel="La Une">
     <title lang="fr">Quel temps !</title>
     <category lang="fr">Météo</category>
   </programme>
-  <programme start="20201203125300 +0100" stop="20201203125800 +0100" channel="La Une">
+  <programme start="20201203125100 +0100" stop="20201203125800 +0100" channel="La Une">
     <title lang="fr">Météo</title>
     <category lang="fr">Météo</category>
   </programme>
-  <programme start="20201203125800 +0100" stop="20201203132800 +0100" channel="La Une">
+  <programme start="20201203125800 +0100" stop="20201203133100 +0100" channel="La Une">
     <title lang="fr">JT 13h</title>
     <category lang="fr">Journal</category>
   </programme>
-  <programme start="20201203132800 +0100" stop="20201203133400 +0100" channel="La Une">
+  <programme start="20201203133100 +0100" stop="20201203133900 +0100" channel="La Une">
     <title lang="fr">Alors on sort ? (?)</title>
     <category lang="fr">Magazine culturel</category>
   </programme>
-  <programme start="20201203133400 +0100" stop="20201203133800 +0100" channel="La Une">
+  <programme start="20201203133900 +0100" stop="20201203134600 +0100" channel="La Une">
     <title lang="fr">Météo</title>
     <category lang="fr">Météo</category>
   </programme>
-  <programme start="20201203133800 +0100" stop="20201203142400 +0100" channel="La Une">
+  <programme start="20201203134600 +0100" stop="20201203143300 +0100" channel="La Une">
     <title lang="fr">Affaire conclue (?)</title>
     <credits>
       <presenter>Sophie Davant</presenter>
     </credits>
     <category lang="fr">Magazine de l'art de vivre</category>
   </programme>
-  <programme start="20201203142400 +0100" stop="20201203151100 +0100" channel="La Une">
+  <programme start="20201203143300 +0100" stop="20201203152300 +0100" channel="La Une">
     <title lang="fr">Affaire conclue (?)</title>
     <credits>
       <presenter>Sophie Davant</presenter>
     </credits>
     <category lang="fr">Magazine de l'art de vivre</category>
   </programme>
-  <programme start="20201203182600 +0100" stop="20201203183000 +0100" channel="La Une">
+  <programme start="20201203182900 +0100" stop="20201203183000 +0100" channel="La Une">
     <title lang="fr">Qu'est-ce qu'on mange ce soir ? (?)</title>
     <category lang="fr">Magazine culinaire</category>
   </programme>
-  <programme start="20201203183000 +0100" stop="20201203191700 +0100" channel="La Une">
+  <programme start="20201203183000 +0100" stop="20201203191500 +0100" channel="La Une">
     <title lang="fr">On n'est pas des pigeons (?)</title>
     <credits>
       <presenter>Benjamin Maréchal</presenter>
@@ -5069,11 +5201,11 @@ Dans le monde de la dissuasion nucléaire et de la désinformation, ils se retro
     </credits>
     <category lang="fr">Magazine du consommateur</category>
   </programme>
-  <programme start="20201203191700 +0100" stop="20201203192100 +0100" channel="La Une">
+  <programme start="20201203191500 +0100" stop="20201203191900 +0100" channel="La Une">
     <title lang="fr">Alors on sort ? (?)</title>
     <category lang="fr">Magazine culturel</category>
   </programme>
-  <programme start="20201203192100 +0100" stop="20201203192400 +0100" channel="La Une">
+  <programme start="20201203191900 +0100" stop="20201203192200 +0100" channel="La Une">
     <title lang="fr">Météo</title>
     <category lang="fr">Météo</category>
   </programme>
@@ -5081,19 +5213,19 @@ Dans le monde de la dissuasion nucléaire et de la désinformation, ils se retro
     <title lang="fr">JT 19h30</title>
     <category lang="fr">Journal</category>
   </programme>
-  <programme start="20201203200500 +0100" stop="20201203202600 +0100" channel="La Une">
+  <programme start="20201203200500 +0100" stop="20201203202400 +0100" channel="La Une">
     <title lang="fr">Jeudi en prime (?)</title>
     <category lang="fr">Emission politique</category>
   </programme>
-  <programme start="20201203202600 +0100" stop="20201203203100 +0100" channel="La Une">
+  <programme start="20201203202400 +0100" stop="20201203203000 +0100" channel="La Une">
     <title lang="fr">Agoria : Merci d'y avoir pensé (?)</title>
     <category lang="fr">Magazine scientifique</category>
   </programme>
-  <programme start="20201203203100 +0100" stop="20201203203700 +0100" channel="La Une">
+  <programme start="20201203203000 +0100" stop="20201203203600 +0100" channel="La Une">
     <title lang="fr">Météo</title>
     <category lang="fr">Météo</category>
   </programme>
-  <programme start="20201203203700 +0100" stop="20201203214000 +0100" channel="La Une">
+  <programme start="20201203203600 +0100" stop="20201203213900 +0100" channel="La Une">
     <title lang="fr">Doc Shot (?)</title>
     <credits>
       <presenter>Francois Mazure</presenter>
@@ -5101,7 +5233,7 @@ Dans le monde de la dissuasion nucléaire et de la désinformation, ils se retro
     </credits>
     <category lang="fr">Magazine de société</category>
   </programme>
-  <programme start="20201203214000 +0100" stop="20201203223100 +0100" channel="La Une">
+  <programme start="20201203213900 +0100" stop="20201203223000 +0100" channel="La Une">
     <title lang="fr">Doc Shot (?)</title>
     <credits>
       <presenter>Francois Mazure</presenter>
@@ -5109,7 +5241,7 @@ Dans le monde de la dissuasion nucléaire et de la désinformation, ils se retro
     </credits>
     <category lang="fr">Magazine de société</category>
   </programme>
-  <programme start="20201203223100 +0100" stop="20201203232700 +0100" channel="La Une">
+  <programme start="20201203223000 +0100" stop="20201203232700 +0100" channel="La Une">
     <title lang="fr">Doc Shot (?)</title>
     <credits>
       <presenter>Francois Mazure</presenter>
@@ -5117,11 +5249,11 @@ Dans le monde de la dissuasion nucléaire et de la désinformation, ils se retro
     </credits>
     <category lang="fr">Magazine de société</category>
   </programme>
-  <programme start="20201203232700 +0100" stop="20201203233400 +0100" channel="La Une">
+  <programme start="20201203232700 +0100" stop="20201203233800 +0100" channel="La Une">
     <title lang="fr">L'agenda ciné (?)</title>
     <category lang="fr">Magazine du cinéma</category>
   </programme>
-  <programme start="20201203233400 +0100" stop="20201204001900 +0100" channel="La Une">
+  <programme start="20201203233800 +0100" stop="20201204002400 +0100" channel="La Une">
     <title lang="fr">On n'est pas des pigeons (?)</title>
     <credits>
       <presenter>Benjamin Maréchal</presenter>
@@ -5130,23 +5262,23 @@ Dans le monde de la dissuasion nucléaire et de la désinformation, ils se retro
     </credits>
     <category lang="fr">Magazine du consommateur</category>
   </programme>
-  <programme start="20201204001900 +0100" stop="20201204002900 +0100" channel="La Une">
+  <programme start="20201204002400 +0100" stop="20201204003400 +0100" channel="La Une">
     <title lang="fr">Quel temps !</title>
     <category lang="fr">Météo</category>
   </programme>
-  <programme start="20201204002900 +0100" stop="20201204003300 +0100" channel="La Une">
+  <programme start="20201204003400 +0100" stop="20201204003800 +0100" channel="La Une">
     <title lang="fr">Météo</title>
     <category lang="fr">Météo</category>
   </programme>
-  <programme start="20201204003300 +0100" stop="20201204010900 +0100" channel="La Une">
+  <programme start="20201204003800 +0100" stop="20201204011300 +0100" channel="La Une">
     <title lang="fr">JT 19h30</title>
     <category lang="fr">Journal</category>
   </programme>
-  <programme start="20201204010900 +0100" stop="20201204012500 +0100" channel="La Une">
+  <programme start="20201204011300 +0100" stop="20201204012900 +0100" channel="La Une">
     <title lang="fr">Jeudi en prime (?)</title>
     <category lang="fr">Emission politique</category>
   </programme>
-  <programme start="20201204012500 +0100" stop="20201204020800 +0100" channel="La Une">
+  <programme start="20201204012900 +0100" stop="20201204021200 +0100" channel="La Une">
     <title lang="fr">On n'est pas des pigeons (?)</title>
     <credits>
       <presenter>Benjamin Maréchal</presenter>
@@ -5155,17 +5287,59 @@ Dans le monde de la dissuasion nucléaire et de la désinformation, ils se retro
     </credits>
     <category lang="fr">Magazine du consommateur</category>
   </programme>
-  <programme start="20201204020800 +0100" stop="20201204021800 +0100" channel="La Une">
+  <programme start="20201204021200 +0100" stop="20201204022200 +0100" channel="La Une">
     <title lang="fr">Quel temps !</title>
     <category lang="fr">Météo</category>
   </programme>
-  <programme start="20201204021800 +0100" stop="20201204022100 +0100" channel="La Une">
+  <programme start="20201204022200 +0100" stop="20201204022500 +0100" channel="La Une">
     <title lang="fr">Météo</title>
     <category lang="fr">Météo</category>
   </programme>
-  <programme start="20201204022100 +0100" stop="20201204055900 +0100" channel="La Une">
+  <programme start="20201204022500 +0100" stop="20201204030000 +0100" channel="La Une">
     <title lang="fr">JT 19h30</title>
     <category lang="fr">Journal</category>
+  </programme>
+  <programme start="20201204030000 +0100" stop="20201204031600 +0100" channel="La Une">
+    <title lang="fr">Jeudi en prime (?)</title>
+    <category lang="fr">Emission politique</category>
+  </programme>
+  <programme start="20201204031600 +0100" stop="20201204040000 +0100" channel="La Une">
+    <title lang="fr">On n'est pas des pigeons (?)</title>
+    <credits>
+      <presenter>Benjamin Maréchal</presenter>
+      <presenter>Ceuppens Quentin</presenter>
+      <presenter>Céline Liégeois</presenter>
+    </credits>
+    <category lang="fr">Magazine du consommateur</category>
+  </programme>
+  <programme start="20201204040000 +0100" stop="20201204041000 +0100" channel="La Une">
+    <title lang="fr">Quel temps !</title>
+    <category lang="fr">Météo</category>
+  </programme>
+  <programme start="20201204041000 +0100" stop="20201204041300 +0100" channel="La Une">
+    <title lang="fr">Météo</title>
+    <category lang="fr">Météo</category>
+  </programme>
+  <programme start="20201204041300 +0100" stop="20201204044900 +0100" channel="La Une">
+    <title lang="fr">JT 19h30</title>
+    <category lang="fr">Journal</category>
+  </programme>
+  <programme start="20201204044900 +0100" stop="20201204053200 +0100" channel="La Une">
+    <title lang="fr">On n'est pas des pigeons (?)</title>
+    <credits>
+      <presenter>Benjamin Maréchal</presenter>
+      <presenter>Ceuppens Quentin</presenter>
+      <presenter>Céline Liégeois</presenter>
+    </credits>
+    <category lang="fr">Magazine du consommateur</category>
+  </programme>
+  <programme start="20201204053200 +0100" stop="20201204054200 +0100" channel="La Une">
+    <title lang="fr">Quel temps !</title>
+    <category lang="fr">Météo</category>
+  </programme>
+  <programme start="20201204054200 +0100" stop="20201204055900 +0100" channel="La Une">
+    <title lang="fr">Météo</title>
+    <category lang="fr">Météo</category>
   </programme>
   <programme start="20201204080000 +0100" stop="20201204090000 +0100" channel="La Une">
     <title lang="fr">Le 8-9 (?)</title>
@@ -5176,14 +5350,14 @@ Dans le monde de la dissuasion nucléaire et de la désinformation, ils se retro
     </credits>
     <category lang="fr">Magazine de services</category>
   </programme>
-  <programme start="20201204090000 +0100" stop="20201204103100 +0100" channel="La Une">
+  <programme start="20201204090000 +0100" stop="20201204103200 +0100" channel="La Une">
     <title lang="fr">C'est vous qui le dites (?)</title>
     <credits>
       <presenter>Benjamin Maréchal</presenter>
     </credits>
     <category lang="fr">Magazine d'actualité</category>
   </programme>
-  <programme start="20201204103100 +0100" stop="20201204112400 +0100" channel="La Une">
+  <programme start="20201204103200 +0100" stop="20201204111800 +0100" channel="La Une">
     <title lang="fr">On n'est pas des pigeons (?)</title>
     <credits>
       <presenter>Benjamin Maréchal</presenter>
@@ -5192,7 +5366,7 @@ Dans le monde de la dissuasion nucléaire et de la désinformation, ils se retro
     </credits>
     <category lang="fr">Magazine du consommateur</category>
   </programme>
-  <programme start="20201204115900 +0100" stop="20201204124300 +0100" channel="La Une">
+  <programme start="20201204115700 +0100" stop="20201204124300 +0100" channel="La Une">
     <title lang="fr">Les feux de l'amour (?)</title>
     <credits>
       <actor>Michelle Stafford</actor>
@@ -5213,37 +5387,37 @@ Dans le monde de la dissuasion nucléaire et de la désinformation, ils se retro
     <title lang="fr">Météo</title>
     <category lang="fr">Météo</category>
   </programme>
-  <programme start="20201204125800 +0100" stop="20201204132700 +0100" channel="La Une">
+  <programme start="20201204125800 +0100" stop="20201204132800 +0100" channel="La Une">
     <title lang="fr">JT 13h</title>
     <category lang="fr">Journal</category>
   </programme>
-  <programme start="20201204132700 +0100" stop="20201204133100 +0100" channel="La Une">
+  <programme start="20201204132800 +0100" stop="20201204133400 +0100" channel="La Une">
     <title lang="fr">Alors on sort ? (?)</title>
     <category lang="fr">Magazine culturel</category>
   </programme>
-  <programme start="20201204133100 +0100" stop="20201204133600 +0100" channel="La Une">
+  <programme start="20201204133400 +0100" stop="20201204134100 +0100" channel="La Une">
     <title lang="fr">Météo</title>
     <category lang="fr">Météo</category>
   </programme>
-  <programme start="20201204133600 +0100" stop="20201204142100 +0100" channel="La Une">
+  <programme start="20201204134100 +0100" stop="20201204142900 +0100" channel="La Une">
     <title lang="fr">Affaire conclue (?)</title>
     <credits>
       <presenter>Sophie Davant</presenter>
     </credits>
     <category lang="fr">Magazine de l'art de vivre</category>
   </programme>
-  <programme start="20201204142100 +0100" stop="20201204150800 +0100" channel="La Une">
+  <programme start="20201204142900 +0100" stop="20201204151900 +0100" channel="La Une">
     <title lang="fr">Affaire conclue (?)</title>
     <credits>
       <presenter>Sophie Davant</presenter>
     </credits>
     <category lang="fr">Magazine de l'art de vivre</category>
   </programme>
-  <programme start="20201204182600 +0100" stop="20201204183000 +0100" channel="La Une">
+  <programme start="20201204182200 +0100" stop="20201204182900 +0100" channel="La Une">
     <title lang="fr">Qu'est-ce qu'on mange ce soir ? (?)</title>
     <category lang="fr">Magazine culinaire</category>
   </programme>
-  <programme start="20201204183000 +0100" stop="20201204191600 +0100" channel="La Une">
+  <programme start="20201204182900 +0100" stop="20201204191500 +0100" channel="La Une">
     <title lang="fr">On n'est pas des pigeons (?)</title>
     <credits>
       <presenter>Benjamin Maréchal</presenter>
@@ -5252,27 +5426,27 @@ Dans le monde de la dissuasion nucléaire et de la désinformation, ils se retro
     </credits>
     <category lang="fr">Magazine du consommateur</category>
   </programme>
-  <programme start="20201204191600 +0100" stop="20201204191900 +0100" channel="La Une">
+  <programme start="20201204191500 +0100" stop="20201204191900 +0100" channel="La Une">
     <title lang="fr">Alors on sort ? (?)</title>
     <category lang="fr">Magazine culturel</category>
   </programme>
-  <programme start="20201204191900 +0100" stop="20201204192300 +0100" channel="La Une">
+  <programme start="20201204191900 +0100" stop="20201204192200 +0100" channel="La Une">
     <title lang="fr">Météo</title>
     <category lang="fr">Météo</category>
   </programme>
-  <programme start="20201204193000 +0100" stop="20201204200800 +0100" channel="La Une">
+  <programme start="20201204193000 +0100" stop="20201204200900 +0100" channel="La Une">
     <title lang="fr">JT 19h30</title>
     <category lang="fr">Journal</category>
   </programme>
-  <programme start="20201204200800 +0100" stop="20201204201300 +0100" channel="La Une">
+  <programme start="20201204200900 +0100" stop="20201204201400 +0100" channel="La Une">
     <title lang="fr">Agoria : Merci d'y avoir pensé (?)</title>
     <category lang="fr">Magazine scientifique</category>
   </programme>
-  <programme start="20201204201300 +0100" stop="20201204201800 +0100" channel="La Une">
+  <programme start="20201204201400 +0100" stop="20201204201900 +0100" channel="La Une">
     <title lang="fr">Météo</title>
     <category lang="fr">Météo</category>
   </programme>
-  <programme start="20201204201800 +0100" stop="20201204205100 +0100" channel="La Une">
+  <programme start="20201204201900 +0100" stop="20201204205200 +0100" channel="La Une">
     <title lang="fr">C'est du belge (?)</title>
     <credits>
       <presenter>Barbara Louys</presenter>
@@ -5281,17 +5455,17 @@ Dans le monde de la dissuasion nucléaire et de la désinformation, ils se retro
     </credits>
     <category lang="fr">Magazine de société</category>
   </programme>
-  <programme start="20201204205100 +0100" stop="20201204230600 +0100" channel="La Une">
+  <programme start="20201204205200 +0100" stop="20201204232000 +0100" channel="La Une">
     <title lang="fr">Anges et démons</title>
-    <desc lang="fr">Une antique confrérie secrète parmi les plus puissantes de l'Histoire, les "Illuminati", qui s'était juré autrefois d'anéantir l'Eglise catholique, est de retour. Cette fois, elle est sur le point de parvenir à son but : Robert Langdon, expert en religions d'Harvard, en a la certitude. Langdon a peu de temps pour comprendre ce qui se trame contre le Vatican et déjouer ces nouveaux crimes. Une course contre la montre et contre les tueurs qui démarre tel un jeu de piste : des églises romaines aux cryptes enfouies, des catacombes les plus profondes aux majestueuses cathédrales... Pour l'aider à comprendre toutes ces énigmes, Langdon va rencontrer Vittoria Vetra, une scientifique aussi belle que mystérieuse. Cette fois, il sait à qui il se confronte. Cette enquête diabolique est un piège, chaque secret est une clé, chaque révélation un danger...(n)</desc>
+    <desc lang="fr">Une antique confrérie secrète parmi les plus puissantes de l'Histoire, les "Illuminati", qui s'était juré autrefois d'anéantir l'Eglise catholique, est de retour. Cette fois, elle est sur le point de parvenir à son but : Robert Langdon, expert en religions d'Harvard, en a la certitude. Langdon a peu de temps pour comprendre ce qui se trame contre le Vatican et déjouer ces nouveaux crimes. Une course contre la montre et contre les tueurs qui démarre tel un jeu de piste : des églises romaines aux cryptes enfouies, des catacombes les plus profondes aux majestueuses cathédrales... Pour l'aider à comprendre toutes ces énigmes, Langdon va rencontrer Vittoria Vetra, une scientifique aussi belle que mystérieuse. Cette fois, il sait à qui il se confronte. Cette enquête diabolique est un piège, chaque secret est une clé, chaque révélation un danger...(c)</desc>
     <category lang="fr">Film</category>
     <icon src="https://www.telerama.fr/sites/tr_master/files/6379dad1-0c10-4c4c-a5b9-a2a96be998d5_2.jpg" />
   </programme>
-  <programme start="20201204230600 +0100" stop="20201204231300 +0100" channel="La Une">
+  <programme start="20201204232000 +0100" stop="20201204232700 +0100" channel="La Une">
     <title lang="fr">Tirage de l'Euro Millions</title>
     <category lang="fr">Loterie</category>
   </programme>
-  <programme start="20201204231300 +0100" stop="20201204231600 +0100" channel="La Une">
+  <programme start="20201204232700 +0100" stop="20201204233000 +0100" channel="La Une">
     <title lang="fr">Le temps d'une histoire (?)</title>
     <credits>
       <presenter>Cécile Djunga</presenter>
@@ -5300,22 +5474,22 @@ Dans le monde de la dissuasion nucléaire et de la désinformation, ils se retro
     </credits>
     <category lang="fr">Magazine historique</category>
   </programme>
-  <programme start="20201204231600 +0100" stop="20201205000600 +0100" channel="La Une">
+  <programme start="20201204233000 +0100" stop="20201205002100 +0100" channel="La Une">
     <title lang="fr">Les crimes du siècle (?)</title>
     <credits>
       <director>Thomas Rhys</director>
     </credits>
     <category lang="fr">Justice</category>
   </programme>
-  <programme start="20201205000600 +0100" stop="20201205002200 +0100" channel="La Une">
+  <programme start="20201205002100 +0100" stop="20201205003700 +0100" channel="La Une">
     <title lang="fr">Studio Foot (?)</title>
     <category lang="fr">Football</category>
   </programme>
-  <programme start="20201205002200 +0100" stop="20201205003200 +0100" channel="La Une">
+  <programme start="20201205003700 +0100" stop="20201205004700 +0100" channel="La Une">
     <title lang="fr">OpinionS (?)</title>
     <category lang="fr">Magazine politique</category>
   </programme>
-  <programme start="20201205003200 +0100" stop="20201205011800 +0100" channel="La Une">
+  <programme start="20201205004700 +0100" stop="20201205013300 +0100" channel="La Une">
     <title lang="fr">On n'est pas des pigeons (?)</title>
     <credits>
       <presenter>Benjamin Maréchal</presenter>
@@ -5324,19 +5498,19 @@ Dans le monde de la dissuasion nucléaire et de la désinformation, ils se retro
     </credits>
     <category lang="fr">Magazine du consommateur</category>
   </programme>
-  <programme start="20201205011800 +0100" stop="20201205012800 +0100" channel="La Une">
+  <programme start="20201205013300 +0100" stop="20201205014300 +0100" channel="La Une">
     <title lang="fr">Quel temps !</title>
     <category lang="fr">Météo</category>
   </programme>
-  <programme start="20201205012800 +0100" stop="20201205013200 +0100" channel="La Une">
+  <programme start="20201205014300 +0100" stop="20201205014700 +0100" channel="La Une">
     <title lang="fr">Météo</title>
     <category lang="fr">Météo</category>
   </programme>
-  <programme start="20201205013200 +0100" stop="20201205020800 +0100" channel="La Une">
+  <programme start="20201205014700 +0100" stop="20201205022300 +0100" channel="La Une">
     <title lang="fr">JT 19h30</title>
     <category lang="fr">Journal</category>
   </programme>
-  <programme start="20201205020800 +0100" stop="20201205025200 +0100" channel="La Une">
+  <programme start="20201205022300 +0100" stop="20201205030700 +0100" channel="La Une">
     <title lang="fr">On n'est pas des pigeons (?)</title>
     <credits>
       <presenter>Benjamin Maréchal</presenter>
@@ -5345,17 +5519,30 @@ Dans le monde de la dissuasion nucléaire et de la désinformation, ils se retro
     </credits>
     <category lang="fr">Magazine du consommateur</category>
   </programme>
-  <programme start="20201205025200 +0100" stop="20201205030800 +0100" channel="La Une">
+  <programme start="20201205030700 +0100" stop="20201205032300 +0100" channel="La Une">
     <title lang="fr">Studio Foot (?)</title>
     <category lang="fr">Football</category>
   </programme>
-  <programme start="20201205030800 +0100" stop="20201205031800 +0100" channel="La Une">
+  <programme start="20201205032300 +0100" stop="20201205033300 +0100" channel="La Une">
     <title lang="fr">Quel temps !</title>
     <category lang="fr">Météo</category>
   </programme>
-  <programme start="20201205031800 +0100" stop="20201205032100 +0100" channel="La Une">
+  <programme start="20201205033300 +0100" stop="20201205033600 +0100" channel="La Une">
     <title lang="fr">Météo</title>
     <category lang="fr">Météo</category>
+  </programme>
+  <programme start="20201205033600 +0100" stop="20201205041200 +0100" channel="La Une">
+    <title lang="fr">JT 19h30</title>
+    <category lang="fr">Journal</category>
+  </programme>
+  <programme start="20201205041200 +0100" stop="20201205045600 +0100" channel="La Une">
+    <title lang="fr">On n'est pas des pigeons (?)</title>
+    <credits>
+      <presenter>Benjamin Maréchal</presenter>
+      <presenter>Ceuppens Quentin</presenter>
+      <presenter>Céline Liégeois</presenter>
+    </credits>
+    <category lang="fr">Magazine du consommateur</category>
   </programme>
   <programme start="20201203080500 +0100" stop="20201203100500 +0100" channel="VOOsport World 1">
     <title lang="fr">Golf : Championnat de Dubai</title>
@@ -5413,25 +5600,29 @@ Dans le monde de la dissuasion nucléaire et de la désinformation, ils se retro
     <title lang="fr">Masters 2020 (?)</title>
     <category lang="fr">Golf</category>
   </programme>
-  <programme start="20201204190500 +0100" stop="20201204193000 +0100" channel="VOOsport World 1">
+  <programme start="20201204190500 +0100" stop="20201204193500 +0100" channel="VOOsport World 1">
     <title lang="fr">L'oeil des pros (?)</title>
     <category lang="fr">Golf</category>
   </programme>
-  <programme start="20201204193000 +0100" stop="20201204200000 +0100" channel="VOOsport World 1">
-    <title lang="fr">Le - monde de la Premier League (?)</title>
-    <category lang="fr">Football</category>
-  </programme>
-  <programme start="20201204220000 +0100" stop="20201204222500 +0100" channel="VOOsport World 1">
-    <title lang="fr">Premier League Preview (?)</title>
-    <category lang="fr">Football</category>
-  </programme>
-  <programme start="20201204222500 +0100" stop="20201204225000 +0100" channel="VOOsport World 1">
+  <programme start="20201204193500 +0100" stop="20201204200000 +0100" channel="VOOsport World 1">
     <title lang="fr">Mobil 1 The Grid (?)</title>
     <category lang="fr">Sports mécaniques</category>
   </programme>
-  <programme start="20201204225000 +0100" stop="20201204232000 +0100" channel="VOOsport World 1">
+  <programme start="20201204200000 +0100" stop="20201204202500 +0100" channel="VOOsport World 1">
     <title lang="fr">Voitures de légende (?)</title>
     <category lang="fr">Magazine de l'automobile</category>
+  </programme>
+  <programme start="20201204202500 +0100" stop="20201204205500 +0100" channel="VOOsport World 1">
+    <title lang="fr">Le - monde de la Premier League (?)</title>
+    <category lang="fr">Football</category>
+  </programme>
+  <programme start="20201204205500 +0100" stop="20201204225500 +0100" channel="VOOsport World 1">
+    <title lang="fr">Football : Premier League</title>
+    <category lang="fr">Football</category>
+  </programme>
+  <programme start="20201204225500 +0100" stop="20201204232000 +0100" channel="VOOsport World 1">
+    <title lang="fr">Premier League Preview (?)</title>
+    <category lang="fr">Football</category>
   </programme>
   <programme start="20201204232000 +0100" stop="20201205013000 +0100" channel="VOOsport World 1">
     <title lang="fr">Basket-ball : Euroligue masculine</title>
@@ -5456,6 +5647,22 @@ Dans le monde de la dissuasion nucléaire et de la désinformation, ils se retro
   <programme start="20201203225500 +0100" stop="20201204015500 +0100" channel="VOOsport World 2">
     <title lang="fr">Golf : Open d'Afrique du Sud</title>
     <category lang="fr">Golf</category>
+  </programme>
+  <programme start="20201204104000 +0100" stop="20201204124000 +0100" channel="VOOsport World 2">
+    <title lang="fr">Football : Ligue Europa</title>
+    <category lang="fr">Football</category>
+  </programme>
+  <programme start="20201204124000 +0100" stop="20201204144000 +0100" channel="VOOsport World 2">
+    <title lang="fr">Football : Ligue Europa</title>
+    <category lang="fr">Football</category>
+  </programme>
+  <programme start="20201204144000 +0100" stop="20201204164000 +0100" channel="VOOsport World 2">
+    <title lang="fr">Football : Ligue Europa</title>
+    <category lang="fr">Football</category>
+  </programme>
+  <programme start="20201204164000 +0100" stop="20201204184500 +0100" channel="VOOsport World 2">
+    <title lang="fr">Football : Ligue Europa</title>
+    <category lang="fr">Football</category>
   </programme>
   <programme start="20201204184500 +0100" stop="20201204205500 +0100" channel="VOOsport World 2">
     <title lang="fr">Basket-ball : Euroligue masculine</title>
@@ -5489,72 +5696,125 @@ Dans le monde de la dissuasion nucléaire et de la désinformation, ils se retro
     <title lang="fr">Historias con alma</title>
     <category lang="fr">Magazine sportif</category>
   </programme>
-  <programme start="20201203061500 +0100" stop="20201203090000 +0100" channel="Real Madrid TV">
+  <programme start="20201203061500 +0100" stop="20201203080000 +0100" channel="Real Madrid TV">
     <title lang="fr">Hoy Jugamos</title>
     <category lang="fr">Magazine sportif</category>
   </programme>
-  <programme start="20201203090000 +0100" stop="20201203091500 +0100" channel="Real Madrid TV">
+  <programme start="20201203080000 +0100" stop="20201203081500 +0100" channel="Real Madrid TV">
     <title lang="fr">Aprende inglés con Vaughan en Realmadrid TV</title>
     <category lang="fr">Magazine éducatif</category>
   </programme>
-  <programme start="20201203091500 +0100" stop="20201203100500 +0100" channel="Real Madrid TV">
-    <title lang="fr">Football</title>
-    <category lang="fr">Football</category>
-  </programme>
-  <programme start="20201203100500 +0100" stop="20201203115000 +0100" channel="Real Madrid TV">
-    <title lang="fr">Basket-ball</title>
-    <category lang="fr">Basket-ball</category>
-  </programme>
-  <programme start="20201203115000 +0100" stop="20201203134000 +0100" channel="Real Madrid TV">
-    <title lang="fr">Football</title>
-    <category lang="fr">Football</category>
-  </programme>
-  <programme start="20201203134000 +0100" stop="20201203143000 +0100" channel="Real Madrid TV">
+  <programme start="20201203081500 +0100" stop="20201203085500 +0100" channel="Real Madrid TV">
     <title lang="fr">Hoy Jugamos</title>
     <category lang="fr">Magazine sportif</category>
   </programme>
-  <programme start="20201203143000 +0100" stop="20201203144000 +0100" channel="Real Madrid TV">
+  <programme start="20201203085500 +0100" stop="20201203105000 +0100" channel="Real Madrid TV">
+    <title lang="fr">Historia que tú hiciste</title>
+    <category lang="fr">Football</category>
+  </programme>
+  <programme start="20201203105000 +0100" stop="20201203123500 +0100" channel="Real Madrid TV">
+    <title lang="fr">Historia que tú hiciste</title>
+    <category lang="fr">Football</category>
+  </programme>
+  <programme start="20201203123500 +0100" stop="20201203143000 +0100" channel="Real Madrid TV">
+    <title lang="fr">Historia que tú hiciste</title>
+    <category lang="fr">Football</category>
+  </programme>
+  <programme start="20201203143000 +0100" stop="20201203150000 +0100" channel="Real Madrid TV">
     <title lang="fr">Conecta informativo</title>
     <category lang="fr">Magazine sportif</category>
   </programme>
-  <programme start="20201203144000 +0100" stop="20201203154000 +0100" channel="Real Madrid TV">
+  <programme start="20201203150000 +0100" stop="20201203154000 +0100" channel="Real Madrid TV">
     <title lang="fr">Hoy Jugamos</title>
     <category lang="fr">Magazine sportif</category>
   </programme>
-  <programme start="20201203154000 +0100" stop="20201203173000 +0100" channel="Real Madrid TV">
-    <title lang="fr">Cine</title>
-    <category lang="fr">Programme indéterminé</category>
+  <programme start="20201203154000 +0100" stop="20201203180000 +0100" channel="Real Madrid TV">
+    <title lang="fr">Un mystérieux étranger (?)</title>
+    <credits>
+      <director>Randa Haines</director>
+      <actor>Aaron James Cash 
+ 
+ Samuel Miller</actor>
+      <actor>Alison Goode 
+ 
+ Choir Member</actor>
+      <actor>Barry Thurlow 
+ 
+ Plain Man Wagon Driver</actor>
+      <actor>Brett Tucker 
+ 
+ Ben Yoder</actor>
+      <actor>Capkin Van Alphen 
+ 
+ Cowboy</actor>
+      <actor>David Carradine 
+ 
+ Doctor Lucas Henry</actor>
+      <actor>David Pitstock 
+ 
+ Blacksmith</actor>
+    </credits>
+    <category lang="fr">Téléfilm dramatique</category>
   </programme>
-  <programme start="20201203173000 +0100" stop="20201203212500 +0100" channel="Real Madrid TV">
+  <programme start="20201203180000 +0100" stop="20201203193000 +0100" channel="Real Madrid TV">
+    <title lang="fr">Hoy Jugamos</title>
+    <category lang="fr">Magazine sportif</category>
+  </programme>
+  <programme start="20201203193000 +0100" stop="20201203213000 +0100" channel="Real Madrid TV">
     <title lang="fr">Real Madrid conecta</title>
     <category lang="fr">Magazine sportif</category>
   </programme>
-  <programme start="20201203212500 +0100" stop="20201203223000 +0100" channel="Real Madrid TV">
-    <title lang="fr">90 minutos</title>
-    <category lang="fr">Magazine sportif</category>
+  <programme start="20201203213000 +0100" stop="20201203231500 +0100" channel="Real Madrid TV">
+    <title lang="fr">Max Havoc (?)</title>
+    <credits>
+      <director>Albert Pyun</director>
+      <director>Isaac Florentine</director>
+      <actor>Arnold Chon 
+ 
+ Baldy</actor>
+      <actor>Carmen Electra 
+ 
+ Debbie</actor>
+      <actor>Danielle Burgio 
+ 
+ Thief</actor>
+      <actor>David Carradine 
+ 
+ Grand Master</actor>
+      <actor>Diego Wallraff 
+ 
+ Joe</actor>
+      <actor>J.J. Perry 
+ 
+ Boxing Referee</actor>
+      <actor>James P. Bennett 
+ 
+ Kickboxer</actor>
+    </credits>
+    <category lang="fr">Téléfilm d'action</category>
   </programme>
-  <programme start="20201203223000 +0100" stop="20201204012500 +0100" channel="Real Madrid TV">
-    <title lang="fr">Cine</title>
-    <category lang="fr">Programme indéterminé</category>
+  <programme start="20201203231500 +0100" stop="20201204004500 +0100" channel="Real Madrid TV">
+    <title lang="fr">Yellow Rock</title>
+    <category lang="fr">Téléfilm d'aventures</category>
   </programme>
-  <programme start="20201204012500 +0100" stop="20201204022000 +0100" channel="Real Madrid TV">
-    <title lang="fr">90 minutos</title>
-    <category lang="fr">Magazine sportif</category>
-  </programme>
-  <programme start="20201204022000 +0100" stop="20201204040000 +0100" channel="Real Madrid TV">
-    <title lang="fr">Fútbol femenino</title>
-    <category lang="fr">Football</category>
-  </programme>
-  <programme start="20201204040000 +0100" stop="20201204043000 +0100" channel="Real Madrid TV">
+  <programme start="20201204004500 +0100" stop="20201204023000 +0100" channel="Real Madrid TV">
     <title lang="fr">Hoy Jugamos</title>
     <category lang="fr">Magazine sportif</category>
   </programme>
-  <programme start="20201204043000 +0100" stop="20201204045500 +0100" channel="Real Madrid TV">
+  <programme start="20201204023000 +0100" stop="20201204041500 +0100" channel="Real Madrid TV">
+    <title lang="fr">Historia que tú hiciste</title>
+    <category lang="fr">Football</category>
+  </programme>
+  <programme start="20201204041500 +0100" stop="20201204052000 +0100" channel="Real Madrid TV">
+    <title lang="fr">Football</title>
+    <category lang="fr">Football</category>
+  </programme>
+  <programme start="20201204052000 +0100" stop="20201204054500 +0100" channel="Real Madrid TV">
     <title lang="fr">Historias con alma</title>
     <category lang="fr">Magazine sportif</category>
   </programme>
-  <programme start="20201204045500 +0100" stop="20201204052500 +0100" channel="Real Madrid TV">
-    <title lang="fr">Historias con alma</title>
+  <programme start="20201204061500 +0100" stop="20201204090000 +0100" channel="Real Madrid TV">
+    <title lang="fr">Hoy Jugamos</title>
     <category lang="fr">Magazine sportif</category>
   </programme>
   <programme start="20201204090000 +0100" stop="20201204091500 +0100" channel="Real Madrid TV">
