@@ -86,11 +86,11 @@
 |<img src="" width="100" height="50">|CANAL J|http://www.canalplus.com|
 |<img src="https://epg.beinsports.com/mena_sports/HD6.svg?2017" width="100" height="50">|HD6 English|http://www.bein.net|
 |<img src="https://media.elcinema.com/tvguide/1171_1.png" width="100" height="50">|Future TV|http://www.elcinema.com|
+|<img src="http://content.osn.com/logo/channel/cropped/UTM.png" width="100" height="50">|UTV Movies|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/SEM.png" width="100" height="50">|SET Max|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/PAR.png" width="100" height="50">|Paramount|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/BO3.png" width="100" height="50">|OSN Movies Box Office 3|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/BO2.png" width="100" height="50">|OSN Movies Box Office 2|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/ONS.png" width="100" height="50">|OSN News|http://www.osn.com|
 |<img src="https://media.elcinema.com/tvguide/1138_1.png" width="100" height="50">|Alhayat Series|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1225_1.png" width="100" height="50">|LBC Europe|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1265_1.png" width="100" height="50">|Hawass|http://www.elcinema.com|
@@ -102,10 +102,10 @@
 |<img src="" width="100" height="50">|Télé MB|http://www.m.programme-tv.net|
 |<img src="" width="100" height="50">|Canal C|http://www.m.programme-tv.net|
 |<img src="" width="100" height="50">|NoTélé|http://www.m.programme-tv.net|
-|<img src="http://content.osn.com/logo/channel/cropped/UTM.png" width="100" height="50">|UTV Movies|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/OFS.png" width="100" height="50">|OSN First HBO HD|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/OFX.png" width="100" height="50">|OSN Series HD|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/OCX.png" width="100" height="50">|OSN Series Comedy HD +2h|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/SFY.png" width="100" height="50">|Syfy HD|http://www.osn.com|
 |<img src="" width="100" height="50">|SCIENCE et VIE TV|http://www.tv.orange.fr|
 |<img src="" width="100" height="50">|D17|http://www.tv.orange.fr|
 |<img src="" width="100" height="50">|D8|http://www.tv.orange.fr|
@@ -116,11 +116,11 @@
 |<img src="https://media.elcinema.com/tvguide/1317_1.png" width="100" height="50">|Oman|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1188_1.png" width="100" height="50">|Sharjah TV|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1302_1.png" width="100" height="50">|Fujairah|http://www.elcinema.com|
+|<img src="https://media.elcinema.com/tvguide/1261_1.png" width="100" height="50">|Zee alwan|http://www.elcinema.com|
 |<img src="http://content.osn.com/logo/channel/cropped/CTV.png" width="100" height="50">|Citruss TV|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/FTH.png" width="100" height="50">|Fashion TV HD|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/GUK.png" width="100" height="50">|ITV Choice HD|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/BBE.png" width="100" height="50">|BBC First HD|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/SFY.png" width="100" height="50">|Syfy HD|http://www.osn.com|
 |<img src="" width="100" height="50">|Vedia|http://www.m.programme-tv.net|
 |<img src="" width="100" height="50">|TV COM|http://www.m.programme-tv.net|
 |<img src="" width="100" height="50">|BOING|http://www.canalplus.com|
@@ -246,7 +246,7 @@
 |<img src="" width="100" height="50">|ASTROCENTER TV|http://www.canalplus.com|
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F183768217f630352.2Epng/30x30/quality/80/tmc.png" width="100" height="50">|TMC|http://www.m.programme-tv.net|
 |<img src="" width="100" height="50">|CHASSE PECHE|http://www.tv.orange.fr|
-|<img src="" width="100" height="50">|ElleGirl|http://www.m.programme-tv.net|
+|<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fc3429738ac9adc87.2Epng/30x30/quality/80/nrj-12.png" width="100" height="50">|NRJ 12|http://www.m.programme-tv.net|
 |<img src="https://epg.beinsports.com/mena_sports/HD3.svg?2017" width="100" height="50">|HD3 English|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_sports/HD2.svg?2017" width="100" height="50">|HD2 English|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_sports/HD1.svg?2017" width="100" height="50">|HD1 English|http://www.bein.net|
@@ -254,8 +254,8 @@
 |<img src="" width="100" height="50">|Disney Cinema|http://www.m.programme-tv.net|
 |<img src="https://epg.beinsports.com/mena_sports/News_ar.svg?2018" width="100" height="50">|News_ar English|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_sports/SportsGlobalHD.svg" width="100" height="50">|SportsGlobalHD English|http://www.bein.net|
-|<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fdc3ebab77849df7a.2Epng/30x30/quality/80/bet.png" width="100" height="50">|BET|http://www.m.programme-tv.net|
-|<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fd6fd740ea5fed0a1.2Epng/30x30/quality/80/cstar.png" width="100" height="50">|CSTAR|http://www.m.programme-tv.net|
-|<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fc3429738ac9adc87.2Epng/30x30/quality/80/nrj-12.png" width="100" height="50">|NRJ 12|http://www.m.programme-tv.net|
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F7228d555798e4a9c.2Epng/30x30/quality/80/france-o.png" width="100" height="50">|France Ô|http://www.m.programme-tv.net|
+|<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fd6fd740ea5fed0a1.2Epng/30x30/quality/80/cstar.png" width="100" height="50">|CSTAR|http://www.m.programme-tv.net|
+|<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fdc3ebab77849df7a.2Epng/30x30/quality/80/bet.png" width="100" height="50">|BET|http://www.m.programme-tv.net|
+|<img src="" width="100" height="50">|ElleGirl|http://www.m.programme-tv.net|
 |<img src="" width="100" height="50">|L'Equipe|http://www.m.programme-tv.net|
