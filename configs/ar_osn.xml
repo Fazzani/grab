@@ -12,17 +12,13 @@
   <license wg-username="hfazzani" registered-email="heni.fazzani@gmail.com" password="2d557ec9"></license>
   <update>i</update>
 
-  <channel update="i" site="osn.com" site_id="OM1" xmltv_id="OSN Movies First HD">OSN Movies First HD</channel>
-  <channel update="i" site="osn.com" site_id="OMX" xmltv_id="OSN Movies First HD +2h">OSN Movies First HD +2h</channel>
-  <!-- <channel update="i" site="osn.com" site_id="AHD" xmltv_id="OSN Movies Action HD">OSN Movies Action HD</channel> -->
-  <!-- <channel update="i" site="osn.com" site_id="OMA" xmltv_id="OSN Movies Action +2">OSN Movies Action +2</channel> -->
-  <channel update="i" site="osn.com" site_id="OPR" xmltv_id="OSN Movies HD">OSN Movies HD</channel>
-  <!-- <channel update="i" site="osn.com" site_id="POP" xmltv_id="Paw Patrol with OSN">Paw Patrol with OSN</channel> -->
-  <channel update="i" site="osn.com" site_id="OPX" xmltv_id="OSN Movies +2h">OSN Movies +2h</channel>
-  <channel update="i" site="osn.com" site_id="OCM" xmltv_id="OSN Movies Thriller HD">OSN Movies Thriller HD</channel>
-  <!-- <channel update="i" site="osn.com" site_id="OC2" xmltv_id="OSN Movies Thriller +2h">OSN Movies Thriller +2h</channel> -->
-  <channel update="i" site="osn.com" site_id="OMK" xmltv_id="OSN Movies Kids HD">OSN Movies Kids HD</channel>
-  <channel update="i" site="osn.com" site_id="OFM" xmltv_id="OSN Movies Disney HD">OSN Movies Disney HD</channel>
-  <!-- <channel update="i" site="osn.com" site_id="OMC" xmltv_id="OSN Movies Comedy HD">OSN Movies Comedy HD</channel> -->
+    <channel update="i" site="osn.com" site_id="OM1" xmltv_id="OSN Movies First">OSN Movies First</channel>
+    <channel update="i" site="osn.com" site_id="OMX" xmltv_id="OSN Movies First+2">OSN Movies First+2</channel>
+    <channel update="i" site="osn.com" site_id="AHD" xmltv_id="OSN Action">OSN Action</channel>
+    <channel update="i" site="osn.com" site_id="OPR" xmltv_id="OSN Movies">OSN Movies</channel>
+    <channel update="i" site="osn.com" site_id="POP" xmltv_id="OSN Popup">OSN Popup</channel>
+    <channel update="i" site="osn.com" site_id="OCM" xmltv_id="OSN Enigma">OSN Enigma</channel>
+    <channel update="i" site="osn.com" site_id="OMK" xmltv_id="OSN Kids">OSN Kids</channel>
+    <channel update="i" site="osn.com" site_id="OFM" xmltv_id="OSN Movies Disney">OSN Movies Disney</channel>
 
 </settings>
