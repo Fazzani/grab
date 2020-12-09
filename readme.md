@@ -1,6 +1,8 @@
 
 # Daily EPG
-[![Build Status](https://travis-ci.org/Fazzani/grab.svg?branch=master)](https://travis-ci.org/Fazzani/grab)
+[![Build Status](https://travis-ci.org/Fazzani/grab.svg?branch=master)](https://travis-ci.org/Fazzani/grab) 
+[![Build Status grab2](https://travis-ci.org/Fazzani/grab2.svg?branch=master)](https://travis-ci.org/Fazzani/grab2) 
+[![Build Status grab fr](https://travis-ci.org/Fazzani/grab_fr.svg?branch=master)](https://travis-ci.org/Fazzani/grab_fr) 
 ![CI](https://github.com/Fazzani/grab/workflows/CI/badge.svg)
 
 ![Channel count](https://img.shields.io/static/v1?style=for-the-badge&label=channel%20count&message=639&color=9cf&cacheSeconds=3600)
