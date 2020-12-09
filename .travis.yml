@@ -10,8 +10,11 @@ branches:
   - master
 if: (commit_message =~ ^daily OR type = "cron") AND (branch = master)
 env:
-  - WEBGRAB_FILENAME=configs/ar_osn7.xml
-  - WEBGRAB_FILENAME=configs/ar_osn8.xml
+  - WEBGRAB_FILENAME=configs/ar_bein.xml
+  - WEBGRAB_FILENAME=configs/ar_osn2.xml
+  - WEBGRAB_FILENAME=configs/ar_osn3.xml
+  - WEBGRAB_FILENAME=configs/ar_osn4.xml
+  - WEBGRAB_FILENAME=configs/ar_osn5.xml
 
 script: |
   wget https://raw.githubusercontent.com/Fazzani/grab/master/build.sh -O build.sh
