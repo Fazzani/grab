@@ -11,20 +11,22 @@
   <timespan>1</timespan>
   <update>i</update>
 
-  <channel update="i" site="osn.com" site_id="OFS" xmltv_id="OSN First HBO HD">OSN First HBO HD</channel>
-  <channel update="i" site="osn.com" site_id="OFX" xmltv_id="OSN Series HD">OSN Series HD</channel>
-  <channel update="i" site="osn.com" site_id="OCO" xmltv_id="OSN Series Comedy HD">OSN Series Comedy HD</channel>
-  <channel update="i" site="osn.com" site_id="OCX" xmltv_id="OSN Series Comedy HD +2h">OSN Series Comedy HD +2h</channel>
-  <channel update="i" site="osn.com" site_id="CCE" xmltv_id="Comedy Central">Comedy Central</channel>
-  <channel update="i" site="osn.com" site_id="SFY" xmltv_id="Syfy HD">Syfy HD</channel>
-  <channel update="i" site="osn.com" site_id="STW" xmltv_id="Star World HD">Star World HD</channel>
-  <channel update="i" site="osn.com" site_id="TLC" xmltv_id="TLC HD">TLC HD</channel>
-  <channel update="i" site="osn.com" site_id="ETV" xmltv_id="E! Entertainment HD">E! Entertainment HD</channel>
-  <channel update="i" site="osn.com" site_id="BBE" xmltv_id="BBC First HD">BBC First HD</channel>
-  <channel update="i" site="osn.com" site_id="GUK" xmltv_id="ITV Choice HD">ITV Choice HD</channel>
-  <channel update="i" site="osn.com" site_id="OLH" xmltv_id="OSN Living HD">OSN Living HD</channel>
-  <channel update="i" site="osn.com" site_id="FTH" xmltv_id="Fashion TV HD">Fashion TV HD</channel>
-  <channel update="i" site="osn.com" site_id="B4P" xmltv_id="B4U Aflam">B4U Aflam</channel>
-  <channel update="i" site="osn.com" site_id="CTV" xmltv_id="Citruss TV">Citruss TV</channel>
+    <channel update="i" site="osn.com" site_id="FTH" xmltv_id="Fashion TV HD">Fashion TV HD</channel>
+    <channel update="i" site="osn.com" site_id="B4A" xmltv_id="B4U Aflam">B4U Aflam</channel>
+    <channel update="i" site="osn.com" site_id="MTL" xmltv_id="MTV Live HD">MTV Live HD</channel>
+    <channel update="i" site="osn.com" site_id="VH1" xmltv_id="VH1">VH1</channel>
+    <channel update="i" site="osn.com" site_id="DIS" xmltv_id="Disney HD">Disney HD</channel>
+    <channel update="i" site="osn.com" site_id="DXD" xmltv_id="Disney XD">Disney XD</channel>
+    <channel update="i" site="osn.com" site_id="DJR" xmltv_id="Disney Junior">Disney Junior</channel>
+    <channel update="i" site="osn.com" site_id="NIC" xmltv_id="Nickelodeon HD">Nickelodeon HD</channel>
+    <channel update="i" site="osn.com" site_id="NJR" xmltv_id="Nick Jr">Nick Jr</channel>
+    <channel update="i" site="osn.com" site_id="KDZ" xmltv_id="OSN Kid Zone TV">OSN Kid Zone TV</channel>
+    <channel update="i" site="osn.com" site_id="NKT" xmltv_id="NickToons HD">NickToons HD</channel>
+    <channel update="i" site="osn.com" site_id="BAB" xmltv_id="Baby TV Europe">Baby TV Europe</channel>
+    <channel update="i" site="osn.com" site_id="ONS" xmltv_id="OSN News">OSN News</channel>
+    <channel update="i" site="osn.com" site_id="SKH" xmltv_id="Sky News HD">Sky News HD</channel>
+    <channel update="i" site="osn.com" site_id="BBW" xmltv_id="BBC World">BBC World</channel>
+    <channel update="i" site="osn.com" site_id="CNB" xmltv_id="CNBC">CNBC</channel>
+    <channel update="i" site="osn.com" site_id="BTV" xmltv_id="Bloomberg">Bloomberg</channel>
 
  </settings>
