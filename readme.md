@@ -3,8 +3,8 @@
 [![Build Status](https://travis-ci.org/Fazzani/grab.svg?branch=master)](https://travis-ci.org/Fazzani/grab)
 ![CI](https://github.com/Fazzani/grab/workflows/CI/badge.svg)
 
-![Channel count](https://img.shields.io/static/v1?style=for-the-badge&label=channel%20count&message=636&color=9cf&cacheSeconds=3600)
-![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=57.39%&color=yellow&cacheSeconds=3600)
+![Channel count](https://img.shields.io/static/v1?style=for-the-badge&label=channel%20count&message=639&color=9cf&cacheSeconds=3600)
+![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=69.17%&color=yellow&cacheSeconds=3600)
 
 ## channels list
 
@@ -107,7 +107,7 @@
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fc3429738ac9adc87.2Epng/30x30/quality/80/nrj-12.png" width="100" height="50">|~~NRJ 12~~|http://www.m.programme-tv.net|
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fc5a00219b61629a7.2Epng/30x30/quality/80/la-chaine-parlementaire.png" width="100" height="50">|La Chaîne parlementaire|http://www.m.programme-tv.net|
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F488cba3e1cef1be4.2Epng/30x30/quality/80/france-4.png" width="100" height="50">|France 4|http://www.m.programme-tv.net|
-|<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F4c2cbb5f3d06de92.2Epng/30x30/quality/80/bfm-tv.png" width="100" height="50">|BFMTV|http://www.m.programme-tv.net|
+|<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F4c2cbb5f3d06de92.2Epng/30x30/quality/80/bfmtv.png" width="100" height="50">|BFMTV|http://www.m.programme-tv.net|
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Ffbaa4b8b2e2208b3.2Epng/30x30/quality/80/cnews.png" width="100" height="50">|~~CNEWS~~|http://www.m.programme-tv.net|
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fd6fd740ea5fed0a1.2Epng/30x30/quality/80/cstar.png" width="100" height="50">|~~CSTAR~~|http://www.m.programme-tv.net|
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fef660dc09c117f2d.2Epng/30x30/quality/80/gulli.png" width="100" height="50">|Gulli|http://www.m.programme-tv.net|
@@ -167,77 +167,77 @@
 |<img src="https://epg.beinsports.com/au_sports/BS1.svg" width="100" height="50">|BS1|http://www.bein.net|
 |<img src="https://epg.beinsports.com/au_sports/BS2.svg" width="100" height="50">|BS2|http://www.bein.net|
 |<img src="https://epg.beinsports.com/au_sports/BS3.svg" width="100" height="50">|BS3|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_sports/SportsGlobalHD.svg" width="100" height="50">|~~SportsGlobalHD English~~|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_sports/News_ar.svg?2018" width="100" height="50">|~~News_ar English~~|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_sports/HD1.svg?2017" width="100" height="50">|~~HD1 English~~|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_sports/HD2.svg?2017" width="100" height="50">|~~HD2 English~~|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_sports/HD3.svg?2017" width="100" height="50">|~~HD3 English~~|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_sports/HD4.svg?2017" width="100" height="50">|~~HD4 English~~|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_sports/HD5.svg?2017" width="100" height="50">|~~HD5 English~~|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_sports/HD6.svg?2017" width="100" height="50">|~~HD6 English~~|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_sports/HD7.svg?2017" width="100" height="50">|~~HD7 English~~|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_sports/HD8.svg?2017" width="100" height="50">|~~HD8 English~~|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_sports/HD9.svg?2017" width="100" height="50">|~~HD9 English~~|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_sports/HD10.svg?2018" width="100" height="50">|~~HD10 English~~|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_sports/SportsHD11.svg" width="100" height="50">|~~SportsHD11 English~~|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_sports/SportsHD12.svg" width="100" height="50">|~~SportsHD12 English~~|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_sports/SportsHD13.svg" width="100" height="50">|~~SportsHD13 English~~|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_sports/SportsHD14.svg" width="100" height="50">|~~SportsHD14 English~~|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_sports/SportsHD15.svg" width="100" height="50">|~~SportsHD15 English~~|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_sports/SportsHD16.svg" width="100" height="50">|~~SportsHD16 English~~|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_sports/SportsHD17.svg" width="100" height="50">|~~SportsHD17 English~~|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_sports/4K.svg" width="100" height="50">|~~4K English~~|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_sports/BS NBA.svg" width="100" height="50">|~~BS NBA English~~|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018" width="100" height="50">|~~MoviesHD1 English~~|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_entertaintment/MoviesHD2.svg?2018" width="100" height="50">|~~MoviesHD2 English~~|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_entertaintment/MoviesHD3.svg?2018" width="100" height="50">|~~MoviesHD3 English~~|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_entertaintment/MoviesHD4.svg?2018" width="100" height="50">|~~MoviesHD4 English~~|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_entertaintment/BoxOffice_HD1.svg?2020" width="100" height="50">|~~BoxOffice_HD1 English~~|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_entertaintment/SeriesHD1.svg?111" width="100" height="50">|~~SeriesHD1 English~~|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_entertaintment/SeriesHD2.svg?123" width="100" height="50">|~~SeriesHD2 English~~|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_entertaintment/DramaHD1.svg?1232" width="100" height="50">|~~DramaHD1 English~~|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_entertaintment/gourmet.svg" width="100" height="50">|~~gourmet English~~|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_entertaintment/beJUNIOR.svg" width="100" height="50">|~~beJUNIOR English~~|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_entertaintment/Jeem.svg?20158888" width="100" height="50">|~~Jeem English~~|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_entertaintment/Baraem.svg?2017" width="100" height="50">|~~Baraem English~~|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_entertaintment/CartoonNetworkHD.png" width="100" height="50">|~~CartoonNetworkHD~~|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_entertaintment/CartoonNetworkAR.svg" width="100" height="50">|~~CartoonNetworkAR~~|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_entertaintment/CartoonNetworkHindi.svg" width="100" height="50">|~~CartoonNetworkHindi~~|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_entertaintment/Baby_TV.svg?2017" width="100" height="50">|~~Baby_TV English~~|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_entertaintment/CBeebies.png" width="100" height="50">|~~CBeebies English~~|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_entertaintment/DreamWorks.svg?2017" width="100" height="50">|~~DreamWorks English~~|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_entertaintment/JimJam.svg?2017" width="100" height="50">|~~JimJam English~~|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_entertaintment/FOXFamilyMovies.svg?2017" width="100" height="50">|~~beIN FOX Family Movies~~|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_entertaintment/FOXActionMovies.svg?2018" width="100" height="50">|~~beIN FOX Action Movies~~|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_entertaintment/Star_World_HD.svg?2017" width="100" height="50">|~~beIN Star World HD~~|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_entertaintment/TCM.svg" width="100" height="50">|~~TCM English~~|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_entertaintment/amc.svg" width="100" height="50">|~~amc English~~|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_entertaintment/Star_Movies_HD.svg?2017" width="100" height="50">|~~beIN StarMovies~~|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_entertaintment/FOXHD.svg" width="100" height="50">|~~FOXHD English~~|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_entertaintment/OutdoorChannel.svg?2017" width="100" height="50">|~~OutdoorChannel English~~|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_entertaintment/V_HD.jpg" width="100" height="50">|~~V_HD English~~|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_entertaintment/TravelChannel.svg" width="100" height="50">|~~TravelChannel English~~|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_entertaintment/Extreme.svg?2017" width="100" height="50">|~~Extreme English~~|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_entertaintment/fatafeat.png" width="100" height="50">|~~fatafeat English~~|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_entertaintment/FoodNetwork.png" width="100" height="50">|~~FoodNetwork English~~|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_entertaintment/HGTV.svg" width="100" height="50">|~~HGTV English~~|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_entertaintment/CBSreality.svg?2017" width="100" height="50">|~~beIN CBS reality~~|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_entertaintment/FXHD.svg?2018" width="100" height="50">|~~FXHD English~~|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_entertaintment/DMAX.svg?2017" width="100" height="50">|~~DMAX English~~|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_entertaintment/NatGeoWild_HD.svg?2017" width="100" height="50">|~~NatGeoWild_HD English~~|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_entertaintment/NatGeoPeople_HD.svg?2017" width="100" height="50">|~~NatGeoPeople_HD English~~|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_entertaintment/NatGeo_HD.svg?2017" width="100" height="50">|~~NatGeo_HD English~~|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_entertaintment/BBCEarth.png" width="100" height="50">|~~BBCEarth English~~|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_entertaintment/AnimalPlanetHD.svg" width="100" height="50">|~~AnimalPlanetHD English~~|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_entertaintment/AljazeeraDocumentary.png?2017" width="100" height="50">|~~AljazeeraDocumentary English~~|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_entertaintment/TRTWorld.png?2017" width="100" height="50">|~~TRTWorld English~~|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_entertaintment/Euronews.jpg?2017" width="100" height="50">|~~Euronews English~~|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_entertaintment/CNNHD.svg" width="100" height="50">|~~CNNHD English~~|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_entertaintment/Bloomberg.svg?2017" width="100" height="50">|~~Bloomberg English~~|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_entertaintment/HLN.svg" width="100" height="50">|~~HLN English~~|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_entertaintment/DTX.png" width="100" height="50">|~~DTX English~~|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_entertaintment/DLife.svg?2017" width="100" height="50">|~~DLife English~~|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_entertaintment/FineLiving.png" width="100" height="50">|~~FineLiving English~~|http://www.bein.net|
+|<img src="https://epg.beinsports.com/mena_sports/SportsGlobalHD.svg" width="100" height="50">|SportsGlobalHD English|http://www.bein.net|
+|<img src="https://epg.beinsports.com/mena_sports/News_ar.svg?2018" width="100" height="50">|News_ar English|http://www.bein.net|
+|<img src="https://epg.beinsports.com/mena_sports/HD1.svg?2017" width="100" height="50">|HD1 English|http://www.bein.net|
+|<img src="https://epg.beinsports.com/mena_sports/HD2.svg?2017" width="100" height="50">|HD2 English|http://www.bein.net|
+|<img src="https://epg.beinsports.com/mena_sports/HD3.svg?2017" width="100" height="50">|HD3 English|http://www.bein.net|
+|<img src="https://epg.beinsports.com/mena_sports/HD4.svg?2017" width="100" height="50">|HD4 English|http://www.bein.net|
+|<img src="https://epg.beinsports.com/mena_sports/HD5.svg?2017" width="100" height="50">|HD5 English|http://www.bein.net|
+|<img src="https://epg.beinsports.com/mena_sports/HD6.svg?2017" width="100" height="50">|HD6 English|http://www.bein.net|
+|<img src="https://epg.beinsports.com/mena_sports/HD7.svg?2017" width="100" height="50">|HD7 English|http://www.bein.net|
+|<img src="https://epg.beinsports.com/mena_sports/HD8.svg?2017" width="100" height="50">|HD8 English|http://www.bein.net|
+|<img src="https://epg.beinsports.com/mena_sports/HD9.svg?2017" width="100" height="50">|HD9 English|http://www.bein.net|
+|<img src="https://epg.beinsports.com/mena_sports/HD10.svg?2018" width="100" height="50">|HD10 English|http://www.bein.net|
+|<img src="https://epg.beinsports.com/mena_sports/SportsHD11.svg" width="100" height="50">|SportsHD11 English|http://www.bein.net|
+|<img src="https://epg.beinsports.com/mena_sports/SportsHD12.svg" width="100" height="50">|SportsHD12 English|http://www.bein.net|
+|<img src="https://epg.beinsports.com/mena_sports/SportsHD13.svg" width="100" height="50">|SportsHD13 English|http://www.bein.net|
+|<img src="https://epg.beinsports.com/mena_sports/SportsHD14.svg" width="100" height="50">|SportsHD14 English|http://www.bein.net|
+|<img src="https://epg.beinsports.com/mena_sports/SportsHD15.svg" width="100" height="50">|SportsHD15 English|http://www.bein.net|
+|<img src="https://epg.beinsports.com/mena_sports/SportsHD16.svg" width="100" height="50">|SportsHD16 English|http://www.bein.net|
+|<img src="https://epg.beinsports.com/mena_sports/SportsHD17.svg" width="100" height="50">|SportsHD17 English|http://www.bein.net|
+|<img src="https://epg.beinsports.com/mena_sports/4K.svg" width="100" height="50">|4K English|http://www.bein.net|
+|<img src="https://epg.beinsports.com/mena_sports/BS NBA.svg" width="100" height="50">|BS NBA English|http://www.bein.net|
+|<img src="https://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018" width="100" height="50">|MoviesHD1 English|http://www.bein.net|
+|<img src="https://epg.beinsports.com/mena_entertaintment/MoviesHD2.svg?2018" width="100" height="50">|MoviesHD2 English|http://www.bein.net|
+|<img src="https://epg.beinsports.com/mena_entertaintment/MoviesHD3.svg?2018" width="100" height="50">|MoviesHD3 English|http://www.bein.net|
+|<img src="https://epg.beinsports.com/mena_entertaintment/MoviesHD4.svg?2018" width="100" height="50">|MoviesHD4 English|http://www.bein.net|
+|<img src="https://epg.beinsports.com/mena_entertaintment/BoxOffice_HD1.svg?2020" width="100" height="50">|BoxOffice_HD1 English|http://www.bein.net|
+|<img src="https://epg.beinsports.com/mena_entertaintment/SeriesHD1.svg?111" width="100" height="50">|SeriesHD1 English|http://www.bein.net|
+|<img src="https://epg.beinsports.com/mena_entertaintment/SeriesHD2.svg?123" width="100" height="50">|SeriesHD2 English|http://www.bein.net|
+|<img src="https://epg.beinsports.com/mena_entertaintment/DramaHD1.svg?1232" width="100" height="50">|DramaHD1 English|http://www.bein.net|
+|<img src="https://epg.beinsports.com/mena_entertaintment/gourmet.svg" width="100" height="50">|gourmet English|http://www.bein.net|
+|<img src="https://epg.beinsports.com/mena_entertaintment/beJUNIOR.svg" width="100" height="50">|beJUNIOR English|http://www.bein.net|
+|<img src="https://epg.beinsports.com/mena_entertaintment/Jeem.svg?20158888" width="100" height="50">|Jeem English|http://www.bein.net|
+|<img src="https://epg.beinsports.com/mena_entertaintment/Baraem.svg?2017" width="100" height="50">|Baraem English|http://www.bein.net|
+|<img src="https://epg.beinsports.com/mena_entertaintment/CartoonNetworkHD.png" width="100" height="50">|CartoonNetworkHD|http://www.bein.net|
+|<img src="https://epg.beinsports.com/mena_entertaintment/CartoonNetworkAR.svg" width="100" height="50">|CartoonNetworkAR|http://www.bein.net|
+|<img src="https://epg.beinsports.com/mena_entertaintment/CartoonNetworkHindi.svg" width="100" height="50">|CartoonNetworkHindi|http://www.bein.net|
+|<img src="https://epg.beinsports.com/mena_entertaintment/Baby_TV.svg?2017" width="100" height="50">|Baby_TV English|http://www.bein.net|
+|<img src="https://epg.beinsports.com/mena_entertaintment/CBeebies.png" width="100" height="50">|CBeebies English|http://www.bein.net|
+|<img src="https://epg.beinsports.com/mena_entertaintment/DreamWorks.svg?2017" width="100" height="50">|DreamWorks English|http://www.bein.net|
+|<img src="https://epg.beinsports.com/mena_entertaintment/JimJam.svg?2017" width="100" height="50">|JimJam English|http://www.bein.net|
+|<img src="https://epg.beinsports.com/mena_entertaintment/FOXFamilyMovies.svg?2017" width="100" height="50">|beIN FOX Family Movies|http://www.bein.net|
+|<img src="https://epg.beinsports.com/mena_entertaintment/FOXActionMovies.svg?2018" width="100" height="50">|beIN FOX Action Movies|http://www.bein.net|
+|<img src="https://epg.beinsports.com/mena_entertaintment/Star_World_HD.svg?2017" width="100" height="50">|beIN Star World HD|http://www.bein.net|
+|<img src="https://epg.beinsports.com/mena_entertaintment/TCM.svg" width="100" height="50">|TCM English|http://www.bein.net|
+|<img src="https://epg.beinsports.com/mena_entertaintment/amc.svg" width="100" height="50">|amc English|http://www.bein.net|
+|<img src="https://epg.beinsports.com/mena_entertaintment/Star_Movies_HD.svg?2017" width="100" height="50">|beIN StarMovies|http://www.bein.net|
+|<img src="https://epg.beinsports.com/mena_entertaintment/FOXHD.svg" width="100" height="50">|FOXHD English|http://www.bein.net|
+|<img src="https://epg.beinsports.com/mena_entertaintment/OutdoorChannel.svg?2017" width="100" height="50">|OutdoorChannel English|http://www.bein.net|
+|<img src="https://epg.beinsports.com/mena_entertaintment/V_HD.jpg" width="100" height="50">|V_HD English|http://www.bein.net|
+|<img src="https://epg.beinsports.com/mena_entertaintment/TravelChannel.svg" width="100" height="50">|TravelChannel English|http://www.bein.net|
+|<img src="https://epg.beinsports.com/mena_entertaintment/Extreme.svg?2017" width="100" height="50">|Extreme English|http://www.bein.net|
+|<img src="https://epg.beinsports.com/mena_entertaintment/fatafeat.png" width="100" height="50">|fatafeat English|http://www.bein.net|
+|<img src="https://epg.beinsports.com/mena_entertaintment/FoodNetwork.png" width="100" height="50">|FoodNetwork English|http://www.bein.net|
+|<img src="https://epg.beinsports.com/mena_entertaintment/HGTV.svg" width="100" height="50">|HGTV English|http://www.bein.net|
+|<img src="https://epg.beinsports.com/mena_entertaintment/CBSreality.svg?2017" width="100" height="50">|beIN CBS reality|http://www.bein.net|
+|<img src="https://epg.beinsports.com/mena_entertaintment/FXHD.svg?2018" width="100" height="50">|FXHD English|http://www.bein.net|
+|<img src="https://epg.beinsports.com/mena_entertaintment/DMAX.svg?2017" width="100" height="50">|DMAX English|http://www.bein.net|
+|<img src="https://epg.beinsports.com/mena_entertaintment/NatGeoWild_HD.svg?2017" width="100" height="50">|NatGeoWild_HD English|http://www.bein.net|
+|<img src="https://epg.beinsports.com/mena_entertaintment/NatGeoPeople_HD.svg?2017" width="100" height="50">|NatGeoPeople_HD English|http://www.bein.net|
+|<img src="https://epg.beinsports.com/mena_entertaintment/NatGeo_HD.svg?2017" width="100" height="50">|NatGeo_HD English|http://www.bein.net|
+|<img src="https://epg.beinsports.com/mena_entertaintment/BBCEarth.png" width="100" height="50">|BBCEarth English|http://www.bein.net|
+|<img src="https://epg.beinsports.com/mena_entertaintment/AnimalPlanetHD.svg" width="100" height="50">|AnimalPlanetHD English|http://www.bein.net|
+|<img src="https://epg.beinsports.com/mena_entertaintment/AljazeeraDocumentary.png?2017" width="100" height="50">|AljazeeraDocumentary English|http://www.bein.net|
+|<img src="https://epg.beinsports.com/mena_entertaintment/TRTWorld.png?2017" width="100" height="50">|TRTWorld English|http://www.bein.net|
+|<img src="https://epg.beinsports.com/mena_entertaintment/Euronews.jpg?2017" width="100" height="50">|Euronews English|http://www.bein.net|
+|<img src="https://epg.beinsports.com/mena_entertaintment/CNNHD.svg" width="100" height="50">|CNNHD English|http://www.bein.net|
+|<img src="https://epg.beinsports.com/mena_entertaintment/Bloomberg.svg?2017" width="100" height="50">|Bloomberg English|http://www.bein.net|
+|<img src="https://epg.beinsports.com/mena_entertaintment/HLN.svg" width="100" height="50">|HLN English|http://www.bein.net|
+|<img src="https://epg.beinsports.com/mena_entertaintment/DTX.png" width="100" height="50">|DTX English|http://www.bein.net|
+|<img src="https://epg.beinsports.com/mena_entertaintment/DLife.svg?2017" width="100" height="50">|DLife English|http://www.bein.net|
+|<img src="https://epg.beinsports.com/mena_entertaintment/FineLiving.png" width="100" height="50">|FineLiving English|http://www.bein.net|
 |<img src="http://content.osn.com/logo/channel/cropped/OYX.png" width="100" height="50">|~~OSN Ya Hala Al Oula +2h~~|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/OYA.png" width="100" height="50">|OSN Ya Hala HD|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/OYC.png" width="100" height="50">|OSN Yahala Cinema HD|http://www.osn.com|
@@ -297,13 +297,15 @@
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F42866761d8d5efe1.2Epng/30x30/quality/80/automoto.png" width="100" height="50">|Automoto|http://www.m.programme-tv.net|
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F57f850d8546962e8.2Epng/30x30/quality/80/equidia.png" width="100" height="50">|Equidia|http://www.m.programme-tv.net|
 |<img src="https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F57c9f12a257453d0.2Epng/30x30/quality/80/golfplus.png" width="100" height="50">|Golf+|http://www.m.programme-tv.net|
-|<img src="http://content.osn.com/logo/channel/cropped/MTL.png" width="100" height="50">|MTV Live HD|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/VH1.png" width="100" height="50">|VH1|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/DIS.png" width="100" height="50">|Disney HD|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/DXD.png" width="100" height="50">|~~Disney XD~~|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/DJR.png" width="100" height="50">|Disney Junior|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/CAI.png" width="100" height="50">|Crime \\u0026 Investigation Network|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/HIS.png" width="100" height="50">|History HD|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/HI2.png" width="100" height="50">|H2 HD|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/NGO.png" width="100" height="50">|Nat Geo HD|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/NHD.png" width="100" height="50">|Nat Geo Wild HD|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/NAH.png" width="100" height="50">|Nat Geo People HD|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/DUH.png" width="100" height="50">|Dubai Racing 1 HD|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/WAD.png" width="100" height="50">|Al Wosta from Al Dhaid|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/DR3.png" width="100" height="50">|Dubai Racing 3|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/SHS.png" width="100" height="50">|Sharjah Sport HD|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/KTS.png" width="100" height="50">|KTV Sport HD|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/KTP.png" width="100" height="50">|KTV Sport Plus HD|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/TFC.png" width="100" height="50">|TFC|http://www.osn.com|
@@ -312,6 +314,8 @@
 |<img src="http://content.osn.com/logo/channel/cropped/ANC.png" width="100" height="50">|ANC|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/DZM.png" width="100" height="50">|DZMM Teleradyo|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/DWR.png" width="100" height="50">|DWRR 101.9|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/VIV.png" width="100" height="50">|Viva TV|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/MYX.png" width="100" height="50">|Myx|http://www.osn.com|
 |<img src="" width="100" height="50">|~~DISNEY JUNIOR~~|http://www.canalplus.com|
 |<img src="" width="100" height="50">|~~PIWI+~~|http://www.canalplus.com|
 |<img src="" width="100" height="50">|~~NICKELODEON JUNIOR~~|http://www.canalplus.com|
@@ -551,27 +555,25 @@
 |<img src="https://media.elcinema.com/tvguide/1223_1.png" width="100" height="50">|Al Nahar Drama|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1178_1.png" width="100" height="50">|Abu Dhabi Drama|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1138_1.png" width="100" height="50">|~~Alhayat Series~~|http://www.elcinema.com|
-|<img src="http://content.osn.com/logo/channel/cropped/NIC.png" width="100" height="50">|Nickelodeon HD|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/NJR.png" width="100" height="50">|Nick Jr.|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/NKT.png" width="100" height="50">|NickToons HD|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/KDZ.png" width="100" height="50">|OSN Kid Zone TV|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/BAB.png" width="100" height="50">|Baby TV Europe|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/ONS.png" width="100" height="50">|OSN News|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/SKH.png" width="100" height="50">|Sky News HD|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/BBW.png" width="100" height="50">|BBC World|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/CNB.png" width="100" height="50">|CNBC|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/BTV.png" width="100" height="50">|Bloomberg|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/BO1.png" width="100" height="50">|OSN Movies Box Office 1 HD|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/BO2.png" width="100" height="50">|~~OSN Movies Box Office 2~~|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/BO3.png" width="100" height="50">|~~OSN Movies Box Office 3~~|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/ARC.png" width="100" height="50">|~~ABS-CBN Regional Channel~~|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/AKS.png" width="100" height="50">|Aksyon TV|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/CIN.png" width="100" height="50">|Cine Mo|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/LSN.png" width="100" height="50">|~~Lifestyle Network~~|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/GMA.png" width="100" height="50">|GMA Pinoy TV|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/GML.png" width="100" height="50">|GMA Life TV|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/GMN.png" width="100" height="50">|GMA News TV|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/NET.png" width="100" height="50">|~~NET 25~~|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/PAR.png" width="100" height="50">|~~Paramount~~|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/SUN.png" width="100" height="50">|~~Sundance TV~~|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/STM.png" width="100" height="50">|Star Movies HD|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/SEM.png" width="100" height="50">|~~SET Max~~|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/UTM.png" width="100" height="50">|~~UTV Movies~~|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/B4A.png" width="100" height="50">|B4U Plus|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/B4P.png" width="100" height="50">|B4U Plus|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/IMA.png" width="100" height="50">|Imagine Movies|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/OYH.png" width="100" height="50">|OSN Ya Hala Al Oula|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/OYA.png" width="100" height="50">|OSN Ya Hala|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/OYC.png" width="100" height="50">|OSN Yahala Cinema|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/SER.png" width="100" height="50">|Series Channel|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/YAW.png" width="100" height="50">|Al Yawm|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/SAF.png" width="100" height="50">|Al Safwa|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/FAN.png" width="100" height="50">|Fann|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/OFS.png" width="100" height="50">|~~OSN First HBO HD~~|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/OFX.png" width="100" height="50">|~~OSN Series HD~~|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/OCO.png" width="100" height="50">|OSN Series Comedy HD|http://www.osn.com|
@@ -616,13 +618,14 @@
 |<img src="https://media.elcinema.com/tvguide/1199_1.png" width="100" height="50">|CBC Drama|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1156_1.png" width="100" height="50">|Nile Drama|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1161_1.png" width="100" height="50">|Series|http://www.elcinema.com|
-|<img src="http://content.osn.com/logo/channel/cropped/OM1.png" width="100" height="50">|OSN Movies First HD|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/OMX.png" width="100" height="50">|OSN Movies First HD +2h|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/OPR.png" width="100" height="50">|OSN Movies HD|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/OPX.png" width="100" height="50">|~~OSN Movies +2h~~|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/OCM.png" width="100" height="50">|OSN Movies Thriller HD|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/OMK.png" width="100" height="50">|OSN Movies Kids HD|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/OFM.png" width="100" height="50">|OSN Movies Disney HD|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/OM1.png" width="100" height="50">|OSN Movies First|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/OMX.png" width="100" height="50">|OSN Movies First+2|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/AHD.png" width="100" height="50">|OSN Action|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/OPR.png" width="100" height="50">|OSN Movies|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/POP.png" width="100" height="50">|~~OSN Popup~~|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/OCM.png" width="100" height="50">|OSN Enigma|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/OMK.png" width="100" height="50">|OSN Kids|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/OFM.png" width="100" height="50">|OSN Movies Disney|http://www.osn.com|
 |<img src="https://television.telerama.fr/sites/tr_master/files/styles/channel_logo_80x80/public/sheet_media/tv/150x150/192.png?itok=LK8LTHrB" width="100" height="50">|MTV Rocks|http://www.telerama.fr|
 |<img src="https://television.telerama.fr/sites/tr_master/files/styles/channel_logo_80x80/public/sheet_media/tv/150x150/192.png?itok=LK8LTHrB" width="100" height="50">|MTV Base|http://www.telerama.fr|
 |<img src="https://television.telerama.fr/sites/tr_master/files/styles/channel_logo_80x80/public/sheet_media/tv/150x150/192.png?itok=LK8LTHrB" width="100" height="50">|NRJ Hits|http://www.telerama.fr|
