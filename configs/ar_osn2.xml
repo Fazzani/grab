@@ -8,7 +8,7 @@
   <logging>on</logging>
   <retry time-out="15">1</retry>
   <skip>12,5</skip>
-  <timespan>1</timespan>
+  <timespan>2</timespan>
   <update>i</update>
 
     <channel update="i" site="osn.com" site_id="PAR" xmltv_id="Paramount">Paramount</channel>
@@ -22,5 +22,13 @@
     <channel update="i" site="osn.com" site_id="YAW" xmltv_id="Al Yawm">Al Yawm</channel>
     <channel update="i" site="osn.com" site_id="SAF" xmltv_id="Al Safwa">Al Safwa</channel>
     <channel update="i" site="osn.com" site_id="FAN" xmltv_id="Fann">Fann</channel>
+    <channel update="i" site="osn.com" site_id="ARC" xmltv_id="ABS-CBN Regional Channel">ABS-CBN Regional Channel</channel>
+    <channel update="i" site="osn.com" site_id="AKS" xmltv_id="Aksyon TV">Aksyon TV</channel>
+    <channel update="i" site="osn.com" site_id="CIN" xmltv_id="Cine Mo">Cine Mo</channel>
+    <channel update="i" site="osn.com" site_id="LSN" xmltv_id="Lifestyle Network">Lifestyle Network</channel>
+    <channel update="i" site="osn.com" site_id="GMA" xmltv_id="GMA Pinoy TV">GMA Pinoy TV</channel>
+    <channel update="i" site="osn.com" site_id="GML" xmltv_id="GMA Life TV">GMA Life TV</channel>
+    <channel update="i" site="osn.com" site_id="GMN" xmltv_id="GMA News TV">GMA News TV</channel>
+    <channel update="i" site="osn.com" site_id="NET" xmltv_id="NET 25">NET 25</channel>
 
  </settings>
