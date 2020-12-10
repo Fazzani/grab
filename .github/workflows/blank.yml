@@ -31,7 +31,7 @@ jobs:
         git config --local user.name "GitHub Action"
         git add .
         git commit -m "check channels and update readme" -a || echo "Nothing to commit"
-        git pull -X Ours
+        git pull -X Ours --no-rebase
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
