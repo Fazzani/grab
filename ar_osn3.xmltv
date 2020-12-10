@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.4.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="Cinema 1">
     <display-name lang="en">Cinema 1</display-name>
     <icon src="http://content.osn.com/logo/channel/cropped/CM1.png" />
@@ -95,54 +95,83 @@
     <icon src="http://content.osn.com/logo/channel/cropped/SQK.png" />
     <url>http://www.osn.com</url>
   </channel>
-  <programme start="20201209010000 +0000" stop="20201209030000 +0000" channel="Cinema 1">
-    <title lang="en">Al Qiradati</title>
-    <title lang="ar">القرداتي</title>
-  </programme>
-  <programme start="20201209030000 +0000" stop="20201209050000 +0000" channel="Cinema 1">
-    <title lang="en">Wadaa‘an Li Al ‘uzoobiyya</title>
-    <title lang="ar">وداعاً للعزوبية</title>
-  </programme>
-  <programme start="20201209050000 +0000" stop="20201209070000 +0000" channel="Cinema 1">
-    <title lang="en">Al-Sharisa</title>
-    <title lang="ar">الشرسة</title>
-  </programme>
-  <programme start="20201209070000 +0000" stop="20201209090000 +0000" channel="Cinema 1">
-    <title lang="en">Seeqan Fi Al-Wahl</title>
-    <title lang="ar">سيقان في الوحل</title>
-  </programme>
-  <programme start="20201209090000 +0000" stop="20201209110000 +0000" channel="Cinema 1">
-    <title lang="en">Mughallaf Bi Al Chocolata</title>
-    <title lang="ar">مغلف بالشيكولاتة</title>
-  </programme>
-  <programme start="20201209110000 +0000" stop="20201209130000 +0000" channel="Cinema 1">
-    <title lang="en">Tujjar Al Sumoum</title>
-    <title lang="ar">تجار السموم</title>
-  </programme>
-  <programme start="20201209130000 +0000" stop="20201209150000 +0000" channel="Cinema 1">
-    <title lang="en">Hob Fawq Al Burkan</title>
-    <title lang="ar">حب فوق البركان</title>
-  </programme>
-  <programme start="20201209150000 +0000" stop="20201209170000 +0000" channel="Cinema 1">
-    <title lang="en">Al-Layl Al-Taweel</title>
-    <title lang="ar">الليل الطويل</title>
-  </programme>
-  <programme start="20201209170000 +0000" stop="20201209190000 +0000" channel="Cinema 1">
-    <title lang="en">Suqout Al Ta'er Al Ghareeb</title>
-    <title lang="ar">سقوط الطائر الغريب</title>
-  </programme>
-  <programme start="20201209190000 +0000" stop="20201209210000 +0000" channel="Cinema 1">
-    <title lang="en">Al-Mazaj</title>
-    <title lang="ar">المزاج</title>
-  </programme>
-  <programme start="20201209210000 +0000" stop="20201209230000 +0000" channel="Cinema 1">
-    <title lang="en">Ashraf Khati'ah</title>
-    <title lang="ar">اشرف خاطئة</title>
-  </programme>
-  <programme start="20201209230000 +0000" stop="20201210010000 +0000" channel="Cinema 1">
-    <title lang="en">Aqwa Al-Rijal</title>
-    <title lang="ar">أقوى الرجال</title>
-  </programme>
+  <channel id="Crime \\u0026 Investigation Network">
+    <display-name lang="en">Crime \\u0026 Investigation Network</display-name>
+    <icon src="http://content.osn.com/logo/channel/cropped/CAI.png" />
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="History HD">
+    <display-name lang="en">History HD</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="H2 HD">
+    <display-name lang="en">H2 HD</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Nat Geo HD">
+    <display-name lang="en">Nat Geo HD</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Nat Geo Wild HD">
+    <display-name lang="en">Nat Geo Wild HD</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Nat Geo People HD">
+    <display-name lang="en">Nat Geo People HD</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Dubai Racing 1 HD">
+    <display-name lang="en">Dubai Racing 1 HD</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Dubai Racing 3">
+    <display-name lang="en">Dubai Racing 3</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Sharjah Sport HD">
+    <display-name lang="en">Sharjah Sport HD</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="KTV Sport HD">
+    <display-name lang="en">KTV Sport HD</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="KTV Sport Plus HD">
+    <display-name lang="en">KTV Sport Plus HD</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="TFC">
+    <display-name lang="en">TFC</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="ABS-CBN Sports+Action">
+    <display-name lang="en">ABS-CBN Sports+Action</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Cinema One Global">
+    <display-name lang="en">Cinema One Global</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="ANC">
+    <display-name lang="en">ANC</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="DZMM Teleradyo">
+    <display-name lang="en">DZMM Teleradyo</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="DWRR 101.9">
+    <display-name lang="en">DWRR 101.9</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Viva TV">
+    <display-name lang="en">Viva TV</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
+  <channel id="Myx">
+    <display-name lang="en">Myx</display-name>
+    <url>http://www.osn.com</url>
+  </channel>
   <programme start="20201210010000 +0000" stop="20201210030000 +0000" channel="Cinema 1">
     <title lang="en">Hob Fawq Al Burkan</title>
     <title lang="ar">حب فوق البركان</title>
@@ -179,53 +208,53 @@
     <title lang="en">Kayd Al-Awalem</title>
     <title lang="ar">كيد العوالم</title>
   </programme>
-  <programme start="20201209000000 +0000" stop="20201209020000 +0000" channel="Cinema 2">
-    <title lang="en">Raqsat Al-Wadaa'</title>
-    <title lang="ar">رقصة الوداع</title>
+  <programme start="20201210190000 +0000" stop="20201210210000 +0000" channel="Cinema 1">
+    <title lang="en">Atabat Al-Sittaat</title>
+    <title lang="ar">عتبة الستات</title>
   </programme>
-  <programme start="20201209020000 +0000" stop="20201209040000 +0000" channel="Cinema 2">
-    <title lang="en">Hayati Hiya Al Thaman</title>
-    <title lang="ar">حياتي هي الثمن</title>
+  <programme start="20201210210000 +0000" stop="20201210230000 +0000" channel="Cinema 1">
+    <title lang="en">Rodage</title>
+    <title lang="ar">روداج</title>
   </programme>
-  <programme start="20201209040000 +0000" stop="20201209060000 +0000" channel="Cinema 2">
-    <title lang="en">Ayyamna Al Hilwa</title>
-    <title lang="ar">ايامنا الحلوة</title>
+  <programme start="20201210230000 +0000" stop="20201211010000 +0000" channel="Cinema 1">
+    <title lang="en">Bayada</title>
+    <title lang="ar">بياضة</title>
   </programme>
-  <programme start="20201209060000 +0000" stop="20201209080000 +0000" channel="Cinema 2">
-    <title lang="en">Sallem 'al Habayeb</title>
-    <title lang="ar">سلّم ع الحبايب</title>
+  <programme start="20201211010000 +0000" stop="20201211030000 +0000" channel="Cinema 1">
+    <title lang="en">Al-Qalb Al-Ha'er</title>
+    <title lang="ar">القلب الحائر</title>
   </programme>
-  <programme start="20201209080000 +0000" stop="20201209100000 +0000" channel="Cinema 2">
-    <title lang="en">Shabab Al-Yawm</title>
-    <title lang="ar">شباب اليوم</title>
+  <programme start="20201211030000 +0000" stop="20201211050000 +0000" channel="Cinema 1">
+    <title lang="en">Shaqawat Banat Shubra</title>
+    <title lang="ar">شقاوة بنات شبرا</title>
   </programme>
-  <programme start="20201209100000 +0000" stop="20201209120000 +0000" channel="Cinema 2">
-    <title lang="en">Imra'ah 'ala Al Hamesh</title>
-    <title lang="ar">امرأة على الهامش</title>
+  <programme start="20201211050000 +0000" stop="20201211070000 +0000" channel="Cinema 1">
+    <title lang="en">Kayd Al-Awalem</title>
+    <title lang="ar">كيد العوالم</title>
   </programme>
-  <programme start="20201209120000 +0000" stop="20201209140000 +0000" channel="Cinema 2">
-    <title lang="en">Saheefat Al-Sawabeq</title>
-    <title lang="ar">صحيفة سوابق</title>
+  <programme start="20201211070000 +0000" stop="20201211090000 +0000" channel="Cinema 1">
+    <title lang="en">Rodage</title>
+    <title lang="ar">روداج</title>
   </programme>
-  <programme start="20201209140000 +0000" stop="20201209160000 +0000" channel="Cinema 2">
-    <title lang="en">Sayyidat Al-Qitar</title>
-    <title lang="ar">سيدة القطار</title>
+  <programme start="20201211090000 +0000" stop="20201211110000 +0000" channel="Cinema 1">
+    <title lang="en">Bayada</title>
+    <title lang="ar">بياضة</title>
   </programme>
-  <programme start="20201209160000 +0000" stop="20201209180000 +0000" channel="Cinema 2">
-    <title lang="en">Ashja' Rajol Fi Al-Aalam</title>
-    <title lang="ar">أشجع رجل في العالم</title>
+  <programme start="20201211110000 +0000" stop="20201211130000 +0000" channel="Cinema 1">
+    <title lang="en">Atabat Al-Sittaat</title>
+    <title lang="ar">عتبة الستات</title>
   </programme>
-  <programme start="20201209180000 +0000" stop="20201209200000 +0000" channel="Cinema 2">
-    <title lang="en">Kulluhom Awladi</title>
-    <title lang="ar">كلهم أولادي</title>
+  <programme start="20201211130000 +0000" stop="20201211150000 +0000" channel="Cinema 1">
+    <title lang="en">Al Qarar</title>
+    <title lang="ar">القرار</title>
   </programme>
-  <programme start="20201209200000 +0000" stop="20201209220000 +0000" channel="Cinema 2">
-    <title lang="en">Sawt Min Al-Madi</title>
-    <title lang="ar">صوت من الماضي</title>
+  <programme start="20201211150000 +0000" stop="20201211170000 +0000" channel="Cinema 1">
+    <title lang="en">Atabat Al-Sittaat</title>
+    <title lang="ar">عتبة الستات</title>
   </programme>
-  <programme start="20201209220000 +0000" stop="20201210000000 +0000" channel="Cinema 2">
-    <title lang="en">‘aasheq Al Rooh</title>
-    <title lang="ar">عاشق الروح</title>
+  <programme start="20201211170000 +0000" stop="20201211190000 +0000" channel="Cinema 1">
+    <title lang="en">Qabl Al-Suqout</title>
+    <title lang="ar">قبل السقوط</title>
   </programme>
   <programme start="20201210000000 +0000" stop="20201210020000 +0000" channel="Cinema 2">
     <title lang="en">Saheefat Al-Sawabeq</title>
@@ -267,33 +296,53 @@
     <title lang="en">Fatat Al-Isti'rad</title>
     <title lang="ar">فتاة الإستعراض</title>
   </programme>
-  <programme start="20201209000000 +0000" stop="20201209040000 +0000" channel="Music Now">
-    <title lang="en">Arabesque</title>
-    <title lang="ar">Alfa Music Now</title>
+  <programme start="20201210200000 +0000" stop="20201210220000 +0000" channel="Cinema 2">
+    <title lang="en">Khataf Mirati</title>
+    <title lang="ar">خطف مراتي</title>
   </programme>
-  <programme start="20201209040000 +0000" stop="20201209060000 +0000" channel="Music Now">
-    <title lang="en">Sabaho</title>
-    <title lang="ar">Alfa Music Now</title>
+  <programme start="20201210220000 +0000" stop="20201211000000 +0000" channel="Cinema 2">
+    <title lang="en">Ismail Yaseen Tarazan</title>
+    <title lang="ar">إسماعيل ياسين طرزان</title>
   </programme>
-  <programme start="20201209060000 +0000" stop="20201209090000 +0000" channel="Music Now">
-    <title lang="en">Mazaj</title>
-    <title lang="ar">Alfa Music Now</title>
+  <programme start="20201211000000 +0000" stop="20201211020000 +0000" channel="Cinema 2">
+    <title lang="en">Saa'idat Al Rijal</title>
+    <title lang="ar">صائدة الرجال</title>
   </programme>
-  <programme start="20201209090000 +0000" stop="20201209150000 +0000" channel="Music Now">
-    <title lang="en">Arabesque</title>
-    <title lang="ar">Alfa Music Now</title>
+  <programme start="20201211020000 +0000" stop="20201211040000 +0000" channel="Cinema 2">
+    <title lang="en">Share‘ Mohammad ‘ali</title>
+    <title lang="ar">شارع محمد علي</title>
   </programme>
-  <programme start="20201209150000 +0000" stop="20201209190000 +0000" channel="Music Now">
-    <title lang="en">Awtar</title>
-    <title lang="ar">Alfa Music Now</title>
+  <programme start="20201211040000 +0000" stop="20201211060000 +0000" channel="Cinema 2">
+    <title lang="en">Tareeq Al-Shawk</title>
+    <title lang="ar">طريق الشوك</title>
   </programme>
-  <programme start="20201209190000 +0000" stop="20201209220000 +0000" channel="Music Now">
-    <title lang="en">Retro</title>
-    <title lang="ar">Alfa Music Now</title>
+  <programme start="20201211060000 +0000" stop="20201211080000 +0000" channel="Cinema 2">
+    <title lang="en">Fatat Al-Isti'rad</title>
+    <title lang="ar">فتاة الإستعراض</title>
   </programme>
-  <programme start="20201209220000 +0000" stop="20201210000000 +0000" channel="Music Now">
-    <title lang="en">Mazaj</title>
-    <title lang="ar">Alfa Music Now</title>
+  <programme start="20201211080000 +0000" stop="20201211100000 +0000" channel="Cinema 2">
+    <title lang="en">Khataf Mirati</title>
+    <title lang="ar">خطف مراتي</title>
+  </programme>
+  <programme start="20201211100000 +0000" stop="20201211120000 +0000" channel="Cinema 2">
+    <title lang="en">Ismail Yaseen Tarazan</title>
+    <title lang="ar">إسماعيل ياسين طرزان</title>
+  </programme>
+  <programme start="20201211120000 +0000" stop="20201211140000 +0000" channel="Cinema 2">
+    <title lang="en">Shate' Al-Gharam</title>
+    <title lang="ar">شاطىء الغرام</title>
+  </programme>
+  <programme start="20201211140000 +0000" stop="20201211160000 +0000" channel="Cinema 2">
+    <title lang="en">Min Ghair Mee'ad</title>
+    <title lang="ar">من غير ميعاد</title>
+  </programme>
+  <programme start="20201211160000 +0000" stop="20201211180000 +0000" channel="Cinema 2">
+    <title lang="en">Al-Na'eb Al-'amm</title>
+    <title lang="ar">النائب العام</title>
+  </programme>
+  <programme start="20201211180000 +0000" stop="20201211200000 +0000" channel="Cinema 2">
+    <title lang="en">Al-Abeet</title>
+    <title lang="ar">العبيط</title>
   </programme>
   <programme start="20201210000000 +0000" stop="20201210040000 +0000" channel="Music Now">
     <title lang="en">Arabesque</title>
@@ -319,101 +368,45 @@
     <title lang="en">Albi Wa Daqqaato</title>
     <title lang="ar">Alfa Music Now</title>
   </programme>
-  <programme start="20201209000000 +0000" stop="20201209010000 +0000" channel="Hekayat">
-    <title lang="en">Grand Hotel</title>
-    <title lang="ar">غراند هوتيل</title>
+  <programme start="20201210190000 +0000" stop="20201210210000 +0000" channel="Music Now">
+    <title lang="en">Aghani Khaleejiyya</title>
+    <title lang="ar">Alfa Music Now</title>
   </programme>
-  <programme start="20201209010000 +0000" stop="20201209020000 +0000" channel="Hekayat">
-    <title lang="en">El Heiba Alrad</title>
-    <title lang="ar">حكايات 1</title>
+  <programme start="20201210210000 +0000" stop="20201210220000 +0000" channel="Music Now">
+    <title lang="en">Arabesque</title>
+    <title lang="ar">Alfa Music Now</title>
   </programme>
-  <programme start="20201209020000 +0000" stop="20201209030000 +0000" channel="Hekayat">
-    <title lang="en">Youmeyyat Zugah Mafrosah Awi</title>
-    <title lang="ar">حكايات 1</title>
+  <programme start="20201210220000 +0000" stop="20201211000000 +0000" channel="Music Now">
+    <title lang="en">Mazaj</title>
+    <title lang="ar">Alfa Music Now</title>
   </programme>
-  <programme start="20201209030000 +0000" stop="20201209040000 +0000" channel="Hekayat">
-    <title lang="en">Hadootah Morrah</title>
-    <title lang="ar">حكايات 1</title>
+  <programme start="20201211000000 +0000" stop="20201211040000 +0000" channel="Music Now">
+    <title lang="en">Arabesque</title>
+    <title lang="ar">Alfa Music Now</title>
   </programme>
-  <programme start="20201209040000 +0000" stop="20201209050000 +0000" channel="Hekayat">
-    <title lang="en">El Berenseesah Beesah</title>
-    <title lang="ar">حكايات 1</title>
+  <programme start="20201211040000 +0000" stop="20201211060000 +0000" channel="Music Now">
+    <title lang="en">Sabaho</title>
+    <title lang="ar">Alfa Music Now</title>
   </programme>
-  <programme start="20201209050000 +0000" stop="20201209060000 +0000" channel="Hekayat">
-    <title lang="en">Caesar</title>
-    <title lang="ar">القيصر</title>
+  <programme start="20201211060000 +0000" stop="20201211090000 +0000" channel="Music Now">
+    <title lang="en">Mazaj</title>
+    <title lang="ar">Alfa Music Now</title>
   </programme>
-  <programme start="20201209060000 +0000" stop="20201209070000 +0000" channel="Hekayat">
-    <title lang="en">Grand Hotel</title>
-    <title lang="ar">غراند هوتيل</title>
+  <programme start="20201211090000 +0000" stop="20201211150000 +0000" channel="Music Now">
+    <title lang="en">Arabesque</title>
+    <title lang="ar">Alfa Music Now</title>
   </programme>
-  <programme start="20201209070000 +0000" stop="20201209080000 +0000" channel="Hekayat">
-    <title lang="en">El Heiba Alrad</title>
-    <title lang="ar">حكايات 1</title>
+  <programme start="20201211150000 +0000" stop="20201211173000 +0000" channel="Music Now">
+    <title lang="en">Awtar</title>
+    <title lang="ar">Alfa Music Now</title>
   </programme>
-  <programme start="20201209080000 +0000" stop="20201209090000 +0000" channel="Hekayat">
-    <title lang="en">Youmeyyat Zugah Mafrosah Awi</title>
-    <title lang="ar">حكايات 1</title>
+  <programme start="20201211173000 +0000" stop="20201211180000 +0000" channel="Music Now">
+    <title lang="en">Duetto</title>
+    <title lang="ar">Alfa Music Now</title>
   </programme>
-  <programme start="20201209090000 +0000" stop="20201209100000 +0000" channel="Hekayat">
-    <title lang="en">Hadootah Morrah</title>
-    <title lang="ar">حكايات 1</title>
-  </programme>
-  <programme start="20201209100000 +0000" stop="20201209110000 +0000" channel="Hekayat">
-    <title lang="en">El Berenseesah Beesah</title>
-    <title lang="ar">حكايات 1</title>
-  </programme>
-  <programme start="20201209110000 +0000" stop="20201209120000 +0000" channel="Hekayat">
-    <title lang="en">Caesar</title>
-    <title lang="ar">القيصر</title>
-  </programme>
-  <programme start="20201209120000 +0000" stop="20201209130000 +0000" channel="Hekayat">
-    <title lang="en">Grand Hotel</title>
-    <title lang="ar">غراند هوتيل</title>
-  </programme>
-  <programme start="20201209130000 +0000" stop="20201209140000 +0000" channel="Hekayat">
-    <title lang="en">El Heiba Alrad</title>
-    <title lang="ar">حكايات 1</title>
-  </programme>
-  <programme start="20201209140000 +0000" stop="20201209150000 +0000" channel="Hekayat">
-    <title lang="en">Youmeyyat Zugah Mafrosah Awi</title>
-    <title lang="ar">حكايات 1</title>
-  </programme>
-  <programme start="20201209150000 +0000" stop="20201209160000 +0000" channel="Hekayat">
-    <title lang="en">Hadootah Morrah</title>
-    <title lang="ar">حكايات 1</title>
-  </programme>
-  <programme start="20201209160000 +0000" stop="20201209170000 +0000" channel="Hekayat">
-    <title lang="en">El Berenseesah Beesah</title>
-    <title lang="ar">حكايات 1</title>
-  </programme>
-  <programme start="20201209170000 +0000" stop="20201209180000 +0000" channel="Hekayat">
-    <title lang="en">Caesar</title>
-    <title lang="ar">القيصر</title>
-  </programme>
-  <programme start="20201209180000 +0000" stop="20201209190000 +0000" channel="Hekayat">
-    <title lang="en">Grand Hotel</title>
-    <title lang="ar">غراند هوتيل</title>
-  </programme>
-  <programme start="20201209190000 +0000" stop="20201209200000 +0000" channel="Hekayat">
-    <title lang="en">El Heiba Alrad</title>
-    <title lang="ar">حكايات 1</title>
-  </programme>
-  <programme start="20201209200000 +0000" stop="20201209210000 +0000" channel="Hekayat">
-    <title lang="en">Youmeyyat Zugah Mafrosah Awi</title>
-    <title lang="ar">حكايات 1</title>
-  </programme>
-  <programme start="20201209210000 +0000" stop="20201209220000 +0000" channel="Hekayat">
-    <title lang="en">Hadootah Morrah</title>
-    <title lang="ar">حكايات 1</title>
-  </programme>
-  <programme start="20201209220000 +0000" stop="20201209230000 +0000" channel="Hekayat">
-    <title lang="en">El Berenseesah Beesah</title>
-    <title lang="ar">حكايات 1</title>
-  </programme>
-  <programme start="20201209230000 +0000" stop="20201210000000 +0000" channel="Hekayat">
-    <title lang="en">Caesar</title>
-    <title lang="ar">القيصر</title>
+  <programme start="20201211180000 +0000" stop="20201211190000 +0000" channel="Music Now">
+    <title lang="en">Albi Wa Daqqaato</title>
+    <title lang="ar">Alfa Music Now</title>
   </programme>
   <programme start="20201210000000 +0000" stop="20201210010000 +0000" channel="Hekayat">
     <title lang="en">Grand Hotel</title>
@@ -495,101 +488,101 @@
     <title lang="en">El Heiba Alrad</title>
     <title lang="ar">حكايات 1</title>
   </programme>
-  <programme start="20201209000000 +0000" stop="20201209010000 +0000" channel="Hekayat 2">
-    <title lang="en">Al Hayah Marrah Okhra</title>
-    <title lang="ar">حكايات 2</title>
+  <programme start="20201210200000 +0000" stop="20201210210000 +0000" channel="Hekayat">
+    <title lang="en">Youmeyyat Zugah Mafrosah Awi</title>
+    <title lang="ar">حكايات 1</title>
   </programme>
-  <programme start="20201209010000 +0000" stop="20201209020000 +0000" channel="Hekayat 2">
-    <title lang="en">Amma Ba'd</title>
-    <title lang="ar">حكايات 2</title>
+  <programme start="20201210210000 +0000" stop="20201210220000 +0000" channel="Hekayat">
+    <title lang="en">Hadootah Morrah</title>
+    <title lang="ar">حكايات 1</title>
   </programme>
-  <programme start="20201209020000 +0000" stop="20201209030000 +0000" channel="Hekayat 2">
-    <title lang="en">Al Liqaa Al Akheer</title>
-    <title lang="ar">حكايات 2</title>
+  <programme start="20201210220000 +0000" stop="20201210230000 +0000" channel="Hekayat">
+    <title lang="en">El Berenseesah Beesah</title>
+    <title lang="ar">حكايات 1</title>
   </programme>
-  <programme start="20201209030000 +0000" stop="20201209040000 +0000" channel="Hekayat 2">
-    <title lang="en">Halawet El Rouh</title>
-    <title lang="ar">حكايات 2</title>
+  <programme start="20201210230000 +0000" stop="20201211000000 +0000" channel="Hekayat">
+    <title lang="en">Caesar</title>
+    <title lang="ar">القيصر</title>
   </programme>
-  <programme start="20201209040000 +0000" stop="20201209050000 +0000" channel="Hekayat 2">
-    <title lang="en">A'qal Zawgain Fel Alam</title>
-    <title lang="ar">حكايات 2</title>
+  <programme start="20201211000000 +0000" stop="20201211010000 +0000" channel="Hekayat">
+    <title lang="en">Grand Hotel</title>
+    <title lang="ar">غراند هوتيل</title>
   </programme>
-  <programme start="20201209050000 +0000" stop="20201209060000 +0000" channel="Hekayat 2">
-    <title lang="en">Al Qitar Al Akheer</title>
-    <title lang="ar">حكايات 2</title>
+  <programme start="20201211010000 +0000" stop="20201211020000 +0000" channel="Hekayat">
+    <title lang="en">El Heiba Alrad</title>
+    <title lang="ar">حكايات 1</title>
   </programme>
-  <programme start="20201209060000 +0000" stop="20201209070000 +0000" channel="Hekayat 2">
-    <title lang="en">Al Hayah Marrah Okhra</title>
-    <title lang="ar">حكايات 2</title>
+  <programme start="20201211020000 +0000" stop="20201211030000 +0000" channel="Hekayat">
+    <title lang="en">Youmeyyat Zugah Mafrosah Awi</title>
+    <title lang="ar">حكايات 1</title>
   </programme>
-  <programme start="20201209070000 +0000" stop="20201209080000 +0000" channel="Hekayat 2">
-    <title lang="en">Amma Ba'd</title>
-    <title lang="ar">حكايات 2</title>
+  <programme start="20201211030000 +0000" stop="20201211040000 +0000" channel="Hekayat">
+    <title lang="en">Hadootah Morrah</title>
+    <title lang="ar">حكايات 1</title>
   </programme>
-  <programme start="20201209080000 +0000" stop="20201209090000 +0000" channel="Hekayat 2">
-    <title lang="en">Al Liqaa Al Akheer</title>
-    <title lang="ar">حكايات 2</title>
+  <programme start="20201211040000 +0000" stop="20201211050000 +0000" channel="Hekayat">
+    <title lang="en">El Berenseesah Beesah</title>
+    <title lang="ar">حكايات 1</title>
   </programme>
-  <programme start="20201209090000 +0000" stop="20201209100000 +0000" channel="Hekayat 2">
-    <title lang="en">Halawet El Rouh</title>
-    <title lang="ar">حكايات 2</title>
+  <programme start="20201211050000 +0000" stop="20201211060000 +0000" channel="Hekayat">
+    <title lang="en">Caesar</title>
+    <title lang="ar">القيصر</title>
   </programme>
-  <programme start="20201209100000 +0000" stop="20201209110000 +0000" channel="Hekayat 2">
-    <title lang="en">A'qal Zawgain Fel Alam</title>
-    <title lang="ar">حكايات 2</title>
+  <programme start="20201211060000 +0000" stop="20201211070000 +0000" channel="Hekayat">
+    <title lang="en">Grand Hotel</title>
+    <title lang="ar">غراند هوتيل</title>
   </programme>
-  <programme start="20201209110000 +0000" stop="20201209120000 +0000" channel="Hekayat 2">
-    <title lang="en">Al Qitar Al Akheer</title>
-    <title lang="ar">حكايات 2</title>
+  <programme start="20201211070000 +0000" stop="20201211080000 +0000" channel="Hekayat">
+    <title lang="en">El Heiba Alrad</title>
+    <title lang="ar">حكايات 1</title>
   </programme>
-  <programme start="20201209120000 +0000" stop="20201209130000 +0000" channel="Hekayat 2">
-    <title lang="en">Al Hayah Marrah Okhra</title>
-    <title lang="ar">حكايات 2</title>
+  <programme start="20201211080000 +0000" stop="20201211090000 +0000" channel="Hekayat">
+    <title lang="en">Youmeyyat Zugah Mafrosah Awi</title>
+    <title lang="ar">حكايات 1</title>
   </programme>
-  <programme start="20201209130000 +0000" stop="20201209140000 +0000" channel="Hekayat 2">
-    <title lang="en">Amma Ba'd</title>
-    <title lang="ar">حكايات 2</title>
+  <programme start="20201211090000 +0000" stop="20201211100000 +0000" channel="Hekayat">
+    <title lang="en">Hadootah Morrah</title>
+    <title lang="ar">حكايات 1</title>
   </programme>
-  <programme start="20201209140000 +0000" stop="20201209150000 +0000" channel="Hekayat 2">
-    <title lang="en">Al Liqaa Al Akheer</title>
-    <title lang="ar">حكايات 2</title>
+  <programme start="20201211100000 +0000" stop="20201211110000 +0000" channel="Hekayat">
+    <title lang="en">El Berenseesah Beesah</title>
+    <title lang="ar">حكايات 1</title>
   </programme>
-  <programme start="20201209150000 +0000" stop="20201209160000 +0000" channel="Hekayat 2">
-    <title lang="en">Halawet El Rouh</title>
-    <title lang="ar">حكايات 2</title>
+  <programme start="20201211110000 +0000" stop="20201211120000 +0000" channel="Hekayat">
+    <title lang="en">Caesar</title>
+    <title lang="ar">القيصر</title>
   </programme>
-  <programme start="20201209160000 +0000" stop="20201209170000 +0000" channel="Hekayat 2">
-    <title lang="en">A'qal Zawgain Fel Alam</title>
-    <title lang="ar">حكايات 2</title>
+  <programme start="20201211120000 +0000" stop="20201211130000 +0000" channel="Hekayat">
+    <title lang="en">Grand Hotel</title>
+    <title lang="ar">غراند هوتيل</title>
   </programme>
-  <programme start="20201209170000 +0000" stop="20201209180000 +0000" channel="Hekayat 2">
-    <title lang="en">Al Qitar Al Akheer</title>
-    <title lang="ar">حكايات 2</title>
+  <programme start="20201211130000 +0000" stop="20201211140000 +0000" channel="Hekayat">
+    <title lang="en">El Heiba Alrad</title>
+    <title lang="ar">حكايات 1</title>
   </programme>
-  <programme start="20201209180000 +0000" stop="20201209190000 +0000" channel="Hekayat 2">
-    <title lang="en">Al Hayah Marrah Okhra</title>
-    <title lang="ar">حكايات 2</title>
+  <programme start="20201211140000 +0000" stop="20201211150000 +0000" channel="Hekayat">
+    <title lang="en">Youmeyyat Zugah Mafrosah Awi</title>
+    <title lang="ar">حكايات 1</title>
   </programme>
-  <programme start="20201209190000 +0000" stop="20201209200000 +0000" channel="Hekayat 2">
-    <title lang="en">Amma Ba'd</title>
-    <title lang="ar">حكايات 2</title>
+  <programme start="20201211150000 +0000" stop="20201211160000 +0000" channel="Hekayat">
+    <title lang="en">Hadootah Morrah</title>
+    <title lang="ar">حكايات 1</title>
   </programme>
-  <programme start="20201209200000 +0000" stop="20201209210000 +0000" channel="Hekayat 2">
-    <title lang="en">Al Liqaa Al Akheer</title>
-    <title lang="ar">حكايات 2</title>
+  <programme start="20201211160000 +0000" stop="20201211170000 +0000" channel="Hekayat">
+    <title lang="en">El Berenseesah Beesah</title>
+    <title lang="ar">حكايات 1</title>
   </programme>
-  <programme start="20201209210000 +0000" stop="20201209220000 +0000" channel="Hekayat 2">
-    <title lang="en">Halawet El Rouh</title>
-    <title lang="ar">حكايات 2</title>
+  <programme start="20201211170000 +0000" stop="20201211180000 +0000" channel="Hekayat">
+    <title lang="en">Caesar</title>
+    <title lang="ar">القيصر</title>
   </programme>
-  <programme start="20201209220000 +0000" stop="20201209230000 +0000" channel="Hekayat 2">
-    <title lang="en">A'qal Zawgain Fel Alam</title>
-    <title lang="ar">حكايات 2</title>
+  <programme start="20201211180000 +0000" stop="20201211190000 +0000" channel="Hekayat">
+    <title lang="en">Grand Hotel</title>
+    <title lang="ar">غراند هوتيل</title>
   </programme>
-  <programme start="20201209230000 +0000" stop="20201210000000 +0000" channel="Hekayat 2">
-    <title lang="en">Al Qitar Al Akheer</title>
-    <title lang="ar">حكايات 2</title>
+  <programme start="20201211190000 +0000" stop="20201211200000 +0000" channel="Hekayat">
+    <title lang="en">El Heiba Alrad (Edited)</title>
+    <title lang="ar">حكايات 1</title>
   </programme>
   <programme start="20201210000000 +0000" stop="20201210010000 +0000" channel="Hekayat 2">
     <title lang="en">Al Hayah Marrah Okhra</title>
@@ -671,49 +664,101 @@
     <title lang="en">Amma Ba'd</title>
     <title lang="ar">حكايات 2</title>
   </programme>
-  <programme start="20201209010000 +0000" stop="20201209031500 +0000" channel="ART Aflam 1">
-    <title lang="en">Pizza Pizza</title>
-    <title lang="ar">بيتزا بيتزا</title>
+  <programme start="20201210200000 +0000" stop="20201210210000 +0000" channel="Hekayat 2">
+    <title lang="en">Al Liqaa Al Akheer</title>
+    <title lang="ar">حكايات 2</title>
   </programme>
-  <programme start="20201209031500 +0000" stop="20201209051500 +0000" channel="ART Aflam 1">
-    <title lang="en">Amouage Ulghadab</title>
-    <title lang="ar">أمواج الغضب</title>
+  <programme start="20201210210000 +0000" stop="20201210220000 +0000" channel="Hekayat 2">
+    <title lang="en">Halawet El Rouh</title>
+    <title lang="ar">حكايات 2</title>
   </programme>
-  <programme start="20201209051500 +0000" stop="20201209073000 +0000" channel="ART Aflam 1">
-    <title lang="en">Akhlaa El Abid</title>
-    <title lang="ar">أخلاق العبيد</title>
+  <programme start="20201210220000 +0000" stop="20201210230000 +0000" channel="Hekayat 2">
+    <title lang="en">A'qal Zawgain Fel Alam</title>
+    <title lang="ar">حكايات 2</title>
   </programme>
-  <programme start="20201209073000 +0000" stop="20201209093000 +0000" channel="ART Aflam 1">
-    <title lang="en">Bab Al Wada'a</title>
-    <title lang="ar">باب الوداعة</title>
+  <programme start="20201210230000 +0000" stop="20201211000000 +0000" channel="Hekayat 2">
+    <title lang="en">Al Qitar Al Akheer</title>
+    <title lang="ar">حكايات 2</title>
   </programme>
-  <programme start="20201209093000 +0000" stop="20201209113000 +0000" channel="ART Aflam 1">
-    <title lang="en">Warqet Shafra</title>
-    <title lang="ar">ورقة شيفرا</title>
+  <programme start="20201211000000 +0000" stop="20201211010000 +0000" channel="Hekayat 2">
+    <title lang="en">Al Hayah Marrah Okhra</title>
+    <title lang="ar">حكايات 2</title>
   </programme>
-  <programme start="20201209113000 +0000" stop="20201209140000 +0000" channel="ART Aflam 1">
-    <title lang="en">Bahibak W Ana Kaman</title>
-    <title lang="ar">بحبك وأنا كمان</title>
+  <programme start="20201211010000 +0000" stop="20201211020000 +0000" channel="Hekayat 2">
+    <title lang="en">Amma Ba'd</title>
+    <title lang="ar">حكايات 2</title>
   </programme>
-  <programme start="20201209140000 +0000" stop="20201209160000 +0000" channel="ART Aflam 1">
-    <title lang="en">Allo'ba Alqazerah</title>
-    <title lang="ar">اللعبة القذرة</title>
+  <programme start="20201211020000 +0000" stop="20201211030000 +0000" channel="Hekayat 2">
+    <title lang="en">Al Liqaa Al Akheer</title>
+    <title lang="ar">حكايات 2</title>
   </programme>
-  <programme start="20201209160000 +0000" stop="20201209180000 +0000" channel="ART Aflam 1">
-    <title lang="en">Sato Mothallath</title>
-    <title lang="ar">سطو مثلث</title>
+  <programme start="20201211030000 +0000" stop="20201211040000 +0000" channel="Hekayat 2">
+    <title lang="en">Halawet El Rouh</title>
+    <title lang="ar">حكايات 2</title>
   </programme>
-  <programme start="20201209180000 +0000" stop="20201209200000 +0000" channel="ART Aflam 1">
-    <title lang="en">Banat Al A'm</title>
-    <title lang="ar">أفلام 1</title>
+  <programme start="20201211040000 +0000" stop="20201211050000 +0000" channel="Hekayat 2">
+    <title lang="en">A'qal Zawgain Fel Alam</title>
+    <title lang="ar">حكايات 2</title>
   </programme>
-  <programme start="20201209200000 +0000" stop="20201209220000 +0000" channel="ART Aflam 1">
-    <title lang="en">Gersoniera</title>
-    <title lang="ar">غارسونييرا</title>
+  <programme start="20201211050000 +0000" stop="20201211060000 +0000" channel="Hekayat 2">
+    <title lang="en">Al Qitar Al Akheer</title>
+    <title lang="ar">حكايات 2</title>
   </programme>
-  <programme start="20201209220000 +0000" stop="20201210003000 +0000" channel="ART Aflam 1">
-    <title lang="en">Fi Mahattet Masr</title>
-    <title lang="ar">في محطة مصر</title>
+  <programme start="20201211060000 +0000" stop="20201211070000 +0000" channel="Hekayat 2">
+    <title lang="en">Al Hayah Marrah Okhra</title>
+    <title lang="ar">حكايات 2</title>
+  </programme>
+  <programme start="20201211070000 +0000" stop="20201211080000 +0000" channel="Hekayat 2">
+    <title lang="en">Amma Ba'd</title>
+    <title lang="ar">حكايات 2</title>
+  </programme>
+  <programme start="20201211080000 +0000" stop="20201211090000 +0000" channel="Hekayat 2">
+    <title lang="en">Al Liqaa Al Akheer</title>
+    <title lang="ar">حكايات 2</title>
+  </programme>
+  <programme start="20201211090000 +0000" stop="20201211100000 +0000" channel="Hekayat 2">
+    <title lang="en">Halawet El Rouh</title>
+    <title lang="ar">حكايات 2</title>
+  </programme>
+  <programme start="20201211100000 +0000" stop="20201211110000 +0000" channel="Hekayat 2">
+    <title lang="en">A'qal Zawgain Fel Alam</title>
+    <title lang="ar">حكايات 2</title>
+  </programme>
+  <programme start="20201211110000 +0000" stop="20201211120000 +0000" channel="Hekayat 2">
+    <title lang="en">Al Qitar Al Akheer</title>
+    <title lang="ar">حكايات 2</title>
+  </programme>
+  <programme start="20201211120000 +0000" stop="20201211130000 +0000" channel="Hekayat 2">
+    <title lang="en">Al Hayah Marrah Okhra</title>
+    <title lang="ar">حكايات 2</title>
+  </programme>
+  <programme start="20201211130000 +0000" stop="20201211140000 +0000" channel="Hekayat 2">
+    <title lang="en">Amma Ba'd</title>
+    <title lang="ar">حكايات 2</title>
+  </programme>
+  <programme start="20201211140000 +0000" stop="20201211150000 +0000" channel="Hekayat 2">
+    <title lang="en">Al Liqaa Al Akheer</title>
+    <title lang="ar">حكايات 2</title>
+  </programme>
+  <programme start="20201211150000 +0000" stop="20201211160000 +0000" channel="Hekayat 2">
+    <title lang="en">Halawet El Rouh</title>
+    <title lang="ar">حكايات 2</title>
+  </programme>
+  <programme start="20201211160000 +0000" stop="20201211170000 +0000" channel="Hekayat 2">
+    <title lang="en">A'qal Zawgain Fel Alam</title>
+    <title lang="ar">حكايات 2</title>
+  </programme>
+  <programme start="20201211170000 +0000" stop="20201211180000 +0000" channel="Hekayat 2">
+    <title lang="en">Al Qitar Al Akheer</title>
+    <title lang="ar">حكايات 2</title>
+  </programme>
+  <programme start="20201211180000 +0000" stop="20201211190000 +0000" channel="Hekayat 2">
+    <title lang="en">Al Hayah Marrah Okhra</title>
+    <title lang="ar">حكايات 2</title>
+  </programme>
+  <programme start="20201211190000 +0000" stop="20201211200000 +0000" channel="Hekayat 2">
+    <title lang="en">Amma Ba'd</title>
+    <title lang="ar">حكايات 2</title>
   </programme>
   <programme start="20201210003000 +0000" stop="20201210031500 +0000" channel="ART Aflam 1">
     <title lang="en">Esharet Miroor</title>
@@ -751,49 +796,49 @@
     <title lang="en">Tatah</title>
     <title lang="ar">أفلام 1</title>
   </programme>
-  <programme start="20201209003000 +0000" stop="20201209031500 +0000" channel="ART Aflam 2">
-    <title lang="en">Shellet Al Mohtaleen</title>
-    <title lang="ar">شلة المحتالين</title>
+  <programme start="20201210200000 +0000" stop="20201210223000 +0000" channel="ART Aflam 1">
+    <title lang="en">Saidi Fel Gam'ah Al Amrekia</title>
+    <title lang="ar">صعيدي في الجامعة الأميركية</title>
   </programme>
-  <programme start="20201209031500 +0000" stop="20201209050000 +0000" channel="ART Aflam 2">
-    <title lang="en">Al Haqeeba Al Sawdaa</title>
-    <title lang="ar">الحقيبة السوداء</title>
+  <programme start="20201210223000 +0000" stop="20201211003000 +0000" channel="ART Aflam 1">
+    <title lang="en">Bahibak W Ana Kaman</title>
+    <title lang="ar">بحبك وأنا كمان</title>
   </programme>
-  <programme start="20201209050000 +0000" stop="20201209070000 +0000" channel="ART Aflam 2">
-    <title lang="en">Alsafqa</title>
-    <title lang="ar">أفلام 2</title>
+  <programme start="20201211003000 +0000" stop="20201211031500 +0000" channel="ART Aflam 1">
+    <title lang="en">Emra'a Wa Khams Regal</title>
+    <title lang="ar">إمرأة وخمس رجال</title>
   </programme>
-  <programme start="20201209070000 +0000" stop="20201209090000 +0000" channel="ART Aflam 2">
-    <title lang="en">Bae'at Altoffah</title>
-    <title lang="ar">بائعة التفاح</title>
+  <programme start="20201211031500 +0000" stop="20201211054500 +0000" channel="ART Aflam 1">
+    <title lang="en">Fatayat Lel Qutil</title>
+    <title lang="ar">فتيات للقتل</title>
   </programme>
-  <programme start="20201209090000 +0000" stop="20201209110000 +0000" channel="ART Aflam 2">
-    <title lang="en">Mamnou Fi Madraset Elbanat</title>
-    <title lang="ar">أفلام 2</title>
+  <programme start="20201211054500 +0000" stop="20201211073000 +0000" channel="ART Aflam 1">
+    <title lang="en">Gersoniera</title>
+    <title lang="ar">غارسونييرا</title>
   </programme>
-  <programme start="20201209110000 +0000" stop="20201209130000 +0000" channel="ART Aflam 2">
-    <title lang="en">Ashky Lemeen</title>
-    <title lang="ar">أشكي لمين</title>
+  <programme start="20201211073000 +0000" stop="20201211093000 +0000" channel="ART Aflam 1">
+    <title lang="en">Zakeya Zakareya Fil Parlaman</title>
+    <title lang="ar">زكية زكريا في البرلمان</title>
   </programme>
-  <programme start="20201209130000 +0000" stop="20201209153000 +0000" channel="ART Aflam 2">
-    <title lang="en">Hadd Elsaif</title>
-    <title lang="ar">حد السيف</title>
+  <programme start="20201211093000 +0000" stop="20201211113000 +0000" channel="ART Aflam 1">
+    <title lang="en">Sato Mothallath</title>
+    <title lang="ar">سطو مثلث</title>
   </programme>
-  <programme start="20201209153000 +0000" stop="20201209180000 +0000" channel="ART Aflam 2">
-    <title lang="en">Zanuba</title>
-    <title lang="ar">زنوبه</title>
+  <programme start="20201211113000 +0000" stop="20201211133000 +0000" channel="ART Aflam 1">
+    <title lang="en">Tatah</title>
+    <title lang="ar">أفلام 1</title>
   </programme>
-  <programme start="20201209180000 +0000" stop="20201209200000 +0000" channel="ART Aflam 2">
-    <title lang="en">Safqah Maa Emra'a</title>
-    <title lang="ar">صفقة مع امرأة</title>
+  <programme start="20201211133000 +0000" stop="20201211160000 +0000" channel="ART Aflam 1">
+    <title lang="en">Esharet Miroor</title>
+    <title lang="ar">إشارة مرور</title>
   </programme>
-  <programme start="20201209200000 +0000" stop="20201209220000 +0000" channel="ART Aflam 2">
-    <title lang="en">Almillionaire</title>
-    <title lang="ar">المليونير</title>
+  <programme start="20201211160000 +0000" stop="20201211180000 +0000" channel="ART Aflam 1">
+    <title lang="en">Medo Mashakel</title>
+    <title lang="ar">ميدو مشاكل</title>
   </programme>
-  <programme start="20201209220000 +0000" stop="20201210010000 +0000" channel="ART Aflam 2">
-    <title lang="en">Manzel Al Aelah Al Masmaouma</title>
-    <title lang="ar">أفلام 2</title>
+  <programme start="20201211180000 +0000" stop="20201211200000 +0000" channel="ART Aflam 1">
+    <title lang="en">Qaleb Garee`a</title>
+    <title lang="ar">أفلام 1</title>
   </programme>
   <programme start="20201210010000 +0000" stop="20201210031500 +0000" channel="ART Aflam 2">
     <title lang="en">Alarbagi</title>
@@ -831,45 +876,49 @@
     <title lang="en">Ayna Almafarr</title>
     <title lang="ar">أفلام 2</title>
   </programme>
-  <programme start="20201209000000 +0000" stop="20201209030000 +0000" channel="ART Cinema">
-    <title lang="en">Hala Madrid Visca Barca</title>
-    <title lang="ar">ART سينما</title>
+  <programme start="20201210203000 +0000" stop="20201210223000 +0000" channel="ART Aflam 2">
+    <title lang="en">Asafeer Al Ganna</title>
+    <title lang="ar">عصافير الجنة</title>
   </programme>
-  <programme start="20201209030000 +0000" stop="20201209080000 +0000" channel="ART Cinema">
-    <title lang="en">Poster</title>
-    <title lang="ar">بوستر</title>
+  <programme start="20201210223000 +0000" stop="20201211003000 +0000" channel="ART Aflam 2">
+    <title lang="en">Qaher Alzamann</title>
+    <title lang="ar">قاهر الزمان</title>
   </programme>
-  <programme start="20201209080000 +0000" stop="20201209100000 +0000" channel="ART Cinema">
-    <title lang="en">Hala Madrid Visca Barca</title>
-    <title lang="ar">ART سينما</title>
+  <programme start="20201211003000 +0000" stop="20201211031500 +0000" channel="ART Aflam 2">
+    <title lang="en">Hadd Elsaif</title>
+    <title lang="ar">حد السيف</title>
   </programme>
-  <programme start="20201209100000 +0000" stop="20201209120000 +0000" channel="ART Cinema">
-    <title lang="en">Beek En'eesh</title>
-    <title lang="ar">ART سينما</title>
+  <programme start="20201211031500 +0000" stop="20201211053000 +0000" channel="ART Aflam 2">
+    <title lang="en">Zanuba</title>
+    <title lang="ar">زنوبه</title>
   </programme>
-  <programme start="20201209120000 +0000" stop="20201209140000 +0000" channel="ART Cinema">
-    <title lang="en">Parkour</title>
-    <title lang="ar">ART سينما</title>
+  <programme start="20201211053000 +0000" stop="20201211073000 +0000" channel="ART Aflam 2">
+    <title lang="en">Leq`a Fi  Tadamor</title>
+    <title lang="ar">أفلام 2</title>
   </programme>
-  <programme start="20201209140000 +0000" stop="20201209160000 +0000" channel="ART Cinema">
-    <title lang="en">Hala Madrid Visca Barca</title>
-    <title lang="ar">ART سينما</title>
+  <programme start="20201211073000 +0000" stop="20201211093000 +0000" channel="ART Aflam 2">
+    <title lang="en">Tareeq Al Abtal</title>
+    <title lang="ar">طريق الأبطال</title>
   </programme>
-  <programme start="20201209160000 +0000" stop="20201209180000 +0000" channel="ART Cinema">
-    <title lang="en">Beek En'eesh</title>
-    <title lang="ar">ART سينما</title>
+  <programme start="20201211093000 +0000" stop="20201211113000 +0000" channel="ART Aflam 2">
+    <title lang="en">Safqah Maa Emra'a</title>
+    <title lang="ar">صفقة مع امرأة</title>
   </programme>
-  <programme start="20201209180000 +0000" stop="20201209200000 +0000" channel="ART Cinema">
-    <title lang="en">Parkour</title>
-    <title lang="ar">ART سينما</title>
+  <programme start="20201211113000 +0000" stop="20201211133000 +0000" channel="ART Aflam 2">
+    <title lang="en">Almillionaire</title>
+    <title lang="ar">المليونير</title>
   </programme>
-  <programme start="20201209200000 +0000" stop="20201209220000 +0000" channel="ART Cinema">
-    <title lang="en">Hala Madrid Visca Barca</title>
-    <title lang="ar">ART سينما</title>
+  <programme start="20201211133000 +0000" stop="20201211160000 +0000" channel="ART Aflam 2">
+    <title lang="en">Alshak Ya Habibi</title>
+    <title lang="ar">الشك يا حبيبى</title>
   </programme>
-  <programme start="20201209220000 +0000" stop="20201210000000 +0000" channel="ART Cinema">
-    <title lang="en">Beek En'eesh</title>
-    <title lang="ar">ART سينما</title>
+  <programme start="20201211160000 +0000" stop="20201211180000 +0000" channel="ART Aflam 2">
+    <title lang="en">Hamati Malak</title>
+    <title lang="ar">أفلام 2</title>
+  </programme>
+  <programme start="20201211180000 +0000" stop="20201211203000 +0000" channel="ART Aflam 2">
+    <title lang="en">Khalli Balak Men Zouzou</title>
+    <title lang="ar">خليلي بالك من زوزو</title>
   </programme>
   <programme start="20201210000000 +0000" stop="20201210030000 +0000" channel="ART Cinema">
     <title lang="en">Parkour</title>
@@ -903,21 +952,45 @@
     <title lang="en">Beek En'eesh</title>
     <title lang="ar">ART سينما</title>
   </programme>
-  <programme start="20201209000000 +0000" stop="20201209060000 +0000" channel="Ellay.com">
-    <title lang="en">Ellay.com</title>
-    <title lang="ar">إيلايكوم</title>
+  <programme start="20201210200000 +0000" stop="20201210220000 +0000" channel="ART Cinema">
+    <title lang="en">Parkour</title>
+    <title lang="ar">ART سينما</title>
   </programme>
-  <programme start="20201209060000 +0000" stop="20201209120000 +0000" channel="Ellay.com">
-    <title lang="en">Ellay.com</title>
-    <title lang="ar">إيلايكوم</title>
+  <programme start="20201210220000 +0000" stop="20201211000000 +0000" channel="ART Cinema">
+    <title lang="en">Hala Madrid Visca Barca</title>
+    <title lang="ar">ART سينما</title>
   </programme>
-  <programme start="20201209120000 +0000" stop="20201209180000 +0000" channel="Ellay.com">
-    <title lang="en">Ellay.com</title>
-    <title lang="ar">إيلايكوم</title>
+  <programme start="20201211000000 +0000" stop="20201211030000 +0000" channel="ART Cinema">
+    <title lang="en">Beek En'eesh</title>
+    <title lang="ar">ART سينما</title>
   </programme>
-  <programme start="20201209180000 +0000" stop="20201210000000 +0000" channel="Ellay.com">
-    <title lang="en">Ellay.com</title>
-    <title lang="ar">إيلايكوم</title>
+  <programme start="20201211030000 +0000" stop="20201211080000 +0000" channel="ART Cinema">
+    <title lang="en">Poster</title>
+    <title lang="ar">بوستر</title>
+  </programme>
+  <programme start="20201211080000 +0000" stop="20201211100000 +0000" channel="ART Cinema">
+    <title lang="en">Beek En'eesh</title>
+    <title lang="ar">ART سينما</title>
+  </programme>
+  <programme start="20201211100000 +0000" stop="20201211120000 +0000" channel="ART Cinema">
+    <title lang="en">Parkour</title>
+    <title lang="ar">ART سينما</title>
+  </programme>
+  <programme start="20201211120000 +0000" stop="20201211140000 +0000" channel="ART Cinema">
+    <title lang="en">Hala Madrid Visca Barca</title>
+    <title lang="ar">ART سينما</title>
+  </programme>
+  <programme start="20201211140000 +0000" stop="20201211160000 +0000" channel="ART Cinema">
+    <title lang="en">Beek En'eesh</title>
+    <title lang="ar">ART سينما</title>
+  </programme>
+  <programme start="20201211160000 +0000" stop="20201211180000 +0000" channel="ART Cinema">
+    <title lang="en">Parkour</title>
+    <title lang="ar">ART سينما</title>
+  </programme>
+  <programme start="20201211180000 +0000" stop="20201211200000 +0000" channel="ART Cinema">
+    <title lang="en">Hala Madrid Visca Barca</title>
+    <title lang="ar">ART سينما</title>
   </programme>
   <programme start="20201210000000 +0000" stop="20201210060000 +0000" channel="Ellay.com">
     <title lang="en">Ellay.com</title>
@@ -931,21 +1004,21 @@
     <title lang="en">Ellay.com</title>
     <title lang="ar">إيلايكوم</title>
   </programme>
-  <programme start="20201209000000 +0000" stop="20201209060000 +0000" channel="Al Aan TV">
-    <title lang="en">Al Aan TV</title>
-    <title lang="ar">تلفزيون الآن</title>
+  <programme start="20201210180000 +0000" stop="20201211000000 +0000" channel="Ellay.com">
+    <title lang="en">Ellay.com</title>
+    <title lang="ar">إيلايكوم</title>
   </programme>
-  <programme start="20201209060000 +0000" stop="20201209120000 +0000" channel="Al Aan TV">
-    <title lang="en">Al Aan TV</title>
-    <title lang="ar">تلفزيون الآن</title>
+  <programme start="20201211000000 +0000" stop="20201211060000 +0000" channel="Ellay.com">
+    <title lang="en">Ellay.com</title>
+    <title lang="ar">إيلايكوم</title>
   </programme>
-  <programme start="20201209120000 +0000" stop="20201209180000 +0000" channel="Al Aan TV">
-    <title lang="en">Al Aan TV</title>
-    <title lang="ar">تلفزيون الآن</title>
+  <programme start="20201211060000 +0000" stop="20201211120000 +0000" channel="Ellay.com">
+    <title lang="en">Ellay.com</title>
+    <title lang="ar">إيلايكوم</title>
   </programme>
-  <programme start="20201209180000 +0000" stop="20201210000000 +0000" channel="Al Aan TV">
-    <title lang="en">Al Aan TV</title>
-    <title lang="ar">تلفزيون الآن</title>
+  <programme start="20201211120000 +0000" stop="20201211180000 +0000" channel="Ellay.com">
+    <title lang="en">Ellay.com</title>
+    <title lang="ar">إيلايكوم</title>
   </programme>
   <programme start="20201210000000 +0000" stop="20201210060000 +0000" channel="Al Aan TV">
     <title lang="en">Al Aan TV</title>
@@ -959,181 +1032,21 @@
     <title lang="en">Al Aan TV</title>
     <title lang="ar">تلفزيون الآن</title>
   </programme>
-  <programme start="20201209003000 +0000" stop="20201209013000 +0000" channel="Beity TV">
-    <title lang="en">Sofretek Ahla</title>
-    <title lang="ar">سفرتك أحلا</title>
+  <programme start="20201210180000 +0000" stop="20201211000000 +0000" channel="Al Aan TV">
+    <title lang="en">Al Aan TV</title>
+    <title lang="ar">تلفزيون الآن</title>
   </programme>
-  <programme start="20201209013000 +0000" stop="20201209020000 +0000" channel="Beity TV">
-    <title lang="en">Lamsat Jamal</title>
-    <title lang="ar">لمسات جمال</title>
+  <programme start="20201211000000 +0000" stop="20201211060000 +0000" channel="Al Aan TV">
+    <title lang="en">Al Aan TV</title>
+    <title lang="ar">تلفزيون الآن</title>
   </programme>
-  <programme start="20201209020000 +0000" stop="20201209023000 +0000" channel="Beity TV">
-    <title lang="en">Asrar_eltabkh</title>
-    <title lang="ar">أسرار الطبخ</title>
+  <programme start="20201211060000 +0000" stop="20201211120000 +0000" channel="Al Aan TV">
+    <title lang="en">Al Aan TV</title>
+    <title lang="ar">تلفزيون الآن</title>
   </programme>
-  <programme start="20201209023000 +0000" stop="20201209024500 +0000" channel="Beity TV">
-    <title lang="en">Monasabat</title>
-    <title lang="ar">مناسبات</title>
-  </programme>
-  <programme start="20201209024500 +0000" stop="20201209030000 +0000" channel="Beity TV">
-    <title lang="en">From Nature</title>
-    <title lang="ar">فروم ناتشور</title>
-  </programme>
-  <programme start="20201209030000 +0000" stop="20201209033000 +0000" channel="Beity TV">
-    <title lang="en">Ab Sewing</title>
-    <title lang="ar">أب سيوينغ</title>
-  </programme>
-  <programme start="20201209033000 +0000" stop="20201209040000 +0000" channel="Beity TV">
-    <title lang="en">Crochet And More</title>
-    <title lang="ar">كروشيه آند مور</title>
-  </programme>
-  <programme start="20201209040000 +0000" stop="20201209043000 +0000" channel="Beity TV">
-    <title lang="en">Dina's Party</title>
-    <title lang="ar">ديناز بارتي</title>
-  </programme>
-  <programme start="20201209043000 +0000" stop="20201209050000 +0000" channel="Beity TV">
-    <title lang="en">Paint Paper And Crafts</title>
-    <title lang="ar">بينت بيبر آند كرافتس</title>
-  </programme>
-  <programme start="20201209050000 +0000" stop="20201209060000 +0000" channel="Beity TV">
-    <title lang="en">Kol Alfonon (All The Arts)</title>
-    <title lang="ar">كل الفنون</title>
-  </programme>
-  <programme start="20201209060000 +0000" stop="20201209070000 +0000" channel="Beity TV">
-    <title lang="en">Amazing Water Homes</title>
-    <title lang="ar">اميزينغ واتر هومز</title>
-  </programme>
-  <programme start="20201209070000 +0000" stop="20201209080000 +0000" channel="Beity TV">
-    <title lang="en">Yoga TV</title>
-    <title lang="ar">يوغا تي في</title>
-  </programme>
-  <programme start="20201209080000 +0000" stop="20201209083000 +0000" channel="Beity TV">
-    <title lang="en">Cool Look Fitness</title>
-    <title lang="ar">كوول لوك فيتنس</title>
-  </programme>
-  <programme start="20201209083500 +0000" stop="20201209090500 +0000" channel="Beity TV">
-    <title lang="en">Paper Guru</title>
-    <title lang="ar">بيبر غورو</title>
-  </programme>
-  <programme start="20201209090500 +0000" stop="20201209094000 +0000" channel="Beity TV">
-    <title lang="en">Be Aqal Almaqadeer ( 5 Ingredients Or Less )</title>
-    <title lang="ar">بأقل المقادير</title>
-  </programme>
-  <programme start="20201209094000 +0000" stop="20201209095500 +0000" channel="Beity TV">
-    <title lang="en">Origami</title>
-    <title lang="ar">أوريجامي</title>
-  </programme>
-  <programme start="20201209100000 +0000" stop="20201209104500 +0000" channel="Beity TV">
-    <title lang="en">Vegan</title>
-    <title lang="ar">فيغان</title>
-  </programme>
-  <programme start="20201209104500 +0000" stop="20201209105500 +0000" channel="Beity TV">
-    <title lang="en">World In Pictures</title>
-    <title lang="ar">وورلد إن بيكشترز</title>
-  </programme>
-  <programme start="20201209110000 +0000" stop="20201209114500 +0000" channel="Beity TV">
-    <title lang="en">Nakhat Khalejeyah</title>
-    <title lang="ar">نكهات خليجية</title>
-  </programme>
-  <programme start="20201209114500 +0000" stop="20201209115500 +0000" channel="Beity TV">
-    <title lang="en">Do It Yourself</title>
-    <title lang="ar">دو إت يورسيلف</title>
-  </programme>
-  <programme start="20201209120000 +0000" stop="20201209123000 +0000" channel="Beity TV">
-    <title lang="en">Monasabat</title>
-    <title lang="ar">مناسبات</title>
-  </programme>
-  <programme start="20201209123000 +0000" stop="20201209130000 +0000" channel="Beity TV">
-    <title lang="en">West End Salvage</title>
-    <title lang="ar">ويست إند سالفيج</title>
-  </programme>
-  <programme start="20201209130000 +0000" stop="20201209133000 +0000" channel="Beity TV">
-    <title lang="en">Quick Desserts (7ala Saree3)</title>
-    <title lang="ar">حلى سريع</title>
-  </programme>
-  <programme start="20201209133000 +0000" stop="20201209140000 +0000" channel="Beity TV">
-    <title lang="en">Ab Sewing</title>
-    <title lang="ar">أب سيوينغ</title>
-  </programme>
-  <programme start="20201209140500 +0000" stop="20201209141500 +0000" channel="Beity TV">
-    <title lang="en">Secret Ingredient</title>
-    <title lang="ar">سيكريت إنغريديانت</title>
-  </programme>
-  <programme start="20201209143000 +0000" stop="20201209150000 +0000" channel="Beity TV">
-    <title lang="en">Shouf El Zohour</title>
-    <title lang="ar">شوف الزهور</title>
-  </programme>
-  <programme start="20201209150500 +0000" stop="20201209151500 +0000" channel="Beity TV">
-    <title lang="en">Food Lab</title>
-    <title lang="ar">فوود لاب</title>
-  </programme>
-  <programme start="20201209151500 +0000" stop="20201209153000 +0000" channel="Beity TV">
-    <title lang="en">Cool Look Hair Style</title>
-    <title lang="ar">كوول لوك هير ستايل</title>
-  </programme>
-  <programme start="20201209153000 +0000" stop="20201209154000 +0000" channel="Beity TV">
-    <title lang="en">Simple Food</title>
-    <title lang="ar">سيمبل فوود</title>
-  </programme>
-  <programme start="20201209160000 +0000" stop="20201209163000 +0000" channel="Beity TV">
-    <title lang="en">Lamasat Helwa</title>
-    <title lang="ar">لمسات حلوة</title>
-  </programme>
-  <programme start="20201209163000 +0000" stop="20201209170000 +0000" channel="Beity TV">
-    <title lang="en">Crochet And More</title>
-    <title lang="ar">كروشيه آند مور</title>
-  </programme>
-  <programme start="20201209170000 +0000" stop="20201209180000 +0000" channel="Beity TV">
-    <title lang="en">Vegan</title>
-    <title lang="ar">فيغان</title>
-  </programme>
-  <programme start="20201209180000 +0000" stop="20201209183000 +0000" channel="Beity TV">
-    <title lang="en">Be Aqal Almaqadeer ( 5 Ingredients Or Less )</title>
-    <title lang="ar">بأقل المقادير</title>
-  </programme>
-  <programme start="20201209183000 +0000" stop="20201209190000 +0000" channel="Beity TV">
-    <title lang="en">Nakhat Khalejeyah</title>
-    <title lang="ar">نكهات خليجية</title>
-  </programme>
-  <programme start="20201209190000 +0000" stop="20201209193000 +0000" channel="Beity TV">
-    <title lang="en">Shouf El Zohour</title>
-    <title lang="ar">شوف الزهور</title>
-  </programme>
-  <programme start="20201209193000 +0000" stop="20201209200000 +0000" channel="Beity TV">
-    <title lang="en">Sehi Eqtessadi Wbas</title>
-    <title lang="ar">صحي اقتصادي وبس</title>
-  </programme>
-  <programme start="20201209200000 +0000" stop="20201209203000 +0000" channel="Beity TV">
-    <title lang="en">For Your Home</title>
-    <title lang="ar">فور يور هوم</title>
-  </programme>
-  <programme start="20201209203000 +0000" stop="20201209204500 +0000" channel="Beity TV">
-    <title lang="en">Monasabat</title>
-    <title lang="ar">مناسبات</title>
-  </programme>
-  <programme start="20201209204500 +0000" stop="20201209210000 +0000" channel="Beity TV">
-    <title lang="en">Natural From Your Kitchen</title>
-    <title lang="ar">ناتشورال فروم يور كيتشن</title>
-  </programme>
-  <programme start="20201209210000 +0000" stop="20201209213000 +0000" channel="Beity TV">
-    <title lang="en">Lamasat Helwa</title>
-    <title lang="ar">لمسات حلوة</title>
-  </programme>
-  <programme start="20201209213000 +0000" stop="20201209220000 +0000" channel="Beity TV">
-    <title lang="en">Ab Sewing</title>
-    <title lang="ar">أب سيوينغ</title>
-  </programme>
-  <programme start="20201209220000 +0000" stop="20201209223000 +0000" channel="Beity TV">
-    <title lang="en">Quick Desserts (7ala Saree3)</title>
-    <title lang="ar">حلى سريع</title>
-  </programme>
-  <programme start="20201209223000 +0000" stop="20201209230000 +0000" channel="Beity TV">
-    <title lang="en">Crochet And More</title>
-    <title lang="ar">كروشيه آند مور</title>
-  </programme>
-  <programme start="20201209230000 +0000" stop="20201210000000 +0000" channel="Beity TV">
-    <title lang="en">West End Salvage</title>
-    <title lang="ar">ويست إند سالفيج</title>
+  <programme start="20201211120000 +0000" stop="20201211180000 +0000" channel="Al Aan TV">
+    <title lang="en">Al Aan TV</title>
+    <title lang="ar">تلفزيون الآن</title>
   </programme>
   <programme start="20201210000000 +0000" stop="20201210003000 +0000" channel="Beity TV">
     <title lang="en">Sehi Eqtessadi Wbas</title>
@@ -1303,21 +1216,197 @@
     <title lang="en">Cool Look Makeup</title>
     <title lang="ar">كوول لوك ميك أب</title>
   </programme>
-  <programme start="20201209000000 +0000" stop="20201209060000 +0000" channel="KTV1 HD">
-    <title lang="en">KTV 1 HD</title>
-    <title lang="ar">KTV1 (Kuwait)</title>
+  <programme start="20201210204500 +0000" stop="20201210210000 +0000" channel="Beity TV">
+    <title lang="en">From Nature</title>
+    <title lang="ar">فروم ناتشور</title>
   </programme>
-  <programme start="20201209060000 +0000" stop="20201209120000 +0000" channel="KTV1 HD">
-    <title lang="en">KTV 1 HD</title>
-    <title lang="ar">KTV1 (Kuwait)</title>
+  <programme start="20201210210000 +0000" stop="20201210213000 +0000" channel="Beity TV">
+    <title lang="en">Ab Sewing</title>
+    <title lang="ar">أب سيوينغ</title>
   </programme>
-  <programme start="20201209120000 +0000" stop="20201209180000 +0000" channel="KTV1 HD">
-    <title lang="en">KTV 1 HD</title>
-    <title lang="ar">KTV1 (Kuwait)</title>
+  <programme start="20201210213000 +0000" stop="20201210220000 +0000" channel="Beity TV">
+    <title lang="en">Crochet And More</title>
+    <title lang="ar">كروشيه آند مور</title>
   </programme>
-  <programme start="20201209180000 +0000" stop="20201210000000 +0000" channel="KTV1 HD">
-    <title lang="en">KTV 1 HD</title>
-    <title lang="ar">KTV1 (Kuwait)</title>
+  <programme start="20201210220000 +0000" stop="20201210223000 +0000" channel="Beity TV">
+    <title lang="en">Quick Desserts (7ala Saree3)</title>
+    <title lang="ar">حلى سريع</title>
+  </programme>
+  <programme start="20201210223000 +0000" stop="20201210230000 +0000" channel="Beity TV">
+    <title lang="en">Qussasat (Scraps)</title>
+    <title lang="ar">قصاصات</title>
+  </programme>
+  <programme start="20201210230000 +0000" stop="20201210233000 +0000" channel="Beity TV">
+    <title lang="en">Kol Alfonon (All The Arts)</title>
+    <title lang="ar">كل الفنون</title>
+  </programme>
+  <programme start="20201210233000 +0000" stop="20201211000000 +0000" channel="Beity TV">
+    <title lang="en">Tasreha</title>
+    <title lang="ar">تسريحة</title>
+  </programme>
+  <programme start="20201211000000 +0000" stop="20201211010000 +0000" channel="Beity TV">
+    <title lang="en">Zenat Alcake</title>
+    <title lang="ar">زينة الكيك</title>
+  </programme>
+  <programme start="20201211010000 +0000" stop="20201211013000 +0000" channel="Beity TV">
+    <title lang="en">Be Aqal Almaqadeer ( 5 Ingredients Or Less )</title>
+    <title lang="ar">بأقل المقادير</title>
+  </programme>
+  <programme start="20201211013000 +0000" stop="20201211020000 +0000" channel="Beity TV">
+    <title lang="en">Nakhat Khalejeyah</title>
+    <title lang="ar">نكهات خليجية</title>
+  </programme>
+  <programme start="20201211020000 +0000" stop="20201211023000 +0000" channel="Beity TV">
+    <title lang="en">Asrar_eltabkh</title>
+    <title lang="ar">أسرار الطبخ</title>
+  </programme>
+  <programme start="20201211023000 +0000" stop="20201211033000 +0000" channel="Beity TV">
+    <title lang="en">Decoraft</title>
+    <title lang="ar">ديكورافت</title>
+  </programme>
+  <programme start="20201211033000 +0000" stop="20201211034500 +0000" channel="Beity TV">
+    <title lang="en">Cool Look Makeup</title>
+    <title lang="ar">كوول لوك ميك أب</title>
+  </programme>
+  <programme start="20201211034500 +0000" stop="20201211040000 +0000" channel="Beity TV">
+    <title lang="en">From Nature</title>
+    <title lang="ar">فروم ناتشور</title>
+  </programme>
+  <programme start="20201211040000 +0000" stop="20201211043000 +0000" channel="Beity TV">
+    <title lang="en">Ab Sewing</title>
+    <title lang="ar">أب سيوينغ</title>
+  </programme>
+  <programme start="20201211043000 +0000" stop="20201211050000 +0000" channel="Beity TV">
+    <title lang="en">Crochet And More</title>
+    <title lang="ar">كروشيه آند مور</title>
+  </programme>
+  <programme start="20201211050000 +0000" stop="20201211053000 +0000" channel="Beity TV">
+    <title lang="en">Quick Desserts (7ala Saree3)</title>
+    <title lang="ar">حلى سريع</title>
+  </programme>
+  <programme start="20201211053000 +0000" stop="20201211060000 +0000" channel="Beity TV">
+    <title lang="en">Qussasat (Scraps)</title>
+    <title lang="ar">قصاصات</title>
+  </programme>
+  <programme start="20201211060000 +0000" stop="20201211063000 +0000" channel="Beity TV">
+    <title lang="en">Kol Alfonon (All The Arts)</title>
+    <title lang="ar">كل الفنون</title>
+  </programme>
+  <programme start="20201211063000 +0000" stop="20201211070000 +0000" channel="Beity TV">
+    <title lang="en">Tasreha</title>
+    <title lang="ar">تسريحة</title>
+  </programme>
+  <programme start="20201211070000 +0000" stop="20201211080000 +0000" channel="Beity TV">
+    <title lang="en">Zenat Alcake</title>
+    <title lang="ar">زينة الكيك</title>
+  </programme>
+  <programme start="20201211080000 +0000" stop="20201211082000 +0000" channel="Beity TV">
+    <title lang="en">Cool Look Fitness</title>
+    <title lang="ar">كوول لوك فيتنس</title>
+  </programme>
+  <programme start="20201211082000 +0000" stop="20201211083000 +0000" channel="Beity TV">
+    <title lang="en">Simple Food</title>
+    <title lang="ar">سيمبل فوود</title>
+  </programme>
+  <programme start="20201211083000 +0000" stop="20201211084500 +0000" channel="Beity TV">
+    <title lang="en">Tasty Morning</title>
+    <title lang="ar">تيستي مورنينغ</title>
+  </programme>
+  <programme start="20201211084500 +0000" stop="20201211090500 +0000" channel="Beity TV">
+    <title lang="en">World In Pictures</title>
+    <title lang="ar">وورلد إن بيكشترز</title>
+  </programme>
+  <programme start="20201211090500 +0000" stop="20201211094000 +0000" channel="Beity TV">
+    <title lang="en">Be Aqal Almaqadeer ( 5 Ingredients Or Less )</title>
+    <title lang="ar">بأقل المقادير</title>
+  </programme>
+  <programme start="20201211094000 +0000" stop="20201211100000 +0000" channel="Beity TV">
+    <title lang="en">Origami</title>
+    <title lang="ar">أوريجامي</title>
+  </programme>
+  <programme start="20201211100000 +0000" stop="20201211105500 +0000" channel="Beity TV">
+    <title lang="en">Sofretek Ahla</title>
+    <title lang="ar">سفرتك أحلا</title>
+  </programme>
+  <programme start="20201211110000 +0000" stop="20201211114500 +0000" channel="Beity TV">
+    <title lang="en">Nakhat Khalejeyah</title>
+    <title lang="ar">نكهات خليجية</title>
+  </programme>
+  <programme start="20201211114500 +0000" stop="20201211120000 +0000" channel="Beity TV">
+    <title lang="en">Do It Yourself</title>
+    <title lang="ar">دو إت يورسيلف</title>
+  </programme>
+  <programme start="20201211120000 +0000" stop="20201211123000 +0000" channel="Beity TV">
+    <title lang="en">Shouf El Zohour</title>
+    <title lang="ar">شوف الزهور</title>
+  </programme>
+  <programme start="20201211123000 +0000" stop="20201211130000 +0000" channel="Beity TV">
+    <title lang="en">Lamsat Jamal</title>
+    <title lang="ar">لمسات جمال</title>
+  </programme>
+  <programme start="20201211130000 +0000" stop="20201211133000 +0000" channel="Beity TV">
+    <title lang="en">Quick Desserts (7ala Saree3)</title>
+    <title lang="ar">حلى سريع</title>
+  </programme>
+  <programme start="20201211133000 +0000" stop="20201211140000 +0000" channel="Beity TV">
+    <title lang="en">Ab Sewing</title>
+    <title lang="ar">أب سيوينغ</title>
+  </programme>
+  <programme start="20201211140500 +0000" stop="20201211141500 +0000" channel="Beity TV">
+    <title lang="en">Secret Ingredient</title>
+    <title lang="ar">سيكريت إنغريديانت</title>
+  </programme>
+  <programme start="20201211141500 +0000" stop="20201211142500 +0000" channel="Beity TV">
+    <title lang="en">Baby Food</title>
+    <title lang="ar">بيبي فوود</title>
+  </programme>
+  <programme start="20201211143000 +0000" stop="20201211150000 +0000" channel="Beity TV">
+    <title lang="en">Hejabi</title>
+    <title lang="ar">حجابي</title>
+  </programme>
+  <programme start="20201211150500 +0000" stop="20201211151500 +0000" channel="Beity TV">
+    <title lang="en">Food Lab</title>
+    <title lang="ar">فوود لاب</title>
+  </programme>
+  <programme start="20201211151500 +0000" stop="20201211153000 +0000" channel="Beity TV">
+    <title lang="en">Cool  Look- Manicure</title>
+    <title lang="ar">كوول لووك مانيكور</title>
+  </programme>
+  <programme start="20201211153000 +0000" stop="20201211154000 +0000" channel="Beity TV">
+    <title lang="en">Simple Food</title>
+    <title lang="ar">سيمبل فوود</title>
+  </programme>
+  <programme start="20201211155000 +0000" stop="20201211160000 +0000" channel="Beity TV">
+    <title lang="en">From Nature</title>
+    <title lang="ar">فروم ناتشور</title>
+  </programme>
+  <programme start="20201211160000 +0000" stop="20201211163000 +0000" channel="Beity TV">
+    <title lang="en">Monasabat</title>
+    <title lang="ar">مناسبات</title>
+  </programme>
+  <programme start="20201211163000 +0000" stop="20201211170000 +0000" channel="Beity TV">
+    <title lang="en">Malek_elwasafat</title>
+    <title lang="ar">مالك الوصفات</title>
+  </programme>
+  <programme start="20201211170000 +0000" stop="20201211180000 +0000" channel="Beity TV">
+    <title lang="en">Cake And Cookies</title>
+    <title lang="ar">كيك آند كوكيز</title>
+  </programme>
+  <programme start="20201211180000 +0000" stop="20201211183000 +0000" channel="Beity TV">
+    <title lang="en">Be Aqal Almaqadeer ( 5 Ingredients Or Less )</title>
+    <title lang="ar">بأقل المقادير</title>
+  </programme>
+  <programme start="20201211183000 +0000" stop="20201211190000 +0000" channel="Beity TV">
+    <title lang="en">Nakhat Khalejeyah</title>
+    <title lang="ar">نكهات خليجية</title>
+  </programme>
+  <programme start="20201211190000 +0000" stop="20201211192500 +0000" channel="Beity TV">
+    <title lang="en">Shouf El Zohour</title>
+    <title lang="ar">شوف الزهور</title>
+  </programme>
+  <programme start="20201211193000 +0000" stop="20201211203000 +0000" channel="Beity TV">
+    <title lang="en">Sofretek Ahla</title>
+    <title lang="ar">سفرتك أحلا</title>
   </programme>
   <programme start="20201210000000 +0000" stop="20201210060000 +0000" channel="KTV1 HD">
     <title lang="en">KTV 1 HD</title>
@@ -1331,21 +1420,21 @@
     <title lang="en">KTV 1 HD</title>
     <title lang="ar">KTV1 (Kuwait)</title>
   </programme>
-  <programme start="20201209000000 +0000" stop="20201209060000 +0000" channel="KTV2 HD">
-    <title lang="en">KT2 HD</title>
-    <title lang="ar">KTV 2 HD</title>
+  <programme start="20201210180000 +0000" stop="20201211000000 +0000" channel="KTV1 HD">
+    <title lang="en">KTV 1 HD</title>
+    <title lang="ar">KTV1 (Kuwait)</title>
   </programme>
-  <programme start="20201209060000 +0000" stop="20201209120000 +0000" channel="KTV2 HD">
-    <title lang="en">KT2 HD</title>
-    <title lang="ar">KTV 2 HD</title>
+  <programme start="20201211000000 +0000" stop="20201211060000 +0000" channel="KTV1 HD">
+    <title lang="en">KTV 1 HD</title>
+    <title lang="ar">KTV1 (Kuwait)</title>
   </programme>
-  <programme start="20201209120000 +0000" stop="20201209180000 +0000" channel="KTV2 HD">
-    <title lang="en">KT2 HD</title>
-    <title lang="ar">KTV 2 HD</title>
+  <programme start="20201211060000 +0000" stop="20201211120000 +0000" channel="KTV1 HD">
+    <title lang="en">KTV 1 HD</title>
+    <title lang="ar">KTV1 (Kuwait)</title>
   </programme>
-  <programme start="20201209180000 +0000" stop="20201210000000 +0000" channel="KTV2 HD">
-    <title lang="en">KT2 HD</title>
-    <title lang="ar">KTV 2 HD</title>
+  <programme start="20201211120000 +0000" stop="20201211180000 +0000" channel="KTV1 HD">
+    <title lang="en">KTV 1 HD</title>
+    <title lang="ar">KTV1 (Kuwait)</title>
   </programme>
   <programme start="20201210000000 +0000" stop="20201210060000 +0000" channel="KTV2 HD">
     <title lang="en">KT2 HD</title>
@@ -1359,21 +1448,21 @@
     <title lang="en">KT2 HD</title>
     <title lang="ar">KTV 2 HD</title>
   </programme>
-  <programme start="20201209000000 +0000" stop="20201209060000 +0000" channel="KTV Ethraa HD">
-    <title lang="en">KTV Ethraa HD</title>
-    <title lang="ar">KTV ETHRAA HD</title>
+  <programme start="20201210180000 +0000" stop="20201211000000 +0000" channel="KTV2 HD">
+    <title lang="en">KT2 HD</title>
+    <title lang="ar">KTV 2 HD</title>
   </programme>
-  <programme start="20201209060000 +0000" stop="20201209120000 +0000" channel="KTV Ethraa HD">
-    <title lang="en">KTV Ethraa HD</title>
-    <title lang="ar">KTV ETHRAA HD</title>
+  <programme start="20201211000000 +0000" stop="20201211060000 +0000" channel="KTV2 HD">
+    <title lang="en">KT2 HD</title>
+    <title lang="ar">KTV 2 HD</title>
   </programme>
-  <programme start="20201209120000 +0000" stop="20201209180000 +0000" channel="KTV Ethraa HD">
-    <title lang="en">KTV Ethraa HD</title>
-    <title lang="ar">KTV ETHRAA HD</title>
+  <programme start="20201211060000 +0000" stop="20201211120000 +0000" channel="KTV2 HD">
+    <title lang="en">KT2 HD</title>
+    <title lang="ar">KTV 2 HD</title>
   </programme>
-  <programme start="20201209180000 +0000" stop="20201210000000 +0000" channel="KTV Ethraa HD">
-    <title lang="en">KTV Ethraa HD</title>
-    <title lang="ar">KTV ETHRAA HD</title>
+  <programme start="20201211120000 +0000" stop="20201211180000 +0000" channel="KTV2 HD">
+    <title lang="en">KT2 HD</title>
+    <title lang="ar">KTV 2 HD</title>
   </programme>
   <programme start="20201210000000 +0000" stop="20201210060000 +0000" channel="KTV Ethraa HD">
     <title lang="en">KTV Ethraa HD</title>
@@ -1387,21 +1476,21 @@
     <title lang="en">KTV Ethraa HD</title>
     <title lang="ar">KTV ETHRAA HD</title>
   </programme>
-  <programme start="20201209000000 +0000" stop="20201209060000 +0000" channel="KTV Arabe HD">
-    <title lang="en">Al Arabi HD</title>
-    <title lang="ar">العربي HD</title>
+  <programme start="20201210180000 +0000" stop="20201211000000 +0000" channel="KTV Ethraa HD">
+    <title lang="en">KTV Ethraa HD</title>
+    <title lang="ar">KTV ETHRAA HD</title>
   </programme>
-  <programme start="20201209060000 +0000" stop="20201209120000 +0000" channel="KTV Arabe HD">
-    <title lang="en">Al Arabi HD</title>
-    <title lang="ar">العربي HD</title>
+  <programme start="20201211000000 +0000" stop="20201211060000 +0000" channel="KTV Ethraa HD">
+    <title lang="en">KTV Ethraa HD</title>
+    <title lang="ar">KTV ETHRAA HD</title>
   </programme>
-  <programme start="20201209120000 +0000" stop="20201209180000 +0000" channel="KTV Arabe HD">
-    <title lang="en">Al Arabi HD</title>
-    <title lang="ar">العربي HD</title>
+  <programme start="20201211060000 +0000" stop="20201211120000 +0000" channel="KTV Ethraa HD">
+    <title lang="en">KTV Ethraa HD</title>
+    <title lang="ar">KTV ETHRAA HD</title>
   </programme>
-  <programme start="20201209180000 +0000" stop="20201210000000 +0000" channel="KTV Arabe HD">
-    <title lang="en">Al Arabi HD</title>
-    <title lang="ar">العربي HD</title>
+  <programme start="20201211120000 +0000" stop="20201211180000 +0000" channel="KTV Ethraa HD">
+    <title lang="en">KTV Ethraa HD</title>
+    <title lang="ar">KTV ETHRAA HD</title>
   </programme>
   <programme start="20201210000000 +0000" stop="20201210060000 +0000" channel="KTV Arabe HD">
     <title lang="en">Al Arabi HD</title>
@@ -1415,21 +1504,21 @@
     <title lang="en">Al Arabi HD</title>
     <title lang="ar">العربي HD</title>
   </programme>
-  <programme start="20201209000000 +0000" stop="20201209060000 +0000" channel="KTV Majlis HD">
-    <title lang="en">KTV Al Majlis HD</title>
-    <title lang="ar">KTV Al MAJLIS HD</title>
+  <programme start="20201210180000 +0000" stop="20201211000000 +0000" channel="KTV Arabe HD">
+    <title lang="en">Al Arabi HD</title>
+    <title lang="ar">العربي HD</title>
   </programme>
-  <programme start="20201209060000 +0000" stop="20201209120000 +0000" channel="KTV Majlis HD">
-    <title lang="en">KTV Al Majlis HD</title>
-    <title lang="ar">KTV Al MAJLIS HD</title>
+  <programme start="20201211000000 +0000" stop="20201211060000 +0000" channel="KTV Arabe HD">
+    <title lang="en">Al Arabi HD</title>
+    <title lang="ar">العربي HD</title>
   </programme>
-  <programme start="20201209120000 +0000" stop="20201209180000 +0000" channel="KTV Majlis HD">
-    <title lang="en">KTV Al Majlis HD</title>
-    <title lang="ar">KTV Al MAJLIS HD</title>
+  <programme start="20201211060000 +0000" stop="20201211120000 +0000" channel="KTV Arabe HD">
+    <title lang="en">Al Arabi HD</title>
+    <title lang="ar">العربي HD</title>
   </programme>
-  <programme start="20201209180000 +0000" stop="20201210000000 +0000" channel="KTV Majlis HD">
-    <title lang="en">KTV Al Majlis HD</title>
-    <title lang="ar">KTV Al MAJLIS HD</title>
+  <programme start="20201211120000 +0000" stop="20201211180000 +0000" channel="KTV Arabe HD">
+    <title lang="en">Al Arabi HD</title>
+    <title lang="ar">العربي HD</title>
   </programme>
   <programme start="20201210000000 +0000" stop="20201210060000 +0000" channel="KTV Majlis HD">
     <title lang="en">KTV Al Majlis HD</title>
@@ -1443,21 +1532,21 @@
     <title lang="en">KTV Al Majlis HD</title>
     <title lang="ar">KTV Al MAJLIS HD</title>
   </programme>
-  <programme start="20201209000000 +0000" stop="20201209060000 +0000" channel="Al Qurain HD">
-    <title lang="en">Al-Qurain HD</title>
-    <title lang="ar">AL-QURAIN HD</title>
+  <programme start="20201210180000 +0000" stop="20201211000000 +0000" channel="KTV Majlis HD">
+    <title lang="en">KTV Al Majlis HD</title>
+    <title lang="ar">KTV Al MAJLIS HD</title>
   </programme>
-  <programme start="20201209060000 +0000" stop="20201209120000 +0000" channel="Al Qurain HD">
-    <title lang="en">Al-Qurain HD</title>
-    <title lang="ar">AL-QURAIN HD</title>
+  <programme start="20201211000000 +0000" stop="20201211060000 +0000" channel="KTV Majlis HD">
+    <title lang="en">KTV Al Majlis HD</title>
+    <title lang="ar">KTV Al MAJLIS HD</title>
   </programme>
-  <programme start="20201209120000 +0000" stop="20201209180000 +0000" channel="Al Qurain HD">
-    <title lang="en">Al-Qurain HD</title>
-    <title lang="ar">AL-QURAIN HD</title>
+  <programme start="20201211060000 +0000" stop="20201211120000 +0000" channel="KTV Majlis HD">
+    <title lang="en">KTV Al Majlis HD</title>
+    <title lang="ar">KTV Al MAJLIS HD</title>
   </programme>
-  <programme start="20201209180000 +0000" stop="20201210000000 +0000" channel="Al Qurain HD">
-    <title lang="en">Al-Qurain HD</title>
-    <title lang="ar">AL-QURAIN HD</title>
+  <programme start="20201211120000 +0000" stop="20201211180000 +0000" channel="KTV Majlis HD">
+    <title lang="en">KTV Al Majlis HD</title>
+    <title lang="ar">KTV Al MAJLIS HD</title>
   </programme>
   <programme start="20201210000000 +0000" stop="20201210060000 +0000" channel="Al Qurain HD">
     <title lang="en">Al-Qurain HD</title>
@@ -1471,21 +1560,21 @@
     <title lang="en">Al-Qurain HD</title>
     <title lang="ar">AL-QURAIN HD</title>
   </programme>
-  <programme start="20201209000000 +0000" stop="20201209060000 +0000" channel="Sharqiya from Kalba">
-    <title lang="en">Sharqiya Kalba HD</title>
-    <title lang="ar">قناة الشرقية من كلبا</title>
+  <programme start="20201210180000 +0000" stop="20201211000000 +0000" channel="Al Qurain HD">
+    <title lang="en">Al-Qurain HD</title>
+    <title lang="ar">AL-QURAIN HD</title>
   </programme>
-  <programme start="20201209060000 +0000" stop="20201209120000 +0000" channel="Sharqiya from Kalba">
-    <title lang="en">Sharqiya Kalba HD</title>
-    <title lang="ar">قناة الشرقية من كلبا</title>
+  <programme start="20201211000000 +0000" stop="20201211060000 +0000" channel="Al Qurain HD">
+    <title lang="en">Al-Qurain HD</title>
+    <title lang="ar">AL-QURAIN HD</title>
   </programme>
-  <programme start="20201209120000 +0000" stop="20201209180000 +0000" channel="Sharqiya from Kalba">
-    <title lang="en">Sharqiya Kalba HD</title>
-    <title lang="ar">قناة الشرقية من كلبا</title>
+  <programme start="20201211060000 +0000" stop="20201211120000 +0000" channel="Al Qurain HD">
+    <title lang="en">Al-Qurain HD</title>
+    <title lang="ar">AL-QURAIN HD</title>
   </programme>
-  <programme start="20201209180000 +0000" stop="20201210000000 +0000" channel="Sharqiya from Kalba">
-    <title lang="en">Sharqiya Kalba HD</title>
-    <title lang="ar">قناة الشرقية من كلبا</title>
+  <programme start="20201211120000 +0000" stop="20201211180000 +0000" channel="Al Qurain HD">
+    <title lang="en">Al-Qurain HD</title>
+    <title lang="ar">AL-QURAIN HD</title>
   </programme>
   <programme start="20201210000000 +0000" stop="20201210060000 +0000" channel="Sharqiya from Kalba">
     <title lang="en">Sharqiya Kalba HD</title>
@@ -1498,5 +1587,277 @@
   <programme start="20201210120000 +0000" stop="20201210180000 +0000" channel="Sharqiya from Kalba">
     <title lang="en">Sharqiya Kalba HD</title>
     <title lang="ar">قناة الشرقية من كلبا</title>
+  </programme>
+  <programme start="20201210180000 +0000" stop="20201211000000 +0000" channel="Sharqiya from Kalba">
+    <title lang="en">Sharqiya Kalba HD</title>
+    <title lang="ar">قناة الشرقية من كلبا</title>
+  </programme>
+  <programme start="20201211000000 +0000" stop="20201211060000 +0000" channel="Sharqiya from Kalba">
+    <title lang="en">Sharqiya Kalba HD</title>
+    <title lang="ar">قناة الشرقية من كلبا</title>
+  </programme>
+  <programme start="20201211060000 +0000" stop="20201211120000 +0000" channel="Sharqiya from Kalba">
+    <title lang="en">Sharqiya Kalba HD</title>
+    <title lang="ar">قناة الشرقية من كلبا</title>
+  </programme>
+  <programme start="20201211120000 +0000" stop="20201211180000 +0000" channel="Sharqiya from Kalba">
+    <title lang="en">Sharqiya Kalba HD</title>
+    <title lang="ar">قناة الشرقية من كلبا</title>
+  </programme>
+  <programme start="20201210000500 +0000" stop="20201210003500 +0000" channel="Crime \\u0026 Investigation Network">
+    <title lang="en">Live PD: Police Patrol</title>
+    <title lang="ar">لايف بي دي: بوليس باترول</title>
+  </programme>
+  <programme start="20201210003500 +0000" stop="20201210012000 +0000" channel="Crime \\u0026 Investigation Network">
+    <title lang="en">Killer Britain With Dermot Murnaghan</title>
+    <title lang="ar">كيلر بريتاين ويذ ديرموت مورناغان</title>
+  </programme>
+  <programme start="20201210012000 +0000" stop="20201210020500 +0000" channel="Crime \\u0026 Investigation Network">
+    <title lang="en">Cold Case Files</title>
+    <title lang="ar">كولد كيس فايلز</title>
+  </programme>
+  <programme start="20201210020500 +0000" stop="20201210025000 +0000" channel="Crime \\u0026 Investigation Network">
+    <title lang="en">The First 48</title>
+    <title lang="ar">ذا فيرست 48</title>
+  </programme>
+  <programme start="20201210025000 +0000" stop="20201210034000 +0000" channel="Crime \\u0026 Investigation Network">
+    <title lang="en">The First 48</title>
+    <title lang="ar">ذا فيرست 48</title>
+  </programme>
+  <programme start="20201210034000 +0000" stop="20201210043000 +0000" channel="Crime \\u0026 Investigation Network">
+    <title lang="en">Homicide: Hours To Kill</title>
+    <title lang="ar">هوميسيد: آورز تو كيل</title>
+  </programme>
+  <programme start="20201210043000 +0000" stop="20201210050000 +0000" channel="Crime \\u0026 Investigation Network">
+    <title lang="en">It Takes A Killer</title>
+    <title lang="ar">إت تيكس أيه كيلر</title>
+  </programme>
+  <programme start="20201210050000 +0000" stop="20201210054500 +0000" channel="Crime \\u0026 Investigation Network">
+    <title lang="en">Homicide Hunter</title>
+    <title lang="ar">هوموسايد هانتر</title>
+  </programme>
+  <programme start="20201210054500 +0000" stop="20201210063500 +0000" channel="Crime \\u0026 Investigation Network">
+    <title lang="en">Homicide Hunter</title>
+    <title lang="ar">هوموسايد هانتر</title>
+  </programme>
+  <programme start="20201210063500 +0000" stop="20201210072500 +0000" channel="Crime \\u0026 Investigation Network">
+    <title lang="en">Homicide: Hours To Kill</title>
+    <title lang="ar">هوميسيد: آورز تو كيل</title>
+  </programme>
+  <programme start="20201210072500 +0000" stop="20201210082000 +0000" channel="Crime \\u0026 Investigation Network">
+    <title lang="en">The First 48</title>
+    <title lang="ar">ذا فيرست 48</title>
+  </programme>
+  <programme start="20201210082000 +0000" stop="20201210091000 +0000" channel="Crime \\u0026 Investigation Network">
+    <title lang="en">The First 48</title>
+    <title lang="ar">ذا فيرست 48</title>
+  </programme>
+  <programme start="20201210091000 +0000" stop="20201210093500 +0000" channel="Crime \\u0026 Investigation Network">
+    <title lang="en">It Takes A Killer</title>
+    <title lang="ar">إت تيكس أيه كيلر</title>
+  </programme>
+  <programme start="20201210093500 +0000" stop="20201210100000 +0000" channel="Crime \\u0026 Investigation Network">
+    <title lang="en">It Takes A Killer</title>
+    <title lang="ar">إت تيكس أيه كيلر</title>
+  </programme>
+  <programme start="20201210100000 +0000" stop="20201210103000 +0000" channel="Crime \\u0026 Investigation Network">
+    <title lang="en">Live PD: Police Patrol</title>
+    <title lang="ar">لايف بي دي: بوليس باترول</title>
+  </programme>
+  <programme start="20201210103000 +0000" stop="20201210105500 +0000" channel="Crime \\u0026 Investigation Network">
+    <title lang="en">Live PD: Police Patrol</title>
+    <title lang="ar">لايف بي دي: بوليس باترول</title>
+  </programme>
+  <programme start="20201210105500 +0000" stop="20201210115000 +0000" channel="Crime \\u0026 Investigation Network">
+    <title lang="en">Poisonous Liaisons</title>
+    <title lang="ar">بويزونوس لييزنس</title>
+  </programme>
+  <programme start="20201210115000 +0000" stop="20201210124500 +0000" channel="Crime \\u0026 Investigation Network">
+    <title lang="en">Cold Case Files</title>
+    <title lang="ar">كولد كيس فايلز</title>
+  </programme>
+  <programme start="20201210124500 +0000" stop="20201210134000 +0000" channel="Crime \\u0026 Investigation Network">
+    <title lang="en">The First 48</title>
+    <title lang="ar">ذا فيرست 48</title>
+  </programme>
+  <programme start="20201210134000 +0000" stop="20201210143500 +0000" channel="Crime \\u0026 Investigation Network">
+    <title lang="en">The First 48</title>
+    <title lang="ar">ذا فيرست 48</title>
+  </programme>
+  <programme start="20201210143500 +0000" stop="20201210153000 +0000" channel="Crime \\u0026 Investigation Network">
+    <title lang="en">Homicide: Hours To Kill</title>
+    <title lang="ar">هوميسيد: آورز تو كيل</title>
+  </programme>
+  <programme start="20201210153000 +0000" stop="20201210162500 +0000" channel="Crime \\u0026 Investigation Network">
+    <title lang="en">Secrets Of The Morgue</title>
+    <title lang="ar">سيكريتس أوف ذا مورغ</title>
+  </programme>
+  <programme start="20201210162500 +0000" stop="20201210171500 +0000" channel="Crime \\u0026 Investigation Network">
+    <title lang="en">Homicide Hunter</title>
+    <title lang="ar">هوموسايد هانتر</title>
+  </programme>
+  <programme start="20201210171500 +0000" stop="20201210181000 +0000" channel="Crime \\u0026 Investigation Network">
+    <title lang="en">Homicide Hunter</title>
+    <title lang="ar">هوموسايد هانتر</title>
+  </programme>
+  <programme start="20201210181000 +0000" stop="20201210184000 +0000" channel="Crime \\u0026 Investigation Network">
+    <title lang="en">It Takes A Killer</title>
+    <title lang="ar">إت تيكس أيه كيلر</title>
+  </programme>
+  <programme start="20201210184000 +0000" stop="20201210190500 +0000" channel="Crime \\u0026 Investigation Network">
+    <title lang="en">It Takes A Killer</title>
+    <title lang="ar">إت تيكس أيه كيلر</title>
+  </programme>
+  <programme start="20201210190500 +0000" stop="20201210193500 +0000" channel="Crime \\u0026 Investigation Network">
+    <title lang="en">Live PD: Police Patrol</title>
+    <title lang="ar">لايف بي دي: بوليس باترول</title>
+  </programme>
+  <programme start="20201210193500 +0000" stop="20201210200000 +0000" channel="Crime \\u0026 Investigation Network">
+    <title lang="en">Live PD: Police Patrol</title>
+    <title lang="ar">لايف بي دي: بوليس باترول</title>
+  </programme>
+  <programme start="20201210200000 +0000" stop="20201210210000 +0000" channel="Crime \\u0026 Investigation Network">
+    <title lang="en">Homicide Hunter</title>
+    <title lang="ar">هوموسايد هانتر</title>
+  </programme>
+  <programme start="20201210210000 +0000" stop="20201210215500 +0000" channel="Crime \\u0026 Investigation Network">
+    <title lang="en">Homicide Hunter</title>
+    <title lang="ar">هوموسايد هانتر</title>
+  </programme>
+  <programme start="20201210215500 +0000" stop="20201210222500 +0000" channel="Crime \\u0026 Investigation Network">
+    <title lang="en">It Takes A Killer</title>
+    <title lang="ar">إت تيكس أيه كيلر</title>
+  </programme>
+  <programme start="20201210222500 +0000" stop="20201210225000 +0000" channel="Crime \\u0026 Investigation Network">
+    <title lang="en">It Takes A Killer</title>
+    <title lang="ar">إت تيكس أيه كيلر</title>
+  </programme>
+  <programme start="20201210225000 +0000" stop="20201210231500 +0000" channel="Crime \\u0026 Investigation Network">
+    <title lang="en">Live PD: Police Patrol</title>
+    <title lang="ar">لايف بي دي: بوليس باترول</title>
+  </programme>
+  <programme start="20201210231500 +0000" stop="20201210234000 +0000" channel="Crime \\u0026 Investigation Network">
+    <title lang="en">Live PD: Police Patrol</title>
+    <title lang="ar">لايف بي دي: بوليس باترول</title>
+  </programme>
+  <programme start="20201210234000 +0000" stop="20201211000500 +0000" channel="Crime \\u0026 Investigation Network">
+    <title lang="en">Live PD: Police Patrol</title>
+    <title lang="ar">لايف بي دي: بوليس باترول</title>
+  </programme>
+  <programme start="20201211000500 +0000" stop="20201211003500 +0000" channel="Crime \\u0026 Investigation Network">
+    <title lang="en">Live PD: Police Patrol</title>
+    <title lang="ar">لايف بي دي: بوليس باترول</title>
+  </programme>
+  <programme start="20201211003500 +0000" stop="20201211012000 +0000" channel="Crime \\u0026 Investigation Network">
+    <title lang="en">Poisonous Liaisons</title>
+    <title lang="ar">بويزونوس لييزنس</title>
+  </programme>
+  <programme start="20201211012000 +0000" stop="20201211020500 +0000" channel="Crime \\u0026 Investigation Network">
+    <title lang="en">Cold Case Files</title>
+    <title lang="ar">كولد كيس فايلز</title>
+  </programme>
+  <programme start="20201211020500 +0000" stop="20201211025000 +0000" channel="Crime \\u0026 Investigation Network">
+    <title lang="en">The First 48</title>
+    <title lang="ar">ذا فيرست 48</title>
+  </programme>
+  <programme start="20201211025000 +0000" stop="20201211034000 +0000" channel="Crime \\u0026 Investigation Network">
+    <title lang="en">The First 48</title>
+    <title lang="ar">ذا فيرست 48</title>
+  </programme>
+  <programme start="20201211034000 +0000" stop="20201211043000 +0000" channel="Crime \\u0026 Investigation Network">
+    <title lang="en">Homicide: Hours To Kill</title>
+    <title lang="ar">هوميسيد: آورز تو كيل</title>
+  </programme>
+  <programme start="20201211043000 +0000" stop="20201211050000 +0000" channel="Crime \\u0026 Investigation Network">
+    <title lang="en">It Takes A Killer</title>
+    <title lang="ar">إت تيكس أيه كيلر</title>
+  </programme>
+  <programme start="20201211050000 +0000" stop="20201211054500 +0000" channel="Crime \\u0026 Investigation Network">
+    <title lang="en">Homicide Hunter</title>
+    <title lang="ar">هوموسايد هانتر</title>
+  </programme>
+  <programme start="20201211054500 +0000" stop="20201211063500 +0000" channel="Crime \\u0026 Investigation Network">
+    <title lang="en">Homicide Hunter</title>
+    <title lang="ar">هوموسايد هانتر</title>
+  </programme>
+  <programme start="20201211063500 +0000" stop="20201211072500 +0000" channel="Crime \\u0026 Investigation Network">
+    <title lang="en">Homicide: Hours To Kill</title>
+    <title lang="ar">هوميسيد: آورز تو كيل</title>
+  </programme>
+  <programme start="20201211072500 +0000" stop="20201211082000 +0000" channel="Crime \\u0026 Investigation Network">
+    <title lang="en">The First 48</title>
+    <title lang="ar">ذا فيرست 48</title>
+  </programme>
+  <programme start="20201211082000 +0000" stop="20201211091000 +0000" channel="Crime \\u0026 Investigation Network">
+    <title lang="en">The First 48</title>
+    <title lang="ar">ذا فيرست 48</title>
+  </programme>
+  <programme start="20201211091000 +0000" stop="20201211093500 +0000" channel="Crime \\u0026 Investigation Network">
+    <title lang="en">It Takes A Killer</title>
+    <title lang="ar">إت تيكس أيه كيلر</title>
+  </programme>
+  <programme start="20201211093500 +0000" stop="20201211100000 +0000" channel="Crime \\u0026 Investigation Network">
+    <title lang="en">It Takes A Killer</title>
+    <title lang="ar">إت تيكس أيه كيلر</title>
+  </programme>
+  <programme start="20201211100000 +0000" stop="20201211103000 +0000" channel="Crime \\u0026 Investigation Network">
+    <title lang="en">Live PD: Police Patrol</title>
+    <title lang="ar">لايف بي دي: بوليس باترول</title>
+  </programme>
+  <programme start="20201211103000 +0000" stop="20201211105500 +0000" channel="Crime \\u0026 Investigation Network">
+    <title lang="en">Live PD: Police Patrol</title>
+    <title lang="ar">لايف بي دي: بوليس باترول</title>
+  </programme>
+  <programme start="20201211105500 +0000" stop="20201211115000 +0000" channel="Crime \\u0026 Investigation Network">
+    <title lang="en">Monster In My Family</title>
+    <title lang="ar">مونستر إن ماي فاميلي</title>
+  </programme>
+  <programme start="20201211115000 +0000" stop="20201211124500 +0000" channel="Crime \\u0026 Investigation Network">
+    <title lang="en">Cold Case Files</title>
+    <title lang="ar">كولد كيس فايلز</title>
+  </programme>
+  <programme start="20201211124500 +0000" stop="20201211134000 +0000" channel="Crime \\u0026 Investigation Network">
+    <title lang="en">The First 48</title>
+    <title lang="ar">ذا فيرست 48</title>
+  </programme>
+  <programme start="20201211134000 +0000" stop="20201211143500 +0000" channel="Crime \\u0026 Investigation Network">
+    <title lang="en">The First 48</title>
+    <title lang="ar">ذا فيرست 48</title>
+  </programme>
+  <programme start="20201211143500 +0000" stop="20201211153000 +0000" channel="Crime \\u0026 Investigation Network">
+    <title lang="en">Homicide: Hours To Kill</title>
+    <title lang="ar">هوميسيد: آورز تو كيل</title>
+  </programme>
+  <programme start="20201211153000 +0000" stop="20201211162500 +0000" channel="Crime \\u0026 Investigation Network">
+    <title lang="en">Secrets Of The Morgue</title>
+    <title lang="ar">سيكريتس أوف ذا مورغ</title>
+  </programme>
+  <programme start="20201211162500 +0000" stop="20201211171500 +0000" channel="Crime \\u0026 Investigation Network">
+    <title lang="en">Homicide Hunter</title>
+    <title lang="ar">هوموسايد هانتر</title>
+  </programme>
+  <programme start="20201211171500 +0000" stop="20201211181000 +0000" channel="Crime \\u0026 Investigation Network">
+    <title lang="en">Homicide Hunter</title>
+    <title lang="ar">هوموسايد هانتر</title>
+  </programme>
+  <programme start="20201211181000 +0000" stop="20201211184000 +0000" channel="Crime \\u0026 Investigation Network">
+    <title lang="en">It Takes A Killer</title>
+    <title lang="ar">إت تيكس أيه كيلر</title>
+  </programme>
+  <programme start="20201211184000 +0000" stop="20201211190500 +0000" channel="Crime \\u0026 Investigation Network">
+    <title lang="en">It Takes A Killer</title>
+    <title lang="ar">إت تيكس أيه كيلر</title>
+  </programme>
+  <programme start="20201211190500 +0000" stop="20201211193500 +0000" channel="Crime \\u0026 Investigation Network">
+    <title lang="en">Live PD: Police Patrol</title>
+    <title lang="ar">لايف بي دي: بوليس باترول</title>
+  </programme>
+  <programme start="20201211193500 +0000" stop="20201211200000 +0000" channel="Crime \\u0026 Investigation Network">
+    <title lang="en">Live PD: Police Patrol</title>
+    <title lang="ar">لايف بي دي: بوليس باترول</title>
+  </programme>
+  <programme start="20201211200000 +0000" stop="20201211203000 +0000" channel="Crime \\u0026 Investigation Network">
+    <title lang="en">PD Cam</title>
+    <title lang="ar">بي دي كام</title>
   </programme>
 </tv>
