@@ -4,7 +4,7 @@
 ![CI](https://github.com/Fazzani/grab/workflows/CI/badge.svg)
 
 ![Channel count](https://img.shields.io/static/v1?style=for-the-badge&label=channel%20count&message=638&color=9cf&cacheSeconds=3600)
-![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=84.80%&color=yellow&cacheSeconds=3600)
+![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=84.48%&color=yellow&cacheSeconds=3600)
 
 ## channels list
 
@@ -329,7 +329,7 @@
 |<img src=" https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fec6749972ec326c6.2Epng/80x80/quality/80/mtv-hits.png" width="100" height="50">|MTV Hits|http://www.programme-tv.net|
 |<img src=" https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F6fbee5e42de8b07f.2Epng/80x80/quality/80/trace-tropical.png" width="100" height="50">|Trace Tropical|http://www.programme-tv.net|
 |<img src=" https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fe54de61aabadc8c3.2Epng/80x80/quality/80/bblack.png" width="100" height="50">|BBlack|http://www.programme-tv.net|
-|<img src=" https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F5d3f3fbae864fd7b.2Epng/80x80/quality/80/vh1.png" width="100" height="50">|VH1|http://www.programme-tv.net|
+|<img src=" https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F5d3f3fbae864fd7b.2Epng/80x80/quality/80/vh1.png" width="100" height="50">|~~VH1~~|http://www.programme-tv.net|
 |<img src=" https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F8972fd386a1a3239.2Epng/80x80/quality/80/vh1-classic.png" width="100" height="50">|VH1 Classic|http://www.programme-tv.net|
 |<img src=" https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F27eab134bcaf8ba4.2Epng/80x80/quality/80/mtv-rocks.png" width="100" height="50">|MTV Rocks|http://www.programme-tv.net|
 |<img src=" https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fb981ac36a710cf68.2Epng/80x80/quality/80/stingray-i-concerts.png" width="100" height="50">|Stingray i-Concerts|http://www.programme-tv.net|
@@ -596,7 +596,7 @@
 |<img src="http://content.osn.com/logo/channel/cropped/FTH.png" width="100" height="50">|~~Fashion TV HD~~|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/B4A.png" width="100" height="50">|B4U Aflam|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/MTL.png" width="100" height="50">|MTV Live HD|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/VH1.png" width="100" height="50">|VH1|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/VH1.png" width="100" height="50">|~~VH1~~|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/DIS.png" width="100" height="50">|Disney HD|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/DXD.png" width="100" height="50">|~~Disney XD~~|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/DJR.png" width="100" height="50">|Disney Junior|http://www.osn.com|
