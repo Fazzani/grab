@@ -1,7 +1,7 @@
 
 # Missed Channels
 
-![Channel count](https://img.shields.io/static/v1?style=for-the-badge&label=channel%20count&message=91&color=red&cacheSeconds=3600)
+![Channel count](https://img.shields.io/static/v1?style=for-the-badge&label=channel%20count&message=92&color=red&cacheSeconds=3600)
 
 
 |Icon|Channel|Site|
@@ -66,23 +66,24 @@
 |<img src="" width="100" height="50">|Vedia|http://www.m.programme-tv.net|
 |<img src="https://media.elcinema.com/tvguide/1317_1.png" width="100" height="50">|Oman|http://www.elcinema.com|
 |<img src="" width="100" height="50">|GIRONDINS TV|http://www.canalsat.fr|
-|<img src="" width="100" height="50">|TREK|http://www.canalplus.com|
+|<img src=" https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F5d3f3fbae864fd7b.2Epng/80x80/quality/80/vh1.png" width="100" height="50">|VH1|http://www.programme-tv.net|
+|<img src="" width="100" height="50">|QVC|http://www.canalsat.fr|
 |<img src="" width="100" height="50">|VOOsport World 3|http://www.m.programme-tv.net|
 |<img src="" width="100" height="50">|Vivolta|http://www.m.programme-tv.net|
 |<img src="http://content.osn.com/logo/channel/cropped/ONS.png" width="100" height="50">|OSN News|http://www.osn.com|
 |<img src="" width="100" height="50">|Arte Belgique|http://www.m.programme-tv.net|
 |<img src="" width="100" height="50">|FRANCE O|http://www.canalplus.com|
 |<img src="" width="100" height="50">|TRACE AFRICA|http://www.canalsat.fr|
+|<img src="" width="100" height="50">|TREK|http://www.canalplus.com|
 |<img src="" width="100" height="50">|Ciné+ Premier Belgique|http://www.m.programme-tv.net|
-|<img src="" width="100" height="50">|ONZEO|http://www.canalsat.fr|
 |<img src="" width="100" height="50">|2M Monde|http://www.programme-tv.net|
 |<img src="" width="100" height="50">|Ciné+ Frisson Belgique|http://www.m.programme-tv.net|
 |<img src="http://content.osn.com/logo/channel/cropped/FTH.png" width="100" height="50">|Fashion TV HD|http://www.osn.com|
 |<img src="" width="100" height="50">|Ciné+ Classic Belgique|http://www.m.programme-tv.net|
 |<img src="" width="100" height="50">|MCM TOP|http://www.canalsat.fr|
-|<img src="http://content.osn.com/logo/channel/cropped/ARC.png" width="100" height="50">|ABS-CBN Regional Channel|http://www.osn.com|
-|<img src="" width="100" height="50">|QVC|http://www.canalsat.fr|
+|<img src="http://content.osn.com/logo/channel/cropped/LSN.png" width="100" height="50">|Lifestyle Network|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/NET.png" width="100" height="50">|NET 25|http://www.osn.com|
+|<img src="" width="100" height="50">|ONZEO|http://www.canalsat.fr|
 |<img src="https://television.telerama.fr/sites/tr_master/files/styles/channel_logo_80x80/public/sheet_media/tv/150x150/192.png?itok=LK8LTHrB" width="100" height="50">|OMTV|http://www.telerama.fr|
 |<img src="" width="100" height="50">|Eleven Sports 2|http://www.m.programme-tv.net|
 |<img src="" width="100" height="50">|OL TV|http://www.canalplus.com|
@@ -93,7 +94,7 @@
 |<img src="" width="100" height="50">|RTC Télé Liège|http://www.m.programme-tv.net|
 |<img src="http://content.osn.com/logo/channel/cropped/PAR.png" width="100" height="50">|Paramount|http://www.osn.com|
 |<img src="" width="100" height="50">|M6 BOUTIQUE|http://www.canalplus.com|
-|<img src="http://content.osn.com/logo/channel/cropped/LSN.png" width="100" height="50">|Lifestyle Network|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/ARC.png" width="100" height="50">|ABS-CBN Regional Channel|http://www.osn.com|
 |<img src="" width="100" height="50">|Eleven Sports 1|http://www.m.programme-tv.net|
 |<img src="" width="100" height="50">|My Cuisine|http://www.m.programme-tv.net|
 |<img src="https://television.telerama.fr/sites/tr_master/files/styles/channel_logo_80x80/public/sheet_media/tv/150x150/192.png?itok=LK8LTHrB" width="100" height="50">|Motorsport TV|http://www.telerama.fr|
