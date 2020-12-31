@@ -134,7 +134,7 @@
 |<img src="https://epg.beinsports.com/mena_entertaintment/CartoonNetworkHD.png" width="100" height="50">|CartoonNetworkHD|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_entertaintment/CartoonNetworkAR.svg" width="100" height="50">|CartoonNetworkAR|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_entertaintment/CartoonNetworkHindi.svg" width="100" height="50">|CartoonNetworkHindi|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_entertaintment/Baby_TV.svg?2017" width="100" height="50">|Baby_TV English|http://www.bein.net|
+|<img src="https://epg.beinsports.com/mena_entertaintment/Baby_TV.svg?2017" width="100" height="50">|~~Baby_TV English~~|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_entertaintment/CBeebies.png" width="100" height="50">|CBeebies English|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_entertaintment/DreamWorks.svg?2017" width="100" height="50">|DreamWorks English|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_entertaintment/JimJam.svg?2017" width="100" height="50">|JimJam English|http://www.bein.net|
@@ -178,7 +178,7 @@
 |<img src="https://media.elcinema.com/tvguide/1216_1.png" width="100" height="50">|Al Jadeed TV|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1174_1.png" width="100" height="50">|Al Kahera Wal Nas TV|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1269_1.png" width="100" height="50">|Al sharqya|http://www.elcinema.com|
-|<img src="https://media.elcinema.com/tvguide/1261_1.png" width="100" height="50">|~~Zee alwan~~|http://www.elcinema.com|
+|<img src="https://media.elcinema.com/tvguide/1261_1.png" width="100" height="50">|Zee alwan|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1302_1.png" width="100" height="50">|~~Fujairah~~|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1299_1.png" width="100" height="50">|Roya|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1145_1.png" width="100" height="50">|Mehwar|http://www.elcinema.com|
