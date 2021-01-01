@@ -4,7 +4,7 @@
 ![CI](https://github.com/Fazzani/grab/workflows/CI/badge.svg)
 
 ![Channel count](https://img.shields.io/static/v1?style=for-the-badge&label=channel%20count&message=638&color=9cf&cacheSeconds=3600)
-![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=84.48%&color=yellow&cacheSeconds=3600)
+![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=84.33%&color=yellow&cacheSeconds=3600)
 
 ## channels list
 
@@ -48,7 +48,7 @@
 |<img src="" width="100" height="50">|PLANETE+ A&E|http://www.canalplus.com|
 |<img src="" width="100" height="50">|NATIONAL GEO|http://www.canalplus.com|
 |<img src="" width="100" height="50">|NAT GEO WILD|http://www.canalplus.com|
-|<img src="" width="100" height="50">|VOYAGE|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~VOYAGE~~|http://www.canalplus.com|
 |<img src="" width="100" height="50">|USHUAIA TV|http://www.canalplus.com|
 |<img src="" width="100" height="50">|HISTOIRE|http://www.canalplus.com|
 |<img src="" width="100" height="50">|SCIENCE ET VIE TV|http://www.canalplus.com|
@@ -134,7 +134,7 @@
 |<img src="https://epg.beinsports.com/mena_entertaintment/CartoonNetworkHD.png" width="100" height="50">|CartoonNetworkHD|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_entertaintment/CartoonNetworkAR.svg" width="100" height="50">|CartoonNetworkAR|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_entertaintment/CartoonNetworkHindi.svg" width="100" height="50">|CartoonNetworkHindi|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_entertaintment/Baby_TV.svg?2017" width="100" height="50">|~~Baby_TV English~~|http://www.bein.net|
+|<img src="https://epg.beinsports.com/mena_entertaintment/Baby_TV.svg?2017" width="100" height="50">|Baby_TV English|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_entertaintment/CBeebies.png" width="100" height="50">|CBeebies English|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_entertaintment/DreamWorks.svg?2017" width="100" height="50">|DreamWorks English|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_entertaintment/JimJam.svg?2017" width="100" height="50">|JimJam English|http://www.bein.net|
@@ -203,7 +203,7 @@
 |<img src=" https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F6cb5f38dbfebbc80.2Epng/80x80/quality/80/planeteplus-aventure-experience.png" width="100" height="50">|Planète+ Aventure Expérience|http://www.programme-tv.net|
 |<img src=" https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F59a6bac22a41087b.2Epng/80x80/quality/80/national-geographic.png" width="100" height="50">|National Geographic|http://www.programme-tv.net|
 |<img src=" https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fc5a40efcfc1b9fc6.2Epng/80x80/quality/80/nat-geo-wild.png" width="100" height="50">|Nat Geo Wild|http://www.programme-tv.net|
-|<img src=" https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fc3844599d2b2dd48.2Epng/80x80/quality/80/voyage.png" width="100" height="50">|Voyage|http://www.programme-tv.net|
+|<img src=" https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fc3844599d2b2dd48.2Epng/80x80/quality/80/voyage.png" width="100" height="50">|~~Voyage~~|http://www.programme-tv.net|
 |<img src=" https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F57f7178645396f8f.2Epng/80x80/quality/80/ushuaia-tv.png" width="100" height="50">|Ushuaïa TV|http://www.programme-tv.net|
 |<img src=" https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fae6842d13f64cc42.2Epng/80x80/quality/80/histoire-tv.png" width="100" height="50">|Histoire|http://www.programme-tv.net|
 |<img src=" https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F018b5d9adc0bdc0e.2Epng/80x80/quality/80/science-vie-tv.png" width="100" height="50">|Science & Vie TV|http://www.programme-tv.net|
@@ -505,7 +505,7 @@
 |<img src="http://content.osn.com/logo/channel/cropped/DAF.png" width="100" height="50">|Al Dafrah TV|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/BAH.png" width="100" height="50">|Bahrain TV|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/AGH.png" width="100" height="50">|Aghani Aghani|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/ROY.png" width="100" height="50">|~~Al Roya TV~~|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/ROY.png" width="100" height="50">|Al Roya TV|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/OFH.png" width="100" height="50">|OSN Series First|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/OBG.png" width="100" height="50">|OSN Binge|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/OCO.png" width="100" height="50">|OSN Comedy|http://www.osn.com|
@@ -611,7 +611,7 @@
 |<img src="http://content.osn.com/logo/channel/cropped/CNB.png" width="100" height="50">|CNBC|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/BTV.png" width="100" height="50">|Bloomberg|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/PAR.png" width="100" height="50">|~~Paramount~~|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/STM.png" width="100" height="50">|Star Movies HD|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/STM.png" width="100" height="50">|~~Star Movies HD~~|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/B4P.png" width="100" height="50">|B4U Plus|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/IMA.png" width="100" height="50">|Imagine Movies|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/OYH.png" width="100" height="50">|OSN Ya Hala Al Oula|http://www.osn.com|
