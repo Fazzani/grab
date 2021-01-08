@@ -4,7 +4,7 @@
 ![CI](https://github.com/Fazzani/grab/workflows/CI/badge.svg)
 
 ![Channel count](https://img.shields.io/static/v1?style=for-the-badge&label=channel%20count&message=638&color=9cf&cacheSeconds=3600)
-![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=84.64%&color=yellow&cacheSeconds=3600)
+![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=84.48%&color=yellow&cacheSeconds=3600)
 
 ## channels list
 
@@ -79,7 +79,7 @@
 |<img src="" width="100" height="50">|BEIN SPORTS 3|http://www.canalplus.com|
 |<img src="" width="100" height="50">|GOLF+|http://www.canalplus.com|
 |<img src="" width="100" height="50">|~~EXTREME SPORTS~~|http://www.canalplus.com|
-|<img src="" width="100" height="50">|L'EQUIPE|http://www.canalplus.com|
+|<img src="" width="100" height="50">|~~L'EQUIPE~~|http://www.canalplus.com|
 |<img src="" width="100" height="50">|RMC SPORT 1|http://www.canalplus.com|
 |<img src="" width="100" height="50">|RMC SPORT 2|http://www.canalplus.com|
 |<img src="" width="100" height="50">|RMC SPORT 3|http://www.canalplus.com|
