@@ -4,7 +4,7 @@
 ![CI](https://github.com/Fazzani/grab/workflows/CI/badge.svg)
 
 ![Channel count](https://img.shields.io/static/v1?style=for-the-badge&label=channel%20count&message=638&color=9cf&cacheSeconds=3600)
-![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=84.48%&color=yellow&cacheSeconds=3600)
+![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=83.70%&color=yellow&cacheSeconds=3600)
 
 ## channels list
 
@@ -79,7 +79,7 @@
 |<img src="" width="100" height="50">|BEIN SPORTS 3|http://www.canalplus.com|
 |<img src="" width="100" height="50">|GOLF+|http://www.canalplus.com|
 |<img src="" width="100" height="50">|~~EXTREME SPORTS~~|http://www.canalplus.com|
-|<img src="" width="100" height="50">|~~L'EQUIPE~~|http://www.canalplus.com|
+|<img src="" width="100" height="50">|L'EQUIPE|http://www.canalplus.com|
 |<img src="" width="100" height="50">|RMC SPORT 1|http://www.canalplus.com|
 |<img src="" width="100" height="50">|RMC SPORT 2|http://www.canalplus.com|
 |<img src="" width="100" height="50">|RMC SPORT 3|http://www.canalplus.com|
@@ -154,21 +154,21 @@
 |<img src="https://epg.beinsports.com/mena_entertaintment/HGTV.svg" width="100" height="50">|HGTV English|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_entertaintment/CBSreality.svg?2017" width="100" height="50">|beIN CBS reality|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_entertaintment/FXHD.svg?2018" width="100" height="50">|FXHD English|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_entertaintment/DMAX.svg?2017" width="100" height="50">|DMAX English|http://www.bein.net|
+|<img src="" width="100" height="50">|~~DMAX English~~|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_entertaintment/NatGeoWild_HD.svg?2017" width="100" height="50">|NatGeoWild_HD English|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_entertaintment/NatGeoPeople_HD.svg?2017" width="100" height="50">|NatGeoPeople_HD English|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_entertaintment/NatGeo_HD.svg?2017" width="100" height="50">|NatGeo_HD English|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_entertaintment/BBCEarth.png" width="100" height="50">|BBCEarth English|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_entertaintment/AnimalPlanetHD.svg" width="100" height="50">|AnimalPlanetHD English|http://www.bein.net|
+|<img src="" width="100" height="50">|~~AnimalPlanetHD English~~|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_entertaintment/AljazeeraDocumentary.png?2017" width="100" height="50">|AljazeeraDocumentary English|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_entertaintment/TRTWorld.png?2017" width="100" height="50">|TRTWorld English|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_entertaintment/Euronews.jpg?2017" width="100" height="50">|Euronews English|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_entertaintment/CNNHD.svg" width="100" height="50">|CNNHD English|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_entertaintment/Bloomberg.svg?2017" width="100" height="50">|Bloomberg English|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_entertaintment/HLN.svg" width="100" height="50">|HLN English|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_entertaintment/DTX.png" width="100" height="50">|DTX English|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_entertaintment/DLife.svg?2017" width="100" height="50">|DLife English|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_entertaintment/FineLiving.png" width="100" height="50">|FineLiving English|http://www.bein.net|
+|<img src="" width="100" height="50">|~~DTX English~~|http://www.bein.net|
+|<img src="" width="100" height="50">|~~DLife English~~|http://www.bein.net|
+|<img src="" width="100" height="50">|~~FineLiving English~~|http://www.bein.net|
 |<img src="https://media.elcinema.com/tvguide/1321_1.png" width="100" height="50">|almanar|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1226_1.png" width="100" height="50">|Sada El Balad|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1203_1.png" width="100" height="50">|ON E|http://www.elcinema.com|
@@ -509,7 +509,7 @@
 |<img src="http://content.osn.com/logo/channel/cropped/OFH.png" width="100" height="50">|OSN Series First|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/OBG.png" width="100" height="50">|OSN Binge|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/OCO.png" width="100" height="50">|OSN Comedy|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/CCE.png" width="100" height="50">|Comedy Central|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/CCE.png" width="100" height="50">|~~Comedy Central~~|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/STW.png" width="100" height="50">|Star World HD|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/TLC.png" width="100" height="50">|TLC HD|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/ETV.png" width="100" height="50">|E! Entertainment HD|http://www.osn.com|
