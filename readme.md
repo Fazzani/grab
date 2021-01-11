@@ -4,7 +4,7 @@
 ![CI](https://github.com/Fazzani/grab/workflows/CI/badge.svg)
 
 ![Channel count](https://img.shields.io/static/v1?style=for-the-badge&label=channel%20count&message=638&color=9cf&cacheSeconds=3600)
-![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=83.86%&color=yellow&cacheSeconds=3600)
+![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=83.54%&color=yellow&cacheSeconds=3600)
 
 ## channels list
 
@@ -170,7 +170,7 @@
 |<img src="" width="100" height="50">|~~DLife English~~|http://www.bein.net|
 |<img src="" width="100" height="50">|~~FineLiving English~~|http://www.bein.net|
 |<img src="https://media.elcinema.com/tvguide/1321_1.png" width="100" height="50">|almanar|http://www.elcinema.com|
-|<img src="https://media.elcinema.com/tvguide/1226_1.png" width="100" height="50">|Sada El Balad|http://www.elcinema.com|
+|<img src="https://media.elcinema.com/tvguide/1226_1.png" width="100" height="50">|~~Sada El Balad~~|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1203_1.png" width="100" height="50">|ON E|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1298_1.png" width="100" height="50">|Amman|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1296_1.png" width="100" height="50">|MTV|http://www.elcinema.com|
@@ -605,7 +605,7 @@
 |<img src="http://content.osn.com/logo/channel/cropped/KDZ.png" width="100" height="50">|OSN Kid Zone TV|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/NKT.png" width="100" height="50">|NickToons HD|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/BAB.png" width="100" height="50">|Baby TV Europe|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/ONS.png" width="100" height="50">|OSN News|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/ONS.png" width="100" height="50">|~~OSN News~~|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/SKH.png" width="100" height="50">|Sky News HD|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/BBW.png" width="100" height="50">|BBC World|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/CNB.png" width="100" height="50">|CNBC|http://www.osn.com|
