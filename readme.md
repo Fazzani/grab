@@ -4,7 +4,7 @@
 ![CI](https://github.com/Fazzani/grab/workflows/CI/badge.svg)
 
 ![Channel count](https://img.shields.io/static/v1?style=for-the-badge&label=channel%20count&message=638&color=9cf&cacheSeconds=3600)
-![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=83.70%&color=yellow&cacheSeconds=3600)
+![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=83.39%&color=yellow&cacheSeconds=3600)
 
 ## channels list
 
@@ -69,7 +69,7 @@
 |<img src="https://media.elcinema.com/tvguide/1269_1.png" width="100" height="50">|Al sharqya|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1261_1.png" width="100" height="50">|Zee alwan|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1302_1.png" width="100" height="50">|~~Fujairah~~|http://www.elcinema.com|
-|<img src="https://media.elcinema.com/tvguide/1299_1.png" width="100" height="50">|Roya|http://www.elcinema.com|
+|<img src="https://media.elcinema.com/tvguide/1299_1.png" width="100" height="50">|~~Roya~~|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1145_1.png" width="100" height="50">|Mehwar|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1137_1.png" width="100" height="50">|Alhayat TV|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1188_1.png" width="100" height="50">|~~Sharjah TV~~|http://www.elcinema.com|
@@ -89,7 +89,7 @@
 |<img src="https://media.elcinema.com/tvguide/1161_1.png" width="100" height="50">|Series|http://www.elcinema.com|
 |<img src="http://content.osn.com/logo/channel/cropped/PAR.png" width="100" height="50">|~~Paramount~~|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/STM.png" width="100" height="50">|Star Movies HD|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/B4P.png" width="100" height="50">|B4U Plus|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/B4P.png" width="100" height="50">|~~B4U Plus~~|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/IMA.png" width="100" height="50">|Imagine Movies|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/OYH.png" width="100" height="50">|OSN Ya Hala Al Oula|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/OYA.png" width="100" height="50">|OSN Ya Hala|http://www.osn.com|
