@@ -4,7 +4,7 @@
 ![CI](https://github.com/Fazzani/grab/workflows/CI/badge.svg)
 
 ![Channel count](https://img.shields.io/static/v1?style=for-the-badge&label=channel%20count&message=638&color=9cf&cacheSeconds=3600)
-![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=83.39%&color=yellow&cacheSeconds=3600)
+![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=79.47%&color=yellow&cacheSeconds=3600)
 
 ## channels list
 
@@ -106,25 +106,25 @@
 |<img src="http://content.osn.com/logo/channel/cropped/GML.png" width="100" height="50">|GMA Life TV|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/GMN.png" width="100" height="50">|GMA News TV|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/NET.png" width="100" height="50">|~~NET 25~~|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/CM1.png" width="100" height="50">|Cinema 1|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/CM2.png" width="100" height="50">|Cinema 2|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/CM1.png" width="100" height="50">|~~Cinema 1~~|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/CM2.png" width="100" height="50">|~~Cinema 2~~|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/NOW.png" width="100" height="50">|Music Now|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/HK1.png" width="100" height="50">|Hekayat|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/HK2.png" width="100" height="50">|Hekayat 2|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/AF1.png" width="100" height="50">|ART Aflam 1|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/AF2.png" width="100" height="50">|ART Aflam 2|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/ACM.png" width="100" height="50">|ART Cinema|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/ELL.png" width="100" height="50">|Ellay.com|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/AF1.png" width="100" height="50">|~~ART Aflam 1~~|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/AF2.png" width="100" height="50">|~~ART Aflam 2~~|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/ACM.png" width="100" height="50">|~~ART Cinema~~|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/ELL.png" width="100" height="50">|~~Ellay.com~~|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/AAN.png" width="100" height="50">|Al Aan TV|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/BEI.png" width="100" height="50">|Beity TV|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/KT1.png" width="100" height="50">|KTV1 HD|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/KT2.png" width="100" height="50">|KTV2 HD|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/KTE.png" width="100" height="50">|KTV Ethraa HD|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/KTA.png" width="100" height="50">|KTV Arabe HD|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/KTM.png" width="100" height="50">|KTV Majlis HD|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/KTQ.png" width="100" height="50">|Al Qurain HD|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/KT1.png" width="100" height="50">|~~KTV1 HD~~|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/KT2.png" width="100" height="50">|~~KTV2 HD~~|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/KTE.png" width="100" height="50">|~~KTV Ethraa HD~~|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/KTA.png" width="100" height="50">|~~KTV Arabe HD~~|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/KTM.png" width="100" height="50">|~~KTV Majlis HD~~|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/KTQ.png" width="100" height="50">|~~Al Qurain HD~~|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/SHJ.png" width="100" height="50">|~~Sharjah TV~~|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/SQK.png" width="100" height="50">|Sharqiya from Kalba|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/SQK.png" width="100" height="50">|~~Sharqiya from Kalba~~|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/CAI.png" width="100" height="50">|Crime \\u0026 Investigation Network|http://www.osn.com|
 |<img src="" width="100" height="50">|~~History HD~~|http://www.osn.com|
 |<img src="" width="100" height="50">|~~H2 HD~~|http://www.osn.com|
@@ -409,11 +409,11 @@
 |<img src=" https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F88a42924c2c4c997.2Epng/80x80/quality/80/bein-sports-max-4.png" width="100" height="50">|beIN SPORTS MAX 4|http://www.programme-tv.net|
 |<img src="http://www.watania1.tn/sites/default/files/main_logo_watania1_0.png" width="100" height="50">|Watania 1|http://www.watania.tn|
 |<img src="http://www.watania2.tn/sites/default/files/main_logo_watania2_0.png" width="100" height="50">|Watania 2|http://www.watania.tn|
-|<img src="https://epg.beinsports.com/au_sports/BS1.svg" width="100" height="50">|BS1|http://www.bein.net|
-|<img src="https://epg.beinsports.com/au_sports/BS2.svg" width="100" height="50">|BS2|http://www.bein.net|
-|<img src="https://epg.beinsports.com/au_sports/BS3.svg" width="100" height="50">|BS3|http://www.bein.net|
+|<img src="https://epg.beinsports.com/au_sports/BS1.svg" width="100" height="50">|~~BS1~~|http://www.bein.net|
+|<img src="https://epg.beinsports.com/au_sports/BS2.svg" width="100" height="50">|~~BS2~~|http://www.bein.net|
+|<img src="https://epg.beinsports.com/au_sports/BS3.svg" width="100" height="50">|~~BS3~~|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_sports/SportsGlobalHD.svg" width="100" height="50">|SportsGlobalHD English|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_sports/News_ar.svg?2018" width="100" height="50">|News_ar English|http://www.bein.net|
+|<img src="https://epg.beinsports.com/mena_sports/News_ar.svg?2018" width="100" height="50">|~~News_ar English~~|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_sports/HD1.svg?2017" width="100" height="50">|HD1 English|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_sports/HD2.svg?2017" width="100" height="50">|HD2 English|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_sports/HD3.svg?2017" width="100" height="50">|HD3 English|http://www.bein.net|
@@ -428,8 +428,8 @@
 |<img src="https://epg.beinsports.com/mena_sports/SportsHD12.svg" width="100" height="50">|SportsHD12 English|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_sports/SportsHD13.svg" width="100" height="50">|SportsHD13 English|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_sports/SportsHD14.svg" width="100" height="50">|SportsHD14 English|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_sports/SportsHD15.svg" width="100" height="50">|SportsHD15 English|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_sports/SportsHD16.svg" width="100" height="50">|SportsHD16 English|http://www.bein.net|
+|<img src="https://epg.beinsports.com/mena_sports/SportsHD15.svg" width="100" height="50">|~~SportsHD15 English~~|http://www.bein.net|
+|<img src="https://epg.beinsports.com/mena_sports/SportsHD16.svg" width="100" height="50">|~~SportsHD16 English~~|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_sports/SportsHD17.svg" width="100" height="50">|SportsHD17 English|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_sports/4K.svg" width="100" height="50">|4K English|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_sports/BS NBA.svg" width="100" height="50">|BS NBA English|http://www.bein.net|
@@ -444,11 +444,11 @@
 |<img src="https://epg.beinsports.com/mena_entertaintment/gourmet.svg" width="100" height="50">|gourmet English|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_entertaintment/beJUNIOR.svg" width="100" height="50">|beJUNIOR English|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_entertaintment/Jeem.svg?20158888" width="100" height="50">|Jeem English|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_entertaintment/Baraem.svg?2017" width="100" height="50">|Baraem English|http://www.bein.net|
+|<img src="https://epg.beinsports.com/mena_entertaintment/Baraem.svg?2017" width="100" height="50">|~~Baraem English~~|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_entertaintment/CartoonNetworkHD.png" width="100" height="50">|CartoonNetworkHD|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_entertaintment/CartoonNetworkAR.svg" width="100" height="50">|CartoonNetworkAR|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_entertaintment/CartoonNetworkHindi.svg" width="100" height="50">|CartoonNetworkHindi|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_entertaintment/Baby_TV.svg?2017" width="100" height="50">|Baby_TV English|http://www.bein.net|
+|<img src="https://epg.beinsports.com/mena_entertaintment/Baby_TV.svg?2017" width="100" height="50">|~~Baby_TV English~~|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_entertaintment/CBeebies.png" width="100" height="50">|CBeebies English|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_entertaintment/DreamWorks.svg?2017" width="100" height="50">|DreamWorks English|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_entertaintment/JimJam.svg?2017" width="100" height="50">|JimJam English|http://www.bein.net|
@@ -479,7 +479,7 @@
 |<img src="https://epg.beinsports.com/mena_entertaintment/Euronews.jpg?2017" width="100" height="50">|Euronews English|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_entertaintment/CNNHD.svg" width="100" height="50">|CNNHD English|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_entertaintment/Bloomberg.svg?2017" width="100" height="50">|Bloomberg English|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_entertaintment/HLN.svg" width="100" height="50">|HLN English|http://www.bein.net|
+|<img src="https://epg.beinsports.com/mena_entertaintment/HLN.svg" width="100" height="50">|~~HLN English~~|http://www.bein.net|
 |<img src="" width="100" height="50">|~~DTX English~~|http://www.bein.net|
 |<img src="" width="100" height="50">|~~DLife English~~|http://www.bein.net|
 |<img src="" width="100" height="50">|~~FineLiving English~~|http://www.bein.net|
@@ -643,9 +643,9 @@
 |<img src="https://media.elcinema.com/tvguide/1168_1.png" width="100" height="50">|LBCI|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1260_1.png" width="100" height="50">|CBC sofra|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1176_1.png" width="100" height="50">|Cima|http://www.elcinema.com|
-|<img src="https://media.elcinema.com/tvguide/1195_1.png" width="100" height="50">|ART Cinema|http://www.elcinema.com|
-|<img src="https://media.elcinema.com/tvguide/1120_1.png" width="100" height="50">|ART Aflam 1|http://www.elcinema.com|
-|<img src="https://media.elcinema.com/tvguide/1121_1.png" width="100" height="50">|ART Aflam 2|http://www.elcinema.com|
+|<img src="https://media.elcinema.com/tvguide/1195_1.png" width="100" height="50">|~~ART Cinema~~|http://www.elcinema.com|
+|<img src="https://media.elcinema.com/tvguide/1120_1.png" width="100" height="50">|~~ART Aflam 1~~|http://www.elcinema.com|
+|<img src="https://media.elcinema.com/tvguide/1121_1.png" width="100" height="50">|~~ART Aflam 2~~|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1147_1.png" width="100" height="50">|Rotana Drama|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1149_1.png" width="100" height="50">|Rotana Khalijiah|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1339_1.png" width="100" height="50">|Al Saeedah|http://www.elcinema.com|
