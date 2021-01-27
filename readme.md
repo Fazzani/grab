@@ -116,7 +116,7 @@
 |<img src="https://epg.beinsports.com/mena_sports/SportsHD14.svg" width="100" height="50">|SportsHD14 English|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_sports/SportsHD15.svg" width="100" height="50">|SportsHD15 English|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_sports/SportsHD16.svg" width="100" height="50">|SportsHD16 English|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_sports/SportsHD17.svg" width="100" height="50">|SportsHD17 English|http://www.bein.net|
+|<img src="https://epg.beinsports.com/mena_sports/SportsHD17.svg" width="100" height="50">|~~SportsHD17 English~~|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_sports/4K.svg" width="100" height="50">|4K English|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_sports/BS NBA.svg" width="100" height="50">|BS NBA English|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018" width="100" height="50">|MoviesHD1 English|http://www.bein.net|
@@ -324,7 +324,7 @@
 |<img src=" https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fa45b35936e45d4f9.2Epng/80x80/quality/80/fashion-tv.png" width="100" height="50">|Fashion TV|http://www.programme-tv.net|
 |<img src=" https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fd7fcb11de7625964.2Epng/80x80/quality/80/baby-tv.png" width="100" height="50">|Baby TV|http://www.programme-tv.net|
 |<img src=" https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F64ca2a6596181a83.2Epng/80x80/quality/80/gong.png" width="100" height="50">|Gong|http://www.programme-tv.net|
-|<img src=" https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F85928428309fc26f.2Epng/80x80/quality/80/gong-max.png" width="100" height="50">|~~Gong Max~~|http://www.programme-tv.net|
+|<img src=" https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F85928428309fc26f.2Epng/80x80/quality/80/gong-max.png" width="100" height="50">|Gong Max|http://www.programme-tv.net|
 |<img src=" https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F94190555ba68f75b.2Epng/80x80/quality/80/ginx.png" width="100" height="50">|Ginx|http://www.programme-tv.net|
 |<img src=" https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fec6749972ec326c6.2Epng/80x80/quality/80/mtv-hits.png" width="100" height="50">|MTV Hits|http://www.programme-tv.net|
 |<img src=" https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F6fbee5e42de8b07f.2Epng/80x80/quality/80/trace-tropical.png" width="100" height="50">|Trace Tropical|http://www.programme-tv.net|
@@ -446,7 +446,7 @@
 |<img src=" https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fc3429738ac9adc87.2Epng/80x80/quality/80/nrj-12.png" width="100" height="50">|NRJ 12|http://www.programme-tv.net|
 |<img src=" https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fc5a00219b61629a7.2Epng/80x80/quality/80/la-chaine-parlementaire.png" width="100" height="50">|La Chaîne parlementaire|http://www.programme-tv.net|
 |<img src=" https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F488cba3e1cef1be4.2Epng/80x80/quality/80/france-4.png" width="100" height="50">|France 4|http://www.programme-tv.net|
-|<img src=" https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F4c2cbb5f3d06de92.2Epng/80x80/quality/80/bfmtv.png" width="100" height="50">|BFMTV|http://www.programme-tv.net|
+|<img src=" https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F4c2cbb5f3d06de92.2Epng/80x80/quality/80/bfm-tv.png" width="100" height="50">|BFMTV|http://www.programme-tv.net|
 |<img src=" https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Ffbaa4b8b2e2208b3.2Epng/80x80/quality/80/cnews.png" width="100" height="50">|CNEWS|http://www.programme-tv.net|
 |<img src=" https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fd6fd740ea5fed0a1.2Epng/80x80/quality/80/cstar.png" width="100" height="50">|CSTAR|http://www.programme-tv.net|
 |<img src=" https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fef660dc09c117f2d.2Epng/80x80/quality/80/gulli.png" width="100" height="50">|Gulli|http://www.programme-tv.net|
