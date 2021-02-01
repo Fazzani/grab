@@ -4,7 +4,7 @@
 ![CI](https://github.com/Fazzani/grab/workflows/CI/badge.svg)
 
 ![Channel count](https://img.shields.io/static/v1?style=for-the-badge&label=channel%20count&message=638&color=9cf&cacheSeconds=3600)
-![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=83.39%&color=yellow&cacheSeconds=3600)
+![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=83.07%&color=yellow&cacheSeconds=3600)
 
 ## channels list
 
@@ -311,7 +311,7 @@
 |<img src="https://epg.beinsports.com/mena_sports/SportsHD14.svg" width="100" height="50">|SportsHD14 English|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_sports/SportsHD15.svg" width="100" height="50">|SportsHD15 English|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_sports/SportsHD16.svg" width="100" height="50">|SportsHD16 English|http://www.bein.net|
-|<img src="" width="100" height="50">|~~SportsHD17 English~~|http://www.bein.net|
+|<img src="https://epg.beinsports.com/mena_sports/SportsHD17.svg" width="100" height="50">|~~SportsHD17 English~~|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_sports/4K.svg" width="100" height="50">|4K English|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_sports/BS NBA.svg" width="100" height="50">|BS NBA English|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018" width="100" height="50">|MoviesHD1 English|http://www.bein.net|
@@ -364,7 +364,7 @@
 |<img src="" width="100" height="50">|~~DTX English~~|http://www.bein.net|
 |<img src="" width="100" height="50">|~~DLife English~~|http://www.bein.net|
 |<img src="" width="100" height="50">|~~FineLiving English~~|http://www.bein.net|
-|<img src="https://media.elcinema.com/tvguide/1321_1.png" width="100" height="50">|almanar|http://www.elcinema.com|
+|<img src="https://media.elcinema.com/tvguide/1321_1.png" width="100" height="50">|~~almanar~~|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1226_1.png" width="100" height="50">|Sada El Balad|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1203_1.png" width="100" height="50">|ON E|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1298_1.png" width="100" height="50">|Amman|http://www.elcinema.com|
@@ -556,7 +556,7 @@
 |<img src="" width="100" height="50">|FRANCE 4|http://www.canalplus.com|
 |<img src="" width="100" height="50">|CSTAR|http://www.canalplus.com|
 |<img src="http://content.osn.com/logo/channel/cropped/PAR.png" width="100" height="50">|~~Paramount~~|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/STM.png" width="100" height="50">|Star Movies HD|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/STM.png" width="100" height="50">|~~Star Movies HD~~|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/B4P.png" width="100" height="50">|B4U Plus|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/IMA.png" width="100" height="50">|Imagine Movies|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/OYH.png" width="100" height="50">|OSN Ya Hala Al Oula|http://www.osn.com|
