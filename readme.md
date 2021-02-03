@@ -4,7 +4,7 @@
 ![CI](https://github.com/Fazzani/grab/workflows/CI/badge.svg)
 
 ![Channel count](https://img.shields.io/static/v1?style=for-the-badge&label=channel%20count&message=638&color=9cf&cacheSeconds=3600)
-![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=83.23%&color=yellow&cacheSeconds=3600)
+![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=83.54%&color=yellow&cacheSeconds=3600)
 
 ## channels list
 
@@ -322,7 +322,7 @@
 |<img src="https://epg.beinsports.com/mena_entertaintment/SeriesHD1.svg?111" width="100" height="50">|SeriesHD1 English|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_entertaintment/SeriesHD2.svg?123" width="100" height="50">|SeriesHD2 English|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_entertaintment/DramaHD1.svg?1232" width="100" height="50">|DramaHD1 English|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_entertaintment/gourmet.svg" width="100" height="50">|~~gourmet English~~|http://www.bein.net|
+|<img src="https://epg.beinsports.com/mena_entertaintment/gourmet.svg" width="100" height="50">|gourmet English|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_entertaintment/beJUNIOR.svg" width="100" height="50">|beJUNIOR English|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_entertaintment/Jeem.svg?20158888" width="100" height="50">|Jeem English|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_entertaintment/Baraem.svg?2017" width="100" height="50">|Baraem English|http://www.bein.net|
@@ -373,7 +373,7 @@
 |<img src="https://media.elcinema.com/tvguide/1216_1.png" width="100" height="50">|Al Jadeed TV|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1174_1.png" width="100" height="50">|Al Kahera Wal Nas TV|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1269_1.png" width="100" height="50">|Al sharqya|http://www.elcinema.com|
-|<img src="https://media.elcinema.com/tvguide/1261_1.png" width="100" height="50">|~~Zee alwan~~|http://www.elcinema.com|
+|<img src="https://media.elcinema.com/tvguide/1261_1.png" width="100" height="50">|Zee alwan|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1302_1.png" width="100" height="50">|~~Fujairah~~|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1299_1.png" width="100" height="50">|Roya|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1145_1.png" width="100" height="50">|Mehwar|http://www.elcinema.com|
