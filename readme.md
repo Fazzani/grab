@@ -314,7 +314,7 @@
 |<img src="https://epg.beinsports.com/mena_sports/SportsHD17.svg" width="100" height="50">|~~SportsHD17 English~~|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_sports/4K.svg" width="100" height="50">|4K English|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_sports/BS NBA.svg" width="100" height="50">|BS NBA English|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018" width="100" height="50">|~~MoviesHD1 English~~|http://www.bein.net|
+|<img src="https://epg.beinsports.com/mena_entertaintment/MoviesHD1.svg?2018" width="100" height="50">|MoviesHD1 English|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_entertaintment/MoviesHD2.svg?2018" width="100" height="50">|MoviesHD2 English|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_entertaintment/MoviesHD3.svg?2018" width="100" height="50">|MoviesHD3 English|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_entertaintment/MoviesHD4.svg?2018" width="100" height="50">|MoviesHD4 English|http://www.bein.net|
@@ -616,7 +616,7 @@
 |<img src="http://content.osn.com/logo/channel/cropped/KDZ.png" width="100" height="50">|OSN Kid Zone TV|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/NKT.png" width="100" height="50">|NickToons HD|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/BAB.png" width="100" height="50">|Baby TV Europe|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/ONS.png" width="100" height="50">|OSN News|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/ONS.png" width="100" height="50">|~~OSN News~~|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/SKH.png" width="100" height="50">|Sky News HD|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/BBW.png" width="100" height="50">|BBC World|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/CNB.png" width="100" height="50">|CNBC|http://www.osn.com|
