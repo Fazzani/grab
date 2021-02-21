@@ -4,7 +4,7 @@
 ![CI](https://github.com/Fazzani/grab/workflows/CI/badge.svg)
 
 ![Channel count](https://img.shields.io/static/v1?style=for-the-badge&label=channel%20count&message=642&color=9cf&cacheSeconds=3600)
-![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=70.25%&color=yellow&cacheSeconds=3600)
+![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=67.76%&color=yellow&cacheSeconds=3600)
 
 ## channels list
 
@@ -239,9 +239,9 @@
 |<img src="https://media.elcinema.com/tvguide/1168_1.png" width="100" height="50">|LBCI|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1260_1.png" width="100" height="50">|CBC sofra|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1176_1.png" width="100" height="50">|Cima|http://www.elcinema.com|
-|<img src="https://media.elcinema.com/tvguide/1195_1.png" width="100" height="50">|ART Cinema|http://www.elcinema.com|
-|<img src="https://media.elcinema.com/tvguide/1120_1.png" width="100" height="50">|ART Aflam 1|http://www.elcinema.com|
-|<img src="https://media.elcinema.com/tvguide/1121_1.png" width="100" height="50">|ART Aflam 2|http://www.elcinema.com|
+|<img src="https://media.elcinema.com/tvguide/1195_1.png" width="100" height="50">|~~ART Cinema~~|http://www.elcinema.com|
+|<img src="https://media.elcinema.com/tvguide/1120_1.png" width="100" height="50">|~~ART Aflam 1~~|http://www.elcinema.com|
+|<img src="https://media.elcinema.com/tvguide/1121_1.png" width="100" height="50">|~~ART Aflam 2~~|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1147_1.png" width="100" height="50">|Rotana Drama|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1149_1.png" width="100" height="50">|Rotana Khalijiah|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1339_1.png" width="100" height="50">|Al Saeedah|http://www.elcinema.com|
@@ -610,25 +610,25 @@
 |<img src=" https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F42866761d8d5efe1.2Epng/80x80/quality/80/automoto.png" width="100" height="50">|Automoto|http://www.programme-tv.net|
 |<img src=" https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F57f850d8546962e8.2Epng/80x80/quality/80/equidia.png" width="100" height="50">|Equidia|http://www.programme-tv.net|
 |<img src=" https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F57c9f12a257453d0.2Epng/80x80/quality/80/golfplus.png" width="100" height="50">|Golf+|http://www.programme-tv.net|
-|<img src="http://content.osn.com/logo/channel/cropped/CM1.png" width="100" height="50">|Cinema 1|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/CM2.png" width="100" height="50">|Cinema 2|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/CM1.png" width="100" height="50">|~~Cinema 1~~|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/CM2.png" width="100" height="50">|~~Cinema 2~~|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/NOW.png" width="100" height="50">|Music Now|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/HK1.png" width="100" height="50">|Hekayat|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/HK2.png" width="100" height="50">|Hekayat 2|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/AF1.png" width="100" height="50">|ART Aflam 1|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/AF2.png" width="100" height="50">|ART Aflam 2|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/ACM.png" width="100" height="50">|ART Cinema|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/ELL.png" width="100" height="50">|Ellay.com|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/AF1.png" width="100" height="50">|~~ART Aflam 1~~|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/AF2.png" width="100" height="50">|~~ART Aflam 2~~|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/ACM.png" width="100" height="50">|~~ART Cinema~~|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/ELL.png" width="100" height="50">|~~Ellay.com~~|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/AAN.png" width="100" height="50">|Al Aan TV|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/BEI.png" width="100" height="50">|Beity TV|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/KT1.png" width="100" height="50">|KTV1 HD|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/KT2.png" width="100" height="50">|KTV2 HD|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/KTE.png" width="100" height="50">|KTV Ethraa HD|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/KTA.png" width="100" height="50">|KTV Arabe HD|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/KTM.png" width="100" height="50">|KTV Majlis HD|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/KTQ.png" width="100" height="50">|Al Qurain HD|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/KT1.png" width="100" height="50">|~~KTV1 HD~~|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/KT2.png" width="100" height="50">|~~KTV2 HD~~|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/KTE.png" width="100" height="50">|~~KTV Ethraa HD~~|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/KTA.png" width="100" height="50">|~~KTV Arabe HD~~|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/KTM.png" width="100" height="50">|~~KTV Majlis HD~~|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/KTQ.png" width="100" height="50">|~~Al Qurain HD~~|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/SHJ.png" width="100" height="50">|~~Sharjah TV~~|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/SQK.png" width="100" height="50">|Sharqiya from Kalba|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/SQK.png" width="100" height="50">|~~Sharqiya from Kalba~~|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/CAI.png" width="100" height="50">|Crime \\u0026 Investigation Network|http://www.osn.com|
 |<img src="" width="100" height="50">|~~History HD~~|http://www.osn.com|
 |<img src="" width="100" height="50">|~~H2 HD~~|http://www.osn.com|
