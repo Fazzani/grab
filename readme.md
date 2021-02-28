@@ -4,7 +4,7 @@
 ![CI](https://github.com/Fazzani/grab/workflows/CI/badge.svg)
 
 ![Channel count](https://img.shields.io/static/v1?style=for-the-badge&label=channel%20count&message=642&color=9cf&cacheSeconds=3600)
-![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=81.00%&color=yellow&cacheSeconds=3600)
+![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=82.40%&color=yellow&cacheSeconds=3600)
 
 ## channels list
 
@@ -46,23 +46,23 @@
 |<img src=" https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F8a8995cf5e3427ae.2Epng/80x80/quality/80/pink-tv.png" width="100" height="50">|Pink TV|http://www.programme-tv.net|
 |<img src=" https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F88a42924c2c4c997.2Epng/80x80/quality/80/bein-sports-max-4.png" width="100" height="50">|beIN SPORTS MAX 4|http://www.programme-tv.net|
 |<img src="http://content.osn.com/logo/channel/cropped/PAR.png" width="100" height="50">|~~Paramount~~|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/STM.png" width="100" height="50">|~~Star Movies HD~~|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/B4P.png" width="100" height="50">|~~B4U Plus~~|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/IMA.png" width="100" height="50">|~~Imagine Movies~~|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/OYH.png" width="100" height="50">|~~OSN Ya Hala Al Oula~~|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/OYA.png" width="100" height="50">|~~OSN Ya Hala~~|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/OYC.png" width="100" height="50">|~~OSN Yahala Cinema~~|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/SER.png" width="100" height="50">|~~Series Channel~~|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/YAW.png" width="100" height="50">|~~Al Yawm~~|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/SAF.png" width="100" height="50">|~~Al Safwa~~|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/FAN.png" width="100" height="50">|~~Fann~~|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/STM.png" width="100" height="50">|Star Movies HD|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/B4P.png" width="100" height="50">|B4U Plus|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/IMA.png" width="100" height="50">|Imagine Movies|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/OYH.png" width="100" height="50">|OSN Ya Hala Al Oula|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/OYA.png" width="100" height="50">|OSN Ya Hala|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/OYC.png" width="100" height="50">|OSN Yahala Cinema|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/SER.png" width="100" height="50">|Series Channel|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/YAW.png" width="100" height="50">|Al Yawm|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/SAF.png" width="100" height="50">|Al Safwa|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/FAN.png" width="100" height="50">|Fann|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/ARC.png" width="100" height="50">|~~ABS-CBN Regional Channel~~|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/AKS.png" width="100" height="50">|~~Aksyon TV~~|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/CIN.png" width="100" height="50">|~~Cine Mo~~|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/AKS.png" width="100" height="50">|Aksyon TV|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/CIN.png" width="100" height="50">|Cine Mo|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/LSN.png" width="100" height="50">|~~Lifestyle Network~~|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/GMA.png" width="100" height="50">|~~GMA Pinoy TV~~|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/GML.png" width="100" height="50">|~~GMA Life TV~~|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/GMN.png" width="100" height="50">|~~GMA News TV~~|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/GMA.png" width="100" height="50">|GMA Pinoy TV|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/GML.png" width="100" height="50">|GMA Life TV|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/GMN.png" width="100" height="50">|GMA News TV|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/NET.png" width="100" height="50">|~~NET 25~~|http://www.osn.com|
 |<img src=" https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F9c869cdecb9a6c36.2Epng/80x80/quality/80/bein-sports-max-5.png" width="100" height="50">|beIN SPORTS MAX 5|http://www.programme-tv.net|
 |<img src=" https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F62ebc7a06f14c677.2Epng/80x80/quality/80/bein-sports-max-6.png" width="100" height="50">|beIN SPORTS MAX 6|http://www.programme-tv.net|
@@ -324,11 +324,11 @@
 |<img src="" width="100" height="50">|~~DTX English~~|http://www.bein.net|
 |<img src="" width="100" height="50">|~~DLife English~~|http://www.bein.net|
 |<img src="" width="100" height="50">|~~FineLiving English~~|http://www.bein.net|
-|<img src="http://content.osn.com/logo/channel/cropped/WAD.png" width="100" height="50">|Al Wosta from Al Dhaid|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/WAD.png" width="100" height="50">|~~Al Wosta from Al Dhaid~~|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/DAF.png" width="100" height="50">|Al Dafrah TV|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/BAH.png" width="100" height="50">|Bahrain TV|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/AGH.png" width="100" height="50">|Aghani Aghani|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/ROY.png" width="100" height="50">|Al Roya TV|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/BAH.png" width="100" height="50">|~~Bahrain TV~~|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/AGH.png" width="100" height="50">|~~Aghani Aghani~~|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/ROY.png" width="100" height="50">|~~Al Roya TV~~|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/OFH.png" width="100" height="50">|OSN Series First|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/OBG.png" width="100" height="50">|OSN Binge|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/OCO.png" width="100" height="50">|OSN Comedy|http://www.osn.com|
@@ -339,9 +339,9 @@
 |<img src="http://content.osn.com/logo/channel/cropped/OMZ.png" width="100" height="50">|OSN Mezze|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/OLH.png" width="100" height="50">|OSN Living|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/CT9.png" width="100" height="50">|CGTN|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/FRE.png" width="100" height="50">|France 24 English|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/FRE.png" width="100" height="50">|~~France 24 English~~|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/NHK.png" width="100" height="50">|NHK World TV|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/MDN.png" width="100" height="50">|Madani TV|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/MDN.png" width="100" height="50">|~~Madani TV~~|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/SNH.png" width="100" height="50">|Sky News Arabia HD|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/SNA.png" width="100" height="50">|Sky News Arabia|http://www.osn.com|
 |<img src="" width="100" height="50">|~~AlMamlaka TV~~|http://www.osn.com|
@@ -403,8 +403,8 @@
 |<img src="https://media.elcinema.com/tvguide/1193_1.png" width="100" height="50">|Al Nahar TV|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1216_1.png" width="100" height="50">|Al Jadeed TV|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1174_1.png" width="100" height="50">|Al Kahera Wal Nas TV|http://www.elcinema.com|
-|<img src="https://media.elcinema.com/tvguide/1269_1.png" width="100" height="50">|~~Al sharqya~~|http://www.elcinema.com|
-|<img src="https://media.elcinema.com/tvguide/1261_1.png" width="100" height="50">|Zee alwan|http://www.elcinema.com|
+|<img src="https://media.elcinema.com/tvguide/1269_1.png" width="100" height="50">|Al sharqya|http://www.elcinema.com|
+|<img src="https://media.elcinema.com/tvguide/1261_1.png" width="100" height="50">|~~Zee alwan~~|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1302_1.png" width="100" height="50">|~~Fujairah~~|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1299_1.png" width="100" height="50">|Roya|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1145_1.png" width="100" height="50">|Mehwar|http://www.elcinema.com|
