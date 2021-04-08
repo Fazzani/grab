@@ -4,7 +4,7 @@
 ![CI](https://github.com/Fazzani/grab/workflows/CI/badge.svg)
 
 ![Channel count](https://img.shields.io/static/v1?style=for-the-badge&label=channel%20count&message=642&color=9cf&cacheSeconds=3600)
-![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=51.56%&color=yellow&cacheSeconds=3600)
+![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=51.40%&color=yellow&cacheSeconds=3600)
 
 ## channels list
 
@@ -344,21 +344,21 @@
 |<img src="https://epg.beinsports.com/mena_entertaintment/HGTV.svg" width="100" height="50">|HGTV English|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_entertaintment/CBSreality.svg?2017" width="100" height="50">|beIN CBS reality|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_entertaintment/FXHD.svg?2018" width="100" height="50">|FXHD English|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_entertaintment/DMAX.svg?2017" width="100" height="50">|~~DMAX English~~|http://www.bein.net|
+|<img src="" width="100" height="50">|~~DMAX English~~|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_entertaintment/NatGeoWild_HD.svg?2017" width="100" height="50">|NatGeoWild_HD English|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_entertaintment/NatGeoPeople_HD.svg?2017" width="100" height="50">|NatGeoPeople_HD English|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_entertaintment/NatGeo_HD.svg?2017" width="100" height="50">|NatGeo_HD English|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_entertaintment/BBCEarth.png" width="100" height="50">|BBCEarth English|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_entertaintment/AnimalPlanetHD.svg" width="100" height="50">|~~AnimalPlanetHD English~~|http://www.bein.net|
+|<img src="" width="100" height="50">|~~AnimalPlanetHD English~~|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_entertaintment/AljazeeraDocumentary.png?2017" width="100" height="50">|AljazeeraDocumentary English|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_entertaintment/TRTWorld.png?2017" width="100" height="50">|TRTWorld English|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_entertaintment/Euronews.jpg?2017" width="100" height="50">|Euronews English|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_entertaintment/CNNHD.svg" width="100" height="50">|CNNHD English|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_entertaintment/Bloomberg.svg?2017" width="100" height="50">|Bloomberg English|http://www.bein.net|
 |<img src="https://epg.beinsports.com/mena_entertaintment/HLN.svg" width="100" height="50">|HLN English|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_entertaintment/DTX.png" width="100" height="50">|~~DTX English~~|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_entertaintment/DLife.svg?2017" width="100" height="50">|~~DLife English~~|http://www.bein.net|
-|<img src="https://epg.beinsports.com/mena_entertaintment/FineLiving.png" width="100" height="50">|~~FineLiving English~~|http://www.bein.net|
+|<img src="" width="100" height="50">|~~DTX English~~|http://www.bein.net|
+|<img src="" width="100" height="50">|~~DLife English~~|http://www.bein.net|
+|<img src="" width="100" height="50">|~~FineLiving English~~|http://www.bein.net|
 |<img src="" width="100" height="50">|~~DISNEY JUNIOR~~|http://www.canalplus.com|
 |<img src="" width="100" height="50">|~~PIWI+~~|http://www.canalplus.com|
 |<img src="" width="100" height="50">|~~NICKELODEON JUNIOR~~|http://www.canalplus.com|
@@ -483,7 +483,7 @@
 |<img src="https://media.elcinema.com/tvguide/1194_1.png" width="100" height="50">|MBC Drama|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1239_1.png" width="100" height="50">|MBC Egypt|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1340_1.png" width="100" height="50">|MBC Iraq|http://www.elcinema.com|
-|<img src="https://media.elcinema.com/tvguide/1352_1.png" width="100" height="50">|Saudiya TV|http://www.elcinema.com|
+|<img src="https://media.elcinema.com/tvguide/1352_1.png" width="100" height="50">|~~Saudiya TV~~|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1135_1.png" width="100" height="50">|Emirates|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1265_1.png" width="100" height="50">|~~Hawass~~|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1169_1.png" width="100" height="50">|Dubai TV|http://www.elcinema.com|
