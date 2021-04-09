@@ -4,7 +4,7 @@
 ![CI](https://github.com/Fazzani/grab/workflows/CI/badge.svg)
 
 ![Channel count](https://img.shields.io/static/v1?style=for-the-badge&label=channel%20count&message=642&color=9cf&cacheSeconds=3600)
-![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=51.40%&color=yellow&cacheSeconds=3600)
+![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=46.73%&color=yellow&cacheSeconds=3600)
 
 ## channels list
 
@@ -228,7 +228,7 @@
 |<img src=" https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fc3429738ac9adc87.2Epng/80x80/quality/80/nrj-12.png" width="100" height="50">|~~NRJ 12~~|http://www.programme-tv.net|
 |<img src=" https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fc5a00219b61629a7.2Epng/80x80/quality/80/la-chaine-parlementaire.png" width="100" height="50">|La Chaîne parlementaire|http://www.programme-tv.net|
 |<img src=" https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F488cba3e1cef1be4.2Epng/80x80/quality/80/france-4.png" width="100" height="50">|France 4|http://www.programme-tv.net|
-|<img src=" https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F4c2cbb5f3d06de92.2Epng/80x80/quality/80/bfm-tv.png" width="100" height="50">|BFMTV|http://www.programme-tv.net|
+|<img src=" https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F4c2cbb5f3d06de92.2Epng/80x80/quality/80/bfmtv.png" width="100" height="50">|BFMTV|http://www.programme-tv.net|
 |<img src=" https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Ffbaa4b8b2e2208b3.2Epng/80x80/quality/80/cnews.png" width="100" height="50">|~~CNEWS~~|http://www.programme-tv.net|
 |<img src=" https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fd6fd740ea5fed0a1.2Epng/80x80/quality/80/cstar.png" width="100" height="50">|~~CSTAR~~|http://www.programme-tv.net|
 |<img src=" https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fef660dc09c117f2d.2Epng/80x80/quality/80/gulli.png" width="100" height="50">|Gulli|http://www.programme-tv.net|
@@ -471,37 +471,37 @@
 |<img src=" https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F42866761d8d5efe1.2Epng/80x80/quality/80/automoto.png" width="100" height="50">|Automoto|http://www.programme-tv.net|
 |<img src=" https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F57f850d8546962e8.2Epng/80x80/quality/80/equidia.png" width="100" height="50">|Equidia|http://www.programme-tv.net|
 |<img src=" https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F57c9f12a257453d0.2Epng/80x80/quality/80/golfplus.png" width="100" height="50">|Golf+|http://www.programme-tv.net|
-|<img src="https://media.elcinema.com/tvguide/1241_1.png" width="100" height="50">|MBC 3|http://www.elcinema.com|
-|<img src="https://media.elcinema.com/tvguide/1127_1.png" width="100" height="50">|MBC|http://www.elcinema.com|
-|<img src="https://media.elcinema.com/tvguide/1132_1.png" width="100" height="50">|MBC MAX|http://www.elcinema.com|
-|<img src="https://media.elcinema.com/tvguide/1130_1.png" width="100" height="50">|MBC Action|http://www.elcinema.com|
-|<img src="https://media.elcinema.com/tvguide/1128_1.png" width="100" height="50">|MBC 2|http://www.elcinema.com|
-|<img src="https://media.elcinema.com/tvguide/1129_1.png" width="100" height="50">|MBC 4|http://www.elcinema.com|
-|<img src="https://media.elcinema.com/tvguide/1259_1.png" width="100" height="50">|MBC Bollywood|http://www.elcinema.com|
-|<img src="https://media.elcinema.com/tvguide/1131_1.png" width="100" height="50">|MBC Drama +|http://www.elcinema.com|
-|<img src="https://media.elcinema.com/tvguide/1278_1.png" width="100" height="50">|MBC MASR 2|http://www.elcinema.com|
-|<img src="https://media.elcinema.com/tvguide/1194_1.png" width="100" height="50">|MBC Drama|http://www.elcinema.com|
-|<img src="https://media.elcinema.com/tvguide/1239_1.png" width="100" height="50">|MBC Egypt|http://www.elcinema.com|
-|<img src="https://media.elcinema.com/tvguide/1340_1.png" width="100" height="50">|MBC Iraq|http://www.elcinema.com|
+|<img src="https://media.elcinema.com/tvguide/1241_1.png" width="100" height="50">|~~MBC 3~~|http://www.elcinema.com|
+|<img src="https://media.elcinema.com/tvguide/1127_1.png" width="100" height="50">|~~MBC~~|http://www.elcinema.com|
+|<img src="https://media.elcinema.com/tvguide/1132_1.png" width="100" height="50">|~~MBC MAX~~|http://www.elcinema.com|
+|<img src="https://media.elcinema.com/tvguide/1130_1.png" width="100" height="50">|~~MBC Action~~|http://www.elcinema.com|
+|<img src="https://media.elcinema.com/tvguide/1128_1.png" width="100" height="50">|~~MBC 2~~|http://www.elcinema.com|
+|<img src="https://media.elcinema.com/tvguide/1129_1.png" width="100" height="50">|~~MBC 4~~|http://www.elcinema.com|
+|<img src="https://media.elcinema.com/tvguide/1259_1.png" width="100" height="50">|~~MBC Bollywood~~|http://www.elcinema.com|
+|<img src="https://media.elcinema.com/tvguide/1131_1.png" width="100" height="50">|~~MBC Drama +~~|http://www.elcinema.com|
+|<img src="https://media.elcinema.com/tvguide/1278_1.png" width="100" height="50">|~~MBC MASR 2~~|http://www.elcinema.com|
+|<img src="https://media.elcinema.com/tvguide/1194_1.png" width="100" height="50">|~~MBC Drama~~|http://www.elcinema.com|
+|<img src="https://media.elcinema.com/tvguide/1239_1.png" width="100" height="50">|~~MBC Egypt~~|http://www.elcinema.com|
+|<img src="https://media.elcinema.com/tvguide/1340_1.png" width="100" height="50">|~~MBC Iraq~~|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1352_1.png" width="100" height="50">|~~Saudiya TV~~|http://www.elcinema.com|
-|<img src="https://media.elcinema.com/tvguide/1135_1.png" width="100" height="50">|Emirates|http://www.elcinema.com|
+|<img src="https://media.elcinema.com/tvguide/1135_1.png" width="100" height="50">|~~Emirates~~|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1265_1.png" width="100" height="50">|~~Hawass~~|http://www.elcinema.com|
-|<img src="https://media.elcinema.com/tvguide/1169_1.png" width="100" height="50">|Dubai TV|http://www.elcinema.com|
-|<img src="https://media.elcinema.com/tvguide/1173_1.png" width="100" height="50">|Dubai One|http://www.elcinema.com|
+|<img src="https://media.elcinema.com/tvguide/1169_1.png" width="100" height="50">|~~Dubai TV~~|http://www.elcinema.com|
+|<img src="https://media.elcinema.com/tvguide/1173_1.png" width="100" height="50">|~~Dubai One~~|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1171_1.png" width="100" height="50">|~~Future TV~~|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1225_1.png" width="100" height="50">|~~LBC Europe~~|http://www.elcinema.com|
-|<img src="https://media.elcinema.com/tvguide/1301_1.png" width="100" height="50">|Alsumaria|http://www.elcinema.com|
-|<img src="https://media.elcinema.com/tvguide/1168_1.png" width="100" height="50">|LBCI|http://www.elcinema.com|
-|<img src="https://media.elcinema.com/tvguide/1260_1.png" width="100" height="50">|CBC sofra|http://www.elcinema.com|
-|<img src="https://media.elcinema.com/tvguide/1176_1.png" width="100" height="50">|Cima|http://www.elcinema.com|
-|<img src="https://media.elcinema.com/tvguide/1195_1.png" width="100" height="50">|ART Cinema|http://www.elcinema.com|
-|<img src="https://media.elcinema.com/tvguide/1120_1.png" width="100" height="50">|ART Aflam 1|http://www.elcinema.com|
-|<img src="https://media.elcinema.com/tvguide/1121_1.png" width="100" height="50">|ART Aflam 2|http://www.elcinema.com|
-|<img src="https://media.elcinema.com/tvguide/1147_1.png" width="100" height="50">|Rotana Drama|http://www.elcinema.com|
-|<img src="https://media.elcinema.com/tvguide/1149_1.png" width="100" height="50">|Rotana Khalijiah|http://www.elcinema.com|
-|<img src="https://media.elcinema.com/tvguide/1339_1.png" width="100" height="50">|Al Saeedah|http://www.elcinema.com|
-|<img src="https://media.elcinema.com/tvguide/1223_1.png" width="100" height="50">|Al Nahar Drama|http://www.elcinema.com|
-|<img src="https://media.elcinema.com/tvguide/1178_1.png" width="100" height="50">|Abu Dhabi Drama|http://www.elcinema.com|
+|<img src="https://media.elcinema.com/tvguide/1301_1.png" width="100" height="50">|~~Alsumaria~~|http://www.elcinema.com|
+|<img src="https://media.elcinema.com/tvguide/1168_1.png" width="100" height="50">|~~LBCI~~|http://www.elcinema.com|
+|<img src="https://media.elcinema.com/tvguide/1260_1.png" width="100" height="50">|~~CBC sofra~~|http://www.elcinema.com|
+|<img src="https://media.elcinema.com/tvguide/1176_1.png" width="100" height="50">|~~Cima~~|http://www.elcinema.com|
+|<img src="https://media.elcinema.com/tvguide/1195_1.png" width="100" height="50">|~~ART Cinema~~|http://www.elcinema.com|
+|<img src="https://media.elcinema.com/tvguide/1120_1.png" width="100" height="50">|~~ART Aflam 1~~|http://www.elcinema.com|
+|<img src="https://media.elcinema.com/tvguide/1121_1.png" width="100" height="50">|~~ART Aflam 2~~|http://www.elcinema.com|
+|<img src="https://media.elcinema.com/tvguide/1147_1.png" width="100" height="50">|~~Rotana Drama~~|http://www.elcinema.com|
+|<img src="https://media.elcinema.com/tvguide/1149_1.png" width="100" height="50">|~~Rotana Khalijiah~~|http://www.elcinema.com|
+|<img src="https://media.elcinema.com/tvguide/1339_1.png" width="100" height="50">|~~Al Saeedah~~|http://www.elcinema.com|
+|<img src="https://media.elcinema.com/tvguide/1223_1.png" width="100" height="50">|~~Al Nahar Drama~~|http://www.elcinema.com|
+|<img src="https://media.elcinema.com/tvguide/1178_1.png" width="100" height="50">|~~Abu Dhabi Drama~~|http://www.elcinema.com|
 |<img src="https://media.elcinema.com/tvguide/1138_1.png" width="100" height="50">|~~Alhayat Series~~|http://www.elcinema.com|
 |<img src=" https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F9c869cdecb9a6c36.2Epng/80x80/quality/80/bein-sports-max-5.png" width="100" height="50">|beIN SPORTS MAX 5|http://www.programme-tv.net|
 |<img src=" https://tel.img.pmdstatic.net/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2F62ebc7a06f14c677.2Epng/80x80/quality/80/bein-sports-max-6.png" width="100" height="50">|beIN SPORTS MAX 6|http://www.programme-tv.net|
@@ -623,9 +623,9 @@
 |<img src="http://content.osn.com/logo/channel/cropped/NOW.png" width="100" height="50">|Music Now|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/HK1.png" width="100" height="50">|Hekayat|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/HK2.png" width="100" height="50">|Hekayat 2|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/AF1.png" width="100" height="50">|ART Aflam 1|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/AF2.png" width="100" height="50">|ART Aflam 2|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/ACM.png" width="100" height="50">|ART Cinema|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/AF1.png" width="100" height="50">|~~ART Aflam 1~~|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/AF2.png" width="100" height="50">|~~ART Aflam 2~~|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/ACM.png" width="100" height="50">|~~ART Cinema~~|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/ELL.png" width="100" height="50">|Ellay.com|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/AAN.png" width="100" height="50">|Al Aan TV|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/BEI.png" width="100" height="50">|Beity TV|http://www.osn.com|
