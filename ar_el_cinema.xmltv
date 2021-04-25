@@ -155,4 +155,58 @@
     <icon src="https://media.elcinema.com/tvguide/1366_1.png" />
     <url>http://www.elcinema.com</url>
   </channel>
+  <programme start="20210425000000 +0200" stop="20210425000000 +0200" channel="almanar">
+    <title lang="en">النشرة قبل النشرة</title>
+    <title lang="en">النشرة قبل النشرة 
+            
+              05:55  PM
+              [5 minutes]</title>
+  </programme>
+  <programme start="20210425000000 +0200" stop="20210425000000 +0200" channel="almanar">
+    <title lang="en">نشرة أخبار</title>
+    <title lang="en">نشرة أخبار 
+            
+              06:00  PM
+              [30 minutes]</title>
+  </programme>
+  <programme start="20210425000000 +0200" stop="20210425000000 +0200" channel="almanar">
+    <title lang="en">فترة دينية</title>
+    <title lang="en">فترة دينية 
+            
+              06:30  PM
+              [15 minutes]</title>
+  </programme>
+  <programme start="20210425000000 +0200" stop="20210425000000 +0200" channel="almanar">
+    <title lang="en">ﺑﺮﻧﺎﻣﺞ أدعية وزيارات</title>
+    <title lang="en">ﺑﺮﻧﺎﻣﺞ أدعية وزيارات 
+            
+              06:45  PM
+              [15 minutes]</title>
+  </programme>
+  <programme start="20210425190000 +0200" stop="20210425200000 +0200" channel="almanar">
+    <title lang="en">Bab El Harra 11: Harret El Salihiya (?)</title>
+    <title lang="en">07:00  PM
+            [60 minutes] (?)</title>
+    <rating system="EG">
+      <value>3.4</value>
+    </rating>
+  </programme>
+  <programme start="20210426123500 +0200" stop="20210426133000 +0200" channel="almanar">
+    <title lang="en">Safe House (?)</title>
+    <title lang="en">12:35  PM
+            [55 minutes] (?)</title>
+  </programme>
+  <programme start="20210426190000 +0200" stop="20210426200000 +0200" channel="almanar">
+    <title lang="en">Bab El Harra 11: Harret El Salihiya (?)</title>
+    <title lang="en">07:00  PM
+            [60 minutes] (?)</title>
+    <rating system="EG">
+      <value>3.4</value>
+    </rating>
+  </programme>
+  <programme start="20210426200000 +0200" stop="20210426223000 +0200" channel="almanar">
+    <title lang="en">Safe House (?)</title>
+    <title lang="en">08:00  PM
+            [60 minutes] (?)</title>
+  </programme>
 </tv>
