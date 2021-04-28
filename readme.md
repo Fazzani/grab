@@ -4,7 +4,7 @@
 ![CI](https://github.com/Fazzani/grab/workflows/CI/badge.svg)
 
 ![Channel count](https://img.shields.io/static/v1?style=for-the-badge&label=channel%20count&message=642&color=9cf&cacheSeconds=3600)
-![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=52.80%&color=yellow&cacheSeconds=3600)
+![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=45.48%&color=yellow&cacheSeconds=3600)
 
 ## channels list
 
@@ -163,8 +163,8 @@
 |<img src="http://www.watania1.tn/sites/default/files/main_logo_watania1_0.png" width="100" height="50">|Watania 1|http://www.watania.tn|
 |<img src="http://www.watania2.tn/sites/default/files/main_logo_watania2_0.png" width="100" height="50">|Watania 2|http://www.watania.tn|
 |<img src="" width="100" height="50">|~~BS1~~|http://www.bein.net|
-|<img src="" width="100" height="50">|BS2|http://www.bein.net|
-|<img src="" width="100" height="50">|BS3|http://www.bein.net|
+|<img src="" width="100" height="50">|~~BS2~~|http://www.bein.net|
+|<img src="" width="100" height="50">|~~BS3~~|http://www.bein.net|
 |<img src="" width="100" height="50">|~~SportsGlobalHD English~~|http://www.bein.net|
 |<img src="" width="100" height="50">|~~News_ar English~~|http://www.bein.net|
 |<img src="" width="100" height="50">|~~HD1 English~~|http://www.bein.net|
@@ -186,53 +186,53 @@
 |<img src="" width="100" height="50">|~~SportsHD17 English~~|http://www.bein.net|
 |<img src="" width="100" height="50">|~~4K English~~|http://www.bein.net|
 |<img src="" width="100" height="50">|~~BS NBA English~~|http://www.bein.net|
-|<img src="" width="100" height="50">|MoviesHD1 English|http://www.bein.net|
-|<img src="" width="100" height="50">|MoviesHD2 English|http://www.bein.net|
-|<img src="" width="100" height="50">|MoviesHD3 English|http://www.bein.net|
-|<img src="" width="100" height="50">|MoviesHD4 English|http://www.bein.net|
-|<img src="" width="100" height="50">|BoxOffice_HD1 English|http://www.bein.net|
-|<img src="" width="100" height="50">|SeriesHD1 English|http://www.bein.net|
-|<img src="" width="100" height="50">|SeriesHD2 English|http://www.bein.net|
-|<img src="" width="100" height="50">|DramaHD1 English|http://www.bein.net|
-|<img src="" width="100" height="50">|gourmet English|http://www.bein.net|
-|<img src="" width="100" height="50">|beJUNIOR English|http://www.bein.net|
-|<img src="" width="100" height="50">|Jeem English|http://www.bein.net|
-|<img src="" width="100" height="50">|Baraem English|http://www.bein.net|
-|<img src="" width="100" height="50">|CartoonNetworkHD|http://www.bein.net|
-|<img src="" width="100" height="50">|CartoonNetworkAR|http://www.bein.net|
-|<img src="" width="100" height="50">|CartoonNetworkHindi|http://www.bein.net|
-|<img src="" width="100" height="50">|Baby_TV English|http://www.bein.net|
-|<img src="" width="100" height="50">|CBeebies English|http://www.bein.net|
-|<img src="" width="100" height="50">|DreamWorks English|http://www.bein.net|
-|<img src="" width="100" height="50">|JimJam English|http://www.bein.net|
-|<img src="" width="100" height="50">|beIN FOX Family Movies|http://www.bein.net|
-|<img src="" width="100" height="50">|beIN FOX Action Movies|http://www.bein.net|
-|<img src="" width="100" height="50">|beIN Star World HD|http://www.bein.net|
-|<img src="" width="100" height="50">|TCM English|http://www.bein.net|
-|<img src="" width="100" height="50">|amc English|http://www.bein.net|
-|<img src="" width="100" height="50">|beIN StarMovies|http://www.bein.net|
-|<img src="" width="100" height="50">|FOXHD English|http://www.bein.net|
-|<img src="" width="100" height="50">|OutdoorChannel English|http://www.bein.net|
-|<img src="" width="100" height="50">|V_HD English|http://www.bein.net|
-|<img src="" width="100" height="50">|TravelChannel English|http://www.bein.net|
-|<img src="" width="100" height="50">|Extreme English|http://www.bein.net|
-|<img src="" width="100" height="50">|fatafeat English|http://www.bein.net|
-|<img src="" width="100" height="50">|FoodNetwork English|http://www.bein.net|
-|<img src="" width="100" height="50">|HGTV English|http://www.bein.net|
-|<img src="" width="100" height="50">|beIN CBS reality|http://www.bein.net|
-|<img src="" width="100" height="50">|FXHD English|http://www.bein.net|
+|<img src="" width="100" height="50">|~~MoviesHD1 English~~|http://www.bein.net|
+|<img src="" width="100" height="50">|~~MoviesHD2 English~~|http://www.bein.net|
+|<img src="" width="100" height="50">|~~MoviesHD3 English~~|http://www.bein.net|
+|<img src="" width="100" height="50">|~~MoviesHD4 English~~|http://www.bein.net|
+|<img src="" width="100" height="50">|~~BoxOffice_HD1 English~~|http://www.bein.net|
+|<img src="" width="100" height="50">|~~SeriesHD1 English~~|http://www.bein.net|
+|<img src="" width="100" height="50">|~~SeriesHD2 English~~|http://www.bein.net|
+|<img src="" width="100" height="50">|~~DramaHD1 English~~|http://www.bein.net|
+|<img src="" width="100" height="50">|~~gourmet English~~|http://www.bein.net|
+|<img src="" width="100" height="50">|~~beJUNIOR English~~|http://www.bein.net|
+|<img src="" width="100" height="50">|~~Jeem English~~|http://www.bein.net|
+|<img src="" width="100" height="50">|~~Baraem English~~|http://www.bein.net|
+|<img src="" width="100" height="50">|~~CartoonNetworkHD~~|http://www.bein.net|
+|<img src="" width="100" height="50">|~~CartoonNetworkAR~~|http://www.bein.net|
+|<img src="" width="100" height="50">|~~CartoonNetworkHindi~~|http://www.bein.net|
+|<img src="" width="100" height="50">|~~Baby_TV English~~|http://www.bein.net|
+|<img src="" width="100" height="50">|~~CBeebies English~~|http://www.bein.net|
+|<img src="" width="100" height="50">|~~DreamWorks English~~|http://www.bein.net|
+|<img src="" width="100" height="50">|~~JimJam English~~|http://www.bein.net|
+|<img src="" width="100" height="50">|~~beIN FOX Family Movies~~|http://www.bein.net|
+|<img src="" width="100" height="50">|~~beIN FOX Action Movies~~|http://www.bein.net|
+|<img src="" width="100" height="50">|~~beIN Star World HD~~|http://www.bein.net|
+|<img src="" width="100" height="50">|~~TCM English~~|http://www.bein.net|
+|<img src="" width="100" height="50">|~~amc English~~|http://www.bein.net|
+|<img src="" width="100" height="50">|~~beIN StarMovies~~|http://www.bein.net|
+|<img src="" width="100" height="50">|~~FOXHD English~~|http://www.bein.net|
+|<img src="" width="100" height="50">|~~OutdoorChannel English~~|http://www.bein.net|
+|<img src="" width="100" height="50">|~~V_HD English~~|http://www.bein.net|
+|<img src="" width="100" height="50">|~~TravelChannel English~~|http://www.bein.net|
+|<img src="" width="100" height="50">|~~Extreme English~~|http://www.bein.net|
+|<img src="" width="100" height="50">|~~fatafeat English~~|http://www.bein.net|
+|<img src="" width="100" height="50">|~~FoodNetwork English~~|http://www.bein.net|
+|<img src="" width="100" height="50">|~~HGTV English~~|http://www.bein.net|
+|<img src="" width="100" height="50">|~~beIN CBS reality~~|http://www.bein.net|
+|<img src="" width="100" height="50">|~~FXHD English~~|http://www.bein.net|
 |<img src="" width="100" height="50">|~~DMAX English~~|http://www.bein.net|
-|<img src="" width="100" height="50">|NatGeoWild_HD English|http://www.bein.net|
-|<img src="" width="100" height="50">|NatGeoPeople_HD English|http://www.bein.net|
-|<img src="" width="100" height="50">|NatGeo_HD English|http://www.bein.net|
-|<img src="" width="100" height="50">|BBCEarth English|http://www.bein.net|
+|<img src="" width="100" height="50">|~~NatGeoWild_HD English~~|http://www.bein.net|
+|<img src="" width="100" height="50">|~~NatGeoPeople_HD English~~|http://www.bein.net|
+|<img src="" width="100" height="50">|~~NatGeo_HD English~~|http://www.bein.net|
+|<img src="" width="100" height="50">|~~BBCEarth English~~|http://www.bein.net|
 |<img src="" width="100" height="50">|~~AnimalPlanetHD English~~|http://www.bein.net|
-|<img src="" width="100" height="50">|AljazeeraDocumentary English|http://www.bein.net|
-|<img src="" width="100" height="50">|TRTWorld English|http://www.bein.net|
-|<img src="" width="100" height="50">|Euronews English|http://www.bein.net|
-|<img src="" width="100" height="50">|CNNHD English|http://www.bein.net|
-|<img src="" width="100" height="50">|Bloomberg English|http://www.bein.net|
-|<img src="" width="100" height="50">|HLN English|http://www.bein.net|
+|<img src="" width="100" height="50">|~~AljazeeraDocumentary English~~|http://www.bein.net|
+|<img src="" width="100" height="50">|~~TRTWorld English~~|http://www.bein.net|
+|<img src="" width="100" height="50">|~~Euronews English~~|http://www.bein.net|
+|<img src="" width="100" height="50">|~~CNNHD English~~|http://www.bein.net|
+|<img src="" width="100" height="50">|~~Bloomberg English~~|http://www.bein.net|
+|<img src="" width="100" height="50">|~~HLN English~~|http://www.bein.net|
 |<img src="" width="100" height="50">|~~DTX English~~|http://www.bein.net|
 |<img src="" width="100" height="50">|~~DLife English~~|http://www.bein.net|
 |<img src="" width="100" height="50">|~~FineLiving English~~|http://www.bein.net|
