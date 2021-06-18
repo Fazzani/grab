@@ -4,7 +4,7 @@
 ![CI](https://github.com/Fazzani/grab/workflows/CI/badge.svg)
 
 ![Channel count](https://img.shields.io/static/v1?style=for-the-badge&label=channel%20count&message=642&color=9cf&cacheSeconds=3600)
-![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=1.40%&color=yellow&cacheSeconds=3600)
+![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=0.00%&color=yellow&cacheSeconds=3600)
 
 ## channels list
 
@@ -181,20 +181,20 @@
 |<img src="http://content.osn.com/logo/channel/cropped/STM.png" width="100" height="50">|~~Star Movies HD~~|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/B4P.png" width="100" height="50">|~~B4U Plus~~|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/IMA.png" width="100" height="50">|~~Imagine Movies~~|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/OYH.png" width="100" height="50">|OSN Ya Hala Al Oula|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/OYA.png" width="100" height="50">|OSN Ya Hala|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/OYC.png" width="100" height="50">|OSN Yahala Cinema|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/SER.png" width="100" height="50">|Series Channel|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/YAW.png" width="100" height="50">|Al Yawm|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/SAF.png" width="100" height="50">|Al Safwa|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/OYH.png" width="100" height="50">|~~OSN Ya Hala Al Oula~~|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/OYA.png" width="100" height="50">|~~OSN Ya Hala~~|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/OYC.png" width="100" height="50">|~~OSN Yahala Cinema~~|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/SER.png" width="100" height="50">|~~Series Channel~~|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/YAW.png" width="100" height="50">|~~Al Yawm~~|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/SAF.png" width="100" height="50">|~~Al Safwa~~|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/FAN.png" width="100" height="50">|~~Fann~~|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/ARC.png" width="100" height="50">|~~ABS-CBN Regional Channel~~|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/AKS.png" width="100" height="50">|Aksyon TV|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/AKS.png" width="100" height="50">|~~Aksyon TV~~|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/CIN.png" width="100" height="50">|~~Cine Mo~~|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/LSN.png" width="100" height="50">|~~Lifestyle Network~~|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/GMA.png" width="100" height="50">|~~GMA Pinoy TV~~|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/GML.png" width="100" height="50">|GMA Life TV|http://www.osn.com|
-|<img src="http://content.osn.com/logo/channel/cropped/GMN.png" width="100" height="50">|GMA News TV|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/GML.png" width="100" height="50">|~~GMA Life TV~~|http://www.osn.com|
+|<img src="http://content.osn.com/logo/channel/cropped/GMN.png" width="100" height="50">|~~GMA News TV~~|http://www.osn.com|
 |<img src="http://content.osn.com/logo/channel/cropped/NET.png" width="100" height="50">|~~NET 25~~|http://www.osn.com|
 |<img src="" width="100" height="50">|~~beIN SPORTS MAX 5~~|http://www.programme-tv.net|
 |<img src="" width="100" height="50">|~~beIN SPORTS MAX 6~~|http://www.programme-tv.net|
