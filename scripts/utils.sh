@@ -14,5 +14,5 @@ function echoError {
 }
 
 function hash {
-  echo `/bin/echo $0 | /usr/bin/md5sum | cut -f1 -d" "`
+  echo `/bin/echo $1 | /usr/bin/md5sum | cut -f1 -d" "`
 }

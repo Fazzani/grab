@@ -15,6 +15,9 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
+      with:
+        persist-credentials: false
+        fetch-depth: 0
 
     - uses: actions/setup-python@v2
       with:
@@ -22,26 +25,38 @@ jobs:
 
     - name: download & merge & stats
       run: |
-        wget https://raw.githubusercontent.com/Fazzani/grab/master/build.sh -O build.sh
+        # wget https://raw.githubusercontent.com/Fazzani/grab/master/build.sh -O build.sh
         chmod +x ./build.sh
 
+        echo "--------------- downloading xmltv files"
+        echo
         epg_urls=(${EPG_URLS//;/ })
         ./build.sh --download "${epg_urls[@]}"
 
+        echo "--------------- merging xmltv files"
+        echo
         ./build.sh --merge
-
+        echo "--------------- epg stats"
+        echo
         ./build.sh --stats
 
-        [[ ! -z $(git status -uno --porcelain) ]] \
-        && git config --global user.email "ci@github.com" \
-        && git config --global user.name "Fazzani" \
-        && git status \
-        && git config --global http.postBuffer 524288000 \
-        && git add . && git commit -m "new grab"
       env: # Or as an environment variable
         EPG_URLS: ${{ secrets.EPG_URLS }}
+    
+    # - name: Merge xmltv files
+    #   uses: addnab/docker-run-action@v3
+    #   with:
+    #     image: synker/xmltv_merge:latest
+    #     volumes:
+    #       - "$(pwd):/work"
+    #     run: |
+    #       dos2unix docker/merge.sh && chmod +x docker/merge.sh && docker/merge.sh "./tmp/*.xml"
 
-    - name: Push changes
-      uses: ad-m/github-push-action@master
+    - name: Commit & Push changes
+      uses: actions-js/push@master
       with:
         github_token: ${{ secrets.API_TOKEN }}
+        author_email: "heni.fazzani@gmail.com"
+        author_name: "Heni Fazzani"
+        commit_message: "autopublish ${date}: Merge xmltv files"
+        branch: "master"

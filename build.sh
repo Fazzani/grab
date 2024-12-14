@@ -3,7 +3,7 @@
 OLDIFS=$IFS
 
 function build {
-    git clone --depth 1 https://${GITHUB_API_TOKEN}@github.com/fazzani/grab.git > /dev/null 2>&1 && \
+    git clone --depth 1 https://${GIT_TOKEN}@github.com/fazzani/grab.git > /dev/null 2>&1 && \
     cd grab && \
     docker run -it --rm -v "${PWD}/${WEBGRAB_FILENAME}:/config/WebGrab++.config.xml" --hostname test --mac-address="12:34:de:b0:6b:61" -v "${PWD}:/data" synker/webgraboneshot:latest
     git add --all && (git commit -m "Webgrab ${WEBGRAB_FILENAME}" || echo "No changes to commit" && exit 0)
@@ -18,8 +18,14 @@ function build {
 }
 
 function merge {
-    chmod +x ./docker/merge.sh
-    sudo docker run -it -v "${PWD}:/work" -e GITHUB_API_TOKEN=${GITHUB_API_TOKEN} synker/xmltv_merge:latest /bin/bash -c "dos2unix docker/merge.sh && chmod +x docker/merge.sh && docker/merge.sh ./tmp/*.xml"
+    sudo apt-get install -yqq --no-install-recommends \
+       xmltv-util \
+       dos2unix \
+       zip
+    
+    dos2unix docker/merge.sh && \
+    chmod +x docker/merge.sh && \
+    docker/merge.sh ./tmp
 }
 
 function stats {

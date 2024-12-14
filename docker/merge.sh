@@ -3,7 +3,7 @@
 set -e
 
 command -v tv_merge >/dev/null 2>&1 || { echo >&2 "I require tv_merge but it's not installed. Please install xmltv-util package. Aborting."; exit 1; }
-command -v tar >/dev/null 2>&1 || { echo >&2 "I require tar but it's not installed.  Aborting."; exit 1; }
+command -v gzip >/dev/null 2>&1 || { echo >&2 "I require gzip but it's not installed.  Aborting."; exit 1; }
 command -v zip >/dev/null 2>&1 || { echo >&2 "I require zip but it's not installed.  Aborting."; exit 1; }
 
 output="merge.xmltv"
@@ -12,11 +12,11 @@ verbose=${VERBOSE:-false}
 
 [[ $verbose = true ]] && echo "pattern to match $1"
 
-for filename in "$@";do
+for filename in "$1"/*.xml; do
 
   [[ $verbose = true ]] && echo "filename => $filename" 
 
-  [[ $(grep -c "<programme" "$filename") -eq 0 ]] && continue
+  [[ $(grep -c "<programme" "$filename") -eq 0 ]] && echo "no programs" && continue
 
   if [[ "$filename" = "merge.xmltv" ]]; then
     continue
@@ -40,8 +40,10 @@ for filename in "$@";do
 
 done;
 
-[[ ! -f ./merge.xmltv ]] && echo "merge.xmltv file not generated!" && exit 0
+[[ ! -f $output ]] && echo "merge.xmltv file not generated!" && exit 0
 
-mv ./merge.xmltv ./merge.xml && tar zcvf merge.tar.gz merge.xml && zip -r merge.zip merge.xml && rm merge.xml
+mv $output ./merge.xml && \
+zip -r merge.zip merge.xml && \
+gzip -fq merge.xml > merge.gz 
 
 exit 0

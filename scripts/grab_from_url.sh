@@ -2,9 +2,10 @@
 
 source $(dirname $0)/utils.sh
 
-tmpDir="$(dirname $0)/tmp"
-echoInfo "$(dirname $tmpDir)"
-mkdir -p $tmpDir
+# tmpDir="$(dirname $0)/tmp"
+# echoInfo "$(dirname $tmpDir)"
+tmpDir="./tmp"
+mkdir -p "$tmpDir"
 
 for url in "$@"
 do
@@ -40,7 +41,7 @@ do
   fi
 
   # sudo mv $tmpDir/$fileDest.xml $fileDest.xmltv &&
-  echoInfo "${url} grab finished successfully"
+  echoInfo "${fileDest} grab finished successfully"
   echo
   # if [ -z $localzipName ]; then
   #   echoInfo "Deleting $tmpDir/$localzipName ..."
