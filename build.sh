@@ -18,24 +18,8 @@ function build {
 }
 
 function merge {
-    git clone --depth 1 https://${GITHUB_API_TOKEN}@github.com/fazzani/grab.git > /dev/null 2>&1 \
-    && cd grab \
-    && chmod +x ../docker/merge.sh
-
-    docker run -it -v "${PWD}:/work" -e GITHUB_API_TOKEN=${GITHUB_API_TOKEN} synker/xmltv_merge:latest /bin/bash -c "dos2unix docker/merge.sh && chmod +x docker/merge.sh && docker/merge.sh *.xmltv"
-
-    [[ ! -z $(git status -uno --porcelain) ]] \
-    && git status \
-    && git add merge.tar.gz merge.zip \
-    && git commit -m "compression and merging xmltv files. Triggred by $TRAVIS_EVENT_TYPE" && \
-    git config --global http.postBuffer 524288000
-
-    local counter=0
-    until [ $counter -gt 5 ]; do
-        { { git pull &> /dev/null && git push -f; } && break; } || ((counter++))
-        echo Transfer disrupted, retrying in 10 seconds...
-        sleep 10
-    done
+    chmod +x ./docker/merge.sh
+    sudo docker run -it -v "${PWD}:/work" -e GITHUB_API_TOKEN=${GITHUB_API_TOKEN} synker/xmltv_merge:latest /bin/bash -c "dos2unix docker/merge.sh && chmod +x docker/merge.sh && docker/merge.sh ./tmp/*.xml"
 }
 
 function stats {
@@ -49,27 +33,36 @@ function stats {
     for commit in $(git log --after="$month_ago_date" --format=%h -- out/epg.csv)
         do
         git show $commit:out/epg.csv > $data_file_path
-        python scripts/stats_epg.py -p $data_file_path
+        python3 scripts/stats_epg.py -p $data_file_path
         [[ -f $data_file_path ]] && rm $data_file_path
     done
-    python scripts/stats_epg.py -s
+    python3 scripts/stats_epg.py -s
 }
 
 BUILD=false
 MERGE=false
-
 for arg in "$@"
 do
     case "$arg" in
     "--build")
         BUILD=true
         ;;
+    "--download")
+        shift
+        chmod +x ./scripts/grab_from_url.sh && ./scripts/grab_from_url.sh $@
+        ;;
     "--merge")
         MERGE=true
         ;;
+    "--check")
+        shift
+        pip install pandas --break-system-packages
+        python3 ./scripts/check.py .
+        ;;
     "--stats")
         shift
-        stats "$1"
+        pip install pandas --break-system-packages
+        python3 ./scripts/stats_epg.py -s -f out/epg.csv
         exit 0
         ;;
     esac

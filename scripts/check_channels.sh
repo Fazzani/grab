@@ -1,7 +1,7 @@
 #!/bin/bash
 #______________________________________________________________________________
 #
-# Check si un une chaine dans le xmltv généré n'aurait pas des programmes
+# Check si une chaine dans le xmltv généré n'aurait pas des programmes
 # si oui on envoie un mail
 # on met à jour le fichier utilisé par l'application web qui contient la liste de références des chaines ayant des EPG
 #______________________________________________________________________________
@@ -118,13 +118,13 @@ echo '<?xml version="1.0" encoding="UTF-8"?><tv generator-info-name="WebGrab+Plu
 
 for i in "$@";
 do
-    checkChannels $i $outputfile $outputfile_json $outputfile_missing_prog &
+  checkChannels $i $outputfile $outputfile_json $outputfile_missing_prog &
 	wait
 done
 
 echo '</tv>' >> $outputfile
 
-# formating channels without programs file
+# formatting channels without programs file
 content_missing=$(cat $outputfile_missing_prog)
 echo ${content_missing%,}"]}" > $outputfile_missing_prog
 # Generate json version

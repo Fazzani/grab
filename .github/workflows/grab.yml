@@ -1,0 +1,47 @@
+name: grab
+on:
+  workflow_dispatch:
+    inputs:
+      logLevel:
+        description: 'Log level'
+        required: true
+        default: 'warning'
+  schedule:
+    - cron:  '0 0 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - uses: actions/setup-python@v2
+      with:
+        python-version: '3.12'
+
+    - name: download & merge & stats
+      run: |
+        wget https://raw.githubusercontent.com/Fazzani/grab/master/build.sh -O build.sh
+        chmod +x ./build.sh
+
+        epg_urls=(${EPG_URLS//;/ })
+        ./build.sh --download "${epg_urls[@]}"
+
+        ./build.sh --merge
+
+        ./build.sh --stats
+
+        [[ ! -z $(git status -uno --porcelain) ]] \
+        && git config --global user.email "ci@github.com" \
+        && git config --global user.name "Fazzani" \
+        && git status \
+        && git config --global http.postBuffer 524288000 \
+        && git add . && git commit -m "new grab"
+      env: # Or as an environment variable
+        EPG_URLS: ${{ secrets.EPG_URLS }}
+
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.API_TOKEN }}

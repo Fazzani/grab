@@ -9,13 +9,13 @@ source $(dirname $0)/utils
 
 function check_missing_epg {
   echoInfo "${NC}"
-  echoInfo -e "$__________ Cheacking epg file =>  $1 _________"
+  echoInfo -e "$__________ Checking epg file =>  $1 _________"
   echo
 
   if [ ! -z "$1" ];then
     fileInput="$1"
   else
-    echoError "no fileinput detected ${NC}"
+    echoError "no input file was detected ${NC}"
     fileInput="guide.xmltv"
   fi
 
@@ -28,7 +28,7 @@ function check_missing_epg {
   countErrors=`echo "$listChannels" | wc -l`
   
   if [ $countErrors -ne 0 ];then
-    echo -e "${RED}Channels wihout programmes count : " $(echo "$listChannels"|wc -l)
+    echo -e "${RED}Channels without programmes count : " $(echo "$listChannels"|wc -l)
     echo
     res=$(echo -e "${listChannels}" | sed -e 's/\"/<br\/>/g')
     echo $res | column
@@ -46,7 +46,7 @@ function check_missing_epg {
 
 # echo "____ : $1 arg count ____ $# : ____"
 if [ -z "$1" ];then
-  echo "You must pass a list of epg files!!"
+  echo "List of epg files is required"
   exit -1
 fi
 
