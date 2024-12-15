@@ -3,8 +3,8 @@
 set -e
 
 command -v tv_merge >/dev/null 2>&1 || { echo >&2 "I require tv_merge but it's not installed. Please install xmltv-util package. Aborting."; exit 1; }
-command -v gzip >/dev/null 2>&1 || { echo >&2 "I require gzip but it's not installed.  Aborting."; exit 1; }
-command -v zip >/dev/null 2>&1 || { echo >&2 "I require zip but it's not installed.  Aborting."; exit 1; }
+command -v gzip >/dev/null 2>&1 || { echo >&2 "I require gzip but it's not installed. Aborting."; exit 1; }
+command -v zip >/dev/null 2>&1 || { echo >&2 "I require zip but it's not installed. Aborting."; exit 1; }
 
 output="merge.xmltv"
 i=0
@@ -18,7 +18,7 @@ for filename in "$1"/*.xml; do
 
   [[ $(grep -c "<programme" "$filename") -eq 0 ]] && echo "no programs" && continue
 
-  if [[ "$filename" = "merge.xmltv" ]]; then
+  if [[ "$filename" = "merge.xml" ]]; then
     continue
   fi
 
@@ -40,12 +40,12 @@ for filename in "$1"/*.xml; do
 
 done;
 
-[[ ! -f $output ]] && echo "merge.xmltv file not generated!" && exit 0
+[[ ! -f $output ]] && echo "merge.xmltv file not generated !" && exit 0
 
 mv $output ./merge.xml
 [[ -f "./merge.zip" ]] && rm "./merge.zip"
 [[ -f "./merge.xml.gz" ]] && rm "./merge.xml.gz"
 zip -r merge.zip merge.xml
-gzip -fq merge.xml
+gzip -fkq merge.xml
 
 exit 0

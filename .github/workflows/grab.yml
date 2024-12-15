@@ -22,7 +22,9 @@ jobs:
       with:
         python-version: '3.12'
 
-    - name: download & merge & stats
+    - name: Download & merge xmltv files
+      env:
+        EPG_URLS: ${{ secrets.EPG_URLS }}
       run: |
         chmod +x ./build.sh
 
@@ -33,10 +35,20 @@ jobs:
         echo -e "--------------- merging xmltv files\n"
         ./build.sh --merge
 
+    - name: Update md files
+      run: |
         echo -e "--------------- epg stats\n"
+
+        ls -lah
+
+        pip install pandas jinja2
+        python ./scripts/check.py .
         ./build.sh --stats
-      env:
-        EPG_URLS: ${{ secrets.EPG_URLS }}
+
+        echo -e "--------------- generating md files\n"
+
+        chmod +x ./scripts/readme.sh && ./scripts/readme.sh
+        chmod +x ./scripts/missed_channels.sh && ./scripts/missed_channels.sh
   
     - name: Commit & Push changes
       uses: actions-js/push@master

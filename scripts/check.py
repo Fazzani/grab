@@ -1,3 +1,4 @@
+# type: ignore
 import datetime
 import glob
 import logging
@@ -25,6 +26,7 @@ def check(file_path: str) -> Tuple[List[any], List[str]]:
                 "id": c.get("id"),
                 "icon": c.find("icon").get("src").split("|")[0] if c.find("icon") is not None else "",
                 "site": c.find("url").text if c.find("url") else "",
+                "country": c.get("id").split(".")[-1] if c.get("id") is not None and "." in c.get("id") else "",
             },
             root.findall("channel"),
         )
@@ -66,13 +68,13 @@ if __name__ == "__main__":
     missed: List[str] = []
     logging.debug(f"{datetime.datetime.today()}")
     try:
-        for file_path in glob.glob(sys.argv[1] + "/*.xmltv"):
+        for file_path in glob.glob(sys.argv[1] + "/*.xml"):
             logging.info(f"processing file {file_path}")
             all_ch, missed_ch = check(file_path)
             all = [*all, *all_ch]
             missed = [*missed, *missed_ch]
 
-        df: pd.DataFrame = pd.DataFrame(all, columns=["id", "icon", "site"])
+        df: pd.DataFrame = pd.DataFrame(all, columns=["id", "icon", "site", "country"])
         duplicated_ignore_case_df = df.groupby(df.id.str.lower()).filter(lambda x: (len(x) > 1))
         logging.info(duplicated_ignore_case_df.head(10))
 
