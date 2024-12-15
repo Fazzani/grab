@@ -75,8 +75,8 @@ if __name__ == "__main__":
             missed = [*missed, *missed_ch]
 
         df: pd.DataFrame = pd.DataFrame(all, columns=["id", "icon", "site", "country"])
-        duplicated_ignore_case_df = df.groupby(df.id.str.lower()).filter(lambda x: (len(x) > 1))
-        logging.info(duplicated_ignore_case_df.head(10))
+        # duplicated_ignore_case_df = df.groupby(df.id.str.lower()).filter(lambda x: (len(x) > 1))
+        # logging.info(duplicated_ignore_case_df.head(10))
 
         df["date"] = datetime.datetime.today()
         df.set_index("date", inplace=True)
@@ -88,7 +88,7 @@ if __name__ == "__main__":
         logging.info(f"Total count: {len(all)} missed count: {len(missed)}")
         logging.info(f"Completeness {100-(len(missed)/len(all)*100):3.2f}%")
 
-        df.to_csv(
+        df.sort_values("country").to_csv(
             os.path.join(sys.argv[1], "out", "epg.csv"),
             encoding="utf-8",
             date_format="%Y%m%d",

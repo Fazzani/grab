@@ -40,9 +40,10 @@ for filename in "$1"/*.xml; do
 
 done;
 
-[[ ! -f $output ]] && echo "merge.xmltv file not generated !" && exit 0
+[[ ! -f $output ]] && echo "merge.xmltv file not generated!" && exit 0
 
-mv $output ./merge.xml
+/usr/bin/tv_grep --on-after now $output > ./merge.xml
+
 [[ -f "./merge.zip" ]] && rm "./merge.zip"
 [[ -f "./merge.xml.gz" ]] && rm "./merge.xml.gz"
 zip -r merge.zip merge.xml
