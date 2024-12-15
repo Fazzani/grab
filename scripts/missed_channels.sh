@@ -10,10 +10,10 @@ data: str = '''
 ![Channel count](https://img.shields.io/static/v1?style=for-the-badge&label=channel%20count&message={{channel_count}}&color=red&cacheSeconds=3600)
 
 
-|Icon|Channel|Site|
-|:----|:---:|:---:|
+|Icon|Channel|Site|Country|
+|:----|:---:|:---:|:---:|
 {% for ch in channels -%}
-|<img src="{{ch.icon}}" width="100" height="50">|{{ ch.id }}|{{ ch.site }}|
+|<img src="{{ch.icon}}" width="100" height="50">|{{ ch.id }}|{{ ch.site }}|{{ ch.country }}|
 {% endfor %}
 '''
 

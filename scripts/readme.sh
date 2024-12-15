@@ -5,26 +5,29 @@ import csv
 import os
 
 data: str = '''
-# Daily EPG
+# Daily EPG (Electronic Program Guide)
 
 [![grab](https://github.com/Fazzani/grab/actions/workflows/grab.yml/badge.svg)](https://github.com/Fazzani/grab/actions/workflows/grab.yml)
 
 ![Channel count](https://img.shields.io/static/v1?style=for-the-badge&label=channel%20count&message={{channel_count}}&color=9cf&cacheSeconds=3600)
 ![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message={{completeness}}&color=yellow&cacheSeconds=3600)
 
-## channels list
+## Available epg
 
-- [All channels link](https://github.com/Fazzani/grab/blob/master/merge.tar.gz?raw=true)
+- [EPG (gz archive)](https://github.com/Fazzani/grab/blob/master/merge.xml.gz?raw=true)
+- [EPG (zip archive)](https://github.com/Fazzani/grab/blob/master/merge.zip?raw=true)
+
+## Channels list
+
 - [Missed channels list](out/missed_channels.md)
 
-
-|Icon|Channel|Site|
-|:----|:---:|:---:|
+|Icon|Channel|Country|Site|
+|:----|:---:|:---:|:---:|
 {% for ch in channels -%}
 {% if ch.missed == 'True' -%}
-|<img src="{{ch.icon}}" width="100" height="50">|~~{{ ch.id }}~~|{{ ch.site }}|
+|<img src="{{ch.icon}}" width="100" height="50">|~~{{ ch.id }}~~|{{ ch.site }}|{{ ch.country }}|
 {% else -%}
-|<img src="{{ch.icon}}" width="100" height="50">|{{ ch.id }}|{{ ch.site }}|
+|<img src="{{ch.icon}}" width="100" height="50">|{{ ch.id }}|{{ ch.site }}|{{ ch.country }}|
 {% endif -%}
 {% endfor %}
 '''
