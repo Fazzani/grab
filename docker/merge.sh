@@ -42,8 +42,10 @@ done;
 
 [[ ! -f $output ]] && echo "merge.xmltv file not generated!" && exit 0
 
-mv $output ./merge.xml && \
-zip -r merge.zip merge.xml && \
-gzip -fq merge.xml > merge.gz 
+mv $output ./merge.xml
+[[ -f "./merge.zip" ]] && rm "./merge.zip"
+[[ -f "./merge.xml.gz" ]] && rm "./merge.xml.gz"
+zip -r merge.zip merge.xml
+gzip -fq merge.xml
 
 exit 0

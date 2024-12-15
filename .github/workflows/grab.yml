@@ -17,7 +17,6 @@ jobs:
     - uses: actions/checkout@v2
       with:
         persist-credentials: false
-        fetch-depth: 0
 
     - uses: actions/setup-python@v2
       with:
@@ -25,33 +24,20 @@ jobs:
 
     - name: download & merge & stats
       run: |
-        # wget https://raw.githubusercontent.com/Fazzani/grab/master/build.sh -O build.sh
         chmod +x ./build.sh
 
-        echo "--------------- downloading xmltv files"
-        echo
+        echo -e "--------------- downloading xmltv files\n"
         epg_urls=(${EPG_URLS//;/ })
         ./build.sh --download "${epg_urls[@]}"
 
-        echo "--------------- merging xmltv files"
-        echo
+        echo -e "--------------- merging xmltv files\n"
         ./build.sh --merge
-        echo "--------------- epg stats"
-        echo
+
+        echo -e "--------------- epg stats\n"
         ./build.sh --stats
-
-      env: # Or as an environment variable
+      env:
         EPG_URLS: ${{ secrets.EPG_URLS }}
-    
-    # - name: Merge xmltv files
-    #   uses: addnab/docker-run-action@v3
-    #   with:
-    #     image: synker/xmltv_merge:latest
-    #     volumes:
-    #       - "$(pwd):/work"
-    #     run: |
-    #       dos2unix docker/merge.sh && chmod +x docker/merge.sh && docker/merge.sh "./tmp/*.xml"
-
+  
     - name: Commit & Push changes
       uses: actions-js/push@master
       with:
