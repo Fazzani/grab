@@ -40,7 +40,7 @@ verbose=${VERBOSE:-false}
 
 # done;
 
-/usr/bin/tv_cat --utf8 --output $output "$1"/*.xml | /usr/bin/tv_grep --on-after now $output > ./merge.xml
+/usr/bin/tv_cat --utf8 "$1"/*.xml | /usr/bin/tv_grep --on-after now > ./merge.xml
 
 # [[ ! -f $output ]] && echo "$output file not generated!" && exit 0
 
