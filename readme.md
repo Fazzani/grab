@@ -4,7 +4,7 @@
 [![grab](https://github.com/Fazzani/grab/actions/workflows/grab.yml/badge.svg)](https://github.com/Fazzani/grab/actions/workflows/grab.yml)
 
 ![Channel count](https://img.shields.io/static/v1?style=for-the-badge&label=channel%20count&message=4519&color=9cf&cacheSeconds=3600)
-![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=21.46%&color=yellow&cacheSeconds=3600)
+![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=21.44%&color=yellow&cacheSeconds=3600)
 
 ## Available epg
 
@@ -378,7 +378,7 @@
 |<img src="https://focus.telerama.fr/500x500/0000/00/01/clear-437.png" width="100" height="50">|CinePlusClassic.be|be||
 |<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf7E7Tz6x4vyZ0ZMUssTuQonYNg395UyNN8GVrV6zU2Ff4XDkP0pGMXQiWrA&amp;s" width="100" height="50">|Radio1.be|be||
 |<img src="" width="100" height="50">|RegInfoF.be|be||
-|<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcJHu3juDOasY0FwEZoYpmPPqp-VE8sps660cMBnGysf4aHVf8ojFt4ILeXBQ&amp;s" width="100" height="50">|VSW3.be|be||
+|<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcJHu3juDOasY0FwEZoYpmPPqp-VE8sps660cMBnGysf4aHVf8ojFt4ILeXBQ&amp;s" width="100" height="50">|~~VSW3.be~~|be||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/13551.png?7031" width="100" height="50">|VOOSportWorld2.be|be||
 |<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnfobA0TONAfoyLIE2JOq8jBcIStE1pIzTlw-EX9C_KYoMCi1oOPiIHfA5NZM&amp;s" width="100" height="50">|VTM.be|be||
 |<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiK7jHZHMURNekmm_PSFKaZ7Z-T_OHH6Twivk4ZDkfS-8_ywDWonW3WlwRMQ&amp;s" width="100" height="50">|~~RadioContact.be~~|be||
