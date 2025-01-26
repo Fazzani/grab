@@ -4,7 +4,7 @@
 [![grab](https://github.com/Fazzani/grab/actions/workflows/grab.yml/badge.svg)](https://github.com/Fazzani/grab/actions/workflows/grab.yml)
 
 ![Channel count](https://img.shields.io/static/v1?style=for-the-badge&label=channel%20count&message=1117&color=9cf&cacheSeconds=3600)
-![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=86.84%&color=yellow&cacheSeconds=3600)
+![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=86.66%&color=yellow&cacheSeconds=3600)
 
 ## Available epg
 
@@ -380,7 +380,7 @@
 |<img src="https://focus.telerama.fr/500x500/0000/00/01/clear-730.png" width="100" height="50">|~~OCSMax.fr~~|fr||
 |<img src="" width="100" height="50">|Troll.fr|fr||
 |<img src="" width="100" height="50">|PenthouseGold.fr|fr||
-|<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO3Q6HPCMdoQvtMB0bl17lfw2-uybgBaS9R9NMSmh5hwcAuJR_PkZ_IkUWfg&amp;s" width="100" height="50">|PenthouseBlack.fr|fr||
+|<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO3Q6HPCMdoQvtMB0bl17lfw2-uybgBaS9R9NMSmh5hwcAuJR_PkZ_IkUWfg&amp;s" width="100" height="50">|~~PenthouseBlack.fr~~|fr||
 |<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScEDCsE2driW8qDDN17DuMRgHCbalp0oTzNO5EVgsUq0FUVRfyih8zomttVQ4&amp;s" width="100" height="50">|Penthouse.fr|fr||
 |<img src="https://focus.telerama.fr/500x500/0000/00/01/clear-145.png" width="100" height="50">|ParisPremiere.fr|fr||
 |<img src="https://focus.telerama.fr/500x500/0000/00/01/clear-225.png" width="100" height="50">|TvBreizh.fr|fr||
@@ -642,7 +642,7 @@
 |<img src="" width="100" height="50">|PlutoTvCuisinePtv5.fr|fr||
 |<img src="" width="100" height="50">|PlutoTvDating.fr|fr||
 |<img src="" width="100" height="50">|~~PlutoTvExtreme.fr~~|fr||
-|<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXVw8Rje6lVtl5nTNZmZqy7eINTVEXGnYKl5O1re6DZ8OLRJcRauRGUpxJPA&amp;s" width="100" height="50">|TVPitchoun.fr|fr||
+|<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXVw8Rje6lVtl5nTNZmZqy7eINTVEXGnYKl5O1re6DZ8OLRJcRauRGUpxJPA&amp;s" width="100" height="50">|~~TVPitchoun.fr~~|fr||
 |<img src="" width="100" height="50">|PlutoTvComedie.fr|fr||
 |<img src="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/SFR100x100COLORTECHCO.png" width="100" height="50">|01TV.fr|fr||
 |<img src="" width="100" height="50">|GamingTv.fr|fr||
