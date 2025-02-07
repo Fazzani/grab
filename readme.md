@@ -4,7 +4,7 @@
 [![grab](https://github.com/Fazzani/grab/actions/workflows/grab.yml/badge.svg)](https://github.com/Fazzani/grab/actions/workflows/grab.yml)
 
 ![Channel count](https://img.shields.io/static/v1?style=for-the-badge&label=channel%20count&message=4518&color=9cf&cacheSeconds=3600)
-![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=83.80%&color=yellow&cacheSeconds=3600)
+![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=83.69%&color=yellow&cacheSeconds=3600)
 
 ## Available epg
 
@@ -22,13 +22,13 @@
 |<img src="http://icon-tmdb.me/stalker_portal/logos/ABC-KIDS.png" width="100" height="50">|~~ABC Kids~~|||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/653.png?44708" width="100" height="50">|TS|||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/12107.jpg?7219" width="100" height="50">|~~0~~|||
-|<img src="http://logo.protv.cc/picons/logos/in.b4umovies.png" width="100" height="50">|uk.B4U Movies|B4U Movies||
-|<img src="http://logo.protv.cc/picons/logos/in.Sony_Max_2.png" width="100" height="50">|uk.Sony Max 2 HD|Sony Max 2 HD||
-|<img src="http://logo.protv.cc/picons/logos/sonytv.png" width="100" height="50">|uk.Sony TV Asia HD|Sony TV Asia HD||
-|<img src="http://logo.protv.cc/picons/logos/USTAV-BHARAT.jpeg" width="100" height="50">|uk.Utsav Bharat|Utsav Bharat||
-|<img src="http://logo.protv.cc/picons/logos/USTAV-GOLD.jpeg" width="100" height="50">|uk.Utsav Gold HD|Utsav Gold HD||
-|<img src="http://logo.protv.cc/picons/logos/USTAV-PLUS.png" width="100" height="50">|uk.Utsav Plus HD|Utsav Plus HD||
-|<img src="http://logo.protv.cc/picons/logos/zeetv.png" width="100" height="50">|uk.ZEE TV|ZEE TV||
+|<img src="http://logo.protv.cc/picons/logos/in.b4umovies.png" width="100" height="50">|~~uk.B4U Movies~~|B4U Movies||
+|<img src="http://logo.protv.cc/picons/logos/in.Sony_Max_2.png" width="100" height="50">|~~uk.Sony Max 2 HD~~|Sony Max 2 HD||
+|<img src="http://logo.protv.cc/picons/logos/sonytv.png" width="100" height="50">|~~uk.Sony TV Asia HD~~|Sony TV Asia HD||
+|<img src="http://logo.protv.cc/picons/logos/USTAV-BHARAT.jpeg" width="100" height="50">|~~uk.Utsav Bharat~~|Utsav Bharat||
+|<img src="http://logo.protv.cc/picons/logos/USTAV-GOLD.jpeg" width="100" height="50">|~~uk.Utsav Gold HD~~|Utsav Gold HD||
+|<img src="http://logo.protv.cc/picons/logos/USTAV-PLUS.png" width="100" height="50">|~~uk.Utsav Plus HD~~|Utsav Plus HD||
+|<img src="http://logo.protv.cc/picons/logos/zeetv.png" width="100" height="50">|~~uk.ZEE TV~~|ZEE TV||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/576.png?76986" width="100" height="50">|~~DubaiSports1.ae~~|ae||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/576.png?76986" width="100" height="50">|DubaiSports1En.ae|ae||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/576.png?76986" width="100" height="50">|~~DubaiSports2.ae~~|ae||
@@ -843,7 +843,7 @@
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/6409.jpg?78408" width="100" height="50">|SpiegelGeschichte.de|de||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/6348.jpg?49850" width="100" height="50">|ARTE.de|de||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/13751.png?ver=80180" width="100" height="50">|SkySport2.de|de||
-|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/10141.jpg?95396" width="100" height="50">|SkyShowcase.de|de||
+|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/10141.jpg?95396" width="100" height="50">|~~SkyShowcase.de~~|de||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/6596.jpg?ver=69598" width="100" height="50">|Anixe.de|de||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/6388.jpg?ver=12324" width="100" height="50">|WDR.de|de||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/13751.png?ver=80180" width="100" height="50">|SkySport7.de|de||
@@ -947,7 +947,7 @@
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/6533.jpg?78919" width="100" height="50">|N24Doku.de|de||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/6496.jpg?27595" width="100" height="50">|RTL.de|de||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/2352.jpg?80766" width="100" height="50">|BibelTV.de|de||
-|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/13751.png?ver=80180" width="100" height="50">|SkyBundesliga4.de|de||
+|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/13751.png?ver=80180" width="100" height="50">|~~SkyBundesliga4.de~~|de||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/792.jpg?73771" width="100" height="50">|BRFernsehenNord.de|de||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/8356.png?75502" width="100" height="50">|SRFernsehen.de|de||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/792.jpg?73771" width="100" height="50">|BRFernsehenSüd.de|de||
@@ -975,7 +975,7 @@
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/1428.png?92886" width="100" height="50">|NatGeo.de|de||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/782.jpg?4845" width="100" height="50">|Sat1.de|de||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/624.png?82065" width="100" height="50">|~~TeenNick.de~~|de||
-|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/782.jpg?83235" width="100" height="50">|Sat1Emotions.de|de||
+|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/782.jpg?83235" width="100" height="50">|~~Sat1Emotions.de~~|de||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/13020.jpg?66873" width="100" height="50">|SkyCrime.de|de||
 |<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLp_ovaB0i2kUntwGaP0rfPtsV51Z8PFCLAMi-31uYoObpME5IzcqD0s6HuQ&amp;s" width="100" height="50">|PRO7.de|de||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/780.jpg?33842" width="100" height="50">|Sat1Gold.de|de||
@@ -1058,7 +1058,7 @@
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/284.png?26754" width="100" height="50">|AlNaharEn.eg|eg||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/284.png" width="100" height="50">|~~AlNaharOne.eg~~|eg||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/1176.jpg" width="100" height="50">|~~MBCEgyptAr.eg~~|eg||
-|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/12781.jpg?95656" width="100" height="50">|MbcMasr.eg|eg||
+|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/13334.jpg?59189" width="100" height="50">|MbcMasr.eg|eg||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/475.jpg?36736" width="100" height="50">|~~Alaraby.eg~~|eg||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/22.jpg" width="100" height="50">|MbcMasr2.eg|eg||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/263.jpg" width="100" height="50">|CBCSofra.eg|eg||
@@ -1360,7 +1360,7 @@
 |<img src="https://focus.telerama.fr/500x500/0000/00/01/clear-282.png" width="100" height="50">|C282.api.telerama.fr|fr||
 |<img src="https://focus.telerama.fr/500x500/0000/00/01/clear-273.png" width="100" height="50">|C273.api.telerama.fr|fr||
 |<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZRdPVOUqsls55IaHmfqb6aQpbQpU8-QddzSctoJ9w4frUqvQ5DF8k-sZN6A&amp;s" width="100" height="50">|~~Onzeo.fr~~|fr||
-|<img src="https://focus.telerama.fr/500x500/0000/00/01/clear-260.png" width="100" height="50">|~~C260.api.telerama.fr~~|fr||
+|<img src="https://focus.telerama.fr/500x500/0000/00/01/clear-260.png" width="100" height="50">|C260.api.telerama.fr|fr||
 |<img src="https://focus.telerama.fr/500x500/0000/00/01/clear-5.png" width="100" height="50">|C5.api.telerama.fr|fr||
 |<img src="https://focus.telerama.fr/500x500/0000/00/01/clear-49.png" width="100" height="50">|C49.api.telerama.fr|fr||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/6254.jpg?58840" width="100" height="50">|~~OCSChoc.fr~~|fr||
@@ -1901,7 +1901,7 @@
 |<img src="https://focus.telerama.fr/500x500/0000/00/01/clear-1339.png" width="100" height="50">|beINSPORTSMAX7.fr|fr||
 |<img src="https://focus.telerama.fr/500x500/0000/00/01/clear-1338.png" width="100" height="50">|beINSPORTSMAX6.fr|fr||
 |<img src="" width="100" height="50">|FailArmy.fr|fr||
-|<img src="https://focus.telerama.fr/500x500/0000/00/01/clear-94.png" width="100" height="50">|~~C94.api.telerama.fr~~|fr||
+|<img src="https://focus.telerama.fr/500x500/0000/00/01/clear-94.png" width="100" height="50">|C94.api.telerama.fr|fr||
 |<img src="https://focus.telerama.fr/500x500/0000/00/01/clear-1337.png" width="100" height="50">|beINSPORTSMAX5.fr|fr||
 |<img src="https://focus.telerama.fr/500x500/0000/00/01/clear-907.png" width="100" height="50">|C907.api.telerama.fr|fr||
 |<img src="https://static-cdn.tv.sfr.net/data/logos/tv_services/Fashion_TV_color.png" width="100" height="50">|FashionTV.fr|fr||
@@ -1950,13 +1950,13 @@
 |<img src="https://focus.telerama.fr/500x500/0000/00/01/clear-64.png" width="100" height="50">|C64.api.telerama.fr|fr||
 |<img src="https://focus.telerama.fr/500x500/0000/00/01/clear-63.png" width="100" height="50">|C63.api.telerama.fr|fr||
 |<img src="https://focus.telerama.fr/500x500/0000/00/01/clear-621.png" width="100" height="50">|C621.api.telerama.fr|fr||
-|<img src="https://upload.wikimedia.org/wikipedia/fr/2/20/T%C3%A9b%C3%A9Sud_logo_2013.png" width="100" height="50">|TebeSud.fr|fr||
+|<img src="https://upload.wikimedia.org/wikipedia/fr/2/20/T%C3%A9b%C3%A9Sud_logo_2013.png" width="100" height="50">|~~TebeSud.fr~~|fr||
 |<img src="https://focus.telerama.fr/500x500/0000/00/01/clear-1304.png" width="100" height="50">|beINSPORTS2.fr|fr||
 |<img src="https://focus.telerama.fr/500x500/0000/00/01/clear-1290.png" width="100" height="50">|beINSPORTS1.fr|fr||
 |<img src="https://focus.telerama.fr/500x500/0000/00/01/clear-662.png" width="100" height="50">|PLANETEJustice.fr|fr||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/6249.png?41821" width="100" height="50">|PIWI.fr|fr||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/6293.jpg?95528" width="100" height="50">|~~FootPlus24.fr~~|fr||
-|<img src="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/TEBEOcolor1.png" width="100" height="50">|Tebeo.fr|fr||
+|<img src="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/TEBEOcolor1.png" width="100" height="50">|~~Tebeo.fr~~|fr||
 |<img src="https://focus.telerama.fr/500x500/0000/00/01/clear-273.png" width="100" height="50">|TV7Bordeaux.fr|fr||
 |<img src="https://focus.telerama.fr/500x500/0000/00/01/clear-6.png" width="100" height="50">|C6.api.telerama.fr|fr||
 |<img src="https://focus.telerama.fr/500x500/0000/00/01/clear-59.png" width="100" height="50">|C59.api.telerama.fr|fr||
@@ -2273,7 +2273,7 @@
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/12121.jpg?12138" width="100" height="50">|VirginMediaOne.ie|ie||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/59.jpg?99380" width="100" height="50">|NationalGeographic.il|il||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/13325.jpg?1704" width="100" height="50">|~~Sport5.il~~|il||
-|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/13325.jpg?29170" width="100" height="50">|Sport2.il|il||
+|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/13325.jpg?29170" width="100" height="50">|~~Sport2.il~~|il||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/13325.jpg?29170" width="100" height="50">|Sport1.il|il||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/13325.jpg?29170" width="100" height="50">|Sport4.il|il||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/8106.jpg?31515" width="100" height="50">|~~ShoppingChannel.il~~|il||
@@ -2766,7 +2766,7 @@
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/37.jfif?ver=49046" width="100" height="50">|~~AlMayadeen.lb~~|lb||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/12.jpg" width="100" height="50">|~~LDC.lb~~|lb||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/13573.jpg?ver=87483" width="100" height="50">|LBCInternational.lb|lb||
-|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/1129.jpg?78222" width="100" height="50">|~~AlJadeed.lb~~|lb||
+|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/1129.jpg?78222" width="100" height="50">|AlJadeed.lb|lb||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/1199.jpg" width="100" height="50">|AlManar.lb|lb||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/30.jpg" width="100" height="50">|~~LanaTV.lb~~|lb||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/6.jpg" width="100" height="50">|LBC.lb|lb||
@@ -2969,7 +2969,7 @@
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/6433.png?54332" width="100" height="50">|SkySport7.nz|nz||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/10837.jpg?37473" width="100" height="50">|One.nz|nz||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/6421.jpg?49571" width="100" height="50">|SkySport9.nz|nz||
-|<img src="http://logo.protv.cc/picons/logos/pr.Peru_Magico.png" width="100" height="50">|~~PeruMagico.pe~~|pe||
+|<img src="http://logo.protv.cc/picons/logos/pr.Peru_Magico.png" width="100" height="50">|PeruMagico.pe|pe||
 |<img src="http://icon-tmdb.me/stalker_portal/logos/GMA-NEWS-TV.png" width="100" height="50">|GMANews.ph|ph||
 |<img src="http://icon-tmdb.me/stalker_portal/logos/CINEMA-1.jpg" width="100" height="50">|CinemaOne.ph|ph||
 |<img src="http://icon-tmdb.me/stalker_portal/logos/gma_pinoytv.png" width="100" height="50">|GMAPinoy.ph|ph||
@@ -3257,7 +3257,7 @@
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/13264.png" width="100" height="50">|~~BoxOffice.qa~~|qa||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/1183.jpg" width="100" height="50">|AlJazeeraDocumentary.qa|qa||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/13490.png?ver=65901" width="100" height="50">|~~beINSports4K.qa~~|qa||
-|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/6160.png?55746" width="100" height="50">|~~Fatafeat.qa~~|qa||
+|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/6160.png?55746" width="100" height="50">|Fatafeat.qa|qa||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/11506.jpg?47971" width="100" height="50">|beINMovies1.qa|qa||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" width="100" height="50">|~~beINSportsXtra2.qa~~|qa||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/531.png?66704" width="100" height="50">|beINMovies2.qa|qa||
@@ -3267,11 +3267,11 @@
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/6150.png?2523" width="100" height="50">|beINMovies4.qa|qa||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" width="100" height="50">|~~BeinSportsExtra2.qa~~|qa||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" width="100" height="50">|~~BeinSportsExtra1.qa~~|qa||
-|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/12236.jpg?ver=10771" width="100" height="50">|~~beINSeries2.qa~~|qa||
+|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/12236.jpg?ver=10771" width="100" height="50">|beINSeries2.qa|qa||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/6168.png?29820" width="100" height="50">|FoodNetwork.qa|qa||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/561.png?20206" width="100" height="50">|beINSportsNews.qa|qa||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" width="100" height="50">|beINSportsNBA.qa|qa||
-|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/538.jpg?97007" width="100" height="50">|~~Baraem.qa~~|qa||
+|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/538.jpg?97007" width="100" height="50">|Baraem.qa|qa||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" width="100" height="50">|~~beINSportsGlobal.qa~~|qa||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" width="100" height="50">|~~beINSports9En.qa~~|qa||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/558.png?31318" width="100" height="50">|AlKassTwo.qa|qa||
@@ -3289,7 +3289,7 @@
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/439.jpg" width="100" height="50">|QatarTV.qa|qa||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/536.png?19345" width="100" height="50">|~~beINSports6En.qa~~|qa||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" width="100" height="50">|beINSports2.qa|qa||
-|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/6158.png?92058" width="100" height="50">|~~HGTV.qa~~|qa||
+|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/6158.png?92058" width="100" height="50">|HGTV.qa|qa||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" width="100" height="50">|beINSports3.qa|qa||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/60.jpg?85730" width="100" height="50">|NatGeo.qa|qa||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" width="100" height="50">|~~beINSports3En.qa~~|qa||
@@ -3297,7 +3297,7 @@
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" width="100" height="50">|beINSports7.qa|qa||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/542.png?78938" width="100" height="50">|~~beINSports5En.qa~~|qa||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" width="100" height="50">|beINSports4.qa|qa||
-|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/6153.jpg?87379" width="100" height="50">|~~JeemTV.qa~~|qa||
+|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/6153.jpg?87379" width="100" height="50">|JeemTV.qa|qa||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/1971.jpg?9492" width="100" height="50">|AXNBlack.ro|ro||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/59.jpg?56025" width="100" height="50">|NationalGeographic.ro|ro||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/7890.png?26978" width="100" height="50">|NauticalChannel.ro|ro||
@@ -3609,7 +3609,7 @@
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/462.png" width="100" height="50">|IqraaTV.sa|sa||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/56.jpg" width="100" height="50">|ARTAflam2.sa|sa||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/67.jpg" width="100" height="50">|Hekayat2.sa|sa||
-|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/32.jpg" width="100" height="50">|MBCActionEn.sa|sa||
+|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/32.jpg" width="100" height="50">|~~MBCActionEn.sa~~|sa||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/6623.jpg" width="100" height="50">|~~EEntertainment.sa~~|sa||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/9333.jpg?86309" width="100" height="50">|StarWorld.sa|sa||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/20.png?62419" width="100" height="50">|MBCBollywood.sa|sa||
@@ -3620,7 +3620,7 @@
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/461.jpg" width="100" height="50">|Saudi1.sa|sa||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/1186.png?65449" width="100" height="50">|AlArabiya.sa|sa||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/54.jpg" width="100" height="50">|ARTCinema.sa|sa||
-|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/13334.jpg?59189" width="100" height="50">|MBCAction.sa|sa||
+|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/13334.jpg?59189" width="100" height="50">|~~MBCAction.sa~~|sa||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/158.png" width="100" height="50">|BBCArabic.sa|sa||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/11044.png?99544" width="100" height="50">|StarMovies.sa|sa||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/21.jpg" width="100" height="50">|MBC4.sa|sa||
@@ -3679,7 +3679,7 @@
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/1403.png" width="100" height="50">|kanal11.se|se||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/730.png" width="100" height="50">|animalplanet.se|se||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/716.jpg" width="100" height="50">|viasatmotor.se|se||
-|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/727.png" width="100" height="50">|~~atglive.se~~|se||
+|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/727.png" width="100" height="50">|atglive.se|se||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/681.png?71389" width="100" height="50">|tv4film.se|se||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/677.png?57791" width="100" height="50">|tv4fakta.se|se||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/9707.jpg?64879" width="100" height="50">|natgeowild.se|se||
