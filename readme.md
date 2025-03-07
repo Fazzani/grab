@@ -4,7 +4,7 @@
 [![grab](https://github.com/Fazzani/grab/actions/workflows/grab.yml/badge.svg)](https://github.com/Fazzani/grab/actions/workflows/grab.yml)
 
 ![Channel count](https://img.shields.io/static/v1?style=for-the-badge&label=channel%20count&message=4521&color=9cf&cacheSeconds=3600)
-![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=82.08%&color=yellow&cacheSeconds=3600)
+![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=82.26%&color=yellow&cacheSeconds=3600)
 
 ## Available epg
 
@@ -168,7 +168,7 @@
 |<img src="https://static-cdn.tv.sfr.net/data/logos/tv_services/TV_Congo_color.png" width="100" height="50">|TVCongo.af|af||
 |<img src="https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/channel/180570/canal-ouah/CHN43FB/TRACEMZIKI_myCANAL640x480" width="100" height="50">|TraceMziki.af|af||
 |<img src="https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/channel/180717/canal-ouah/CHN43FB/CRTVSPORTS_myCANAL_640x480" width="100" height="50">|CrtvSport.af|af||
-|<img src="https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/channel/180378/canal-ouah/CHN43FB/ASONGATV_myCANAL_640x480" width="100" height="50">|~~AsongaTV.af~~|af||
+|<img src="https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/channel/180378/canal-ouah/CHN43FB/ASONGATV_myCANAL_640x480" width="100" height="50">|AsongaTV.af|af||
 |<img src="https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/channel/180621/canal-ouah/CHN43FB/TRACEKITOKO_myCANAL640x480" width="100" height="50">|TraceKitoko.af|af||
 |<img src="https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/channel/180664/canal-ouah/CHN43FB/SAVANETV_myCANAL_640x480" width="100" height="50">|SavaneTV.af|af||
 |<img src="https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/channel/180266/canal-ouah/CHN43FB/TRACEMBOA_myCANAL_640x480" width="100" height="50">|TraceMboa.af|af||
@@ -197,7 +197,7 @@
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/11316.png?86287" width="100" height="50">|~~FoxLife.al~~|al||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/3354.jpg?62373" width="100" height="50">|~~Kino1.al~~|al||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/3951.jpg?25198" width="100" height="50">|~~FilmKomedi.al~~|al||
-|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/3147.jpeg?ver=40716" width="100" height="50">|~~RTSHSport.al~~|al||
+|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/3147.jpeg?ver=40716" width="100" height="50">|RTSHSport.al|al||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/3148.png?61096" width="100" height="50">|RTSHShqip.al|al||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/3951.jpg?25198" width="100" height="50">|~~FilmDrame.al~~|al||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/3154.png?18214" width="100" height="50">|RTSH3.al|al||
@@ -2771,7 +2771,7 @@
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/269.jpg" width="100" height="50">|~~OTVLebanon.lb~~|lb||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/13573.jpg?ver=87483" width="100" height="50">|~~LBCInternational.lb~~|lb||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/6.jpg" width="100" height="50">|~~LBC.lb~~|lb||
-|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/1129.jpg?78222" width="100" height="50">|~~AlJadeed.lb~~|lb||
+|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/1129.jpg?78222" width="100" height="50">|AlJadeed.lb|lb||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/1199.jpg" width="100" height="50">|AlManar.lb|lb||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/37.jfif?ver=49046" width="100" height="50">|~~AlMayadeen.lb~~|lb||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/7.jpg?ver=31711" width="100" height="50">|~~NBN.lb~~|lb||
@@ -2965,16 +2965,16 @@
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/10836.png?43159" width="100" height="50">|cmorestars.no|no||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/12976.jpg?19897" width="100" height="50">|vsportultra.no|no||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/120/10838.png?66625" width="100" height="50">|TV2.nz|nz||
-|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/6442.jpg?44656" width="100" height="50">|~~SkySport1.nz~~|nz||
-|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/11976.png?24388" width="100" height="50">|~~SkySport2.nz~~|nz||
-|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/6436.png?35051" width="100" height="50">|~~SkySport4.nz~~|nz||
+|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/6442.jpg?44656" width="100" height="50">|SkySport1.nz|nz||
+|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/11976.png?24388" width="100" height="50">|SkySport2.nz|nz||
+|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/6436.png?35051" width="100" height="50">|SkySport4.nz|nz||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/10837.jpg?37473" width="100" height="50">|One.nz|nz||
-|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/6435.png?31605" width="100" height="50">|~~SkySport5.nz~~|nz||
-|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/6433.png?54332" width="100" height="50">|~~SkySport7.nz~~|nz||
-|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/6421.jpg?49571" width="100" height="50">|~~SkySport9.nz~~|nz||
+|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/6435.png?31605" width="100" height="50">|SkySport5.nz|nz||
+|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/6433.png?54332" width="100" height="50">|SkySport7.nz|nz||
+|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/6421.jpg?49571" width="100" height="50">|SkySport9.nz|nz||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/6470.png?23641" width="100" height="50">|SkySportSelect.nz|nz||
-|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/6437.jpg?47713" width="100" height="50">|~~SkySport3.nz~~|nz||
-|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/6434.jpg?49942" width="100" height="50">|~~SkySport6.nz~~|nz||
+|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/6437.jpg?47713" width="100" height="50">|SkySport3.nz|nz||
+|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/6434.jpg?49942" width="100" height="50">|SkySport6.nz|nz||
 |<img src="http://logo.protv.cc/picons/logos/pr.Peru_Magico.png" width="100" height="50">|PeruMagico.pe|pe||
 |<img src="http://icon-tmdb.me/stalker_portal/logos/gma_pinoytv.png" width="100" height="50">|GMAPinoy.ph|ph||
 |<img src="http://icon-tmdb.me/stalker_portal/logos/CINEMA-1.jpg" width="100" height="50">|CinemaOne.ph|ph||
@@ -3679,7 +3679,7 @@
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/12936.png?50223" width="100" height="50">|tv4guld.se|se||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/9835.png?79780" width="100" height="50">|tv4hits.se|se||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/10907.png?18016" width="100" height="50">|tv4hockey.se|se||
-|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/11087.png?15480" width="100" height="50">|tv4motor.se|se||
+|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/11087.png?15480" width="100" height="50">|~~tv4motor.se~~|se||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/1422.jpg" width="100" height="50">|eurosport.se|se||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/742.png" width="100" height="50">|horseandcountry.se|se||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/674.png?24653" width="100" height="50">|tv4sportlive.se|se||
@@ -3882,8 +3882,8 @@
 |<img src="https://focus.telerama.fr/500x500/0000/00/01/clear-53.png" width="100" height="50">|CNN.uk|uk||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/12142.jpg?17672" width="100" height="50">|Eden.uk|uk||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/418.png?91286" width="100" height="50">|EuroNews.uk|uk||
-|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/615.jpg?37956" width="100" height="50">|Eurosport1.uk|uk||
-|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/1423.png?55167" width="100" height="50">|Eurosport2.uk|uk||
+|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/615.jpg?37956" width="100" height="50">|~~Eurosport1.uk~~|uk||
+|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/1423.png?55167" width="100" height="50">|~~Eurosport2.uk~~|uk||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/7881.jpg?64415" width="100" height="50">|~~TCM.uk~~|uk||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/618.jpg?21210" width="100" height="50">|DiscoveryTurbo.uk|uk||
 |<img src="https://static-cdn.tv.sfr.net/data/logos/tv_services/CNBC_EUROPE_color.png" width="100" height="50">|CNBCEurope.uk|uk||
