@@ -4,7 +4,7 @@
 [![grab](https://github.com/Fazzani/grab/actions/workflows/grab.yml/badge.svg)](https://github.com/Fazzani/grab/actions/workflows/grab.yml)
 
 ![Channel count](https://img.shields.io/static/v1?style=for-the-badge&label=channel%20count&message=4394&color=9cf&cacheSeconds=3600)
-![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=84.05%&color=yellow&cacheSeconds=3600)
+![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=84.09%&color=yellow&cacheSeconds=3600)
 
 ## Available epg
 
@@ -47,7 +47,7 @@
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/76.jpg" width="100" height="50">|SamaDubai.ae|ae||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/11569.jpg?75585" width="100" height="50">|~~BloombergEn.ae~~|ae||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/60.jpg" width="100" height="50">|~~NationalGeographicAbuDhabi.ae~~|ae||
-|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/17.jpg" width="100" height="50">|~~MBCMaxEn.ae~~|ae||
+|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/17.jpg" width="100" height="50">|MBCMaxEn.ae|ae||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/13334.jpg?59189" width="100" height="50">|~~MBCMax.ae~~|ae||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/12781.jpg?95656" width="100" height="50">|MBCDramaPlus.ae|ae||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/25.jpg" width="100" height="50">|MBCDramaEn.ae|ae||
@@ -2556,7 +2556,7 @@
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/12384.jpg?64832" width="100" height="50">|~~Primafila7.it~~|it||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/12384.jpg?64832" width="100" height="50">|~~Primafila8.it~~|it||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/12384.jpg?64832" width="100" height="50">|~~Primafila9.it~~|it||
-|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/6441.png?ver=25449" width="100" height="50">|SkySportCalcio.it|it||
+|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/6441.png?ver=25449" width="100" height="50">|~~SkySportCalcio.it~~|it||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/6437.jpg?45195" width="100" height="50">|~~SkySportCollection.it~~|it||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/12384.jpg?64832" width="100" height="50">|~~Primafila17.it~~|it||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/6437.jpg?45195" width="100" height="50">|SkySportF1.it|it||
@@ -2580,7 +2580,7 @@
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/1934.png?54990" width="100" height="50">|Eurosport.it|it||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/11966.jpg?12883" width="100" height="50">|Euronews.it|it||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/12333.png?19925" width="100" height="50">|Cartoonito.it|it||
-|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/7841.jpg?63798" width="100" height="50">|TV8.it|it||
+|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/7841.jpg?63798" width="100" height="50">|~~TV8.it~~|it||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/12374.jpg?73735" width="100" height="50">|SkyCinemaUno.it|it||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/6437.jpg?45195" width="100" height="50">|SkySportArena.it|it||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/12374.jpg?73735" width="100" height="50">|SkyCinemaPlus24.it|it||
@@ -3156,7 +3156,7 @@
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/1183.jpg" width="100" height="50">|~~AlJazeeraDocumentary.qa~~|qa||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/13264.png" width="100" height="50">|~~BoxOffice.qa~~|qa||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" width="100" height="50">|beINSports8.qa|qa||
-|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/538.jpg?97007" width="100" height="50">|~~Baraem.qa~~|qa||
+|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/538.jpg?97007" width="100" height="50">|Baraem.qa|qa||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/6168.png?29820" width="100" height="50">|FoodNetwork.qa|qa||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" width="100" height="50">|~~beINSportsGlobal.qa~~|qa||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/6150.png?2523" width="100" height="50">|beINMovies4.qa|qa||
@@ -3424,7 +3424,7 @@
 |<img src="http://icon-tmdb.me/stalker_portal/logos/evrokino.png" width="100" height="50">|Evrokino.ru|ru||
 |<img src="http://icon-tmdb.me/stalker_portal/logos/AUTO-24.png" width="100" height="50">|Avto24.ru|ru||
 |<img src="http://icon-tmdb.me/stalker_portal/logos/natgeowildhd.png" width="100" height="50">|~~NatGeoWild.ru~~|ru||
-|<img src="http://icon-tmdb.me/stalker_portal/logos/nationalgeographichd.png" width="100" height="50">|~~NationalGeographic.ru~~|ru||
+|<img src="http://icon-tmdb.me/stalker_portal/logos/nationalgeographichd.png" width="100" height="50">|NationalGeographic.ru|ru||
 |<img src="http://icon-tmdb.me/stalker_portal/logos/MORSKOI.png" width="100" height="50">|NauticalChannel.ru|ru||
 |<img src="http://icon-tmdb.me/stalker_portal/logos/ntvhd.png" width="100" height="50">|NTV.ru|ru||
 |<img src="http://icon-tmdb.me/stalker_portal/logos/DOCTOR-TV.png" width="100" height="50">|Doktor.ru|ru||
@@ -3437,7 +3437,7 @@
 |<img src="http://icon-tmdb.me/stalker_portal/logos/DOMASHNIY.jpg" width="100" height="50">|Domashniyezhivotnye.ru|ru||
 |<img src="http://icon-tmdb.me/stalker_portal/logos/disneychannel.png" width="100" height="50">|DisneyChannel.ru|ru||
 |<img src="http://icon-tmdb.me/stalker_portal/logos/perviykanal.png" width="100" height="50">|PervyyKanal.ru|ru||
-|<img src="http://icon-tmdb.me/stalker_portal/logos/discoverysciencehd.png" width="100" height="50">|~~DiscoveryScience.ru~~|ru||
+|<img src="http://icon-tmdb.me/stalker_portal/logos/discoverysciencehd.png" width="100" height="50">|DiscoveryScience.ru|ru||
 |<img src="http://icon-tmdb.me/stalker_portal/logos/MUZIKA-PERVOGO.jpg" width="100" height="50">|MuzykaPervogo.ru|ru||
 |<img src="http://icon-tmdb.me/stalker_portal/logos/PSIHOLOGIA-21.png" width="100" height="50">|~~Psychologiya21.ru~~|ru||
 |<img src="http://icon-tmdb.me/stalker_portal/logos/DETSKIY-MIR.jpeg" width="100" height="50">|DetskijMir.ru|ru||
@@ -3482,7 +3482,7 @@
 |<img src="" width="100" height="50">|~~CarouselTV.ru~~|ru||
 |<img src="http://icon-tmdb.me/stalker_portal/logos/365-DNEI.png" width="100" height="50">|365Dney.ru|ru||
 |<img src="http://icon-tmdb.me/stalker_portal/logos/kinotv.png" width="100" height="50">|KinoTV.ru|ru||
-|<img src="http://icon-tmdb.me/stalker_portal/logos/sonychannel.png" width="100" height="50">|~~SonyTV.ru~~|ru||
+|<img src="http://icon-tmdb.me/stalker_portal/logos/sonychannel.png" width="100" height="50">|SonyTV.ru|ru||
 |<img src="http://icon-tmdb.me/stalker_portal/logos/cbsreality.png" width="100" height="50">|~~CBSReality.ru~~|ru||
 |<img src="" width="100" height="50">|~~CTCInternational.ru~~|ru||
 |<img src="http://icon-tmdb.me/stalker_portal/logos/ISTORYA.png" width="100" height="50">|Istoriya.ru|ru||
@@ -3511,7 +3511,7 @@
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/583.jpg?64661" width="100" height="50">|OmanSport.sa|sa||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/163.jpg" width="100" height="50">|SkyNewsArabia.sa|sa||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/1186.png?65449" width="100" height="50">|AlArabiya.sa|sa||
-|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/32.jpg" width="100" height="50">|MBCActionEn.sa|sa||
+|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/32.jpg" width="100" height="50">|~~MBCActionEn.sa~~|sa||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/13419.jpg?35825" width="100" height="50">|~~AlEkhbariya.sa~~|sa||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/13334.jpg?59189" width="100" height="50">|~~MBCAction.sa~~|sa||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/674.png?24653" width="100" height="50">|tv4sportlive.se|se||
