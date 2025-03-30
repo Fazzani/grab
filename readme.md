@@ -4,7 +4,7 @@
 [![grab](https://github.com/Fazzani/grab/actions/workflows/grab.yml/badge.svg)](https://github.com/Fazzani/grab/actions/workflows/grab.yml)
 
 ![Channel count](https://img.shields.io/static/v1?style=for-the-badge&label=channel%20count&message=4355&color=9cf&cacheSeconds=3600)
-![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=84.82%&color=yellow&cacheSeconds=3600)
+![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=84.66%&color=yellow&cacheSeconds=3600)
 
 ## Available epg
 
@@ -57,7 +57,7 @@
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/6623.jpg" width="100" height="50">|OSNMoviesPremiere.ae|ae||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/6623.jpg" width="100" height="50">|~~OSNNews.ae~~|ae||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/6623.jpg" width="100" height="50">|~~OSNSeriesPrime.ae~~|ae||
-|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/6623.jpg" width="100" height="50">|OSNComedy.ae|ae||
+|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/6623.jpg" width="100" height="50">|~~OSNComedy.ae~~|ae||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/6623.jpg" width="100" height="50">|OSNShowcase.ae|ae||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/563.jpg?20462" width="100" height="50">|DubaiRacingEn.ae|ae||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/6623.jpg" width="100" height="50">|OSNTVOne.ae|ae||
@@ -1291,7 +1291,7 @@
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/328.jpg?48196" width="100" height="50">|France24.fr|fr||
 |<img src="https://i.imgur.com/vxoiXmc.png" width="100" height="50">|~~LEquipeLive5.fr~~|fr||
 |<img src="https://i.imgur.com/vxoiXmc.png" width="100" height="50">|~~LEquipeLive4.fr~~|fr||
-|<img src="https://i.imgur.com/vxoiXmc.png" width="100" height="50">|LEquipeLive3.fr|fr||
+|<img src="https://i.imgur.com/vxoiXmc.png" width="100" height="50">|~~LEquipeLive3.fr~~|fr||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/3262.jpg?91125" width="100" height="50">|France24English.fr|fr||
 |<img src="https://i.imgur.com/vxoiXmc.png" width="100" height="50">|LEquipeLive2.fr|fr||
 |<img src="https://i.imgur.com/vxoiXmc.png" width="100" height="50">|LEquipeLive1.fr|fr||
@@ -2477,7 +2477,7 @@
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/6244.png?15952" width="100" height="50">|~~stod2sport3.is~~|is||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/10544.png?16481" width="100" height="50">|stod2sport.is|is||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/8261.png?29436" width="100" height="50">|~~siminnsport3.is~~|is||
-|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/10860.png?94704" width="100" height="50">|ruv.is|is||
+|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/10860.png?94704" width="100" height="50">|~~ruv.is~~|is||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/8261.png?29436" width="100" height="50">|siminnsport.is|is||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/6441.png?59265" width="100" height="50">|stod2sport2.is|is||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/8261.png?29436" width="100" height="50">|siminnsport2.is|is||
@@ -2580,7 +2580,7 @@
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/12616.png?86535" width="100" height="50">|ClassHorseTV.it|it||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/7841.jpg?63798" width="100" height="50">|TV8.it|it||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/6473.jpg?85410" width="100" height="50">|SkyCinemaCollection.it|it||
-|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/6473.jpg?85410" width="100" height="50">|~~SkyCinemaComedy.it~~|it||
+|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/6473.jpg?85410" width="100" height="50">|SkyCinemaComedy.it|it||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/11949.jpg?80601" width="100" height="50">|TV2000.it|it||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/12650.jpg?99689" width="100" height="50">|~~MTV.it~~|it||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/3134.jpg?66287" width="100" height="50">|SkyAtlantic.it|it||
@@ -2593,7 +2593,7 @@
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/11959.png?29756" width="100" height="50">|RaiDue.it|it||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/11957.png?89751" width="100" height="50">|Rai5.it|it||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/6437.jpg?45195" width="100" height="50">|SkySportMotoGP.it|it||
-|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/3134.jpg?95459" width="100" height="50">|SkyArte.it|it||
+|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/3134.jpg?95459" width="100" height="50">|~~SkyArte.it~~|it||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/11969.png?30042" width="100" height="50">|Rai4.it|it||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/11966.jpg?12883" width="100" height="50">|Euronews.it|it||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/1934.png?54990" width="100" height="50">|Eurosport.it|it||
@@ -2767,7 +2767,7 @@
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/7641.jpg?47291" width="100" height="50">|viasatgolf.no|no||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/10836.png?43159" width="100" height="50">|cmorestars.no|no||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/6162.png?77898" width="100" height="50">|cartoonnetwork.no|no||
-|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/634.jpg?56873" width="100" height="50">|disneychannel.no|no||
+|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/634.jpg?56873" width="100" height="50">|~~disneychannel.no~~|no||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/13735.png?ver=81838" width="100" height="50">|tv2direkte.no|no||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/10654.png?39140" width="100" height="50">|nrk1rogaland.no|no||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/1863.jpg?36922" width="100" height="50">|viasatnature.no|no||
@@ -3471,12 +3471,12 @@
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/13419.jpg?35825" width="100" height="50">|~~AlEkhbariya.sa~~|sa||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/461.jpg" width="100" height="50">|~~Saudi1.sa~~|sa||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/1186.png?65449" width="100" height="50">|AlArabiya.sa|sa||
-|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/20.png?62419" width="100" height="50">|MBCBollywoodEn.sa|sa||
-|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/20.png?62419" width="100" height="50">|MBCBollywood.sa|sa||
+|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/20.png?62419" width="100" height="50">|~~MBCBollywoodEn.sa~~|sa||
+|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/20.png?62419" width="100" height="50">|~~MBCBollywood.sa~~|sa||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/32.jpg" width="100" height="50">|~~MBCActionEn.sa~~|sa||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/13334.jpg?59189" width="100" height="50">|~~MBCAction.sa~~|sa||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/11044.png?99544" width="100" height="50">|StarMovies.sa|sa||
-|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/21.jpg" width="100" height="50">|MBC4.sa|sa||
+|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/21.jpg" width="100" height="50">|~~MBC4.sa~~|sa||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/10836.png?55706" width="100" height="50">|tv4stars.se|se||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/729.jpg" width="100" height="50">|~~bbcearth.se~~|se||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/12936.png?50223" width="100" height="50">|tv4guld.se|se||
