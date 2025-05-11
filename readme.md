@@ -4,7 +4,7 @@
 [![grab](https://github.com/Fazzani/grab/actions/workflows/grab.yml/badge.svg)](https://github.com/Fazzani/grab/actions/workflows/grab.yml)
 
 ![Channel count](https://img.shields.io/static/v1?style=for-the-badge&label=channel%20count&message=4348&color=9cf&cacheSeconds=3600)
-![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=84.52%&color=yellow&cacheSeconds=3600)
+![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=84.54%&color=yellow&cacheSeconds=3600)
 
 ## Available epg
 
@@ -1599,7 +1599,7 @@
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/6344.jpg?59439" width="100" height="50">|Bein8Max.fr|fr||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/10026.jpg?68398" width="100" height="50">|CanalPlusCinema.fr|fr||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/10022.jpg?26543" width="100" height="50">|CanalPlusKids.fr|fr||
-|<img src="https://focus.telerama.fr/500x500/0000/00/01/clear-94.png" width="100" height="50">|C94.api.telerama.fr|fr||
+|<img src="https://focus.telerama.fr/500x500/0000/00/01/clear-94.png" width="100" height="50">|~~C94.api.telerama.fr~~|fr||
 |<img src="https://focus.telerama.fr/500x500/0000/00/01/clear-907.png" width="100" height="50">|C907.api.telerama.fr|fr||
 |<img src="https://focus.telerama.fr/500x500/0000/00/01/clear-892.png" width="100" height="50">|C892.api.telerama.fr|fr||
 |<img src="https://focus.telerama.fr/500x500/0000/00/01/clear-6.png" width="100" height="50">|C6.api.telerama.fr|fr||
@@ -1981,7 +1981,7 @@
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/615.jpg?6947" width="100" height="50">|Eurosport1.gr|gr||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/748.png?37318" width="100" height="50">|DisneyJunior.gr|gr||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/719.jpg?34523" width="100" height="50">|ViasatHistory.gr|gr||
-|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/4773.jpg?91138" width="100" height="50">|~~ERTWorld.gr~~|gr||
+|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/4773.jpg?91138" width="100" height="50">|ERTWorld.gr|gr||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/720.jpg?35531" width="100" height="50">|ViasatExplore.gr|gr||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/11321.png?86829" width="100" height="50">|TCM.gr|gr||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/7928.jpg?43841" width="100" height="50">|Ant1.gr|gr||
@@ -3333,7 +3333,7 @@
 |<img src="http://icon-tmdb.me/stalker_portal/logos/24-TECHNO-TV.png" width="100" height="50">|~~Techno24.ru~~|ru||
 |<img src="http://icon-tmdb.me/stalker_portal/logos/VIASAT-HISTORY-HD.jpg" width="100" height="50">|ViasatHistory.ru|ru||
 |<img src="http://icon-tmdb.me/stalker_portal/logos/VIASAT-NATURE-.jpg" width="100" height="50">|ViasatNature.ru|ru||
-|<img src="http://icon-tmdb.me/stalker_portal/logos/VIASAT-SPORT-HD.jpeg" width="100" height="50">|~~ViasatSport.ru~~|ru||
+|<img src="http://icon-tmdb.me/stalker_portal/logos/VIASAT-SPORT-HD.jpeg" width="100" height="50">|ViasatSport.ru|ru||
 |<img src="http://icon-tmdb.me/stalker_portal/logos/tlchd.png" width="100" height="50">|~~TLC.ru~~|ru||
 |<img src="http://icon-tmdb.me/stalker_portal/logos/TRAVEL-+-ADVENTURE.jpeg" width="100" height="50">|TravelAndAdventure.ru|ru||
 |<img src="http://icon-tmdb.me/stalker_portal/logos/ZOOPARK.png" width="100" height="50">|~~ZooTV.ru~~|ru||
@@ -3419,7 +3419,7 @@
 |<img src="http://icon-tmdb.me/stalker_portal/logos/MIR-24.jpg" width="100" height="50">|Mir24.ru|ru||
 |<img src="http://icon-tmdb.me/stalker_portal/logos/MIR-.jpg" width="100" height="50">|Mir.ru|ru||
 |<img src="http://icon-tmdb.me/stalker_portal/logos/mezzo.png" width="100" height="50">|Mezzo.ru|ru||
-|<img src="http://icon-tmdb.me/stalker_portal/logos/MATCH-TV.png" width="100" height="50">|MatchTV.ru|ru||
+|<img src="http://icon-tmdb.me/stalker_portal/logos/MATCH-TV.png" width="100" height="50">|~~MatchTV.ru~~|ru||
 |<img src="http://icon-tmdb.me/stalker_portal/logos/MATCH-STRANA.png" width="100" height="50">|~~MatchStrana.ru~~|ru||
 |<img src="http://icon-tmdb.me/stalker_portal/logos/MATCH-IGRA.png" width="100" height="50">|~~MatchIgra.ru~~|ru||
 |<img src="http://icon-tmdb.me/stalker_portal/logos/EXTREME-SPORTS.jpg" width="100" height="50">|ExtremeSports.ru|ru||
@@ -3433,7 +3433,7 @@
 |<img src="http://icon-tmdb.me/stalker_portal/logos/eurosporthd.png" width="100" height="50">|Eurosport1.ru|ru||
 |<img src="http://icon-tmdb.me/stalker_portal/logos/eurosport2hd.png" width="100" height="50">|~~Eurosport2.ru~~|ru||
 |<img src="http://icon-tmdb.me/stalker_portal/logos/MATCH!-FUTBOL-2.jpeg" width="100" height="50">|~~MatchFutbol2.ru~~|ru||
-|<img src="http://icon-tmdb.me/stalker_portal/logos/shansontv.png" width="100" height="50">|~~ShansonTV.ru~~|ru||
+|<img src="http://icon-tmdb.me/stalker_portal/logos/shansontv.png" width="100" height="50">|ShansonTV.ru|ru||
 |<img src="http://icon-tmdb.me/stalker_portal/logos/KHL-.jpg" width="100" height="50">|KHL.ru|ru||
 |<img src="http://icon-tmdb.me/stalker_portal/logos/sonyscifi.png" width="100" height="50">|SonySciFi.ru|ru||
 |<img src="http://icon-tmdb.me/stalker_portal/logos/AUTO-PLUS.png" width="100" height="50">|AutoPlus.ru|ru||
