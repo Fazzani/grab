@@ -4,7 +4,7 @@
 [![grab](https://github.com/Fazzani/grab/actions/workflows/grab.yml/badge.svg)](https://github.com/Fazzani/grab/actions/workflows/grab.yml)
 
 ![Channel count](https://img.shields.io/static/v1?style=for-the-badge&label=channel%20count&message=4355&color=9cf&cacheSeconds=3600)
-![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=82.62%&color=yellow&cacheSeconds=3600)
+![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=82.55%&color=yellow&cacheSeconds=3600)
 
 ## Available epg
 
@@ -366,7 +366,7 @@
 |<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqnda1J-_Ntq1YYm4qhlwSRvCCBzlo3kTJnj_kj5jpEJ9Ub5Yzli8E8ogD-iA&amp;s" width="100" height="50">|TELEVESDRE.be|be||
 |<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSS611UYWZKQqIPmyZZUxO0szmw1tmPHbnXRm9htnNEeLckB0DCiQkS5RysA&amp;s" width="100" height="50">|een.be|be||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/12737.png?64832" width="100" height="50">|VOOSportWorld1.be|be||
-|<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeVUTkE6ZlK4yt_62EI9V06ExUMBLu58dbRg7jDGUgBOulfMMs6vsw1MWErEo&amp;s" width="100" height="50">|VOOSport1fr.be|be||
+|<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeVUTkE6ZlK4yt_62EI9V06ExUMBLu58dbRg7jDGUgBOulfMMs6vsw1MWErEo&amp;s" width="100" height="50">|~~VOOSport1fr.be~~|be||
 |<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDtFbj8K5_Lyc8deWHYv87abeQ1LVECtLnRPKkFHDC7eCmJk6yBbUJ6G9j8kE&amp;s" width="100" height="50">|VOO.be|be||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/12662.jpg?64220" width="100" height="50">|Xite.be|be||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/13222.png?20256" width="100" height="50">|Tipik.be|be||
@@ -1362,7 +1362,7 @@
 |<img src="https://focus.telerama.fr/500x500/0000/00/01/clear-701.png" width="100" height="50">|~~C701.api.telerama.fr~~|fr||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/6287.jpg?50028" width="100" height="50">|FranceInfo.fr|fr||
 |<img src="https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/channel/1159/canal-ouah/CHN43FN/CHN43FN_1159_20241119-_Ehj" width="100" height="50">|FranceTVDocs.fr|fr||
-|<img src="https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/channel/1092/canal-ouah/CHN43FN/CHN43FN_1092_20240425-h_ne" width="100" height="50">|FranceTVSeries.fr|fr||
+|<img src="https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/canalplus-cdn.canal-plus.io/p1/channel/1092/canal-ouah/CHN43FN/CHN43FN_1092_20240425-h_ne" width="100" height="50">|~~FranceTVSeries.fr~~|fr||
 |<img src="https://focus.telerama.fr/500x500/0000/00/01/clear-76.png" width="100" height="50">|C76.api.telerama.fr|fr||
 |<img src="https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/img-hapi.canalplus.pro:80/ServiceImage/ImageID/79237063" width="100" height="50">|France3ParisIdF.fr|fr||
 |<img src="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/RMCSPORTLIVE4100x100.png" width="100" height="50">|RMCSport4.fr|fr||
@@ -1480,7 +1480,7 @@
 |<img src="https://focus.telerama.fr/500x500/0000/00/01/clear-888.png" width="100" height="50">|NickelodeonJunior.fr|fr||
 |<img src="https://i.imgur.com/vxoiXmc.png" width="100" height="50">|LEquipeLive3.fr|fr||
 |<img src="https://focus.telerama.fr/500x500/0000/00/01/clear-1336.png" width="100" height="50">|beINSPORTSMAX4.fr|fr||
-|<img src="https://i.imgur.com/vxoiXmc.png" width="100" height="50">|LEquipeLive2.fr|fr||
+|<img src="https://i.imgur.com/vxoiXmc.png" width="100" height="50">|~~LEquipeLive2.fr~~|fr||
 |<img src="https://static-cdn.tv.sfr.net/data/logos/tv_services/Trace_Toca_color.png" width="100" height="50">|TraceToca.fr|fr||
 |<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZjYaCZUHfwSB1sDQf0PzbUDiV0QuRvOe3_71eJSgUphA_fj2yGS9oeYhk1w&amp;s" width="100" height="50">|TraceTropical.fr|fr||
 |<img src="https://focus.telerama.fr/500x500/0000/00/01/clear-1337.png" width="100" height="50">|beINSPORTSMAX5.fr|fr||
@@ -1953,7 +1953,7 @@
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/9374.png?45768" width="100" height="50">|NovaSports5.gr|gr||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/9376.png?26294" width="100" height="50">|NovaSports6.gr|gr||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/3907.png?96545" width="100" height="50">|NovaSportsNews.gr|gr||
-|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/4773.jpg?91138" width="100" height="50">|~~ERTWorld.gr~~|gr||
+|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/4773.jpg?91138" width="100" height="50">|ERTWorld.gr|gr||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/1974.png?66741" width="100" height="50">|NovaSportsPrime.gr|gr||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/3782.png?89285" width="100" height="50">|NovaSportsStart.gr|gr||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/11240.jpg?ver=58561" width="100" height="50">|Motorvision.gr|gr||
@@ -2755,7 +2755,7 @@
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/13735.png?ver=81838" width="100" height="50">|tv2direkte.no|no||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/14060.png?34486" width="100" height="50">|viasatfilmaction.no|no||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/13994.jpg?55495" width="100" height="50">|bbcnordic.no|no||
-|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/14093.jpg?60761" width="100" height="50">|tv3.no|no||
+|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/14093.jpg?60761" width="100" height="50">|~~tv3.no~~|no||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/10662.png?11501" width="100" height="50">|nrksupernrk3.no|no||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/14094.jpg?74024" width="100" height="50">|tv3plus.no|no||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/14096.png?74326" width="100" height="50">|cmorestars.no|no||
@@ -2795,7 +2795,7 @@
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/6436.png?35051" width="100" height="50">|SkySport4.nz|nz||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/6433.png?54332" width="100" height="50">|SkySport7.nz|nz||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/6435.png?31605" width="100" height="50">|SkySport5.nz|nz||
-|<img src="http://logo.protv.cc/picons/logos/pr.Peru_Magico.png" width="100" height="50">|PeruMagico.pe|pe||
+|<img src="http://logo.protv.cc/picons/logos/pr.Peru_Magico.png" width="100" height="50">|~~PeruMagico.pe~~|pe||
 |<img src="http://icon-tmdb.me/stalker_portal/logos/gma_pinoytv.png" width="100" height="50">|GMAPinoy.ph|ph||
 |<img src="http://icon-tmdb.me/stalker_portal/logos/CINEMA-1.jpg" width="100" height="50">|CinemaOne.ph|ph||
 |<img src="http://icon-tmdb.me/stalker_portal/logos/HUM-SITARAY.jpeg" width="100" height="50">|HumSitaray.pk|pk||
@@ -3631,7 +3631,7 @@
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/9795.jpg?14803" width="100" height="50">|Haberturk.tr|tr||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/9795.jpg?69687" width="100" height="50">|HaberGlobal.tr|tr||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/891.jpg?43148" width="100" height="50">|AHaber.tr|tr||
-|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/11924.png?44553" width="100" height="50">|~~TRT3SporTBMMTV.tr~~|tr||
+|<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/11924.png?44553" width="100" height="50">|TRT3SporTBMMTV.tr|tr||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/909.png?36096" width="100" height="50">|TRTAvaz.tr|tr||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/11514.jpg?ver=53367" width="100" height="50">|~~beINBoxOffice1.tr~~|tr||
 |<img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/910.jpg?43027" width="100" height="50">|TRTBelgesel.tr|tr||
