@@ -4,7 +4,7 @@
 [![grab](https://github.com/Fazzani/grab/actions/workflows/grab.yml/badge.svg)](https://github.com/Fazzani/grab/actions/workflows/grab.yml)
 
 ![Channel count](https://img.shields.io/static/v1?style=for-the-badge&label=channel%20count&message=7690&color=9cf&cacheSeconds=3600)
-![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=8.83%&color=yellow&cacheSeconds=3600)
+![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=8.84%&color=yellow&cacheSeconds=3600)
 
 ## Available epg
 
@@ -2234,33 +2234,33 @@
 |<img src="https://s13.gifyu.com/images/SCUXS.png" width="100" height="50">|~~osnmoviesfamilyae~~|||
 |<img src="http://154.6.190.70:1234/u=kimo/p=26125f65515e77e178722561f5042ae4fff9b864c568113f3e0d6c251fa969c8/logos/izzimx-tvunamcampeche.png" width="100" height="50">|izzimx_tvunamcampeche|||
 |<img src="https://s13.gifyu.com/images/SCUeE.png" width="100" height="50">|~~osnsactionae~~|||
-|<img src="https://production-static.d3-rgr-diva.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='3200124'&EntityType='Item'&EntityId='222710'&Width=1920&Height=1080" width="100" height="50">|~~SNplus.1~~|1||
-|<img src="https://production-static.d3-rgr-diva.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='3203048'&EntityType='Item'&EntityId='222781'&Width=1920&Height=1080" width="100" height="50">|~~SNplus.10~~|10||
-|<img src="https://production-static.d3-rgr-diva.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='3203044'&EntityType='Item'&EntityId='222777'&Width=1920&Height=1080" width="100" height="50">|~~TSNplus.11~~|11||
-|<img src="https://production-static.d3-rgr-diva.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='3203570'&EntityType='Item'&EntityId='222784'&Width=1920&Height=1080" width="100" height="50">|~~SNplus.12~~|12||
-|<img src="https://production-static.d3-rgr-diva.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='3204802'&EntityType='Item'&EntityId='222783'&Width=1280&Height=720" width="100" height="50">|~~SNplus.13~~|13||
-|<img src="https://production-static.d3-rgr-diva.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='3203548'&EntityType='Item'&EntityId='222778'&Width=1920&Height=1080" width="100" height="50">|~~SNplus.14~~|14||
-|<img src="https://production-static.d3-rgr-diva.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='3203561'&EntityType='Item'&EntityId='222917'&Width=1920&Height=1080" width="100" height="50">|~~SNplus.15~~|15||
-|<img src="https://production-static.d3-rgr-diva.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='3203581'&EntityType='Item'&EntityId='222919'&Width=1920&Height=1080" width="100" height="50">|~~SNplus.16~~|16||
-|<img src="https://production-static.d3-rgr-diva.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='3203536'&EntityType='Item'&EntityId='222914'&Width=1920&Height=1080" width="100" height="50">|~~SNplus.17~~|17||
-|<img src="https://production-static.d3-rgr-diva.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='3203574'&EntityType='Item'&EntityId='222918'&Width=1920&Height=1080" width="100" height="50">|~~SNplus.18~~|18||
-|<img src="https://production-static.d3-rgr-diva.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='3206301'&EntityType='Item'&EntityId='222970'&Width=1920&Height=1080" width="100" height="50">|~~SNplus.19~~|19||
-|<img src="https://production-static.d3-rgr-diva.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='3202999'&EntityType='Item'&EntityId='222707'&Width=1280&Height=720" width="100" height="50">|~~SNplus.2~~|2||
-|<img src="https://production-static.d3-rgr-diva.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='3203729'&EntityType='Item'&EntityId='222926'&Width=1920&Height=1080" width="100" height="50">|~~SNplus.20~~|20||
-|<img src="https://production-static.d3-rgr-diva.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='3203556'&EntityType='Item'&EntityId='222916'&Width=1920&Height=1080" width="100" height="50">|~~SNplus.21~~|21||
-|<img src="https://production-static.d3-rgr-diva.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='3203588'&EntityType='Item'&EntityId='222921'&Width=1920&Height=1080" width="100" height="50">|~~SNplus.22~~|22||
-|<img src="https://production-static.d3-rgr-diva.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='3203738'&EntityType='Item'&EntityId='222927'&Width=1920&Height=1080" width="100" height="50">|~~SNplus.23~~|23||
-|<img src="https://production-static.d3-rgr-diva.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='3203540'&EntityType='Item'&EntityId='222915'&Width=1920&Height=1080" width="100" height="50">|~~SNplus.24~~|24||
-|<img src="https://production-static.d3-rgr-diva.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='3203617'&EntityType='Item'&EntityId='222925'&Width=1920&Height=1080" width="100" height="50">|~~SNplus.25~~|25||
-|<img src="https://production-static.d3-rgr-diva.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='3203607'&EntityType='Item'&EntityId='222923'&Width=1920&Height=1080" width="100" height="50">|~~SNplus.26~~|26||
-|<img src="https://production-static.d3-rgr-diva.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='3207278'&EntityType='Item'&EntityId='222928'&Width=1280&Height=720" width="100" height="50">|~~SNplus.27~~|27||
-|<img src="https://production-static.d3-rgr-diva.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='3203063'&EntityType='Item'&EntityId='222776'&Width=1920&Height=1080" width="100" height="50">|~~SNplus.3~~|3||
-|<img src="https://production-static.d3-rgr-diva.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='3203056'&EntityType='Item'&EntityId='222774'&Width=1920&Height=1080" width="100" height="50">|~~SNplus.4~~|4||
-|<img src="https://production-static.d3-rgr-diva.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='3203035'&EntityType='Item'&EntityId='222779'&Width=1920&Height=1080" width="100" height="50">|~~SNplus.5~~|5||
-|<img src="https://production-static.d3-rgr-diva.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='3206316'&EntityType='Item'&EntityId='222973'&Width=1920&Height=1080" width="100" height="50">|~~SNplus.6~~|6||
-|<img src="https://production-static.d3-rgr-diva.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='3203052'&EntityType='Item'&EntityId='222782'&Width=1920&Height=1080" width="100" height="50">|~~SNplus.7~~|7||
-|<img src="https://production-static.d3-rgr-diva.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='3203040'&EntityType='Item'&EntityId='222786'&Width=1920&Height=1080" width="100" height="50">|~~SNplus.8~~|8||
-|<img src="https://production-static.d3-rgr-diva.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='3203062'&EntityType='Item'&EntityId='222787'&Width=1920&Height=1080" width="100" height="50">|~~SNplus.9~~|9||
+|<img src="https://production-static.d3-rgr-diva.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='3203548'&EntityType='Item'&EntityId='222778'&Width=1920&Height=1080" width="100" height="50">|~~SNplus.1~~|1||
+|<img src="https://production-static.d3-rgr-diva.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='3203738'&EntityType='Item'&EntityId='222927'&Width=1920&Height=1080" width="100" height="50">|~~SNplus.10~~|10||
+|<img src="https://production-static.d3-rgr-diva.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='3203540'&EntityType='Item'&EntityId='222915'&Width=1920&Height=1080" width="100" height="50">|~~TSNplus.11~~|11||
+|<img src="https://production-static.d3-rgr-diva.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='3203617'&EntityType='Item'&EntityId='222925'&Width=1920&Height=1080" width="100" height="50">|~~SNplus.12~~|12||
+|<img src="https://production-static.d3-rgr-diva.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='3203607'&EntityType='Item'&EntityId='222923'&Width=1920&Height=1080" width="100" height="50">|~~SNplus.13~~|13||
+|<img src="https://production-static.d3-rgr-diva.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='3207278'&EntityType='Item'&EntityId='222928'&Width=1280&Height=720" width="100" height="50">|~~SNplus.14~~|14||
+|<img src="https://production-static.d3-rgr-diva.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='3203599'&EntityType='Item'&EntityId='222922'&Width=1920&Height=1080" width="100" height="50">|~~SNplus.15~~|15||
+|<img src="https://production-static.d3-rgr-diva.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='3203615'&EntityType='Item'&EntityId='222924'&Width=1920&Height=1080" width="100" height="50">|~~SNplus.16~~|16||
+|<img src="https://production-static.d3-rgr-diva.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='3203589'&EntityType='Item'&EntityId='222920'&Width=1920&Height=1080" width="100" height="50">|~~SNplus.17~~|17||
+|<img src="https://production-static.d3-rgr-diva.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='3206296'&EntityType='Item'&EntityId='222968'&Width=1920&Height=1080" width="100" height="50">|~~SNplus.18~~|18||
+|<img src="https://production-static.d3-rgr-diva.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='3211814'&EntityType='Item'&EntityId='223410'&Width=1920&Height=1080" width="100" height="50">|~~SNplus.19~~|19||
+|<img src="https://production-static.d3-rgr-diva.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='3203561'&EntityType='Item'&EntityId='222917'&Width=1920&Height=1080" width="100" height="50">|~~SNplus.2~~|2||
+|<img src="https://production-static.d3-rgr-diva.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='3211787'&EntityType='Item'&EntityId='223407'&Width=1920&Height=1080" width="100" height="50">|~~SNplus.20~~|20||
+|<img src="https://production-static.d3-rgr-diva.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='3211758'&EntityType='Item'&EntityId='223402'&Width=1920&Height=1080" width="100" height="50">|~~SNplus.21~~|21||
+|<img src="https://production-static.d3-rgr-diva.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='3211802'&EntityType='Item'&EntityId='223409'&Width=1920&Height=1080" width="100" height="50">|~~SNplus.22~~|22||
+|<img src="https://production-static.d3-rgr-diva.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='3211772'&EntityType='Item'&EntityId='223404'&Width=1920&Height=1080" width="100" height="50">|~~SNplus.23~~|23||
+|<img src="https://production-static.d3-rgr-diva.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='3211830'&EntityType='Item'&EntityId='223412'&Width=1920&Height=1080" width="100" height="50">|~~SNplus.24~~|24||
+|<img src="https://production-static.d3-rgr-diva.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='3216420'&EntityType='Item'&EntityId='223411'&Width=1280&Height=720" width="100" height="50">|~~SNplus.25~~|25||
+|<img src="https://production-static.d3-rgr-diva.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='3206447'&EntityType='Item'&EntityId='222966'&Width=1920&Height=1080" width="100" height="50">|~~SNplus.26~~|26||
+|<img src="https://production-static.d3-rgr-diva.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='3206442'&EntityType='Item'&EntityId='222969'&Width=1920&Height=1080" width="100" height="50">|~~SNplus.27~~|27||
+|<img src="https://production-static.d3-rgr-diva.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='3203581'&EntityType='Item'&EntityId='222919'&Width=1920&Height=1080" width="100" height="50">|~~SNplus.3~~|3||
+|<img src="https://production-static.d3-rgr-diva.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='3203536'&EntityType='Item'&EntityId='222914'&Width=1920&Height=1080" width="100" height="50">|~~SNplus.4~~|4||
+|<img src="https://production-static.d3-rgr-diva.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='3203574'&EntityType='Item'&EntityId='222918'&Width=1920&Height=1080" width="100" height="50">|~~SNplus.5~~|5||
+|<img src="https://production-static.d3-rgr-diva.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='3206301'&EntityType='Item'&EntityId='222970'&Width=1920&Height=1080" width="100" height="50">|~~SNplus.6~~|6||
+|<img src="https://production-static.d3-rgr-diva.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='3203729'&EntityType='Item'&EntityId='222926'&Width=1920&Height=1080" width="100" height="50">|~~SNplus.7~~|7||
+|<img src="https://production-static.d3-rgr-diva.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='3203556'&EntityType='Item'&EntityId='222916'&Width=1920&Height=1080" width="100" height="50">|~~SNplus.8~~|8||
+|<img src="https://production-static.d3-rgr-diva.com/shain/v1/dataservice/ResizeImage/$value?Format='jpg'&Quality=85&ImageId='3203588'&EntityType='Item'&EntityId='222921'&Width=1920&Height=1080" width="100" height="50">|~~SNplus.9~~|9||
 |<img src="https://s9.gifyu.com/images/SUwa7.png" width="100" height="50">|~~c82808.A3CINE~~|A3CINE||
 |<img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ami-tv-ca.png" width="100" height="50">|~~c20783.AMIAU~~|AMIAU||
 |<img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-2-ca.png" width="100" height="50">|~~c12892.ASN~~|ASN||
@@ -5089,7 +5089,7 @@
 |<img src="http://linear-poster.astro.com.my/prod/logo/CI_v1.png" width="100" height="50">|~~crimeandnvestigation.my~~|my||
 |<img src="http://linear-poster.astro.com.my/prod/logo/Nick-Jr_2024.png" width="100" height="50">|~~nickelodeonjunior.my~~|my||
 |<img src="http://linear-poster.astro.com.my/prod/logo/TLC_v1.png" width="100" height="50">|~~tlc.my~~|my||
-|<img src="https://s9.gifyu.com/images/SVcn0.png" width="100" height="50">|~~AlJazeera.Arabic.net~~|net||
+|<img src="https://s9.gifyu.com/images/SVcn0.png" width="100" height="50">|AlJazeera.Arabic.net|net||
 |<img src="https://i.imgur.com/HHXGI9b.png" width="100" height="50">|~~Citi.TV.ng~~|ng||
 |<img src="https://live-delta.ottnow.stoneroos.com/image/logo/tv.delta.nl/assets/graphics/thumbnails/channel/delta/3096.svg" width="100" height="50">|~~omropfryslan.nl~~|nl||
 |<img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/sbs9-nl.png" width="100" height="50">|~~sbs9.nl~~|nl||
