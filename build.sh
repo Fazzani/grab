@@ -25,7 +25,7 @@ function merge {
     
     dos2unix docker/merge.sh && \
     chmod +x docker/merge.sh && \
-    docker/merge.sh ./tmp
+    docker/merge.sh "${EPG_TMP_DIR:-./tmp}"
 }
 
 function stats {

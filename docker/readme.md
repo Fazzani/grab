@@ -1,9 +1,11 @@
 # Merge xmltv
 
-The scheduled workflow downloads its sources from `EPG_URLS` (semicolon-separated
-URLs). Downloads and gzip extraction must succeed before merging. If a source is
-malformed or the XMLTV merge fails, the workflow stops without publishing new
-archives; inspect the failing source and retry the workflow after it is fixed.
+The scheduled workflow downloads its sources from `EPG_URLS` (URLs separated by
+semicolons, spaces, or newlines) into a fresh temporary directory. Unavailable or invalid sources are
+reported as warnings and skipped, so the published guide can be incomplete.
+If no source is usable or the merged guide has no programmes, the workflow
+fails without publishing new archives. For local runs, set `EPG_TMP_DIR` to
+an empty directory before running `build.sh --download` and `--merge`.
 
 ENV GITHUB_API_TOKEN required
 

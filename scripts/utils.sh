@@ -16,3 +16,7 @@ function echoError {
 function hash {
   printf '%s\n' "$1" | md5sum | cut -f1 -d" "
 }
+
+function split_epg_urls {
+  mapfile -t epg_urls < <(printf '%s\n' "$1" | tr ';[:space:]' '\n' | sed '/^$/d')
+}

@@ -13,7 +13,7 @@ RUN apt-get update -yqq \
     && apt-get upgrade -yqq \
     && apt-get install -yqq --no-install-recommends \
        xmltv-util \
-       dos2unix zip \
+       dos2unix zip python3 \
     && apt-get autoremove -yqq --purge \
     && apt-get clean \
     && rm -rf \

@@ -35,14 +35,18 @@ jobs:
         EPG_URLS: ${{ secrets.EPG_URLS }}
       run: |
         chmod +x ./build.sh
+        export EPG_TMP_DIR="$(mktemp -d)"
+        trap 'rm -rf "$EPG_TMP_DIR"' EXIT
 
         echo -e "--------------- downloading xmltv files\n"
-        IFS=';' read -r -a epg_urls <<< "$EPG_URLS"
+        source ./scripts/utils.sh
+        split_epg_urls "$EPG_URLS"
         [[ ${#epg_urls[@]} -gt 0 ]] || { echo "EPG_URLS is empty" >&2; exit 1; }
         ./build.sh --download "${epg_urls[@]}"
 
         echo -e "--------------- merging xmltv files\n"
         ./build.sh --merge
+        bash tests/test_xmltv_integration.sh
 
     - name: Update md files
       run: |
