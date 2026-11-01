@@ -12,15 +12,23 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    env:
+      PYTHONDONTWRITEBYTECODE: '1'
 
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v7
       with:
         persist-credentials: false
 
-    - uses: actions/setup-python@v2
+    - uses: actions/setup-python@v7
       with:
         python-version: '3.12'
+
+    - name: Install dependencies and run regression checks
+      run: |
+        python -m pip install pandas jinja2
+        python -m unittest discover -s tests -p 'test_*.py' -v
+        bash tests/test_pipeline.sh
 
     - name: Download & merge xmltv files
       env:
@@ -29,7 +37,8 @@ jobs:
         chmod +x ./build.sh
 
         echo -e "--------------- downloading xmltv files\n"
-        epg_urls=(${EPG_URLS//;/ })
+        IFS=';' read -r -a epg_urls <<< "$EPG_URLS"
+        [[ ${#epg_urls[@]} -gt 0 ]] || { echo "EPG_URLS is empty" >&2; exit 1; }
         ./build.sh --download "${epg_urls[@]}"
 
         echo -e "--------------- merging xmltv files\n"
@@ -41,9 +50,8 @@ jobs:
 
         ls -lah
 
-        pip install pandas jinja2
         python ./scripts/check.py .
-        ./build.sh --stats
+        python ./scripts/stats_epg.py -s -f out/epg.csv
 
         echo -e "--------------- generating md files\n"
 

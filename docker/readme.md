@@ -1,5 +1,10 @@
 # Merge xmltv
 
+The scheduled workflow downloads its sources from `EPG_URLS` (semicolon-separated
+URLs). Downloads and gzip extraction must succeed before merging. If a source is
+malformed or the XMLTV merge fails, the workflow stops without publishing new
+archives; inspect the failing source and retry the workflow after it is fixed.
+
 ENV GITHUB_API_TOKEN required
 
 ```bash

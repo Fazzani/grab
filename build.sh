@@ -21,7 +21,7 @@ function merge {
     sudo apt-get install -yqq --no-install-recommends \
        xmltv-util \
        dos2unix \
-       zip
+       zip || return $?
     
     dos2unix docker/merge.sh && \
     chmod +x docker/merge.sh && \
@@ -55,7 +55,7 @@ do
         ;;
     "--download")
         shift
-        chmod +x ./scripts/grab_from_url.sh && ./scripts/grab_from_url.sh $@
+        chmod +x ./scripts/grab_from_url.sh && ./scripts/grab_from_url.sh "$@" || exit $?
         ;;
     "--merge")
         MERGE=true
@@ -75,7 +75,11 @@ do
     shift
 done
 
-[[ $BUILD = true ]] && build
-[[ $MERGE = true ]] && merge
+if [[ $BUILD = true ]]; then
+    build || exit $?
+fi
+if [[ $MERGE = true ]]; then
+    merge || exit $?
+fi
 
 exit 0

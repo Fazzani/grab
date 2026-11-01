@@ -50,7 +50,6 @@ def check(file_path: str) -> Tuple[List[any], List[str]]:
     )
 
     df.set_index("start", inplace=True)
-    df = df.set_index(pd.to_datetime(df.index))
     df.index = pd.to_datetime(df.index, utc=True)
     res: pd.DataFrame = df[df.index.to_pydatetime() > (datetime.datetime.now(datetime.timezone.utc) - pd.Timedelta(days=1))]
     count = res.groupby(["channel"], as_index=False).count()
@@ -58,7 +57,8 @@ def check(file_path: str) -> Tuple[List[any], List[str]]:
 
     unique_all_channels = pd.DataFrame(all_channels).drop_duplicates(subset="id", keep="first").to_dict("records")
 
-    channels_with_no_prog = [x for x in set(map(lambda c: c["id"], unique_all_channels)) if x not in set(res["channel"].unique().tolist())]
+    channels_with_programs = set(res["channel"].unique())
+    channels_with_no_prog = [x for x in set(map(lambda c: c["id"], unique_all_channels)) if x not in channels_with_programs]
 
     return (unique_all_channels, channels_with_no_prog)
 
@@ -80,7 +80,7 @@ if __name__ == "__main__":
 
         df["date"] = datetime.datetime.today()
         df.set_index("date", inplace=True)
-        df["missed"] = df["id"].apply(lambda row: row in missed)
+        df["missed"] = df["id"].isin(missed)
 
         logging.debug(df.head(10))
         logging.debug(f"all: {all}")
@@ -94,6 +94,6 @@ if __name__ == "__main__":
             date_format="%Y%m%d",
         )
 
-    except Exception as ex:
-        logging.error("Unexpected error:", ex)
+    except Exception:
+        logging.exception("Unexpected error")
         sys.exit(1)

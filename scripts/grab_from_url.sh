@@ -1,6 +1,8 @@
 #!/bin/bash
 
-source $(dirname $0)/utils.sh
+set -e
+
+source "$(dirname "$0")/utils.sh"
 
 # tmpDir="$(dirname $0)/tmp"
 # echoInfo "$(dirname $tmpDir)"
@@ -9,9 +11,10 @@ mkdir -p "$tmpDir"
 
 for url in "$@"
 do
-  filename=$(basename $url)
-  localzipName=`echo $filename | awk -F '?' '{print $1}'`
-  fileDestTmp=$(hash $url)
+  filename=$(basename "${url%%\?*}")
+  localzipName="$filename"
+  fileDestTmp=$(hash "$url")
+  downloadPath="$tmpDir/$fileDestTmp.download"
   fileDest="${filename%.*}"
   extension="${localzipName##*.}"
 
@@ -21,22 +24,26 @@ do
   echoInfo "___fileDestTmp : ${fileDestTmp} _________"
   echoInfo "___________tmp : ${tmpDir} _________"
 
-  wget -q -O $tmpDir/$localzipName $url \
-  --header="User-Agent: Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.97 Safari/537.11" \
-  --no-check-certificate
+  wget -q -O "$downloadPath" "$url" \
+  --header="User-Agent: Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.97 Safari/537.11"
   
-  if [ $extension = "zip" ]; then
+  if [ "$extension" = "zip" ]; then
     command -v unzip >/dev/null 2>&1 || { echoError "unzip required but its'nt installed. Aborting." >&2; exit 1; }
     echoInfo "Unzip file..."
-    unzip -q -o $tmpDir/$localzipName -d $tmpDir/
+    unzip -q -o "$downloadPath" -d "$tmpDir/"
+    rm "$downloadPath"
     fileDest=$localzipName
-  elif [ $extension = "gz" ]; then
+  elif [ "$extension" = "gz" ]; then
     command -v gunzip >/dev/null 2>&1 || { echoError "gunzip required but its'nt installed. Aborting." >&2; exit 1; }
     echoInfo "Extrat gz file..."
-    gunzip -f $tmpDir/$localzipName > "$tmpDir/$fileDestTmp.xml"
+    if ! gunzip -c "$downloadPath" > "$tmpDir/$fileDestTmp.xml"; then
+      rm -f "$tmpDir/$fileDestTmp.xml"
+      exit 1
+    fi
+    rm "$downloadPath"
     fileDest="$fileDestTmp"
   else
-    sudo mv $tmpDir/$localzipName $tmpDir/$fileDestTmp.xml
+    mv "$downloadPath" "$tmpDir/$fileDestTmp.xml"
     fileDest="$fileDestTmp"
   fi
 
