@@ -4,7 +4,7 @@
 [![grab](https://github.com/Fazzani/grab/actions/workflows/grab.yml/badge.svg)](https://github.com/Fazzani/grab/actions/workflows/grab.yml)
 
 ![Channel count](https://img.shields.io/static/v1?style=for-the-badge&label=channel%20count&message=1370&color=9cf&cacheSeconds=3600)
-![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=63.28%&color=yellow&cacheSeconds=3600)
+![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=63.07%&color=yellow&cacheSeconds=3600)
 
 ## Available epg
 
@@ -584,8 +584,8 @@
 |<img src="https://iptv-epg.org/images/dah57WCIc2iSq0twPbu07hA2JpsQZS1Mce0Ibzz8edEd_M9tQNS_f6I4oM9nSvdsn9h2pDu0CtQMipx2IgguctPnuUYQ76L4mLASBIEhD8w" width="100" height="50">|TVTours.fr|fr||
 |<img src="https://iptv-epg.org/images/_OVrg9-odJxoqDRxmBTHHKEncrIPa96kcVZioZD2tYJxd5pqSwHUuqLbPvXo_ZvT6RukAGzHoGiTeVgVOBujOocQ38DInIx_3mir_oLfBZgv" width="100" height="50">|TVVendee.fr|fr||
 |<img src="https://www.programme-tv.net/imgre/fit/~2~channel~4f89934309c38843.png/480x480/quality/100/tntv-france.png" width="100" height="50">|TahitiNuiTV.fr|fr||
-|<img src="https://upload.wikimedia.org/wikipedia/fr/2/20/T%C3%A9b%C3%A9Sud_logo_2013.png" width="100" height="50">|TebeSud.fr|fr||
-|<img src="https://www.programme-tv.net/imgre/fit/~2~channel~1a03f02780399e00.png/480x480/quality/100/tebeo.png" width="100" height="50">|Tebeo.fr|fr||
+|<img src="https://upload.wikimedia.org/wikipedia/fr/2/20/T%C3%A9b%C3%A9Sud_logo_2013.png" width="100" height="50">|~~TebeSud.fr~~|fr||
+|<img src="https://www.programme-tv.net/imgre/fit/~2~channel~1a03f02780399e00.png/480x480/quality/100/tebeo.png" width="100" height="50">|~~Tebeo.fr~~|fr||
 |<img src="https://static-cdn.tv.sfr.net/data/logos/tv_services/Tele_Bocal_color.png" width="100" height="50">|TeleBocal.fr|fr||
 |<img src="https://iptv-epg.org/images/P3AChyCFZkLfqNEh_nS2Oj0PgxKw3CVEeD1vUPfE6oAuj8Df23rkTkZNX5XntCoep2vzIzupAm4UjEvY47KsKkfzX5Q2bNy-SbrFW4EY-pb4LMmJrA" width="100" height="50">|~~TeleGrenoble.fr~~|fr||
 |<img src="https://www.programme-tv.net/imgre/fit/~2~channel~a9c6360b76772dd2.png/480x480/quality/100/tele-grenoble-isere.png" width="100" height="50">|TeleGrenobleIsere.fr|fr||
@@ -954,7 +954,7 @@
 |<img src="https://iptv-epg.org/images/zfp-4W2SLRKk3c4gz3ZTSaGyAMj1yKqTPX0r66kXsLh9JpbOD5P0Vf15CEwXQa6Cj3H_6vFgCr8Lf2gjVqVC52Z87PC5tMIDZg6PPZ73KH4" width="100" height="50">|Animaux.fr|fr||
 |<img src="https://iptv-epg.org/images/5Efi9yENFIBpV9hy6qen8hQN6XrLQ9lll7OcKR6ZzSOnG_PgDEomOHGalhyzx1iy6iAL0utnNftNBQ8ZLoqoG61Idd3eWf-gZtxEDVdvGYYa" width="100" height="50">|AntenneA.fr|fr||
 |<img src="https://thumb.canalplus.pro/http/unsafe/640x480/filters:quality(100)/canalplus-cdn.canal-plus.io/p1/channel/160005/canal-ouah/CHN43FB/ANTENNEREUNION_myCANAL_640x480?=.png" width="100" height="50">|AntenneReunion.fr|fr||
-|<img src="https://proxies.antennereunion-production.eu-west-3.alphanetworks.tv/proxy/imgdata?type=100&objectId=2&languageId=fr" width="100" height="50">|AntenneReunionRadio.fr|fr||
+|<img src="https://proxies.antennereunion-production.eu-west-3.alphanetworks.tv/proxy/imgdata?type=100&objectId=2&languageId=fr" width="100" height="50">|~~AntenneReunionRadio.fr~~|fr||
 |<img src="https://iptv-epg.org/images/tLbEthHuS7WoFaRCmHTwZXTKPh0JzXgkL3dvvp9U-b2kLWMMEZeuHV9Flwtijknqdmx0HubXiMWlHQfEzl7bwtzwKv1G0HMHhX7BTTqPJWrY" width="100" height="50">|~~Armenia1.fr~~|fr||
 |<img src="https://iptv-epg.org/images/p_Lf1pIqUIoTDd6f4mLIe59EAsEaF5ZFSuJfAMdLa1_hZaw03fHLvYv8Mhew2xAhhXFY5Kfzg80yC9I1AT2jubkZMptfUniho7qecm_t7n8" width="100" height="50">|~~Arrabia.fr~~|fr||
 |<img src="https://iptv-epg.org/images/vAbNzriMtr9kJYW7gtQ8MVDZrpfBUx7hWEPfvSjOkwrMVXNtQFR_f5_XN8nF71QFWYZqKGc5iFVXZ0wuiOiLyJI9WZiAVvaLZE6KXqw-9RLC" width="100" height="50">|~~Arryadia.fr~~|fr||
