@@ -4,7 +4,7 @@
 [![grab](https://github.com/Fazzani/grab/actions/workflows/grab.yml/badge.svg)](https://github.com/Fazzani/grab/actions/workflows/grab.yml)
 
 ![Channel count](https://img.shields.io/static/v1?style=for-the-badge&label=channel%20count&message=1361&color=9cf&cacheSeconds=3600)
-![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=75.75%&color=yellow&cacheSeconds=3600)
+![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=75.46%&color=yellow&cacheSeconds=3600)
 
 ## Available epg
 
@@ -47,9 +47,9 @@
 |<img src="https://media0106.elcinema.com/tvguide/1298_1.png" width="100" height="50">|Amman|||
 |<img src="https://media0106.elcinema.com/tvguide/1257_1.png" width="100" height="50">|OSN TV Comedy|||
 |<img src="https://media0106.elcinema.com/tvguide/1395_1.png" width="100" height="50">|OSN TV Crime|||
-|<img src="https://media0106.elcinema.com/tvguide/1232_1.png" width="100" height="50">|OSN TV Kids|||
+|<img src="https://media0106.elcinema.com/tvguide/1232_1.png" width="100" height="50">|~~OSN TV Kids~~|||
 |<img src="https://media0106.elcinema.com/tvguide/1211_1.png" width="100" height="50">|OSN TV Movies Action|||
-|<img src="https://media0106.elcinema.com/tvguide/1231_1.png" width="100" height="50">|OSN TV Movies Comedy|||
+|<img src="https://media0106.elcinema.com/tvguide/1231_1.png" width="100" height="50">|~~OSN TV Movies Comedy~~|||
 |<img src="https://media0106.elcinema.com/tvguide/1398_1.png" width="100" height="50">|Althania|||
 |<img src="https://media0106.elcinema.com/tvguide/1374_1.png" width="100" height="50">|Hadhramaut TV|||
 |<img src="https://media0106.elcinema.com/tvguide/1302_1.png" width="100" height="50">|Fujairah|||
@@ -95,7 +95,7 @@
 |<img src="https://media0106.elcinema.com/tvguide/1136_1.png" width="100" height="50">|Abu Dhabi TV|||
 |<img src="https://media0106.elcinema.com/tvguide/1129_1.png" width="100" height="50">|MBC 4|||
 |<img src="https://media0106.elcinema.com/tvguide/1354_1.png" width="100" height="50">|MBC 5|||
-|<img src="https://media0106.elcinema.com/tvguide/1130_1.png" width="100" height="50">|MBC Action|||
+|<img src="https://media0106.elcinema.com/tvguide/1130_1.png" width="100" height="50">|~~MBC Action~~|||
 |<img src="https://media0106.elcinema.com/tvguide/1259_1.png" width="100" height="50">|MBC Bollywood|||
 |<img src="https://media0106.elcinema.com/tvguide/1194_1.png" width="100" height="50">|MBC Drama|||
 |<img src="" width="100" height="50">|9B969275-E59C-4DD1-8FCA-8B01EAE04909|||
@@ -276,7 +276,7 @@
 |<img src="https://www.programme-tv.net/imgre/fit/~2~channel~32f22a87326e6887.png/480x480/quality/100/vtm2.png" width="100" height="50">|VTM2.be|be||
 |<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpCzQGaETdejE-NT7weLYrKSwq_KF8f0H6Y2n57GLbVS_L2wGAqesv9l23izg&amp;s" width="100" height="50">|KetnetCanvas.be|be||
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_Zoom_logo.png/1200px-Canal_Zoom_logo.png" width="100" height="50">|CanalZoom.be|be||
-|<img src="" width="100" height="50">|VOOSportWorld3.be|be||
+|<img src="" width="100" height="50">|~~VOOSportWorld3.be~~|be||
 |<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhiUpxpmsSCYxyMxlhCUp4XPdQYhIRqMyq-_bAswQBN5x3uWJbjtsS6dcmdDA&amp;s" width="100" height="50">|RTC.be|be||
 |<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/ACTV.svg/1200px-ACTV.svg.png" width="100" height="50">|ACTV.be|be||
 |<img src="https://www.actu-tv.com/images/logo.gif" width="100" height="50">|ACTUATV.be|be||
@@ -1006,7 +1006,7 @@
 |<img src="https://iptv-epg.org/images/zvJ-AYuzRCsFSE-Y5W2LPm0Ai962zRgLeCbhLDiy4cr_8guP08TL3BNgJ4I-4IFBY1sK8Q2ITMOJnSWoKhZ5LidL4mXJZUSMwKfQnaLR7OoV" width="100" height="50">|~~CANAL+.fr~~|fr||
 |<img src="https://iptv-epg.org/images/n0YYyVU48ZXw5r0DpqMF76b5hipAnC4oewLgf3sQowXA4dBayX-VkGMxmvBJDKuyNM1cExLgfRksqxmuttdRxqPlsdIHNQlNt0Nm8DuLzKWJpGAxTKkZUUhW" width="100" height="50">|~~CANAL+BOXOFFICE.fr~~|fr||
 |<img src="https://iptv-epg.org/images/TP3irPOWZPoAgKRTLNl8pm6GP-MAimy5qx3D7IBIaEJigLpD7DuJ6_mr8FoDhOLUJjLbeHZZtEq0ODjvG8WEDV8cnMv7bjfBUbPhXOid9mYJ6G3ejAtxRp1-5AB6" width="100" height="50">|CANAL+BOXOFFICE_CH.fr|fr||
-|<img src="https://iptv-epg.org/images/-mgo51nze3O0_PYS-WqKrQXgaTiq7j8MkJMHxfTZZ8o_XPoWc3VFAbbThQY76WAGfveGLpR3FSeGO-wqJmyBLP3u9fI-in9oFeD1Vcj7rmJh3TOxLql6" width="100" height="50">|~~CANAL+CINEMA.fr~~|fr||
+|<img src="https://iptv-epg.org/images/-mgo51nze3O0_PYS-WqKrQXgaTiq7j8MkJMHxfTZZ8o_XPoWc3VFAbbThQY76WAGfveGLpR3FSeGO-wqJmyBLP3u9fI-in9oFeD1Vcj7rmJh3TOxLql6" width="100" height="50">|CANAL+CINEMA.fr|fr||
 |<img src="https://iptv-epg.org/images/R3CXoDlQrh5AQdTNpLTV23XE_mklmzge8nlggiFmkTWifx5x8CixY60u5a4hc1dvU9idB3Yn5vjeAW9m0OjFZtq0FtORUXW_Q5yD_AZsMoUpJldAPw" width="100" height="50">|~~CANAL+DOCS.fr~~|fr||
 |<img src="https://iptv-epg.org/images/eejDT1onsXDOOYdZrPFrsYHGERFcr7mVSv7tDZSE9YjxgwgqjrLKlaASEl51MlZftA2QlPtk6XlwyxZICcq10eHo8gbpX16BmUUrQ9CUmK5ydiWgEA" width="100" height="50">|~~CANAL+FOOT.fr~~|fr||
 |<img src="https://iptv-epg.org/images/YMEriNpVoDVMHLEL3QfxHGpekriLoTCYj5O4NAP9Q7TuRhKTrzr3VAIRFCoM81Rhaf3dhlVc2Of9yz5-axZMAAEh97vpq49GztageokJ_HEcGyQPwl5UXWepAQ" width="100" height="50">|~~CANAL+GRANDECRAN.fr~~|fr||
@@ -1031,7 +1031,7 @@
 |<img src="https://iptv-epg.org/images/pd1qZMjlwJ2ygpXmzSlpbmqCI9ZbhlqUNSCS3H_DzJilW2NLmh8Bw7DycohkX5wUAz20VbpglYOdDGVF_saUUVXWSKtQc9DJRmmbLUwq796IJ3DKnA8" width="100" height="50">|~~CANAL+LIVE8.fr~~|fr||
 |<img src="https://iptv-epg.org/images/TMF9c8CGeAETcCFJXLpAK2_p5_sY3SqPBCiKfkZ72sFzfaGVOKwmDmkhb3dp91W4i5QJ_QfijKc9yS6BFGkEeaTwfPOYulmneEazyQsfpH9RAW5xOcE" width="100" height="50">|~~CANAL+LIVE9.fr~~|fr||
 |<img src="https://iptv-epg.org/images/4H5Rbnc_yiN013HO4MjZ9qtpqBjp1MW555xrH2s2cCVhL-dgtrl_wBTnTcN22QQyHs6bpQCLHrQ_VBmqstdGFu3Vgh2r-j6jYI7K7pltfJNgodOVsgcl" width="100" height="50">|~~CANAL+LIVE14.fr~~|fr||
-|<img src="https://iptv-epg.org/images/tSVhEA50wWBmG631KkdH9iVSC_sKWrDLvtpdbR7E_FYMIQ6j9VI6LW_2Lr2vaMTUAG0a0X2yn03mkU4eE98xG47HkHT-yOyCnK1WwBugjHCXmYx6er0hSPy7NAYf4A" width="100" height="50">|~~CANAL+PREMIERLEAGUE.fr~~|fr||
+|<img src="https://iptv-epg.org/images/tSVhEA50wWBmG631KkdH9iVSC_sKWrDLvtpdbR7E_FYMIQ6j9VI6LW_2Lr2vaMTUAG0a0X2yn03mkU4eE98xG47HkHT-yOyCnK1WwBugjHCXmYx6er0hSPy7NAYf4A" width="100" height="50">|CANAL+PREMIERLEAGUE.fr|fr||
 |<img src="https://static-cdn.tv.sfr.net/data/logos/tv_services/Boomerang_1_color.png" width="100" height="50">|Boomerangplus1.fr|fr||
 |<img src="https://iptv-epg.org/images/y7JcguWAr-BaCpWESyeeRM-PcqJvBKzV6zx3-0XrOgL7euYqbJBD8U38_VQgEbBhKzDmpKz3aECYy44rP6K7whVtmvfrrUgWN0O-SSmDP9Xoz0OYFds" width="100" height="50">|~~Boomerang+1.fr~~|fr||
 |<img src="https://static-cdn.tv.sfr.net/data/logos/tv_services/BBLACK_CLASSIK_color.png" width="100" height="50">|BBlackClassik.fr|fr||
@@ -1354,8 +1354,8 @@
 |<img src="https://media0106.elcinema.com/tvguide/1352_1.png" width="100" height="50">|Saudi1.sa|sa||
 |<img src="https://media0106.elcinema.com/tvguide/1259_1.png" width="100" height="50">|MBCBollywoodEn.sa|sa||
 |<img src="https://media0106.elcinema.com/tvguide/1259_1.png" width="100" height="50">|MBCBollywood.sa|sa||
-|<img src="https://media0106.elcinema.com/tvguide/1130_1.png" width="100" height="50">|MBCActionEn.sa|sa||
-|<img src="https://media0106.elcinema.com/tvguide/1130_1.png" width="100" height="50">|MBCAction.sa|sa||
+|<img src="https://media0106.elcinema.com/tvguide/1130_1.png" width="100" height="50">|~~MBCActionEn.sa~~|sa||
+|<img src="https://media0106.elcinema.com/tvguide/1130_1.png" width="100" height="50">|~~MBCAction.sa~~|sa||
 |<img src="https://media0106.elcinema.com/tvguide/1129_1.png" width="100" height="50">|MBC4.sa|sa||
 |<img src="https://media0106.elcinema.com/tvguide/1317_1.png" width="100" height="50">|OmanTV.sa|sa||
 |<img src="https://thumb.canalplus.pro/http/unsafe/640x480/filters:quality(100)/canalplus-cdn.canal-plus.io/p1/channel/180666/canal-ouah/CHN43FB/RTS2_myCANAL_640x480-0?=.png" width="100" height="50">|RTS2.sn|sn||
