@@ -4,7 +4,7 @@
 [![grab](https://github.com/Fazzani/grab/actions/workflows/grab.yml/badge.svg)](https://github.com/Fazzani/grab/actions/workflows/grab.yml)
 
 ![Channel count](https://img.shields.io/static/v1?style=for-the-badge&label=channel%20count&message=1361&color=9cf&cacheSeconds=3600)
-![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=74.50%&color=yellow&cacheSeconds=3600)
+![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=71.93%&color=yellow&cacheSeconds=3600)
 
 ## Available epg
 
@@ -24,10 +24,10 @@
 |<img src="https://media0106.elcinema.com/tvguide/1301_1.png" width="100" height="50">|~~Alsumaria~~|||
 |<img src="https://media0106.elcinema.com/tvguide/1259_1.png" width="100" height="50">|MBC Bollywood|||
 |<img src="https://media0106.elcinema.com/tvguide/1306_1.png" width="100" height="50">|Alrasheed|||
-|<img src="https://media0106.elcinema.com/tvguide/1101_1.png" width="100" height="50">|Aloula|||
+|<img src="https://media0106.elcinema.com/tvguide/1101_1.png" width="100" height="50">|~~Aloula~~|||
 |<img src="https://media0106.elcinema.com/tvguide/1137_1.png" width="100" height="50">|Alhayat TV|||
 |<img src="https://media0106.elcinema.com/tvguide/1382_1.png" width="100" height="50">|Alaraby TV 2|||
-|<img src="https://media0106.elcinema.com/tvguide/1339_1.png" width="100" height="50">|AlSaeedah|||
+|<img src="https://media0106.elcinema.com/tvguide/1339_1.png" width="100" height="50">|~~AlSaeedah~~|||
 |<img src="https://media0106.elcinema.com/tvguide/1391_1.png" width="100" height="50">|~~OSN TV Movies Hollywood~~|||
 |<img src="https://media0106.elcinema.com/tvguide/1130_1.png" width="100" height="50">|MBC Action|||
 |<img src="https://media0106.elcinema.com/tvguide/1392_1.png" width="100" height="50">|~~OSN TV Movies Family~~|||
@@ -40,7 +40,7 @@
 |<img src="https://media0106.elcinema.com/tvguide/1290_1.png" width="100" height="50">|DMC|||
 |<img src="https://media0106.elcinema.com/tvguide/1395_1.png" width="100" height="50">|OSN TV Crime|||
 |<img src="https://media0106.elcinema.com/tvguide/1292_1.png" width="100" height="50">|DMC DRAMA|||
-|<img src="https://media0106.elcinema.com/tvguide/1257_1.png" width="100" height="50">|OSN TV Comedy|||
+|<img src="https://media0106.elcinema.com/tvguide/1257_1.png" width="100" height="50">|~~OSN TV Comedy~~|||
 |<img src="https://media0106.elcinema.com/tvguide/1269_1.png" width="100" height="50">|~~Al sharqya~~|||
 |<img src="https://media0106.elcinema.com/tvguide/1193_1.png" width="100" height="50">|Al Nahar TV|||
 |<img src="https://media0106.elcinema.com/tvguide/1223_1.png" width="100" height="50">|Al Nahar Drama|||
@@ -53,47 +53,47 @@
 |<img src="https://media0106.elcinema.com/tvguide/1213_1.png" width="100" height="50">|~~OSN TV Movies Premiere~~|||
 |<img src="https://media0106.elcinema.com/tvguide/1242_1.png" width="100" height="50">|Network Arabic|||
 |<img src="https://media0106.elcinema.com/tvguide/1313_1.png" width="100" height="50">|~~LTV~~|||
-|<img src="https://media0106.elcinema.com/tvguide/1304_1.png" width="100" height="50">|Nessma|||
+|<img src="https://media0106.elcinema.com/tvguide/1304_1.png" width="100" height="50">|~~Nessma~~|||
 |<img src="https://media0106.elcinema.com/tvguide/1134_1.png" width="100" height="50">|ON Drama|||
 |<img src="https://media0106.elcinema.com/tvguide/1323_1.png" width="100" height="50">|BEIN MOVIES ACTION|||
 |<img src="" width="100" height="50">|~~B0DBD19A-9F44-4197-BD09-2B6A5F315F3B~~|||
-|<img src="https://media0106.elcinema.com/tvguide/1396_1.png" width="100" height="50">|OSN TV Now|||
+|<img src="https://media0106.elcinema.com/tvguide/1396_1.png" width="100" height="50">|~~OSN TV Now~~|||
 |<img src="https://media0106.elcinema.com/tvguide/1324_1.png" width="100" height="50">|BEIN MOVIES DRAMA|||
-|<img src="https://media0106.elcinema.com/tvguide/1399_1.png" width="100" height="50">|MBC Masr Drama|||
-|<img src="https://media0106.elcinema.com/tvguide/1393_1.png" width="100" height="50">|OSN TV One|||
+|<img src="https://media0106.elcinema.com/tvguide/1399_1.png" width="100" height="50">|~~MBC Masr Drama~~|||
+|<img src="https://media0106.elcinema.com/tvguide/1393_1.png" width="100" height="50">|~~OSN TV One~~|||
 |<img src="https://media0106.elcinema.com/tvguide/1394_1.png" width="100" height="50">|OSN TV Showcase|||
 |<img src="https://media0106.elcinema.com/tvguide/1366_1.png" width="100" height="50">|Thikrayat Tv|||
-|<img src="https://media0106.elcinema.com/tvguide/1246_1.png" width="100" height="50">|LDC|||
+|<img src="https://media0106.elcinema.com/tvguide/1246_1.png" width="100" height="50">|~~LDC~~|||
 |<img src="https://media0106.elcinema.com/tvguide/1205_1.png" width="100" height="50">|OSN Ya Hala|||
 |<img src="https://media0106.elcinema.com/tvguide/1156_1.png" width="100" height="50">|~~Nile Drama~~|||
 |<img src="https://media0106.elcinema.com/tvguide/1325_1.png" width="100" height="50">|BEIN MOVIES FAMILY|||
 |<img src="https://media0106.elcinema.com/tvguide/1132_1.png" width="100" height="50">|MBC MAX|||
 |<img src="https://media0106.elcinema.com/tvguide/1278_1.png" width="100" height="50">|MBC MASR 2|||
 |<img src="https://media0106.elcinema.com/tvguide/1176_1.png" width="100" height="50">|Cima|||
-|<img src="https://media0106.elcinema.com/tvguide/1168_1.png" width="100" height="50">|LBCI|||
+|<img src="https://media0106.elcinema.com/tvguide/1168_1.png" width="100" height="50">|~~LBCI~~|||
 |<img src="https://media0106.elcinema.com/tvguide/1340_1.png" width="100" height="50">|MBC Iraq|||
-|<img src="https://media0106.elcinema.com/tvguide/1341_1.png" width="100" height="50">|LBC|||
+|<img src="https://media0106.elcinema.com/tvguide/1341_1.png" width="100" height="50">|~~LBC~~|||
 |<img src="https://media0106.elcinema.com/tvguide/1317_1.png" width="100" height="50">|Oman|||
-|<img src="https://media0106.elcinema.com/tvguide/1212_1.png" width="100" height="50">|Star Movies|||
+|<img src="https://media0106.elcinema.com/tvguide/1212_1.png" width="100" height="50">|~~Star Movies~~|||
 |<img src="https://media0106.elcinema.com/tvguide/1239_1.png" width="100" height="50">|MBC Egypt|||
 |<img src="https://media0106.elcinema.com/tvguide/1405_1.png" width="100" height="50">|One Drama|||
 |<img src="https://media0106.elcinema.com/tvguide/1390_1.png" width="100" height="50">|OSN TV Yahala Bil Arabi|||
 |<img src="https://media0106.elcinema.com/tvguide/1216_1.png" width="100" height="50">|Al Jadeed TV|||
 |<img src="https://media0106.elcinema.com/tvguide/1174_1.png" width="100" height="50">|Al Kahera Wal Nas TV|||
-|<img src="https://media0106.elcinema.com/tvguide/1312_1.png" width="100" height="50">|Al Aoula Morocco|||
+|<img src="https://media0106.elcinema.com/tvguide/1312_1.png" width="100" height="50">|~~Al Aoula Morocco~~|||
 |<img src="https://media0106.elcinema.com/tvguide/1264_1.png" width="100" height="50">|Al Dafrah|||
 |<img src="" width="100" height="50">|9ABD32F9-C6D9-4DD5-B936-2C7E6546292E|||
 |<img src="" width="100" height="50">|93000494-0DF8-4107-AF0E-1C99D3DBB2EC|||
 |<img src="https://media0106.elcinema.com/tvguide/1145_1.png" width="100" height="50">|~~Mehwar~~|||
 |<img src="" width="100" height="50">|8C1EC4FC-35E6-4866-A75D-37FCFAE18839|||
 |<img src="" width="100" height="50">|846C79D6-18F8-4A4D-ACFA-2C18DCCB6398|||
-|<img src="https://media0106.elcinema.com/tvguide/1135_1.png" width="100" height="50">|Emirates|||
-|<img src="https://media0106.elcinema.com/tvguide/1217_1.png" width="100" height="50">|Rotana Classic|||
-|<img src="https://media0106.elcinema.com/tvguide/1148_1.png" width="100" height="50">|Rotana Cinema Masr|||
+|<img src="https://media0106.elcinema.com/tvguide/1135_1.png" width="100" height="50">|~~Emirates~~|||
+|<img src="https://media0106.elcinema.com/tvguide/1217_1.png" width="100" height="50">|~~Rotana Classic~~|||
+|<img src="https://media0106.elcinema.com/tvguide/1148_1.png" width="100" height="50">|~~Rotana Cinema Masr~~|||
 |<img src="" width="100" height="50">|7A8040D9-7BAF-477E-B9F7-8BAB88F677E8|||
-|<img src="https://media0106.elcinema.com/tvguide/1289_1.png" width="100" height="50">|Rotana Cinema|||
+|<img src="https://media0106.elcinema.com/tvguide/1289_1.png" width="100" height="50">|~~Rotana Cinema~~|||
 |<img src="https://media0106.elcinema.com/tvguide/1199_1.png" width="100" height="50">|CBC Drama|||
-|<img src="https://media0106.elcinema.com/tvguide/1358_1.png" width="100" height="50">|Rotana Comedy|||
+|<img src="https://media0106.elcinema.com/tvguide/1358_1.png" width="100" height="50">|~~Rotana Comedy~~|||
 |<img src="https://media0106.elcinema.com/tvguide/1198_1.png" width="100" height="50">|CBC|||
 |<img src="" width="100" height="50">|522050CE-EBD3-43EA-B636-42B034FDC05C|||
 |<img src="" width="100" height="50">|51D28C47-7B79-4007-81A3-BFDF9BC65A3B|||
@@ -101,12 +101,12 @@
 |<img src="https://media0106.elcinema.com/tvguide/1374_1.png" width="100" height="50">|Hadhramaut TV|||
 |<img src="https://media0106.elcinema.com/tvguide/1280_1.png" width="100" height="50">|TeN TV|||
 |<img src="https://media0106.elcinema.com/tvguide/1204_1.png" width="100" height="50">|iFILM TV|||
-|<img src="https://media0106.elcinema.com/tvguide/1159_1.png" width="100" height="50">|Nile Life|||
+|<img src="https://media0106.elcinema.com/tvguide/1159_1.png" width="100" height="50">|~~Nile Life~~|||
 |<img src="" width="100" height="50">|~~2BF668DF-1B76-4199-88CE-8691FD86AD8C~~|||
 |<img src="https://media0106.elcinema.com/tvguide/1373_1.png" width="100" height="50">|~~Mix ONE~~|||
 |<img src="" width="100" height="50">|1752F091-A114-4629-BED4-46E0BB488A24|||
 |<img src="https://media0106.elcinema.com/tvguide/1371_1.png" width="100" height="50">|Mix Bel Araby|||
-|<img src="https://media0106.elcinema.com/tvguide/1355_1.png" width="100" height="50">|Mix|||
+|<img src="https://media0106.elcinema.com/tvguide/1355_1.png" width="100" height="50">|~~Mix~~|||
 |<img src="" width="100" height="50">|5C08D9D3-C713-4F1F-947E-87C761428B9B|||
 |<img src="https://media0106.elcinema.com/tvguide/1147_1.png" width="100" height="50">|Rotana Drama|||
 |<img src="" width="100" height="50">|9B969275-E59C-4DD1-8FCA-8B01EAE04909|||
@@ -120,7 +120,7 @@
 |<img src="https://media0106.elcinema.com/tvguide/1136_1.png" width="100" height="50">|Abu Dhabi TV|||
 |<img src="https://media0106.elcinema.com/tvguide/1385_1.png" width="100" height="50">|Dijlah TV|||
 |<img src="https://media0106.elcinema.com/tvguide/1226_1.png" width="100" height="50">|Sada El Balad|||
-|<img src="https://media0106.elcinema.com/tvguide/1119_1.png" width="100" height="50">|Egyptian TV|||
+|<img src="https://media0106.elcinema.com/tvguide/1119_1.png" width="100" height="50">|~~Egyptian TV~~|||
 |<img src="https://media0106.elcinema.com/tvguide/1129_1.png" width="100" height="50">|MBC 4|||
 |<img src="https://media0106.elcinema.com/tvguide/1297_1.png" width="100" height="50">|~~SBC~~|||
 |<img src="https://media0106.elcinema.com/tvguide/1241_1.png" width="100" height="50">|MBC 3|||
@@ -130,13 +130,13 @@
 |<img src="https://media0106.elcinema.com/tvguide/1127_1.png" width="100" height="50">|MBC|||
 |<img src="" width="100" height="50">|CD634732-20D1-4137-94E7-939DE93D056D|||
 |<img src="https://media0106.elcinema.com/tvguide/1327_1.png" width="100" height="50">|BeIn Series HD 1|||
-|<img src="https://media0106.elcinema.com/tvguide/1169_1.png" width="100" height="50">|Dubai TV|||
+|<img src="https://media0106.elcinema.com/tvguide/1169_1.png" width="100" height="50">|~~Dubai TV~~|||
 |<img src="https://media0106.elcinema.com/tvguide/1283_1.png" width="100" height="50">|Dubai Zaman|||
-|<img src="https://media0106.elcinema.com/tvguide/1149_1.png" width="100" height="50">|Rotana Khalejia|||
-|<img src="https://media0106.elcinema.com/tvguide/1336_1.png" width="100" height="50">|Maspero Zaman|||
+|<img src="https://media0106.elcinema.com/tvguide/1149_1.png" width="100" height="50">|~~Rotana Khalejia~~|||
+|<img src="https://media0106.elcinema.com/tvguide/1336_1.png" width="100" height="50">|~~Maspero Zaman~~|||
 |<img src="https://media0106.elcinema.com/tvguide/1128_1.png" width="100" height="50">|MBC 2|||
 |<img src="https://media0106.elcinema.com/tvguide/1299_1.png" width="100" height="50">|Roya|||
-|<img src="https://media0106.elcinema.com/tvguide/1315_1.png" width="100" height="50">|Echorouk TV|||
+|<img src="https://media0106.elcinema.com/tvguide/1315_1.png" width="100" height="50">|~~Echorouk TV~~|||
 |<img src="https://media0106.elcinema.com/tvguide/1401_1.png" width="100" height="50">|Masah|||
 |<img src="https://media0106.elcinema.com/tvguide/1131_1.png" width="100" height="50">|MBCDramaPlus.ae|ae||
 |<img src="https://media0106.elcinema.com/tvguide/1194_1.png" width="100" height="50">|MBCDramaEn.ae|ae||
@@ -148,10 +148,10 @@
 |<img src="https://media0106.elcinema.com/tvguide/1194_1.png" width="100" height="50">|MBCDramaAr.ae|ae||
 |<img src="https://media0106.elcinema.com/tvguide/1194_1.png" width="100" height="50">|MBCDrama.ae|ae||
 |<img src="https://media0106.elcinema.com/tvguide/1128_1.png" width="100" height="50">|MBC2En.ae|ae||
-|<img src="https://media0106.elcinema.com/tvguide/1169_1.png" width="100" height="50">|DubaiTV.ae|ae||
+|<img src="https://media0106.elcinema.com/tvguide/1169_1.png" width="100" height="50">|~~DubaiTV.ae~~|ae||
 |<img src="https://media0106.elcinema.com/tvguide/1136_1.png" width="100" height="50">|AbuDhabi.ae|ae||
 |<img src="https://media0106.elcinema.com/tvguide/1241_1.png" width="100" height="50">|MBC3.ae|ae||
-|<img src="https://media0106.elcinema.com/tvguide/1135_1.png" width="100" height="50">|AlEmarat.ae|ae||
+|<img src="https://media0106.elcinema.com/tvguide/1135_1.png" width="100" height="50">|~~AlEmarat.ae~~|ae||
 |<img src="https://media0106.elcinema.com/tvguide/1177_1.png" width="100" height="50">|SamaDubai.ae|ae||
 |<img src="https://media0106.elcinema.com/tvguide/1132_1.png" width="100" height="50">|MBCMaxEn.ae|ae||
 |<img src="https://media0106.elcinema.com/tvguide/1132_1.png" width="100" height="50">|MBCMax.ae|ae||
@@ -477,19 +477,19 @@
 |<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqT4x4ErWJn8ZyqTcGptBgX78IUaxmP88d5Gn-NR680nQ5RGeQqw-K1uFDQr8&amp;s" width="100" height="50">|RTLPlus.de|de||
 |<img src="https://focus.telerama.fr/500x500/0000/00/01/clear-13.png" width="100" height="50">|ARD.de|de||
 |<img src="https://www.programme-tv.net/imgre/fit/~2~channel~fffe0c5691f06330.png/480x480/quality/100/pro7.png" width="100" height="50">|ProSieben.de|de||
-|<img src="https://media0106.elcinema.com/tvguide/1358_1.png" width="100" height="50">|RotanaAflam.eg|eg||
+|<img src="https://media0106.elcinema.com/tvguide/1358_1.png" width="100" height="50">|~~RotanaAflam.eg~~|eg||
 |<img src="https://media0106.elcinema.com/tvguide/1278_1.png" width="100" height="50">|MBCMasr2En.eg|eg||
 |<img src="https://media0106.elcinema.com/tvguide/1137_1.png" width="100" height="50">|AlHayat.eg|eg||
 |<img src="https://media0106.elcinema.com/tvguide/1239_1.png" width="100" height="50">|MBCEgyptAr.eg|eg||
 |<img src="https://media0106.elcinema.com/tvguide/1156_1.png" width="100" height="50">|~~NileDrama.eg~~|eg||
-|<img src="https://media0106.elcinema.com/tvguide/1159_1.png" width="100" height="50">|NileLife.eg|eg||
+|<img src="https://media0106.elcinema.com/tvguide/1159_1.png" width="100" height="50">|~~NileLife.eg~~|eg||
 |<img src="https://media0106.elcinema.com/tvguide/1223_1.png" width="100" height="50">|AlNaharDrama.eg|eg||
 |<img src="https://media0106.elcinema.com/tvguide/1193_1.png" width="100" height="50">|AlNaharOne.eg|eg||
-|<img src="https://media0106.elcinema.com/tvguide/1149_1.png" width="100" height="50">|RotanaKhalijiah.eg|eg||
+|<img src="https://media0106.elcinema.com/tvguide/1149_1.png" width="100" height="50">|~~RotanaKhalijiah.eg~~|eg||
 |<img src="https://media0106.elcinema.com/tvguide/1198_1.png" width="100" height="50">|CBC.eg|eg||
 |<img src="https://media0106.elcinema.com/tvguide/1199_1.png" width="100" height="50">|CBCDrama.eg|eg||
-|<img src="https://media0106.elcinema.com/tvguide/1217_1.png" width="100" height="50">|RotanaClassic.eg|eg||
-|<img src="https://media0106.elcinema.com/tvguide/1289_1.png" width="100" height="50">|RotanaCinema.eg|eg||
+|<img src="https://media0106.elcinema.com/tvguide/1217_1.png" width="100" height="50">|~~RotanaClassic.eg~~|eg||
+|<img src="https://media0106.elcinema.com/tvguide/1289_1.png" width="100" height="50">|~~RotanaCinema.eg~~|eg||
 |<img src="https://media0106.elcinema.com/tvguide/1252_1.png" width="100" height="50">|AlKaheraWalNas.eg|eg||
 |<img src="https://media0106.elcinema.com/tvguide/1278_1.png" width="100" height="50">|MbcMasr2.eg|eg||
 |<img src="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/RealMadridTV100x100couleur.png" width="100" height="50">|RealMadridTV.es|es||
@@ -961,7 +961,7 @@
 |<img src="https://iptv-epg.org/images/4aScdWcLSUe06g4k0FwYlegAZr8hgVUufqdJUbK1PKC7NIyuuDMnK1x8ikLf-9H7TeLaB-MIZuxaDuRt1_r82OLAaRbNNf901DwN1JpZVfc" width="100" height="50">|~~Auxerre.fr~~|fr||
 |<img src="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/NEUFBFMNICECOTEDAZUR100x100.png" width="100" height="50">|AzurTV.fr|fr||
 |<img src="https://iptv-epg.org/images/3pgX6C78eWLxG9tqPu3cVw-OYCuufRNBMcIEbQddJ0ivLKykRk82Ni3iNGu6tcH4noQZn7BkxazA6fcuyc5TO0eEQgeYOXYRguFeoV4wt9sXownqimftX0Y" width="100" height="50">|BBCENTERTAINMENT.fr|fr||
-|<img src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3200001NQ_20260505T035829SQUARE.png" width="100" height="50">|~~BBCEarth.fr~~|fr||
+|<img src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3200001NQ_20260505T035829SQUARE.png" width="100" height="50">|BBCEarth.fr|fr||
 |<img src="https://iptv-epg.org/images/JFGpvQIKBoAjSq4mpzYpZoJh6wz_XTRaWE-wm7am5LIsWLZ6mROe1vSDKEkDnSNYPi4c04BtRyOl1LfTBDq_0HkRPCApkyV--dgGx0_9Uak2-TZqvw" width="100" height="50">|~~BBCWorldNews.fr~~|fr||
 |<img src="https://iptv-epg.org/images/fDGESKjvIy0eWnT4zhx8q-pEqU_wcDRw8wRL6FRUSEDQKu9ikxQIV7bF5o6vvuhSxoNov7UPtYQU8uALxAEYSrh3Bn2sP9BdkD-UeWBUTG6IFaz0vg" width="100" height="50">|~~BBLACKAFRICA.fr~~|fr||
 |<img src="https://iptv-epg.org/images/gldDXQa3YwByq371cZyLlyQbXE0cVJpn0wG1s4P_1fh96ol6tgbTbhLsAbelKQVWUHndTG-MjnfNDf6vzHLVNHEVC5GFF9ABNp-CRx8FMUqkiHZDRP0oiQ" width="100" height="50">|~~BBLACKCARIBBEAN.fr~~|fr||
@@ -1309,11 +1309,11 @@
 |<img src="https://media0106.elcinema.com/tvguide/1340_1.png" width="100" height="50">|MBCIraqEn.iq|iq||
 |<img src="https://media0106.elcinema.com/tvguide/1314_1.png" width="100" height="50">|JordanTV.jo|jo||
 |<img src="https://media0106.elcinema.com/tvguide/1299_1.png" width="100" height="50">|AlRoyaTV.jo|jo||
-|<img src="https://media0106.elcinema.com/tvguide/1168_1.png" width="100" height="50">|LBCInternational.lb|lb||
-|<img src="https://media0106.elcinema.com/tvguide/1246_1.png" width="100" height="50">|LDC.lb|lb||
-|<img src="https://media0106.elcinema.com/tvguide/1341_1.png" width="100" height="50">|LBC.lb|lb||
+|<img src="https://media0106.elcinema.com/tvguide/1168_1.png" width="100" height="50">|~~LBCInternational.lb~~|lb||
+|<img src="https://media0106.elcinema.com/tvguide/1246_1.png" width="100" height="50">|~~LDC.lb~~|lb||
+|<img src="https://media0106.elcinema.com/tvguide/1341_1.png" width="100" height="50">|~~LBC.lb~~|lb||
 |<img src="" width="100" height="50">|~~Assadissa.ma~~|ma||
-|<img src="https://media0106.elcinema.com/tvguide/1312_1.png" width="100" height="50">|AlAoula.ma|ma||
+|<img src="https://media0106.elcinema.com/tvguide/1312_1.png" width="100" height="50">|~~AlAoula.ma~~|ma||
 |<img src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Logo_BFM_TV_%282019%29.png" width="100" height="50">|BRFTV.ne|ne||
 |<img src="https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_Q_color.png" width="100" height="50">|CanalQ.pt|pt||
 |<img src="https://static-cdn.tv.sfr.net/data/logos/tv_services/A_BOLA_TV_color.png" width="100" height="50">|ABOLATV.pt|pt||
@@ -1357,7 +1357,7 @@
 |<img src="https://media0106.elcinema.com/tvguide/1259_1.png" width="100" height="50">|MBCBollywood.sa|sa||
 |<img src="https://media0106.elcinema.com/tvguide/1130_1.png" width="100" height="50">|MBCActionEn.sa|sa||
 |<img src="https://media0106.elcinema.com/tvguide/1130_1.png" width="100" height="50">|MBCAction.sa|sa||
-|<img src="https://media0106.elcinema.com/tvguide/1212_1.png" width="100" height="50">|StarMovies.sa|sa||
+|<img src="https://media0106.elcinema.com/tvguide/1212_1.png" width="100" height="50">|~~StarMovies.sa~~|sa||
 |<img src="https://thumb.canalplus.pro/http/unsafe/640x480/filters:quality(100)/canalplus-cdn.canal-plus.io/p1/channel/180666/canal-ouah/CHN43FB/RTS2_myCANAL_640x480-0?=.png" width="100" height="50">|RTS2.sn|sn||
 |<img src="https://thumb.canalplus.pro/http/unsafe/640x480/filters:quality(100)/canalplus-cdn.canal-plus.io/p1/channel/180377/canal-ouah/CHN43FB/SENTV_640x480-J11I?=.png" width="100" height="50">|SENTV.sn|sn||
 |<img src="https://thumb.canalplus.pro/http/unsafe/640x480/filters:quality(100)/canalplus-cdn.canal-plus.io/p1/channel/180076/canal-ouah/CHN43FB/RTS1_myCANAL_640x480?=.png" width="100" height="50">|RTS.sn|sn||
