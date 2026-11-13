@@ -4,7 +4,7 @@
 [![grab](https://github.com/Fazzani/grab/actions/workflows/grab.yml/badge.svg)](https://github.com/Fazzani/grab/actions/workflows/grab.yml)
 
 ![Channel count](https://img.shields.io/static/v1?style=for-the-badge&label=channel%20count&message=1361&color=9cf&cacheSeconds=3600)
-![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=63.63%&color=yellow&cacheSeconds=3600)
+![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=63.85%&color=yellow&cacheSeconds=3600)
 
 ## Available epg
 
@@ -548,7 +548,7 @@
 |<img src="https://iptv-epg.org/images/Zbc839t4emay4DP_Y2VVTdhThotwGW4ueNQyI36LfkEoCpz1fuUyv0FGnFjzUVJraOI8iVXViyEsVcOGGm_TlnLypIgHXWkahaNpaD9x04v8jby6-Pm7U0Y" width="100" height="50">|ParamountChannel.fr|fr||
 |<img src="https://iptv-epg.org/images/X1aXtZpVs2ElPa-Po0o5tyypctfu7nHNSR9uluhEf8e5cKPep2-iw84vabRhUdQLTIg436GUh0wWO0xGvxjTh9EjlYk3m6Bu3SjdBgFOXJMJ" width="100" height="50">|~~POLAR+.fr~~|fr||
 |<img src="https://www.programme-tv.net/imgre/fit/~2~channel~a17e094d24ee1484.png/480x480/quality/100/planete-crime-investigation.png" width="100" height="50">|PLANETEJustice.fr|fr||
-|<img src="https://iptv-epg.org/images/usefcnpPMVAe6MMYGQFVqOcozZ1fb8CaOwr47vCIxfMTvzWY6cQe1BITrK0cd7ynKY3sZpZYMHFP-IUeu44T-VjdwQaONlaSpybQEe00oyoSxRYg1SDMxA" width="100" height="50">|~~PLANETE+CRIME.fr~~|fr||
+|<img src="https://iptv-epg.org/images/usefcnpPMVAe6MMYGQFVqOcozZ1fb8CaOwr47vCIxfMTvzWY6cQe1BITrK0cd7ynKY3sZpZYMHFP-IUeu44T-VjdwQaONlaSpybQEe00oyoSxRYg1SDMxA" width="100" height="50">|PLANETE+CRIME.fr|fr||
 |<img src="https://iptv-epg.org/images/3Wq37ufoniH0DfMtC_evzErIUcA-uikWbtVTRmOvOlWhi75bDEcre1Dnr1eVqWkGDWGUfGvy4-LPg6ZnSYPgWnzX3zRqYBkbZfsPRGe4lnDynE7DU4lkhQ" width="100" height="50">|~~PLANETE+AandE.fr~~|fr||
 |<img src="https://iptv-epg.org/images/syEa5lbhg7MxEnOAYjn16cjrojtwKOvEK0qXufiBv80yhn0WM6PC9YUtfTtE0rWnBqW8_XsKBgujdNeR3nTkNShBUzpa34e-YTMEtDYLgMoZx1QNw2HjaMt2gA" width="100" height="50">|~~PLANETE+AVENTURE.fr~~|fr||
 |<img src="https://www.programme-tv.net/imgre/fit/~2~channel~c35f8535cf204eb6.png/480x480/quality/100/piwi.png" width="100" height="50">|PIWI.fr|fr||
@@ -578,8 +578,8 @@
 |<img src="https://iptv-epg.org/images/dah57WCIc2iSq0twPbu07hA2JpsQZS1Mce0Ibzz8edEd_M9tQNS_f6I4oM9nSvdsn9h2pDu0CtQMipx2IgguctPnuUYQ76L4mLASBIEhD8w" width="100" height="50">|TVTours.fr|fr||
 |<img src="https://iptv-epg.org/images/_OVrg9-odJxoqDRxmBTHHKEncrIPa96kcVZioZD2tYJxd5pqSwHUuqLbPvXo_ZvT6RukAGzHoGiTeVgVOBujOocQ38DInIx_3mir_oLfBZgv" width="100" height="50">|TVVendee.fr|fr||
 |<img src="https://www.programme-tv.net/imgre/fit/~2~channel~4f89934309c38843.png/480x480/quality/100/tntv-france.png" width="100" height="50">|TahitiNuiTV.fr|fr||
-|<img src="https://upload.wikimedia.org/wikipedia/fr/2/20/T%C3%A9b%C3%A9Sud_logo_2013.png" width="100" height="50">|~~TebeSud.fr~~|fr||
-|<img src="https://www.programme-tv.net/imgre/fit/~2~channel~1a03f02780399e00.png/480x480/quality/100/tebeo.png" width="100" height="50">|~~Tebeo.fr~~|fr||
+|<img src="https://upload.wikimedia.org/wikipedia/fr/2/20/T%C3%A9b%C3%A9Sud_logo_2013.png" width="100" height="50">|TebeSud.fr|fr||
+|<img src="https://www.programme-tv.net/imgre/fit/~2~channel~1a03f02780399e00.png/480x480/quality/100/tebeo.png" width="100" height="50">|Tebeo.fr|fr||
 |<img src="https://static-cdn.tv.sfr.net/data/logos/tv_services/Tele_Bocal_color.png" width="100" height="50">|TeleBocal.fr|fr||
 |<img src="https://iptv-epg.org/images/P3AChyCFZkLfqNEh_nS2Oj0PgxKw3CVEeD1vUPfE6oAuj8Df23rkTkZNX5XntCoep2vzIzupAm4UjEvY47KsKkfzX5Q2bNy-SbrFW4EY-pb4LMmJrA" width="100" height="50">|~~TeleGrenoble.fr~~|fr||
 |<img src="https://www.programme-tv.net/imgre/fit/~2~channel~a9c6360b76772dd2.png/480x480/quality/100/tele-grenoble-isere.png" width="100" height="50">|TeleGrenobleIsere.fr|fr||
