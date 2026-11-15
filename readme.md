@@ -4,7 +4,7 @@
 [![grab](https://github.com/Fazzani/grab/actions/workflows/grab.yml/badge.svg)](https://github.com/Fazzani/grab/actions/workflows/grab.yml)
 
 ![Channel count](https://img.shields.io/static/v1?style=for-the-badge&label=channel%20count&message=1361&color=9cf&cacheSeconds=3600)
-![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=63.85%&color=yellow&cacheSeconds=3600)
+![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=61.50%&color=yellow&cacheSeconds=3600)
 
 ## Available epg
 
@@ -82,21 +82,21 @@
 |<img src="https://media0106.elcinema.com/tvguide/1174_1.png" width="100" height="50">|~~Al Kahera Wal Nas TV~~|||
 |<img src="https://media0106.elcinema.com/tvguide/1312_1.png" width="100" height="50">|~~Al Aoula Morocco~~|||
 |<img src="https://media0106.elcinema.com/tvguide/1264_1.png" width="100" height="50">|~~Al Dafrah~~|||
-|<img src="" width="100" height="50">|9ABD32F9-C6D9-4DD5-B936-2C7E6546292E|||
-|<img src="" width="100" height="50">|93000494-0DF8-4107-AF0E-1C99D3DBB2EC|||
+|<img src="" width="100" height="50">|~~9ABD32F9-C6D9-4DD5-B936-2C7E6546292E~~|||
+|<img src="" width="100" height="50">|~~93000494-0DF8-4107-AF0E-1C99D3DBB2EC~~|||
 |<img src="https://media0106.elcinema.com/tvguide/1145_1.png" width="100" height="50">|~~Mehwar~~|||
-|<img src="" width="100" height="50">|8C1EC4FC-35E6-4866-A75D-37FCFAE18839|||
-|<img src="" width="100" height="50">|846C79D6-18F8-4A4D-ACFA-2C18DCCB6398|||
+|<img src="" width="100" height="50">|~~8C1EC4FC-35E6-4866-A75D-37FCFAE18839~~|||
+|<img src="" width="100" height="50">|~~846C79D6-18F8-4A4D-ACFA-2C18DCCB6398~~|||
 |<img src="https://media0106.elcinema.com/tvguide/1135_1.png" width="100" height="50">|~~Emirates~~|||
 |<img src="https://media0106.elcinema.com/tvguide/1217_1.png" width="100" height="50">|~~Rotana Classic~~|||
 |<img src="https://media0106.elcinema.com/tvguide/1148_1.png" width="100" height="50">|~~Rotana Cinema Masr~~|||
-|<img src="" width="100" height="50">|7A8040D9-7BAF-477E-B9F7-8BAB88F677E8|||
+|<img src="" width="100" height="50">|~~7A8040D9-7BAF-477E-B9F7-8BAB88F677E8~~|||
 |<img src="https://media0106.elcinema.com/tvguide/1289_1.png" width="100" height="50">|~~Rotana Cinema~~|||
 |<img src="https://media0106.elcinema.com/tvguide/1199_1.png" width="100" height="50">|~~CBC Drama~~|||
 |<img src="https://media0106.elcinema.com/tvguide/1358_1.png" width="100" height="50">|~~Rotana Comedy~~|||
 |<img src="https://media0106.elcinema.com/tvguide/1198_1.png" width="100" height="50">|~~CBC~~|||
-|<img src="" width="100" height="50">|522050CE-EBD3-43EA-B636-42B034FDC05C|||
-|<img src="" width="100" height="50">|51D28C47-7B79-4007-81A3-BFDF9BC65A3B|||
+|<img src="" width="100" height="50">|~~522050CE-EBD3-43EA-B636-42B034FDC05C~~|||
+|<img src="" width="100" height="50">|~~51D28C47-7B79-4007-81A3-BFDF9BC65A3B~~|||
 |<img src="" width="100" height="50">|~~42680C3C-580F-43DA-BDD8-02651BD10F32~~|||
 |<img src="https://media0106.elcinema.com/tvguide/1374_1.png" width="100" height="50">|~~Hadhramaut TV~~|||
 |<img src="https://media0106.elcinema.com/tvguide/1280_1.png" width="100" height="50">|~~TeN TV~~|||
@@ -104,12 +104,12 @@
 |<img src="https://media0106.elcinema.com/tvguide/1159_1.png" width="100" height="50">|~~Nile Life~~|||
 |<img src="" width="100" height="50">|~~2BF668DF-1B76-4199-88CE-8691FD86AD8C~~|||
 |<img src="https://media0106.elcinema.com/tvguide/1373_1.png" width="100" height="50">|~~Mix ONE~~|||
-|<img src="" width="100" height="50">|1752F091-A114-4629-BED4-46E0BB488A24|||
+|<img src="" width="100" height="50">|~~1752F091-A114-4629-BED4-46E0BB488A24~~|||
 |<img src="https://media0106.elcinema.com/tvguide/1371_1.png" width="100" height="50">|~~Mix Bel Araby~~|||
 |<img src="https://media0106.elcinema.com/tvguide/1355_1.png" width="100" height="50">|~~Mix~~|||
-|<img src="" width="100" height="50">|5C08D9D3-C713-4F1F-947E-87C761428B9B|||
+|<img src="" width="100" height="50">|~~5C08D9D3-C713-4F1F-947E-87C761428B9B~~|||
 |<img src="https://media0106.elcinema.com/tvguide/1147_1.png" width="100" height="50">|~~Rotana Drama~~|||
-|<img src="" width="100" height="50">|9B969275-E59C-4DD1-8FCA-8B01EAE04909|||
+|<img src="" width="100" height="50">|~~9B969275-E59C-4DD1-8FCA-8B01EAE04909~~|||
 |<img src="https://media0106.elcinema.com/tvguide/1302_1.png" width="100" height="50">|~~Fujairah~~|||
 |<img src="https://media0106.elcinema.com/tvguide/1177_1.png" width="100" height="50">|~~Sama Dubai~~|||
 |<img src="https://iptv-epg.org/images/H9jHH7z-fT9k3tXqejNq0Jau97aD0ZNNnKVutcIwkWaggty6u-a5fCjypQSsigpt-wU-tvPmqExLParBrxeRuT9dD1QWWkoeJHwU24pRiMF72twR" width="100" height="50">|FranceTVSeries|||
@@ -126,9 +126,9 @@
 |<img src="https://media0106.elcinema.com/tvguide/1241_1.png" width="100" height="50">|~~MBC 3~~|||
 |<img src="https://media0106.elcinema.com/tvguide/1203_1.png" width="100" height="50">|~~ON E~~|||
 |<img src="https://media0106.elcinema.com/tvguide/1309_1.png" width="100" height="50">|~~beIN Drama~~|||
-|<img src="" width="100" height="50">|CDF1A4C8-26DD-4C33-A239-F729A3B09295|||
+|<img src="" width="100" height="50">|~~CDF1A4C8-26DD-4C33-A239-F729A3B09295~~|||
 |<img src="https://media0106.elcinema.com/tvguide/1127_1.png" width="100" height="50">|~~MBC~~|||
-|<img src="" width="100" height="50">|CD634732-20D1-4137-94E7-939DE93D056D|||
+|<img src="" width="100" height="50">|~~CD634732-20D1-4137-94E7-939DE93D056D~~|||
 |<img src="https://media0106.elcinema.com/tvguide/1327_1.png" width="100" height="50">|~~BeIn Series HD 1~~|||
 |<img src="https://media0106.elcinema.com/tvguide/1169_1.png" width="100" height="50">|~~Dubai TV~~|||
 |<img src="https://media0106.elcinema.com/tvguide/1283_1.png" width="100" height="50">|~~Dubai Zaman~~|||
@@ -961,7 +961,7 @@
 |<img src="https://iptv-epg.org/images/4aScdWcLSUe06g4k0FwYlegAZr8hgVUufqdJUbK1PKC7NIyuuDMnK1x8ikLf-9H7TeLaB-MIZuxaDuRt1_r82OLAaRbNNf901DwN1JpZVfc" width="100" height="50">|~~Auxerre.fr~~|fr||
 |<img src="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/NEUFBFMNICECOTEDAZUR100x100.png" width="100" height="50">|AzurTV.fr|fr||
 |<img src="https://iptv-epg.org/images/3pgX6C78eWLxG9tqPu3cVw-OYCuufRNBMcIEbQddJ0ivLKykRk82Ni3iNGu6tcH4noQZn7BkxazA6fcuyc5TO0eEQgeYOXYRguFeoV4wt9sXownqimftX0Y" width="100" height="50">|BBCENTERTAINMENT.fr|fr||
-|<img src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3200001NQ_20260505T035829SQUARE.png" width="100" height="50">|BBCEarth.fr|fr||
+|<img src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3200001NQ_20260505T035829SQUARE.png" width="100" height="50">|~~BBCEarth.fr~~|fr||
 |<img src="https://iptv-epg.org/images/JFGpvQIKBoAjSq4mpzYpZoJh6wz_XTRaWE-wm7am5LIsWLZ6mROe1vSDKEkDnSNYPi4c04BtRyOl1LfTBDq_0HkRPCApkyV--dgGx0_9Uak2-TZqvw" width="100" height="50">|~~BBCWorldNews.fr~~|fr||
 |<img src="https://iptv-epg.org/images/fDGESKjvIy0eWnT4zhx8q-pEqU_wcDRw8wRL6FRUSEDQKu9ikxQIV7bF5o6vvuhSxoNov7UPtYQU8uALxAEYSrh3Bn2sP9BdkD-UeWBUTG6IFaz0vg" width="100" height="50">|~~BBLACKAFRICA.fr~~|fr||
 |<img src="https://iptv-epg.org/images/gldDXQa3YwByq371cZyLlyQbXE0cVJpn0wG1s4P_1fh96ol6tgbTbhLsAbelKQVWUHndTG-MjnfNDf6vzHLVNHEVC5GFF9ABNp-CRx8FMUqkiHZDRP0oiQ" width="100" height="50">|~~BBLACKCARIBBEAN.fr~~|fr||
@@ -1326,30 +1326,30 @@
 |<img src="https://media0106.elcinema.com/tvguide/1309_1.png" width="100" height="50">|~~Drama.qa~~|qa||
 |<img src="https://media0106.elcinema.com/tvguide/1322_1.png" width="100" height="50">|~~beINMovies1.qa~~|qa||
 |<img src="https://media0106.elcinema.com/tvguide/1325_1.png" width="100" height="50">|~~beINMovies4.qa~~|qa||
-|<img src="https://i.imgur.com/L6TvXAi.png" width="100" height="50">|beINSportsMax5.qa@MENA|qa@MENA||
-|<img src="https://i.imgur.com/j7osMfM.png" width="100" height="50">|beINSportsMax4.qa@MENA|qa@MENA||
-|<img src="https://i.imgur.com/GHZHRPF.png" width="100" height="50">|beINSportsMax6.qa@MENA|qa@MENA||
-|<img src="https://i.imgur.com/ThcM2LE.png" width="100" height="50">|beINSportsMax3.qa@MENA|qa@MENA||
-|<img src="https://i.imgur.com/5dBc5rn.png" width="100" height="50">|beINSportsMax2.qa@MENA|qa@MENA||
-|<img src="https://i.imgur.com/iODFwZi.png" width="100" height="50">|beINSports7.qa@MENA|qa@MENA||
-|<img src="https://i.imgur.com/vUJZSvs.png" width="100" height="50">|beINSports2.qa@MENA|qa@MENA||
-|<img src="https://i.imgur.com/FjWQjdy.png" width="100" height="50">|beINSportsMax1.qa@MENA|qa@MENA||
-|<img src="https://i.imgur.com/RLrMBlm.png" width="100" height="50">|beINSports.qa@MENA|qa@MENA||
-|<img src="https://i.imgur.com/UYSMao3.png" width="100" height="50">|beINSports3.qa@MENA|qa@MENA||
-|<img src="https://i.imgur.com/vwAgJNi.png" width="100" height="50">|beINSports4.qa@MENA|qa@MENA||
-|<img src="https://i.imgur.com/2Rha5aY.png" width="100" height="50">|beINSports5.qa@MENA|qa@MENA||
-|<img src="https://i.imgur.com/CaFEyVn.png" width="100" height="50">|beINSports8.qa@MENA|qa@MENA||
-|<img src="https://i.imgur.com/0wBdLYb.png" width="100" height="50">|beINSports6.qa@MENA|qa@MENA||
-|<img src="https://i.imgur.com/Vtk2cGI.png" width="100" height="50">|beINSports1.qa@MENA|qa@MENA||
+|<img src="https://i.imgur.com/L6TvXAi.png" width="100" height="50">|~~beINSportsMax5.qa@MENA~~|qa@MENA||
+|<img src="https://i.imgur.com/j7osMfM.png" width="100" height="50">|~~beINSportsMax4.qa@MENA~~|qa@MENA||
+|<img src="https://i.imgur.com/GHZHRPF.png" width="100" height="50">|~~beINSportsMax6.qa@MENA~~|qa@MENA||
+|<img src="https://i.imgur.com/ThcM2LE.png" width="100" height="50">|~~beINSportsMax3.qa@MENA~~|qa@MENA||
+|<img src="https://i.imgur.com/5dBc5rn.png" width="100" height="50">|~~beINSportsMax2.qa@MENA~~|qa@MENA||
+|<img src="https://i.imgur.com/iODFwZi.png" width="100" height="50">|~~beINSports7.qa@MENA~~|qa@MENA||
+|<img src="https://i.imgur.com/vUJZSvs.png" width="100" height="50">|~~beINSports2.qa@MENA~~|qa@MENA||
+|<img src="https://i.imgur.com/FjWQjdy.png" width="100" height="50">|~~beINSportsMax1.qa@MENA~~|qa@MENA||
+|<img src="https://i.imgur.com/RLrMBlm.png" width="100" height="50">|~~beINSports.qa@MENA~~|qa@MENA||
+|<img src="https://i.imgur.com/UYSMao3.png" width="100" height="50">|~~beINSports3.qa@MENA~~|qa@MENA||
+|<img src="https://i.imgur.com/vwAgJNi.png" width="100" height="50">|~~beINSports4.qa@MENA~~|qa@MENA||
+|<img src="https://i.imgur.com/2Rha5aY.png" width="100" height="50">|~~beINSports5.qa@MENA~~|qa@MENA||
+|<img src="https://i.imgur.com/CaFEyVn.png" width="100" height="50">|~~beINSports8.qa@MENA~~|qa@MENA||
+|<img src="https://i.imgur.com/0wBdLYb.png" width="100" height="50">|~~beINSports6.qa@MENA~~|qa@MENA||
+|<img src="https://i.imgur.com/Vtk2cGI.png" width="100" height="50">|~~beINSports1.qa@MENA~~|qa@MENA||
 |<img src="https://i.imgur.com/ruRe9oj.png" width="100" height="50">|~~beINSportsAFC3.qa@SD~~|qa@SD||
 |<img src="https://i.imgur.com/WITLbxq.png" width="100" height="50">|~~beINSportsAFC2.qa@SD~~|qa@SD||
 |<img src="https://i.imgur.com/nk3JCpg.png" width="100" height="50">|~~beINSportsAFC1.qa@SD~~|qa@SD||
 |<img src="https://i.imgur.com/HOj98bH.png" width="100" height="50">|~~beINSportsAFC.qa@SD~~|qa@SD||
 |<img src="https://i.imgur.com/QmSc6kh.png" width="100" height="50">|~~beINSportsNBA.qa@SD~~|qa@SD||
-|<img src="https://i.imgur.com/ZNjQzR5.png" width="100" height="50">|beINSportsNews.qa@SD|qa@SD||
-|<img src="https://i.imgur.com/TTxh9tZ.png" width="100" height="50">|beIN4K.qa@SD|qa@SD||
-|<img src="https://i.imgur.com/O9lTxQA.png" width="100" height="50">|beINSportsXtra1.qa@SD|qa@SD||
-|<img src="https://i.imgur.com/08Y2CW1.png" width="100" height="50">|beINSportsXtra2.qa@SD|qa@SD||
+|<img src="https://i.imgur.com/ZNjQzR5.png" width="100" height="50">|~~beINSportsNews.qa@SD~~|qa@SD||
+|<img src="https://i.imgur.com/TTxh9tZ.png" width="100" height="50">|~~beIN4K.qa@SD~~|qa@SD||
+|<img src="https://i.imgur.com/O9lTxQA.png" width="100" height="50">|~~beINSportsXtra1.qa@SD~~|qa@SD||
+|<img src="https://i.imgur.com/08Y2CW1.png" width="100" height="50">|~~beINSportsXtra2.qa@SD~~|qa@SD||
 |<img src="https://media0106.elcinema.com/tvguide/1129_1.png" width="100" height="50">|~~MBC4.sa~~|sa||
 |<img src="https://media0106.elcinema.com/tvguide/1352_1.png" width="100" height="50">|~~Saudi1.sa~~|sa||
 |<img src="https://media0106.elcinema.com/tvguide/1317_1.png" width="100" height="50">|~~OmanTV.sa~~|sa||
