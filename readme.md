@@ -4,7 +4,7 @@
 [![grab](https://github.com/Fazzani/grab/actions/workflows/grab.yml/badge.svg)](https://github.com/Fazzani/grab/actions/workflows/grab.yml)
 
 ![Channel count](https://img.shields.io/static/v1?style=for-the-badge&label=channel%20count&message=1358&color=9cf&cacheSeconds=3600)
-![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=63.84%&color=yellow&cacheSeconds=3600)
+![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=63.77%&color=yellow&cacheSeconds=3600)
 
 ## Available epg
 
@@ -1176,7 +1176,7 @@
 |<img src="https://fusion.molotov.tv/arts/i/130x39/Ch0SGwoUAoE5TX7gMXomTmBPDW49xAeHWyQSA3BuZw/png" width="100" height="50">|Ligue1Plus8.fr|fr||
 |<img src="https://fusion.molotov.tv/arts/i/130x39/Ch0SGwoUAoE5TX7gMXomTmBPDW49xAeHWyQSA3BuZw/png" width="100" height="50">|Ligue1Plus9.fr|fr||
 |<img src="https://iptv-epg.org/images/ujNJ9rhAEugnpdjWWv-vzmyxKDc83amto2cBifVsDYAwI4ovZ31y-GyiqCN_D8AfUIDH80bVdqDiyGZL1JSgq4547ZDd6al9LfypBzeM" width="100" height="50">|~~Lille.fr~~|fr||
-|<img src="https://iptv-epg.org/images/vXxmirGn1uq_m8u-aZKxgPKfmIqAyBaosUl4vPNhPjYtLr0UzgcLIIC_voihUBzkb9L-ZnoAZ1DgATqXWGzabMIcyBewgjdZJyjLaf3Hjo3pric" width="100" height="50">|LocalVisao.fr|fr||
+|<img src="https://iptv-epg.org/images/vXxmirGn1uq_m8u-aZKxgPKfmIqAyBaosUl4vPNhPjYtLr0UzgcLIIC_voihUBzkb9L-ZnoAZ1DgATqXWGzabMIcyBewgjdZJyjLaf3Hjo3pric" width="100" height="50">|~~LocalVisao.fr~~|fr||
 |<img src="https://iptv-epg.org/images/WNqsQTZqB3kto8ozvOMG_hRWs2ui91Krqv_l2aystOagg-ypn-dmxn1naNuAk34vVUGyOB-9LDhU9DWieTcHQ-oyTiNqtwA-cVVu7Wb5vA3C6A" width="100" height="50">|LuckyJack.fr|fr||
 |<img src="https://iptv-epg.org/images/tfdHjTk18YhSz9wPNYMurtiW7OShYFZHJv3LebzgBdTTPPu5TzSejbO648K-if1Fwlc1i53fKV0o4SNlCc2r0KkYLVdsMheCbol13xgaxg" width="100" height="50">|LuxeTV.fr|fr||
 |<img src="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/lyoncapitaletv1100x100couleur.png" width="100" height="50">|LyonTV.fr|fr||

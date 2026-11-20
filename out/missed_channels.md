@@ -1,7 +1,7 @@
 
 # Missed Channels
 
-![Channel count](https://img.shields.io/static/v1?style=for-the-badge&label=channel%20count&message=491&color=red&cacheSeconds=3600)
+![Channel count](https://img.shields.io/static/v1?style=for-the-badge&label=channel%20count&message=492&color=red&cacheSeconds=3600)
 
 
 |Icon|Channel|Country|Site|
@@ -193,6 +193,7 @@
 |<img src="https://iptv-epg.org/images/NGX0L84G0_o8eYJeYe5WNsf4kYhN0jujUdFOdOzkNSbdtnaFwRmxUJ2fWgn3pRWBRPW9XFo-rhpEPwY92yXj-_seSWiz3jCKlYpibsiBOcbT4NodQ5QMcvWv3tk37NOFDQ" width="100" height="50">|EnquetesCriminelles24_24.fr|fr||
 |<img src="https://iptv-epg.org/images/pGDiqZNoXFceJxXkbA73aeNKMOeiZ83CAP6D3rVV-EIYyphXae_juzpc3esfDS_ROmlENIRFwm9-Ks9jNfT82GTDkuL9S_kTN_aYdeHHHPkSgnq0kcU2" width="100" height="50">|I24NEWSENGLISH.fr|fr||
 |<img src="https://upload.wikimedia.org/wikipedia/fr/d/df/M6_4K.png" width="100" height="50">|M64K.fr|fr||
+|<img src="https://iptv-epg.org/images/vXxmirGn1uq_m8u-aZKxgPKfmIqAyBaosUl4vPNhPjYtLr0UzgcLIIC_voihUBzkb9L-ZnoAZ1DgATqXWGzabMIcyBewgjdZJyjLaf3Hjo3pric" width="100" height="50">|LocalVisao.fr|fr||
 |<img src="https://iptv-epg.org/images/ujNJ9rhAEugnpdjWWv-vzmyxKDc83amto2cBifVsDYAwI4ovZ31y-GyiqCN_D8AfUIDH80bVdqDiyGZL1JSgq4547ZDd6al9LfypBzeM" width="100" height="50">|Lille.fr|fr||
 |<img src="https://iptv-epg.org/images/u-hVJeDgsc4BKmGhQxjfgr5ofIpUAM4yaEydhec0VfxnaiRPtYs3-18s6BFOS2FvmVw1-IlOc5j45fR_Qr9j06nW21tmsjA-P6rCAdOjyNac5g" width="100" height="50">|Ligue1+.fr|fr||
 |<img src="https://iptv-epg.org/images/LDA0l8cq4bw__bT8IAOiXQqG-XZtMJGPP3cenq_xXsr-4tkx1mKPhT3psdKKoCgDSP5HwZJR7a-I8YxWqIndylKsqfLged-Mq6tug-r4Roub9oo" width="100" height="50">|Ligue1+9.fr|fr||
@@ -236,14 +237,14 @@
 |<img src="https://iptv-epg.org/images/egf9i4R7BgWEp4H3nSq5qrSMzpsy4tLFtQK8hS1zRaYlTlxd9Wv2q2K28h5CFKLqMb1VCEbEvPzbWPL6kh5wjEEc6agAsmRTBicllOYycmqM7w" width="100" height="50">|BerbereTV.fr|fr||
 |<img src="https://iptv-epg.org/images/fUbl2u2VwDEPECM5GgL7k25ij1ms2RuXhKr6BUwNdR3C2TBSoEql79ucV1tuBkj2QOgns5RY-oEzVNHq0ewtStBwvgUbLbxwnP5BUBsszmHfuA" width="100" height="50">|BenficaTV.fr|fr||
 |<img src="https://iptv-epg.org/images/nc-rqY_9dKg-ahsUfwRazLw89WFvPkj8RU-20C_PMIsfX6Fx9sadbNpFQsZiLejs1M-GfG2pDeaxBqebCAyBFXS8-Y3Dy0OU62t8H0GHhGVd8uhJfA" width="100" height="50">|BFMTOULONVAR.fr|fr||
+|<img src="" width="100" height="50">|BerbereMusique.ar|ar||
+|<img src="" width="100" height="50">|BerbereJeunesse.ar|ar||
 |<img src="https://iptv-epg.org/images/DXP3VFhCJUVZolRW_zVYHSnw3iqBd3rjb05uc6n25628ehn0rcKQ0RwMaApomjuCElRqXHGsGZF_514kCYB-SvMcr7GFPWTb6h0g9fFgYm1vWtZBE2K90CLjiZ54" width="100" height="50">|BFMMARSEILLEPROVENCE.fr|fr||
 |<img src="https://iptv-epg.org/images/i0E3c5Fx_7EZEAsQZOjgI4qmArJA3Cz9X9nMXKdikSlftHaRDCT9nRh_D7fgQSO7DUpIRB1t_kSQaqUSBd0ihU5Hf4CIWLpY1cAZt3-vZ6U" width="100" height="50">|BFMLyon.fr|fr||
 |<img src="https://iptv-epg.org/images/DZS0htHmL1lppxws-mKPR0XlHgJL7Yo6GYaB2sr6rBV9K0g4jIyfpEs-q4uzIUUNye3RZ6NtWIeI3mTKHK2xXq3ivApLp1UQlWFnVVtYZDNmKbleBmai7zgm8gYZYA" width="100" height="50">|BFMDICIHAUTE-PROVENCE.fr|fr||
 |<img src="https://iptv-epg.org/images/u1_tlu21ezi6ED0oGWSQelAo2jrqEQ9pKT_CS4LVZ5y-PHmI9P0WQJnt52KWEdH2JLxAjWtCWL9P3UGyUfFsujmIbZZVv_a5FU91-P-50TPDQ336fh-4sxya" width="100" height="50">|BFMDICIALPESDUSUD.fr|fr||
 |<img src="https://iptv-epg.org/images/j7aRnm0I9pMIwgue23KlIZb73u5ShOKYx4NGartUsF2khVZC1ul2ZqjsTALSF-YJXEkCFxPrjBV5MXoI7cI32PUIFt2JCyPpMNsgw00s7j6dgw" width="100" height="50">|BFMALSACE.fr|fr||
 |<img src="https://iptv-epg.org/images/gd2fEqgp5TgU4TTH1iscHEp9nrROOIi31ktScJOOS_BukNsAwI-5YHnqov_YOzOVjhARzZd-6U8JheYS0u-PyY1jsHiAynK4kGREkw8A7jbvQbg" width="100" height="50">|BEINMOVIES.fr|fr||
-|<img src="" width="100" height="50">|BerbereMusique.ar|ar||
-|<img src="" width="100" height="50">|BerbereJeunesse.ar|ar||
 |<img src="https://iptv-epg.org/images/y7JcguWAr-BaCpWESyeeRM-PcqJvBKzV6zx3-0XrOgL7euYqbJBD8U38_VQgEbBhKzDmpKz3aECYy44rP6K7whVtmvfrrUgWN0O-SSmDP9Xoz0OYFds" width="100" height="50">|Boomerang+1.fr|fr||
 |<img src="https://iptv-epg.org/images/4H5Rbnc_yiN013HO4MjZ9qtpqBjp1MW555xrH2s2cCVhL-dgtrl_wBTnTcN22QQyHs6bpQCLHrQ_VBmqstdGFu3Vgh2r-j6jYI7K7pltfJNgodOVsgcl" width="100" height="50">|CANAL+LIVE14.fr|fr||
 |<img src="https://iptv-epg.org/images/TMF9c8CGeAETcCFJXLpAK2_p5_sY3SqPBCiKfkZ72sFzfaGVOKwmDmkhb3dp91W4i5QJ_QfijKc9yS6BFGkEeaTwfPOYulmneEazyQsfpH9RAW5xOcE" width="100" height="50">|CANAL+LIVE9.fr|fr||
@@ -428,6 +429,9 @@
 |<img src="https://iptv-epg.org/images/En4TSN5P7aCJ7hjo-30tbLIy-2bANfasUq8uNBiDPgEusIyDUO39mO9qwJGuShhs1laX6Lj1tmQUjjStocPeadhUjUZl4Kq00nrb12uBtPWfp9jckOwo5lSENPsLdfXn" width="100" height="50">|PrimeVideoLigueChannel5.fr|fr||
 |<img src="https://iptv-epg.org/images/G--z7vq4xJy4mxuv_3eES11UkIWr41fXeEQYl8acjVNFFSKCj24FLW_V_tOuotihP7mcWyT2HVXc9MG-k8VmKShdB2x7evLrYyyE_D9yTif9FmdtKC_af0mWRckqo4vq" width="100" height="50">|PrimeVideoLigueChannel3.fr|fr||
 |<img src="https://iptv-epg.org/images/uBNSkQ3x1O4pyeeJe8lgMAV00cn1kbRuUo6psFrAZZ7q2q9goQrYgX3mzk1lMnIrwhfHQ9k8ZNrMaiWtvSphpCnZhqCqQJuYFHb2zZsj12OVLQ" width="100" height="50">|OlympiaTV.fr|fr||
+|<img src="" width="100" height="50">|Phoenix.de|de||
+|<img src="" width="100" height="50">|DW.de|de||
+|<img src="" width="100" height="50">|ChinaMovieChannel.cn|cn||
 |<img src="https://iptv-epg.org/images/fJTKuPyOE2pkww46NeBT6CrKerP7Umsa4Q8B8On9u7znYp9RoIp3O_mgYjq4xv8y7N50gWJJoy6hqWtMOku4-Lt-bC65nxsohmE_sIJjIKBnL1-LgcPO5HSarQyD5gd2" width="100" height="50">|PrimeVideoLigueChannel2.fr|fr||
 |<img src="" width="100" height="50">|OM5TV.fr|fr||
 |<img src="https://iptv-epg.org/images/eYSmEFXNog6ThtTxGcSQFvjRkbLI4WEM2PhEbMjMXADap8r132KHhySuVh5fjtczS_yj1icth5E9lKBjpLtHsOPL4ujpUwladuBthMI" width="100" height="50">|ORTB.fr|fr||
@@ -435,9 +439,6 @@
 |<img src="https://iptv-epg.org/images/hQxg0czgRjUjgq7btPvfz3A1PNa7jc8GDHYlFz55eh1VsSoptJ7DRaZ8k71oXdKG-4ZM-M9U-w3HJ1yFwYGeaS9zz6Vm29X1qBv_bTy81VxpXM2DNnqblJHR" width="100" height="50">|OlympiqueLyonnais.fr|fr||
 |<img src="https://iptv-epg.org/images/5trQKwA8F0B7nKa-e2o6QNzZs-yJWNB6sc7eFj-y00N5DIub58LUpZY2fD_9so2SyLTNIUhHNfN06wcGdEvNgDXjeCjZzUmJcnrO8pUyUoUcAj7HgMmNVTUJSQ" width="100" height="50">|OlympiqueMarseille.fr|fr||
 |<img src="https://iptv-epg.org/images/XBVLvpGFXJIhe6z7Tx2yKmaKxNzJ6RVjOvkMhmsi_rW3PxqhKhTESEHsZndho19_wugBj5dNFa_qpW_-ucM0CTCP0cOT7oPW-EsfXKLXNnA" width="100" height="50">|PIWI+.fr|fr||
-|<img src="" width="100" height="50">|Phoenix.de|de||
-|<img src="" width="100" height="50">|DW.de|de||
-|<img src="" width="100" height="50">|ChinaMovieChannel.cn|cn||
 |<img src="https://iptv-epg.org/images/syEa5lbhg7MxEnOAYjn16cjrojtwKOvEK0qXufiBv80yhn0WM6PC9YUtfTtE0rWnBqW8_XsKBgujdNeR3nTkNShBUzpa34e-YTMEtDYLgMoZx1QNw2HjaMt2gA" width="100" height="50">|PLANETE+AVENTURE.fr|fr||
 |<img src="https://iptv-epg.org/images/3Wq37ufoniH0DfMtC_evzErIUcA-uikWbtVTRmOvOlWhi75bDEcre1Dnr1eVqWkGDWGUfGvy4-LPg6ZnSYPgWnzX3zRqYBkbZfsPRGe4lnDynE7DU4lkhQ" width="100" height="50">|PLANETE+AandE.fr|fr||
 |<img src="https://iptv-epg.org/images/usefcnpPMVAe6MMYGQFVqOcozZ1fb8CaOwr47vCIxfMTvzWY6cQe1BITrK0cd7ynKY3sZpZYMHFP-IUeu44T-VjdwQaONlaSpybQEe00oyoSxRYg1SDMxA" width="100" height="50">|PLANETE+CRIME.fr|fr||
