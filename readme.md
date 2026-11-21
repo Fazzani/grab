@@ -4,7 +4,7 @@
 [![grab](https://github.com/Fazzani/grab/actions/workflows/grab.yml/badge.svg)](https://github.com/Fazzani/grab/actions/workflows/grab.yml)
 
 ![Channel count](https://img.shields.io/static/v1?style=for-the-badge&label=channel%20count&message=1358&color=9cf&cacheSeconds=3600)
-![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=63.77%&color=yellow&cacheSeconds=3600)
+![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=63.92%&color=yellow&cacheSeconds=3600)
 
 ## Available epg
 
@@ -577,8 +577,8 @@
 |<img src="https://iptv-epg.org/images/dah57WCIc2iSq0twPbu07hA2JpsQZS1Mce0Ibzz8edEd_M9tQNS_f6I4oM9nSvdsn9h2pDu0CtQMipx2IgguctPnuUYQ76L4mLASBIEhD8w" width="100" height="50">|TVTours.fr|fr||
 |<img src="https://iptv-epg.org/images/_OVrg9-odJxoqDRxmBTHHKEncrIPa96kcVZioZD2tYJxd5pqSwHUuqLbPvXo_ZvT6RukAGzHoGiTeVgVOBujOocQ38DInIx_3mir_oLfBZgv" width="100" height="50">|TVVendee.fr|fr||
 |<img src="https://www.programme-tv.net/imgre/fit/~2~channel~4f89934309c38843.png/480x480/quality/100/tntv-france.png" width="100" height="50">|TahitiNuiTV.fr|fr||
-|<img src="https://upload.wikimedia.org/wikipedia/fr/2/20/T%C3%A9b%C3%A9Sud_logo_2013.png" width="100" height="50">|~~TebeSud.fr~~|fr||
-|<img src="https://www.programme-tv.net/imgre/fit/~2~channel~1a03f02780399e00.png/480x480/quality/100/tebeo.png" width="100" height="50">|~~Tebeo.fr~~|fr||
+|<img src="https://upload.wikimedia.org/wikipedia/fr/2/20/T%C3%A9b%C3%A9Sud_logo_2013.png" width="100" height="50">|TebeSud.fr|fr||
+|<img src="https://www.programme-tv.net/imgre/fit/~2~channel~1a03f02780399e00.png/480x480/quality/100/tebeo.png" width="100" height="50">|Tebeo.fr|fr||
 |<img src="https://static-cdn.tv.sfr.net/data/logos/tv_services/Tele_Bocal_color.png" width="100" height="50">|TeleBocal.fr|fr||
 |<img src="https://iptv-epg.org/images/P3AChyCFZkLfqNEh_nS2Oj0PgxKw3CVEeD1vUPfE6oAuj8Df23rkTkZNX5XntCoep2vzIzupAm4UjEvY47KsKkfzX5Q2bNy-SbrFW4EY-pb4LMmJrA" width="100" height="50">|~~TeleGrenoble.fr~~|fr||
 |<img src="https://www.programme-tv.net/imgre/fit/~2~channel~a9c6360b76772dd2.png/480x480/quality/100/tele-grenoble-isere.png" width="100" height="50">|TeleGrenobleIsere.fr|fr||
