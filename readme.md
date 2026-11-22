@@ -4,7 +4,7 @@
 [![grab](https://github.com/Fazzani/grab/actions/workflows/grab.yml/badge.svg)](https://github.com/Fazzani/grab/actions/workflows/grab.yml)
 
 ![Channel count](https://img.shields.io/static/v1?style=for-the-badge&label=channel%20count&message=1358&color=9cf&cacheSeconds=3600)
-![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=63.92%&color=yellow&cacheSeconds=3600)
+![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=64.21%&color=yellow&cacheSeconds=3600)
 
 ## Available epg
 
@@ -498,7 +498,7 @@
 |<img src="https://thumb.canalplus.pro/http/unsafe/640x480/filters:quality(100)/canalplus-cdn.canal-plus.io/p1/channel/200046/canal-ouah/CHN43FB/PREMIEREPOLYNESIE_NOIR_myCANAL_640x480?=.png" width="100" height="50">|~~Polynesie1.fr~~|fr||
 |<img src="https://www.programme-tv.net/imgre/fit/~2~channel~138de7b2386a5c10.png/480x480/quality/100/polar.png" width="100" height="50">|PolarPlus.fr|fr||
 |<img src="" width="100" height="50">|PlayboyTV.fr|fr||
-|<img src="https://iptv-epg.org/images/IboUFF3IaOrTiclwHCzxm7Ygzym-A1PfrLvP4VGgyhKLcOLEA-KTql4Gx3U6-AkWQzVZw45_WyXnyH9xACr3IVD1s2F8I2mhwPO-0oCkPPFmbyi7" width="100" height="50">|~~Planeteplus.fr~~|fr||
+|<img src="https://iptv-epg.org/images/IboUFF3IaOrTiclwHCzxm7Ygzym-A1PfrLvP4VGgyhKLcOLEA-KTql4Gx3U6-AkWQzVZw45_WyXnyH9xACr3IVD1s2F8I2mhwPO-0oCkPPFmbyi7" width="100" height="50">|Planeteplus.fr|fr||
 |<img src="https://www.programme-tv.net/imgre/fit/~2~channel~aa6befb976febe46.png/480x480/quality/100/planete-aventure-experience.png" width="100" height="50">|PlaneteAction.fr|fr||
 |<img src="https://www.programme-tv.net/imgre/fit/~2~channel~475677d45988adc5.png/480x480/quality/100/planete.png" width="100" height="50">|PlanetePlus.fr|fr||
 |<img src="https://iptv-epg.org/images/7c8M_9bZuqy77M6nsNzdEpOn_YSYW2AN_s_AxVSfmau7jz4V_2Qjd-hgM_n_5_AwZJaYSLyySwxrNqZlaWIY_wdS-6Bh_mP14KNcLH_He4wVoVQ" width="100" height="50">|~~PhoenixCNE.fr~~|fr||
@@ -549,7 +549,7 @@
 |<img src="https://www.programme-tv.net/imgre/fit/~2~channel~a17e094d24ee1484.png/480x480/quality/100/planete-crime-investigation.png" width="100" height="50">|PLANETEJustice.fr|fr||
 |<img src="https://iptv-epg.org/images/usefcnpPMVAe6MMYGQFVqOcozZ1fb8CaOwr47vCIxfMTvzWY6cQe1BITrK0cd7ynKY3sZpZYMHFP-IUeu44T-VjdwQaONlaSpybQEe00oyoSxRYg1SDMxA" width="100" height="50">|~~PLANETE+CRIME.fr~~|fr||
 |<img src="https://iptv-epg.org/images/3Wq37ufoniH0DfMtC_evzErIUcA-uikWbtVTRmOvOlWhi75bDEcre1Dnr1eVqWkGDWGUfGvy4-LPg6ZnSYPgWnzX3zRqYBkbZfsPRGe4lnDynE7DU4lkhQ" width="100" height="50">|~~PLANETE+AandE.fr~~|fr||
-|<img src="https://iptv-epg.org/images/syEa5lbhg7MxEnOAYjn16cjrojtwKOvEK0qXufiBv80yhn0WM6PC9YUtfTtE0rWnBqW8_XsKBgujdNeR3nTkNShBUzpa34e-YTMEtDYLgMoZx1QNw2HjaMt2gA" width="100" height="50">|~~PLANETE+AVENTURE.fr~~|fr||
+|<img src="https://iptv-epg.org/images/syEa5lbhg7MxEnOAYjn16cjrojtwKOvEK0qXufiBv80yhn0WM6PC9YUtfTtE0rWnBqW8_XsKBgujdNeR3nTkNShBUzpa34e-YTMEtDYLgMoZx1QNw2HjaMt2gA" width="100" height="50">|PLANETE+AVENTURE.fr|fr||
 |<img src="https://www.programme-tv.net/imgre/fit/~2~channel~c35f8535cf204eb6.png/480x480/quality/100/piwi.png" width="100" height="50">|PIWI.fr|fr||
 |<img src="https://iptv-epg.org/images/XBVLvpGFXJIhe6z7Tx2yKmaKxNzJ6RVjOvkMhmsi_rW3PxqhKhTESEHsZndho19_wugBj5dNFa_qpW_-ucM0CTCP0cOT7oPW-EsfXKLXNnA" width="100" height="50">|~~PIWI+.fr~~|fr||
 |<img src="https://iptv-epg.org/images/5trQKwA8F0B7nKa-e2o6QNzZs-yJWNB6sc7eFj-y00N5DIub58LUpZY2fD_9so2SyLTNIUhHNfN06wcGdEvNgDXjeCjZzUmJcnrO8pUyUoUcAj7HgMmNVTUJSQ" width="100" height="50">|~~OlympiqueMarseille.fr~~|fr||
@@ -959,7 +959,7 @@
 |<img src="https://iptv-epg.org/images/4aScdWcLSUe06g4k0FwYlegAZr8hgVUufqdJUbK1PKC7NIyuuDMnK1x8ikLf-9H7TeLaB-MIZuxaDuRt1_r82OLAaRbNNf901DwN1JpZVfc" width="100" height="50">|~~Auxerre.fr~~|fr||
 |<img src="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/NEUFBFMNICECOTEDAZUR100x100.png" width="100" height="50">|AzurTV.fr|fr||
 |<img src="https://iptv-epg.org/images/3pgX6C78eWLxG9tqPu3cVw-OYCuufRNBMcIEbQddJ0ivLKykRk82Ni3iNGu6tcH4noQZn7BkxazA6fcuyc5TO0eEQgeYOXYRguFeoV4wt9sXownqimftX0Y" width="100" height="50">|BBCENTERTAINMENT.fr|fr||
-|<img src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3200001NQ_20260505T035829SQUARE.png" width="100" height="50">|~~BBCEarth.fr~~|fr||
+|<img src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3200001NQ_20260505T035829SQUARE.png" width="100" height="50">|BBCEarth.fr|fr||
 |<img src="https://iptv-epg.org/images/JFGpvQIKBoAjSq4mpzYpZoJh6wz_XTRaWE-wm7am5LIsWLZ6mROe1vSDKEkDnSNYPi4c04BtRyOl1LfTBDq_0HkRPCApkyV--dgGx0_9Uak2-TZqvw" width="100" height="50">|~~BBCWorldNews.fr~~|fr||
 |<img src="https://iptv-epg.org/images/fDGESKjvIy0eWnT4zhx8q-pEqU_wcDRw8wRL6FRUSEDQKu9ikxQIV7bF5o6vvuhSxoNov7UPtYQU8uALxAEYSrh3Bn2sP9BdkD-UeWBUTG6IFaz0vg" width="100" height="50">|~~BBLACKAFRICA.fr~~|fr||
 |<img src="https://iptv-epg.org/images/gldDXQa3YwByq371cZyLlyQbXE0cVJpn0wG1s4P_1fh96ol6tgbTbhLsAbelKQVWUHndTG-MjnfNDf6vzHLVNHEVC5GFF9ABNp-CRx8FMUqkiHZDRP0oiQ" width="100" height="50">|~~BBLACKCARIBBEAN.fr~~|fr||
@@ -1302,7 +1302,7 @@
 |<img src="https://iptv-epg.org/images/I0WhB8umEJgVtUWCveOAqS1m1yFg4DKwALVB09aGlVZWrRnKnMG9cQ-uyQNqHmBJ_er71-ox1EVojLrw6DHUqz_SgfTN5w0la6IPTWzcyg" width="100" height="50">|ETBSat.fr|fr||
 |<img src="https://thumb.canalplus.pro/http/unsafe/640x480/filters:quality(100)/canalplus-cdn.canal-plus.io/p1/channel/160203/canal-ouah/CHN43FB/TELEKREOL_myCANAL_640x480?=.png" width="100" height="50">|TeleKreol.frdrom|frdrom||
 |<img src="https://media.umbraco.io/trace-backoffice/opupyuil/01_2024_trace-_eng_tv-channels-logos-with-zone-inclusion_trace-vanilla-indian-ocean_1200x800_v1.jpg" width="100" height="50">|TraceVanilla.frdrom|frdrom||
-|<img src="https://thumb.canalplus.pro/http/unsafe/640x480/filters:quality(100)/canalplus-cdn.canal-plus.io/p1/channel/160024/canal-ouah/CHN43FB/cinefestival_CHN43FN-SV3n?=.png" width="100" height="50">|~~CinePlusClub.frdrom~~|frdrom||
+|<img src="https://thumb.canalplus.pro/http/unsafe/640x480/filters:quality(100)/canalplus-cdn.canal-plus.io/p1/channel/160024/canal-ouah/CHN43FB/cinefestival_CHN43FN-SV3n?=.png" width="100" height="50">|CinePlusClub.frdrom|frdrom||
 |<img src="https://media0106.elcinema.com/tvguide/1340_1.png" width="100" height="50">|~~MBCIraqEn.iq~~|iq||
 |<img src="https://media0106.elcinema.com/tvguide/1340_1.png" width="100" height="50">|~~MBCIraq.iq~~|iq||
 |<img src="https://media0106.elcinema.com/tvguide/1299_1.png" width="100" height="50">|~~AlRoyaTV.jo~~|jo||
