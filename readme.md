@@ -4,7 +4,7 @@
 [![grab](https://github.com/Fazzani/grab/actions/workflows/grab.yml/badge.svg)](https://github.com/Fazzani/grab/actions/workflows/grab.yml)
 
 ![Channel count](https://img.shields.io/static/v1?style=for-the-badge&label=channel%20count&message=1358&color=9cf&cacheSeconds=3600)
-![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=64.21%&color=yellow&cacheSeconds=3600)
+![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=63.77%&color=yellow&cacheSeconds=3600)
 
 ## Available epg
 
@@ -498,7 +498,7 @@
 |<img src="https://thumb.canalplus.pro/http/unsafe/640x480/filters:quality(100)/canalplus-cdn.canal-plus.io/p1/channel/200046/canal-ouah/CHN43FB/PREMIEREPOLYNESIE_NOIR_myCANAL_640x480?=.png" width="100" height="50">|~~Polynesie1.fr~~|fr||
 |<img src="https://www.programme-tv.net/imgre/fit/~2~channel~138de7b2386a5c10.png/480x480/quality/100/polar.png" width="100" height="50">|PolarPlus.fr|fr||
 |<img src="" width="100" height="50">|PlayboyTV.fr|fr||
-|<img src="https://iptv-epg.org/images/IboUFF3IaOrTiclwHCzxm7Ygzym-A1PfrLvP4VGgyhKLcOLEA-KTql4Gx3U6-AkWQzVZw45_WyXnyH9xACr3IVD1s2F8I2mhwPO-0oCkPPFmbyi7" width="100" height="50">|Planeteplus.fr|fr||
+|<img src="https://iptv-epg.org/images/IboUFF3IaOrTiclwHCzxm7Ygzym-A1PfrLvP4VGgyhKLcOLEA-KTql4Gx3U6-AkWQzVZw45_WyXnyH9xACr3IVD1s2F8I2mhwPO-0oCkPPFmbyi7" width="100" height="50">|~~Planeteplus.fr~~|fr||
 |<img src="https://www.programme-tv.net/imgre/fit/~2~channel~aa6befb976febe46.png/480x480/quality/100/planete-aventure-experience.png" width="100" height="50">|PlaneteAction.fr|fr||
 |<img src="https://www.programme-tv.net/imgre/fit/~2~channel~475677d45988adc5.png/480x480/quality/100/planete.png" width="100" height="50">|PlanetePlus.fr|fr||
 |<img src="https://iptv-epg.org/images/7c8M_9bZuqy77M6nsNzdEpOn_YSYW2AN_s_AxVSfmau7jz4V_2Qjd-hgM_n_5_AwZJaYSLyySwxrNqZlaWIY_wdS-6Bh_mP14KNcLH_He4wVoVQ" width="100" height="50">|~~PhoenixCNE.fr~~|fr||
@@ -549,7 +549,7 @@
 |<img src="https://www.programme-tv.net/imgre/fit/~2~channel~a17e094d24ee1484.png/480x480/quality/100/planete-crime-investigation.png" width="100" height="50">|PLANETEJustice.fr|fr||
 |<img src="https://iptv-epg.org/images/usefcnpPMVAe6MMYGQFVqOcozZ1fb8CaOwr47vCIxfMTvzWY6cQe1BITrK0cd7ynKY3sZpZYMHFP-IUeu44T-VjdwQaONlaSpybQEe00oyoSxRYg1SDMxA" width="100" height="50">|~~PLANETE+CRIME.fr~~|fr||
 |<img src="https://iptv-epg.org/images/3Wq37ufoniH0DfMtC_evzErIUcA-uikWbtVTRmOvOlWhi75bDEcre1Dnr1eVqWkGDWGUfGvy4-LPg6ZnSYPgWnzX3zRqYBkbZfsPRGe4lnDynE7DU4lkhQ" width="100" height="50">|~~PLANETE+AandE.fr~~|fr||
-|<img src="https://iptv-epg.org/images/syEa5lbhg7MxEnOAYjn16cjrojtwKOvEK0qXufiBv80yhn0WM6PC9YUtfTtE0rWnBqW8_XsKBgujdNeR3nTkNShBUzpa34e-YTMEtDYLgMoZx1QNw2HjaMt2gA" width="100" height="50">|PLANETE+AVENTURE.fr|fr||
+|<img src="https://iptv-epg.org/images/syEa5lbhg7MxEnOAYjn16cjrojtwKOvEK0qXufiBv80yhn0WM6PC9YUtfTtE0rWnBqW8_XsKBgujdNeR3nTkNShBUzpa34e-YTMEtDYLgMoZx1QNw2HjaMt2gA" width="100" height="50">|~~PLANETE+AVENTURE.fr~~|fr||
 |<img src="https://www.programme-tv.net/imgre/fit/~2~channel~c35f8535cf204eb6.png/480x480/quality/100/piwi.png" width="100" height="50">|PIWI.fr|fr||
 |<img src="https://iptv-epg.org/images/XBVLvpGFXJIhe6z7Tx2yKmaKxNzJ6RVjOvkMhmsi_rW3PxqhKhTESEHsZndho19_wugBj5dNFa_qpW_-ucM0CTCP0cOT7oPW-EsfXKLXNnA" width="100" height="50">|~~PIWI+.fr~~|fr||
 |<img src="https://iptv-epg.org/images/5trQKwA8F0B7nKa-e2o6QNzZs-yJWNB6sc7eFj-y00N5DIub58LUpZY2fD_9so2SyLTNIUhHNfN06wcGdEvNgDXjeCjZzUmJcnrO8pUyUoUcAj7HgMmNVTUJSQ" width="100" height="50">|~~OlympiqueMarseille.fr~~|fr||
@@ -577,8 +577,8 @@
 |<img src="https://iptv-epg.org/images/dah57WCIc2iSq0twPbu07hA2JpsQZS1Mce0Ibzz8edEd_M9tQNS_f6I4oM9nSvdsn9h2pDu0CtQMipx2IgguctPnuUYQ76L4mLASBIEhD8w" width="100" height="50">|TVTours.fr|fr||
 |<img src="https://iptv-epg.org/images/_OVrg9-odJxoqDRxmBTHHKEncrIPa96kcVZioZD2tYJxd5pqSwHUuqLbPvXo_ZvT6RukAGzHoGiTeVgVOBujOocQ38DInIx_3mir_oLfBZgv" width="100" height="50">|TVVendee.fr|fr||
 |<img src="https://www.programme-tv.net/imgre/fit/~2~channel~4f89934309c38843.png/480x480/quality/100/tntv-france.png" width="100" height="50">|TahitiNuiTV.fr|fr||
-|<img src="https://upload.wikimedia.org/wikipedia/fr/2/20/T%C3%A9b%C3%A9Sud_logo_2013.png" width="100" height="50">|TebeSud.fr|fr||
-|<img src="https://www.programme-tv.net/imgre/fit/~2~channel~1a03f02780399e00.png/480x480/quality/100/tebeo.png" width="100" height="50">|Tebeo.fr|fr||
+|<img src="https://upload.wikimedia.org/wikipedia/fr/2/20/T%C3%A9b%C3%A9Sud_logo_2013.png" width="100" height="50">|~~TebeSud.fr~~|fr||
+|<img src="https://www.programme-tv.net/imgre/fit/~2~channel~1a03f02780399e00.png/480x480/quality/100/tebeo.png" width="100" height="50">|~~Tebeo.fr~~|fr||
 |<img src="https://static-cdn.tv.sfr.net/data/logos/tv_services/Tele_Bocal_color.png" width="100" height="50">|TeleBocal.fr|fr||
 |<img src="https://iptv-epg.org/images/P3AChyCFZkLfqNEh_nS2Oj0PgxKw3CVEeD1vUPfE6oAuj8Df23rkTkZNX5XntCoep2vzIzupAm4UjEvY47KsKkfzX5Q2bNy-SbrFW4EY-pb4LMmJrA" width="100" height="50">|~~TeleGrenoble.fr~~|fr||
 |<img src="https://www.programme-tv.net/imgre/fit/~2~channel~a9c6360b76772dd2.png/480x480/quality/100/tele-grenoble-isere.png" width="100" height="50">|TeleGrenobleIsere.fr|fr||
@@ -959,7 +959,7 @@
 |<img src="https://iptv-epg.org/images/4aScdWcLSUe06g4k0FwYlegAZr8hgVUufqdJUbK1PKC7NIyuuDMnK1x8ikLf-9H7TeLaB-MIZuxaDuRt1_r82OLAaRbNNf901DwN1JpZVfc" width="100" height="50">|~~Auxerre.fr~~|fr||
 |<img src="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/NEUFBFMNICECOTEDAZUR100x100.png" width="100" height="50">|AzurTV.fr|fr||
 |<img src="https://iptv-epg.org/images/3pgX6C78eWLxG9tqPu3cVw-OYCuufRNBMcIEbQddJ0ivLKykRk82Ni3iNGu6tcH4noQZn7BkxazA6fcuyc5TO0eEQgeYOXYRguFeoV4wt9sXownqimftX0Y" width="100" height="50">|BBCENTERTAINMENT.fr|fr||
-|<img src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3200001NQ_20260505T035829SQUARE.png" width="100" height="50">|BBCEarth.fr|fr||
+|<img src="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3200001NQ_20260505T035829SQUARE.png" width="100" height="50">|~~BBCEarth.fr~~|fr||
 |<img src="https://iptv-epg.org/images/JFGpvQIKBoAjSq4mpzYpZoJh6wz_XTRaWE-wm7am5LIsWLZ6mROe1vSDKEkDnSNYPi4c04BtRyOl1LfTBDq_0HkRPCApkyV--dgGx0_9Uak2-TZqvw" width="100" height="50">|~~BBCWorldNews.fr~~|fr||
 |<img src="https://iptv-epg.org/images/fDGESKjvIy0eWnT4zhx8q-pEqU_wcDRw8wRL6FRUSEDQKu9ikxQIV7bF5o6vvuhSxoNov7UPtYQU8uALxAEYSrh3Bn2sP9BdkD-UeWBUTG6IFaz0vg" width="100" height="50">|~~BBLACKAFRICA.fr~~|fr||
 |<img src="https://iptv-epg.org/images/gldDXQa3YwByq371cZyLlyQbXE0cVJpn0wG1s4P_1fh96ol6tgbTbhLsAbelKQVWUHndTG-MjnfNDf6vzHLVNHEVC5GFF9ABNp-CRx8FMUqkiHZDRP0oiQ" width="100" height="50">|~~BBLACKCARIBBEAN.fr~~|fr||
@@ -1012,7 +1012,7 @@
 |<img src="https://iptv-epg.org/images/mBBL7uMFPdKeZmhAAKAmyMLa59aXqeig_-5ynIRqT43OiJZLaTG5ipm89U44CotySQOdiIFVgo6cok8cgjmx0Lbh1W-7FjqK82IFRNvcStz8lrTmJXvT" width="100" height="50">|~~CANAL+LIVE10.fr~~|fr||
 |<img src="https://iptv-epg.org/images/iu467os98GajS_5vTiK-zgdzV-b3xkTE7WwWJnPK49sMbZqAptaLYYJ17Pjej1pSNSiPicLKSwjwgmiHrwXfVnZsbOM3B6eAxPBQ8PNVBPqsIvxkgQsN" width="100" height="50">|~~CANAL+LIVE11.fr~~|fr||
 |<img src="https://iptv-epg.org/images/fiHKbqCpLYXUu2LHkpWHmyb8A8T1zqHgfgEE76fr0HxOHCX1rN1pYvtT9pGw2m-m1zvvOTT5fen1m4DhN8PkI_AcUx1bIVUO4wyXzkRvigmwxcj0XxRM" width="100" height="50">|~~CANAL+LIVE12.fr~~|fr||
-|<img src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/022017/untitled-3_25.jpg?itok=WqGM3_Vy" width="100" height="50">|BrazzersTV.fr|fr||
+|<img src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/022017/untitled-3_25.jpg?itok=WqGM3_Vy" width="100" height="50">|~~BrazzersTV.fr~~|fr||
 |<img src="https://iptv-epg.org/images/CZ_Fs9KuVTRFjLPH8RfrP3dfO7X55U0_16LOFFHVPuvJKItsVq4K1TZCNzTcsvTRZ4fDHCDGNjUMBeB58zqwSlXit3NG1i_saTLRqb3T3Ae1SJfViVyU" width="100" height="50">|~~CANAL+LIVE13.fr~~|fr||
 |<img src="https://iptv-epg.org/images/08RD7ZdB4Y3ChzzViCHb-sJejEofIVvk0OoQCfKfRdP1w8GGmhbqXLrXErBnW2VZe9AihiFWpFCMf5ry4mmzmrAVsH2KI3DmZ6EekPrWwKdPkGvLDfXd" width="100" height="50">|~~CANAL+LIVE15.fr~~|fr||
 |<img src="https://iptv-epg.org/images/_DeKCsvq6BNAraycUeWBYJrezJiRo_tdAjs0B9XOX3Vs-I_C9FASnFJHmvBnJYaWLYAb9ydZC3EPOmP8Kj4lxEwRPOxqdLdmvTF7X6RkXZhfOthhFN1L" width="100" height="50">|~~CANAL+LIVE16.fr~~|fr||
