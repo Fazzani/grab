@@ -4,7 +4,7 @@
 [![grab](https://github.com/Fazzani/grab/actions/workflows/grab.yml/badge.svg)](https://github.com/Fazzani/grab/actions/workflows/grab.yml)
 
 ![Channel count](https://img.shields.io/static/v1?style=for-the-badge&label=channel%20count&message=1358&color=9cf&cacheSeconds=3600)
-![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=63.92%&color=yellow&cacheSeconds=3600)
+![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=63.84%&color=yellow&cacheSeconds=3600)
 
 ## Available epg
 
@@ -702,7 +702,7 @@
 |<img src="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/img300RMCTALKSPORTmono.png" width="100" height="50">|RMCTalkSport.fr|fr||
 |<img src="https://iptv-epg.org/images/IDQJzEpCqDf1DUWdWf1-bl_y4XCQme9eyrekzBNvEXb2HncDq3ytOYx-9epFqSdM-e-y8G6KAvyozqoi2vGfIceHVUfoKtD0Hj7R0OrBkg" width="100" height="50">|RMCWOW.fr|fr||
 |<img src="https://iptv-epg.org/images/xZKM2wQV16tXqs9IZ-NdA1kZ4VubBie9dph3rFk95mjBEUHr5iCAYyG0RJyDQX9k9k6EtxUUnNAraKs6KxJl-4uO00-4vQc29Ns03w" width="100" height="50">|RTB.fr|fr||
-|<img src="https://iptv-epg.org/images/nBERlQZdSoLmH6IqycH_2eMI1J5stdwSUz86IThGXCrfcshPa3pRb_gmKIBD-I5ax9IAXm0kiEiTY-7GjZMufbdGXGUKYFYUI2TW9N9m_v1I" width="100" height="50">|RTFRANCE.fr|fr||
+|<img src="https://iptv-epg.org/images/nBERlQZdSoLmH6IqycH_2eMI1J5stdwSUz86IThGXCrfcshPa3pRb_gmKIBD-I5ax9IAXm0kiEiTY-7GjZMufbdGXGUKYFYUI2TW9N9m_v1I" width="100" height="50">|~~RTFRANCE.fr~~|fr||
 |<img src="https://iptv-epg.org/images/5YnXKaqFuveBquznipNePoLAK17cV49nvZJxK2YyYLEQjnCDIzmAHApMwSqwVtF9OuqCaChiSRrl2yKoNGZ1slREb5UTNuNUjOcaaQ" width="100" height="50">|~~RTG.fr~~|fr||
 |<img src="https://iptv-epg.org/images/sB7ENoE-ok6FbrUYfso9xQQDO9d7AkUKBWb2anSK5hBxkTNwVqjV-bDcxQb8q6xf1HPj3KIXa-7gz5G2_Zk96h4KxKlxuqpCFfHkKJc" width="100" height="50">|~~RTI1.fr~~|fr||
 |<img src="https://iptv-epg.org/images/_MEHq1caJB6Zhov_PNpn7Awa4u3N7YINJcApjCo7rz3tR332nFIZwFVUvNDgabBPuIGrR9gkxlKWGfvWV2tJZakCQtVi9SGv1d5o3yk" width="100" height="50">|~~RTL2.fr~~|fr||
