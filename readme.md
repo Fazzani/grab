@@ -4,7 +4,7 @@
 [![grab](https://github.com/Fazzani/grab/actions/workflows/grab.yml/badge.svg)](https://github.com/Fazzani/grab/actions/workflows/grab.yml)
 
 ![Channel count](https://img.shields.io/static/v1?style=for-the-badge&label=channel%20count&message=1358&color=9cf&cacheSeconds=3600)
-![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=63.84%&color=yellow&cacheSeconds=3600)
+![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=63.77%&color=yellow&cacheSeconds=3600)
 
 ## Available epg
 
@@ -677,7 +677,7 @@
 |<img src="https://iptv-epg.org/images/HtrWFpYDn-C97IyGpDoEv3LmKqEw_XMzr2WEqx_hW-2qS7d1neDM81dB-hfte83lQHA9Dz_9UAyEGNhDxKVolaFpCiPWnqoizSxhy9ZaEEwgFQ" width="100" height="50">|UshuaiaTV.fr|fr||
 |<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP_d4dzC_OxuU1tK8kVzLy8gTfuoG95QKbCTSAC2aFCPEWe2rByUXS883FBVM&amp;s" width="100" height="50">|~~VH1Classic.fr~~|fr||
 |<img src="https://iptv-epg.org/images/jeQR2oNI2JDplY51BfjeCTXSQbHmHm02lCBdTXomMRiS7SKC2KbROToVTnkqIT7hT4gEk0glBQgo652Q-cd0g_QNPLl_uFjCSDeOiNPySvI7iziLtjI" width="100" height="50">|~~VIAGRANDPARIS.fr~~|fr||
-|<img src="https://iptv-epg.org/images/QQ0xDxH3OASsdiAJObY0lD6hfLPGaygp3D40PGfWqc4DP6fDtEFJorubiTnv5235PUxcrDRtl581-WAbCeM4eStPLLmeZxmqlVINhVRIIRZoa2YbUA" width="100" height="50">|VIAMirabelle.fr|fr||
+|<img src="https://iptv-epg.org/images/QQ0xDxH3OASsdiAJObY0lD6hfLPGaygp3D40PGfWqc4DP6fDtEFJorubiTnv5235PUxcrDRtl581-WAbCeM4eStPLLmeZxmqlVINhVRIIRZoa2YbUA" width="100" height="50">|~~VIAMirabelle.fr~~|fr||
 |<img src="https://iptv-epg.org/images/jWivM8u1QPnLdzlt8BTp29Fb2Ji5zxKXPtls4fGtIBMzb1F4JdcFGZN59BdASEY-VEa8Tikf1_hb7ex1zMdoXrUKms5dN7Aws4bV0EEZcpgk0g" width="100" height="50">|~~VIAVosges.fr~~|fr||
 |<img src="https://iptv-epg.org/images/5tC62BliYgZyadHCvDfrx5mnSlY3rlE0L6nBYuHpLCSRpddIaIJXwnxEQ4xK0tXjT1gqbWarxu4nqxhpJly4x7nsHxqq0xwdrOJR7cT69w" width="100" height="50">|VICETV.fr|fr||
 |<img src="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/NEUFBFMTOULONVAR100x100.png" width="100" height="50">|VarAzur.fr|fr||
