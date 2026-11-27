@@ -4,7 +4,7 @@
 [![grab](https://github.com/Fazzani/grab/actions/workflows/grab.yml/badge.svg)](https://github.com/Fazzani/grab/actions/workflows/grab.yml)
 
 ![Channel count](https://img.shields.io/static/v1?style=for-the-badge&label=channel%20count&message=1358&color=9cf&cacheSeconds=3600)
-![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=63.77%&color=yellow&cacheSeconds=3600)
+![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=63.84%&color=yellow&cacheSeconds=3600)
 
 ## Available epg
 
@@ -1012,7 +1012,7 @@
 |<img src="https://iptv-epg.org/images/mBBL7uMFPdKeZmhAAKAmyMLa59aXqeig_-5ynIRqT43OiJZLaTG5ipm89U44CotySQOdiIFVgo6cok8cgjmx0Lbh1W-7FjqK82IFRNvcStz8lrTmJXvT" width="100" height="50">|~~CANAL+LIVE10.fr~~|fr||
 |<img src="https://iptv-epg.org/images/iu467os98GajS_5vTiK-zgdzV-b3xkTE7WwWJnPK49sMbZqAptaLYYJ17Pjej1pSNSiPicLKSwjwgmiHrwXfVnZsbOM3B6eAxPBQ8PNVBPqsIvxkgQsN" width="100" height="50">|~~CANAL+LIVE11.fr~~|fr||
 |<img src="https://iptv-epg.org/images/fiHKbqCpLYXUu2LHkpWHmyb8A8T1zqHgfgEE76fr0HxOHCX1rN1pYvtT9pGw2m-m1zvvOTT5fen1m4DhN8PkI_AcUx1bIVUO4wyXzkRvigmwxcj0XxRM" width="100" height="50">|~~CANAL+LIVE12.fr~~|fr||
-|<img src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/022017/untitled-3_25.jpg?itok=WqGM3_Vy" width="100" height="50">|~~BrazzersTV.fr~~|fr||
+|<img src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/022017/untitled-3_25.jpg?itok=WqGM3_Vy" width="100" height="50">|BrazzersTV.fr|fr||
 |<img src="https://iptv-epg.org/images/CZ_Fs9KuVTRFjLPH8RfrP3dfO7X55U0_16LOFFHVPuvJKItsVq4K1TZCNzTcsvTRZ4fDHCDGNjUMBeB58zqwSlXit3NG1i_saTLRqb3T3Ae1SJfViVyU" width="100" height="50">|~~CANAL+LIVE13.fr~~|fr||
 |<img src="https://iptv-epg.org/images/08RD7ZdB4Y3ChzzViCHb-sJejEofIVvk0OoQCfKfRdP1w8GGmhbqXLrXErBnW2VZe9AihiFWpFCMf5ry4mmzmrAVsH2KI3DmZ6EekPrWwKdPkGvLDfXd" width="100" height="50">|~~CANAL+LIVE15.fr~~|fr||
 |<img src="https://iptv-epg.org/images/_DeKCsvq6BNAraycUeWBYJrezJiRo_tdAjs0B9XOX3Vs-I_C9FASnFJHmvBnJYaWLYAb9ydZC3EPOmP8Kj4lxEwRPOxqdLdmvTF7X6RkXZhfOthhFN1L" width="100" height="50">|~~CANAL+LIVE16.fr~~|fr||
