@@ -4,7 +4,7 @@
 [![grab](https://github.com/Fazzani/grab/actions/workflows/grab.yml/badge.svg)](https://github.com/Fazzani/grab/actions/workflows/grab.yml)
 
 ![Channel count](https://img.shields.io/static/v1?style=for-the-badge&label=channel%20count&message=1358&color=9cf&cacheSeconds=3600)
-![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=63.84%&color=yellow&cacheSeconds=3600)
+![Completeness](https://img.shields.io/static/v1?style=for-the-badge&label=Completeness&message=63.77%&color=yellow&cacheSeconds=3600)
 
 ## Available epg
 
@@ -279,7 +279,7 @@
 |<img src="https://www.programme-tv.net/imgre/fit/~2~channel~58cb299937064735.png/480x480/quality/100/vtm3.png" width="100" height="50">|VTM3.be|be||
 |<img src="https://www.programme-tv.net/imgre/fit/~2~channel~32f22a87326e6887.png/480x480/quality/100/vtm2.png" width="100" height="50">|VTM2.be|be||
 |<img src="https://www.programme-tv.net/imgre/fit/~2~channel~c279c590c7e381c4.png/480x480/quality/100/vtm.png" width="100" height="50">|VTM.be|be||
-|<img src="" width="100" height="50">|VOOSportWorld3.be|be||
+|<img src="" width="100" height="50">|~~VOOSportWorld3.be~~|be||
 |<img src="https://www.programme-tv.net/imgre/fit/~2~channel~3234807dd29dcf3f.png/480x480/quality/100/voosport-world-2.png" width="100" height="50">|VOOSportWorld2.be|be||
 |<img src="" width="100" height="50">|PickxPlusSports8N.be|be||
 |<img src="https://www.programme-tv.net/imgre/fit/~2~channel~8534ffe50925cbb8.png/480x480/quality/100/voosport-world-1.png" width="100" height="50">|VOOSportWorld1.be|be||
